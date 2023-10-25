@@ -3,10 +3,9 @@ Irish translation for RimWorld.
 
 See this page for license info : http://ludeon.com/forums/index.php?topic=2933.0
 
+Please note that this translation is currently in Beta/under development and is *not finished*
 
-#################################
 # AN tAISTRIÚCHÁN GAEILGE AR RIMWORLD #
-#################################
 
 ### MAIDIR LEIS AN AISTRIÚCHÁN SEO ###
 Tá an leagan seo á fhorbairt go fóill agus *níl sé críochnaithe*.
