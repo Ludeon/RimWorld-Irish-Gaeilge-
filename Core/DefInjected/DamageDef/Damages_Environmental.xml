@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn -->
+  <Burn.label>dó</Burn.label>
+  <!-- EN: {0} has burned to death. -->
+  <Burn.deathMessage>Dódh {0} chun báis.</Burn.deathMessage>
+  
+  <!-- EN: flame -->
+  <Flame.label>tine</Flame.label>
+  <!-- EN: {0} has burned to death. -->
+  <Flame.deathMessage>Dódh {0} chun báis.</Flame.deathMessage>
+  
+  <!-- EN: frostbite -->
+  <Frostbite.label>dó seaca</Frostbite.label>
+  <!-- EN: {0} has succumbed to frostbite. -->
+  <Frostbite.deathMessage>Básaíodh {0} de bharr dó seaca.</Frostbite.deathMessage>
+  
+  <!-- EN: scratch -->
+  <TornadoScratch.label>scríobhadh</TornadoScratch.label>
+  <!-- EN: {0} has been killed by a tornado. -->
+  <TornadoScratch.deathMessage>Maraíodh {0} i dtornádó.</TornadoScratch.deathMessage>
+  
+</LanguageData>

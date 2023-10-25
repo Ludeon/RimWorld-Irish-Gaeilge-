@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {RELICNAME} at ritual -->
+  <RelicAtRitual.stages.at_ritual.label>{RELICNAME} au rituel</RelicAtRitual.stages.at_ritual.label>
+  <!-- EN: {RELICNAME} was present during our ritual. -->
+  <RelicAtRitual.stages.at_ritual.description>{RELICNAME} était présent lors de notre rituel.</RelicAtRitual.stages.at_ritual.description>
+  <!-- EN: two relics at ritual -->
+  <RelicAtRitual.stages.two_relics_at_ritual.label>deux reliques au rituel</RelicAtRitual.stages.two_relics_at_ritual.label>
+  <!-- EN: Two relics were present during our ritual. -->
+  <RelicAtRitual.stages.two_relics_at_ritual.description>Deux reliques étaient présentes lors de notre rituel.</RelicAtRitual.stages.two_relics_at_ritual.description>
+  <!-- EN: three relics at ritual -->
+  <RelicAtRitual.stages.three_relics_at_ritual.label>trois reliques au rituel</RelicAtRitual.stages.three_relics_at_ritual.label>
+  <!-- EN: Three relics were present during our ritual. -->
+  <RelicAtRitual.stages.three_relics_at_ritual.description>Trois reliques étaient présentes lors de notre rituel.</RelicAtRitual.stages.three_relics_at_ritual.description>
+  
+  <!-- EN: convicted -->
+  <TrialConvicted.stages.convicted.label>condamné</TrialConvicted.stages.convicted.label>
+  <!-- EN: I was unjustly convicted of a terrible wrongdoing! -->
+  <TrialConvicted.stages.convicted.description>J'ai été injustement reconnu coupable d'un acte répréhensible terrible !</TrialConvicted.stages.convicted.description>
+  
+  <!-- EN: exonerated -->
+  <TrialExonerated.stages.exonerated.label>acquitté</TrialExonerated.stages.exonerated.label>
+  <!-- EN: They had nothing on me, and I showed them! -->
+  <TrialExonerated.stages.exonerated.description>Ils n'avaient rien contre moi, et je leur ai montré !</TrialExonerated.stages.exonerated.description>
+  
+  <!-- EN: failed trial -->
+  <TrialFailed.stages.failed_trial.label>procès raté</TrialFailed.stages.failed_trial.label>
+  <!-- EN: I made an accusation and couldn't even make it stick. This is humiliating. -->
+  <TrialFailed.stages.failed_trial.description>J'ai accusé et je n'ai même pas pu le faire condamner. C'est humiliant.</TrialFailed.stages.failed_trial.description>
+  
+</LanguageData>

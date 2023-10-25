@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>spokeof->spoke about</li>
+    <li>spokeof->talked about</li>
+    <li>spokeof->offered thoughts on</li>
+    <li>spokeof->discussed</li>
+    <li>spokeof->explained</li>
+    <li>spokeof->described</li>
+    <li>praised->gave a speech about</li>
+    <li>praised->spoke about</li>
+    <li>praised->talked about</li>
+    <li>praised->praised</li>
+    <li>praised->extolled the virtues of</li>
+    <li>praised->acclaimed</li>
+    <li>praised->heaped glory on</li>
+    <li>praised->raved about</li>
+  -->
+  <SpeechUtility.rulePack.rulesStrings>
+    <!--NOTE: possible double "de de". Normalement, cela devrait être
+      éliminé par un traitement du languageWorker (mais temps CPU gaspillé).
+      "[speechtopic]" et "[praisetopic]" dans Ideology/DefInjected/InteractionDef/Interactions_Speech.xml
+      commencent déjà avec "de/du/des".
+      - enlever les "de" final ici (à vérifier dans le jeu)
+    -->
+    <li>spokeof->a parlé de</li>
+    <li>spokeof->a parlé de</li>
+    <li>spokeof->a offert des réflexions à propos de</li>
+    <li>spokeof->a discuté de</li>
+    <li>spokeof->a donné l'explication de</li>
+    <li>spokeof->a fait la description de</li>
+    <li>praised->a prononcé un discours à propos de</li>
+    <li>praised->a parlé de</li>
+    <li>praised->a parlé de</li>
+    <li>praised->a vanté les mérites de</li>
+    <li>praised->a loué les vertus de</li>
+    <li>praised->a parlé des qualités de</li>
+    <li>praised->a chanté les louages de</li>
+    <li>praised->a fait l'éloge de</li>
+  </SpeechUtility.rulePack.rulesStrings>
+  
+</LanguageData>

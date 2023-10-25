@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: A story generator by Tynan Sylvester -->
+  <MainPageCredit>Cluiche scéalaíochta le Tynan Sylvester</MainPageCredit>
+
+  <!-- EN: Engineering -->
+  <Credits_Developers>Innealtóireacht</Credits_Developers>
+  <!-- EN: Audio -->
+  <Credit_MusicAndSound>Fuaim</Credit_MusicAndSound>
+  <!-- EN: Art -->
+  <Credit_GameArt>Ealaíon</Credit_GameArt>
+  <!-- EN: Menu art -->
+  <Credit_MenuArt>Ealaíon (Roghchlár)</Credit_MenuArt>
+  <!-- EN: Additional engineering -->
+  <Credits_AdditionalDevelopment>Innealtóireacht bhreise</Credits_AdditionalDevelopment>
+  <!-- EN: Community volunteers -->
+  <Credits_TitleCommunity>Oibrithe deonacha</Credits_TitleCommunity>
+  <!-- EN: Community testers -->
+  <Credits_TitleTester>Tástálaithe deonacha</Credits_TitleTester>
+  <!-- EN: Mods -->
+  <Credits_TitleMods>Modanna</Credits_TitleMods>
+  <!-- EN: Mod donor -->
+  <Credit_ModDonation>Deontóir modanna</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Scríobhneoir deonach</Credit_WritingDonation>
+  <!-- EN: Moderator -->
+  <Credit_Moderator>Modhnóir</Credit_Moderator>
+  <!-- EN: Wiki master -->
+  <Credit_WikiMaster>Vicí</Credit_WikiMaster>
+  <!-- EN: Test lead -->
+  <Credit_TestLead>Príomh-thástálaí</Credit_TestLead>
+  <!-- EN: {0} language -->
+  <Credits_TitleLanguage>Teanga: {0}</Credits_TitleLanguage>
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>Go raibh maith agat as imirt!</ThanksForPlaying>
+
+  <!-- Currently unused -->
+  <!-- EN: Special thanks -->
+  <Credit_SpecialThanks>Buíochas speisialta</Credit_SpecialThanks>
+
+</LanguageData>

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cataphract armor -->
+  <Apparel_ArmorCataphract.label>armure de cataphracte</Apparel_ArmorCataphract.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorCataphract.description>Une armure lourde, conçue pour une protection maximale au détriment de la mobilité. Les plaques d'armure lourdes en plastacier et leurs solides revêtements ablatifs arrêtent toutes les attaques, à l"exception des plus ciblées ou des plus puissantes. Les assistants neuro-mémétiques empêchent le poids massif de la combinaison d'immobiliser entièrement le porteur, mais la combinaison reste encore assez encombrante.\n\nUne armure comme celle-ci est utilisée par les cataphractes impériaux pour briser les positions fortement fortifiées lors d'attaques frontales lorsqu'aucune autre option n'est disponible.</Apparel_ArmorCataphract.description>
+  
+  <!-- EN: phoenix armor -->
+  <Apparel_ArmorCataphractPhoenix.label>armure phoenix</Apparel_ArmorCataphractPhoenix.label>
+  <!-- EN: A variant of cataphract armor with a shoulder-mounted flamebolt launcher. This armor is slightly less protective than standard cataphract armor against normal damage, but is especially flame-resistant. The flamebolt launcher has very limited ammo and must be reloaded after use.\n\nPhoenixes specialize in clearing out very confined spaces full of enemies, as in underground or shipborne operations. They can absorb hits while moving down a corridor, fill rooms with flame, and emerge from the smoke unscathed. -->
+  <Apparel_ArmorCataphractPhoenix.description>Une variante de l'armure cataphracte avec un lance-flammes monté sur l'épaule. Cette armure est légèrement moins protectrice que l'armure cataphracte standard contre les dommages normaux, mais est particulièrement résistante aux flammes. Le lance-flammes a des munitions très limitées et doit être rechargé après utilisation.\n\nLes phoenix se spécialisent dans le nettoyage des espaces très confinés pleins d'ennemis, comme lors des opérations souterraines ou navales. Ils peuvent encaisser les coups tout en se déplaçant dans un couloir, enflammer les pièces et sortir indemnes à travers la fumée.</Apparel_ArmorCataphractPhoenix.description>
+  <!-- EN: incendiary -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>incendiaire</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>rechargement</Apparel_ArmorCataphractPhoenix.comps.CompReloadable.cooldownGerund>
+  <!-- EN: launch incendiary -->
+  <Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>enflammer</Apparel_ArmorCataphractPhoenix.verbs.launch_incendiary.label>
+  
+  <!-- EN: prestige cataphract armor -->
+  <Apparel_ArmorCataphractPrestige.label>prestigieuse armure de cataphracte</Apparel_ArmorCataphractPrestige.label>
+  <!-- EN: A suit of heavy powered armor, built for maximum protection at the cost of mobility. Heavy layered plasteel-weave plates with solid ablative coatings stop all but the most well-aimed or powerful attacks. Neuro-memetic assistors prevent the suit's massive weight from immobilizing the wearer entirely, but the suit is still quite cumbersome.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorCataphractPrestige.description>Une armure lourde, conçue pour une protection maximale au détriment de la mobilité. Les plaques d'armure lourdes en plastacier et leurs solides revêtements ablatifs arrêtent toutes les attaques, à l'exception des plus ciblées ou des plus puissantes. Les assistants neuro-mémétiques empêchent le poids massif de la combinaison d'immobiliser entièrement le porteur, mais la combinaison reste encore assez encombrante.\n\nCoûteuse et magnifique, une armure de prestige comme celle-ci est généralement conçue pour des personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</Apparel_ArmorCataphractPrestige.description>
+  
+  <!-- EN: cataphract helmet -->
+  <Apparel_ArmorHelmetCataphract.label>casque de cataphracte</Apparel_ArmorHelmetCataphract.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nArmor like this is used by imperial cataphracts to break heavily fortified positions in frontal assaults when no other option is available. -->
+  <Apparel_ArmorHelmetCataphract.description>Un casque de haute technologie lourdement blindé, avec une solide coque de plastacier tissée et un système intégré de vision indirecte pour les angles morts. Il protège contre tous les tirs, à l'exception des plus puissants ou des plus chanceux.\n\nUn casque comme celui-ci est utilisé par les cataphractes impériaux pour briser les positions fortement fortifiées lors d'attaques frontales lorsqu'aucune autre option n'est disponible.</Apparel_ArmorHelmetCataphract.description>
+  
+  <!-- EN: prestige cataphract helmet -->
+  <Apparel_ArmorHelmetCataphractPrestige.label>prestigieux casque de cataphracte</Apparel_ArmorHelmetCataphractPrestige.label>
+  <!-- EN: A heavily-armored high-tech helmet, with a solid plasteel-weave shell and indirect visual system for non-frontal view angles. It protects against all but the most powerful or luckily-aimed shots.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetCataphractPrestige.description>Un casque de haute technologie lourdement blindé, avec une solide coque de plastacier tissée et un système intégré de vision indirecte pour les angles morts. Il protège contre tous les tirs, à l'exception des plus puissants ou des plus chanceux.\n\nCoûteuse et magnifique, une pièce d'armure de prestige comme celle-ci est généralement conçue pour des personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</Apparel_ArmorHelmetCataphractPrestige.description>
+  
+  <!-- EN: prestige recon helmet -->
+  <Apparel_ArmorHelmetReconPrestige.label>prestigieux casque de reconnaissance</Apparel_ArmorHelmetReconPrestige.label>
+  <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorHelmetReconPrestige.description>Un casque de haute technologie avec de l'informatique intégrée et une coque de protection renforcée en plastacier.\n\nCoûteuse et magnifique, une pièce d'armure de prestige comme celle-ci est généralement conçue pour des personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</Apparel_ArmorHelmetReconPrestige.description>
+  
+  <!-- EN: locust armor -->
+  <Apparel_ArmorLocust.label>armure de vol</Apparel_ArmorLocust.label>
+  <!-- EN: A variant of recon armor with an integrated burst rocket for short-ranged flight. Locust armor is slightly less protective than standard recon armor. Each jump consumes a burst of fuel, so the armor must be reloaded after several uses.\n\nUnlike most ultratech military units, locusts train primarily with melee weapons. They usually avoid static shootouts, preferring to jump straight into enemy fortifications and fight hand-to-hand. They do poorly in static defense or confined quarters, but excel in mixed cover or shipcracking operations. -->
+  <Apparel_ArmorLocust.description>Une variante de l'armure de reconnaissance intégrant une fusée dorsale pour le vol à courte distance. L'armure de vol est légèrement moins protectrice que l'armure de reconnaissance standard. Chaque saut consomme une part de son carburant, l'armure doit donc être rechargée après plusieurs utilisations.\n\nContrairement à la plupart des unités militaires ultratech, les "criquets" s'entraînent principalement avec des armes de mêlée. Ils évitent généralement les fusillades statiques, préférant sauter directement sur les fortifications ennemies pour se battre au corps à corps. Peut efficaces dans la défense statique ou dans les quartiers confinés, mais excellentes dans les opérations de couverture mixte et d'abordage des vaisseaux.</Apparel_ArmorLocust.description>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>saut</Apparel_ArmorLocust.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>rechargement</Apparel_ArmorLocust.comps.CompReloadable.cooldownGerund>
+  <!-- EN: jump -->
+  <Apparel_ArmorLocust.verbs.jump.label>saut</Apparel_ArmorLocust.verbs.jump.label>
+  
+  <!-- EN: grenadier armor -->
+  <Apparel_ArmorMarineGrenadier.label>armure de grenadier</Apparel_ArmorMarineGrenadier.label>
+  <!-- EN: A variant of marine armor with an integrated frag launcher on the shoulder. The armor is slightly less protective than standard marine armor. The launcher can only hold a limited amount of ammo and must be reloaded after use.\n\nGrenadiers usually specialize in breaching buildings or internal ship bulkheads. While not effective at very long range, grenadiers can be surprisingly deadly in confined quarters. -->
+  <Apparel_ArmorMarineGrenadier.description>Une variante de l'armure commando équipée d'un lanceur de grenades intégré sur l'épaule. L'armure est légèrement moins protectrice que l'armure commando standard. Le lanceur ne peut contenir qu'une quantité limitée de munitions et doit être rechargé après utilisation.\n\nLes grenadiers se spécialisent généralement dans la perforation des bâtiments ou des cloisons internes des vaisseaux. Bien qu'ils ne soient pas efficaces à très longue distance, les grenadiers peuvent se montrer étonnamment mortels dans les espaces confinés.</Apparel_ArmorMarineGrenadier.description>
+  <!-- EN: grenade -->
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>grenade</Apparel_ArmorMarineGrenadier.comps.CompReloadable.chargeNoun>
+  <!-- EN: on cooldown -->
+  <Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>rechargement</Apparel_ArmorMarineGrenadier.comps.CompReloadable.cooldownGerund>
+  <!-- EN: launch frag grenade -->
+  <Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>lancer une grenade frag</Apparel_ArmorMarineGrenadier.verbs.launch_frag_grenade.label>
+  
+  <!-- EN: prestige marine helmet -->
+  <Apparel_ArmorMarineHelmetPrestige.label>prestigieux casque de commando</Apparel_ArmorMarineHelmetPrestige.label>
+  <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarineHelmetPrestige.description>Un casque d'armure lourde, avec un ordinateur intégré et des plaques de plastacier tissées en couches.\n\nCoûteuse et magnifique, une pièce d'armure de prestige comme celle-ci est généralement conçue pour des personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</Apparel_ArmorMarineHelmetPrestige.description>
+  
+  <!-- EN: prestige marine armor -->
+  <Apparel_ArmorMarinePrestige.label>prestigieuse armure de commando</Apparel_ArmorMarinePrestige.label>
+  <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorMarinePrestige.description>Une armure motorisée. Les plaques de plastacier tissées en couches sont très efficaces pour arrêter les attaques, malgré quelques faiblesses aux jointures. La robotique neuromimétique permet à un humain de porter cette armure tout en étant capable de se déplacer facilement.\n\nCoûteuse et magnifique, une armure de prestige comme celle-ci est généralement conçue pour des personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</Apparel_ArmorMarinePrestige.description>
+  
+  <!-- EN: prestige recon armor -->
+  <Apparel_ArmorReconPrestige.label>prestigieuse armure de reconnaissance</Apparel_ArmorReconPrestige.label>
+  <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nExpensive and beautiful, prestige armor like this is usually made for those of high status. Embedded eltex threads also enhance the wearer's psychic sensitivity. -->
+  <Apparel_ArmorReconPrestige.description>Une armure légère partiellement motorisée, conçue pour permettre de se mouvoir rapidement. Des plaques légères en plastacier bloquent les attaques sans compromettre la mobilité, et les assistants neuro-mémétiques dans la partie inférieure permettent à un humain de porter l'armure et de se déplacer facilement.\n\nCoûteuse et magnifique, une armure de prestige comme celle-ci est généralement conçue pour des personnes de haut rang. Les fils en eltex intégrés améliorent également la sensibilité psychique du porteur.</Apparel_ArmorReconPrestige.description>
+  
+  <!-- EN: gunlink -->
+  <Apparel_Gunlink.label>ordinateur de ciblage</Apparel_Gunlink.label>
+  <!-- EN: A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all. -->
+  <Apparel_Gunlink.description>Un ordinateur de ciblage qui aide l'utilisateur à viser. Il détecte et analyse les cibles à l'aide de capteurs électromagnétiques infrarouges, visibles et millimétriques. Un ordinateur de ciblage embarqué affiche des solutions de tir sur une projection rétinienne. Il n'offre aucune protection du tout.</Apparel_Gunlink.description>
+  
+  <!-- EN: incendiary grenade -->
+  <Proj_GrenadePhoenixFire.label>grenade incendiaire</Proj_GrenadePhoenixFire.label>
+  
+  <!-- EN: frag grenade -->
+  <Proj_GrenadierGrenade.label>grenade à fragmentation</Proj_GrenadierGrenade.label>
+  
+</LanguageData>

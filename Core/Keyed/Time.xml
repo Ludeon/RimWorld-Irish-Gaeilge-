@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: d -->
+  <LetterDay>l</LetterDay>
+  <!-- EN: h -->
+  <LetterHour>u</LetterHour>
+  <!-- EN: m -->
+  <LetterMinute>n</LetterMinute>
+  <!-- EN: s -->
+  <LetterSecond>s</LetterSecond>
+  <!-- EN: y -->
+  <LetterYear>b</LetterYear>
+
+  <!-- EN: days -->
+  <DaysLower>lá</DaysLower>
+  <!-- EN: hours -->
+  <HoursLower>uair</HoursLower>
+  <!-- EN: seconds -->
+  <SecondsLower>soicind</SecondsLower>
+
+  <!-- EN: spring -->
+  <SeasonSpring>earrach</SeasonSpring>
+  <!-- EN: summer -->
+  <SeasonSummer>samhradh</SeasonSummer>
+  <!-- EN: fall -->
+  <SeasonFall>fómhar</SeasonFall>
+  <!-- EN: winter -->
+  <SeasonWinter>geimhreadh</SeasonWinter>
+  <!-- EN: permanent summer -->
+  <SeasonPermanentSummer>samhradh síoraí</SeasonPermanentSummer>
+  <!-- EN: permanent winter -->
+  <SeasonPermanentWinter>geimhreadh síoraí</SeasonPermanentWinter>
+
+
+  <!-- EN: Aprimay -->
+  <QuadrumAprimay>Earrach</QuadrumAprimay>
+  <!-- EN: Jugust -->
+  <QuadrumJugust>Samhradh</QuadrumJugust>
+  <!-- EN: Septober -->
+  <QuadrumSeptober>Fómhair</QuadrumSeptober>
+  <!-- EN: Decembary -->
+  <QuadrumDecembary>Geimhreadh</QuadrumDecembary>
+
+  <!-- EN: Apr -->
+  <QuadrumAprimay_Short>Ear</QuadrumAprimay_Short>
+  <!-- EN: Jug -->
+  <QuadrumJugust_Short>Sam</QuadrumJugust_Short>
+  <!-- EN: Sep -->
+  <QuadrumSeptober_Short>Fóm</QuadrumSeptober_Short>
+  <!-- EN: Dec -->
+  <QuadrumDecembary_Short>Gmh</QuadrumDecembary_Short>
+  
+  <!-- EN: Born: {0} -->
+  <Born>Rugadh: {0}</Born>
+  <!-- EN: Chronological age: {0} years, {1} quadrums, {2} days -->
+  <AgeChronological>Aois chroineolaíoch: {0} bliain, {1} ceathrú, {2} lá</AgeChronological>
+  <!-- EN: Biological age: {0} years, {1} quadrums, {2} days -->
+  <AgeBiological>Aois bhitheolaíoch: {0} bliain, {1} ceathrú, {2} lá</AgeBiological>
+
+  <!-- Date periods -->
+  <!-- EN: 1 year -->
+  <Period1Year>1 Bliain</Period1Year>
+  <!-- EN: {0} years -->
+  <PeriodYears>{0} Bliain</PeriodYears>
+  <!-- EN: 1 quadrum -->
+  <Period1Quadrum>1 Ceathrú</Period1Quadrum>
+  <!-- EN: {0} quadrums -->
+  <PeriodQuadrums>{0} Ceathrú</PeriodQuadrums>
+  <!-- EN: 1 day -->
+  <Period1Day>1 Lá</Period1Day>
+  <!-- EN: {0} days -->
+  <PeriodDays>{0} Lá</PeriodDays>
+  <!-- EN: 1 hour -->
+  <Period1Hour>1 Uair</Period1Hour>
+  <!-- EN: {0} hours -->
+  <PeriodHours>{0} Uair</PeriodHours>
+  <!-- EN: 1 second -->
+  <Period1Second>1 Soicind</Period1Second>
+  <!-- EN: {0} seconds -->
+  <PeriodSeconds>{0} Soicind</PeriodSeconds>
+
+  <!-- Misc -->
+  <!-- EN: Started -->
+  <Started>Tosaithe</Started>
+  <!-- EN: Lasted -->
+  <Lasted>Ann</Lasted>
+  <!-- EN: occurred {0} ago -->
+  <OccurredTimeAgo>tosaithe{0} ó shin</OccurredTimeAgo>
+  <!-- EN: {0} ago -->
+  <TimeAgo>{0} ó shin</TimeAgo>
+  
+</LanguageData>

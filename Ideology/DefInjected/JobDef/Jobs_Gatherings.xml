@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepting role. -->
+  <AcceptRole.reportString>accepte le rôle.</AcceptRole.reportString>
+  
+  <!-- EN: dancing. -->
+  <Dance.reportString>dance.</Dance.reportString>
+  
+  <!-- EN: eating at TargetA. -->
+  <EatAtCannibalPlatter.reportString>mange à TargetA.</EatAtCannibalPlatter.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <GotoAndBeSociallyActive.reportString>se détend socialement.</GotoAndBeSociallyActive.reportString>
+  
+  <!-- EN: making a skylantern. -->
+  <PrepareSkylantern.reportString>fait une lanterne céleste.</PrepareSkylantern.reportString>
+  
+</LanguageData>

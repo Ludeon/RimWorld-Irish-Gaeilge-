@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: extremely slow -->
+  <Research_ExtremelySlow.label>extrêmement lente</Research_ExtremelySlow.label>
+  <!-- EN: Research isn't a worthwhile activity at all. Why try hard at it? -->
+  <Research_ExtremelySlow.description>La recherche n'est pas du tout une activité qui en vaut la peine. Pourquoi s'y efforcer ?</Research_ExtremelySlow.description>
+  
+  <!-- EN: fast -->
+  <Research_Fast.label>rapide</Research_Fast.label>
+  <!-- EN: Research is an especially virtuous activity. -->
+  <Research_Fast.description>La recherche est une activité particulièrement vertueuse.</Research_Fast.description>
+  
+  <!-- EN: not allowed -->
+  <Research_None.label>interdite</Research_None.label>
+  <!-- EN: To research technology is an immoral act. It is not to be done. -->
+  <Research_None.description>Rechercher une technologie est un acte immoral. Ce n'est pas à faire.</Research_None.description>
+  
+  <!-- EN: normal -->
+  <Research_Normal.label>normale</Research_Normal.label>
+  <!-- EN: Research is a worthwhile form of work that the community needs. -->
+  <Research_Normal.description>La recherche est une forme de travail utile dont la communauté a besoin.</Research_Normal.description>
+  
+  <!-- EN: slow -->
+  <Research_Slow.label>lente</Research_Slow.label>
+  <!-- EN: Research work just isn't particularly meaningful. Why try hard at it? -->
+  <Research_Slow.description>Le travail de recherche n'est tout simplement pas particulièrement significatif. Pourquoi s'y efforcer ?</Research_Slow.description>
+  
+  <!-- EN: very fast -->
+  <Research_VeryFast.label>très rapide</Research_VeryFast.label>
+  <!-- EN: Research is among the most meaningful acts a person can perform. -->
+  <Research_VeryFast.description>La recherche est l'un des actes les plus significatifs qu'une personne puisse accomplir.</Research_VeryFast.description>
+  
+  <!-- EN: very slow -->
+  <Research_VerySlow.label>très lente</Research_VerySlow.label>
+  <!-- EN: Research work is unworthy of serious respect. Better not to be seen trying hard at it. -->
+  <Research_VerySlow.description>Le travail de recherche est indigne de respect. Mieux vaut ne pas être vu en train d'essayer.</Research_VerySlow.description>
+  
+</LanguageData>

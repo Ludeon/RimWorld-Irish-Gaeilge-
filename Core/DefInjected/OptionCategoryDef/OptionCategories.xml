@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: audio -->
+  <Audio.label>Fuaim</Audio.label>
+  
+  <!-- EN: controls -->
+  <Controls.label>Rialtáin</Controls.label>
+  
+  <!-- EN: dev -->
+  <Dev.label>Forbairt</Dev.label>
+  
+  <!-- EN: gameplay -->
+  <Gameplay.label>Imirt</Gameplay.label>
+  
+  <!-- EN: general -->
+  <General.label>Ginearálta</General.label>
+  
+  <!-- EN: graphics -->
+  <Graphics.label>Grafaicí</Graphics.label>
+  
+  <!-- EN: interface -->
+  <Interface.label>Comhéadan</Interface.label>
+  
+  <!-- EN: mod options -->
+  <Mods.label>Modanna</Mods.label>
+  
+</LanguageData>

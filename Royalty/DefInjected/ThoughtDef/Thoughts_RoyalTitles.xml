@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Received {TITLE} title -->
+  <GainedTitle.stages.Received_title.label>A reçu le titre de {TITLE}</GainedTitle.stages.Received_title.label>
+  <!-- EN: I have been given the title of {TITLE}. I love the recognition! -->
+  <GainedTitle.stages.Received_title.description>J'ai reçu le titre de {TITLE}. J'adore la reconnaissance !</GainedTitle.stages.Received_title.description>
+  
+  <!-- EN: Lost {TITLE} title -->
+  <LostTitle.stages.Lost_title.label>Titre de {TITLE} perdu</LostTitle.stages.Lost_title.label>
+  <!-- EN: I lost my {TITLE} title. -->
+  <LostTitle.stages.Lost_title.description>J'ai perdu mon titre de {TITLE}.</LostTitle.stages.Lost_title.description>
+  
+  <!-- EN: want {TITLE_label}-quality apparel -->
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>vêtements dignes du statut de {TITLE_label}</TitleApparelMinQualityNotMet.stages.want_quality_apparel.label>
+  <!-- EN: {TITLE_indefinite} like myself should only wear apparel of {QUALITY} quality or better. -->
+  <TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>Je suis {TITLE_indefinite}, je ne devrais porter que des vêtements de qualité {QUALITY} ou mieux.</TitleApparelMinQualityNotMet.stages.want_quality_apparel.description>
+  
+  <!-- EN: want {TITLE_label}-specific apparel -->
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.label>vêtements de {TITLE_label}</TitleApparelRequirementNotMet.stages.want_specific_apparel.label>
+  <!-- EN: {TITLE_indefinite} like myself should be covered in apparel appropriate to my stature:\n\n{0} -->
+  <TitleApparelRequirementNotMet.stages.want_specific_apparel.description>Je suis {TITLE_indefinite}, je ne devrais porter que des vêtements adaptés à mon titre :\n\n{0}</TitleApparelRequirementNotMet.stages.want_specific_apparel.description>
+  
+  <!-- EN: undignified bedroom -->
+  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>chambre indigne</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.label>
+  <!-- EN: {TITLE_indefinite} like myself deserves a bedroom that meets these requirements:\n\n{0} -->
+  <TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>Je suis {TITLE_indefinite}, je mérite une chambre qui réponde aux exigences suivantes :\n\n{0}</TitleBedroomRequirementsNotMet.stages.undignified_bedroom.description>
+  
+  <!-- EN: no personal bedroom -->
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.label>pas de chambre personnelle</TitleNoPersonalBedroom.stages.no_personal_bedroom.label>
+  <!-- EN: {TITLE_indefinite} should have a personal bedroom. -->
+  <TitleNoPersonalBedroom.stages.no_personal_bedroom.description>{TITLE_indefinite} devrait avoir une chambre personnelle.</TitleNoPersonalBedroom.stages.no_personal_bedroom.description>
+  
+  <!-- EN: no throne room -->
+  <TitleNoThroneRoom.stages.no_throne_room.label>pas de salle du trône</TitleNoThroneRoom.stages.no_throne_room.label>
+  <!-- EN: What is a royal with no throneroom? -->
+  <TitleNoThroneRoom.stages.no_throne_room.description>Qu'est-ce qu'un noble sans salle du trône ?</TitleNoThroneRoom.stages.no_throne_room.description>
+  
+  <!-- EN: undignified throneroom -->
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>salle du trône indigne</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.label>
+  <!-- EN: I am {TITLE_indefinite} and I should have these items in my throneroom:\n\n{0} -->
+  <TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>Je suis {TITLE_indefinite} et à ce titre, dans ma salle du trône, j'ai besoin de :\n\n{0}</TitleThroneroomRequirementsNotMet.stages.undignified_throneroom.description>
+  
+</LanguageData>

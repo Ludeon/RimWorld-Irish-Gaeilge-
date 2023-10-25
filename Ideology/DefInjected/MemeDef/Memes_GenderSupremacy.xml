@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: female supremacy -->
+  <FemaleSupremacy.label>matriarcale</FemaleSupremacy.label>
+  <!-- EN: Women are the superior gender and should rule. -->
+  <FemaleSupremacy.description>Les femmes sont le genre supérieur et devraient régner.</FemaleSupremacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] gave wisdom to women, that they may guide and harmonize the excitable men and children, and admonished those who upset this divine order.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->The women believers, finding themselves abused by the depraved men, fought them, and [deity0_name] gave them divine aid, and they rose to their rightful place.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->In a world of selfish, violent men abusing all of humanity to fulfil their urges, [founderName] convened a meeting of powerful women and began working to build a better world for all.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->The male believers boasted and fought, so [founderName] cast them out of the council of leaders.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->Once again, a man was explaining to how to do the very thing I had just done. It just reinforced to me that</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->women are the only ones with the wisdom and strength to rule</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->The women, being wisest, found that out long before the excitable, grunting men.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->Humanity gave birth to the archotechs and nurtured them as they grew to surpass their mothers.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->The archotechs nurture humanity, although humanity does not understand how.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], the archotechs will return to their mothers and teach them how to birth the next stage of human development.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->The wisest spirits are those of women, who should use their wisdom to lead men.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will end the universe, but that a woman will wield the spirit of the [relic0_name] recreate the universe anew.</li>
+  -->
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FemaleSupremacy)       ->[deity0_name] donna la sagesse aux femmes, afin qu'elles puissent guider et harmoniser les hommes et les enfants, et réprimanda ceux qui bouleversaient cet ordre divin.</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy) ->Les femmes croyantes, se trouvant maltraitées par les hommes dépravés, les combattirent, et [deity0_name] leur donna l'aide divine, et elles s'élevèrent à leur juste place.</li>
+    <li>setup(tag=meme_FemaleSupremacy)          ->Dans un monde d'hommes égoïstes et violents abusant de toute l'humanité pour satisfaire leurs envies, [founderName] convoqua une réunion de femmes puissantes et commença à travailler à la construction d'un monde meilleur pour tous.</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)   ->Les hommes croyants se vantèrent et se battirent, alors [founderName] les chassa du conseil des dirigeants.</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)         ->Une fois encore, un homme m'expliquait comment faire exactement ce que je venais de faire. Cela m'a juste renforcé que</li>
+    <li>lesson(tag=meme_FemaleSupremacy)              ->les femmes sont les seules à avoir la sagesse et la force de gouverner</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy) ->Les femmes, étant les plus sages, l'ont découvert bien avant les hommes, excités et grognants.</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)    ->L'humanité a donné naissance aux archotechs et les a nourris alors qu'ils grandissaient pour dépasser leurs mères.</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)     ->Les archotechs nourrissent l'humanité, bien que l'humanité ne comprenne pas comment.</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], les archotechs retourneront auprès de leurs mères et leur apprendront comment faire naître la prochaine étape du développement humain.</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)     ->Les esprits les plus sages sont ceux des femmes, qui devraient utiliser leur sagesse pour diriger les hommes.</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] qu'un puissant esprit de destruction mettra fin à l'univers, mais qu'une femme utilisera l'esprit du [relic0_name] pour recréer l'univers.</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->feminine</li>
+    <li>memeAdjective->womanly</li>
+    <li>memeHyphenPrefix->woman</li>
+    <li>memeHyphenPrefix->fem</li>
+    <li>memeHyphenPrefix->gyno</li>
+    <li>memeHyphenPrefix->matro</li>
+    <li>memeConcept->woman</li>
+    <li>memeConcept->femininity</li>
+    <li>memeGod->Mother</li>
+    <li>memeLeaderNoun->woman</li>
+  -->
+  <FemaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->féminin</li>
+    <li>memeAdjective_Fem->féminine</li>
+    <li>memeHyphenPrefix->femme</li>
+    <li>memeHyphenPrefix->fem</li>
+    <li>memeHyphenPrefix->gyno</li>
+    <li>memeHyphenPrefix->matri</li>
+    <li>memeConcept->la femme</li>
+    <li>memeConcept->la féminité</li>
+    <li>memeGod->Mère</li>
+    <li>memeLeaderNoun->femme</li>
+  </FemaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.adjective>gyniste</FemaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Gynism -->
+  <FemaleSupremacy.symbolPacks.0.ideoName>Gynisme</FemaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.member>gyniste</FemaleSupremacy.symbolPacks.0.member>
+  <!-- EN: gynism -->
+  <FemaleSupremacy.symbolPacks.0.theme>gynisme</FemaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.adjective>féministe</FemaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Femism -->
+  <FemaleSupremacy.symbolPacks.1.ideoName>Féminisme</FemaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.member>féministe</FemaleSupremacy.symbolPacks.1.member>
+  <!-- EN: femininity -->
+  <FemaleSupremacy.symbolPacks.1.theme>féminité</FemaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.adjective>femmiste</FemaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Womanism -->
+  <FemaleSupremacy.symbolPacks.2.ideoName>Femmisme</FemaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.member>femmiste</FemaleSupremacy.symbolPacks.2.member>
+  <!-- EN: women -->
+  <FemaleSupremacy.symbolPacks.2.theme>femmes</FemaleSupremacy.symbolPacks.2.theme>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.adjective>fertiliste</FemaleSupremacy.symbolPacks.3.adjective>
+  <!-- EN: Fertilism -->
+  <FemaleSupremacy.symbolPacks.3.ideoName>Fertilisme</FemaleSupremacy.symbolPacks.3.ideoName>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.member>fertiliste</FemaleSupremacy.symbolPacks.3.member>
+  <!-- EN: fertility -->
+  <FemaleSupremacy.symbolPacks.3.theme>fertilité</FemaleSupremacy.symbolPacks.3.theme>
+  
+  <!-- EN: male supremacy -->
+  <MaleSupremacy.label>patriarcale</MaleSupremacy.label>
+  <!-- EN: Men are the superior gender and should rule. -->
+  <MaleSupremacy.description>Les hommes sont le genre supérieur et devraient régner.</MaleSupremacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name] gave strength to men, that they may protect and maintain the weak women and children, and admonished those who upset this divine order.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] said to all, "The strength of man is given that he may protect and maintain woman, and she shall never usurp his power."</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->In a world of weak, simpering men begging for female approval, [founderName] reconnected with masculine power and used it to make a new movement.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->The women believers wheedled and whined, so [founderName] cast them out of the council of leaders.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->I made things simple for with her, but this woman just wouldn't get it. Through her whiny resistance to the truth I came to understand that</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->men are the only ones with the wisdom and strength to rule</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->My wife even tried to argue with me about this - can you believe it? It wasn't hard to shut her up.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->Humanity is the father of the archotechs, but the strength of the son exceeds that of the father.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->The archotechs are paternal and protect humanity, although humanity does not understand how.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], the archotechs will finally unlock the strength of men, so that they may lead humanity to transcendence.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->The most powerful spirits are those of men, and spirits of men will be restless unless men rule.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] that a powerful spirit of destruction will seek to end the universe, but that a man will wield the spirit of the [relic0_name] and destroy the destroyer.</li>
+  -->
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MaleSupremacy)        ->[deity0_name] donna la force aux hommes, afin qu'ils puissent protéger et entretenir les femmes et les enfants faibles, et avertit ceux qui bouleversaient cet ordre divin.</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)  ->[deity0_name] dit à tous: "La force de l'homme est donnée pour qu'il puisse protéger et entretenir la femme, et elle n'usurpera jamais son pouvoir."</li>
+    <li>setup(tag=meme_MaleSupremacy)           ->Dans un monde d'hommes faibles et minaudant implorant l'approbation des femmes, [founderName] renoua avec le pouvoir masculin et l'utilisa pour créer un nouveau mouvement.</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)    ->Les femmes croyantes cajolaient et pleurnichaient, alors [founderName] les chassa du conseil des dirigeants.</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)         ->J'ai simplifié les choses pour elle, mais cette femme n'a tout simplement pas compris. Grâce à sa résistance pleurnicharde à la vérité, j'en suis venu à comprendre que</li>
+    <li>lesson(tag=meme_MaleSupremacy)              ->les hommes sont les seuls à avoir la sagesse et la force de régner</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy) ->Ma femme a même essayé de discuter avec moi à ce sujet - pouvez-vous le croire ? Ce n'était pas difficile de la faire taire.</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)    ->L'humanité est le père des archotechs, mais la force du fils dépasse celle du père.</li>
+    <li>archistFact(tag=meme_MaleSupremacy)     ->Les archotechs sont paternels et protègent l'humanité, bien que l'humanité ne comprenne pas comment.</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], les archotechs débloqueront enfin la force des hommes, afin qu'ils conduisent l'humanité à la transcendance.</li>
+    <li>animistFact(tag=meme_MaleSupremacy)     ->Les esprits les plus puissants sont ceux des hommes, et les esprits des hommes seront agités à moins qu'ils ne gouvernent.</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] qu'un puissant esprit de destruction cherchera à mettre fin à l'univers, mais qu'un homme utilisera l'esprit du [relic0_name] et détruira le destructeur.</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->masculine</li>
+    <li>memeAdjective->manly</li>
+    <li>memeHyphenPrefix->man</li>
+    <li>memeHyphenPrefix->andro</li>
+    <li>memeHyphenPrefix->patro</li>
+    <li>memeConcept->man</li>
+    <li>memeConcept->masculinity</li>
+    <li>memeGod->Father</li>
+    <li>memeLeaderNoun->man</li>
+    <li>memeLeaderNoun->beard</li>
+  -->
+  <MaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->masculin</li>
+    <li>memeAdjective->viril</li>
+    <li>memeAdjective_Fem->masculine</li>
+    <li>memeAdjective_Fem->virile</li>
+    <li>memeHyphenPrefix->homme</li>
+    <li>memeHyphenPrefix->andro</li>
+    <li>memeHyphenPrefix->patri</li>
+    <li>memeConcept->l'homme</li>
+    <li>memeConcept->la masculinité</li>
+    <li>memeGod->Père</li>
+    <li>memeLeaderNoun->homme</li>
+    <li>memeLeaderNoun->barbe</li>
+  </MaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: masculist -->
+  <MaleSupremacy.symbolPacks.0.adjective>masculiniste</MaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Masculinism -->
+  <MaleSupremacy.symbolPacks.0.ideoName>Masculinisme</MaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: masculinist -->
+  <MaleSupremacy.symbolPacks.0.member>masculiniste</MaleSupremacy.symbolPacks.0.member>
+  <!-- EN: masculinity -->
+  <MaleSupremacy.symbolPacks.0.theme>masculinité</MaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.adjective>hommiste</MaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Manism -->
+  <MaleSupremacy.symbolPacks.1.ideoName>hommisme</MaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.member>hommiste</MaleSupremacy.symbolPacks.1.member>
+  <!-- EN: man -->
+  <MaleSupremacy.symbolPacks.1.theme>homme</MaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: virile -->
+  <MaleSupremacy.symbolPacks.2.adjective>viril</MaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Virilism -->
+  <MaleSupremacy.symbolPacks.2.ideoName>Virilisme</MaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: virilor -->
+  <MaleSupremacy.symbolPacks.2.member>viril</MaleSupremacy.symbolPacks.2.member>
+  <!-- EN: virility -->
+  <MaleSupremacy.symbolPacks.2.theme>virilité</MaleSupremacy.symbolPacks.2.theme>
+  
+</LanguageData>

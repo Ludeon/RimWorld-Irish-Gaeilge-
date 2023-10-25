@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Jump range -->
+  <JumpRange.label>portée de saut</JumpRange.label>
+  <!-- EN: The maximum jump distance. -->
+  <JumpRange.description>La distance de saut maximale.</JumpRange.description>
+  <!-- EN: {0} c -->
+  <JumpRange.formatString>{0} c</JumpRange.formatString>
+  
+</LanguageData>

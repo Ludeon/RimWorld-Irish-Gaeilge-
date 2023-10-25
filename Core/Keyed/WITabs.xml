@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- WITab titles -->
+  <!-- EN: Terrain -->
+  <TabTerrain>Tír-raon</TabTerrain>
+  <!-- EN: Planet -->
+  <TabPlanet>Plainéad</TabPlanet>
+  <!-- EN: Feeding -->
+  <TabCaravanFeeding>Bia</TabCaravanFeeding>
+  <!-- EN: Social -->
+  <TabCaravanSocial>Sóisialta</TabCaravanSocial>
+  <!-- EN: Health -->
+  <TabCaravanHealth>Sláinte.</TabCaravanHealth>
+  <!-- EN: Needs -->
+  <TabCaravanNeeds>Riachtanais</TabCaravanNeeds>
+  <!-- EN: Gear -->
+  <TabCaravanGear>Trealamh</TabCaravanGear>
+  <!-- EN: Items -->
+  <TabCaravanItems>Earraí</TabCaravanItems>
+  
+  <!-- Misc -->
+  <!-- EN: Abandon {{0}}x {0} -->
+  <AbandonSliderText>Caith amach {{0}}x {0}</AbandonSliderText>
+  <!-- EN: Do you really want to abandon {0}?\n\nAbandoned items vanish and can never be recovered. -->
+  <ConfirmAbandonItemDialog>An  bhfuil tú ag iarraidh '{0}' a chaitheamh amach?\n\nNí bheidh tú in ann earraí a chaitear amach a fháil ar ais.</ConfirmAbandonItemDialog>
+  <!-- EN: Abandon -->
+  <AbandonTip>Caith amach</AbandonTip>
+  <!-- EN: Banish -->
+  <BanishTip>Ruaig</BanishTip>
+  <!-- EN: Abandon specific count -->
+  <AbandonSpecificCountTip>Caith amach méid áirithe</AbandonSpecificCountTip>
+  <!-- EN: Abandon (all) -->
+  <AbandonAllTip>Caith amach (gach rud)</AbandonAllTip>
+  <!-- EN: Abandoned items vanish and can never be recovered. -->
+  <AbandonItemTipExtraText>Ní bheidh tú in ann aon earraí a chaitear amach a fháil ar ais.</AbandonItemTipExtraText>
+  <!-- EN: {1_labelShort} will most likely die. -->
+  <BanishTipWillDie>Tá an cuma ar an scéal go bhfuil {1_labelShort} dul bás a fháil.</BanishTipWillDie>
+  
+  <!-- Caravan inspect -->
+  <!-- EN: Colonists -->
+  <CaravanColonists>Coilínigh</CaravanColonists>
+  <!-- EN: Prisoners and animals -->
+  <CaravanPrisonersAndAnimals>Priosúnaigh agus Ainmhithe</CaravanPrisonersAndAnimals>
+  <!-- EN: Inventory -->
+  <CaravanItems>Fardal</CaravanItems>
+  <!-- EN: Click to open a tab with more details. -->
+  <OpenSpecificTabButtonTip>Cliceáil chun tab a oscailt le tuilleadh sonraí.</OpenSpecificTabButtonTip>
+  <!-- EN: Prisoners -->
+  <CaravanPrisoners>Priosúnaigh</CaravanPrisoners>
+  <!-- EN: Equippable items -->
+  <CaravanWeaponsAndApparel>Earraí infheistithe</CaravanWeaponsAndApparel>
+  <!-- EN: None capable -->
+  <NoneCapable>Níl aon duine in ann</NoneCapable>
+  <!-- EN: Caravan not moving -->
+  <GainingJoyBecauseCaravanNotMoving>Níl an carbhán ag bogadh</GainingJoyBecauseCaravanNotMoving>
+  
+  <!-- Caravan gear -->
+  <!-- EN: Drag to rearrange. -->
+  <DragToRearrange>Tarraing chun nithe a ath-eagrú.</DragToRearrange>
+
+  <!-- Caravan items -->
+  <!-- EN: Assign drug policies -->
+  <AssignDrugPolicies>Sann polasaithe drugaí</AssignDrugPolicies>
+
+  <!-- Caravan health -->
+  <!-- EN: Whether this person or animal should be carried by other caravan members when sick.\n\nCarried caravan members can rest even if the caravan is moving, but they slow it down. -->
+  <BeCarriedIfSickTip>Cinn ar cheart do mhuintir an charbháin an duine nó an t-ainmhí seo a iompar agus é tinn.\n\nFéadfaidh daoine/ainmhí tinne sos a thógáil agus an carbhán agus bogadh, ach beidh an carbhán níos moille dá bharr.</BeCarriedIfSickTip>
+  
+  <!-- Planet -->
+  <!-- EN: Seed -->
+  <PlanetSeed>Síol</PlanetSeed>
+  <!-- EN: Coverage -->
+  <PlanetCoverageShort>Cumhdach</PlanetCoverageShort>
+
+</LanguageData>

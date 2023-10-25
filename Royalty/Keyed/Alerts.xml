@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Room requirements -->
+  <!-- EN: Need throneroom -->
+  <NeedThroneAssigned>Besoin d'une salle du trône</NeedThroneAssigned>
+  <!-- EN: One of your people has a royal title that requires a throneroom, but no throneroom is assigned.\n\nEnsure the title holder is assigned a throne inside a throneroom.\n\nThe throneroom should be appropriately sized and decorated to satisfy the title's specific requirements.\n\nMultiple thrones may be placed in one throneroom. -->
+  <NeedThroneAssignedDesc>L'un de vos personnages porte un titre royal qui nécessite une salle du trône, mais aucune salle du trône n'est attribuée.\n\nAssurez-vous de lui attribuer un trône dans une salle dédiée.\n\nLa salle du trône doit être dimensionnée et décorée de manière appropriée pour répondre aux exigences spécifiques du tenant du titre.\n\nPlusieurs trônes peuvent être placés dans la même salle.</NeedThroneAssignedDesc>
+
+  <!-- EN: Undignified bedroom -->
+  <UndignifiedBedroom>Chambre indigne</UndignifiedBedroom>
+  <!-- EN: One of your people has a royal title that requires a bedroom with specific features. Either no bedroom is assigned, or the assigned bedroom doesn't satisfy the requirements. -->
+  <UndignifiedBedroomDesc>L'un de vos personnages porte un titre royal qui nécessite une chambre aux caractéristiques spécifiques. Soit aucune chambre n'est attribuée, soit la chambre attribuée ne satisfait pas aux exigences spécifiques du titre.</UndignifiedBedroomDesc>
+
+  <!-- EN: Title requires bedroom -->
+  <NeedBedroomAssigned>Un titre nécessite une chambre personnelle</NeedBedroomAssigned>
+  <!-- EN: One of your people has a royal title that requires a personal bedroom, but no bedroom is assigned.\n\nAssign them a personal bedroom. The bedroom should be appropriately sized and decorated to satisfy the title's specific requirements. -->
+  <NeedBedroomAssignedDesc>L'un de vos personnages porte un titre royal qui nécessite une chambre personnelle, mais aucune chambre ne lui est attribuée.\n\nAssignez-lui une chambre personnelle. La chambre doit être de taille appropriée et décorée pour répondre aux exigences spécifiques du titre.</NeedBedroomAssignedDesc>
+
+  <!-- EN: Undignified throneroom -->
+  <UndignifiedThroneroom>Salle du trône indigne</UndignifiedThroneroom>
+  <!-- EN: One of your people has a royal title and a throne, but the throne room does not satisfy the title's requirements. -->
+  <UndignifiedThroneroomDesc>L'un de vos personnages porte un titre royal et dispose d'un trône, mais la salle du trône ne satisfait pas aux exigences spécifiques du titre.</UndignifiedThroneroomDesc>
+  
+  <!-- EN: No acceptable food -->
+  <RoyalNoAcceptableFood>Pas de nourriture acceptable</RoyalNoAcceptableFood>
+  <!-- EN: One of your people has a royal title with specific food requirements. But there's no food available that satisfies these requirements. -->
+  <RoyalNoAcceptableFoodDesc>L'un de vos personnages porte un titre royal avec des besoins alimentaires spécifiques, mais il n'y a pas de nourriture disponible qui réponde à ces exigences.</RoyalNoAcceptableFoodDesc>
+
+  <!-- EN: {0} days until requirement begins -->
+  <RoomRequirementGracePeriodDesc>{0} jours avant le début de l'exigence</RoomRequirementGracePeriodDesc>
+
+  <!-- EN: Throne not usable -->
+  <ThroneroomInvalidConfiguration>Trône non utilisable</ThroneroomInvalidConfiguration>
+  <!-- EN: A throne is not usable because of how it is set up: -->
+  <ThroneroomInvalidConfigurationDesc>Un trône n'est pas utilisable en raison de sa configuration :</ThroneroomInvalidConfigurationDesc>
+  
+  <!-- EN: Monument missing blueprints -->
+  <MonumentMarkerMissingBlueprints>Monument manquant de plans</MonumentMarkerMissingBlueprints>
+  <!-- EN: The monument won't be completed because blueprints have not been placed for all its parts.\n\nSelect the monument marker and click "Place blueprints", or place the blueprints manually. -->
+  <MonumentMarkerMissingBlueprintsDesc>Le monument ne sera pas complété car des plans n'ont pas été placés pour toutes ses parties.\n\nSelectionner le marqueur de monument et cliquer sur "Placer les plans", ou placer les plans manuellement.</MonumentMarkerMissingBlueprintsDesc>
+
+  <!-- EN: Beacon unusable -->
+  <ShipLandingBeaconUnusable>balise inutilisable</ShipLandingBeaconUnusable>
+  <!-- EN: A ship landing beacon is powered but can't be used. To be usable, four of these must be placed on the corners of a square at least 9 tiles wide, and the entire square area must be clear of obstructions including buildings, people, and animals. -->
+  <ShipLandingBeaconUnusableDesc>Une balise de débarquement pour vaiseau est alimentée mais ne peut pas être utilisée. Pour être utilisables, quatre d'entre elles doivent être placées dans les angles d'un carré large d'au moins 9 cases, et la zone doit être exempte d'obstacles, y compris de bâtiments, de personnes et d'animaux.</ShipLandingBeaconUnusableDesc>
+
+  <!-- EN: Need meditation spot -->
+  <NeedMeditationSpotAlert>Besoin d'un lieu de méditation</NeedMeditationSpotAlert>
+  <!-- EN: These colonists have a psyfocus need or are sceheduled to meditate, but don't have any meditation spots available for them.\n\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
+  <NeedMeditationSpotAlertDesc>Ces colons ont un besoin de concentration psychique, mais n'ont pas de points de méditation disponibles pour eux.\n\n{0}\n\nPlacez un point de méditation et assurez-vous qu'il est accessible et utilisable. Les colons préféreront le lieu de méditation près du meilleur objet de concentration psychique qu'ils peuvent utiliser.</NeedMeditationSpotAlertDesc>
+
+  <!-- EN: Unusable meditation focus -->
+  <UnusableMeditationFocusAlert>Point de méditation inutilisable</UnusableMeditationFocusAlert>
+  <!-- EN: These colonists are meditating near a focus object they can't use.\n\n{0}\n\nEach person can meditate to different objects, depending on their meditation focus types. A person's focus types depend on their backstories, traits, and titles. To see a person's meditation focus types, look at their details window by selecting them and clicking the 'i' button. -->
+  <UnusableMeditationFocusAlertDesc>Ces colons méditent près d'un objet de focalisation qu'ils ne peuvent pas utiliser.\n\n{0}\n\nChaque personne peut méditer sur différents types d'objets, en fonction de leur type de focalisation de méditation. Les types de focalisation de méditation d'une personne dépendent de ses antécédents, de ses traits et de ses titres. Pour voir les types de focalisation de méditation d'une personne, regardez sa fenêtre d'information en la sélectionnant puis en cliquant sur le bouton «i».</UnusableMeditationFocusAlertDesc>
+
+  <!-- EN: Permit choice ready -->
+  <PermitChoiceReadyAlert>Choix de licence disponible</PermitChoiceReadyAlert>
+  <!-- EN: {PAWN_nameDef} can choose a new permit. -->
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} peut choisir une nouvelle licence</PermitChoiceReadyAlertDesc>
+  
+  <!-- EN: Bestower waiting -->
+  <BestowerWaitingAlert>Émissaire en attente</BestowerWaitingAlert>
+  <!-- EN: A bestower is waiting to begin the bestowing ceremony. -->
+  <BestowerWaitingAlertDesc>Un émissaire attend pour commencer la cérémonie de promotion.</BestowerWaitingAlertDesc>
+  
+  <!-- EN: Anima linking ceremony ready -->
+  <AnimaLinkingReadyLabel>Cérémonie de liaison Anima prête</AnimaLinkingReadyLabel>
+  <!-- EN: An anima tree has enough anima grass to carry out the linking ceremony and level up psylink for these colonists -->
+  <AnimaLinkingReadyDesc>Un arbre anima a assez d'herbe anima pour effectuer la cérémonie de liaison et augmenter le niveau de lien psy pour ces colons.</AnimaLinkingReadyDesc>
+  <!-- EN: In order to start the ceremony, select a colonist, click the 'begin anima tree linking' button and select the anima tree you want to use. -->
+  <AnimaLinkingReadyDescExtra>Afin de commencer la cérémonie, sélectionnez un colon, cliquez sur le bouton 'commencer à lier l'arbre anima' et sélectionnez l'arbre anima que vous souhaitez utiliser.</AnimaLinkingReadyDescExtra>
+  
+</LanguageData>

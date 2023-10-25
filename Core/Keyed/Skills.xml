@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Level -->
+  <Level> Leibhéal</Level>
+  <!-- EN: Skill level -->
+  <SkillLevel>Leibhéal Cumais</SkillLevel>
+  <!-- EN: Progress to next learned level -->
+  <ProgressToNextLevel>Dul chun cinn roimh an gcéad leibhéal eile</ProgressToNextLevel>
+  <!-- EN: Experience -->
+  <Experience>Taithí</Experience>
+  <!-- EN: Passion -->
+  <Passion>Paisean</Passion>
+  <!-- EN: No passion -->
+  <PassionNone>Gan phaisean</PassionNone>
+  <!-- EN: Passion -->
+  <PassionMinor>Paisean</PassionMinor>
+  <!-- EN: Burning passion -->
+  <PassionMajor>Paisean láidir</PassionMajor>
+  <!-- EN: Learning speed -->
+  <LearningSpeed>Luas foghlama</LearningSpeed>
+  <!-- EN: Learned max today ({0}/{1}, further learning multiplied by {2}) -->
+  <LearnedMaxToday>Uasmhéid foghlamtha inniu ({0}/{1}, méadófar aon fhoghlaim eile faoi {2})</LearnedMaxToday>
+  <!-- EN: Children learn skills by watching adults work and by taking lessons at a lesson desk. -->
+  <ChildrenLearn>Foghlaimíonn páistí trí bhreathnú ar dhaoine fásta agus iad i mbun oibre agus trí cheachtanna a dhéanamh ag deasc scoile.</ChildrenLearn>
+  <!-- EN: Effects at level {0} -->
+  <EffectsAtLevel>Éifeachtaí ag leibhéal {0}</EffectsAtLevel>
+  <!-- EN: MAX -->
+  <SkillMax>UASLEIBHÉAL</SkillMax>
+  <!-- EN: Learned level -->
+  <LearnedLevel>Leibhéal fóghlamtha</LearnedLevel>
+  <!-- EN: Negative level adjusted to zero. -->
+  <NegativeLevelAdjustedToZero>Coigeartaíodh an leibhéal diúltach ar ais chuig náid.</NegativeLevelAdjustedToZero>
+  <!-- EN: Level capped at {0}. -->
+  <LevelCappedAtMax>Srian curtha ar an uasleibhéal ag {0}.</LevelCappedAtMax>
+  <!-- EN: {GENE_label} gene -->
+  <GeneLabelWithDesc>Géin: {GENE_label}</GeneLabelWithDesc>
+
+  <!-- EN: Barely heard of it -->
+  <Skill0>Gan aon eolas</Skill0>
+  <!-- EN: Utter beginner -->
+  <Skill1>Glantosaitheoir</Skill1>
+  <!-- EN: Beginner -->
+  <Skill2>Tosaitheoir</Skill2>
+  <!-- EN: Basic familiarity -->
+  <Skill3>Eolas bunúsach</Skill3>
+  <!-- EN: Some familiarity -->
+  <Skill4>Beagán eolais</Skill4>
+  <!-- EN: Significant familiarity -->
+  <Skill5>Roinnt eolais</Skill5>
+  <!-- EN: Capable amateur -->
+  <Skill6>Amaitéarach </Skill6>
+  <!-- EN: Weak professional -->
+  <Skill7>Gairmí lag</Skill7>
+  <!-- EN: Employable professional -->
+  <Skill8>Gairmí infhostaithe</Skill8>
+  <!-- EN: Solid professional -->
+  <Skill9>Gairmí ábalta</Skill9>
+  <!-- EN: Skilled professional -->
+  <Skill10>Gairmí sciliúil</Skill10>
+  <!-- EN: Very skilled professional -->
+  <Skill11>Gairmí an-sciliúil</Skill11>
+  <!-- EN: Expert -->
+  <Skill12>Saineolaí</Skill12>
+  <!-- EN: Strong expert -->
+  <Skill13>Saineolaí láidir</Skill13>
+  <!-- EN: Master -->
+  <Skill14>Máistir</Skill14>
+  <!-- EN: Strong master -->
+  <Skill15>Máistir láidir</Skill15>
+  <!-- EN: Region-known master -->
+  <Skill16>Máistir a bhfuil aithne air sa réigiún</Skill16>
+  <!-- EN: Region-leading master -->
+  <Skill17>Máistir is fearr sa réigiún</Skill17>
+  <!-- EN: Planet-known master -->
+  <Skill18>Máistir a bhfuil air timpeall an domhain</Skill18>
+  <!-- EN: Planet-leading master -->
+  <Skill19>Máistir is fearr ar domhan</Skill19>
+  <!-- EN: Legendary master -->
+  <Skill20>Máistir finscéalach</Skill20>
+  
+</LanguageData>

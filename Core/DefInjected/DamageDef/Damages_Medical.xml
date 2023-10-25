@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: execution cut -->
+  <ExecutionCut.label>bású (gearradh)</ExecutionCut.label>
+  <!-- EN: {0} has been executed by cutting. -->
+  <ExecutionCut.deathMessage>Cuireadh {0} chun báis le lann.</ExecutionCut.deathMessage>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>gearradh obráide</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>Maraíodh {0} le linn obráide.</SurgicalCut.deathMessage>
+  
+</LanguageData>

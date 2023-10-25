@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bite -->
+  <Bite.label>greim</Bite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <Bite.deathMessage>Priocadh {0} chun báis.</Bite.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Blunt.label>maol</Blunt.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Blunt.deathMessage>Greadadh {0} chun báis.</Blunt.deathMessage>
+  
+  <!-- EN: crush -->
+  <Crush.label>brúscadh</Crush.label>
+  <!-- EN: {0} has been crushed to death. -->
+  <Crush.deathMessage>Brúisceadh {0} chun báis</Crush.deathMessage>
+  
+  <!-- EN: cut -->
+  <Cut.label>gearradh</Cut.label>
+  <!-- EN: {0} has been cut to death. -->
+  <Cut.deathMessage>Gearradh {0} chun báis.</Cut.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Demolish.label>maol</Demolish.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Demolish.deathMessage>Greadadh {0} chun báis.</Demolish.deathMessage>
+  
+  <!-- EN: blunt -->
+  <Poke.label>maol</Poke.label>
+  <!-- EN: {0} has been beaten to death. -->
+  <Poke.deathMessage>Greadadh {0} chun báis.</Poke.deathMessage>
+  
+  <!-- EN: scratch -->
+  <Scratch.label>scríobhadh</Scratch.label>
+  <!-- EN: {0} has been torn to death. -->
+  <Scratch.deathMessage>Réabadh {0} chun báis.</Scratch.deathMessage>
+  
+  <!-- EN: toxic scratch -->
+  <ScratchToxic.label>scríobhadh tocsach</ScratchToxic.label>
+  <!-- EN: {0} has been torn to death. -->
+  <ScratchToxic.deathMessage>Réabadh {0} chun báis.</ScratchToxic.deathMessage>
+  
+  <!-- EN: stab -->
+  <Stab.label>ropadh</Stab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <Stab.deathMessage>Ropadh {0} chun báis.</Stab.deathMessage>
+  
+  <!-- EN: toxic bite -->
+  <ToxicBite.label>plaic tocsach</ToxicBite.label>
+  <!-- EN: {0} has been bitten to death. -->
+  <ToxicBite.deathMessage>Priocadh {0} chun báis</ToxicBite.deathMessage>
+  
+</LanguageData>

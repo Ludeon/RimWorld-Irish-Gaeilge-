@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: psychic suppression -->
+  <PsychicSuppression.label>suppression psychique</PsychicSuppression.label>
+  <!-- EN: The effect of a psychic suppression field. Coordination and reasoning are muddled. -->
+  <PsychicSuppression.description>L'effet d'un champ de suppression psychique. La coordination et le raisonnement sont embrouillés.</PsychicSuppression.description>
+  
+</LanguageData>

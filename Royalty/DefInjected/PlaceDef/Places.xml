@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>place_name->Sophiamunda</li>
+    <li>place_adjective->Sophian</li>
+    <li>place_summary->techno-feudal world</li>
+    <li>place_community->castle</li>
+    <li>place_community->palace</li>
+    <li>place_job->knight</li>
+    <li>place_job->squire</li>
+    <li>place_job->duke</li>
+    <li>place_job->maid</li>
+    <li>place_job->swordsmith</li>
+    <li>place_personalWeapon->persona plasmasword</li>
+    <li>place_personalWeapon->warhammer</li>
+    <li>place_massWeapon->an orbital mech cluster targeter</li>
+    <li>place_massWeapon->a bio-engineered plague</li>
+    <li>place_massWeapon->an army of fallen knights</li>
+    <li>place_foeLeader->revolutionist</li>
+    <li>place_foeSoldiers->rebels</li>
+  -->
+  <Sophiamunda.placeRules.rulesStrings>
+    <li>place_name->Sophiamunda</li>
+    <li>place_adjective->Sophian</li>
+    <li>place_summary->monde techno-féodal</li>
+    <li>place_community->château</li>
+    <li>place_community->palace</li>
+    <li>place_job->chevalier</li>
+    <li>place_job->écuyer</li>
+    <li>place_job->duc</li>
+    <li>place_job->servante</li>
+    <li>place_job->forgeron</li>
+    <li>place_personalWeapon->épée plasmique consciente</li>
+    <li>place_personalWeapon->marteau de guerre</li>
+    <li>place_massWeapon->un cibleur orbital d'escouade mécanoïde</li>
+    <li>place_massWeapon->une peste bio-ingénierie</li>
+    <li>place_massWeapon->une armée de chevaliers déchus</li>
+    <li>place_foeLeader->révolutionnaire</li>
+    <li>place_foeSoldiers->rebelles</li>
+  </Sophiamunda.placeRules.rulesStrings>
+  
+</LanguageData>

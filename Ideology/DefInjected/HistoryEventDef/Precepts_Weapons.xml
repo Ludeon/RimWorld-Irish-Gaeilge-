@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: victory with despised weapon -->
+  <KillWithDespisedWeapon.label>victoire avec une arme méprisée</KillWithDespisedWeapon.label>
+  
+  <!-- EN: victory with noble weapon -->
+  <KillWithNobleWeapon.label>victoire avec une arme noble</KillWithNobleWeapon.label>
+  
+  <!-- EN: used despised weapon -->
+  <UsedDespisedWeapon.label>arme méprisée utilisée</UsedDespisedWeapon.label>
+  
+  <!-- EN: used noble weapon -->
+  <UsedNobleWeapon.label>arme noble utilisée</UsedNobleWeapon.label>
+  
+</LanguageData>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo][includesChildren]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
+    <li>includesChildren(priority=-999)-></li>
+    <li>includesChildren(childCount==1)->\n\nOne of [lodgersLabelSingOrPluralDef] is a child.</li>
+    <li>includesChildren(childCount>=2)->\n\nSome of [lodgersLabelSingOrPluralDef] are children.</li>
+    <li>healthInfo-></li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs] suffering from paralytic abasia and must be kept in bed.</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] sick with blood rot and will require daily treatment. The disease can be slowed with high-quality care and medicine, but generally cannot be cured outright. If the disease becomes severe [lodgersLabelSingOrPluralDef] will die, so ensure you have the necessary medical supplies.</li>
+    <li>minMoodInfo-></li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\nyou must keep the mood of [lodgersLabelSingOrPluralDef] above [lodgersMoodThreshold_percent].</li>
+    <li>workInfo-></li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] will not do any work.</li>
+    <li>commonDescEnding->[helpersParagraph]</li>
+    <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->there will be (*Threat)a raid(/Threat) of roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->there will be (*Threat)a raid(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->there will be (*Threat)[threatCount] raids(/Threat) of roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->there will be (*Threat)[threatCount] raids(/Threat) of strength [threatSize]x and roughly this size:\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)a mech cluster(/Threat) will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)two mech clusters(/Threat) will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)a mech cluster(/Threat) of [threatSize]x size will deploy nearby.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)two mech clusters(/Threat) of [threatSize]x size will deploy nearby.</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by an orbiting mechanoid swarm.</li>
+    <li>threatsInfoMechClustersMultiPrisoners->The prisoners recently [mechViolation], and have been targeted by an orbiting mechanoid swarm.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] recently [mechViolation], and has been targeted by a mechanoid hive.</li>
+    <li>threatsInfoMechRaidsMultiHuman->They recently [mechViolation], and have been targeted by a mechanoid hive.</li>
+    <li>mechViolation->angered a machine persona somehow</li>
+    <li>mechViolation->violated an ancient supercomputer terminal</li>
+    <li>mechViolation->murdered a human child favored by an archotech</li>
+    <li>mechViolation->attempted to hack a mechanoid control node</li>
+    <li>mechViolation->attempted to steal from an ancient storage site</li>
+    <li>letterSubject->{SUBJECT_definite}</li>
+    <li>lodgersHasHave(lodgersCount==1)->has</li>
+    <li>lodgersHasHave(lodgersCount>=2)->have</li>
+    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount>=2)->them</li>
+    <li>areIs(lodgersCount==1)->is</li>
+    <li>areIs(lodgersCount>=2)->are</li>
+    <li>remainingWillNowLeave(lodgersCount==1)-></li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->Any remaining [lodgersLabelPlural] will now leave. </li>
+    <li>failLetterEndingQuest->You have failed the quest '[resolvedQuestName]'.</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
+  -->
+  <QuestHospitalityCommon.rulePack.rulesStrings>
+    <li>allLodgerInfo->[healthInfo][minMoodInfo][workInfo][includesChildren]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPlural(lodgersCount>=2)->[lodgersLabelPlural]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount==1)->[lodgers0_nameDef]</li>
+    <li>lodgersLabelSingOrPluralDef(lodgersCount>=2)->les [lodgersLabelPlural]</li>
+    <li>includesChildren(priority=-999)-></li>
+    <!-- NOTE: si lodgersCount==1, lodgersLabelSingOrPluralDef est son nom
+          Si non, utiliser directement [lodgersLabelSingOrPlural] au lieu de
+          [lodgersLabelSingOrPlural] pour éviter "Un de les [lodgersLabelPlural]"
+    -->
+    <li>includesChildren(lodgersCount==1,childCount==1)->\n\n[lodgersLabelSingOrPluralDef] est un enfant.</li>
+    <li>includesChildren(lodgersCount>=2,childCount==1)->\n\nUn des [lodgersLabelPlural] est un enfant.</li>
+    <li>includesChildren(childCount>=2)->\n\nCertains des [lodgersLabelPlural] sont des enfants.</li>
+    <li>healthInfo-></li>
+    <li>healthInfo(lodgersHaveBloodRotAndParalysis==true,priority=1)->\n\n[paralyzedInfo]\n\n[bloodRotInfo]</li>
+    <li>healthInfo(lodgersAreParalyzed==true,priority=1)->\n\n[paralyzedInfo]</li>
+    <li>healthInfo(lodgersHaveBloodRot==true,priority=1)->\n\n[bloodRotInfo]</li>
+    <li>paralyzedInfo->[lodgersLabelSingOrPluralDef] [areIs] [sick] d'abasie paralytique et [must] être [kept] au lit.</li>
+    <li>bloodRotInfo->[lodgersLabelSingOrPluralDef] [areIs] [sick] de gangrène et un traitement quotidien sera nécessaire. La maladie peut être ralentie par des soins et des médicaments de haute qualité, mais ne peut généralement pas être guérie complètement. Si la maladie devient grave, [lodgersLabelSingOrPluralDef] [can] en mourir, alors assurez-vous d'avoir les fournitures médicales nécessaires.</li>
+    <li>minMoodInfo-></li>
+    <li>minMoodInfo(lodgersCountWithMoodThreshold>0,priority=1)->\n\nvous devez garder l'humeur de [lodgersLabelSingOrPluralDef] au-dessus de [lodgersMoodThreshold_percent].</li>
+    <li>workInfo-></li>
+    <li>workInfo(lodgersWillNotWork==true,priority=1)->\n\n[lodgersLabelSingOrPluralDef] [will_not_do].</li>
+    <li>commonDescEnding->[helpersParagraph]</li>
+    <li>enemyGroupsParagraph->[threatDescriptionParagraph]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize==1)->Il y aura (*Threat)un raid(/Threat) d'une taille similaire à :\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount==1,threatSize>1)->Il y aura (*Threat)un raid(/Threat) de force x[threatSize] et d'une taille similaire à :\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize==1)->Il y aura (*Threat)[threatCount] raids(/Threat) d'une taille similaire à :\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==Raids,threatCount>1,threatSize>1)->Il y aura (*Threat)[threatCount] raids(/Threat) de force x[threatSize] et d'une taille similaire à :\n\n[threatExample]</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize==1)->(*Threat)une escouade mécanoïde(/Threat) se déploiera à proximité.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize==1)->(*Threat)deux escouades mécanoïdes(/Threat) se déploieront à proximité.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==1,threatSize>1)->(*Threat)une escouade mécanoïde(/Threat) d'une taille x[threatSize] se déploiera à proximité.</li>
+    <li>threatDescriptionParagraph(threatType==MechClusters,threatCount==2,threatSize>1)->(*Threat)deux escouades mécanoïdes(/Threat) d'une taille x[threatSize] se déploieront à proximité.</li>
+    <li>threatsInfoMechClustersSingleHuman->[lodgers0_nameDef] a récemment [mechViolation], et a été [lodgers0_targeted] par un essaim de mécanoïdes en orbite.</li>
+    <li>threatsInfoMechClustersMultiPrisoners->Les prisonniers ont [mechViolation], et ont été ciblés par un essaim de mécanoïdes en orbite.</li>
+    <li>threatsInfoMechRaidsSingleHuman->[lodgers0_nameDef] a récemment [mechViolation], et a été [lodgers0_targeted] par une ruche mécanoïde.</li>
+    <li>threatsInfoMechRaidsMultiHuman->Ils ont récemment [mechViolation], et ont été ciblés par une ruche mécanoïde.</li>
+    <li>mechViolation->contrarié une intelligence artificielle</li>
+    <li>mechViolation->piraté un ancien terminal de supercalculateur</li>
+    <li>mechViolation->assassiné un enfant humain favori d'un archotech</li>
+    <li>mechViolation->tenté de pirater un nœud de contrôle mécanoïde</li>
+    <li>mechViolation->tenté de voler dans un ancien site de stockage</li>
+    <li>letterSubject->{SUBJECT_definite}</li>
+    <li>lodgers0_targeted(lodgers0_gender==Male)->ciblé</li>
+    <li>lodgers0_targeted(lodgers0_gender==Female)->ciblée</li>
+    <li>lodgers0_targeted(lodgers0_gender==None)->ciblé</li>
+    <li>lodgersHasHave(lodgersCount==1)->a</li>
+    <li>lodgersHasHave(lodgersCount>=2)->ont</li>
+    <li>lodgersIsAre(lodgersCount==1)->est</li>
+    <li>lodgersIsAre(lodgersCount>=2)->sont</li>
+    <li>lodgersArrived(lodgersCount==1,lodgers0_gender==Male)->arrivé</li>
+    <li>lodgersArrived(lodgersCount==1,lodgers0_gender==Female)->arrivée</li>
+    <li>lodgersArrived(lodgersCount==1,lodgers0_gender==None)->arrivé</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Cow)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Goat)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Goose)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Turkey)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Gazelle)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Boomalope)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Megaspider)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Ostrich)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind==Tortoise)->arrivées</li>
+    <li>lodgersArrived(lodgersCount>=2,lodgersPawnKind!=Cow,lodgersPawnKind!=Goat,lodgersPawnKind!=Goose,lodgersPawnKind!=Turkey,lodgersPawnKind!=Gazelle,lodgersPawnKind!=Boomalope,lodgersPawnKind!=Megaspider,lodgersPawnKind!=Ostrich,lodgersPawnKind!=Tortoise)->arrivés</li>
+    <!-- NOTE: "le/la/les"     -->
+    <li>lodgersAccusative(lodgersCount==1,lodgers0_gender==Male)->le</li>
+    <li>lodgersAccusative(lodgersCount==1,lodgers0_gender==Female)->la</li>
+    <li>lodgersAccusative(lodgersCount==1,lodgers0_gender==None)->le</li>
+    <li>lodgersAccusative(lodgersCount>=2)->les</li>
+    <!-- NOTE: "lui/elle/eux"     -->
+    <li>lodgersObjective(lodgersCount==1)->[lodgers0_objective]</li>
+    <li>lodgersObjective(lodgersCount>=2)->eux</li>
+    <li>lodgersObjectiveIndirect(lodgersCount==1)->lui</li>
+    <li>lodgersObjectiveIndirect(lodgersCount>=2)->leur</li>
+    <!-- NOTE: "son/sa/ses/leur/leurs"
+        Here, we suppose that the owner is singular,
+        and the lodgers are the possessed subjects.
+        iF NOT, define lodgersPossessiveOwnerPlural -> "leur/leurs"
+    -->
+    <li>lodgersPossessive(lodgersCount==1,lodgers0_gender!=Female)->son</li>
+    <li>lodgersPossessive(lodgersCount==1,lodgers0_gender==Female)->sa</li>
+    <li>lodgersPossessive(lodgersCount>=2)->ses</li>
+    <li>lodgersWillingTo(lodgersCount==1,lodgers0_gender!=Female)->disposé</li>
+    <li>lodgersWillingTo(lodgersCount==1,lodgers0_gender==Female)->disposée</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Cow)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Goat)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Goose)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Turkey)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Gazelle)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Boomalope)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Megaspider)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Ostrich)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind==Tortoise)->disposées</li>
+    <li>lodgersWillingTo(lodgersCount>=2,lodgersPawnKind!=Cow,lodgersPawnKind!=Goat,lodgersPawnKind!=Goose,lodgersPawnKind!=Turkey,lodgersPawnKind!=Gazelle,lodgersPawnKind!=Boomalope,lodgersPawnKind!=Megaspider,lodgersPawnKind!=Ostrich,lodgersPawnKind!=Tortoise)->disposés</li>
+    <!-- TODO: duplicate defs, use lodgersIsAre.
+      Might be better add prefix lodgers_
+    -->
+    <li>areIs(lodgersCount==1)->est</li>
+    <li>areIs(lodgersCount>=2)->sont</li>
+    <li>sick(lodgersCount==1,lodgers0_gender==Female)->atteinte</li>
+    <li>sick(lodgersCount==1,lodgers0_gender!=Female)->atteint</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Cow)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Goat)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Goose)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Turkey)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Gazelle)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Boomalope)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Megaspider)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Ostrich)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind==Tortoise)->atteintes</li>
+    <li>sick(lodgersCount>=2,lodgersPawnKind!=Cow,lodgersPawnKind!=Goat,lodgersPawnKind!=Goose,lodgersPawnKind!=Turkey,lodgersPawnKind!=Gazelle,lodgersPawnKind!=Boomalope,lodgersPawnKind!=Megaspider,lodgersPawnKind!=Ostrich,lodgersPawnKind!=Tortoise)->atteints</li>
+    <li>kept(lodgersCount==1,lodgers0_gender==Female)->maintenue</li>
+    <li>kept(lodgersCount==1,lodgers0_gender!=Female)->maintenu</li>
+    <li>kept(lodgersCount>=2)->maintenus</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Cow)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Goat)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Goose)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Turkey)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Gazelle)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Boomalope)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Megaspider)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Ostrich)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind==Tortoise)->maintenues</li>
+    <li>kept(lodgersCount>=2,lodgersPawnKind!=Cow,lodgersPawnKind!=Goat,lodgersPawnKind!=Goose,lodgersPawnKind!=Turkey,lodgersPawnKind!=Gazelle,lodgersPawnKind!=Boomalope,lodgersPawnKind!=Megaspider,lodgersPawnKind!=Ostrich,lodgersPawnKind!=Tortoise)->maintenus</li>
+    <li>must(lodgersCount==1)->doit</li>
+    <li>must(lodgersCount>=2)->doivent</li>
+    <li>can(lodgersCount==1)->peut</li>
+    <li>can(lodgersCount>=2)->peuvent</li>
+    <li>will_not_do(lodgersCount==1)->ne travaillera pas</li>
+    <li>will_not_do(lodgersCount>=2)->ne travailleront pas</li>
+    <li>remainingWillNowLeave(lodgersCount==1)-></li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->Tous les [lodgersLabelPlural] restants vont maintenant partir. </li>
+    <li>failLetterEndingQuest->Vous avez raté la quête "[resolvedQuestName]".</li>
+    <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
+    <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nVotre relation avec [asker_faction_name] a diminué de [goodwillPenalty].</li>
+  </QuestHospitalityCommon.rulePack.rulesStrings>
+  
+</LanguageData>

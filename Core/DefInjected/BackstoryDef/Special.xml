@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
+  <Child27.baseDesc>Leanbh is ea [PAWN_nameDef]. Cá bhfios céard atá i ndán do [PAWN_nameDef].</Child27.baseDesc>
+  <!-- EN: child -->
+  <Child27.title>páiste</Child27.title>
+  <!-- EN: child -->
+  <Child27.titleShort>páiste</Child27.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is a child. The story of [PAWN_possessive] childhood is still being written. -->
+  <ChildTribal.baseDesc>Leanbh is ea [PAWN_nameDef]. Cá bhfios céard atá i ndán do [PAWN_nameDef].</ChildTribal.baseDesc>
+  <!-- EN: child -->
+  <ChildTribal.title>leanbh</ChildTribal.title>
+  <!-- EN: child -->
+  <ChildTribal.titleShort>leanbh</ChildTribal.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] became an adult in our colony. [PAWN_possessive] story is still being written. -->
+  <Colonist97.baseDesc>D'fhás [PAWN_nameDef] aníos inár gcoilíneacht. Cá bhfios céard atá i ndán do [PAWN_nameDef].</Colonist97.baseDesc>
+  <!-- EN: colonist -->
+  <Colonist97.title>coilíneach</Colonist97.title>
+  <!-- EN: colonist -->
+  <Colonist97.titleShort>coilíneach</Colonist97.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in our colony. -->
+  <ColonyChild59.baseDesc>D'fhás [PAWN_nameDef] aníos inár gcoilíneacht.</ColonyChild59.baseDesc>
+  <!-- EN: colony child -->
+  <ColonyChild59.title>leanbh coilíneachta</ColonyChild59.title>
+  <!-- EN: colonist -->
+  <ColonyChild59.titleShort>coilíneach</ColonyChild59.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] is a baby. [PAWN_possessive] life revolves around milk and naps. -->
+  <Newborn79.baseDesc>Naíonán is ea [PAWN_nameDef]. Ní bhíonn le déanamh ag [PAWN_nameDef] ach ithe agus codladh.</Newborn79.baseDesc>
+  <!-- EN: newborn -->
+  <Newborn79.title>naíonán nuabheirthe</Newborn79.title>
+  <!-- EN: newborn -->
+  <Newborn79.titleShort>naíonán</Newborn79.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] grew up in our tribe. -->
+  <TribeChild19.baseDesc>D'fhás [PAWN_nameDef] aníos inár dtreabh.</TribeChild19.baseDesc>
+  <!-- EN: tribe child -->
+  <TribeChild19.title>leanbh treibhe</TribeChild19.title>
+  <!-- EN: tribal -->
+  <TribeChild19.titleShort>treibhe</TribeChild19.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] became an adult in our tribe. [PAWN_possessive] story is still being written. -->
+  <TribeMember57.baseDesc>D'fhás [PAWN_nameDef] aníos inár dtreabh. Cá bhfios céard atá i ndán do [PAWN_nameDef].</TribeMember57.baseDesc>
+  <!-- EN: tribe member -->
+  <TribeMember57.title>ball den treabh</TribeMember57.title>
+  <!-- EN: tribal -->
+  <TribeMember57.titleShort>treibhe</TribeMember57.titleShort>
+  
+  <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood in a growth vat. -->
+  <VatgrownChild11.baseDesc>D'fhás [PAWN_nameDef] aníos i ndabhach fáis.</VatgrownChild11.baseDesc>
+  <!-- EN: vatgrown child -->
+  <VatgrownChild11.title>leanbh a fásadh i ndabhach</VatgrownChild11.title>
+  <!-- EN: child -->
+  <VatgrownChild11.titleShort>leanbh</VatgrownChild11.titleShort>
+  
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>faic</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>intleachtúil</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>obair shimplí</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>obair chasta</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>foréigeanach</WorkTagViolent>
+  <!-- EN: shooting -->
+  <WorkTagShooting>lámhach</WorkTagShooting>
+  <!-- EN: caring -->
+  <WorkTagCaring>cúram</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>sóisialta</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>ainmhithe</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>ealaín</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>ceardaíocht</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>cócaireacht</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>comhrac dóiteáin</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>glanadh</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>iompar</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>garraíodóireacht</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>mianadóireacht</WorkTagMining>
+  <!-- EN: hunting -->
+  <WorkTagHunting>sealgaireacht</WorkTagHunting>
+  <!-- EN: constructing -->
+  <WorkTagConstructing>tógáil</WorkTagConstructing>
+  <!-- EN: commoner work -->
+  <WorkTagCommoner>obair chomónta</WorkTagCommoner>
+  <!-- EN: all work -->
+  <WorkTagAllWork>gach obair</WorkTagAllWork>
+
+</LanguageData>

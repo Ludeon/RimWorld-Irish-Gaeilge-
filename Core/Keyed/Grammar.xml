@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: a -->
+  <IndefiniteArticle />
+  <!-- EN: the -->
+  <DefiniteArticle>an</DefiniteArticle>
+  <!-- EN: a {0} -->
+  <IndefiniteForm></IndefiniteForm>
+  <!-- EN: the {0} -->
+  <DefiniteForm>an</DefiniteForm>
+
+  <!-- EN: its -->
+  <Proits>a</Proits>
+  <!-- EN: his -->
+  <Prohis>a</Prohis>
+  <!-- EN: her -->
+  <Proher>a</Proher>
+  <!-- EN: Its -->
+  <ProitsCap>A</ProitsCap>
+  <!-- EN: His -->
+  <ProhisCap>A</ProhisCap>
+  <!-- EN: Her -->
+  <ProherCap>A</ProherCap>
+
+  <!-- EN: it -->
+  <ProitObj>é</ProitObj>
+  <!-- EN: him -->
+  <ProhimObj>é</ProhimObj>
+  <!-- EN: her -->
+  <ProherObj>í</ProherObj>
+  <!-- EN: It -->
+  <ProitObjCap>É</ProitObjCap>
+  <!-- EN: Him -->
+  <ProhimObjCap>É</ProhimObjCap>
+  <!-- EN: Her -->
+  <ProherObjCap>Í</ProherObjCap>
+
+  <!-- EN: he -->
+  <Prohe>sé</Prohe>
+  <!-- EN: she -->
+  <Proshe>sí</Proshe>
+  <!-- EN: it -->
+  <Proit>sé</Proit>
+  <!-- EN: He -->
+  <ProheCap>Sé</ProheCap>
+  <!-- EN: She -->
+  <ProsheCap>Sí</ProsheCap>
+  <!-- EN: It -->
+  <ProitCap>Sé</ProitCap>
+
+  <!-- EN: {0} and {1}. -->
+  <ClauseSequence2>{0} agus {1}</ClauseSequence2>
+  <!-- EN: {0}. Also, {1} and {2}. -->
+  <ClauseSequence3>{0}. Chomh maith leis sin, {1} agus {2}</ClauseSequence3>
+  <!-- EN: {0} and {1}. In addition {2} and {3}. -->
+  <ClauseSequence4>{0} agus {1}. Chomh maith leis sin, {2} agus {3}</ClauseSequence4>
+  <!-- EN: {0} and {1}. Additionally, {2} and {3}. Finally, {4}. -->
+  <ClauseSequence5>{0} agus {1}. Chomh maith leis sin, {2} agus {3} agus {4}.</ClauseSequence5>
+  <!-- EN: {0}. {1} and {2}. Also, {3} and {4}. Finally, {5}. -->
+  <ClauseSequence6>{0}. {1} agus {2}. Chomh maith leis sin, {3} agus {4}. Ar deireadh, {5}</ClauseSequence6>
+  <!-- EN: {0} and {1}. {2} and {3}. Also, {4} and {5}. Finally, {6}. -->
+  <ClauseSequence7>{0} agus {1}. {2} agus {3}. Chomh maith leis sin, {4} agus {5}. Ar deireadh, {6}.</ClauseSequence7>
+  <!-- EN: {0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}. -->
+  <ClauseSequence8>{0} and {1}. Also, {2} and {3}. {4} and {5}. Finally, {6} and {7}.</ClauseSequence8>
+
+  <!-- EN: {0} or {1} -->
+  <XorY>{0} nó {1}</XorY>
+
+</LanguageData>

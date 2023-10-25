@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: totemic boards -->
+  <Boards_Totemic.label>planches totémiques</Boards_Totemic.label>
+  <!-- EN: Fine wood boards decorated in a totemic style. -->
+  <Boards_Totemic.description>De belles planches de bois décorées dans un style totémique.</Boards_Totemic.description>
+  
+  <!-- EN: diamond mindbend carpet -->
+  <Carpet_MindbendA.label>tapis diamant psychédélique</Carpet_MindbendA.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendA.description>Tapis raffiné décoré dans un style psychédélique souvent associé à la consommation de drogue.</Carpet_MindbendA.description>
+  
+  <!-- EN: purple mindbend carpet -->
+  <Carpet_MindbendB.label>tapis violet psychédélique</Carpet_MindbendB.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendB.description>Tapis raffiné décoré dans un style psychédélique souvent associé à la consommation de drogue.</Carpet_MindbendB.description>
+  
+  <!-- EN: green mindbend carpet -->
+  <Carpet_MindbendC.label>tapis vert psychédélique</Carpet_MindbendC.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendC.description>Tapis raffiné décoré dans un style psychédélique souvent associé à la consommation de drogue.</Carpet_MindbendC.description>
+  
+  <!-- EN: blue mindbend carpet -->
+  <Carpet_MindbendD.label>tapis bleu psychédélique</Carpet_MindbendD.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendD.description>Tapis raffiné décoré dans un style psychédélique souvent associé à la consommation de drogue.</Carpet_MindbendD.description>
+  
+  <!-- EN: yellow mindbend carpet -->
+  <Carpet_MindbendE.label>tapis jaune psychédélique</Carpet_MindbendE.label>
+  <!-- EN: Fine carpet decorated in a mind-bending style often associated with drug use. -->
+  <Carpet_MindbendE.description>Tapis raffiné décoré dans un style psychédélique souvent associé à la consommation de drogue.</Carpet_MindbendE.description>
+  
+  <!-- EN: spikecore plates -->
+  <Plates_Spikecore.label>plaque à pointe</Plates_Spikecore.label>
+  <!-- EN: Fine steel plates decorated in an aggressive spikecore style. -->
+  <Plates_Spikecore.description>De fines plaques d'acier décorées avec des pics agressifs.</Plates_Spikecore.description>
+  
+  <!-- EN: morbid granite tile -->
+  <Tile_MorbidGranite.label>carrelage de granite morbide</Tile_MorbidGranite.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidGranite.description>Carreaux de pierres raffinés dans un style morbide.</Tile_MorbidGranite.description>
+  
+  <!-- EN: morbid limestone tile -->
+  <Tile_MorbidLimestone.label>carrelage de calcaire morbide</Tile_MorbidLimestone.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidLimestone.description>Carreaux de pierres raffinés dans un style morbide.</Tile_MorbidLimestone.description>
+  
+  <!-- EN: morbid marble tile -->
+  <Tile_MorbidMarble.label>carrelage de marbre morbide</Tile_MorbidMarble.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidMarble.description>Carreaux de pierres raffinés dans un style morbide.</Tile_MorbidMarble.description>
+  
+  <!-- EN: morbid sandstone tile -->
+  <Tile_MorbidSandstone.label>carrelage de grès morbide</Tile_MorbidSandstone.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidSandstone.description>Carreaux de pierres raffinés dans un style morbide.</Tile_MorbidSandstone.description>
+  
+  <!-- EN: morbid slate tile -->
+  <Tile_MorbidSlate.label>carrelage d'ardoise morbide</Tile_MorbidSlate.label>
+  <!-- EN: Fine stone tiles in a morbid style. -->
+  <Tile_MorbidSlate.description>Carreaux de pierres raffinés dans un style morbide.</Tile_MorbidSlate.description>
+  
+  <!-- EN: granite spikecore tile -->
+  <Tile_SpikecoreGranite.label>carrelage de granite piquant</Tile_SpikecoreGranite.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreGranite.description>Carreaux de pierres raffinés dans un style piquant.</Tile_SpikecoreGranite.description>
+  
+  <!-- EN: limestone spikecore tile -->
+  <Tile_SpikecoreLimestone.label>carrelage de calcaire piquant</Tile_SpikecoreLimestone.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreLimestone.description>Carreaux de pierres raffinés dans un style piquant.</Tile_SpikecoreLimestone.description>
+  
+  <!-- EN: marble spikecore tile -->
+  <Tile_SpikecoreMarble.label>carrelage de marbre piquant</Tile_SpikecoreMarble.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreMarble.description>Carreaux de pierres raffinés dans un style piquant.</Tile_SpikecoreMarble.description>
+  
+  <!-- EN: sandstone spikecore tile -->
+  <Tile_SpikecoreSandstone.label>carrelage de grès piquant</Tile_SpikecoreSandstone.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreSandstone.description>Carreaux de pierres raffinés dans un style piquant.</Tile_SpikecoreSandstone.description>
+  
+  <!-- EN: slate spikecore tile -->
+  <Tile_SpikecoreSlate.label>carrelage d'ardoise piquant</Tile_SpikecoreSlate.label>
+  <!-- EN: Fine stone tiles in a spikecore style. -->
+  <Tile_SpikecoreSlate.description>Carreaux de pierres raffinés dans un style piquant.</Tile_SpikecoreSlate.description>
+  
+  <!-- EN: totemic granite tile -->
+  <Tile_TotemicGranite.label>carrelage de granite totémique</Tile_TotemicGranite.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicGranite.description>Carreaux de pierre raffinés dans un style totémique.</Tile_TotemicGranite.description>
+  
+  <!-- EN: totemic limestone tile -->
+  <Tile_TotemicLimestone.label>carrelage de calcaire totémique</Tile_TotemicLimestone.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicLimestone.description>Carreaux de pierre raffinés dans un style totémique.</Tile_TotemicLimestone.description>
+  
+  <!-- EN: totemic marble tile -->
+  <Tile_TotemicMarble.label>carrelage de marbre totémique</Tile_TotemicMarble.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicMarble.description>Carreaux de pierre raffinés dans un style totémique.</Tile_TotemicMarble.description>
+  
+  <!-- EN: totemic sandstone tile -->
+  <Tile_TotemicSandstone.label>carrelage de grès totémique</Tile_TotemicSandstone.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicSandstone.description>Carreaux de pierre raffinés dans un style totémique.</Tile_TotemicSandstone.description>
+  
+  <!-- EN: totemic slate tile -->
+  <Tile_TotemicSlate.label>carrelage d'ardoise totémique</Tile_TotemicSlate.label>
+  <!-- EN: Fine stone tiles in a totemic style. -->
+  <Tile_TotemicSlate.description>Carreaux de pierre raffinés dans un style totémique.</Tile_TotemicSlate.description>
+  
+  <!-- EN: hex tile -->
+  <Tile_Transhumanist.label>plaques hexagonales</Tile_Transhumanist.label>
+  <!-- EN: Fine steel plates with a hexagonal pattern for that ultra-technological look. -->
+  <Tile_Transhumanist.description>De fines plaques d'acier avec un motif hexagonal pour un look ultra-technologique.</Tile_Transhumanist.description>
+  
+</LanguageData>

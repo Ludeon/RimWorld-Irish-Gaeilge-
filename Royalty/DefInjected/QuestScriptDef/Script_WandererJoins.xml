@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A wander joins with abasia</li>
+  -->
+  <WandererJoinAbasia.questDescriptionRules.rulesStrings>
+    <li>questDescription->Un vagabond paralysé par une abasie vous rejoint</li>
+  </WandererJoinAbasia.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Wanderer joins with abasia</li>
+  -->
+  <WandererJoinAbasia.questNameRules.rulesStrings>
+    <li>questName->Un vagabond abasique vous rejoint</li>
+  </WandererJoinAbasia.questNameRules.rulesStrings>
+  
+</LanguageData>

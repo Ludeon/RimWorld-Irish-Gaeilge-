@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient comms console -->
+  <AncientCommsConsole.label>ancienne console de communication</AncientCommsConsole.label>
+  <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
+  <AncientCommsConsole.description>Une ancienne console avec une parabole de communication attachée. Des pièces de valeur manquent et tout le reste est dégradé et inutile.</AncientCommsConsole.description>
+  
+  <!-- EN: ancient enemy terminal -->
+  <AncientEnemyTerminal.label>ancien terminal ennemi</AncientEnemyTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
+  <AncientEnemyTerminal.description>Un ancien terminal informatique. Il peut être piraté pour appeler des ennemis proches.</AncientEnemyTerminal.description>
+  
+  <!-- EN: ancient unstable fuel node -->
+  <AncientFuelNode.label>ancien nœud combustible instable</AncientFuelNode.label>
+  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
+  <AncientFuelNode.description>Un ancien nœud combustible instable autrefois utilisé pour recharger les machines en carburant. Il est devenu instable au fil des années en raison du manque d'entretien.</AncientFuelNode.description>
+  
+  <!-- EN: hermetic crate -->
+  <AncientHermeticCrate.label>caisse hermétique</AncientHermeticCrate.label>
+  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
+  <AncientHermeticCrate.description>Une caisse auto-alimentée hermétiquement fermée pour la conservation d'objets de valeur. Elles peuvent conserver leur contenu pendant longtemps.</AncientHermeticCrate.description>
+  
+  <!-- EN: security crate -->
+  <AncientSecurityCrate.label>caisse de sécurité</AncientSecurityCrate.label>
+  <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
+  <AncientSecurityCrate.description>Une grande caisse autoalimentée hermétiquement fermée avec des alarmes de sécurité intégrées. Elles peuvent conserver leur contenu pendant longtemps. Si elle est ouverte sans le bon code, elle activera probablement un système de sécurité à proximité.</AncientSecurityCrate.description>
+  
+  <!-- EN: ancient terminal -->
+  <AncientTerminal.label>ancien terminal</AncientTerminal.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
+  <AncientTerminal.description>Un ancien terminal informatique. Il peut être piraté pour révéler des informations oubliées depuis longtemps.</AncientTerminal.description>
+  
+  <!-- EN: ancient terminal -->
+  <AncientTerminal_Worshipful.label>ancien terminal</AncientTerminal_Worshipful.label>
+  <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
+  <AncientTerminal_Worshipful.description>Un ancien terminal informatique. Il peut être piraté pour révéler des informations oubliées depuis longtemps.</AncientTerminal_Worshipful.description>
+  
+</LanguageData>

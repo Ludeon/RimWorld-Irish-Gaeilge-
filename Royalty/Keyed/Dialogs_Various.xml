@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Royal Titles -->
+  <!-- EN: The amount of {FACTION_royalFavorLabel} that your negotiator will personally receive as a result of this deal. -->
+  <RoyalFavorDescription>La quantité de {FACTION_royalFavorLabel} que votre négociateur recevra personnellement suite à cet accord.</RoyalFavorDescription>
+  <!-- EN: Required apparel -->
+  <RoyalTitleTooltipRequiredApparel>Vêtements requis</RoyalTitleTooltipRequiredApparel>
+  <!-- EN: Minimum apparel quality -->
+  <RoyalTitleTooltipRequiredApparelQuality>Qualité minimale des vêtements</RoyalTitleTooltipRequiredApparelQuality>
+  <!-- EN: Bedroom requirements -->
+  <RoyalTitleTooltipBedroomRequirements>Exigences de chambre</RoyalTitleTooltipBedroomRequirements>
+  <!-- EN: Throneroom requirements -->
+  <RoyalTitleTooltipThroneroomRequirements>Exigences de salle du trône</RoyalTitleTooltipThroneroomRequirements>
+  <!-- EN: Title privileges -->
+  <RoyalTitleTooltipPermits>Privilèges du titre</RoyalTitleTooltipPermits>
+  <!-- EN: Holders of this title must be covered in some combination of -->
+  <RoyalTitleRequiredApparelStatDescription>Les titulaires de ce titre doivent s'habiller dans une combinaison de</RoyalTitleRequiredApparelStatDescription>
+  <!-- EN: Any prestige armor -->
+  <ApparelRequirementAnyPrestigeArmor>Toute armure de prestige</ApparelRequirementAnyPrestigeArmor>
+  <!-- EN: Any psycaster apparel -->
+  <ApparelRequirementAnyPsycasterApparel>Tout vêtement d'unité psychique</ApparelRequirementAnyPsycasterApparel>
+  <!-- EN: or any psycaster or prestige apparel -->
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>ou tout autre unité psychique ou vêtement de prestige</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <!-- EN: Disallowed work types -->
+  <DisabledWorkTypes>Types de travail désactivés</DisabledWorkTypes>
+  <!-- EN: Allowed foods -->
+  <RoyalTitleRequiredMeals>Aliments autorisés</RoyalTitleRequiredMeals>
+  <!-- EN: A holder of this title will only eat these foods, unless they are starving or on a caravan. -->
+  <RoyalTitleRequiredMealsDesc>Un titulaire de ce titre ne mangera que ces aliments, à moins qu'il ne meurt de faim ou qu'il ne fasse partie d'une caravane.</RoyalTitleRequiredMealsDesc>
+  <!-- EN: Choose who should participate in bestowing ceremony. -->
+  <ChooseParticipantsBestow>Choisissez qui doit participer aux cérémonies de promotion.</ChooseParticipantsBestow>
+
+  <!-- Royal implants -->
+  <!-- EN: According to laws of {FACTION_name}, one must have the title of {TITLE} to legally use a {IMPLANT}.\n\n{VIOLATIONTRIGGER}, there is a chance {FACTION_name} will detect its psychic signature. This will lead to diplomatic consequences. -->
+  <RoyalImplantIllegalUseWarning>Selon les lois de {FACTION_name}, il faut avoir le titre de {TITLE} pour utiliser légalement un {IMPLANT}.\n\n{VIOLATIONTRIGGER}, il y a une chance que {FACTION_name} détecte sa signature psychique. Cela entraînera des conséquences diplomatiques.</RoyalImplantIllegalUseWarning>
+  <!-- EN: Install this implant anyway? -->
+  <RoyalImplantInstallConfirmation>Installer cet implant quand même ?</RoyalImplantInstallConfirmation>
+  <!-- EN: Upgrade this implant anyway? -->
+  <RoyalImplantUpgradeConfirmation>Mettre de toute façon cet implant à niveau ?</RoyalImplantUpgradeConfirmation>
+
+  <!-- Royal weapons -->
+  <!-- EN: Once bonded to a wielder, the weapon's persona will refuse to be wielded by anyone else. -->
+  <BladelinkEquipWarning>Une fois liée à un porteur, la conscience de l'arme refusera d'être utilisée par quelqu'un d'autre.</BladelinkEquipWarning>
+  <!-- EN: The weapon has the following traits -->
+  <BladelinkEquipWarningTraits>L'arme possède les caractéristiques suivantes</BladelinkEquipWarningTraits>
+  <!-- EN: Are you sure you want to equip this item? -->
+  <RoyalWeaponEquipConfirmation>Êtes vous sûr de vouloir porter cet objet ?</RoyalWeaponEquipConfirmation>
+  
+  <!-- Psycasts -->
+  <!-- EN: Target is psychically deaf. -->
+  <AbilityTargetPsychicallyDeaf>La cible est psychiquement hermétique.</AbilityTargetPsychicallyDeaf>
+  <!-- EN: This is illegal for {PAWN_labelShort}. Requires {TITLE} title. -->
+  <PsycastIsIllegal>Ceci est illégal pour {PAWN_labelShort}. Nécessite le titre de {TITLE}.</PsycastIsIllegal>
+
+  <!-- Skip -->
+  <!-- EN: Cannot skip {PAWN_labelShort} -->
+  <CannotSkipTarget>Impossible de passer {PAWN_labelShort}</CannotSkipTarget>
+  <!-- EN: Too large -->
+  <CannotSkipTargetTooLarge>Trop grand</CannotSkipTargetTooLarge>
+  <!-- EN: Psychic resistance -->
+  <CannotSkipTargetPsychicResistant>Résistance psychique</CannotSkipTargetPsychicResistant>
+
+  <!-- Warning -->
+  <!-- EN: This quest will reward {FACTION_royalFavorLabel} and thus royal titles for {PAWN_labelShort}. -->
+  <QuestGivesRoyalFavor>Cette quête sera récompensée de {FACTION_royalFavorLabel} et par conséquent apportera des titres royaux pour {PAWN_labelShort}.</QuestGivesRoyalFavor>
+  <!-- EN: {PAWN_labelShort} is incapable of social tasks. Those with royal titles have great need of social skills, so if {PAWN_labelShort} gains a title, {PAWN_pronoun} may have a difficult time. Another colonist might be more socially-adept. -->
+  <RoyalIncapableOfSocial>{PAWN_labelShort} est incapable de tâches sociales. Les personnes ayant des titres royaux ont un grand besoin de compétences sociales, par conséquent si {PAWN_labelShort} gagnait un titre, {PAWN_pronoun} pourrait rencontrer des difficultés. Un autre colon pourrait être socialement plus habile.</RoyalIncapableOfSocial>
+  <!-- EN: Since {PAWN_labelShort} is {2}, {PAWN_pronoun} will demand that the title's privileges be fully respected. {PAWN_labelShort} may refuse to do certain work types or eat low-class food, and will issue decrees. Another colonist would probably be more flexible. -->
+  <RoyalWithConceitedTrait>Puisque {PAWN_labelShort} est {2}, {PAWN_pronoun} exigera que les privilèges dû à son rang soient pleinement respectés. {PAWN_labelShort} peut refuser d'accomplir certains types de travaux ou de manger de la nourriture de mauvaise qualité et {PAWN_pronoun} émettra des décrets. Un autre colon serait probablement plus flexible.</RoyalWithConceitedTrait>
+  <!-- EN: Since {PAWN_labelShort} is {2}, the psylink might not be useful for {PAWN_objective}. -->
+  <RoyalWithTraitAffectingPsylinkNegatively>Étant donné que {PAWN_labelShort} est {2}, le lien psychique peut ne pas lui être utile.</RoyalWithTraitAffectingPsylinkNegatively>
+  <!-- EN: {PAWN_labelShort}'s psylink is not at a high enough level to use {ABILITY}.\n\nGain this power anyways? -->
+  <PsylinkTooLowForGainAbility>Le lien psychique de {PAWN_labelShort} n'est pas à un niveau suffisamment élevé pour utiliser {ABILITY}.\n\nVoulez-vous tout de même obtenir ce pouvoir psychique ?</PsylinkTooLowForGainAbility>
+  <!-- EN: This shuttle is empty. If you send it away, you won't be able to use it again.\n\nSend it anyways? -->
+  <SendShuttleWithNoContents>Cette navette est vide. Si vous l'envoyez, vous ne pourrez plus l'utiliser.\n\nVoulez-vous quand même l'envoyer ?</SendShuttleWithNoContents>
+  <!-- EN: These resources would weigh the caravan down and make it unable to move.\n\nCall for them anyways? -->
+  <DropResourcesOverweightConfirm>Ces ressources alourdiraient la caravane et la rendraient incapable de se déplacer.\n\nVoulez-vous quand même les réclamer ?</DropResourcesOverweightConfirm>
+
+</LanguageData>

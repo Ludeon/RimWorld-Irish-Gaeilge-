@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bomb -->
+  <Bomb.label>buama</Bomb.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <Bomb.deathMessage>Básaíodh {0} i bpléascadh.</Bomb.deathMessage>
+  
+  <!-- EN: bomb -->
+  <BombSuper.label>buama</BombSuper.label>
+  <!-- EN: {0} has died in an explosion. -->
+  <BombSuper.deathMessage>Básaíodh {0} i bpléascán.</BombSuper.deathMessage>
+  
+  <!-- EN: deterioration -->
+  <Deterioration.label>meath</Deterioration.label>
+  <!-- EN: {0} has been killed. -->
+  <Deterioration.deathMessage>Básaíodh {0}.</Deterioration.deathMessage>
+  
+  <!-- EN: extinguish -->
+  <Extinguish.label>múchadh</Extinguish.label>
+  <!-- EN: {0} has been killed. -->
+  <Extinguish.deathMessage>Básaíodh {0}.</Extinguish.deathMessage>
+  
+  <!-- EN: mining -->
+  <Mining.label>mianadóireacht</Mining.label>
+  <!-- EN: {0} has been killed. -->
+  <Mining.deathMessage>Básaíodh {0}.</Mining.deathMessage>
+  
+  <!-- EN: rotting -->
+  <Rotting.label>meath</Rotting.label>
+  <!-- EN: {0} has been killed. -->
+  <Rotting.deathMessage>Básaíodh {0}</Rotting.deathMessage>
+  
+  <!-- EN: smoke -->
+  <Smoke.label>deatach</Smoke.label>
+  <!-- EN: {0} has been killed. -->
+  <Smoke.deathMessage>Básaíodh {0}</Smoke.deathMessage>
+  
+  <!-- EN: thump -->
+  <Thump.label>buille</Thump.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Thump.deathMessage>Maraíodh {0} le gunna.</Thump.deathMessage>
+  
+</LanguageData>

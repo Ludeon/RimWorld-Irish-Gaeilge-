@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Autosaving -->
+  <Autosaving>Ag uathshábháil</Autosaving>
+  <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
+  <GameStartDialog>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroiceann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.\n\nTiteann smionagar na spásloinge anuas as an spéir thart timpeall oraibh, agus beidh oraibh pleanáil don am atá le teacht chun an fód a sheasamh...</GameStartDialog>
+  <!-- EN: Colony -->
+  <Colony>Coilíneacht</Colony>
+  <!-- EN: You can only change language from the options screen on the main menu. -->
+  <ChangeLanguageFromMainMenu>Ní féidir an teanga a athrú ach ón bpríomh-roghchlár.</ChangeLanguageFromMainMenu>
+  <!-- EN: and -->
+  <AndLower>agus</AndLower>
+  <!-- EN: disabled -->
+  <DisabledLower>curtha as feidhm</DisabledLower>
+
+  <!-- EN: Version {0} -->
+  <VersionIndicator>Leagan {0}</VersionIndicator>
+  <!-- EN: Game version -->
+  <GameVersionIndicator>Leagan an chluiche</GameVersionIndicator>
+  <!-- EN: development build -->
+  <DevelopmentBuildLower>Leagan forbróra</DevelopmentBuildLower>
+  <!-- EN: Compiled {0} -->
+  <CompiledOn>Tiomsaithe {0}</CompiledOn>
+  <!-- EN: Logged into Steam as {0} -->
+  <LoggedIntoSteamAs>Logáilte isteach in Steam mar {0}</LoggedIntoSteamAs>
+  
+  <!-- ToCommaList() -->
+  <!-- EN: {0} and {1} -->
+  <ToCommaListAnd>{0} agus {1}</ToCommaListAnd>
+  <!-- EN: {0} or {1} -->
+  <ToCommaListOr>{0} nó {1}</ToCommaListOr>
+  
+  <!-- General-use words -->
+  <!-- EN: Yes -->
+  <Yes>Tá</Yes>
+  <!-- EN: No -->
+  <No>Níl</No>
+  <!-- EN: No {0} -->
+  <NoSubject>Gan {0}</NoSubject>
+  <!-- EN: new -->
+  <New>nua</New>
+  <!-- EN: Gender -->
+  <Gender>Inscne</Gender>
+  <!-- EN: Sex -->
+  <Sex>Gnéas</Sex>
+  <!-- EN: min -->
+  <min>íos.</min>
+  <!-- EN: max -->
+  <max>uas.</max>
+  <!-- EN: chance -->
+  <chance>seans</chance>
+  <!-- EN: context -->
+  <context>comhthéacs</context>
+  <!-- EN: multiplier -->
+  <multiplier>iolraitheoir</multiplier>
+  <!-- EN: damage -->
+  <damage>damáiste</damage>
+  <!-- EN: radius -->
+  <radius>ga</radius>
+  <!-- EN: expired -->
+  <expired>éagtha</expired>
+  <!-- EN: duration (days) -->
+  <durationDays>fad (laethanta)</durationDays>
+  <!-- EN: interval (days) -->
+  <intervalDays>eatramh (laethanta)</intervalDays>
+  <!-- EN: repeat -->
+  <repeat>athdhéan</repeat>
+  <!-- EN: default -->
+  <default>default</default>
+  <!-- EN: distance -->
+  <distance>achar</distance>
+  <!-- EN: YES -->
+  <YesUppercase>TÁ</YesUppercase>
+  <!-- EN: NO -->
+  <NoUppercase>NÍL</NoUppercase>
+  <!-- EN: kg -->
+  <kg>cg</kg>
+  <!-- EN: Day -->
+  <Day>Lá</Day>
+  <!-- EN: day -->
+  <day>lá</day>
+  <!-- EN: Default -->
+  <Default>Default</Default>
+  <!-- EN: Average -->
+  <Average>Meán</Average>
+  <!-- EN: Cause -->
+  <Cause>Cúis</Cause>
+  <!-- EN: etc -->
+  <Etc>etc</Etc>
+  <!-- EN: ${0} -->
+  <MoneyFormat>${0}</MoneyFormat>
+  <!-- EN: Factors -->
+  <Factors>Factóirí</Factors>
+  <!-- EN: Uses -->
+  <Uses>Úsáidí</Uses>
+  <!-- EN: Translation -->
+  <Translation>Aistriúchán</Translation>
+
+  <!-- Content generation-->
+  
+  <!-- EN: {0} meat -->
+  <MeatLabel>{0}-fheoil</MeatLabel>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
+  <MeatDesc>Feoil amh. Is féidir béilí a dhéanamh léi, nó í a ithe mar atá.</MeatDesc>
+  <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
+  <MeatInsectDesc>Feoil amh. Más gá, is féidir béilí a dhéanamh léi, nó é a ithe mar atá. Níl cuma rótharraingteach uirthi.</MeatInsectDesc>
+  <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
+  <MeatHumanDesc>Feoil amh. Is féidir béilí a dhéanamh léi, nó é a ithe mar atá, cé nach mbeadh formhór daoine róchompordach á hithe.</MeatHumanDesc>
+
+  <!-- EN: techprint ({PROJECT_label}) -->
+  <TechprintLabel>Techplan ({PROJECT_label})</TechprintLabel>
+  <!-- EN: This is a techprint for the research project '{PROJECT_label}'.
+\nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
+\nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
+\nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
+  <TechprintDesc>Is teic-phrionta é seo don tionscadal '{PROJECT_label}'
+  \nTagann teic-phriontaí in go leor foirmeacha, amhail píosaí páipéir a bhfuil buneolas scríofa orthu, nó meaisíní casta teagaisc. Bíonn an feidhm céanna acu i gcónaí. Tugann siad le fios do thaighdeoirí go bhfuiltear in ann smaoineamh a bhaint amach, agus tugann siad léargas garbh dóibh ar na dearthaí a úsáidtear i sochaithe níos casta.
+  \nTá an t-eolas bunaidh atá i dteic-phriontaí de dhíth ó do thaighdeoirí chun go mbeidh siad in ann tús a chur le teicneolaíocht ar leith. Ní bheidh do thaighdeoirí in ann oibriú amach conas an teicneolaíocht a úsáid go dtí go mbeidh go leor teic-phriontaí bailithe acu.
+  \nMá chuirtear teic-phrionta i bhfeidhm ar thionscadal, críochnófar leath den taighde atá fágtha ar an bpointe. Chomh maith leis sin, gheobhaiodh taighdeoirí borradh lena scileanna intleachtúla nuair a úsaideann siad teic-phríontaí, fiú ar theicneolaíochtaí atá críochnaithe.</TechprintDesc>
+  <!-- EN: Unlocks -->
+  <Unlocks>Baintear amach:</Unlocks>
+
+  <!-- EN: {0} corpse -->
+  <CorpseLabel>{0} marbhán</CorpseLabel>
+  <!-- EN: Dead body of a {0}. -->
+  <CorpseDesc>Marbhán {0}.</CorpseDesc>
+  <!-- EN: {1_label} (dead) -->
+  <DeadLabel>{1_label} (marbh)</DeadLabel>
+
+  <!-- EN: rough {0} -->
+  <RoughStoneTerrainLabel>{0} garbh</RoughStoneTerrainLabel>
+  <!-- EN: Rough, natural {0} ground. -->
+  <RoughStoneTerrainDesc>Talamh {0} garbh, nádúrtha.</RoughStoneTerrainDesc>
+  <!-- EN: rough-hewn {0} -->
+  <RoughHewnStoneTerrainLabel>{0} gearrtha go garbh</RoughHewnStoneTerrainLabel>
+  <!-- EN: Roughly cut natural {0} floor. -->
+  <RoughHewnStoneTerrainDesc>Urlár {0} nádúrtha, gearrtha go garbh.</RoughHewnStoneTerrainDesc>
+  <!-- EN: smooth {0} -->
+  <SmoothStoneTerrainLabel>{0} mín</SmoothStoneTerrainLabel>
+  <!-- EN: Smoothed natural {0} floor. -->
+  <SmoothStoneTerrainDesc>Urlár {0} nádúrtha, líofa.</SmoothStoneTerrainDesc>
+
+  <!-- EN:  (blueprint) -->
+  <BlueprintLabelExtra> (gormchló)</BlueprintLabelExtra>
+  <!-- EN:  (building) -->
+  <FrameLabelExtra> (foirgneamh)</FrameLabelExtra>
+
+  <!-- EN: Unaffiliated -->
+  <FactionUnaffiliated>Neamhchleamhnaithe</FactionUnaffiliated>
+
+  <!-- EN: Continue anyway? -->
+  <StillWishContinue>Lean ar aghaidh ar aon nós?</StillWishContinue>
+  
+  <!-- EN: ba,bah,boo,buh,ga,gah,goo,nyah,na,nah,noo,woo,wah,wuh,ma,mah -->
+  <BabyTalk>bá,bá,bú,bú,gá,gá,gú,gú,ná,ná,wú,wá,wú,má,má</BabyTalk>
+
+  <!-- For things made of stuff, e.g. "Stone bed" -->
+  <!-- 0 is the stuffAdjective property under stuffProps and 1 is the label -->
+  <!-- EN: {0} {1} -->
+  <ThingMadeOfStuffLabel>{1} déanta as {0}</ThingMadeOfStuffLabel>
+
+  <!-- EN: {PAWN_labelShort}'s {1} -->
+  <SomeonesRoom>{1} de chuid {PAWN_labelShort}</SomeonesRoom>
+  <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort}'s {2} -->
+  <CouplesRoom>{2} de chuid {PAWN1_labelShort} agus {PAWN2_labelShort}</CouplesRoom>
+  
+  <!-- EN: Important for this type of room. -->
+  <StatRelatesToCurrentRoom>Tábhachtach do sheomra den sórt seo.</StatRelatesToCurrentRoom>
+  
+  <!-- EN: {COUNT} {RESOURCE_label} underground here. -->
+  <DeepResourceRemaining>{COUNT} {RESOURCE_label} faoin talamh anseo.</DeepResourceRemaining>
+  
+  <!-- EN: (various) -->
+  <VariousLabel>(éagsúil)</VariousLabel>
+
+  <!-- History events -->
+  <!-- EN: Colonist died -->
+  <ColonistDied>Básaíodh coilíneach</ColonistDied>
+  
+  <!-- Rotation -->
+  <!-- EN: North -->
+  <North>Tuaisceart</North>
+  <!-- EN: South -->
+  <South>Deisceart</South>
+  <!-- EN: West -->
+  <West>Iarthar</West>
+  <!-- EN: East -->
+  <East>Oirthear</East>
+
+  <!-- EN: applying techprint ({0}) -->
+  <ApplyingTechprint>teic-phrionta ({0}) á chur i bhfeidhm</ApplyingTechprint>
+
+  <!-- Apparel Looks -->
+  <!-- EN: variant of -->
+  <VariantOf>leagan eile de</VariantOf>
+  
+  <!-- Familial relationships -->
+  <!-- EN: born to {0} -->
+  <BornOfParents>{0}</BornOfParents>
+  <!-- EN: unknown parents -->
+  <ParentsUnknown>tuismitheoirí anaithnid</ParentsUnknown>
+  
+  <!-- Legal status -->
+  <!-- EN: colonist -->
+  <Colonist>coilíneach</Colonist>
+  
+  
+</LanguageData>

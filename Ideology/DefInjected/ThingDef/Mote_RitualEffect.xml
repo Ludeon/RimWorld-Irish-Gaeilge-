@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualGlowRays.label>Particule</Mote_RitualGlowRays.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualGlowSingleRay.label>Particule</Mote_RitualGlowSingleRay.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmoke.label>Particule</Mote_RitualSmoke.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeDust.label>Particule</Mote_RitualSmokeDust.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeDustVague.label>Particule</Mote_RitualSmokeDustVague.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeThick.label>Particule</Mote_RitualSmokeThick.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualSmokeThickSlim.label>Particule</Mote_RitualSmokeThickSlim.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualTechLineA.label>Particule</Mote_RitualTechLineA.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualTechLineB.label>Particule</Mote_RitualTechLineB.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RitualTechLineC.label>Particule</Mote_RitualTechLineC.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RolePawnHighlight.label>Particule</Mote_RolePawnHighlight.label>
+  
+  <!-- EN: Mote -->
+  <Mote_RolePositionHighlight.label>Particule</Mote_RolePositionHighlight.label>
+  
+  <!-- EN: Mote -->
+  <Mote_SpikePipe.label>Particule</Mote_SpikePipe.label>
+  
+  <!-- EN: Mote -->
+  <Mote_TotemOutline.label>Particule</Mote_TotemOutline.label>
+  
+</LanguageData>

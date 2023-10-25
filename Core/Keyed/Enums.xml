@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Glow -->
+  <!-- EN: Dark -->
+  <Dark>Dorcha</Dark>
+  <!-- EN: Lit -->
+  <Lit>Lasta</Lit>
+  <!-- EN: Brightly lit -->
+  <LitBrightly>Lasta go geal</LitBrightly>
+
+  <!-- Price types -->
+  <!-- EN: very cheap -->
+  <PriceTypeVeryCheap>an-saor</PriceTypeVeryCheap>
+  <!-- EN: cheap -->
+  <PriceTypeCheap>saor</PriceTypeCheap>
+  <!-- EN: normal -->
+  <PriceTypeNormal>normálta</PriceTypeNormal>
+  <!-- EN: expensive -->
+  <PriceTypeExpensive>costasach</PriceTypeExpensive>
+  <!-- EN: exorbitant -->
+  <PriceTypeExorbitant>an-chostasach</PriceTypeExorbitant>
+
+  <!-- Storage priority labels -->
+  <!-- EN: unstored -->
+  <StoragePriorityUnstored>neamhstóráilte</StoragePriorityUnstored>
+  <!-- EN: low -->
+  <StoragePriorityLow>íseal</StoragePriorityLow>
+  <!-- EN: normal -->
+  <StoragePriorityNormal>normálta</StoragePriorityNormal>
+  <!-- EN: preferred -->
+  <StoragePriorityPreferred>tosaíochta</StoragePriorityPreferred>
+  <!-- EN: important -->
+  <StoragePriorityImportant>tábachtach</StoragePriorityImportant>
+  <!-- EN: critical -->
+  <StoragePriorityCritical>criticiúil</StoragePriorityCritical>
+
+  <!-- Food type flags -->
+  <!-- EN: vegetables -->
+  <FoodTypeFlags_VegetableOrFruit>glasraí</FoodTypeFlags_VegetableOrFruit>
+  <!-- EN: raw meat -->
+  <FoodTypeFlags_Meat>feoil amh</FoodTypeFlags_Meat>
+  <!-- EN: corpses -->
+  <FoodTypeFlags_Corpse>marbháin</FoodTypeFlags_Corpse>
+  <!-- EN: seeds -->
+  <FoodTypeFlags_Seed>síolraí</FoodTypeFlags_Seed>
+  <!-- EN: animal products -->
+  <FoodTypeFlags_AnimalProduct>tairgí ainmhithe</FoodTypeFlags_AnimalProduct>
+  <!-- EN: live plants -->
+  <FoodTypeFlags_Plant>plandaí beo</FoodTypeFlags_Plant>
+  <!-- EN: live trees -->
+  <FoodTypeFlags_Tree>crinn bheo</FoodTypeFlags_Tree>
+  <!-- EN: meals -->
+  <FoodTypeFlags_Meal>béiltí</FoodTypeFlags_Meal>
+  <!-- EN: processed foods -->
+  <FoodTypeFlags_Processed>bia próiseáilte</FoodTypeFlags_Processed>
+  <!-- EN: liquor -->
+  <FoodTypeFlags_Liquor>alcól</FoodTypeFlags_Liquor>
+  <!-- EN: kibble -->
+  <FoodTypeFlags_Kibble>fodar</FoodTypeFlags_Kibble>
+
+  <!-- Quality category -->
+  <!-- EN: awful -->
+  <QualityCategory_Awful>uafásach</QualityCategory_Awful>
+  <!-- EN: poor -->
+  <QualityCategory_Poor>olc</QualityCategory_Poor>
+  <!-- EN: normal -->
+  <QualityCategory_Normal>normálta</QualityCategory_Normal>
+  <!-- EN: good -->
+  <QualityCategory_Good>maith</QualityCategory_Good>
+  <!-- EN: excellent -->
+  <QualityCategory_Excellent>iontach</QualityCategory_Excellent>
+  <!-- EN: masterwork -->
+  <QualityCategory_Masterwork>máistriúil</QualityCategory_Masterwork>
+  <!-- EN: legendary -->
+  <QualityCategory_Legendary>foirfe</QualityCategory_Legendary>
+  <!-- EN: awfl -->
+  <QualityCategoryShort_Awful>uaf</QualityCategoryShort_Awful>
+  <!-- EN: poor -->
+  <QualityCategoryShort_Poor>olc</QualityCategoryShort_Poor>
+  <!-- EN: norm -->
+  <QualityCategoryShort_Normal>norm</QualityCategoryShort_Normal>
+  <!-- EN: good -->
+  <QualityCategoryShort_Good>mth</QualityCategoryShort_Good>
+  <!-- EN: exc -->
+  <QualityCategoryShort_Excellent>ion</QualityCategoryShort_Excellent>
+  <!-- EN: mast -->
+  <QualityCategoryShort_Masterwork>máis</QualityCategoryShort_Masterwork>
+  <!-- EN: legd -->
+  <QualityCategoryShort_Legendary>frfe</QualityCategoryShort_Legendary>
+  
+  <!-- Hunger -->
+  <!-- EN: Starving -->
+  <HungerLevel_Starving>Stiúgtha</HungerLevel_Starving>
+  <!-- EN: Urgently hungry -->
+  <HungerLevel_UrgentlyHungry>An-ocrasach</HungerLevel_UrgentlyHungry>
+  <!-- EN: Hungry -->
+  <HungerLevel_Hungry>Ocrasach</HungerLevel_Hungry>
+  <!-- EN: Fed -->
+  <HungerLevel_Fed>Cothaithe</HungerLevel_Fed>
+
+  <!-- -Fatigue -->
+  <!-- EN: Exhausted -->
+  <HungerLevel_Exhausted>Traochta</HungerLevel_Exhausted>
+  <!-- EN: Very tired -->
+  <HungerLevel_VeryTired>An-tuirseach</HungerLevel_VeryTired>
+  <!-- EN: Tired -->
+  <HungerLevel_Tired>Tuirseach</HungerLevel_Tired>
+  <!-- EN: Rested -->
+  <HungerLevel_Rested>Scíth ligthe</HungerLevel_Rested>
+
+  <!-- Hilliness -->
+  <!-- EN: flat -->
+  <Hilliness_Flat>cothrom</Hilliness_Flat>
+  <!-- EN: small hills -->
+  <Hilliness_SmallHills>cnoic bheaga</Hilliness_SmallHills>
+  <!-- EN: large hills -->
+  <Hilliness_LargeHills>cnoic mhóra</Hilliness_LargeHills>
+  <!-- EN: mountainous -->
+  <Hilliness_Mountainous>sléibhte</Hilliness_Mountainous>
+  <!-- EN: impassable -->
+  <Hilliness_Impassable>dosháraithe</Hilliness_Impassable>
+  
+  <!-- Steam workshop interaction -->
+  <!-- EN: Creating -->
+  <WorkshopInteractStage_CreatingItem>Á chruthú</WorkshopInteractStage_CreatingItem>
+  <!-- EN: Submitting -->
+  <WorkshopInteractStage_SubmittingItem>Á chur isteach</WorkshopInteractStage_SubmittingItem>
+  <!-- EN: Invalid -->
+  <EItemUpdateStatus_k_EItemUpdateStatusInvalid>Neamhbhailí</EItemUpdateStatus_k_EItemUpdateStatusInvalid>
+  <!-- EN: Preparing config data -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>Sonraí cumraíochta á n-ullmhú</EItemUpdateStatus_k_EItemUpdateStatusPreparingConfig>
+  <!-- EN: Preparing content files -->
+  <EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>Comhaid cumraíochta á n-ullmhú</EItemUpdateStatus_k_EItemUpdateStatusPreparingContent>
+  <!-- EN: Uploading content -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>Ábhar á uaslódáil</EItemUpdateStatus_k_EItemUpdateStatusUploadingContent>
+  <!-- EN: Uploading preview file -->
+  <EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>Comhad réamhamhairc á uaslódáil</EItemUpdateStatus_k_EItemUpdateStatusUploadingPreviewFile>
+  <!-- EN: Committing changes -->
+  <EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>Athruithe á gcur i bhfeidhm</EItemUpdateStatus_k_EItemUpdateStatusCommittingChanges>
+
+  <!-- Mod sources -->
+  <!-- EN: Official content -->
+  <ContentSource_OfficialModsFolder>Ábhar oifigiúil</ContentSource_OfficialModsFolder>
+  <!-- EN: Local folder -->
+  <ContentSource_ModsFolder>Fillteán áitiúil</ContentSource_ModsFolder>
+  <!-- EN: Steam Workshop -->
+  <ContentSource_SteamWorkshop>Steam Workshop</ContentSource_SteamWorkshop>
+  
+  <!-- Medical care category -->
+  <!-- EN: no medical care -->
+  <MedicalCareCategory_NoCare>gan chóireáil leighis</MedicalCareCategory_NoCare>
+  <!-- EN: doctor care, but no medicine -->
+  <MedicalCareCategory_NoMeds>cúram dochtúra, ach gan leigheas</MedicalCareCategory_NoMeds>
+  <!-- EN: herbal medicine or worse -->
+  <MedicalCareCategory_HerbalOrWorse>leigheas luibhe nó níos ísle</MedicalCareCategory_HerbalOrWorse>
+  <!-- EN: industrial-tech medicine or worse -->
+  <MedicalCareCategory_NormalOrWorse>leigheas tionsclaíoch nó níos ísle</MedicalCareCategory_NormalOrWorse>
+  <!-- EN: best quality medicine -->
+  <MedicalCareCategory_Best>an leigheas ar an gcaighdeán is fearr</MedicalCareCategory_Best>
+
+  <!-- Hostility response mode -->
+  <!-- EN: Ignore -->
+  <HostilityResponseMode_Ignore>Neamhaird</HostilityResponseMode_Ignore>
+  <!-- EN: Attack -->
+  <HostilityResponseMode_Attack>Ionsaigh</HostilityResponseMode_Attack>
+  <!-- EN: Flee -->
+  <HostilityResponseMode_Flee>Teith</HostilityResponseMode_Flee>
+  
+  <!-- HediffGrowthMode -->
+  <!-- EN: growing -->
+  <HediffGrowthMode_Growing>ag fás</HediffGrowthMode_Growing>
+  <!-- EN: stable -->
+  <HediffGrowthMode_Stable>seasmhach</HediffGrowthMode_Stable>
+  <!-- EN: remission -->
+  <HediffGrowthMode_Remission>ag laghdú</HediffGrowthMode_Remission>
+
+  <!-- TechLevel -->
+  <!-- EN: animal -->
+  <TechLevel_Animal>ainmhí</TechLevel_Animal>
+  <!-- EN: neolithic -->
+  <TechLevel_Neolithic>neoiliteach</TechLevel_Neolithic>
+  <!-- EN: medieval -->
+  <TechLevel_Medieval>meánaoiseach</TechLevel_Medieval>
+  <!-- EN: industrial -->
+  <TechLevel_Industrial>tionsclaíoch</TechLevel_Industrial>
+  <!-- EN: spacer -->
+  <TechLevel_Spacer>spásaire</TechLevel_Spacer>
+  <!-- EN: ultra -->
+  <TechLevel_Ultra>ultra</TechLevel_Ultra>
+  <!-- EN: archotech -->
+  <TechLevel_Archotech>arcai-teicneolaíochta</TechLevel_Archotech>
+
+  <!-- Player pawns arrive method -->
+  <!-- EN: Standing -->
+  <PlayerPawnsArriveMethod_Standing>Ag seasamh</PlayerPawnsArriveMethod_Standing>
+  <!-- EN: Drop pods -->
+  <PlayerPawnsArriveMethod_DropPods>Podanna leandála</PlayerPawnsArriveMethod_DropPods>
+
+  <!-- Pawn generation context -->
+  <!-- EN: all characters -->
+  <PawnGenerationContext_All>gach carachtar</PawnGenerationContext_All>
+  <!-- EN: player starting characters -->
+  <PawnGenerationContext_PlayerStarter>carachtair tosaigh</PawnGenerationContext_PlayerStarter>
+  <!-- EN: non-player characters -->
+  <PawnGenerationContext_NonPlayer>carachtair ríomhrialaithe</PawnGenerationContext_NonPlayer>
+
+  <!-- Screen shake mode -->
+  <!-- EN: Screen shake intensity -->
+  <ScreenShakeIntensity>Déine: creathán ceamara</ScreenShakeIntensity>
+  
+  <!-- Animal name display mode -->
+  <!-- EN: Show animal names -->
+  <ShowAnimalNames>Taispeán ainmneacha ainmhithe</ShowAnimalNames>
+  <!-- EN: Tame (named only) -->
+  <AnimalNameDisplayMode_TameNamed>Ceansaigh (ainmnithe amháin)</AnimalNameDisplayMode_TameNamed>
+  <!-- EN: Tame (all) -->
+  <AnimalNameDisplayMode_TameAll>Ceansaigh (gach)</AnimalNameDisplayMode_TameAll>
+  
+  <!-- Mech name display mode -->
+  <!-- EN: Show player mech names -->
+  <ShowMechNames>Taispeáin ainmneacha róbat an imreora</ShowMechNames>
+  <!-- EN: While drafted -->
+  <MechNameDisplayMode_WhileDrafted>agus iad dréachtaithe</MechNameDisplayMode_WhileDrafted>
+  <!-- EN: always -->
+  <MechNameDisplayMode_Always>i gcónaí</MechNameDisplayMode_Always>
+
+  <!-- Show weapons under portrait mode -->
+  <!-- EN: Weapons below portrait -->
+  <ShowWeaponsUnderPortrait>Taispeáin airm faoin bpictiúr</ShowWeaponsUnderPortrait>
+  <!-- EN: Show weapons below each person's portrait on the colonist bar at the top of the screen -->
+  <ShowWeaponsUnderPortraitTooltip>Taispeáin airm faoi phictiúr gach coilínigh ar bharr an scáileáin.</ShowWeaponsUnderPortraitTooltip>
+  <!-- EN: always -->
+  <ShowWeapons_Always>i gcónaí</ShowWeapons_Always>
+  <!-- EN: while drafted -->
+  <ShowWeapons_WhileDrafted>agus iad dréachtaithe</ShowWeapons_WhileDrafted>
+
+  <!-- Temperature -->
+  <!-- EN: Celsius -->
+  <Celsius>Celsius</Celsius>
+  <!-- EN: Fahrenheit -->
+  <Fahrenheit>Fahrenheit</Fahrenheit>
+  <!-- EN: Kelvin -->
+  <Kelvin>Kelvin</Kelvin>
+  
+  <!-- Direction8Way -->
+  <!-- EN: N -->
+  <Direction8Way_North_Short>T</Direction8Way_North_Short>
+  <!-- EN: NE -->
+  <Direction8Way_NorthEast_Short>OT</Direction8Way_NorthEast_Short>
+  <!-- EN: E -->
+  <Direction8Way_East_Short>O</Direction8Way_East_Short>
+  <!-- EN: SE -->
+  <Direction8Way_SouthEast_Short>OD</Direction8Way_SouthEast_Short>
+  <!-- EN: S -->
+  <Direction8Way_South_Short>D</Direction8Way_South_Short>
+  <!-- EN: SW -->
+  <Direction8Way_SouthWest_Short>ID</Direction8Way_SouthWest_Short>
+  <!-- EN: W -->
+  <Direction8Way_West_Short>I</Direction8Way_West_Short>
+  <!-- EN: NW -->
+  <Direction8Way_NorthWest_Short>IT</Direction8Way_NorthWest_Short>
+  
+  <!-- Diet category -->
+  <!-- EN: Never eats -->
+  <DietCategory_NeverEats>Ní itheann</DietCategory_NeverEats>
+  <!-- EN: Herbivorous -->
+  <DietCategory_Herbivorous>Luibhiteach</DietCategory_Herbivorous>
+  <!-- EN: Dendrovorous -->
+  <DietCategory_Dendrovorous>Crainniteach</DietCategory_Dendrovorous>
+  <!-- EN: Ovivorous -->s
+  <DietCategory_Ovivorous>Uibhiteach</DietCategory_Ovivorous>
+  <!-- EN: Omnivorous -->
+  <DietCategory_Omnivorous>Uiliteach</DietCategory_Omnivorous>
+  <!-- EN: Carnivorous -->
+  <DietCategory_Carnivorous>Feoiliteach</DietCategory_Carnivorous>
+  <!-- EN: - -->
+  <DietCategory_NeverEats_Short>-</DietCategory_NeverEats_Short>
+  <!-- EN: H -->
+  <DietCategory_Herbivorous_Short>L</DietCategory_Herbivorous_Short>
+  <!-- EN: D -->
+  <DietCategory_Dendrovorous_Short>C</DietCategory_Dendrovorous_Short>
+  <!-- EN: Ov -->
+  <DietCategory_Ovivorous_Short>UBH</DietCategory_Ovivorous_Short>
+  <!-- EN: O -->
+  <DietCategory_Omnivorous_Short>UIL</DietCategory_Omnivorous_Short>
+  <!-- EN: C -->
+  <DietCategory_Carnivorous_Short>F</DietCategory_Carnivorous_Short>
+
+  <!-- Food poison cause -->
+  <!-- EN: incompetent cook -->
+  <FoodPoisonCause_IncompetentCook>droch-chócaire</FoodPoisonCause_IncompetentCook>
+  <!-- EN: dirty cooking area -->
+  <FoodPoisonCause_FilthyKitchen>láthair cócaireachta shalach</FoodPoisonCause_FilthyKitchen>
+  <!-- EN: rotten food -->
+  <FoodPoisonCause_Rotten>bia lofa</FoodPoisonCause_Rotten>
+  <!-- EN: dangerous food type -->
+  <FoodPoisonCause_DangerousFoodType>bia dáinséarach</FoodPoisonCause_DangerousFoodType>
+
+  <!-- Psychic drone level -->
+  <!-- EN: none -->
+  <PsychicDroneLevel_None>ceann ar bith</PsychicDroneLevel_None>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_GoodMedium>meánach</PsychicDroneLevel_GoodMedium>
+  <!-- EN: low -->
+  <PsychicDroneLevel_BadLow>íseal</PsychicDroneLevel_BadLow>
+  <!-- EN: medium -->
+  <PsychicDroneLevel_BadMedium>meánach</PsychicDroneLevel_BadMedium>
+  <!-- EN: high -->
+  <PsychicDroneLevel_BadHigh>ard</PsychicDroneLevel_BadHigh>
+  <!-- EN: extreme -->
+  <PsychicDroneLevel_BadExtreme>an-ard</PsychicDroneLevel_BadExtreme>
+  
+  <!-- Automatic pause mode -->
+  <!-- EN: Never -->
+  <AutomaticPauseMode_Never>Riamh</AutomaticPauseMode_Never>
+  <!-- EN: Major threats -->
+  <AutomaticPauseMode_MajorThreat>Bagairtí tromchúiseacha</AutomaticPauseMode_MajorThreat>
+  <!-- EN: Any threat -->
+  <AutomaticPauseMode_AnyThreat>Aon bheagairt</AutomaticPauseMode_AnyThreat>
+  <!-- EN: Any letter -->
+  <AutomaticPauseMode_AnyLetter>Aon teachtaireacht</AutomaticPauseMode_AnyLetter>
+
+  <!-- Pain category -->
+  <!-- EN: itchy -->
+  <PainCategory_LowPain>tochasach</PainCategory_LowPain>
+  <!-- EN: aching -->
+  <PainCategory_MediumPain>nimhneach</PainCategory_MediumPain>
+  <!-- EN: painful -->
+  <PainCategory_HighPain>pianmhar</PainCategory_HighPain>
+  
+  <!-- ExtraFactionType -->
+  <!-- EN: home faction -->
+  <ExtraFactionType_HomeFaction>faicsean baile</ExtraFactionType_HomeFaction>
+  <!-- EN: remote host faction -->
+  <ExtraFactionType_HostFaction>faicsean óstach</ExtraFactionType_HostFaction>
+  <!-- EN: group -->
+  <ExtraFactionType_MiniFaction>grúpa</ExtraFactionType_MiniFaction>
+
+  <!-- DrugCategory -->
+  <!-- EN: drug category -->
+  <DrugCategory>cineál druga</DrugCategory>
+  <!-- EN: none -->
+  <DrugCategory_None>drugaí ar bith</DrugCategory_None>
+  <!-- EN: medical -->
+  <DrugCategory_Medical>leigheas</DrugCategory_Medical>
+  <!-- EN: social -->
+  <DrugCategory_Social>sóisialta</DrugCategory_Social>
+  <!-- EN: hard -->
+  <DrugCategory_Hard>crua</DrugCategory_Hard>
+  <!-- EN: any -->
+  <DrugCategory_Any>aon drugaí</DrugCategory_Any>
+  
+</LanguageData>

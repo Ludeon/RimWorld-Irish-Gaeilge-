@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ark -->
+  <RelicInertArk.label>arche</RelicInertArk.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertArk.description>Un objet ayant une signification idéoligieuse.</RelicInertArk.description>
+  
+  <!-- EN: box -->
+  <RelicInertBox.label>boîte</RelicInertBox.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertBox.description>Un objet ayant une signification idéoligieuse.</RelicInertBox.description>
+  
+  <!-- EN: cube -->
+  <RelicInertCube.label>cube</RelicInertCube.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertCube.description>Un objet ayant une signification idéoligieuse.</RelicInertCube.description>
+  
+  <!-- EN: chalice -->
+  <RelicInertCup.label>calice</RelicInertCup.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertCup.description>Un objet ayant une signification idéoligieuse.</RelicInertCup.description>
+  
+  <!-- EN: fragment -->
+  <RelicInertFragment.label>fragment</RelicInertFragment.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertFragment.description>Un objet ayant une signification idéoligieuse.</RelicInertFragment.description>
+  
+  <!-- EN: pendant -->
+  <RelicInertPendant.label>pendentif</RelicInertPendant.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertPendant.description>Un objet ayant une signification idéoligieuse.</RelicInertPendant.description>
+  
+  <!-- EN: hilt -->
+  <RelicInertSwordHandle.label>poignée</RelicInertSwordHandle.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertSwordHandle.description>Un objet ayant une signification idéoligieuse.</RelicInertSwordHandle.description>
+  
+  <!-- EN: tablet -->
+  <RelicInertTablet.label>tablette</RelicInertTablet.label>
+  <!-- EN: An object with ideoligious significance. -->
+  <RelicInertTablet.description>Un objet ayant une signification idéoligieuse.</RelicInertTablet.description>
+  
+</LanguageData>

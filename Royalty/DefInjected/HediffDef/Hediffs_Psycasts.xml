@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: entropy link -->
+  <EntropyLink.label>lien entropique</EntropyLink.label>
+  <!-- EN: A psychic link with another individual. Gain or loss of neural heat incurred by one will be shared equally between both. -->
+  <EntropyLink.description>Un lien psychique avec un autre individu. Le gain ou la perte d'échauffement neuronal subi par l'un affectera également l'autre membre du duo.</EntropyLink.description>
+  
+  <!-- EN: joyfuzz -->
+  <Joyfuzz.label>sentiment de bonheur</Joyfuzz.label>
+  <!-- EN: Psychically-induced feelings of warmth, comfort, and acceptance. This improves mood, but the lack of negative stimulation induces a mild stupor and reduces consciousness. -->
+  <Joyfuzz.description>Sentiments de chaleur, de confort et d'acceptation induits psychiquement. Cela améliore l'humeur, mais l'absence de stimulation négative induit une légère stupeur et réduit la conscience.</Joyfuzz.description>
+  
+  <!-- EN: psychic anesthesia -->
+  <PsychicAnesthesia.label>anesthésie psychique</PsychicAnesthesia.label>
+  <!-- EN: Psychically-induced pain insensitivity. -->
+  <PsychicAnesthesia.description>Insensibilité à la douleur induite psychiquement.</PsychicAnesthesia.description>
+  
+  <!-- EN: psychic blindness -->
+  <PsychicBlindness.label>cécité psychique</PsychicBlindness.label>
+  <!-- EN: Psychically-induced partial blindness. -->
+  <PsychicBlindness.description>Cécité partielle induite psychiquement.</PsychicBlindness.description>
+  
+  <!-- EN: psychic breakdown -->
+  <PsychicBreakdown.label>dépression psychique</PsychicBreakdown.label>
+  <!-- EN: Deep psychic destabilization of the mind. Psychic breakdown last for days, causing mental disturbances of various kinds. It resolves itself with time. -->
+  <PsychicBreakdown.description>Déstabilisation psychique de l'esprit durant plusieurs jours, provoquant des troubles mentaux de toutes sortes. Cela disparaît d'elle-même avec le temps.</PsychicBreakdown.description>
+  <!-- EN: minor -->
+  <PsychicBreakdown.stages.minor.label>mineure</PsychicBreakdown.stages.minor.label>
+  <!-- EN: major -->
+  <PsychicBreakdown.stages.major.label>majeure</PsychicBreakdown.stages.major.label>
+  <!-- EN: total -->
+  <PsychicBreakdown.stages.total.label>totale</PsychicBreakdown.stages.total.label>
+  
+  <!-- EN: psychic burden -->
+  <PsychicBurden.label>fardeau psychique</PsychicBurden.label>
+  <!-- EN: Psychically-induced difficulty in locomotion. -->
+  <PsychicBurden.description>Difficulté de locomotion induite psychiquement.</PsychicBurden.description>
+  
+  <!-- EN: neural heat -->
+  <PsychicEntropy.label>échauffement neuronal</PsychicEntropy.label>
+  <!-- EN: Despite being called "heat", neural heat is not a measure of temperature. It refers to a type of chaotic psychic energy in the mind which builds up when using psychic powers and dissipates over the course of a few seconds or minutes.\n\nIf neural heat is pushed past normal limits, it may cause temporary psychic breakdown and unconsciousness due to psychic shock. These conditions don't cause permanent damage. -->
+  <PsychicEntropy.description>Bien qu'il soit appelé «chaleur», l'échauffement neuronal n'est pas une mesure de la température. Il fait référence à un type d'énergie psychique chaotique dans l'esprit qui se développe lors de l'utilisation de pouvoirs psychiques et qui se dissipe en quelques secondes ou minutes.\n\nSi l'échauffement neuronal est poussé au-delà des limites normales, cela peut provoquer une dépression psychique temporaire et une perte de conscience en raison d'un choc psychique. Aucun de ces effets ne causent de dommages permanents.</PsychicEntropy.description>
+  <!-- EN: Chaotic energy in the mind which builds up when using psychic powers. If pushed past normal limits, it may cause psychic breakdown and unconsciousness. -->
+  <PsychicEntropy.descriptionShort>Énergie chaotique dans l'esprit qui s'accumule lors de l'utilisation de pouvoirs psychiques. Poussé au-delà des limites normales cela peut provoquer une dépression psychique et une perte de conscience.</PsychicEntropy.descriptionShort>
+  <!-- EN: safe -->
+  <PsychicEntropy.stages.safe.label>sûr</PsychicEntropy.stages.safe.label>
+  <!-- EN: overloaded -->
+  <PsychicEntropy.stages.overloaded.label>surchargée</PsychicEntropy.stages.overloaded.label>
+  <!-- EN: very overloaded -->
+  <PsychicEntropy.stages.very_overloaded.label>fortement surchargé</PsychicEntropy.stages.very_overloaded.label>
+  <!-- EN: extreme -->
+  <PsychicEntropy.stages.extreme.label>extrême</PsychicEntropy.stages.extreme.label>
+  <!-- EN: overwhelming -->
+  <PsychicEntropy.stages.overwhelming.label>accablant</PsychicEntropy.stages.overwhelming.label>
+  
+  <!-- EN: psychic focus -->
+  <PsychicFocus.label>concentration psychique</PsychicFocus.label>
+  <!-- EN: Psychically-induced mental focus, increasing sight, hearing and movement capacities. -->
+  <PsychicFocus.description>Concentration mentale induite psychiquement, augmentant les capacités visuelles, auditives et kinétiques.</PsychicFocus.description>
+  
+  <!-- EN: psychic invisibility -->
+  <PsychicInvisibility.label>invisibilité psychique</PsychicInvisibility.label>
+  <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected. -->
+  <PsychicInvisibility.description>Invisibilité induite psychiquement. Dans la pratique cela affecte les personnes se trouvant à proximité, ce qui rend leur cerveau incapable de percevoir cet individu, même si les yeux ne sont pas affectés.</PsychicInvisibility.description>
+  
+  <!-- EN: psychic love -->
+  <PsychicLove.label>amour psychique</PsychicLove.label>
+  <!-- EN: Psychically-induced adoration. This increases an individual's opinion of someone else, and between adults increases the likelihood of romantic advances and marriage proposals, while reducing the chance of a breakup. -->
+  <PsychicLove.description>Adoration induite psychiquement. Cela augmente l'opinion d'une personne vis-à-vis de quelqu'un d'autre et augmente la probabilité d'avances romantiques ou de propositions de mariage, tout en réduisant le risque de rupture.</PsychicLove.description>
+  <!-- EN: for -->
+  <PsychicLove.targetPrefix>pour</PsychicLove.targetPrefix>
+  
+  <!-- EN: psychic vertigo -->
+  <PsychicVertigo.label>vertige psychique</PsychicVertigo.label>
+  <!-- EN: Psychically-induced loss of spatial orientation. This will cause flesh creatures to vomit. -->
+  <PsychicVertigo.description>Perte d'orientation spatiale induite psychiquement. Cela provoquera des vomissements chez les créatures organiques.</PsychicVertigo.description>
+  
+</LanguageData>

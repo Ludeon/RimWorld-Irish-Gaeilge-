@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human primacy -->
+  <HumanPrimacy.label>humaniste</HumanPrimacy.label>
+  <!-- EN: Humans are the moral center of the universe. -->
+  <HumanPrimacy.description>Les humains sont le centre moral de l'univers.</HumanPrimacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] created all of nature, and gave it to man as a gift, to serve man and his purposes forever.</li>
+    <li>episode(uses=1,tag=meme_HumanPrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their struggle, and gave them weapons to control nature.</li>
+    <li>intro(tag=meme_HumanPrimacy)           ->The first crashlanded settlers of the [place_summary] [place_name] were beset by manhunting [Animal]s. [deity0_name] intervened, slaying the beasts and making clear [deity0_possessive] preference for the human race.</li>
+    <li>conflict(tag=meme_HumanPrimacy)        ->An anti-human [foeLeader] made an edict giving some equal rights to both animals and humans. [deity0_name] wept as the [memberNamePlural] were forced to give their rights to [Animal]s and [Animal]s.</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)     ->A [place_job] named [founderName] founded the now-famous xeno-zoo on [place_name]. [founder_pronoun] used animal slaughter performances to teach visitors about [deity0_name]'s desire for humanity to rule nature.</li>
+    <li>victory(tag=meme_HumanPrimacy)         ->Because of [founderName]'s actions, the [foeLeader]'s [foeSoldiers] saw [deity0_name]'s truth. They celebrated their shared humanity with the [memberNamePlural] and banished the [foeLeader] to live in the wilderness like an animal.</li>
+    <li>setup(tag=meme_HumanPrimacy)           ->[founderName] built a colony on a green world, spreading the dominion of humanity over every field and forest.</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)    ->Once, [founderName] saw a dog growl at a boy. [founder_pronoun] ordered the dog killed on the spot.</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)         ->I visited a well-run farm full of healthy animals and thriving crops. Beside it was a forest in its natural state, gnarled and vicious. It was obvious that</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->human beings alone are what give meaning to the universe</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->nature is an endless frenzy of immoral destruction, and humans are the solution</li>
+    <li>lessonReinforcement(tag=meme_HumanPrimacy) ->If the contest is survival of the fittest, then we have clearly won.</li>
+    <li>archistBasis(tag=meme_HumanPrimacy)    ->Archotechs are machines of vast will and power, but only humanity could create them.</li>
+    <li>archistFact(tag=meme_HumanPrimacy)     ->Humans are the device-makers, and the archotechs are their devices.</li>
+    <li>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], by observing humanity, the archotechs will finally understand their purpose, and lift confident humanity up to rule them.</li>
+    <li>animistFact(tag=meme_HumanPrimacy)     ->Nature's animals are the spirits of slaves, and demand to be taken into service.</li>
+  -->
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HumanPrimacy)        ->[deity0_name] créa la nature et l'a donna à l'homme en cadeau, pour servir l'homme et ses desseins pour toujours.</li>
+    <li>episode(uses=1,tag=meme_HumanPrimacy)  ->Les gens se battirent avec les bêtes de la forêt, et [deity0_name] vit leur lutte et leur donna des armes pour contrôler la nature.</li>
+    <li>intro(tag=meme_HumanPrimacy)           ->Les premiers colons qui s'écrasèrent sur [place_summary] [place_name] furent attaqués par une meute de [Animal_AnyPlural]. [deity0_name] intervint, tuant les bêtes et indiquant clairement sa préférence pour la race humaine.</li>
+    <li>conflict(tag=meme_HumanPrimacy)        ->Un [foeLeader] anti-humain fit un édit donnant des droits égaux aux animaux et aux humains. [deity0_name] pleura alors que les [memberNamePlural] furent contraints de céder leurs droits aux [Animal_AnyPlural] et aux [Animal_AnyPlural].</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)     ->Un [place_job] nommé [founderName] fonda le désormais célèbre xéno-zoo sur [place_name]. [founder_pronoun] utilisa des spectacles d'abattage d'animaux pour expliquer aux visiteurs le désir de [deity0_name] que l'humanité règne sur la nature.</li>
+    <li>victory(tag=meme_HumanPrimacy)         ->À cause des actions de [founderName], les [foeSoldiers] de [foeLeader] virent la vérité de [deity0_name]. Ils célébrèrent leur humanité partagée avec les [memberNamePlural] et bannirent le [foeLeader] pour vivre dans le désert comme un animal.</li>
+    <li>setup(tag=meme_HumanPrimacy)           ->[founderName] a construit une colonie sur un monde verdoyant, étendant la domination de l'humanité sur chaque champ et forêt.</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)    ->Une fois, [founderName] vit un chien grogner sur un garçon. [founder_pronoun] ordonna que le chien soit tué sur place.</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)         ->J'ai visité une ferme bien gérée pleine d'animaux en bonne santé et de cultures florissantes. A côté se trouvait une forêt à l'état naturel, noueuse et vicieuse. Il était évident que</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->les êtres humains sont les seuls qui donne un sens à l'univers</li>
+    <li>lesson(tag=meme_HumanPrimacy)              ->la nature est une frénésie sans fin de destruction immorale, et les humains sont la solution</li>
+    <li>lessonReinforcement(tag=meme_HumanPrimacy) ->Si le concours est la survie du plus fort, alors nous avons clairement gagné.</li>
+    <li>archistBasis(tag=meme_HumanPrimacy)    ->Les archotechs sont des machines d'une volonté et d'un pouvoir immenses, mais seule l'humanité pourrait les créer.</li>
+    <li>archistFact(tag=meme_HumanPrimacy)     ->Les humains sont les fabricants d'appareils, et les archotechs sont leurs appareils.</li>
+    <li>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], en observant l'humanité, les archotechs comprendront enfin leur objectif et élèveront une humanité confiante pour les gouverner.</li>
+    <li>animistFact(tag=meme_HumanPrimacy)     ->Les animaux de la nature sont des esprits d'esclaves et demandent à être mis en service.</li>
+  </HumanPrimacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->human</li>
+    <li>memeAdjective->mortal</li>
+    <li>memeAdjective->hominid</li>
+    <li>memeHyphenPrefix->anthro</li>
+    <li>memeConcept->mankind</li>
+    <li>memeConcept->humanity</li>
+    <li>memeLeaderNoun->human</li>
+    <li>memeLeaderNoun->hominid</li>
+    <li>memeLeaderNoun->mortal</li>
+    <li>memeLeaderNoun->person</li>
+    <li>memeLeaderNoun->sapient</li>
+  -->
+  <HumanPrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->humain</li>
+    <li>memeAdjective->mortel</li>
+    <li>memeAdjective->hominidé</li>
+    <li>memeHyphenPrefix->anthro</li>
+    <li>memeConcept->l'humanité</li>
+    <li>memeConcept->l'humanité</li>
+    <li>memeLeaderNoun->humain</li>
+    <li>memeLeaderNoun->hominidé</li>
+    <li>memeLeaderNoun->mortel</li>
+    <li>memeLeaderNoun->personne</li>
+    <li>memeLeaderNoun->sage</li>
+  </HumanPrimacy.generalRules.rulesStrings>
+  <!-- EN: humanitist -->
+  <HumanPrimacy.symbolPacks.0.adjective>humaniste</HumanPrimacy.symbolPacks.0.adjective>
+  <!-- EN: Humanitism -->
+  <HumanPrimacy.symbolPacks.0.ideoName>Humanisme</HumanPrimacy.symbolPacks.0.ideoName>
+  <!-- EN: humanitor -->
+  <HumanPrimacy.symbolPacks.0.member>humaniste</HumanPrimacy.symbolPacks.0.member>
+  <!-- EN: humanity -->
+  <HumanPrimacy.symbolPacks.0.theme>humanité</HumanPrimacy.symbolPacks.0.theme>
+  <!-- EN: pro-man -->
+  <HumanPrimacy.symbolPacks.1.adjective>pro-humain</HumanPrimacy.symbolPacks.1.adjective>
+  <!-- EN: Mankindism -->
+  <HumanPrimacy.symbolPacks.1.ideoName>Anthroposisme</HumanPrimacy.symbolPacks.1.ideoName>
+  <!-- EN: mankindist -->
+  <HumanPrimacy.symbolPacks.1.member>anthroposiste</HumanPrimacy.symbolPacks.1.member>
+  <!-- EN: mankind -->
+  <HumanPrimacy.symbolPacks.1.theme>humanité</HumanPrimacy.symbolPacks.1.theme>
+  
+  <!-- EN: nature primacy -->
+  <NaturePrimacy.label>naturaliste</NaturePrimacy.label>
+  <!-- EN: Man is a stain on nature's perfection. -->
+  <NaturePrimacy.description>L'homme est une tache sur la perfection de la nature.</NaturePrimacy.description>
+  <!-- EN:
+    <li>creation(tag=meme_NaturePrimacy)        ->[deity0_name] created nature, and placed man inside it, to act as part of [deity0_possessive] great breathing tapestry of life.</li>
+    <li>episode(uses=1,tag=meme_NaturePrimacy)  ->The people fought with the beasts of the forest, and [deity0_name] saw their rapacity, and struck down those who harmed the trees and beasts.</li>
+    <li>intro(tag=meme_NaturePrimacy)           ->The first settlers that arrived at the [place_summary] [place_name] paved over the natural world and killed the animals. [deity0_name] wiped them out to punish them for their disrespect towards [deity0_possessive] creations.</li>
+    <li>conflict(tag=meme_NaturePrimacy)        ->A greedy [foeLeader] built a factory that spewed toxins into the environment, poisoning the plants and animals.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)     ->As an infant, [founderName] was abandoned in the wilderness. [deity0_name] sent [Animal]s to raise the [founder_objective], and they did. After growing up, [founderName] worked to spread knowledge of the need to unify with nature.</li>
+    <li>victory(tag=meme_NaturePrimacy)         ->[founderName] came to the [place_powerCenter], [memberNamePlural] at [founder_possessive] right, and fierce animals at [founder_possessive] left. Together, they fought and won against the [foeLeader] and [foeLeader_possessive] [foeSoldiers].</li>
+    <li>setup(tag=meme_NaturePrimacy)           ->In a dark land, evil people chopped the trees and dug the ground to satisfy their greed. [founderName] began a righteous movement to smash the machines and live harmoniously under nature.</li>
+    <li>story(uses=1,tag=meme_NaturePrimacy)    ->We learned that the eternal growth of humanity is a path to hell; we must live in nature instead of consuming it.</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         ->You can't have witnessed a sunrise, or looked into the eyes of a [Animal], or stood beneath a mighty [TreeType], and not realized that</li>
+    <li>lesson(tag=meme_NaturePrimacy)              ->the animals and plants have owned this universe since long before us - we are just passing through</li>
+    <li>lessonReinforcement(tag=meme_NaturePrimacy) ->All the animals I've spoken with seem to understand this.</li>
+    <li>archistBasis(tag=meme_NaturePrimacy)    ->Archotechs rose from our machines, but they are in themselves natural entities, not one we could create.</li>
+    <li>archistFact(tag=meme_NaturePrimacy)     ->Archotechs represent the universe's most recent attempt to understand itself. All of nature is part of this process of understanding.</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], there will be a resonance between the plants, the animals, humanity and the archotechs. All people who are in tune with this natural resonance will become part of the final universal consciousness.</li>
+    <li>animistFact(tag=meme_NaturePrimacy)     ->Spirits become restless when humanity attempts to change them from their true nature.</li>
+  -->
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_NaturePrimacy)        ->[deity0_name] créa la nature et mis l'homme à l'intérieur pour qu'il fasse partie de la grande tapisserie de la vie.</li>
+    <li>episode(uses=1,tag=meme_NaturePrimacy)  ->Le peuple combattit contre les bêtes de la forêt, et [deity0_name] vit leur rapacité, et abattit ceux qui avaient fait du mal aux arbres et aux bêtes.</li>
+    <li>intro(tag=meme_NaturePrimacy)           ->Les premiers colons qui arrivèrent au [place_summary] [place_name] pavèrent l'environnement naturel et tuèrent les animaux. [deity0_name] les anéantit pour les punir de leur manque de respect envers ses créations.</li>
+    <li>conflict(tag=meme_NaturePrimacy)        ->Un avide [foeLeader] construisit une usine qui recracha des toxines dans l'environnement, empoisonnant les plantes et les animaux.</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)     ->Enfant, [founderName] fut abandonné dans le désert. [deity0_name] envoya des [Animal] pour l'élever. Après avoir grandi, [founderName] travailla à diffuser la connaissance de la nécessité de s'unir à la nature.</li>
+    <li>victory(tag=meme_NaturePrimacy)         ->[founderName] vint au [place_powerCenter], [memberNamePlural] à sa droite et des animaux féroces à sa gauche. Ensemble, ils se battirent et gagnèrent contre [foeLeader] et ses [foeSoldiers].</li>
+    <li>setup(tag=meme_NaturePrimacy)           ->Dans un pays sombre, des gens malfaisants coupèrent les arbres et creusèrent le sol pour satisfaire leur avidité. [founderName] démarra un mouvement pour briser les machines et vivre harmonieusement avec la nature.</li>
+    <li>story(uses=1,tag=meme_NaturePrimacy)    ->Nous apprirent que la croissance éternelle de l'humanité était un chemin vers l'enfer ; nous devons vivre avec la nature au lieu de l'utiliser.</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         ->Vous ne pouvez pas avoir été témoin d'un lever de soleil, ou regardé dans les yeux d'un [Animal], ou vous êtes tenu sous un puissant [TreeType], sans vous rendre compte que</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)         ->Vous ne pouvez pas avoir été témoin d'un lever de soleil, ou regardé dans les yeux d'un [Animal], ou vous êtes tenu sous une puissante [TreeType_Feminine], sans vous rendre compte que</li>
+    <li>lesson(tag=meme_NaturePrimacy)              ->les animaux et les plantes ont possédé cet univers bien avant nous. Nous ne faisons que traverser</li>
+    <li>lessonReinforcement(tag=meme_NaturePrimacy) ->Tous les animaux avec qui j'ai parlé semblent comprendre cela.</li>
+    <li>archistBasis(tag=meme_NaturePrimacy)    ->Les archotechs sont nés de nos machines, mais ils sont en eux-mêmes des entités naturelles, pas celles que nous pourrions créer.</li>
+    <li>archistFact(tag=meme_NaturePrimacy)     ->Les archotechs représentent la tentative la plus récente de l'univers pour se comprendre lui-même. Toute la nature fait partie de ce processus de compréhension.</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], il y aura une résonance entre les plantes, les animaux, l'humanité et les archotechs. Toutes les personnes qui sont en harmonie avec cette résonance naturelle feront partie de la conscience universelle finale.</li>
+    <li>animistFact(tag=meme_NaturePrimacy)     ->Les esprits deviennent agités lorsque l'humanité tente de les changer de leur vraie nature.</li>
+  </NaturePrimacy.descriptionMaker.rules.rulesStrings>
+  <!-- EN:
+    <li>memeAdjective->natural</li>
+    <li>memeAdjective->wild</li>
+    <li>memeAdjective->organic</li>
+    <li>memeCreed->den</li>
+    <li>memeCreed->garden</li>
+    <li>memeCreed->meadow</li>
+    <li>memeConcept->nature</li>
+  -->
+  <NaturePrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->naturel</li>
+    <li>memeAdjective->sauvage</li>
+    <li>memeAdjective->organique</li>
+    <li>memeCreed->tanière</li>
+    <li>memeCreed->jardin</li>
+    <li>memeCreed->prairie</li>
+    <li>memeConcept->la nature</li>
+  </NaturePrimacy.generalRules.rulesStrings>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.adjective>naturaliste</NaturePrimacy.symbolPacks.0.adjective>
+  <!-- EN: Naturism -->
+  <NaturePrimacy.symbolPacks.0.ideoName>Naturalisme</NaturePrimacy.symbolPacks.0.ideoName>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.member>naturaliste</NaturePrimacy.symbolPacks.0.member>
+  <!-- EN: nature -->
+  <NaturePrimacy.symbolPacks.0.theme>nature</NaturePrimacy.symbolPacks.0.theme>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.adjective>terriste</NaturePrimacy.symbolPacks.1.adjective>
+  <!-- EN: Earthism -->
+  <NaturePrimacy.symbolPacks.1.ideoName>Terrisme</NaturePrimacy.symbolPacks.1.ideoName>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.member>terriste</NaturePrimacy.symbolPacks.1.member>
+  <!-- EN: earth -->
+  <NaturePrimacy.symbolPacks.1.theme>terre</NaturePrimacy.symbolPacks.1.theme>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.adjective>géologique</NaturePrimacy.symbolPacks.2.adjective>
+  <!-- EN: Soilism -->
+  <NaturePrimacy.symbolPacks.2.ideoName>Géologie</NaturePrimacy.symbolPacks.2.ideoName>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.member>géologue</NaturePrimacy.symbolPacks.2.member>
+  <!-- EN: soil -->
+  <NaturePrimacy.symbolPacks.2.theme>les sols</NaturePrimacy.symbolPacks.2.theme>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.adjective>biologique</NaturePrimacy.symbolPacks.3.adjective>
+  <!-- EN: Lifism -->
+  <NaturePrimacy.symbolPacks.3.ideoName>Biologie</NaturePrimacy.symbolPacks.3.ideoName>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.member>biologiste</NaturePrimacy.symbolPacks.3.member>
+  <!-- EN: life -->
+  <NaturePrimacy.symbolPacks.3.theme>vie</NaturePrimacy.symbolPacks.3.theme>
+  
+</LanguageData>
