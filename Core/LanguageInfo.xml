@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageInfo>
-  <friendlyNameNative>Gaeilge</friendlyNameNative>
-  <friendlyNameEnglish>Irish</friendlyNameEnglish>
-  <canBeTiny>true</canBeTiny>
-  <languageWorkerClass>LanguageWorker_Gaeilge</languageWorkerClass>
-  <credits>
-  </credits>
-</LanguageInfo>

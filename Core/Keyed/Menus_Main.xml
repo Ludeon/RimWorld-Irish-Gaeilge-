@@ -15,7 +15,7 @@
   <!-- EN: Load game -->
   <LoadGame>Lódáil cluiche</LoadGame>
   <!-- EN: Options -->
-  <Options>Roghanna</Options>
+  <Options>Socruithe</Options>
   <!-- EN: Mod -->
   <Mod>Mod</Mod>
   <!-- EN: Mods -->
@@ -63,7 +63,7 @@
 
   <!-- Main menu translations info window -->
   <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
-  <TranslationThanks>Is é an pobal a chruthaíonn gach aistriúchán ar RimWorld. Tá na daoine seo a leanas freagrach as an leagan Gaeilge den chluiche a chur ar fáil:\n\n{0}</TranslationThanks>
+  <TranslationThanks>Tá an t-aistriúchán Gaeilge seo á fhorbairt i láthair na huaire, agus níl an t-aistriúchán críochnaithe. D'fhéadfadh sé go mbeidh fadbhanna ann má dhéanann tú iarracht imirt leis an aistriúchán mar atá. Cuirfear feabhas ar an aistriúchán de réir a chéile. Má aimsíonn tú botúin chló, is féidir iad a roinnt linn ach dul chuig Fóram Ludeon (féach an nasc thíos).\n\n{0}</TranslationThanks>
   <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
   <TranslationHowToContribute>Féadfaidh tú cuidiú linn an t-aistriúchán a fheabhsú. Féach an nasc thíos (osclóidh an nasc i do bhrasbhsálaí idirlíne). </TranslationHowToContribute>
   <!-- EN: Learn more -->
@@ -173,19 +173,19 @@
   <!-- EN: Author -->
   <Author>Údar</Author>
   <!-- EN: Enabled -->
-  <Enabled>I bhfeidhm</Enabled>
+  <Enabled>Cumasaithe</Enabled>
   <!-- EN: Disabled -->
-  <Disabled>As feidhm</Disabled>
+  <Disabled>Díchumasaithe</Disabled>
   <!-- EN: Enable -->
-  <Enable>Cuir i bhfeidhm</Enable>
+  <Enable>Cumasaigh</Enable>
   <!-- EN: Disable -->
-  <Disable>Cuir as feidhm</Disable>
+  <Disable>Díchumasaigh</Disable>
   <!-- EN: Get mods from... -->
   <GetMods>Faigh modanna ó...</GetMods>
   <!-- EN: Unsubscribe from... -->
-  <UnsubscribeMultiple>Abo beenden bei...</UnsubscribeMultiple>
+  <UnsubscribeMultiple>Díchláraigh ó...</UnsubscribeMultiple>
   <!-- EN: Save / load list... -->
-  <SaveLoadList>Liste speichern/laden...</SaveLoadList>
+  <SaveLoadList>Liosta sábhála/lódála...</SaveLoadList>
   <!-- EN: Save mod list -->
   <SaveModList>Mod-Liste speichern</SaveModList>
   <!-- EN: Load mod list -->
@@ -432,310 +432,310 @@
   <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Athraigh an dóchúlacht breise go gheobhaidh naimhde nuair a leagtar iad. Bíonn éifeacht ag an socrú seo ar na deiseanna a bhíonn agat príosúnaigh a thógáil, agus beidh tionchar ag an méid sin ar fhás do chóilíneachta dá bharr.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
-  <DifficultyGeneralSection>Allgemein</DifficultyGeneralSection>
+  <DifficultyGeneralSection>Ginearálta</DifficultyGeneralSection>
   <!-- EN: Colonist mood -->
-  <Difficulty_ColonistMoodOffset_Label>Kolonistenstimmung</Difficulty_ColonistMoodOffset_Label>
+  <Difficulty_ColonistMoodOffset_Label>Giúmar coilínigh</Difficulty_ColonistMoodOffset_Label>
   <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
-  <Difficulty_ColonistMoodOffset_Info>Ein permanenter Offset auf die Stimmung aller Kolonisten und Gefangenen. Kolonisten haben eine Grundstimmung von 50%.</Difficulty_ColonistMoodOffset_Info>
+  <Difficulty_ColonistMoodOffset_Info>Déantar fritháireamh ar ghiúmar gach coilíneach agus gach príosúnach. Tá giúmar bunaidh de 50% ag gach coilíneach.</Difficulty_ColonistMoodOffset_Info>
   <!-- EN: Food poison chance -->
-  <Difficulty_FoodPoisonChanceFactor_Label>Lebensmittelvergiftungschance</Difficulty_FoodPoisonChanceFactor_Label>
+  <Difficulty_FoodPoisonChanceFactor_Label>Dochúlacht: bia-nimhiú</Difficulty_FoodPoisonChanceFactor_Label>
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
-  <Difficulty_FoodPoisonChanceFactor_Info>Passe die Chance an, dass eine Person durch den Verzehr einer potenziell vergifteten Mahlzeit eine Lebensmittelvergiftung bekommt.</Difficulty_FoodPoisonChanceFactor_Info>
+  <Difficulty_FoodPoisonChanceFactor_Info>Athraigh an dóchúlacht go dtiocfaidh bia-nimhiú ar choilínigh má itheann siad béiltí naimhde.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>Tierrachechance</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Dóchúlacht: díolta ainmhithe</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Info>Passe die Chance an, dass die Verletzung eines Wildtiers zu einem Angriff führt.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Athraigh an dóchúlacht go n-ionsóidh ainmhithe allta má ghortaítear iad.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
-  <Difficulty_FriendlyFireChanceFactor_Label>Freundbeschuss</Difficulty_FriendlyFireChanceFactor_Label>
+  <Difficulty_FriendlyFireChanceFactor_Label>Dóchúlacht: féinghortú</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>Passe die Chance an, dass eine Person versehentlich von einem Verbündeten getroffen wird.\n\nHinweis: Diese Einstellung wirkt sich nur auf Direktschüsse aus, die ihr Ziel treffen würden. Sie verhindert nicht den Schaden durch Explosionen oder durch Schüsse, die ihr Ziel verfehlen würden.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>Athraigh an seans go ngortóidh do choilínigh a chéile.\n\nNóta: ní bhaineann an rogha seo ach le hurchair dhíreacha a bhí dul an targaid a bhaint amach. Ní stopann sé damáiste ó phléascanna, nó ó urchair nach raibh dul an targaid a bhaint amach.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
-  <Difficulty_AllowInstantKillChance_Label>Sofortiger Tod eines Kolonisten</Difficulty_AllowInstantKillChance_Label>
+  <Difficulty_AllowInstantKillChance_Label>Bás láithreach</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>Passe die Chance an, dass ein Kolonist durch einen Angriff sofort stirbt. Der eingehende Schaden wird so angepasst, dass er den Kolonisten stattdessen zu Fall bringt.\n\nDies verhindert nicht alle Arten von sofortigem Tod - Kolonisten können immer noch zu Fall gebracht werden und verbluten, und durch Feuer, Explosionen, Krankheiten usw. sterben.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>Athraigh an dóchúlacht go marófar coilínigh ar an bpointe má ionsaítear iad.\n\nNí bhaineann an rogha seo ach le hionsaithe áirithe - is féidir coilínigh a leagadh agus a bhású de bharr tine, pléascanna, galair, agus mar sin de.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Infektionschance</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Dóchúlacht ionfhabhtaithe</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Passe die Chance an, dass sich eine Wunde infiziert.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Athraigh an dóchúlacht go dtiocfaidh ionfhabhtú ar chréachtaí.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Erkrankungshäufigkeit</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Minicíocht galar</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
-  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Passe die Häufigkeit von zufälligen Krankheitsfällen an.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Athraigh an dóchúlacht go mbeidh galair randamacha ann.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
   <!-- EN: Insect spawning rate -->
-  <Difficulty_EnemyReproductionRateFactor_Label>Spawnrate von Insekten</Difficulty_EnemyReproductionRateFactor_Label>
+  <Difficulty_EnemyReproductionRateFactor_Label>Ráta sceite</Difficulty_EnemyReproductionRateFactor_Label>
   <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
-  <Difficulty_EnemyReproductionRateFactor_Info>Passe die Häufigkeit an, mit der bestehende Insektenkolonien neue Insekten hervorbringen. Je niedriger der Wert, desto länger dauert es, bis neue Insekten gespawnt werden.\n\nDies hat keinen Einfluss darauf, ob Insektenplagen auftreten können - nur auf die Geschwindigkeit, mit der aktive Insektenkolonien Insekten produzieren.</Difficulty_EnemyReproductionRateFactor_Info>
+  <Difficulty_EnemyReproductionRateFactor_Info>Athraigh an ráta ar a sceitheann feithidí as coirceoga feithide. Is ionann luach níos ísle agus tuilleadh ama idir sceathracha.\n\nNí chuireann an rogha seo stop le hinmhíolú - díreach athraíonn sé an ráta ar a sceitheann feithidí as coirceoga.</Difficulty_EnemyReproductionRateFactor_Info>
   <!-- EN: Deep drilling infestations -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Label>Insektenplagen bei Tiefenbohrung</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Inmhíolú domhandruileála</Difficulty_DeepDrillInfestationChanceFactor_Label>
   <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
-  <Difficulty_DeepDrillInfestationChanceFactor_Info>Passe die Chance an, dass eine Tiefenbohrung eine Insektenplage auslöst.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Athraigh an dóchúlacht go mbeidh inmhíolú ann de bharr domhandruileála.</Difficulty_DeepDrillInfestationChanceFactor_Info>
   <!-- EN: Map generation ancient threats -->
-  <Difficulty_PeacefulTemples_Inverted_Label>Kartengenerierung: Antike Bedrohungen</Difficulty_PeacefulTemples_Inverted_Label>
+  <Difficulty_PeacefulTemples_Inverted_Label>Bagairtí ársa</Difficulty_PeacefulTemples_Inverted_Label>
   <!-- EN: Ancient structures may contain dangerous threats. -->
-  <Difficulty_PeacefulTemples_Inverted_Info>Antike Strukturen können gefährliche Bedrohungen enthalten.</Difficulty_PeacefulTemples_Inverted_Info>
+  <Difficulty_PeacefulTemples_Inverted_Info>D'fhéadfadh sé go mbeidh bagairtí ársa i seanfhoirgnimh.</Difficulty_PeacefulTemples_Inverted_Info>
   <!-- EN: Map generation natural hives -->
-  <Difficulty_AllowCaveHives_Label>Kartengenerierung: Natürliche Insektenkolonien</Difficulty_AllowCaveHives_Label>
+  <Difficulty_AllowCaveHives_Label>Léarscáil: coirceoga nádúrtha</Difficulty_AllowCaveHives_Label>
   <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
-  <Difficulty_AllowCaveHives_Info>Inaktive Insektenkolonien können in natürlichen Höhlen spawnen.\n\nDiese Einstellung gilt nur für die Kartengenerierung und hat keinen Einfluss auf aktive Insekten, die sich während des Spiels an die Oberfläche graben.</Difficulty_AllowCaveHives_Info>
+  <Difficulty_AllowCaveHives_Info>Tá seans go mbeidh coirceoga nádúrtha i bpluaiseanna.\n\nBaineann an rogha seo le giniúint na léarscáile agus ní athraíonn sé feithidí a d'fhéadfadh tochailt aníos le linn an chluiche.</Difficulty_AllowCaveHives_Info>
   <!-- EN: Add unwavering prisoners -->
-  <Difficulty_UnwaveringPrisoners_Label>Unbeugsame Gefangene hinzufügen</Difficulty_UnwaveringPrisoners_Label>
+  <Difficulty_UnwaveringPrisoners_Label>Príosúnaigh dhiongbháilte</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
-  <Difficulty_UnwaveringPrisoners_Info>Diese Option fügt dem Spiel zusätzliche Charaktere hinzu, die zwar eingefangen, aber aufgrund ihrer absoluten Loyalität nicht rekrutiert werden können.\n\nUnbeugsame Gefangene werden zusätzlich zu den normalen Gefangenen hinzugefügt, d․h․ durch das Ausschalten dieser Option erhöht sich nicht die Anzahl rekrutierbarer Gefangener - es werden nur die Unbeugsamen entfernt.\n\nUnbeugsame Gefangene können weiterhin freigelassen, verkauft, versklavt, zur Organentnahme oder anderweitig benutzt werden. Generell bieten sie mehr Möglichkeiten und Ressourcen und machen das Spiel etwas reicher und einfacher.</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_UnwaveringPrisoners_Info>Leis an rogha seo, cuirfear príosúnaigh dhiongbháilte leis an gcluiche, nach mbeidh tú in ann a earcú.\n\nDéantar príosúnaigh dhiongbháilte a chur isteach sa bhreis ar na gnáthphríosúnaigh, mar sin ní bheidh níos mó príosúnaigh le hearcú má roghnaítear an rogha seo - díreach baineann an rogha seo na príosúnaigh dhiongbháilte.\n\nIs féidir príosúnaigh dhiongbháilte a scaoileadh saor ar chúiseanna taidhleoireachta, a dhíol, a chur faoi smacht, nó is féidir úsáid eile a bhaint astu. Ar an iomlán, cuireann siad tuilleadh roghanna agus acmhainní ar fáil, agus déanann siad an cluiche níos saibhre agus níos éasca.</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
-  <DifficultyPlayerToolsSection>Spielerwerkzeuge</DifficultyPlayerToolsSection>
+  <DifficultyPlayerToolsSection>Uirlisí imreora</DifficultyPlayerToolsSection>
   <!-- EN: Player can build traps -->
-  <Difficulty_AllowTraps_Label>Spieler darf Fallen bauen</Difficulty_AllowTraps_Label>
+  <Difficulty_AllowTraps_Label>Féadfaidh an t-imreoir gaistí a thógáil</Difficulty_AllowTraps_Label>
   <!-- EN: Player can build traps like spike traps and IED traps. -->
-  <Difficulty_AllowTraps_Info>Spieler darf Fallen wie Stachelfallen und improvisierte Fallen bauen.</Difficulty_AllowTraps_Info>
+  <Difficulty_AllowTraps_Info>Féadfaidh an t-imreoir gaistí a thogáil, amhail gaistí spící agus gaistí IED.</Difficulty_AllowTraps_Info>
   <!-- EN: Player can build turrets -->
-  <Difficulty_AllowTurrets_Label>Spieler darf Geschütztürme bauen</Difficulty_AllowTurrets_Label>
+  <Difficulty_AllowTurrets_Label>Féadfaidh an t-imreoir túiríní a thógáil</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>Spieler darf stationäre Geschütztürme wie Minigeschütze, Autokanonentürme und Urangeschosstürme bauen.\n\nEroberte Geschütztürme können immer benutzt werden, unabhängig von dieser Einstellung.</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Féadfaidh an t-imreoir túiríní gunna a thógáil, amhail túiríní beaga agus túiríní uath-ghunna. .</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
-  <Difficulty_AllowMortars_Label>Spieler darf Mörser bauen</Difficulty_AllowMortars_Label>
+  <Difficulty_AllowMortars_Label>Féadfaidh an t-imreoir moirtéir a thógail</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
-  <Difficulty_AllowMortars_Info>Spieler darf Mörser bauen.\n\nEroberte Mörser können immer benutzt werden, unabhängig von dieser Einstellung.</Difficulty_AllowMortars_Info>
+  <Difficulty_AllowMortars_Info>Féadfaidh an t-imreoir moirtéir a thógáil.\n\nIs féidir úsáid a bhaint as moirtéir a gabhadh seilbh orthu go fóill mura roghnaítear an rogha seo.</Difficulty_AllowMortars_Info>
   <!-- EN: Classic mortars -->
-  <Difficulty_ClassicMortars_Label>Klassische Mörser</Difficulty_ClassicMortars_Label>
+  <Difficulty_ClassicMortars_Label>Moirtéir chlasaiceacha</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
-  <Difficulty_ClassicMortars_Info>Zum Bauen oder Neubewaffnen von Mörsern werden keine verstärkten Läufe benötigt. Entsprechend sind sie für diese leichte Zugänglichkeit ausbalanciert.</Difficulty_ClassicMortars_Info>
+  <Difficulty_ClassicMortars_Info>Ní bheidh gá bairillí treisithe a chur le moirtéir chun iad a thógáil nó a athlódáil, agus déanfar iad a choigeartú ar mhaithe le so-rochtaineacht.</Difficulty_ClassicMortars_Info>
   
   <!-- EN: Adaptation -->
-  <DifficultyAdaptationSection>Anpassung</DifficultyAdaptationSection>
+  <DifficultyAdaptationSection>Oiriúnú</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Anpassungszunahmerate</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Rátá oiriúnaithe</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how fast the adaptation score grows over time. -->
-  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Anpassung bedeutet, dass der Erzähler das Spiel mit der Zeit schwieriger macht, solange der Spieler keine Verluste erleidet. Der Anpassungswert steigt mit der Zeit und wird reduziert, wenn der Spieler Schaden erleidet.\n\nMit dieser Einstellung wird festgelegt, wie schnell der Anpassungswert mit der Zeit zunimmt.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Cuirfidh an scéalaí an cluiche in oiriúint mar a imríonn tú. Mar shampla, eireoidh an cluiche níos dúshlánaí nuair atá ag éirí go maith leat.\n\nAthraíonn an rogha seo an ráta ar a athróidh an scór oiriúnaithe le himeacht ama.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
   <!-- EN: Adaptation impact -->
-  <Difficulty_AdaptationEffectFactor_Label>Anpassungsauswirkung</Difficulty_AdaptationEffectFactor_Label>
+  <Difficulty_AdaptationEffectFactor_Label>Tionchar oiriúnaithe</Difficulty_AdaptationEffectFactor_Label>
   <!-- EN: Adaptation means the storyteller makes the game more challenging when you're doing well. An adaptation score grows over time, and is knocked down when you take damage.\n\nThis setting adjusts how much the adaptation score affects the difficulty. -->
-  <Difficulty_AdaptationEffectFactor_Info>Anpassung bedeutet, dass der Erzähler das Spiel mit der Zeit schwieriger macht, solange der Spieler keine Verluste erleidet. Der Anpassungswert steigt mit der Zeit und wird reduziert, wenn der Spieler Schaden erleidet.\n\nMit dieser Einstellung wird festgelegt, wie stark der Anpassungswert den Schwierigkeitsgrad beeinflusst.</Difficulty_AdaptationEffectFactor_Info>
+  <Difficulty_AdaptationEffectFactor_Info>Eireoidh an cluiche níos dúshlánaí nuair atá ag éirí go maith leat. Ardóigh do scór oiriúnaithe le himeacht ama, agus laghdóigh sé nuair a dhéanfar díobháil duit.\n\nAthraíonn an rogha seo an tionchar a bheidh ag an scór oiriúnaithe ar an deacracht.</Difficulty_AdaptationEffectFactor_Info>
   <!-- EN: Wealth-independent progress mode -->
-  <Difficulty_FixedWealthMode_Label>Reichtumsunabhängiger Fortschrittsmodus</Difficulty_FixedWealthMode_Label>
+  <Difficulty_FixedWealthMode_Label>Déan neamhaird ar shaibhreas</Difficulty_FixedWealthMode_Label>
   <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
-  <Difficulty_FixedWealthMode_Info>Spiele in einem reichtumsunabhängigen Fortschrittsmodus. Im normalen Modus skaliert der Erzähler Bedrohungen nach Kolonistenzahl, Spielerreichtum und einer Reihe anderer Faktoren. Der reichtumsunabhängige Fortschrittsmodus entfernt den Reichtumsfaktor und ersetzt ihn mit einer fixen Fortschrittskurve, die auf Zeit basiert. Die Zeit wird ab der Gründung jeder Kolonie gezählt.\n\nDiese Einstellung ist nur für Spieler empfohlen, die eine strikte Herausforderung ihres Könnens suchen. Im reichtumsunabhängigen Fortschrittsmodus ist es praktisch nahezu unmöglich, sich von ernsthaften Verlusten zu erholen, es sei denn, du hast eine neue Siedlung gegründet. Man kann der Kurve auch zu weit voraus sein und das Spiel entsprechend als zu einfach empfinden.</Difficulty_FixedWealthMode_Info>
+  <Difficulty_FixedWealthMode_Info>Déan neamhaird ar shaibhreas agus tú ag imirt. De ghnáth, eireoidh an cluiche níos deacra buanithe ar líon na gcoilíneach, saibhreas an imreora, agus roinnt gnéithe eile. Má dhéantar neamhaird ar shaibhreas, tiocfaidh athrú seasta ar an deacracht le himeacht ama. Comhairtear an t-am ón am a bunaíodh coilíneacht.\n\nTá an rogha seo d'imreoirí atá ag iarraidh tabhairt faoi dhúshláin scile. Sa mhód seo, d'fhéadfadh sé bheith dodhéanta teacht ar ais ó chailteannais mhóra gan lonnaíocht nua a bhunú. Ar an lámh eile, is féidir dul chun cinn róthapa a dhéanamh, agus beidh an cluiche ró-éasca mar thoradh.</Difficulty_FixedWealthMode_Info>
   <!-- EN: Years until maximum threat -->
-  <Difficulty_FixedWealthTimeFactor_Label>Jahre bis zur maximalen Bedrohung</Difficulty_FixedWealthTimeFactor_Label>
+  <Difficulty_FixedWealthTimeFactor_Label>Blianta go dtí an deacracht uasta</Difficulty_FixedWealthTimeFactor_Label>
   <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
-  <Difficulty_FixedWealthTimeFactor_Info>Wie viele Spieljahre es dauert, bis der reichtumsunabhängige Modus seine maximale Bedrohungsstufe erreicht hat.\n\nBeachte, dass der Erzähler die Bedrohungen weiterhin nach der Kolonistenzahl und einer Reihe anderer Faktoren skaliert.</Difficulty_FixedWealthTimeFactor_Info>
+  <Difficulty_FixedWealthTimeFactor_Info>Líon na blianta sula sroicfidh an mód 'déan neamhaird ar shaibreas' an leibhéal deacrachta is airde.\n\nMar eolas, eireoidh an cluiche níos deacra bunaithe ar líon na gcoilíneach agus roinnt tosca eile beag beann ar an rogha seo.</Difficulty_FixedWealthTimeFactor_Info>
 
   <!-- EN: Ideology -->
-  <DifficultyIdeologySection>Ideology</DifficultyIdeologySection>
+  <DifficultyIdeologySection>Ideolaíocht</DifficultyIdeologySection>
   <!-- EN: Low pop conversion boost -->
-  <Difficulty_LowPopConversionBoost_Label>Bekehrungsboost bei geringer Population</Difficulty_LowPopConversionBoost_Label>
+  <Difficulty_LowPopConversionBoost_Label>Low pop conversion boost</Difficulty_LowPopConversionBoost_Label>
   <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
-  <Difficulty_LowPopConversionBoost_Info>Wenn nur ein einziges Mitglied der Startideologie des Spielers vorhanden ist, wird die Bekehrungschance zu dessen Ideologie mit diesem Wert multipliziert. Bei Bekehrungsversuchen gegen das Mitglied wird die Wirkung um diesen Betrag dividiert.\n\nWenn zwei Mitglieder der Startideologie des Spielers vorhanden sind, wird der Effekt halbiert.\n\nWenn drei oder mehr Mitglieder der Startideologie des Spielers vorhanden sind, hat dies keinen Effekt.</Difficulty_LowPopConversionBoost_Info>
+  <Difficulty_LowPopConversionBoost_Info>With a single colonist of the player's starting ideoligion, conversion chance to their ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect.</Difficulty_LowPopConversionBoost_Info>
 
   <!-- Site select -->
   <!-- EN: Select starting site -->
-  <SelectStartingSite>Startplatz auswählen</SelectStartingSite>
+  <SelectStartingSite>Roghnaigh suíomh tosaigh</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite>Zufälliger Startplatz</SelectRandomSite>
+  <SelectRandomSite></SelectRandomSite>
   <!-- EN: Select site -->
-  <SelectSite>Startplatz auswählen</SelectSite>
+  <SelectSite>Roghnaigh suíomh</SelectSite>
   <!-- EN: Please select a site. -->
-  <MustSelectStartingSite>Bitte wähle einen Startplatz aus.</MustSelectStartingSite>
+  <MustSelectStartingSite>Ní mór suíomh a roghnú.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Du kannst nicht auf diesem Biom landen: {0}</CannotLandBiome>
+  <CannotLandBiome>Ní féidir leandáil sa bhithóm se: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
-  <BiomeNotImplemented>Biom nicht implementiert</BiomeNotImplemented>
+  <BiomeNotImplemented>Bithóm díghníomhachtaithe</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>Du kannst nicht auf unpassierbaren Bergen landen.</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Ní féidir leandáil ar shléibhte nach féidir iad a thrasnú.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>Die Fraktion '{0}' hat hier bereits eine Basis.</BaseAlreadyThere>
+  <BaseAlreadyThere>Tá bunáit ag an bhfaicsean '{0}' ar an suíomh seo cheana.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
-  <YourBaseAlreadyThere>Du hast hier schon eine Basis.</YourBaseAlreadyThere>
+  <YourBaseAlreadyThere>Tá bunáit agat ansin cheana.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->
-  <TileOccupied>Dieses Feld ist schon belegt.</TileOccupied>
+  <TileOccupied>Tá an suíomh seo in úsáid.</TileOccupied>
   <!-- EN: Settlements cannot be directly adjacent to each other. -->
-  <FactionBaseAdjacent>Siedlungen können nicht direkt aneinander angrenzen.</FactionBaseAdjacent>
+  <FactionBaseAdjacent>Ní féidir lonnaíochtaí a chur díreach in aice le chéile.</FactionBaseAdjacent>
   <!-- EN: Biome -->
-  <Biome>Biom</Biome>
+  <Biome>Bithóm</Biome>
   <!-- EN: Terrain -->
-  <Terrain>Gelände</Terrain>
+  <Terrain>Tir-raon</Terrain>
   <!-- EN: Road -->
-  <Road>Straße</Road>
+  <Road>Bóthar</Road>
   <!-- EN: River -->
-  <River>Fluss</River>
+  <River>Abhann</River>
   <!-- EN: Elevation -->
-  <Elevation>Höhe</Elevation>
+  <Elevation>Airde</Elevation>
   <!-- EN: Fertility -->
-  <Fertility>Fruchtbarkeit</Fertility>
+  <Fertility>Torthúlacht</Fertility>
   <!-- EN: fertility -->
-  <FertilityLower>Fruchtbarkeit</FertilityLower>
+  <FertilityLower>torthúlacht</FertilityLower>
   <!-- EN: Average temperature -->
-  <AvgTemp>Durchschnittstemperatur</AvgTemp>
+  <AvgTemp>Meánteocht</AvgTemp>
   <!-- EN: Rainfall -->
-  <Rainfall>Niederschlag</Rainfall>
+  <Rainfall>Báisteach</Rainfall>
   <!-- EN: Special features -->
-  <SpecialFeatures>Besonderheiten</SpecialFeatures>
+  <SpecialFeatures>Gnéithe speisialta</SpecialFeatures>
   <!-- EN: northern coast -->
-  <HasCoast0>nördliche Küste</HasCoast0>
+  <HasCoast0>cósta thuaidh</HasCoast0>
   <!-- EN: eastern coast -->
-  <HasCoast1>östliche Küste</HasCoast1>
+  <HasCoast1>cósta thoir</HasCoast1>
   <!-- EN: southern coast -->
-  <HasCoast2>südliche Küste</HasCoast2>
+  <HasCoast2>cósta theas</HasCoast2>
   <!-- EN: western coast -->
-  <HasCoast3>westliche Küste</HasCoast3>
+  <HasCoast3>cósta thiar</HasCoast3>
   <!-- EN: caves -->
-  <HasCaves>Höhlen</HasCaves>
+  <HasCaves>pluaiseanna</HasCaves>
   <!-- EN: Faction base -->
-  <FactionBase>Fraktionsbasis</FactionBase>
+  <FactionBase>Bunáit faicsin</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Gesteinsarten</StoneTypesHere>
+  <StoneTypesHere>Cineálacha cloiche</StoneTypesHere>
   <!-- EN: Time zone -->
-  <TimeZone>Zeitzone</TimeZone>
+  <TimeZone>Crios ama</TimeZone>
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty>Unwegsamkeit</MovementDifficulty>
+  <MovementDifficulty>Deacracht gluaiseachta</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>Tiere können grasen</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Féadfaidh ainmhithe dul ar féarach anois</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
-  <AverageDiseaseFrequency>Krankheitshäufigkeit</AverageDiseaseFrequency>
+  <AverageDiseaseFrequency>Minicíocht galar</AverageDiseaseFrequency>
   <!-- EN: per year -->
-  <PerYear>pro Jahr</PerYear>
+  <PerYear>in aghaidh na bliana</PerYear>
   <!-- EN: Forageability -->
-  <Forageability>Nahrungsverfügbarkeit</Forageability>
+  <Forageability>Sealgaireacht</Forageability>
   <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
-  <ConfirmRequiredWorkTypeDisabledForEveryone>Keine der ausgewählten Personen kann die folgenden Arbeiten erledigen:\n\n{0}\n\nDas kann das Spiel um einiges schwieriger machen. Bist du sicher, dass du fortfahren willst?</ConfirmRequiredWorkTypeDisabledForEveryone>
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Níl na daoine a roghaníodh in ann na cineálacha oibre seo a leanas a dhéanamh:\n\n{0}\n\nD'fhéadfadh sé go mbeidh an cluiche níos deacra dá bharr. An bhfuil tú ag iarraidh leanúint ar aghaidh?</ConfirmRequiredWorkTypeDisabledForEveryone>
   <!-- EN: temperature -->
-  <TemperatureLower>Temperatur</TemperatureLower>
+  <TemperatureLower>teochar</TemperatureLower>
   <!-- EN: light -->
-  <LightLower>Licht</LightLower>
+  <LightLower>solas</LightLower>
 
   <!-- Character chooser -->
   <!-- EN: Create characters -->
-  <CreateCharacters>Charaktere erstellen</CreateCharacters>
+  <CreateCharacters>Cruthaigh carachtair</CreateCharacters>
   <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
-  <FirstNameDesc>Der Vorname des Charakters.\n\nDieser Name wird nur in einigen Menüs angezeigt.</FirstNameDesc>
+  <FirstNameDesc>Céadainm an charactair.\n\nNí thaispeántar an t-ainm seo ach i roghchláir áirithe.</FirstNameDesc>
   <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
-  <ShortIdentifierDesc>Die Kurzbezeichnung des Charakters.\n\nDieser Name wird immer angezeigt. Hierbei kann es sich um den Vornamen, den Nachnamen oder einen völlig eigenständigen Spitznamen handeln.</ShortIdentifierDesc>
+  <ShortIdentifierDesc>Leasainm an charactair.\n\nTaispeántar an t-ainm seo i gcónaí. Is féidir céadainm nó sloinne an charactair a úsáid, nó leasainm iomlán difriúil a roghnú.</ShortIdentifierDesc>
   <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
-  <LastNameDesc>Der Nachname des Charakters.\n\nDieser Name wird nur in einigen Menüs angezeigt.</LastNameDesc>
+  <LastNameDesc>Sloinne an charactair.\n\nNí thaispeántar an t-ainm seo ach i roghchláir áirithe.</LastNameDesc>
   <!-- EN: Randomize -->
-  <Randomize>Zufällig</Randomize>
+  <Randomize>Randamach</Randomize>
   <!-- EN: age {0} -->
-  <AgeIndicator>Alter {0}</AgeIndicator>
+  <AgeIndicator>aois {0}</AgeIndicator>
   <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummary>{PAWN_race}, Alter {PAWN_ageFull}</PawnSummary>
+  <PawnSummary>{PAWN_race}, aois {PAWN_ageFull}</PawnSummary>
   <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
-  <PawnSummaryWithGender>{PAWN_gender}, {PAWN_race}, Alter {PAWN_ageFull}</PawnSummaryWithGender>
+  <PawnSummaryWithGender>{PAWN_gender}, {PAWN_race}, aois {PAWN_ageFull}</PawnSummaryWithGender>
   <!-- EN: Backstory -->
-  <Backstory>Vorgeschichte</Backstory>
+  <Backstory>Cúlra</Backstory>
   <!-- EN: Incapable of -->
-  <IncapableOf>Verweigert</IncapableOf>
+  <IncapableOf>Éagumasach ar: </IncapableOf>
   <!-- EN: Abilities -->
-  <Abilities>Fähigkeiten</Abilities>
+  <Abilities>Inniúlachtaí</Abilities>
   <!-- EN: Caused by -->
-  <IncapableOfTooltipHediff>Verursacht durch</IncapableOfTooltipHediff>
+  <IncapableOfTooltipHediff>De bharr</IncapableOfTooltipHediff>
   <!-- EN: Disabled work types: -->
-  <IncapableOfTooltipWorkTypes>Deaktivierte Arbeiten:</IncapableOfTooltipWorkTypes>
+  <IncapableOfTooltipWorkTypes>Cineálacha oibre díchumasaithe:</IncapableOfTooltipWorkTypes>
   <!-- EN: Caused by backstory -->
-  <IncapableOfTooltipBackstory>Verursacht durch Vorgeschichte</IncapableOfTooltipBackstory>
+  <IncapableOfTooltipBackstory>De bharr: cúlra</IncapableOfTooltipBackstory>
   <!-- EN: Caused by title -->
-  <IncapableOfTooltipTitle>Verursacht durch Titel</IncapableOfTooltipTitle>
+  <IncapableOfTooltipTitle>De bharr: teideal</IncapableOfTooltipTitle>
   <!-- EN: Caused by trait -->
-  <IncapableOfTooltipTrait>Verursacht durch Merkmal</IncapableOfTooltipTrait>
+  <IncapableOfTooltipTrait>De bharr: tréith</IncapableOfTooltipTrait>
   <!-- EN: Caused by quest status -->
-  <IncapableOfTooltipQuest>Verursacht durch Queststatus</IncapableOfTooltipQuest>
+  <IncapableOfTooltipQuest>De bharr: misean</IncapableOfTooltipQuest>
   <!-- EN: Caused by role -->
-  <IncapableOfTooltipRole>Verursacht durch Rolle</IncapableOfTooltipRole>
+  <IncapableOfTooltipRole>De bharr: ról</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
-  <IncapableOfTooltipGene>Verursacht durch Gen</IncapableOfTooltipGene>
+  <IncapableOfTooltipGene>De bharr: géin</IncapableOfTooltipGene>
   <!-- EN: Traits -->
-  <Traits>Merkmale</Traits>
+  <Traits>Tréithe</Traits>
   <!-- EN: Permanent mood effect -->
-  <PermanentMoodEffect>Permanenter Stimmungseffekt</PermanentMoodEffect>
+  <PermanentMoodEffect>Buan-éifeacht giúmair</PermanentMoodEffect>
   <!-- EN: Skills -->
-  <Skills>Fertigkeiten</Skills>
+  <Skills>Scileanna</Skills>
   <!-- EN: none -->
-  <NoneLower>Nichts</NoneLower>
+  <NoneLower>faic</NoneLower>
   <!-- EN: Adulthood -->
-  <Adulthood>Erwachsen</Adulthood>
+  <Adulthood>Aosacht</Adulthood>
   <!-- EN: Childhood -->
-  <Childhood>Kindheit</Childhood>
+  <Childhood>Óige</Childhood>
   <!-- EN: male -->
-  <Male>männlich</Male>
+  <Male>fireann</Male>
   <!-- EN: female -->
-  <Female>weiblich</Female>
+  <Female>baineann</Female>
   <!-- EN: male and female -->
-  <MaleAndFemale>männlich und weiblich</MaleAndFemale>
+  <MaleAndFemale>fireann agus baineann</MaleAndFemale>
   <!-- EN: male -->
-  <MaleAnimal>Männchen</MaleAnimal>
+  <MaleAnimal>fear</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>Weibchen</FemaleAnimal>
+  <FemaleAnimal>bean</FemaleAnimal>
   <!-- EN: Pain -->
-  <Pain>Schmerz</Pain>
+  <Pain>Pian</Pain>
   <!-- EN: Health -->
-  <Health>Gesundheit</Health>
+  <Health>Sláinte</Health>
   <!-- EN: Relations -->
-  <Relations>Verwandtschaft</Relations>
+  <Relations>Caidrimh</Relations>
   <!-- EN: Possessions -->
-  <Possessions>Besitz</Possessions>
+  <Possessions>Maoin</Possessions>
   <!-- EN: Team skills -->
-  <TeamSkills>Team-Fertigkeiten</TeamSkills>
+  <TeamSkills>Scileanna foirne</TeamSkills>
   <!-- EN: Selected -->
-  <StartingPawnsSelected>Ausgewählt</StartingPawnsSelected>
+  <StartingPawnsSelected>Roghnaithe</StartingPawnsSelected>
   <!-- EN: Left behind -->
-  <StartingPawnsLeftBehind>Zurückgelassen</StartingPawnsLeftBehind>
+  <StartingPawnsLeftBehind>Neamhroghnaithe</StartingPawnsLeftBehind>
   <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
-  <GuiltyDesc>Dieser Kolonist wird als schuldig angesehen. Du kannst ihn jederzeit verbannen, hinrichten oder inhaftieren, ohne dass sich jemand daran stört.\n\nNoch schuldig für</GuiltyDesc>
+  <GuiltyDesc>Tá an coilíneach seo ciontach. Féadfaidh tú an duine seo a chur ar deoraíocht, a chur chun báis, nó a ghabháil, agus ní chuirfear isteach ar aon duine eile.\n\nRachaidh an ciontacht in éag i gceann</GuiltyDesc>
   
   <!-- Misc -->
   <!-- EN: Start -->
-  <Start>Start</Start>
+  <Start>Tosaigh</Start>
   <!-- EN: Advanced -->
-  <Advanced>Erweitert</Advanced>
+  <Advanced>Casta</Advanced>
   <!-- EN: Next -->
-  <Next>Weiter</Next>
+  <Next>Ar aghaidh</Next>
   <!-- EN: Back -->
-  <Back>Zurück</Back>
+  <Back>Siar</Back>
   <!-- EN: Change material... -->
-  <ShowMaterials>Material ändern...</ShowMaterials>
+  <ShowMaterials>Athraigh ábhar...</ShowMaterials>
   <!-- EN: Gameplay -->
-  <Gameplay>Spielmechanik</Gameplay>
+  <Gameplay>Imirt</Gameplay>
   <!-- EN: Really quit? You'll lose unsaved progress. -->
-  <ConfirmQuit>Bist du sicher, dass du aufhören willst?\nNicht gespeicherter Fortschritt geht verloren.</ConfirmQuit>
+  <ConfirmQuit>An bhfuil tú cinnte go bhfuil tú ag iarraidh an cluiche a dhúnadh?\nCaillfear aon dul chun cinn nár sábháladh go fóill.</ConfirmQuit>
   <!-- EN: Each person needs a valid name. -->
-  <EveryoneNeedsValidName>Jede Person braucht einen gültigen Namen.</EveryoneNeedsValidName>
+  <EveryoneNeedsValidName>Ní mór ainm bailí a thabhairt do gach duine.</EveryoneNeedsValidName>
   <!-- EN: None of the selected people can do the following jobs -->
-  <RequiredWorkTypeDisabledForEveryone>Keine der ausgewählten Personen kann die folgenden Arbeiten erledigen</RequiredWorkTypeDisabledForEveryone>
+  <RequiredWorkTypeDisabledForEveryone>Ní féidir le haon cheann de na daoine a roghnaíodh na cineála oibre seo a leanas a dhéanamh</RequiredWorkTypeDisabledForEveryone>
   <!-- EN: Quit -->
-  <Quit>Beenden</Quit>
+  <Quit>Dún an cluiche</Quit>
   <!-- EN: Ignore -->
-  <Ignore>Ignorieren</Ignore>
+  <Ignore>Lean ar aghaidh</Ignore>
   
   <!-- Progress bar -->
   <!-- EN: Generating world -->
-  <GeneratingWorld>Generiert Welt</GeneratingWorld>
+  <GeneratingWorld>Domhan á ghiniúint</GeneratingWorld>
   <!-- EN: Generating planet -->
-  <GeneratingPlanet>Generiert Planet</GeneratingPlanet>
+  <GeneratingPlanet>Plainéad á ghinúint</GeneratingPlanet>
   <!-- EN: Generating map -->
-  <GeneratingMap>Generiert Karte</GeneratingMap>
+  <GeneratingMap>Léarscáil á giniúint</GeneratingMap>
   <!-- EN: Generating map for new encounter -->
-  <GeneratingMapForNewEncounter>Generiert Karte für neue Begegnung</GeneratingMapForNewEncounter>
+  <GeneratingMapForNewEncounter>Léarscáil nua á giniúint</GeneratingMapForNewEncounter>
 
   <!-- EN: Click for more info. -->
-  <ClickForMoreInfo>Klicke für mehr Informationen.</ClickForMoreInfo>
+  <ClickForMoreInfo>Cliceáil do thuilleadh eolais.</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
-  <NoMoreInfoAvailable>Keine weiteren Informationen verfügbar.</NoMoreInfoAvailable>
+  <NoMoreInfoAvailable>Níl aon eolas breise ar fáil.</NoMoreInfoAvailable>
 
   <!-- Factions -->
   <!-- EN: Factions -->
-  <Factions>Fraktionen</Factions>
+  <Factions>Faicsin</Factions>
   <!-- EN: max {0} basic factions allowed -->
-  <TotalFactionsAllowed>max. {0} normale Fraktionen erlaubt</TotalFactionsAllowed>
+  <TotalFactionsAllowed>Líon uasta na bhfaicsean normálta a cheadaítear: {0}</TotalFactionsAllowed>
   <!-- EN: max {0} -->
-  <MaxFactionsForType>max. {0}</MaxFactionsForType>
+  <MaxFactionsForType>uas. {0}</MaxFactionsForType>
   <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
-  <FactionSelectionDesc>Lege fest, welche Fraktionen die Welt bevölkern sollen. Du kannst insgesamt bis zu {0} Fraktionen auswählen.</FactionSelectionDesc>
+  <FactionSelectionDesc>Roghnaigh na faicsin a bheidh le feiceáil sa domhan. Féadfaidh tú suas le {0} faicsean a roghnú.</FactionSelectionDesc>
   <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
-  <FactionDisabledContentWarning>Eine Welt ohne {0} reduziert die Questvielfalt und andere Inhalte.</FactionDisabledContentWarning>
+  <FactionDisabledContentWarning>Mura roghnaítear {0}, beidh níos lú misean ann agus ní bheidh teacht agat ar ábhar áirithe.</FactionDisabledContentWarning>
   <!-- EN: Disabling {0} means less spontaneous threat variety. -->
-  <InsectsDisabledContentWarning>Eine Welt ohne {0} reduziert die Vielfalt an spontanen Bedrohungen.</InsectsDisabledContentWarning>
+  <InsectsDisabledContentWarning>Mura roghnaítear, {0} laghdófar éagsúlacht na mbagairtí.</InsectsDisabledContentWarning>
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
-  <MechanoidsDisabledContentWarning>Eine Welt ohne {0} reduziert die Vielfalt an Quests und spontanen Bedrohungen.</MechanoidsDisabledContentWarning>
+  <MechanoidsDisabledContentWarning>Mura roghnaítear, {0} laghdófar éagsúlacht na misean agus na mbagairtí.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>Ohne andere Fraktionen werden Überfälle, Handel und Quests nicht wie gewohnt stattfinden.</FactionsDisabledWarning>
+  <FactionsDisabledWarning>Mura mbeidh aon fhaicsean eile ann, ní tharlóidh ruathair agus misean mar is gnáth, agus ní bheidh tú in ann trádáil le daoine eile.</FactionsDisabledWarning>
 
 </LanguageData>

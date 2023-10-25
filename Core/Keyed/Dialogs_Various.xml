@@ -76,7 +76,7 @@
   
   <!-- Missing Steam -->
   <!-- EN: Could not initialize Steam API. Possible causes:\n\n-Steam is not running.\n-Launched from outside Steam without steam_appid.txt in place.\n-Running with different privileges than Steam client (e.g. "as administrator").\n\nIn most cases, rebooting your computer will fix this problem.\n\nYou can play anyway, but no Steam stats will be recorded and Steam features won't be available. -->
-  <SteamClientMissing>Ní rabhthas in ann Steam-API a thosú. Cúiseanna féideartha:\n\n-Níl Steam ag rith.\n-Tosaíodh an cluiche ó lasmuigh de Steam gan an comhad steam_appid.txt.\n-Níl na pribhléidí céanna ag an gcluiche is atá ag Steam (m.sh. pribhléidí riarthóra ).\n\nAn chuid is mó den am, is leor do ríomhaire a atosú chun an fhadhb seo a réiteach.\n\nFéadfaidh tú imirt, ach ní bheidh gnéithe Steam ar siúl agus ní dhéanfar aon staitisticí Steam a thaifeadadh.</SteamClientMissing>
+  <SteamClientMissing>Ní rabhthas in ann API Steam a thosú. D'fhéadfadh sé:\n\n-nach bhfuil Steam ag rith.\n-gur tosaíodh an cluiche ó lasmuigh de Steam, gan an comhad 'steam_appid.txt'.\n-nach bhfuil na pribhléidí céanna ag an gcluiche is atá ag Steam (m.sh. pribhléidí riarthóra).\n\nAn chuid is mó den am, is leor do ríomhaire a atosú chun an fhadhb seo a réiteach.\n\nFéadfaidh tú imirt, ach ní bheidh feidhmeanna Steam ar fáil agus ní dhéanfar aon staitisticí Steam a thaifeadadh.</SteamClientMissing>
   
   <!-- Long events -->
   <!-- EN: Initializing interface -->

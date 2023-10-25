@@ -3,139 +3,139 @@
 
   <!-- Various -->
   <!-- EN: hit points -->
-  <HitPointsBasic>Trefferpunkte</HitPointsBasic>
+  <HitPointsBasic>pointí damáiste</HitPointsBasic>
   <!-- EN: Work left -->
-  <WorkLeft>Verbleibende Arbeit</WorkLeft>
+  <WorkLeft>Obair fágtha</WorkLeft>
   <!-- EN: Contents -->
-  <Contents>Inhalt</Contents>
+  <Contents>Ábhar</Contents>
   <!-- EN: Contained resources -->
-  <ContainedResources>Eingelagerte Ressourcen</ContainedResources>
+  <ContainedResources>Acmhainní istigh</ContainedResources>
   <!-- EN: For prisoner use -->
-  <ForPrisonerUse>Beschränkt auf: Gefangene</ForPrisonerUse>
+  <ForPrisonerUse>Do phriosúnaigh</ForPrisonerUse>
   <!-- EN: In prison cell: For prisoner use -->
-  <InPrisonCell>Beschränkt auf: Gefangene (aktuell im Haftraum)</InPrisonCell>
+  <InPrisonCell>I gcillín príosúin (do phriosúnaigh)</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>Beschränkt auf: Kolonisten</ForColonistUse>
+  <ForColonistUse>Do choilínigh</ForColonistUse>
   <!-- EN: Medical -->
-  <MedicalBed>Für den medizinischen Gebrauch</MedicalBed>
+  <MedicalBed>Leigheas</MedicalBed>
   <!-- EN: Owner -->
-  <Owner>Besitzer</Owner>
+  <Owner>Úinéir</Owner>
   <!-- EN: Owners -->
-  <Owners>Besitzer</Owners>
+  <Owners>Úinéirí</Owners>
   <!-- EN: Assigned colonist -->
-  <AssignedColonist>Zugewiesener Kolonist</AssignedColonist>
+  <AssignedColonist>Coilíneach sannta</AssignedColonist>
   <!-- EN: Uncomfortable room temperature -->
-  <BedUncomfortableTemperature>Unangenehme Raumtemperatur</BedUncomfortableTemperature>
+  <BedUncomfortableTemperature>Teocht mhíchompordach</BedUncomfortableTemperature>
   <!-- EN: Unsafe room temperature -->
-  <BedUnsafeTemperature>Gefährliche Raumtemperatur</BedUnsafeTemperature>
+  <BedUnsafeTemperature>Teocht dháinséarach</BedUnsafeTemperature>
   <!-- EN: Died on the {0} -->
-  <DiedOn>Starb am {0}</DiedOn>
+  <DiedOn>Básaíodh ar an {0}</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>Niemand</Nobody>
+  <Nobody>Duine ar bith</Nobody>
   <!-- EN: Unowned -->
-  <Unowned>Frei</Unowned>
+  <Unowned>Gan úinéir</Unowned>
   <!-- EN: Dead for {0} -->
-  <DeadTime>Tot seit {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</DeadTime>
+  <DeadTime>Marbh le {0}</DeadTime>
   <!-- EN: walk speed {0} -->
-  <WalkSpeed>Laufgeschw. {0}</WalkSpeed>
+  <WalkSpeed>Luas siúil {0}</WalkSpeed>
   <!-- EN: fert. -->
-  <FertShort>Fruchtb.</FertShort>
+  <FertShort>toirch.</FertShort>
   <!-- EN: dying -->
-  <DyingLower>stirbt</DyingLower>
+  <DyingLower>tí báis</DyingLower>
   <!-- EN: Filth on feet: -->
-  <FilthOnFeet>Dreck an den Füßen:</FilthOnFeet>
+  <FilthOnFeet>Cosa salacha:</FilthOnFeet>
   <!-- EN: not enough stored -->
-  <NotEnoughStoredLower>zu wenig auf Lager</NotEnoughStoredLower>
+  <NotEnoughStoredLower>níl dóthan sa stóras</NotEnoughStoredLower>
   <!-- EN: nothing -->
-  <NothingLower>nichts</NothingLower>
+  <NothingLower>faic</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>Nichts</Nothing>
+  <Nothing>Faic</Nothing>
   <!-- EN: Adapted -->
-  <Adapted>Angepasst</Adapted>
+  <Adapted>Curtha in oiriúint</Adapted>
   <!-- EN: fresh -->
-  <FreshMissingBodyPart>frisch</FreshMissingBodyPart>
+  <FreshMissingBodyPart>úr</FreshMissingBodyPart>
   <!-- EN: developed immunity -->
-  <DevelopedImmunityLower>wurde immun</DevelopedImmunityLower>
+  <DevelopedImmunityLower>imdhíonacht saothraithe</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Muss jetzt behandelt werden</NeedsTendingNow>
+  <NeedsTendingNow>Cóireáil de dhíth anois</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>Kann jetzt behandelt werden</CanTendNow>
+  <CanTendNow>Cóireáil ar fáil anois</CanTendNow>
   <!-- EN: Tending expires in {0} -->
-  <TreatmentExpiresIn>Behandlung erlischt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</TreatmentExpiresIn>
+  <TreatmentExpiresIn>Rachaidh cóireáil in éag i gceann {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Nächste Behandlung in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</NextTendIn>
+  <NextTendIn>Cóireáil ar fáil i gceann {0}</NextTendIn>
   <!-- EN: Tend quality -->
-  <TendQuality>Behandlungsqualität</TendQuality>
+  <TendQuality>Cáilíochta cóireála</TendQuality>
   <!-- EN: Total tend quality -->
-  <DisappearsAtTotalTendQuality>Beh.-Qualität insg.</DisappearsAtTotalTendQuality>
+  <DisappearsAtTotalTendQuality>Cáil. iomlán cóireála</DisappearsAtTotalTendQuality>
   <!-- EN: no {0} -->
-  <MissingMedicalBillIngredient>keine {0}</MissingMedicalBillIngredient>
+  <MissingMedicalBillIngredient>gan {0}</MissingMedicalBillIngredient>
   <!-- EN: Immunity -->
-  <Immunity>Immunität</Immunity>
+  <Immunity>Imdhíonacht</Immunity>
   <!-- EN: {0} days to recover -->
-  <DaysToRecover>{0} Tage bis zur Genesung</DaysToRecover>
+  <DaysToRecover>{0} lá le téarnamh</DaysToRecover>
   <!-- EN: Ineffective -->
-  <Ineffective>Ineffektiv</Ineffective>
+  <Ineffective>Neamhéifeachtach</Ineffective>
   <!-- EN: illegal -->
-  <Illegal>illegal</Illegal>
+  <Illegal>mídhleathach</Illegal>
   <!-- EN: detection chance -->
-  <DetectionChance>Entdeckungschance</DetectionChance>
+  <DetectionChance>detection chance</DetectionChance>
   <!-- EN: Race -->
-  <Race>Rasse</Race>
+  <Race>Cine</Race>
   <!-- EN: Description -->
-  <Description>Beschreibung</Description>
+  <Description>Cur síos</Description>
   <!-- EN: Equipment -->
-  <Equipment>Ausrüstung</Equipment>
+  <Equipment>Trealamh</Equipment>
   <!-- EN: Apparel -->
-  <Apparel>Kleidung</Apparel>
+  <Apparel>Éadaí</Apparel>
   <!-- EN: Inventory -->
-  <Inventory>Inventar</Inventory>
+  <Inventory>Fardal</Inventory>
   <!-- EN: Information -->
-  <ThingInfo>Information</ThingInfo>
+  <ThingInfo>Eolas</ThingInfo>
   <!-- EN: Drop -->
-  <DropThing>Ablegen</DropThing>
+  <DropThing>Cur síos</DropThing>
   <!-- EN: Temporary faction members will not drop their items. -->
-  <DropThingLodger>Temporäre Fraktionsmitglieder werden ihre Sachen nicht ablegen.</DropThingLodger>
+  <DropThingLodger>Ní scaoilfidh cuairteoirí sealadacha lena gcuid earraí.</DropThingLodger>
   <!-- EN: This person refuses to drop this. -->
-  <DropThingLocked>Diese Person weigert sich, das abzulegen.</DropThingLocked>
+  <DropThingLocked>Níl an duine seo sásta scaoileadh leis an rud seo a scaoileadh.</DropThingLocked>
   <!-- EN: Rename -->
-  <Rename>Umbenennen</Rename>
+  <Rename>Athainmnigh</Rename>
   <!-- EN: Rename animal -->
-  <RenameAnimal>Tier umbenennen</RenameAnimal>
+  <RenameAnimal>Athainmnigh ainmhí</RenameAnimal>
   <!-- EN: Rename colonist -->
-  <RenameColonist>Kolonist umbenennen</RenameColonist>
+  <RenameColonist>Athainmnigh coilíneach</RenameColonist>
   <!-- EN: Renounce title -->
-  <RenounceTitle>Adelstitel entfernen</RenounceTitle>
+  <RenounceTitle>Tabhair suas teideal</RenounceTitle>
   <!-- EN: Execute -->
-  <Execute>Hinrichten</Execute>
+  <Execute>Cuir chun báis</Execute>
   <!-- EN: Execute guilty colonist\n\nIf you toggle this on, a warden will proceed to execute this person. -->
-  <ExecuteColonist>Einen schuldigen Kolonisten hinrichten.\n\nBei Aktivierung wird ein Wärter kommen und diese Person hinrichten.</ExecuteColonist>
+  <ExecuteColonist>Cuir coilíneach ciontach chun báis.\n\nMá roghnaítear an rogha seo, cuirfidh maor an duine seo chun báis.</ExecuteColonist>
   <!-- EN: {0_labelShort} is now marked for execution. The next available warden will go execute {0_objective}. -->
-  <MessageColonistMarkedForExecution>{0_labelShort} ist jetzt für die Hinrichtung markiert. Der nächste verfügbare Wärter wird {0_objective} hinrichten.</MessageColonistMarkedForExecution>
+  <MessageColonistMarkedForExecution>Tá {0_labelShort} le cur chun báis. Cuirfidh maor {0_objective} chun báis.</MessageColonistMarkedForExecution>
   <!-- EN: {0} of {1} -->
-  <TitleOfFaction>{0} von der Fraktion '{1}'</TitleOfFaction>
+  <TitleOfFaction>{0} ón bhfaicsean '{1}'</TitleOfFaction>
   <!-- EN: This action will make {PAWN_nameDef} lose {PAWN_possessive} {TITLE} title. You will receive no compensation for renouncing the title.\n\nThis will have the following effects:\n\n{EFFECTS} -->
-  <RenounceTitleDescription>Durch diese Aktion wird {PAWN_nameDef} {PAWN_possessive}en Titel als {TITLE} verlieren. Du bekommst keine Entschädigung für den Verlust des Titels.\n\nDies hat folgende Auswirkungen:\n\n{EFFECTS}</RenounceTitleDescription>
+  <RenounceTitleDescription>Má roghnaítear an rogha seo, caillfidh {PAWN_nameDef} an teideal '{TITLE}. Ní thabharfar aon chúiteamh duit as an teideal a thréigean.\n\nBeidh na himpleachtaí seo a leanas ag an gcinneadh:\n\n{EFFECTS}</RenounceTitleDescription>
   <!-- EN: {PAWN_pronoun} will lose these permissions -->
-  <RenounceTitleWillLoosePermits>{PAWN_pronoun} wird folgende Befugnisse verlieren</RenounceTitleWillLoosePermits>
+  <RenounceTitleWillLoosePermits>Caillfidh {PAWN_pronoun} na pribhléidí seo a leanas</RenounceTitleWillLoosePermits>
   <!-- EN: {PAWN_nameDef} will lose {POINTS} unspent permit points with {FACTION_name}. -->
-  <RenounceTitleWillLosePermitPoints>{PAWN_nameDef} verliert {POINTS} unverbrauchte Ermächtigungspunkte bei der Fraktion {FACTION_name}.</RenounceTitleWillLosePermitPoints>
+  <RenounceTitleWillLosePermitPoints>Caillfidh {PAWN_nameDef} {POINTS} pointe leis an bhfaicsean '{FACTION_name}'.</RenounceTitleWillLosePermitPoints>
   <!-- EN: {PAWN_pronoun} will keep all {PAWN_possessive} psylink levels and psycasts. -->
-  <RenounceTitleWillKeepPsylinkLevels>{PAWN_pronoun} wird {PAWN_possessive}e derzeitigen Psylinkstufen und mentalen Kräfte behalten.</RenounceTitleWillKeepPsylinkLevels>
+  <RenounceTitleWillKeepPsylinkLevels>Coinneoidh {PAWN_nameDef} leibhéal gach sícea-nasc agus gach sícea-chumhacht a baineadh amach go dtí seo.</RenounceTitleWillKeepPsylinkLevels>
   <!-- EN: unknown -->
-  <UnknownLower>unbekannt</UnknownLower>
+  <UnknownLower>ní fios</UnknownLower>
   <!-- EN: On -->
-  <On>An</On>
+  <On>Ar</On>
   <!-- EN: Off -->
-  <Off>Aus</Off>
+  <Off>As</Off>
   <!-- EN: Power -->
-  <PowerSwitch_Power>Strom</PowerSwitch_Power>
+  <PowerSwitch_Power>Cumhacht</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
-  <JoyTolerances>Entspannungsart-Toleranzen</JoyTolerances>
+  <JoyTolerances>Recreation type tolerances</JoyTolerances>
   <!-- EN: Milk fullness -->
-  <MilkFullness>Milchfülle</MilkFullness>
+  <MilkFullness>Milk fullness</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>Wachstum Wolle</WoolGrowth>
+  <WoolGrowth>Wool growth</WoolGrowth>
   <!-- EN: Egg progress -->
   <EggProgress>Fortschritt Ei</EggProgress>
   <!-- EN: Fertilized -->

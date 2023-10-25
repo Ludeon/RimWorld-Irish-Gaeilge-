@@ -207,7 +207,7 @@
 
   <!-- Screen shake mode -->
   <!-- EN: Screen shake intensity -->
-  <ScreenShakeIntensity>Déine: creathán ceamara</ScreenShakeIntensity>
+  <ScreenShakeIntensity>Croitheadh ceamara</ScreenShakeIntensity>
   
   <!-- Animal name display mode -->
   <!-- EN: Show animal names -->
@@ -221,7 +221,7 @@
   <!-- EN: Show player mech names -->
   <ShowMechNames>Taispeáin ainmneacha róbat an imreora</ShowMechNames>
   <!-- EN: While drafted -->
-  <MechNameDisplayMode_WhileDrafted>agus iad dréachtaithe</MechNameDisplayMode_WhileDrafted>
+  <MechNameDisplayMode_WhileDrafted>Dréachtaithe</MechNameDisplayMode_WhileDrafted>
   <!-- EN: always -->
   <MechNameDisplayMode_Always>i gcónaí</MechNameDisplayMode_Always>
 
@@ -233,7 +233,7 @@
   <!-- EN: always -->
   <ShowWeapons_Always>i gcónaí</ShowWeapons_Always>
   <!-- EN: while drafted -->
-  <ShowWeapons_WhileDrafted>agus iad dréachtaithe</ShowWeapons_WhileDrafted>
+  <ShowWeapons_WhileDrafted>Dréachtaithe</ShowWeapons_WhileDrafted>
 
   <!-- Temperature -->
   <!-- EN: Celsius -->
@@ -313,11 +313,11 @@
   
   <!-- Automatic pause mode -->
   <!-- EN: Never -->
-  <AutomaticPauseMode_Never>Riamh</AutomaticPauseMode_Never>
+  <AutomaticPauseMode_Never>Ná stop</AutomaticPauseMode_Never>
   <!-- EN: Major threats -->
   <AutomaticPauseMode_MajorThreat>Bagairtí tromchúiseacha</AutomaticPauseMode_MajorThreat>
   <!-- EN: Any threat -->
-  <AutomaticPauseMode_AnyThreat>Aon bheagairt</AutomaticPauseMode_AnyThreat>
+  <AutomaticPauseMode_AnyThreat>Aon bhagairt</AutomaticPauseMode_AnyThreat>
   <!-- EN: Any letter -->
   <AutomaticPauseMode_AnyLetter>Aon teachtaireacht</AutomaticPauseMode_AnyLetter>
 
