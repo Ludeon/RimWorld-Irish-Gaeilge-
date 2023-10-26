@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: Great!\n\nReorder and randomize more if you want - but don't try to get the perfect characters. Everyone has flaws, and it makes the story more interesting!\n\nYou can also re-name the characters by clicking on their names.\n\nClick START when you're ready. -->
-  <AcceptStartingPawns.text>TODO</AcceptStartingPawns.text>
+  <AcceptStartingPawns.text>Maith thú!\n\Is féidir tuilleadh roghanna a dhéanamh más maith leat - ach ná déan iarracht carachtair fhoirfe a aimsiú. Ní bhíonn aon duine gan locht, agus beidh an scéal níos suimiúla dá bharr!\n\nIs féidir ainmneacha na gcarachtar a athrú freisin ach cliceáil ar a n-ainmneacha\n\nCliceáil ar TOSNAIGH nuair atá tú réidh.</AcceptStartingPawns.text>
   
   <!-- EN: Select this -->
-  <AddBillSimpleMeal.onMapInstruction>TODO</AddBillSimpleMeal.onMapInstruction>
+  <AddBillSimpleMeal.onMapInstruction>Roghnaigh é seo</AddBillSimpleMeal.onMapInstruction>
   <!-- EN: Please add a bill to cook simple meals at your cook stove. -->
-  <AddBillSimpleMeal.rejectInputMessage>TODO</AddBillSimpleMeal.rejectInputMessage>
+  <AddBillSimpleMeal.rejectInputMessage>Cruthaigh bille chun béilí simplí a dhéanamh ag an sorn.</AddBillSimpleMeal.rejectInputMessage>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and right-click the stove to prioritize building it. -->
-  <AddBillSimpleMeal.text>TODO</AddBillSimpleMeal.text>
+  <AddBillSimpleMeal.text>Ní mór a rá le coilínigh céard ba cheart dóibh cócaireacht.\n\nCuirtear orduithe cócaireachta leis an sorn féin. Nuair a chruthaítear bille, déanfaidh coilínigh an obair go huathoibríoch.\n\n1. Fan go dtí go mbeidh an sorn tógtha.\n2. Cliceáil ar an sorn chun é a roghnú.\n3. Oscail an táb BILLÍ.\n4. Cliceáil ar BILLE NUA.\n5. Roghnaigh DÉAN BÉILE SIMPLÍ ar an roghchlár.\n6. Cliceáil ar an gcnaipe + chun líon na mbéiltí a ardú go dtí 10.\n\nNá déan dearmad, is féidir an t-am a ghéarú má thógann sé rófhada an sorn a thógáil.\n\nFéadfaidh tú coilíneach a roghnú agus deaschliceáil ar an sorn chun tús áite a thabhairt don tógáil.</AddBillSimpleMeal.text>
   <!-- EN: Colonists need to be told what to cook.\n\nCooking orders are added on the stove itself. Once a bill has been created, colonists will do the work automatically.\n\n1. Wait for the stove to be built.\n2. Click the stove to select it.\n3. Open the BILLS tab.\n4. Click ADD BILL.\n5. Select COOK SIMPLE MEAL on the context menu.\n6. Click the + button to increase the count to 10.\n\nRemember, you can speed up time if building is taking too long.\n\nYou can also select a colonist and press left trigger button on the stove to prioritize building it. -->
-  <AddBillSimpleMeal.textController>TODO</AddBillSimpleMeal.textController>
+  <AddBillSimpleMeal.textController>Ní mór a rá le coilínigh céard ba cheart dóibh cócaireacht.\n\nCuirtear orduithe cócaireachta leis an sorn féin. Nuair a chruthaítear bille, déanfaidh coilínigh an obair go huathoibríoch.\n\n1. Fan go dtí go mbeidh an sorn tógtha.\n2. Cliceáil ar an sorn chun é a roghnú.\n3. Oscail an táb BILLÍ.\n4. Cliceáil ar BILLE NUA.\n5. Roghnaigh DÉAN BÉILE SIMPLÍ ar an roghchlár.\n6. Cliceáil ar an gcnaipe + chun líon na mbéiltí a ardú go dtí 10.\n\nNá déan dearmad, is féidir an t-am a ghéarú má thógann sé rófhada an sorn a thógáil.\n\nFéadfaidh tú coilíneach a roghnú agus cliceáil ar an sorn leis an truicear deas chun tús áite a thabhairt don tógáil.</AddBillSimpleMeal.textController>
   
   <!-- EN: Build an animal sleeping spot\ninside the room -->
   <BuildAnimalSleepingSpot.onMapInstruction>TODO</BuildAnimalSleepingSpot.onMapInstruction>
@@ -99,9 +99,9 @@
   <ChopTrees.text>TODO</ChopTrees.text>
   
   <!-- EN: Click GENERATE to generate your world. -->
-  <CreateWorldParams.rejectInputMessage>TODO</CreateWorldParams.rejectInputMessage>
+  <CreateWorldParams.rejectInputMessage>Cliceáil ar CRUTHAIGH chun do dhomhan a ghiniúint.</CreateWorldParams.rejectInputMessage>
   <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>TODO</CreateWorldParams.text>
+  <CreateWorldParams.text>Fáilte chuig RimWorld!\n\nÚsáidtear an leathanach seo chun do phlainéad a ghiniúint.\n\nTá na réamhshocruithe ar an roghchlár seo ceart go leor - lean ar aghaidh agus cliceáil ar CRUTHAIGH!</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>TODO</DownRaider.onMapInstruction>
@@ -156,14 +156,14 @@
   <MakeStockpile.text>TODO</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
-  <MapCameraDolly.text>TODO</MapCameraDolly.text>
+  <MapCameraDolly.text>Seo linn, táimid leandáilte ar an bplainéad!\n\nDéan iarracht an ceamara a bhogadh.\n\nBain úsáid as na cnaipí {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, nó cliceáil agus tarraing leis an gcnaipe luiche sa lár.\n\nBain triail as anois!</MapCameraDolly.text>
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around with the left joystick.\n\nTry it now! -->
-  <MapCameraDolly.textController>TODO</MapCameraDolly.textController>
+  <MapCameraDolly.textController>Seo linn, táimid leandáilte ar an bplainéad!\n\nDéan iarracht an ceamara a bhogadh leis an luamhán clé.\n\nBain triail as anois!</MapCameraDolly.textController>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
-  <MapCameraZoom.text>TODO</MapCameraZoom.text>
+  <MapCameraZoom.text>Go hiontach!\n\nFéadfaidh tú zúmáil isteach agus amach leis an roth luiche, nó leis na cnaipí {Key:MapZoom_In} agus {Key:MapZoom_Out}.\n\nBain triail as anois!</MapCameraZoom.text>
   <!-- EN: Great!\n\nYou can also zoom in and out with {Key:MapZoom_In} and {Key:MapZoom_Out}.\n\nTry it now! -->
-  <MapCameraZoom.textController>TODO</MapCameraZoom.textController>
+  <MapCameraZoom.textController>Go hiontach!\n\nFéadfaidh tú zúmáil isteach agus amach le {Key:MapZoom_In} agus {Key:MapZoom_Out}.\n\nBain triail as anois!</MapCameraZoom.textController>
   
   <!-- EN: Designate all this\nfor mining -->
   <MineSteel.onMapInstruction>TODO</MineSteel.onMapInstruction>
@@ -173,9 +173,9 @@
   <MineSteel.text>TODO</MineSteel.text>
   
   <!-- EN: Please open the 'Research' tab. -->
-  <OpenMainTabResearch.rejectInputMessage>TODO</OpenMainTabResearch.rejectInputMessage>
+  <OpenMainTabResearch.rejectInputMessage>Oscail an táb 'Taighde'.</OpenMainTabResearch.rejectInputMessage>
   <!-- EN: Excellent! Next, you'll want to select what you want to be researched.\n\nOpen the RESEARCH tab. -->
-  <OpenMainTabResearch.text>TODO</OpenMainTabResearch.text>
+  <OpenMainTabResearch.text>Maith thú! Anois, roghnaigh an taighde ar mhaith leat tabhairt faoi.\n\nOscail an táb TAIGHDE.</OpenMainTabResearch.text>
   
   <!-- EN: Please open the 'Work' tab. -->
   <OpenMainTabWork.rejectInputMessage>TODO</OpenMainTabWork.rejectInputMessage>
@@ -188,14 +188,14 @@
   <Pause.textController>TODO</Pause.textController>
   
   <!-- EN: Please click the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.rejectInputMessage>TODO</RandomizeCharacter.rejectInputMessage>
+  <RandomizeCharacter.rejectInputMessage>Cliceáil ar RANDAMACH chun carachtar randamach eile a chruthú.</RandomizeCharacter.rejectInputMessage>
   <!-- EN: If you don't like a character, you can regenerate them!\n\nClick the RANDOMIZE button to randomize the character. -->
-  <RandomizeCharacter.text>TODO</RandomizeCharacter.text>
+  <RandomizeCharacter.text>Mura dtaitníonn carachtar leat, féadfaidh tú carachtar nua a ghiniúint\n\nCliceáil ar RANDAMACH chun carachtar úr randamach a fháil.<RandomizeCharacter.text>
   
   <!-- EN: Please drag a character from the "left behind" group (at the bottom-left) into the "selected" group (at the upper-left). -->
-  <ReorderCharacters.rejectInputMessage>TODO</ReorderCharacters.rejectInputMessage>
+  <ReorderCharacters.rejectInputMessage>Tarraing carachtar ón ngrúpa "neamhroghnaithe" (ag an mbun ar chlé) isteach sa ghrúpa "roghnaithe" (ag an mbarr ar chlé)</ReorderCharacters.rejectInputMessage>
   <!-- EN: Now you choose which characters you want to use.\n\nDRAG a character from the "left behind" part of the character list (at the bottom) into the "selected" part (at the top).\n\nOptionally, clicking a character will allow you inspect him or her. -->
-  <ReorderCharacters.text>TODO</ReorderCharacters.text>
+  <ReorderCharacters.text>Roghnaigh na carachtair ar mhaith leat a úsáid.\n\nTARRAING carachtar ón liosta "neamhroghnaithe" (ag an mbun) chuig an liosta "roghnaithe" (ag an mbarr).\n\nMar rogha eile, is féidir breathnú ar charachtar ach cliceáil air nó uirthi.</ReorderCharacters.text>
   
   <!-- EN: Please choose a research project. -->
   <SelectResearchProject.rejectInputMessage>TODO</SelectResearchProject.rejectInputMessage>

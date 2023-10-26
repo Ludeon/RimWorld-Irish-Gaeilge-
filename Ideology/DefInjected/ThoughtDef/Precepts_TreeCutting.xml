@@ -25,7 +25,7 @@
   <!-- EN: tree felled -->
   <CutTree_Know_Horrible_Mood.stages.tree_felled.label>arbre abattu</CutTree_Know_Horrible_Mood.stages.tree_felled.label>
   <!-- EN: We cut down a tree. It's wrong to scar nature this way. -->
-  <CutTree_Know_Horrible_Mood.stages.tree_felled.description>Nous avons coupé un arbre. C'est mal d'abîmer la nature de cette façon. </CutTree_Know_Horrible_Mood.stages.tree_felled.description>
+  <CutTree_Know_Horrible_Mood.stages.tree_felled.description>Nous avons coupé un arbre. C'est mal d'abîmer la nature de cette façon.</CutTree_Know_Horrible_Mood.stages.tree_felled.description>
   
   <!-- EN: cut tree -->
   <CutTree_Know_Prohibited.stages.cut_tree.label>a coupé un arbre</CutTree_Know_Prohibited.stages.cut_tree.label>

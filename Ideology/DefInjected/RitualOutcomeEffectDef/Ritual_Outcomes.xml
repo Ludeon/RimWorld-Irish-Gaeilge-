@@ -78,7 +78,7 @@
   <!-- EN: The {0} was spectacular! The speech brought everyone to the edge of a frenzy just as the eye came out with a satisfying wet noise. -->
   <BlindingCeremony.outcomeChances.3.description>Le {0} était spectaculaire ! Le discours amena tout le monde au bord de la frénésie juste au moment où l'œil sortait avec un bruit humide satisfaisant.</BlindingCeremony.outcomeChances.3.description>
   <!-- EN: The blinded person will get a psylink upgrade or unlock a new psychic power. -->
-  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>La personne aveugle obtiendra une amélioration de lien psychique ou débloquera un nouveau pouvoir psychique. </BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
+  <BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>La personne aveugle obtiendra une amélioration de lien psychique ou débloquera un nouveau pouvoir psychique.</BlindingCeremony.outcomeChances.3.potentialExtraOutcomeDesc>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
   <CelebratedDate.description>Selon la qualité du rituel, les participants gagneront entre {MINMOOD} et {MAXMOOD} humeur pendant {MOODDAYS} jours.</CelebratedDate.description>

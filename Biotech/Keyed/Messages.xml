@@ -85,7 +85,7 @@
 
   <MessageDevelopmentalStageSelectionDisabledByScenario>Developmental stage selection disabled by scenario.</MessageDevelopmentalStageSelectionDisabledByScenario>
 
-  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef} did not have enough blood to produce a hemogen pack. </MessagePawnHadNotEnoughBloodToProduceHemogenPack>
+  <MessagePawnHadNotEnoughBloodToProduceHemogenPack>{PAWN_nameDef} did not have enough blood to produce a hemogen pack.</MessagePawnHadNotEnoughBloodToProduceHemogenPack>
   <MessageCannotStartHemogenExtraction>{PAWN_nameDef} doesn't have enough blood to produce a hemogen pack.</MessageCannotStartHemogenExtraction>
 
   <MessageCannotPostponeGrowthMoment>You must choose how {PAWN_nameDef} will grow now.</MessageCannotPostponeGrowthMoment>

@@ -47,7 +47,7 @@
     <li>areIs(lodgersCount==1)->is</li>
     <li>areIs(lodgersCount>=2)->are</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->Any remaining [lodgersLabelPlural] will now leave. </li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->Any remaining [lodgersLabelPlural] will now leave.</li>
     <li>failLetterEndingQuest->You have failed the quest '[resolvedQuestName]'.</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
@@ -183,7 +183,7 @@
     <li>will_not_do(lodgersCount==1)->ne travaillera pas</li>
     <li>will_not_do(lodgersCount>=2)->ne travailleront pas</li>
     <li>remainingWillNowLeave(lodgersCount==1)-></li>
-    <li>remainingWillNowLeave(lodgersCount>=2)->Tous les [lodgersLabelPlural] restants vont maintenant partir. </li>
+    <li>remainingWillNowLeave(lodgersCount>=2)->Tous les [lodgersLabelPlural] restants vont maintenant partir.</li>
     <li>failLetterEndingQuest->Vous avez raté la quête "[resolvedQuestName]".</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->[failLetterEndingQuest]</li>
     <li>failLetterEndingCommon->[failLetterEndingQuest]\n\nVotre relation avec [asker_faction_name] a diminué de [goodwillPenalty].</li>

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by nuns in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical. -->
-  <ConventChild16.baseDesc>Rugadh [PAWN_nameDef] mar thoradh ar chaidreamh neamhcheadaithe. Tógadh [PAWN_nameDef] i gclochar meánaoiseach. D'fhoghlaim [PAWN_nameDef] an luach a bhaineann le hobair chrua, ach bhí sé anrialta teicneolaíocht a úsáid. </ConventChild16.baseDesc>
+  <ConventChild16.baseDesc>Rugadh [PAWN_nameDef] mar thoradh ar chaidreamh neamhcheadaithe. Tógadh [PAWN_nameDef] i gclochar meánaoiseach. D'fhoghlaim [PAWN_nameDef] an luach a bhaineann le hobair chrua, ach bhí sé anrialta teicneolaíocht a úsáid.</ConventChild16.baseDesc>
   <!-- EN: convent child -->
   <ConventChild16.title>leanbh clochair</ConventChild16.title>
   <!-- EN: illicit -->

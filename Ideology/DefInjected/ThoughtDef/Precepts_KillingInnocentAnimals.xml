@@ -9,7 +9,7 @@
   <!-- EN: killed innocent {0} -->
   <KilledInnocentAnimal_Horrible.stages.killed_innocent.label>a tué un{0_gender ? : e : (e)} {0} innocent{0_gender ? : e : (e)}</KilledInnocentAnimal_Horrible.stages.killed_innocent.label>
   <!-- EN: I had to kill an innocent animal. It was almost like being forced to murder. -->
-  <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>J'ai dû tuer un animal innocent. C'était presque comme être forcé de tuer un humain. </KilledInnocentAnimal_Horrible.stages.killed_innocent.description>
+  <KilledInnocentAnimal_Horrible.stages.killed_innocent.description>J'ai dû tuer un animal innocent. C'était presque comme être forcé de tuer un humain.</KilledInnocentAnimal_Horrible.stages.killed_innocent.description>
   
   <!-- EN: killed innocent animal -->
   <KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>a tué un animal innocent</KilledInnocentAnimal_Know_Abhorrent.stages.killed_innocent_animal.label>

@@ -54,7 +54,7 @@
   <!-- EN: pod refugee helped -->
   <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>réfugié aidé</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.label>
   <!-- EN: We helped a crashed refugee survive. Helping others is important. -->
-  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>Nous avons aidé un réfugié qui s'est crashé à survivre. Aider les autres est important. </CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
+  <CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>Nous avons aidé un réfugié qui s'est crashé à survivre. Aider les autres est important.</CharityFulfilled_Important_RefugeePodCrash.stages.pod_refugee_helped.description>
   
   <!-- EN: shuttle survivors helped -->
   <CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>survivants d'une navette aidés</CharityFulfilled_Important_ShuttleCrashRescue.stages.shuttle_survivors_helped.label>
