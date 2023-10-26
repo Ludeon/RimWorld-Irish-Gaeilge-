@@ -2,149 +2,149 @@
 <LanguageData>
 
   <!-- EN: Tool -->
-  <Tool>Werkzeug</Tool>
+  <Tool>Uirlis</Tool>
   <!-- EN: damage -->
-  <DamageLower>Schaden</DamageLower>
+  <DamageLower>damáiste</DamageLower>
   <!-- EN: seconds per attack -->
-  <SecondsPerAttackLower>Sekunden pro Angriff</SecondsPerAttackLower>
+  <SecondsPerAttackLower>soicind le hionsaí</SecondsPerAttackLower>
 
   <!-- EN: Base value -->
-  <StatsReport_BaseValue>Grundwert</StatsReport_BaseValue>
+  <StatsReport_BaseValue>Bunluach</StatsReport_BaseValue>
   <!-- EN: Relevant traits -->
-  <StatsReport_RelevantTraits>Relevante Merkmale</StatsReport_RelevantTraits>
+  <StatsReport_RelevantTraits>Tréithe ábhartha</StatsReport_RelevantTraits>
   <!-- EN: Relevant gear -->
-  <StatsReport_RelevantGear>Relevante Ausrüstung</StatsReport_RelevantGear>
+  <StatsReport_RelevantGear>Trealamh ábhartha</StatsReport_RelevantGear>
   <!-- EN: Relevant health conditions -->
-  <StatsReport_RelevantHediffs>Relevante Gesundheitszustände</StatsReport_RelevantHediffs>
+  <StatsReport_RelevantHediffs>Riochtaí leighis ábhartha</StatsReport_RelevantHediffs>
   <!-- EN: Life stage -->
-  <StatsReport_LifeStage>Altersgruppe</StatsReport_LifeStage>
+  <StatsReport_LifeStage>Céim beatha</StatsReport_LifeStage>
   <!-- EN: Material -->
-  <StatsReport_Material>Material</StatsReport_Material>
+  <StatsReport_Material>Ábhar</StatsReport_Material>
   <!-- EN: Character quality -->
-  <StatsReport_CharacterQuality>Charakterqualität</StatsReport_CharacterQuality>
+  <StatsReport_CharacterQuality>Cáilíocht carachtair</StatsReport_CharacterQuality>
   <!-- EN: Skills -->
-  <StatsReport_Skills>Fertigkeiten</StatsReport_Skills>
+  <StatsReport_Skills>Scileanna</StatsReport_Skills>
   <!-- EN: Post-process - other stats -->
-  <StatsReport_OtherStats>Nachträgliche Anpassungen - andere Statistiken</StatsReport_OtherStats>
+  <StatsReport_OtherStats>Iarphróiseail - stait. eile</StatsReport_OtherStats>
   <!-- EN: Health -->
-  <StatsReport_Health>Körper</StatsReport_Health>
+  <StatsReport_Health>Sláinte</StatsReport_Health>
   <!-- EN: {0} importance -->
-  <HealthFactorPercentImpact>Gewichtung {0}</HealthFactorPercentImpact>
+  <HealthFactorPercentImpact>Tábhacht {0}</HealthFactorPercentImpact>
   <!-- EN: {0} impact -->
-  <HealthOffsetScale>{0} Wirkung</HealthOffsetScale>
+  <HealthOffsetScale>Tionchar {0}</HealthOffsetScale>
   <!-- EN: {0} max -->
-  <HealthFactorMaxImpact>max {0}</HealthFactorMaxImpact>
+  <HealthFactorMaxImpact>uas {0}</HealthFactorMaxImpact>
   <!-- EN: if below {0} -->
-  <HealthFactorAllowedDefect>wenn unter {0}</HealthFactorAllowedDefect>
+  <HealthFactorAllowedDefect>más faoi {0}</HealthFactorAllowedDefect>
   <!-- EN: Post-process curve -->
-  <StatsReport_PostProcessed>Nachbearbeitungskurve</StatsReport_PostProcessed>
+  <StatsReport_PostProcessed>Cuar iarphróiseála</StatsReport_PostProcessed>
   <!-- EN: The chances to hit at increasing distances are -->
-  <StatsReport_ShootingExampleDistances>Die Trefferchancen bei zunehmender Distanz sind</StatsReport_ShootingExampleDistances>
+  <StatsReport_ShootingExampleDistances>An dóchúlacht go mbuailfear targaidí ag achair mhóra</StatsReport_ShootingExampleDistances>
   <!-- EN: Final value -->
-  <StatsReport_FinalValue>Endgültiger Wert</StatsReport_FinalValue>
+  <StatsReport_FinalValue>Luach deiridh</StatsReport_FinalValue>
   <!-- EN: Multiplier for {0} -->
-  <StatsReport_MultiplierFor>Multiplikator für {0}</StatsReport_MultiplierFor>
+  <StatsReport_MultiplierFor>Iolraitheoir do {0}</StatsReport_MultiplierFor>
   <!-- EN: Materials and labor -->
-  <StatsReport_MarketValueFromStuffsAndWork>Materialien und Arbeitsaufwand</StatsReport_MarketValueFromStuffsAndWork>
+  <StatsReport_MarketValueFromStuffsAndWork>Ábhair agus obair</StatsReport_MarketValueFromStuffsAndWork>
   <!-- EN: Quality multiplier -->
-  <StatsReport_QualityMultiplier>Qualitätsmultiplikator</StatsReport_QualityMultiplier>
+  <StatsReport_QualityMultiplier>Iolraitheoir cáilíochta</StatsReport_QualityMultiplier>
   <!-- EN: Quality offset -->
-  <StatsReport_QualityOffset>Qualitätsoffset</StatsReport_QualityOffset>
+  <StatsReport_QualityOffset>Fritháireamh cáilíochta</StatsReport_QualityOffset>
   <!-- EN: Max gain -->
-  <StatsReport_MaxGain>Max Erhöhung</StatsReport_MaxGain>
+  <StatsReport_MaxGain>Gnóthú uasta</StatsReport_MaxGain>
   <!-- EN: Multiplier for age {0} -->
-  <StatsReport_AgeMultiplier>Multiplikator für Alter {0}</StatsReport_AgeMultiplier>
+  <StatsReport_AgeMultiplier>Iolraitheoir aoise {0}</StatsReport_AgeMultiplier>
   <!-- EN: Offset for age {0} -->
-  <StatsReport_AgeOffset>Offset für Alter {0}</StatsReport_AgeOffset>
+  <StatsReport_AgeOffset>Fritháireamh aoise {0}</StatsReport_AgeOffset>
   <!-- EN: Multiplier for health {0} -->
-  <StatsReport_HealthMultiplier>Multiplikator für Trefferpunkte {0}</StatsReport_HealthMultiplier>
+  <StatsReport_HealthMultiplier>Iolraitheoir sláinte {0}</StatsReport_HealthMultiplier>
   <!-- EN: Cost to reload ({COUNT} {AMMO_label}) -->
-  <StatsReport_ReloadMarketValue>Nachladekosten ({COUNT} {AMMO_label})</StatsReport_ReloadMarketValue>
+  <StatsReport_ReloadMarketValue>Costas chun ({COUNT} {AMMO_label}) a athlódáil</StatsReport_ReloadMarketValue>
   <!-- EN: Multiplier for remaining {CHARGENOUN_plural} ({0}) -->
-  <StatsReport_ReloadRemainingChargesMultipler>Multiplikator für verbleibende {CHARGENOUN_plural} ({0})</StatsReport_ReloadRemainingChargesMultipler>
+  <StatsReport_ReloadRemainingChargesMultipler>Iolraitheoir don {CHARGENOUN_plural} ({0}) atá fágtha</StatsReport_ReloadRemainingChargesMultipler>
   <!-- EN: Multiplier for mood {0} -->
-  <StatsReport_MoodMultiplier>Multiplikator für Stimmung {0}</StatsReport_MoodMultiplier>
+  <StatsReport_MoodMultiplier>Iolraitheoir giúmair {0}</StatsReport_MoodMultiplier>
   <!-- EN: Multiplier for light {0} -->
-  <StatsReport_LightMultiplier>Multiplikator für Licht {0}</StatsReport_LightMultiplier>
+  <StatsReport_LightMultiplier>Iolraitheoir creacha {0}</StatsReport_LightMultiplier>
   <!-- EN: Multiplier for difficulty {0} -->
-  <StatsReport_DifficultyMultiplier>Multiplikator für Schwierigkeitsgrad {0}</StatsReport_DifficultyMultiplier>
+  <StatsReport_DifficultyMultiplier>Iolraitheoir deacrachta {0}</StatsReport_DifficultyMultiplier>
   <!-- EN: In bed -->
-  <StatsReport_InBed>Im Bett</StatsReport_InBed>
+  <StatsReport_InBed>Sa leaba</StatsReport_InBed>
   <!-- EN: Facilities -->
-  <StatsReport_Facilities>Angeschlossene Bauwerke</StatsReport_Facilities>
+  <StatsReport_Facilities>Áiseanna</StatsReport_Facilities>
   <!-- EN: Multiplier for body size {0} -->
-  <StatsReport_BodySize>Multiplikator für Körpergröße {0}</StatsReport_BodySize>
+  <StatsReport_BodySize>Iolraitheoir do mheáchan coirp {0}</StatsReport_BodySize>
   <!-- EN: Damaged -->
-  <StatsReport_HasHediffExplanation>Beschädigt</StatsReport_HasHediffExplanation>
+  <StatsReport_HasHediffExplanation>Damáistithe</StatsReport_HasHediffExplanation>
   <!-- EN: DPS = Melee damage * Melee hit chance / Cooldown in seconds -->
-  <StatsReport_MeleeDPSExplanation>DPS = Nahkampfschaden x Nahkampftrefferchance / Abklingzeit</StatsReport_MeleeDPSExplanation>
+  <StatsReport_MeleeDPSExplanation>DPS = Damáiste láimhe x Cruinneas láimhe / Briseadh i soicind</StatsReport_MeleeDPSExplanation>
   <!-- EN: Melee damage -->
-  <StatsReport_MeleeDamage>Nahkampfschaden</StatsReport_MeleeDamage>
+  <StatsReport_MeleeDamage>Damáiste láimhe</StatsReport_MeleeDamage>
   <!-- EN: Cooldown -->
-  <StatsReport_Cooldown>Abklingzeit</StatsReport_Cooldown>
+  <StatsReport_Cooldown>Briseadh</StatsReport_Cooldown>
   <!-- EN: Melee hit chance -->
-  <StatsReport_MeleeHitChance>Nahkampftrefferchance</StatsReport_MeleeHitChance>
+  <StatsReport_MeleeHitChance>Dóchúlacht damáiste láimhe</StatsReport_MeleeHitChance>
   <!-- EN: {0} s -->
   <StatsReport_CooldownFormat>{0} s</StatsReport_CooldownFormat>
   <!-- EN: Blocked by fences -->
-  <StatsReport_BlockedByFences>Von Zäunen blockiert</StatsReport_BlockedByFences>
+  <StatsReport_BlockedByFences>Blocáilte ag sconsaí</StatsReport_BlockedByFences>
   <!-- EN: Roam interval -->
-  <StatsReport_RoamInterval>Weglaufintervall</StatsReport_RoamInterval>
+  <StatsReport_RoamInterval>Idirlinn fánaíochta</StatsReport_RoamInterval>
   <!-- EN: Caravan rideable age -->
-  <StatsReport_CaravanRideableAge>Karawanenfähiges Alter</StatsReport_CaravanRideableAge>
+  <StatsReport_CaravanRideableAge>Aois marcaíochta do charbháin</StatsReport_CaravanRideableAge>
   <!-- EN: Life expectancy -->
-  <StatsReport_LifeExpectancy>Lebenserwartung</StatsReport_LifeExpectancy>
+  <StatsReport_LifeExpectancy>Ionchas saoil</StatsReport_LifeExpectancy>
   <!-- EN: Multiplier for missing body parts -->
-  <StatsReport_MissingBodyParts>Multiplikator für fehlende Körperteile</StatsReport_MissingBodyParts>
+  <StatsReport_MissingBodyParts>Iolraitheoir do bhaill coirp chaillte</StatsReport_MissingBodyParts>
   <!-- EN: Gear and inventory -->
-  <StatsReport_GearAndInventoryMass>Ausrüstung und Inventar</StatsReport_GearAndInventoryMass>
+  <StatsReport_GearAndInventoryMass>Trealamh agus fardal</StatsReport_GearAndInventoryMass>
   <!-- EN: Multiplier for worn by corpse -->
-  <StatsReport_WornByCorpse>Multiplikator für Von-Leiche-Getragen</StatsReport_WornByCorpse>
+  <StatsReport_WornByCorpse>Iolraitheoir: á chaitheamh ag marbhán</StatsReport_WornByCorpse>
   <!-- EN: average of all attacks -->
-  <AverageOfAllAttacks>Durchschnitt aller Angriffe</AverageOfAllAttacks>
+  <AverageOfAllAttacks>meánluach gach ionsaí</AverageOfAllAttacks>
   <!-- EN: Scenario -->
-  <StatsReport_ScenarioFactor>Szenario</StatsReport_ScenarioFactor>
+  <StatsReport_ScenarioFactor>Cás</StatsReport_ScenarioFactor>
   <!-- EN: Ingredients -->
-  <StatsReport_IngredientsMass>Zutaten</StatsReport_IngredientsMass>
+  <StatsReport_IngredientsMass>Comhábhair</StatsReport_IngredientsMass>
   <!-- EN: Permanently disabled. -->
-  <StatsReport_PermanentlyDisabled>Dauerhaft deaktiviert.</StatsReport_PermanentlyDisabled>
+  <StatsReport_PermanentlyDisabled>Díchumasaithe.</StatsReport_PermanentlyDisabled>
   <!-- EN: {0} -->
   <StatsReport_Inspiration>{0}</StatsReport_Inspiration>
   <!-- EN: Added body parts -->
-  <StatsReport_AddedBodyPartsMass>Hinzugefügte Körperteile</StatsReport_AddedBodyPartsMass>
+  <StatsReport_AddedBodyPartsMass>Baill coirp athchurtha</StatsReport_AddedBodyPartsMass>
   <!-- EN: Material effect multiplier -->
-  <StatsReport_StuffEffectMultiplier>Materialeffekt-Faktor</StatsReport_StuffEffectMultiplier>
+  <StatsReport_StuffEffectMultiplier>Iolraitheoir ábhair</StatsReport_StuffEffectMultiplier>
   <!-- EN: Resting -->
-  <StatsReport_Resting>Ruhend</StatsReport_Resting>
+  <StatsReport_Resting>Ag tógáil sosa</StatsReport_Resting>
   <!-- EN: recreation type -->
-  <StatsReport_JoyKind>Entspannungsart</StatsReport_JoyKind>
+  <StatsReport_JoyKind>cineál siamsaíochta</StatsReport_JoyKind>
   <!-- EN: work to uninstall -->
-  <StatsReport_WorkToUninstall>Demontageaufwand</StatsReport_WorkToUninstall>
+  <StatsReport_WorkToUninstall>work to uninstall</StatsReport_WorkToUninstall>
   <!-- EN: Fence -->
-  <StatsReport_Fence>Zaun</StatsReport_Fence>
+  <StatsReport_Fence>Sconsa</StatsReport_Fence>
   <!-- EN: Multiplier for growth {0} -->
-  <StatsReport_PlantGrowth>Multiplikator für Wachstum {0}</StatsReport_PlantGrowth>
+  <StatsReport_PlantGrowth>Iolraitheoir fáis {0}</StatsReport_PlantGrowth>
   <!-- EN: scaled because wild -->
-  <StatsReport_PlantGrowth_Wild>gestaffelt da wild</StatsReport_PlantGrowth_Wild>
+  <StatsReport_PlantGrowth_Wild>scálaithe de bharr fiántas</StatsReport_PlantGrowth_Wild>
   <!-- EN: Not flesh -->
-  <StatsReport_NotFlesh>Kein Fleisch</StatsReport_NotFlesh>
+  <StatsReport_NotFlesh>Ní feoil é</StatsReport_NotFlesh>
   <!-- EN: Not fresh -->
-  <StatsReport_NotFresh>Nicht frisch</StatsReport_NotFresh>
+  <StatsReport_NotFresh>Neamh-úr</StatsReport_NotFresh>
   <!-- EN: Wild man -->
-  <StatsReport_WildMan>Wilder Mensch</StatsReport_WildMan>
+  <StatsReport_WildMan>Fear fiáin</StatsReport_WildMan>
   <!-- EN: Attack -->
-  <StatsReport_NonToolAttack>Angriff</StatsReport_NonToolAttack>
+  <StatsReport_NonToolAttack>Ionsaigh</StatsReport_NonToolAttack>
   <!-- EN: Ideoligion -->
-  <StatsReport_Ideoligion>Ideologie</StatsReport_Ideoligion>
+  <StatsReport_Ideoligion>Idé-eolaíocht</StatsReport_Ideoligion>
   <!-- EN: Multiplier for malnutrition {0} -->
-  <StatsReport_Malnutrition>Multiplikator für Unterernährung {0}</StatsReport_Malnutrition>
+  <StatsReport_Malnutrition>Iolraitheoir don mhíchothú {0}</StatsReport_Malnutrition>
 
   <!-- EN: Possible offsets -->
   <StatReport_PossibleOffsets>Mögliche Offsets</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
   <StatsReport_RoomImpressiveness>Raumeindruck</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
-  <StatsReport_Lit>Beleuchtet</StatsReport_Lit>
+  <StatsReport_Lit>Lasta</StatsReport_Lit>
   <!-- EN: Contains {0} -->
   <StatsReport_GraveFull>Enthält {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
