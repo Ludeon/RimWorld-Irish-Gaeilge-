@@ -2,64 +2,64 @@
 <LanguageData>
   
   <!-- EN: Crashlanded -->
-  <Crashlanded.label>TODO</Crashlanded.label>
+  <Crashlanded.label>Tuirlingt de Thuairt</Crashlanded.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.description>TODO</Crashlanded.description>
+  <Crashlanded.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroiceann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Crashlanded.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.scenario.description>TODO</Crashlanded.scenario.description>
+  <Crashlanded.scenario.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroiceann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Crashlanded.scenario.description>
   <!-- EN: Crashlanded -->
-  <Crashlanded.scenario.name>TODO</Crashlanded.scenario.name>
+  <Crashlanded.scenario.name>Tuirlingt de thuairt</Crashlanded.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
-  <Crashlanded.scenario.summary>TODO</Crashlanded.scenario.summary>
+  <Crashlanded.scenario.summary>Triúir a tháinig slán ón tuirlingt de thuairt - an t-eispéireas clasaiceach ar RimWorld.</Crashlanded.scenario.summary>
   
   <!-- EN: Lost Tribe -->
-  <LostTribe.label>TODO</LostTribe.label>
+  <LostTribe.label>Treabh Caillte</LostTribe.label>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.description>TODO</LostTribe.description>
+  <LostTribe.description>Sheol na déithe na meaisíní móra miotail anuas ón spéir chun bhur dtreabh a scriosadh. D'éirigh le cúigear éalú. Anois, tá sé in am baile nua a thógáil.\n\nNóta: Ní bheidh aon teicneolaíocht agat agus beidh tú an-bhocht, mar sin beidh tús deacair ann má roghnaítear an rogha seo.</LostTribe.description>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
-  <LostTribe.scenario.description>TODO</LostTribe.scenario.description>
+  <LostTribe.scenario.description>Sheol na déithe na meaisíní móra miotail anuas ón spéir chun bhur dtreabh a scriosadh. D'éirigh le cúigear éalú. Anois, tá sé in am baile nua a thógáil.\n\nNóta: Ní bheidh aon teicneolaíocht agat agus beidh tú an-bhocht, mar sin beidh tús deacair ann má roghnaítear an rogha seo.</LostTribe.scenario.description>
   <!-- EN: Lost Tribe -->
-  <LostTribe.scenario.name>TODO</LostTribe.scenario.name>
+  <LostTribe.scenario.name>Treabh Caillte</LostTribe.scenario.name>
   <!-- EN: The gods were very angry. The blood machines came at night. They swept through your village, cutting and burning your people with their blades and devil-fire.\n\nOnly a few of you escaped.\n\nNow, after a harrowing journey, with no friends to turn to, you must build a new home in the wilderness - like your ancestors did. -->
-  <LostTribe.scenario.parts.GameStartDialog.text>TODO</LostTribe.scenario.parts.GameStartDialog.text>
+  <LostTribe.scenario.parts.GameStartDialog.text>Bhí fearg ar na déithe. Tháinig na meaisíní miotail istóiche. Rinne siad slad ar bhur dtreabh, agus d'úsáid na meaisíní mallaithe tinte ó fhíoríochtar ifrinn chun do mhuintir a mharú.\n\Níor éalaigh ach cúpla duine.\n\nAnois, tar éis daoibh tabhairt faoi thuras léanmhar, agus gan chúnamh, beidh oraibh baile nua a thógáil amuigh ar an iargúil - díreach mar a rinne bhur sinsir.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
-  <LostTribe.scenario.summary>TODO</LostTribe.scenario.summary>
+  <LostTribe.scenario.summary>Déan iarracht baile nua a thógail le lucht tréibhe. Deacair.</LostTribe.scenario.summary>
   
   <!-- EN: Naked Brutality -->
-  <NakedBrutality.label>TODO</NakedBrutality.label>
+  <NakedBrutality.label>Brúidiúlacht Nocht</NakedBrutality.label>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.description>TODO</NakedBrutality.description>
+  <NakedBrutality.description>Chuaigh tú faoi ainéistéiseach d'oibréad. Díreach anois, dhúisigh tú i bpod a bhí ag eitilt i dtreo an phláinéid iargúlta seo. Tá tú lomnocht, leat féin agus iomlán neamhullamh. An mbeidh leat?\n\nRabhadh: Is tús thar a bheith míchothrom é seo - tá sé an-deacair agus d'fhéadfadh rud ar bith thú a mharú.</NakedBrutality.description>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.scenario.description>TODO</NakedBrutality.scenario.description>
+  <NakedBrutality.scenario.description>Chuaigh tú faoi ainéistéiseach d'oibréad. Díreach anois, dhúisigh tú i bpod a bhí ag eitilt i dtreo an phláinéid iargúlta seo. Tá tú lomnocht, leat féin agus iomlán neamhullamh. An mbeidh leat?\n\nRabhadh: Is tús thar a bheith míchothrom é seo - tá sé an-deacair agus d'fhéadfadh rud ar bith thú a mharú.</NakedBrutality.scenario.description>
   <!-- EN: Naked Brutality -->
-  <NakedBrutality.scenario.name>TODO</NakedBrutality.scenario.name>
+  <NakedBrutality.scenario.name>Brúidiúlacht Nocht</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>TODO</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Ní raibh i gceist ach obráid an-bheag. Uair an chloig faoi ainéistéiseach.\n\nDhúisigh tú i bpod éalaithe a bhí ag eitilt i dtreo pláinéad iargúlta.\n\nTá tú lomnocht, leat féin agus go hiomlán neamhullamh. An mbeidh leat?</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
-  <NakedBrutality.scenario.summary>TODO</NakedBrutality.scenario.summary>
+  <NakedBrutality.scenario.summary>Lomnocht, leat féin agus iomlán neamhullamh. An mbeidh leat?</NakedBrutality.scenario.summary>
   
   <!-- EN: The Rich Explorer -->
-  <TheRichExplorer.label>TODO</TheRichExplorer.label>
+  <TheRichExplorer.label>An Taisceálaí Saibhir</TheRichExplorer.label>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.description>TODO</TheRichExplorer.description>
+  <TheRichExplorer.description>Dúirt daoine go raibh tú as do mheabhairt nuair a dúirt tú go raibh sé i gceist agat do gheal-phláinéad baile a fhágáil, ach bhí fonn ort i gcónaí taisceálaíocht a dhéanamh ar na réaltchórais eile. Chaith tú turas fada i gcriptea-chodladh, ach thuirling tú ar an bpláinéad iargúlta seo le fáil amach conas mar atá sé.\n\nNóta: Beidh scileanna áirithe in easnamh ag do charactar, mar sin beidh an tús seo an-deacair.</TheRichExplorer.description>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
-  <TheRichExplorer.scenario.description>TODO</TheRichExplorer.scenario.description>
+  <TheRichExplorer.scenario.description>Dúirt daoine go raibh tú as do mheabhairt nuair a dúirt tú go raibh sé i gceist agat do gheal-phláinéad baile a fhágáil, ach bhí fonn ort i gcónaí taisceálaíocht a dhéanamh ar na réaltchórais eile. Chaith tú turas fada i gcriptea-chodladh, ach thuirling tú ar an bpláinéad iargúlta seo le fáil amach conas mar atá sé.\n\nNóta: Beidh scileanna áirithe in easnamh ag do charactar, mar sin beidh an tús seo an-deacair.</TheRichExplorer.scenario.description>
   <!-- EN: The Rich Explorer -->
-  <TheRichExplorer.scenario.name>TODO</TheRichExplorer.scenario.name>
+  <TheRichExplorer.scenario.name>An Taisceálaí Saibhir</TheRichExplorer.scenario.name>
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
-  <TheRichExplorer.scenario.parts.GameStartDialog.text>TODO</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>D'éirigh tú braon de na neárai-ionsamhlúcháin, na cluichí ríomhaire agus na fleánna craicinn. Bhí eispéireas eile uait - fíoreispéireas greanach, mar a bhí sna leabhair staire. Bhí tú ag iarraidh fíordhúthláin agus fíor-iarmhairtí a bhrath.\n\nAnois, tar éis duit turas fada a chaitheamh i gcriptea-chodladh, tá tú leandáilte ar an bpláinéad iargúlta seo. An mbeidh tú in ann an fód a sheasamh?</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
-  <TheRichExplorer.scenario.summary>TODO</TheRichExplorer.scenario.summary>
+  <TheRichExplorer.scenario.summary>Taisceálaí saibhir, a tháinig ó phlainéad eile. An-deacair.</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
-  <Tutorial.label>TODO</Tutorial.label>
+  <Tutorial.label>oiliúint</Tutorial.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.description>TODO</Tutorial.description>
+  <Tutorial.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroiceann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Tutorial.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.scenario.description>TODO</Tutorial.scenario.description>
+  <Tutorial.scenario.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroiceann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Tutorial.scenario.description>
   <!-- EN: tutorial -->
-  <Tutorial.scenario.name>TODO</Tutorial.scenario.name>
+  <Tutorial.scenario.name>oiliúint</Tutorial.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
-  <Tutorial.scenario.summary>TODO</Tutorial.scenario.summary>
+  <Tutorial.scenario.summary>Triúir a tháinig slán ón tuirlingt de thuairt - an t-eispéireas clasaiceach ar RimWorld.</Tutorial.scenario.summary>
   
 </LanguageData>
