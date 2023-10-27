@@ -135,7 +135,7 @@
   <!-- EN: Milk fullness -->
   <MilkFullness>Milk fullness</MilkFullness>
   <!-- EN: Wool growth -->
-  <WoolGrowth>Wool growth</WoolGrowth>
+  <WoolGrowth>Fás olla</WoolGrowth>
   <!-- EN: Egg progress -->
   <EggProgress>Fortschritt Ei</EggProgress>
   <!-- EN: Fertilized -->
@@ -1423,15 +1423,15 @@
   
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
-  <LearningHelper>Lernhilfe</LearningHelper>
+  <LearningHelper>Nodanna</LearningHelper>
   <!-- EN: In-game tutor that aims to teach you information about topics relevant to your colony's current state -->
-  <LearningHelperTooltip>Spielinterne Lernhilfe, die dir Themen beibringen soll, je nach aktuellem Stand deiner Kolonie.</LearningHelperTooltip>
+  <LearningHelperTooltip>Teachtaireachtaí sa chluiche a thugann nodanna duit bunaithe ar a bhfuil ar siúl ag do choilíneacht.</LearningHelperTooltip>
   <!-- EN: Mark as learned -->
-  <MarkLearned>Verstanden</MarkLearned>
+  <MarkLearned>Déanta</MarkLearned>
   <!-- EN: Already learned -->
-  <AlreadyLearned>Bereits verstanden</AlreadyLearned>
+  <AlreadyLearned>Dún</AlreadyLearned>
   <!-- EN: Filter -->
-  <Filter>Filter</Filter>
+  <Filter>Scagaire</Filter>
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->

@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: Cassandra Classic -->
-  <Cassandra.label>TODO</Cassandra.label>
+  <Cassandra.label>Ciara Clasaiceach</Cassandra.label>
   <!-- EN: Cassandra creates story events on a classic increasing curve of challenge and tension. She'll push you with dangerous events, then give breathing room, then come back to push once more. -->
-  <Cassandra.description>TODO</Cassandra.description>
+  <Cassandra.description>Cruthaíonn Ciara eachtraí an scéil i mbealach clasaiceach, a éiríonn níos deacra agus níos dúshlánaí le himeacht ama. Tarlaíodh eachtraí dáinséaracha, beidh deis agat teacht ar ais chugat féin, agus ansin tiocfaidh eachtraí dáinséaracha arís.</Cassandra.description>
   
   <!-- EN: Phoebe Chillax -->
-  <Phoebe.label>TODO</Phoebe.label>
+  <Phoebe.label>Siobhán Suaimhneach</Phoebe.label>
   <!-- EN: Phoebe gives lots of time between disasters to build your colony. But beware - at high difficulties, she'll hit as hard as anyone. -->
-  <Phoebe.description>TODO</Phoebe.description>
+  <Phoebe.description>Tugann Siobhán go leor ama don imreoir idir eachtraí chun do choilíneacht a thógáil agus a fhorbairt. Bí cúramach, áfach - má roghnaítear deacracht ard, beidh sí chomh dhúshlánach le haon scéalaí eile!</Phoebe.description>
   
   <!-- EN: Randy Random -->
-  <Randy.label>TODO</Randy.label>
+  <Randy.label>Raghnall Randamach</Randy.label>
   <!-- EN: Randy doesn't follow rules. He'll generate random events, and he doesn't care if they make a story of triumph or utter hopelessness. It's all drama to him.\n\nWarning: Since Randy is truly random, he will sometimes send extremely difficult or unfair groups of events at you. It makes for high drama - and unavoidable sacrifices. -->
-  <Randy.description>TODO</Randy.description>
+  <Randy.description>Ní leanann Raghnall na rialacha. Tabharfaidh sé eachtraí randamacha chugat, agus is cuma leis má eireoidh leat nó má bhíonn tú iomlán thíos leis. Níl ann ach dráma dó.\n\nRabhadh: Tá Raghnall iomlán randamach, uaireanta cuirfidh sé eachtraí fíordheacra nó míchothroma chugat. Bíonn go leor dráma i gceist - agus íobairtí.</Randy.description>
   
   <!-- EN: Tutor Hidden -->
-  <Tutor.label>TODO</Tutor.label>
+  <Tutor.label>Nodanna Dúnta</Tutor.label>
   
 </LanguageData>

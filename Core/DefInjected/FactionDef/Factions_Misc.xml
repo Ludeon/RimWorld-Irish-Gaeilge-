@@ -2,69 +2,69 @@
 <LanguageData>
   
   <!-- EN: civil outlander union -->
-  <OutlanderCivil.label>TODO</OutlanderCivil.label>
+  <OutlanderCivil.label>lonnaitheoirí sibhialta</OutlanderCivil.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
-  <OutlanderCivil.description>TODO</OutlanderCivil.description>
+  <OutlanderCivil.description>Tá na daoine seo ina gcónaí anseo leis na céadta bliain, agus tá an chuid is mó den teicneolaíocht a d'úsáid siad le teacht chuig an bpláinéad seo caillte acu. Is minic go mbíonn meaisíní simplí acu, agus bíonn gunnaí acu.\n\nBíonn siad ag plé le ceisteanna praiticiúla trádála, taidhleoireachta agus sábháilteachta den chuid is mó.\n\nLeagann na daoine seo béim ar an iompraíocht shibhialta.</OutlanderCivil.description>
   <!-- EN: prime councilor -->
-  <OutlanderCivil.leaderTitle>TODO</OutlanderCivil.leaderTitle>
+  <OutlanderCivil.leaderTitle>príomh-chomhairleoir</OutlanderCivil.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderCivil.pawnSingular>TODO</OutlanderCivil.pawnSingular>
+  <OutlanderCivil.pawnSingular>lonnaitheoir</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderCivil.pawnsPlural>TODO</OutlanderCivil.pawnsPlural>
+  <OutlanderCivil.pawnsPlural>lonnaitheoirí</OutlanderCivil.pawnsPlural>
   
   <!-- EN: rough outlander union -->
-  <OutlanderRough.label>TODO</OutlanderRough.label>
+  <OutlanderRough.label>lonnaitheoirí fíochmhara</OutlanderRough.label>
   <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They usually work with simple machinery and defend themselves with advanced gunpowder weapons.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group has a streak of barbarity in them. -->
-  <OutlanderRough.description>TODO</OutlanderRough.description>
+  <OutlanderRough.description>Tá na daoine seo ina gcónaí anseo leis na céadta bliain, agus tá an chuid is mó den teicneolaíocht a d'úsáid siad le teacht chuig an bpláinéad seo caillte acu. Is minic go mbíonn meaisíní simplí acu, agus bíonn gunnaí acu.\n\nBíonn siad ag plé le ceisteanna praiticiúla trádála, taidhleoireachta agus sábháilteachta den chuid is mó.\n\nTá iarracht den bharbaracht sna daoine seo.</OutlanderRough.description>
   <!-- EN: prime councilor -->
-  <OutlanderRough.leaderTitle>TODO</OutlanderRough.leaderTitle>
+  <OutlanderRough.leaderTitle>príomh-chomhairleoir</OutlanderRough.leaderTitle>
   <!-- EN: outlander -->
-  <OutlanderRough.pawnSingular>TODO</OutlanderRough.pawnSingular>
+  <OutlanderRough.pawnSingular>lonnaitheoir</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
-  <OutlanderRough.pawnsPlural>TODO</OutlanderRough.pawnsPlural>
+  <OutlanderRough.pawnsPlural>lonnaitheoir</OutlanderRough.pawnsPlural>
   
   <!-- EN: pirate gang -->
-  <Pirate.label>TODO</Pirate.label>
+  <Pirate.label>drong píoráidí</Pirate.label>
   <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <Pirate.description>TODO</Pirate.description>
+  <Pirate.description>Cónaidhm scaoilte de phíoráidí, a d'aontaigh dul i mbun troda i gcoinne daoine eile seachas a bheith ag troid eatarthu féin.\n\nNí bhíonn píoráidí ag plé le taidhleoireacht, agus is annamh go mbíonn siad ag trádáil. Tá siad tiomanta ag cultúr fuilteach ina leagtar béim ar an láidreacht agus ar an neamhthrócaire. Déanann siad a saibhreas trí dhaoine eile a robáil.\n\nBíonn leibheil teicneolaíochta éagsúla acu. Is minic go mbíonn gunnaí acu, ach is fearr le cuid eile úsáid a bhaint as sciain agus lanna.</Pirate.description>
   <!-- EN: boss -->
-  <Pirate.leaderTitle>TODO</Pirate.leaderTitle>
+  <Pirate.leaderTitle>saoiste</Pirate.leaderTitle>
   <!-- EN: pirate -->
-  <Pirate.pawnSingular>TODO</Pirate.pawnSingular>
+  <Pirate.pawnSingular>píoráid</Pirate.pawnSingular>
   <!-- EN: pirates -->
-  <Pirate.pawnsPlural>TODO</Pirate.pawnsPlural>
+  <Pirate.pawnsPlural>píoráidí</Pirate.pawnsPlural>
   
   <!-- EN: gentle tribe -->
-  <TribeCivil.label>TODO</TribeCivil.label>
+  <TribeCivil.label>treabh séimh</TribeCivil.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe pursues a gentle way of life where they can. They are quite open to trade and alliances, even with strange peoples. -->
-  <TribeCivil.description>TODO</TribeCivil.description>
+  <TribeCivil.description>Tá na daoine seo ag maireachtáil anseo leis na mílte bliain. Ní fios ar tháinig a sinsir anseo i spáslong, nó ar scrios olltubaiste éigin an tsibhialtacht teicneolaíochta a bhí acu fadó. Cibé scéal, is daoine fánaíochta iad, a shathraíonn a mbeatha ar an talamh ag úsáid uirlisí agus airm shimplí.\n\nCé nach bhfuil bua na teicneolaíochta acu, féadfaidh na treabhanna a bheith ina gcairde luachmhara nó ina naimhde fíochmhara. Tá go leor díobh ann, agus tá siad crua.\n\nTá an treabh seo séimh agus síochánta, den chuid is mó. Ní miste leo trádáil le stráinséirí, nó dul i gcomhpháirtíocht leo.</TribeCivil.description>
   <!-- EN: chief -->
-  <TribeCivil.leaderTitle>TODO</TribeCivil.leaderTitle>
+  <TribeCivil.leaderTitle>taoiseach</TribeCivil.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeCivil.pawnSingular>TODO</TribeCivil.pawnSingular>
+  <TribeCivil.pawnSingular>treabhaí</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCivil.pawnsPlural>TODO</TribeCivil.pawnsPlural>
+  <TribeCivil.pawnsPlural>treabhaithe</TribeCivil.pawnsPlural>
   
   <!-- EN: fierce tribe -->
-  <TribeRough.label>TODO</TribeRough.label>
+  <TribeRough.label>treabh fíochmhar</TribeRough.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe values warlike dominance; it may be difficult to turn them into an ally. -->
-  <TribeRough.description>TODO</TribeRough.description>
+  <TribeRough.description>Tá na daoine seo ag maireachtáil anseo leis na mílte bliain. Ní fios ar tháinig a sinsir anseo i spáslong, nó ar scrios olltubaiste éigin an tsibhialtacht teicneolaíochta a bhí acu fadó. Cibé scéal, is daoine fánaíochta iad, a shathraíonn a mbeatha ar an talamh ag úsáid uirlisí agus airm shimplí.\n\nCé nach bhfuil bua na teicneolaíochta acu, féadfaidh na treabhanna a bheith ina gcairde luachmhara nó ina naimhde fíochmhara. Tá go leor díobh ann, agus tá siad crua.\n\nLeagann an treabh seo an-bhéim ar an láidreacht agus ar an bhfoiréigean. D'fhéadfadh sé bheith deacair dul i gcomhpháirtíocht leo.</TribeRough.description>
   <!-- EN: chief -->
-  <TribeRough.leaderTitle>TODO</TribeRough.leaderTitle>
+  <TribeRough.leaderTitle>taoiseach</TribeRough.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeRough.pawnSingular>TODO</TribeRough.pawnSingular>
+  <TribeRough.pawnSingular>treabhaí</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeRough.pawnsPlural>TODO</TribeRough.pawnsPlural>
+  <TribeRough.pawnsPlural>treabhaithe</TribeRough.pawnsPlural>
   
   <!-- EN: savage tribe -->
-  <TribeSavage.label>TODO</TribeSavage.label>
+  <TribeSavage.label>treabh barbartha</TribeSavage.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe is driven by a blood-and-honor culture; you will not be able to ally with them! -->
-  <TribeSavage.description>TODO</TribeSavage.description>
+  <TribeSavage.description>Tá na daoine seo ag maireachtáil anseo leis na mílte bliain. Ní fios ar tháinig a sinsir anseo i spáslong, nó ar scrios olltubaiste éigin an tsibhialtacht teicneolaíochta a bhí acu fadó. Cibé scéal, is daoine fánaíochta iad, a shathraíonn a mbeatha ar an talamh ag úsáid uirlisí agus airm shimplí.\n\nCé nach bhfuil bua na teicneolaíochta acu, féadfaidh na treabhanna a bheith ina gcairde luachmhara nó ina naimhde fíochmhara. Tá go leor díobh ann, agus tá siad crua.\n\nTá an treabh seo tiomanta agus cultúr folach, agus is fuath leo stráinséirí. Ní bheidh tú in ann comhpháirtíocht a dhéanamh leo!</TribeSavage.description>
   <!-- EN: chief -->
-  <TribeSavage.leaderTitle>TODO</TribeSavage.leaderTitle>
+  <TribeSavage.leaderTitle>taoiseach</TribeSavage.leaderTitle>
   <!-- EN: tribesman -->
-  <TribeSavage.pawnSingular>TODO</TribeSavage.pawnSingular>
+  <TribeSavage.pawnSingular>treabhaí</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeSavage.pawnsPlural>TODO</TribeSavage.pawnsPlural>
+  <TribeSavage.pawnsPlural>treabhaithe</TribeSavage.pawnsPlural>
   
 </LanguageData>

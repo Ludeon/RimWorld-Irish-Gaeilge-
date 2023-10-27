@@ -2,49 +2,49 @@
 <LanguageData>
   
   <!-- EN: neutral ancients -->
-  <Ancients.label>TODO</Ancients.label>
+  <Ancients.label>seanóirí neodracha</Ancients.label>
   <!-- EN: Ancients -->
-  <Ancients.fixedName>TODO</Ancients.fixedName>
+  <Ancients.fixedName>muintir an tseansaoil</Ancients.fixedName>
   <!-- EN: leader -->
-  <Ancients.leaderTitle>TODO</Ancients.leaderTitle>
+  <Ancients.leaderTitle>ceannaire</Ancients.leaderTitle>
   <!-- EN: ancient -->
-  <Ancients.pawnSingular>TODO</Ancients.pawnSingular>
+  <Ancients.pawnSingular>seanóir</Ancients.pawnSingular>
   <!-- EN: ancients -->
-  <Ancients.pawnsPlural>TODO</Ancients.pawnsPlural>
+  <Ancients.pawnsPlural>seanóir</Ancients.pawnsPlural>
   
   <!-- EN: hostile ancients -->
-  <AncientsHostile.label>TODO</AncientsHostile.label>
+  <AncientsHostile.label>seanóirí naimhdeacha</AncientsHostile.label>
   <!-- EN: Ancients -->
-  <AncientsHostile.fixedName>TODO</AncientsHostile.fixedName>
+  <AncientsHostile.fixedName>muintir an tseansaoil</AncientsHostile.fixedName>
   <!-- EN: leader -->
-  <AncientsHostile.leaderTitle>TODO</AncientsHostile.leaderTitle>
+  <AncientsHostile.leaderTitle>ceannaire</AncientsHostile.leaderTitle>
   <!-- EN: ancient -->
-  <AncientsHostile.pawnSingular>TODO</AncientsHostile.pawnSingular>
+  <AncientsHostile.pawnSingular>seanóir</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
-  <AncientsHostile.pawnsPlural>TODO</AncientsHostile.pawnsPlural>
+  <AncientsHostile.pawnsPlural>seanóir</AncientsHostile.pawnsPlural>
   
   <!-- EN: insect geneline -->
-  <Insect.label>TODO</Insect.label>
+  <Insect.label>géin-líne fheithideach</Insect.label>
   <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
-  <Insect.description>TODO</Insect.description>
+  <Insect.description>Cónaíonn na ollpheisteanna móra seo faoin talamh, agus tagann siad anuas nuair a mhealltar iad le toireann nó le fearamóin. Fadó, ar phláinéad eile, d'éirigh le fiontraithe innealtóireacht ghéiniteach a dhéanamh ar na feithidí seo lena n-úsáid mar shaighdiúirí. Ní fios cén chaoi ar tháinig siad go dtí an pláinéad iarghúlta seo, ach tá siad anseo agus tá siad dáinséarach.</Insect.description>
   <!-- EN: Sorne Geneline -->
-  <Insect.fixedName>TODO</Insect.fixedName>
+  <Insect.fixedName>géin-líne fheithideach</Insect.fixedName>
   <!-- EN: leader -->
-  <Insect.leaderTitle>TODO</Insect.leaderTitle>
+  <Insect.leaderTitle>ceannaire</Insect.leaderTitle>
   <!-- EN: insect -->
-  <Insect.pawnSingular>TODO</Insect.pawnSingular>
+  <Insect.pawnSingular>feithid</Insect.pawnSingular>
   <!-- EN: insects -->
-  <Insect.pawnsPlural>TODO</Insect.pawnsPlural>
+  <Insect.pawnsPlural>feithidí</Insect.pawnsPlural>
   
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>TODO</Mechanoid.label>
+  <Mechanoid.label>meicea-róbait</Mechanoid.label>
   <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
-  <Mechanoid.description>TODO</Mechanoid.description>
+  <Mechanoid.description>Ní fios cad as a tháinig na meaisíní marfacha seo. Bíonn siad i bhfolach i struchtúir ársa, faoin talamh, nó ar ghrinneall na farraige, féadfaidh siad codladh a dhéanamh do na mílte bliain. Is cosúil go bhfuil an sprioc céanna ag an ngrúpla meicea-róbat seo, ach níl siad aontaithe ina gcuid aicsin. Creideann taighdeoirí gur cruthaíodh iad i gcogadh a tharla fadó, ach deir lucht treibhe na háite gur searbhóintí mallaithe iad a bhaineann le dia neamhthrócaireach.</Mechanoid.description>
   <!-- EN: leader -->
-  <Mechanoid.leaderTitle>TODO</Mechanoid.leaderTitle>
+  <Mechanoid.leaderTitle>ceannaire</Mechanoid.leaderTitle>
   <!-- EN: mechanoid -->
-  <Mechanoid.pawnSingular>TODO</Mechanoid.pawnSingular>
+  <Mechanoid.pawnSingular>meicea-róbat</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
-  <Mechanoid.pawnsPlural>TODO</Mechanoid.pawnsPlural>
+  <Mechanoid.pawnsPlural>meicea-róbat</Mechanoid.pawnsPlural>
   
 </LanguageData>

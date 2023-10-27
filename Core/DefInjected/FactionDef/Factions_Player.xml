@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: New Arrivals -->
-  <PlayerColony.label>TODO</PlayerColony.label>
+  <PlayerColony.label>Nuatheachtaithe</PlayerColony.label>
   <!-- EN: A colony of recently-arrived off-worlders. -->
-  <PlayerColony.description>TODO</PlayerColony.description>
+  <PlayerColony.description>Coilíneacht nuatheachtaithe déanta suas de dhaoine ó phlainéad eile.</PlayerColony.description>
   <!-- EN: leader -->
-  <PlayerColony.leaderTitle>TODO</PlayerColony.leaderTitle>
+  <PlayerColony.leaderTitle>ceannaire</PlayerColony.leaderTitle>
   <!-- EN: colonist -->
-  <PlayerColony.pawnSingular>TODO</PlayerColony.pawnSingular>
+  <PlayerColony.pawnSingular>coilíneach</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
-  <PlayerColony.pawnsPlural>TODO</PlayerColony.pawnsPlural>
+  <PlayerColony.pawnsPlural>coilínigh</PlayerColony.pawnsPlural>
   
   <!-- EN: New Tribe -->
-  <PlayerTribe.label>TODO</PlayerTribe.label>
+  <PlayerTribe.label>Treabh Nua</PlayerTribe.label>
   <!-- EN: A small tribe. -->
-  <PlayerTribe.description>TODO</PlayerTribe.description>
+  <PlayerTribe.description>Treabh beag.</PlayerTribe.description>
   <!-- EN: leader -->
-  <PlayerTribe.leaderTitle>TODO</PlayerTribe.leaderTitle>
+  <PlayerTribe.leaderTitle>ceannaire</PlayerTribe.leaderTitle>
   <!-- EN: tribesman -->
-  <PlayerTribe.pawnSingular>TODO</PlayerTribe.pawnSingular>
+  <PlayerTribe.pawnSingular>treabhaí</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->
-  <PlayerTribe.pawnsPlural>TODO</PlayerTribe.pawnsPlural>
+  <PlayerTribe.pawnsPlural>treabhaithe</PlayerTribe.pawnsPlural>
   
 </LanguageData>
