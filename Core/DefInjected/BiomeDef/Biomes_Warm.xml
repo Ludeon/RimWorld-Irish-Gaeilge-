@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: tropical rainforest -->
-  <TropicalRainforest.label>TODO</TropicalRainforest.label>
+  <TropicalRainforest.label>foraois bháistí thrópaiceach</TropicalRainforest.label>
   <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
-  <TropicalRainforest.description>TODO</TropicalRainforest.description>
+  <TropicalRainforest.description>Foraois bhaístí thiubh, ina maireann go leor ainmhithe agus ina scaipeann na mílte galar. Cé go bhfuil cuma na háille air, is bithóm dáinséarach é seo. Tá fásra thuas, ainmhithe trodacha agus galar uafásach le fáil san áit seo.</TropicalRainforest.description>
   
   <!-- EN: tropical swamp -->
-  <TropicalSwamp.label>TODO</TropicalSwamp.label>
+  <TropicalSwamp.label>corcach trópaiceach</TropicalSwamp.label>
   <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
-  <TropicalSwamp.description>TODO</TropicalSwamp.description>
+  <TropicalSwamp.description>Corcach meirbh atá lán le plandaí, seadáin agus galair. Ní féidir aon struchtúr a thógail ar cuid mhór den talamh, toisc go bhfuil sé róbhog. Crá croí is ea an saol sa cheantar seo, mar gheall ar an bhfásra thuas, ainmhithe dáinséaracha agus galair uafásach.</TropicalSwamp.description>
   
 </LanguageData>

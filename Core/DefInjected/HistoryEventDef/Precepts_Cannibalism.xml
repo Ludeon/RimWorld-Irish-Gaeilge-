@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: ate meal made from human meat -->
-  <AteHumanMeatAsIngredient.label>TODO</AteHumanMeatAsIngredient.label>
+  <AteHumanMeatAsIngredient.label>itheadh béile déanta as feoil duine</AteHumanMeatAsIngredient.label>
   
   <!-- EN: ate human meat -->
-  <AteHumanMeatDirect.label>TODO</AteHumanMeatDirect.label>
+  <AteHumanMeatDirect.label>itheadh feoil duine</AteHumanMeatDirect.label>
   
   <!-- EN: butchered human -->
-  <ButcheredHuman.label>TODO</ButcheredHuman.label>
+  <ButcheredHuman.label>rinneadh búistéireacht ar dhuine</ButcheredHuman.label>
   
 </LanguageData>

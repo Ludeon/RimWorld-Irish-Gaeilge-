@@ -2,74 +2,74 @@
 <LanguageData>
   
   <!-- EN: aurora -->
-  <Aurora.label>TODO</Aurora.label>
+  <Aurora.label>gealán</Aurora.label>
   <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
-  <Aurora.description>TODO</Aurora.description>
+  <Aurora.description>Tá gealán sa spéir. Tiocfaidh dea-ghiumár ar gach duine a bhreathnaíonn ar na soilse áille seo lasmuigh.</Aurora.description>
   <!-- EN: The aurora is ending. -->
-  <Aurora.endMessage>TODO</Aurora.endMessage>
+  <Aurora.endMessage>Tá deireadh ag teacht leis an ngealán.</Aurora.endMessage>
   <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
-  <Aurora.letterText>TODO</Aurora.letterText>
+  <Aurora.letterText>Tá gealán sa spéir..\n\nTiocfaidh dea-ghiumár ar gach duine a bhreathnaíonn ar na soilse áille seo lasmuigh, agus beidh na hoícheanta geall.</Aurora.letterText>
   
   <!-- EN: climate cycle -->
-  <ClimateCycle.label>TODO</ClimateCycle.label>
+  <ClimateCycle.label>timthriall timpeallachta</ClimateCycle.label>
   <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
-  <ClimateCycle.description>TODO</ClimateCycle.description>
+  <ClimateCycle.description>Timthriall timpeallachta a mhaireann roinnt blianta mar gheall ar fhithis éilipseach.</ClimateCycle.description>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>TODO</ColdSnap.label>
+  <ColdSnap.label>tréimhse fhuar</ColdSnap.label>
   <!-- EN: An unusual cold snap is freezing the region. -->
-  <ColdSnap.description>TODO</ColdSnap.description>
+  <ColdSnap.description>Tá an ceantar reoite de bharr tréimhse fhuar nach rabhthas ag súil léi.</ColdSnap.description>
   <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
-  <ColdSnap.descriptionFuture>TODO</ColdSnap.descriptionFuture>
+  <ColdSnap.descriptionFuture>Beidh [map_definite] buailte le fronta fuair ar feadh [gameConditionDuration_duration]. Déanfar damáiste do phlandaí agus do dhaoine agus ainmhithe nach bhfuil cosaint cheart acu.</ColdSnap.descriptionFuture>
   <!-- EN: The cold snap is over. -->
-  <ColdSnap.endMessage>TODO</ColdSnap.endMessage>
+  <ColdSnap.endMessage>Tá an tréimhse fhuar thart.</ColdSnap.endMessage>
   <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
-  <ColdSnap.letterText>TODO</ColdSnap.letterText>
+  <ColdSnap.letterText>Tá an ceantar buailte le tréimhse fhuar neamhghnách.\n\nLe linn tréimhsí fuara, bíonn dáinséar ann ón hipiteirme. Bí cinnte go bhfuil spás te agat chun go bhféadfaidh do choilínigh agus ainmhithe maireachtáil. Caith na héadaí cearta, agus déan iarracht do chuid barr a shábháil sula mbeidh siad marbh leis an bhfuacht.</ColdSnap.letterText>
   
   <!-- EN: eclipse -->
-  <Eclipse.label>TODO</Eclipse.label>
+  <Eclipse.label>éiclips</Eclipse.label>
   <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
-  <Eclipse.description>TODO</Eclipse.description>
+  <Eclipse.description>Tá éiclips ann. Beidh sé dorcha, fiú le linn an lae.</Eclipse.description>
   <!-- EN: The eclipse is ending. -->
-  <Eclipse.endMessage>TODO</Eclipse.endMessage>
+  <Eclipse.endMessage>Tá deireadh ag teacht leis an éiclips.</Eclipse.endMessage>
   <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
-  <Eclipse.letterText>TODO</Eclipse.letterText>
+  <Eclipse.letterText>Tá gealach ón bpláinéad seo tar éis bogadh os comhair na gréine. Tá tús tagtha le héiclips.</Eclipse.letterText>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>maidhm stoirme</Flashstorm.label>
   <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
-  <Flashstorm.description>TODO</Flashstorm.description>
+  <Flashstorm.description>Tá maidhm stoirme aisteach ann, agus tá ceantar beag á bhualadh le tinreach arís agus arís eile.</Flashstorm.description>
   <!-- EN: The flashstorm is over. -->
-  <Flashstorm.endMessage>TODO</Flashstorm.endMessage>
+  <Flashstorm.endMessage>Tá deireadh tagtha leis an maidhm stoirme.</Flashstorm.endMessage>
   <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
-  <Flashstorm.letterText>TODO</Flashstorm.letterText>
+  <Flashstorm.letterText>Tá maidhm stoirme aisteach ann, agus tá ceantar beag á bhualadh le tinreach arís agus arís eile. Is féidir le tintí móra tosú dá bharr.</Flashstorm.letterText>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>TODO</HeatWave.label>
+  <HeatWave.label>tonn teasa</HeatWave.label>
   <!-- EN: An extreme wave of heat is baking the area. -->
-  <HeatWave.description>TODO</HeatWave.description>
+  <HeatWave.description>Tá an ceantar buailte le tonn teasa as cuimse.</HeatWave.description>
   <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
-  <HeatWave.descriptionFuture>TODO</HeatWave.descriptionFuture>
+  <HeatWave.descriptionFuture>Beidh [map_definite] buailte le tonn teasa deargthe ar feadh [gameConditionDuration_duration]. Dófar plandaí, agus daoine nó ainmhithe má fhanann siad lasmuigh rófhada.</HeatWave.descriptionFuture>
   <!-- EN: The heat wave is over. -->
-  <HeatWave.endMessage>TODO</HeatWave.endMessage>
+  <HeatWave.endMessage>Tá deireadh tagtha leis an tonn teasa.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>TODO</HeatWave.letterText>
+  <HeatWave.letterText>Tá tús tagtha le tonn teasa aisteach..\n\nIs féidir le stróc teasa teacht ar do choilíinigh le linn tonnta teasa. Bí cinnte fuaraitheoir a thógáil. Bíonn sé fuar faoin talamh, freisin. </HeatWave.letterText>
   
   <!-- EN: planetkiller -->
-  <Planetkiller.label>TODO</Planetkiller.label>
+  <Planetkiller.label>astaróideach marfach</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>TODO</Planetkiller.description>
+  <Planetkiller.description>Tá astaróideach marfach ag druidim leis an pláinéad. Déanfaidh sé   smidiríní den phláinéad, agus marófar gach ní beo.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>TODO</PsychicDrone.label>
+  <PsychicDrone.label>dordán síceach</PsychicDrone.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
-  <PsychicDrone.description>TODO</PsychicDrone.description>
+  <PsychicDrone.description>Tá radathonnta síceacha á gcraoladh tríd aimplitheoir ag arcai-teicneoir i bhfad i gcéin. Tagann gealtachas ar dhaoine nuair a chloiseann siad na radathonnta marfacha seo.</PsychicDrone.description>
   <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
-  <PsychicDrone.descriptionFuture>TODO</PsychicDrone.descriptionFuture>
+  <PsychicDrone.descriptionFuture>Beidh dordán síceach [psychicDroneLevel] le cloistéail i [map_definite] ar feadh [gameConditionDuration_duration]. Tiocfaidh gealtachas ar gach duine [psychicDroneGender] le himeacht ama.</PsychicDrone.descriptionFuture>
   <!-- EN: The psychic drone is ending. -->
-  <PsychicDrone.endMessage>TODO</PsychicDrone.endMessage>
+  <PsychicDrone.endMessage>Tá deireadh ag teacht leis an dordán síceach.</PsychicDrone.endMessage>
   <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
-  <PsychicDrone.letterText>TODO</PsychicDrone.letterText>
+  <PsychicDrone.letterText>Tagann imní agus fearg ar gach coilíneach {0}!\n\nTá radathonnta síceacha á gcraoladh tríd aimplitheoir ag arcai-teicneoir i bhfad i gcéin. Tá radathonna síceacha á gcraoladh i dtreo an cheantair seo tríd aimplitheoir, agus tá sé calabraithe cur isteach ar choilínigh {0}. Beidh droch-ghiúmar ar roinnt daoine ar feadh cúpla lá.\n\nTá an dordán {1}</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
   <PsychicSoothe.label>TODO</PsychicSoothe.label>

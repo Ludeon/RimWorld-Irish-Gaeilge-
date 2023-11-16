@@ -2,57 +2,57 @@
 <LanguageData>
   
   <!-- EN: beetle-like -->
-  <BeetleLike.label>TODO</BeetleLike.label>
+  <BeetleLike.label>ciarógach</BeetleLike.label>
   <!-- EN: left elytra -->
-  <BeetleLike.corePart.parts.left_elytra.customLabel>TODO</BeetleLike.corePart.parts.left_elytra.customLabel>
+  <BeetleLike.corePart.parts.left_elytra.customLabel>eilitream clé</BeetleLike.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->
-  <BeetleLike.corePart.parts.right_elytra.customLabel>TODO</BeetleLike.corePart.parts.right_elytra.customLabel>
+  <BeetleLike.corePart.parts.right_elytra.customLabel>eilitream deas</BeetleLike.corePart.parts.right_elytra.customLabel>
   <!-- EN: left eye -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>súil chlé</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>súil dheas</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
   <!-- EN: left antenna -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>aintéine chlé</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
   <!-- EN: right antenna -->
-  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>aintéine dheas</BeetleLike.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <BeetleLike.corePart.parts.front_left_leg.customLabel>TODO</BeetleLike.corePart.parts.front_left_leg.customLabel>
+  <BeetleLike.corePart.parts.front_left_leg.customLabel>cos tosaigh chlé</BeetleLike.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <BeetleLike.corePart.parts.front_right_leg.customLabel>TODO</BeetleLike.corePart.parts.front_right_leg.customLabel>
+  <BeetleLike.corePart.parts.front_right_leg.customLabel>cos tosaigh deas</BeetleLike.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLike.corePart.parts.middle_left_leg.customLabel>TODO</BeetleLike.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_left_leg.customLabel>cos láir clé</BeetleLike.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLike.corePart.parts.middle_right_leg.customLabel>TODO</BeetleLike.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLike.corePart.parts.middle_right_leg.customLabel>cos láir deas</BeetleLike.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <BeetleLike.corePart.parts.rear_left_leg.customLabel>TODO</BeetleLike.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLike.corePart.parts.rear_left_leg.customLabel>cos cúil clé</BeetleLike.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <BeetleLike.corePart.parts.rear_right_leg.customLabel>TODO</BeetleLike.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLike.corePart.parts.rear_right_leg.customLabel>cos cúil deas</BeetleLike.corePart.parts.rear_right_leg.customLabel>
   
   <!-- EN: beetle-like with claw -->
-  <BeetleLikeWithClaw.label>TODO</BeetleLikeWithClaw.label>
+  <BeetleLikeWithClaw.label>ciaróg crúbach</BeetleLikeWithClaw.label>
   <!-- EN: left elytra -->
-  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>eilitream clé</BeetleLikeWithClaw.corePart.parts.left_elytra.customLabel>
   <!-- EN: right elytra -->
-  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>eilitream deas</BeetleLikeWithClaw.corePart.parts.right_elytra.customLabel>
   <!-- EN: left eye -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>súil chlé</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>súil dheas</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_eye.customLabel>
   <!-- EN: left antenna -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>aintéine chlé</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.left_antenna.customLabel>
   <!-- EN: right antenna -->
-  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>aintéine dheas</BeetleLikeWithClaw.corePart.parts.Pronotum.parts.InsectHead.parts.right_antenna.customLabel>
   <!-- EN: front left leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>cos tosaigh clé</BeetleLikeWithClaw.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front right leg -->
-  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>cos tosaigh deas</BeetleLikeWithClaw.corePart.parts.front_right_leg.customLabel>
   <!-- EN: middle left leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>cos láir clé</BeetleLikeWithClaw.corePart.parts.middle_left_leg.customLabel>
   <!-- EN: middle right leg -->
-  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>cos láir deas</BeetleLikeWithClaw.corePart.parts.middle_right_leg.customLabel>
   <!-- EN: rear left leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>cos cúil clé</BeetleLikeWithClaw.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear right leg -->
-  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>TODO</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
+  <BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>cos cúil deas</BeetleLikeWithClaw.corePart.parts.rear_right_leg.customLabel>
   
 </LanguageData>

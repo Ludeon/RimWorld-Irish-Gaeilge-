@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: marriage ceremony -->
-  <MarriageCeremony.label>TODO</MarriageCeremony.label>
+  <MarriageCeremony.label>ceiliúradh bainise</MarriageCeremony.label>
   
   <!-- EN: party -->
-  <Party.label>TODO</Party.label>
+  <Party.label>cóisir</Party.label>
   <!-- EN: The party has been called off. -->
-  <Party.calledOffMessage>TODO</Party.calledOffMessage>
+  <Party.calledOffMessage>Cuireadh an chóisir ar ceal.</Party.calledOffMessage>
   <!-- EN: The party has finished. -->
-  <Party.finishedMessage>TODO</Party.finishedMessage>
+  <Party.finishedMessage>Tá deireadh tagtha leis an gcóisir.</Party.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is throwing a party! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost. -->
-  <Party.letterText>TODO</Party.letterText>
+  <Party.letterText>Tá cóisir á heagrú ag {ORGANIZER_labelShort}! Cuirfear dea-ghiúmar ar gach duine a fhreastalaíonn ar an gcóisir.</Party.letterText>
   <!-- EN: Party -->
-  <Party.letterTitle>TODO</Party.letterTitle>
+  <Party.letterTitle>Cóisir</Party.letterTitle>
   
 </LanguageData>

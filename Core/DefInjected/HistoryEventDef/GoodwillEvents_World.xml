@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: attacked caravan -->
-  <AttackedCaravan.label>TODO</AttackedCaravan.label>
+  <AttackedCaravan.label>ionsaíodh carbhán</AttackedCaravan.label>
   
   <!-- EN: attacked settlement -->
-  <AttackedSettlement.label>TODO</AttackedSettlement.label>
+  <AttackedSettlement.label>ionsaíodh lonnaíocht</AttackedSettlement.label>
   
   <!-- EN: destroyed enemy base -->
-  <DestroyedEnemyBase.label>TODO</DestroyedEnemyBase.label>
+  <DestroyedEnemyBase.label>scriosadh campa naimhde</DestroyedEnemyBase.label>
   
   <!-- EN: settlement proximity -->
-  <SettlementProximity.label>TODO</SettlementProximity.label>
+  <SettlementProximity.label>spás idir lonnaíochtaí</SettlementProximity.label>
   
 </LanguageData>

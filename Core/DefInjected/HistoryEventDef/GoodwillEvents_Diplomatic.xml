@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: gave gift -->
-  <GaveGift.label>TODO</GaveGift.label>
+  <GaveGift.label>tugadh brontannas</GaveGift.label>
   
   <!-- EN: peace talks backfired -->
-  <PeaceTalksBackfire.label>TODO</PeaceTalksBackfire.label>
+  <PeaceTalksBackfire.label>chuaigh cainteanna síochána chun donais</PeaceTalksBackfire.label>
   
   <!-- EN: peace talks disaster -->
-  <PeaceTalksDisaster.label>TODO</PeaceTalksDisaster.label>
+  <PeaceTalksDisaster.label>tubaiste le linn cainteanna síochána</PeaceTalksDisaster.label>
   
   <!-- EN: peace talks success -->
-  <PeaceTalksSuccess.label>TODO</PeaceTalksSuccess.label>
+  <PeaceTalksSuccess.label>d'éirigh le cainteanna síochána</PeaceTalksSuccess.label>
   
   <!-- EN: peace talks triumph -->
-  <PeaceTalksTriumph.label>TODO</PeaceTalksTriumph.label>
+  <PeaceTalksTriumph.label>cainteanna síochána éachtacha</PeaceTalksTriumph.label>
   
   <!-- EN: requested military aid -->
-  <RequestedMilitaryAid.label>TODO</RequestedMilitaryAid.label>
+  <RequestedMilitaryAid.label>iarradh cúnamh míleata</RequestedMilitaryAid.label>
   
   <!-- EN: requested trader -->
-  <RequestedTrader.label>TODO</RequestedTrader.label>
+  <RequestedTrader.label>iarradh trádálaí</RequestedTrader.label>
   
   <!-- EN: traded -->
-  <Traded.label>TODO</Traded.label>
+  <Traded.label>rinneadh trádáil</Traded.label>
   
 </LanguageData>

@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: boreal forest -->
-  <BorealForest.label>TODO</BorealForest.label>
+  <BorealForest.label>foraois bhóireach</BorealForest.label>
   <!-- EN: Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. -->
-  <BorealForest.description>TODO</BorealForest.description>
+  <BorealForest.description>Foroaois ina bhfásann crainn bhuaircíneacha. Cé go mbíonn an geimhreadh crua anseo, maireann go leor ainmhí beaga agus móra i bhforaoisí bóireacha, agus bíonn dea-aimsir ann le linn an tsamhraidh.</BorealForest.description>
   
   <!-- EN: cold bog -->
-  <ColdBog.label>TODO</ColdBog.label>
+  <ColdBog.label>portach fuar</ColdBog.label>
   <!-- EN: A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem. -->
-  <ColdBog.description>TODO</ColdBog.description>
+  <ColdBog.description>Portach ina bhfásann go leor crainn agus plandaí. Ní féidir struchtúir mhóra a thógáil ar an talamh anseo, toisc go bhfuil sé róbhog. Tá galar rábach ann san eiceachóras dlúth,fliuch seo.</ColdBog.description>
   
   <!-- EN: ice sheet -->
-  <IceSheet.label>TODO</IceSheet.label>
+  <IceSheet.label>clúid oighir</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
-  <IceSheet.description>TODO</IceSheet.description>
+  <IceSheet.description>Oighearchlúideacha atá cúpla ciliméadar ar tiús. Níl aon ithir ann, agus mar sin ní fhásann aon phlandaí. Is beag ainmhí a chónaíonn ann, seachas corr-ainmhe a chailleann a bhealach le linn imirce.</IceSheet.description>
   
   <!-- EN: sea ice -->
-  <SeaIce.label>TODO</SeaIce.label>
+  <SeaIce.label>oighear farraige</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
-  <SeaIce.description>TODO</SeaIce.description>
+  <SeaIce.description>Oighearchlúideacha buana ar an bhfarraige reoite. Ní fhásann aon phlandaí, níl aon mhianraí le baint ón talamh, agus ní chónaíonn aon ainmhithe anseo.</SeaIce.description>
   
   <!-- EN: tundra -->
-  <Tundra.label>TODO</Tundra.label>
+  <Tundra.label>Tundra</Tundra.label>
   <!-- EN: These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. -->
-  <Tundra.description>TODO</Tundra.description>
+  <Tundra.description>Bíonn na machairí fuara seo beagnach iomlán reoita, agus is beag crainn agus plandaí a fhásann anseo. Maireann roinnt ainmhithe beaga ann, agus uaireanta téann tréadanna ainmhithe ar imirce tríd an gceantar.</Tundra.description>
   
 </LanguageData>

@@ -2,94 +2,94 @@
 <LanguageData>
   
   <!-- EN: jaw -->
-  <AnimalJaw.label>TODO</AnimalJaw.label>
+  <AnimalJaw.label>giall</AnimalJaw.label>
   
   <!-- EN: antenna -->
-  <Antenna.label>TODO</Antenna.label>
+  <Antenna.label>aintéine</Antenna.label>
   
   <!-- EN: beak -->
-  <Beak.label>TODO</Beak.label>
+  <Beak.label>gob</Beak.label>
   
   <!-- EN: body -->
-  <Body.label>TODO</Body.label>
+  <Body.label>corp</Body.label>
   
   <!-- EN: elytra -->
-  <Elytra.label>TODO</Elytra.label>
+  <Elytra.label>eilitream</Elytra.label>
   
   <!-- EN: front claw -->
-  <FrontClaw.label>TODO</FrontClaw.label>
+  <FrontClaw.label>crobh tosaigh</FrontClaw.label>
   <!-- EN: claw -->
-  <FrontClaw.labelShort>TODO</FrontClaw.labelShort>
+  <FrontClaw.labelShort>crúb</FrontClaw.labelShort>
   
   <!-- EN: head claw -->
-  <HeadClaw.label>TODO</HeadClaw.label>
+  <HeadClaw.label>crobh mór</HeadClaw.label>
   
   <!-- EN: hoof -->
-  <Hoof.label>TODO</Hoof.label>
+  <Hoof.label>crúb</Hoof.label>
   
   <!-- EN: horn -->
-  <Horn.label>TODO</Horn.label>
+  <Horn.label>bonnán</Horn.label>
   
   <!-- EN: hump -->
-  <Hump.label>TODO</Hump.label>
+  <Hump.label>dronn</Hump.label>
   
   <!-- EN: head -->
-  <InsectHead.label>TODO</InsectHead.label>
+  <InsectHead.label>ceann</InsectHead.label>
   
   <!-- EN: heart -->
-  <InsectHeart.label>TODO</InsectHeart.label>
+  <InsectHeart.label>croí</InsectHeart.label>
   
   <!-- EN: leg -->
-  <InsectLeg.label>TODO</InsectLeg.label>
+  <InsectLeg.label>cos</InsectLeg.label>
   
   <!-- EN: mouth -->
-  <InsectMouth.label>TODO</InsectMouth.label>
+  <InsectMouth.label>béal</InsectMouth.label>
   
   <!-- EN: nostril -->
-  <InsectNostril.label>TODO</InsectNostril.label>
+  <InsectNostril.label>polláire</InsectNostril.label>
   
   <!-- EN: jowl -->
-  <Jowl.label>TODO</Jowl.label>
+  <Jowl.label>geolbhach</Jowl.label>
   
   <!-- EN: paw -->
-  <Paw.label>TODO</Paw.label>
+  <Paw.label>lapa</Paw.label>
   
   <!-- EN: plastron -->
-  <Plastron.label>TODO</Plastron.label>
+  <Plastron.label>uchtach</Plastron.label>
   
   <!-- EN: pronotum -->
-  <Pronotum.label>TODO</Pronotum.label>
+  <Pronotum.label>pranatam</Pronotum.label>
   
   <!-- EN: rear claw -->
-  <RearClaw.label>TODO</RearClaw.label>
+  <RearClaw.label>crobh cúil</RearClaw.label>
   <!-- EN: claw -->
-  <RearClaw.labelShort>TODO</RearClaw.labelShort>
+  <RearClaw.labelShort>crobh</RearClaw.labelShort>
   
   <!-- EN: shell -->
-  <Shell.label>TODO</Shell.label>
+  <Shell.label>blaosc</Shell.label>
   
   <!-- EN: body -->
-  <SnakeBody.label>TODO</SnakeBody.label>
+  <SnakeBody.label>corp</SnakeBody.label>
   
   <!-- EN: head -->
-  <SnakeHead.label>TODO</SnakeHead.label>
+  <SnakeHead.label>ceann</SnakeHead.label>
   
   <!-- EN: mouth -->
-  <SnakeMouth.label>TODO</SnakeMouth.label>
+  <SnakeMouth.label>béal</SnakeMouth.label>
   
   <!-- EN: tail -->
-  <Tail.label>TODO</Tail.label>
+  <Tail.label>eireaball</Tail.label>
   
   <!-- EN: trunk -->
-  <Trunk.label>TODO</Trunk.label>
+  <Trunk.label>stoc</Trunk.label>
   
   <!-- EN: beak -->
-  <TurtleBeak.label>TODO</TurtleBeak.label>
+  <TurtleBeak.label>gob</TurtleBeak.label>
   
   <!-- EN: shell -->
-  <TurtleShell.label>TODO</TurtleShell.label>
+  <TurtleShell.label>blaosc</TurtleShell.label>
   
   <!-- EN: tusk -->
-  <Tusk.label>TODO</Tusk.label>
+  <Tusk.label>torsca</Tusk.label>
   
 </LanguageData>

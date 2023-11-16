@@ -2,115 +2,115 @@
 <LanguageData>
   
   <!-- EN: arms -->
-  <Arms.label>TODO</Arms.label>
+  <Arms.label>lámha</Arms.label>
   
   <!-- EN: beak -->
-  <Beak.label>TODO</Beak.label>
+  <Beak.label>gob</Beak.label>
   
   <!-- EN: eyes -->
-  <Eyes.label>TODO</Eyes.label>
+  <Eyes.label>súile</Eyes.label>
   
   <!-- EN: feet -->
-  <Feet.label>TODO</Feet.label>
+  <Feet.label>cosa</Feet.label>
   
   <!-- EN: front left claws -->
-  <FrontLeftClaws.label>TODO</FrontLeftClaws.label>
+  <FrontLeftClaws.label>croibh tosaigh chlé</FrontLeftClaws.label>
   <!-- EN: claws -->
-  <FrontLeftClaws.labelShort>TODO</FrontLeftClaws.labelShort>
+  <FrontLeftClaws.labelShort>croibh</FrontLeftClaws.labelShort>
   
   <!-- EN: front left leg -->
-  <FrontLeftLeg.label>TODO</FrontLeftLeg.label>
+  <FrontLeftLeg.label>cos tosaigh chlé</FrontLeftLeg.label>
   <!-- EN: leg -->
-  <FrontLeftLeg.labelShort>TODO</FrontLeftLeg.labelShort>
+  <FrontLeftLeg.labelShort>cos</FrontLeftLeg.labelShort>
   
   <!-- EN: front left paw -->
-  <FrontLeftPaw.label>TODO</FrontLeftPaw.label>
+  <FrontLeftPaw.label>lapa tosaigh clé</FrontLeftPaw.label>
   <!-- EN: paw -->
-  <FrontLeftPaw.labelShort>TODO</FrontLeftPaw.labelShort>
+  <FrontLeftPaw.labelShort>lapa</FrontLeftPaw.labelShort>
   
   <!-- EN: front right claws -->
-  <FrontRightClaws.label>TODO</FrontRightClaws.label>
+  <FrontRightClaws.label>croibh tosaigh dheas</FrontRightClaws.label>
   <!-- EN: claws -->
-  <FrontRightClaws.labelShort>TODO</FrontRightClaws.labelShort>
+  <FrontRightClaws.labelShort>croibh</FrontRightClaws.labelShort>
   
   <!-- EN: front right leg -->
-  <FrontRightLeg.label>TODO</FrontRightLeg.label>
+  <FrontRightLeg.label>cos tosaigh dheas</FrontRightLeg.label>
   <!-- EN: leg -->
-  <FrontRightLeg.labelShort>TODO</FrontRightLeg.labelShort>
+  <FrontRightLeg.labelShort>cos</FrontRightLeg.labelShort>
   
   <!-- EN: front right paw -->
-  <FrontRightPaw.label>TODO</FrontRightPaw.label>
+  <FrontRightPaw.label>lapa tosaigh deas</FrontRightPaw.label>
   <!-- EN: paw -->
-  <FrontRightPaw.labelShort>TODO</FrontRightPaw.labelShort>
+  <FrontRightPaw.labelShort>lapa</FrontRightPaw.labelShort>
   
   <!-- EN: full head -->
-  <FullHead.label>TODO</FullHead.label>
+  <FullHead.label>ceann iomlán</FullHead.label>
   
   <!-- EN: hands -->
-  <Hands.label>TODO</Hands.label>
+  <Hands.label>lámha</Hands.label>
   
   <!-- EN: head -->
-  <HeadAttackTool.label>TODO</HeadAttackTool.label>
+  <HeadAttackTool.label>ceann</HeadAttackTool.label>
   
   <!-- EN: claw -->
-  <HeadClaw.label>TODO</HeadClaw.label>
+  <HeadClaw.label>crobh</HeadClaw.label>
   
   <!-- EN: horn -->
-  <HornAttackTool.label>TODO</HornAttackTool.label>
+  <HornAttackTool.label>bonnán</HornAttackTool.label>
   
   <!-- EN: left blade -->
-  <LeftBlade.label>TODO</LeftBlade.label>
+  <LeftBlade.label>lann chlé</LeftBlade.label>
   <!-- EN: blade -->
-  <LeftBlade.labelShort>TODO</LeftBlade.labelShort>
+  <LeftBlade.labelShort>lann</LeftBlade.labelShort>
   
   <!-- EN: left fist -->
-  <LeftHand.label>TODO</LeftHand.label>
+  <LeftHand.label>dorn clé</LeftHand.label>
   <!-- EN: fist -->
-  <LeftHand.labelShort>TODO</LeftHand.labelShort>
+  <LeftHand.labelShort>dorn</LeftHand.labelShort>
   
   <!-- EN: legs -->
-  <Legs.label>TODO</Legs.label>
+  <Legs.label>cosa</Legs.label>
   
   <!-- EN: middle finger -->
-  <MiddleFingers.label>TODO</MiddleFingers.label>
+  <MiddleFingers.label>méar láir</MiddleFingers.label>
   <!-- EN: finger -->
-  <MiddleFingers.labelShort>TODO</MiddleFingers.labelShort>
+  <MiddleFingers.labelShort>méar</MiddleFingers.labelShort>
   
   <!-- EN: mouth -->
-  <Mouth.label>TODO</Mouth.label>
+  <Mouth.label>béal</Mouth.label>
   
   <!-- EN: neck -->
-  <Neck.label>TODO</Neck.label>
+  <Neck.label>muinéal</Neck.label>
   
   <!-- EN: right blade -->
-  <RightBlade.label>TODO</RightBlade.label>
+  <RightBlade.label>lann dheas</RightBlade.label>
   <!-- EN: blade -->
-  <RightBlade.labelShort>TODO</RightBlade.labelShort>
+  <RightBlade.labelShort>lann</RightBlade.labelShort>
   
   <!-- EN: right fist -->
-  <RightHand.label>TODO</RightHand.label>
+  <RightHand.label>dorn deas</RightHand.label>
   <!-- EN: fist -->
-  <RightHand.labelShort>TODO</RightHand.labelShort>
+  <RightHand.labelShort>dorn</RightHand.labelShort>
   
   <!-- EN: shoulders -->
-  <Shoulders.label>TODO</Shoulders.label>
+  <Shoulders.label>guaillí</Shoulders.label>
   
   <!-- EN: teeth -->
-  <Teeth.label>TODO</Teeth.label>
+  <Teeth.label>fiacla</Teeth.label>
   
   <!-- EN: torso -->
-  <Torso.label>TODO</Torso.label>
+  <Torso.label>cabhail</Torso.label>
   
   <!-- EN: beak -->
-  <TurtleBeakAttackTool.label>TODO</TurtleBeakAttackTool.label>
+  <TurtleBeakAttackTool.label>gob</TurtleBeakAttackTool.label>
   
   <!-- EN: tusks -->
-  <TuskAttackTool.label>TODO</TuskAttackTool.label>
+  <TuskAttackTool.label>torscaí</TuskAttackTool.label>
   
   <!-- EN: upper head -->
-  <UpperHead.label>TODO</UpperHead.label>
+  <UpperHead.label>barr an chinn</UpperHead.label>
   
   <!-- EN: utility slot -->
-  <Waist.label>TODO</Waist.label>
+  <Waist.label>sliotan fóntais</Waist.label>
   
 </LanguageData>

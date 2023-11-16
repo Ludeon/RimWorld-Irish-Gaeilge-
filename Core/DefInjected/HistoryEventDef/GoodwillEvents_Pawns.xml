@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: attacked member -->
-  <AttackedMember.label>TODO</AttackedMember.label>
+  <AttackedMember.label>ionsaíodh duine</AttackedMember.label>
   
   <!-- EN: guilty prisoner died -->
-  <GuiltyPrisonerDied.label>TODO</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>básaíodh príosúnach ciontach</GuiltyPrisonerDied.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied.label>TODO</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>básaíodh príosúnach neamhchiontach</InnocentPrisonerDied.label>
   
   <!-- EN: member captured -->
-  <MemberCaptured.label>TODO</MemberCaptured.label>
+  <MemberCaptured.label>gabhadh coilíneach</MemberCaptured.label>
   
   <!-- EN: member crushed -->
-  <MemberCrushed.label>TODO</MemberCrushed.label>
+  <MemberCrushed.label>brúisceadh coilíneach</MemberCrushed.label>
   
   <!-- EN: member exited map healthy -->
-  <MemberExitedMapHealthy.label>TODO</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>d'imigh coilíneach ón mapa gan ghortú</MemberExitedMapHealthy.label>
   
   <!-- EN: member killed -->
-  <MemberKilled.label>TODO</MemberKilled.label>
+  <MemberKilled.label>maraíodh coilíneach</MemberKilled.label>
   
   <!-- EN: member died -->
-  <MemberNeutrallyDied.label>TODO</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>básaíodh coilíneach</MemberNeutrallyDied.label>
   
   <!-- EN: member sold -->
-  <MemberSold.label>TODO</MemberSold.label>
+  <MemberSold.label>díoladh coilíneach</MemberSold.label>
   
   <!-- EN: member stripped -->
-  <MemberStripped.label>TODO</MemberStripped.label>
+  <MemberStripped.label>baineadh éadaí de choilíneach</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
-  <PerformedHarmfulSurgery.label>TODO</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>rinneadh obráid dhíobhálach ar choilíneach</PerformedHarmfulSurgery.label>
   
   <!-- EN: prisoner died -->
-  <PrisonerDied.label>TODO</PrisonerDied.label>
+  <PrisonerDied.label>básaíodh príosúnach</PrisonerDied.label>
   
   <!-- EN: harmed member -->
-  <UsedHarmfulItem.label>TODO</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>gortaíodh coilíneach</UsedHarmfulItem.label>
   
   <!-- EN: member's xenogerm absorbed -->
-  <XenogermAbsorbed.label>TODO</XenogermAbsorbed.label>
+  <XenogermAbsorbed.label>ionsúdh xéini-geirm coilíneach eile</XenogermAbsorbed.label>
   
 </LanguageData>

@@ -9,7 +9,7 @@
   <!-- EN: corunan -->
   <Corunan.label>coranach</Corunan.label>
   <!-- EN: An ancient culture common among rimworld tribes. -->
-  <Corunan.description>Cultúr ársa a bhíonn coitianta i measc treabhanna ar phlainéid iargúlta.</Corunan.description>
+  <Corunan.description>Cultúr ársa a bhíonn coitianta i measc treabhanna ar phlánéid iargúlta.</Corunan.description>
   
   <!-- EN: kriminul -->
   <Kriminul.label>coirpeach</Kriminul.label>
@@ -19,6 +19,6 @@
   <!-- EN: rustican -->
   <Rustican.label>tuathánach</Rustican.label>
   <!-- EN: A hardy industrial culture common among rimworld outlanders. -->
-  <Rustican.description>Cultúr miotalach tionsclaíoch a bhíonn comónta i measc lonnaitheoirí ar phlainéid iargúlta.</Rustican.description>
+  <Rustican.description>Cultúr miotalach tionsclaíoch a bhíonn comónta i measc lonnaitheoirí ar phláinéid iargúlta.</Rustican.description>
   
 </LanguageData>

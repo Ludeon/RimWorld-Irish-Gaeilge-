@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: The child of an illicit affair, [PAWN_nameDef] was bought up by nuns in a medieval convent. [PAWN_pronoun] learned the value of hard work and submission, but was taught that technology is heretical. -->
-  <ConventChild16.baseDesc>Rugadh [PAWN_nameDef] mar thoradh ar chaidreamh neamhcheadaithe. Tógadh [PAWN_nameDef] i gclochar meánaoiseach. D'fhoghlaim [PAWN_nameDef] an luach a bhaineann le hobair chrua, ach bhí sé anrialta teicneolaíocht a úsáid.</ConventChild16.baseDesc>
+  <ConventChild16.baseDesc>Rugadh [PAWN_nameDef] mar leanbh tabhartha i gcaidreamh neamhcheadaithe. Tógadh [PAWN_nameDef] i gclochar meánaoiseach. D'fhoghlaim [PAWN_nameDef] an luach a bhaineann le hobair chrua, ach bhí sé anrialta teicneolaíocht a úsáid.</ConventChild16.baseDesc>
   <!-- EN: convent child -->
   <ConventChild16.title>leanbh clochair</ConventChild16.title>
   <!-- EN: illicit -->
-  <ConventChild16.titleShort>neamhcheadaithe</ConventChild16.titleShort>
+  <ConventChild16.titleShort>leanbh tabhartaha</ConventChild16.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
-  <MedievalLordling19.baseDesc>TODO</MedievalLordling19.baseDesc>
+  <MedievalLordling19.baseDesc>Fothiarna ab ea [PAWN_nameDef] i seanríocht ar dhomhan meánaoiseach. D'fhás [PAWN_nameDef] aníos i gcaisleán mór, rud a chiallaíonn nach ndearna [PAWN_nameDef] mórán oibre teicniúil. Tuigeann [PAWN_nameDef] conas tionchar a imirt ar dhaoine eile, áfach.</MedievalLordling19.baseDesc>
   <!-- EN: medieval lordling -->
-  <MedievalLordling19.title>TODO</MedievalLordling19.title>
+  <MedievalLordling19.title>mion-tiarna meánaoiseach</MedievalLordling19.title>
   <!-- EN: medieval lady -->
-  <MedievalLordling19.titleFemale>TODO</MedievalLordling19.titleFemale>
+  <MedievalLordling19.titleFemale>bantairna meánaoiseach</MedievalLordling19.titleFemale>
   <!-- EN: lordling -->
-  <MedievalLordling19.titleShort>TODO</MedievalLordling19.titleShort>
+  <MedievalLordling19.titleShort>mionuasal</MedievalLordling19.titleShort>
   <!-- EN: lady -->
-  <MedievalLordling19.titleShortFemale>TODO</MedievalLordling19.titleShortFemale>
+  <MedievalLordling19.titleShortFemale>bantiarna</MedievalLordling19.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] grew up pulling carts and digging holes on a medieval world. Simple manual labor is [PAWN_possessive] oldest companion - along with the master's lash.\n\n[PAWN_pronoun] didn't learn to read until age nine. -->
-  <MedievalSlave49.baseDesc>TODO</MedievalSlave49.baseDesc>
+  <MedievalSlave49.baseDesc>D'fhág [PAWN_nameDef] aníos ag tarraingt cairteacha agus ag tochailt poll ar dhomhan meánaoiseach. An obair fhisiciúil an t-aon chara atá ag [PAWN_nameDef].</MedievalSlave49.baseDesc>
   <!-- EN: medieval slave -->
-  <MedievalSlave49.title>TODO</MedievalSlave49.title>
+  <MedievalSlave49.title>sclábhaí meánaoiseach</MedievalSlave49.title>
   <!-- EN: slave -->
-  <MedievalSlave49.titleShort>TODO</MedievalSlave49.titleShort>
+  <MedievalSlave49.titleShort>sclábhaí</MedievalSlave49.titleShort>
   
 </LanguageData>

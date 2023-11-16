@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: arid shrubland -->
-  <AridShrubland.label>TODO</AridShrubland.label>
+  <AridShrubland.label>scrobarnach tirim</AridShrubland.label>
   <!-- EN: A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find. -->
-  <AridShrubland.description>TODO</AridShrubland.description>
+  <AridShrubland.description>Tá an ceantar seo tirim, ach ní fásach ceart é. Tá machairí móra oscailte ar fáil anseo, mar aon le garráin crann. Tá plandaí crua anseo agus maireann meascán ainmhithe sa cheantar, ach tá sé deacair teacht ar thalamh maith curaíochta.</AridShrubland.description>
   
   <!-- EN: desert -->
-  <Desert.label>TODO</Desert.label>
+  <Desert.label>fásach</Desert.label>
   <!-- EN: A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold. -->
-  <Desert.description>TODO</Desert.description>
+  <Desert.description>Ní mhaireann mórán sa cheantar tirim seo. Is beag talamh maith curaíochta atá ann, agus is lú ainmhithe atá ann. Féadfaidh fásaigh a bheith an-te, nó an-fhuar.</Desert.description>
   
   <!-- EN: extreme desert -->
-  <ExtremeDesert.label>TODO</ExtremeDesert.label>
+  <ExtremeDesert.label>fásach deargthe</ExtremeDesert.label>
   <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
-  <ExtremeDesert.description>TODO</ExtremeDesert.description>
+  <ExtremeDesert.description>Fásach deargthe, nach maireann rud ar bith ann. Tá sé an-deacair maireachtáil anseo de bharr teas marfach agus easpa talamh maith curaíochta.</ExtremeDesert.description>
   
 </LanguageData>
