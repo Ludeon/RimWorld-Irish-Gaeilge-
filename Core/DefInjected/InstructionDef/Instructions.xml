@@ -84,9 +84,9 @@
   <ChangeWorkSettings.text>Tá smacht agat ar an obair a shanntar ar dhaoine áirithe. Bain úsáid as na ticbhoscaí. Tabharfaidh coilínigh faoi obair in ord, ó chlé go deas.\n\nAthraigh roinnt socruithe anois.\n\nRabhadh - Leanfaidh coilínigh a gcuid orduithe i gcónaí, agus tá seans ann go ndéanfaidh siad rudaí amaideacha dá bharr! In RimWorld, tá sé tábhachtach obair a shannadh ar bhealach cliste. Bí cúramach leis na socruithe seo, agus athraigh iad go minic!</ChangeWorkSettings.text>
   
   <!-- EN: Please choose a temperate forest site with no hills (light green with no brown dots). -->
-  <ChooseLandingSite.rejectInputMessage>Roghnaigh foraois mheasartha gan aon chnoic (bánghlas gan aon spotaí donna).</ChooseLandingSite.rejectInputMessage>
+  <ChooseLandingSite.rejectInputMessage>Roghnaigh foraois mheasartha gan aon chnoic (dath glas gan aon spotaí donna).</ChooseLandingSite.rejectInputMessage>
   <!-- EN: Here you choose your starting site.\n\nClick a temperate forest (light green) with no brown hills. Then click NEXT.\n\nOptionally, you can use the TERRAIN tab to view information about the selected tile. -->
-  <ChooseLandingSite.text>Féadfaidh tú do shuíomh tosaigh a roghnú anseo.\n\nRoghnaigh foraois mheasartha gan aon chnoic (bánghlas gan aon spotaí donna) agus cliceáil ar AR AGHAIDH.\n\nMar rogha eile, is féidir an táb TÍR-RAON a úsáid chun tuilleadh eolais a fháil faoin suíomh atá roghnaithe agat.</ChooseLandingSite.text>
+  <ChooseLandingSite.text>Féadfaidh tú do shuíomh tosaigh a roghnú anseo.\n\nRoghnaigh foraois mheasartha gan aon chnoic (dath glas gan aon spotaí donna) agus cliceáil ar AR AGHAIDH.\n\nMar rogha eile, is féidir an táb TÍR-RAON a úsáid chun tuilleadh eolais a fháil faoin suíomh atá roghnaithe agat.</ChooseLandingSite.text>
   
   <!-- EN: Please choose a storyteller in the Options menu to end the tutorial. -->
   <ChooseStoryteller.rejectInputMessage>Roghnaigh scéalaí ón roghchlár Socruithe chun deireadh a chur leis na treoracha maidir le conas imirt.</ChooseStoryteller.rejectInputMessage>
@@ -101,7 +101,7 @@
   <!-- EN: Click GENERATE to generate your world. -->
   <CreateWorldParams.rejectInputMessage>Cliceáil ar CRUTHAIGH chun an pláinéad a ghiniúint.</CreateWorldParams.rejectInputMessage>
   <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>Fáilte chuig RimWorld!\n\nÚsáidtear an leathanach seo chun do phlainéad a ghiniúint.\n\nTá na réamhshocruithe ar an roghchlár seo ceart go leor - lean ar aghaidh agus cliceáil ar CRUTHAIGH.</CreateWorldParams.text>
+  <CreateWorldParams.text>Fáilte chuig RimWorld!\n\nÚsáidtear an leathanach seo chun do phlainéad a ghiniúint.\n\Ní gá na réamhshocruithe ar an roghchlár seo a athrú - lean ar aghaidh agus cliceáil ar CRUTHAIGH.</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Cuir coilínigh ar foscadh anseo\ntaobh leis na málaí gainimh</DownRaider.onMapInstruction>

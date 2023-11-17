@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: fat body -->
-  <Body_Fat.label>dicker Körper</Body_Fat.label>
+  <Body_Fat.label>corp ramhar</Body_Fat.label>
   <!-- EN: Carriers can have fat bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed. -->
   <Body_Fat.description>Träger dieses Gens können einen dicken Körper haben. Eine Person kann mehr als ein Körpertyp-Gen haben; es wird ein zufälliger Körpertyp unter den erlaubten ausgewählt.</Body_Fat.description>
   <!-- EN: fat -->

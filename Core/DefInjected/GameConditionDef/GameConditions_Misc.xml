@@ -53,7 +53,7 @@
   <!-- EN: The heat wave is over. -->
   <HeatWave.endMessage>Tá deireadh tagtha leis an tonn teasa.</HeatWave.endMessage>
   <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
-  <HeatWave.letterText>Tá tús tagtha le tonn teasa aisteach..\n\nIs féidir le stróc teasa teacht ar do choilíinigh le linn tonnta teasa. Bí cinnte fuaraitheoir a thógáil. Bíonn sé fuar faoin talamh, freisin. </HeatWave.letterText>
+  <HeatWave.letterText>Tá tús tagtha le tonn teasa aisteach..\n\nIs féidir le stróc teasa teacht ar do choilíinigh le linn tonnta teasa. Bí cinnte fuaraitheoir a thógáil. Bíonn sé fuar faoin talamh, freisin.</HeatWave.letterText>
   
   <!-- EN: planetkiller -->
   <Planetkiller.label>astaróideach marfach</Planetkiller.label>

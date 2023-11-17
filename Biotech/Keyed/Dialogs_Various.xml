@@ -27,10 +27,10 @@
   <ConfirmCancelRipscan>Cancelling a ripscan will still kill {PAWN_nameDef}. Are you sure you want to continue?</ConfirmCancelRipscan>
 
   <!-- Xenogerm -->
-  <AssembleGenes>Assemble genes</AssembleGenes>
-  <CreateXenotype>Create xenotype</CreateXenotype>
-  <SelectIcon>Select icon</SelectIcon>
-  <SelectIconDesc>The icon of this xenotype.</SelectIconDesc>
+  <AssembleGenes>Tiomsaigh géinte</AssembleGenes>
+  <CreateXenotype>Cruthaigh xeini-tíopa</CreateXenotype>
+  <SelectIcon>Roghnaigh deilbhín</SelectIcon>
+  <SelectIconDesc>Deilbhín an xeini-tíopa seo.</SelectIconDesc>
   <InspectGenesDesc>Inspect the genes inside the {0_labelShort}.</InspectGenesDesc>
   <InspectGenesHediffDesc>Inspect the unborn baby's genes.</InspectGenesHediffDesc>
   <InspectGenesEmbryoDesc>Inspect the embryo's genes.</InspectGenesEmbryoDesc>
@@ -38,7 +38,7 @@
   <StartCombining>Start combining</StartCombining>
   <SelectedGenepacks>Selected genepacks</SelectedGenepacks>
   <GenepackLibrary>Genepack library</GenepackLibrary>
-  <ClickToAddOrRemove>Click to add or remove</ClickToAddOrRemove>
+  <ClickToAddOrRemove>Cliceáil chun géinte a roghnú nó a bhaint</ClickToAddOrRemove>
   <ClickToAdd>Click to add</ClickToAdd>
   <ClickToRemove>Click to remove</ClickToRemove>
   <SelectXenogerm>Select xenogerm</SelectXenogerm>
@@ -75,9 +75,9 @@
   <TakesEffectAfterAge>Takes effect after age</TakesEffectAfterAge>
 
   <!-- Xenotype editor -->
-  <XenotypeEditor>Xenotype editor</XenotypeEditor>
+  <XenotypeEditor>Athraigh xeini-tíopa</XenotypeEditor>
   <AnyNonArchite>Any (non-archite)</AnyNonArchite>
-  <SelectedGenes>Selected genes</SelectedGenes>
+  <SelectedGenes>Géinte roghnaithe</SelectedGenes>
   <Custom>custom</Custom>
   <Hybrid>hybrid</Hybrid>
   <GenesAreInheritable>Genes are heritable</GenesAreInheritable>
@@ -100,8 +100,8 @@
   <DevelopmentalAgeSelectionDesc>Colonists will always be within this developmental stage's age range when generated.</DevelopmentalAgeSelectionDesc>
   <XenotypeSelectionDesc>Colonists will always carry the genes defined by this xenotype.</XenotypeSelectionDesc>
   <SaveAndApply>Save and apply</SaveAndApply>
-  <LoadCustom>Load custom</LoadCustom>
-  <LoadPremade>Load premade</LoadPremade>
+  <LoadCustom>Lódáil saincheaptha</LoadCustom>
+  <LoadPremade>Lódáil teimpléad</LoadPremade>
   <GenesConflict>Genes conflict</GenesConflict>
   <GenesConflictDesc>{FIRST_label}, {SECOND_label}</GenesConflictDesc>
 

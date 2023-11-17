@@ -2,288 +2,288 @@
 <LanguageData>
   
   <!-- EN: Cancel -->
-  <DesignatorCancel>Abbrechen</DesignatorCancel>
+  <DesignatorCancel>Cealaigh</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>Brich Befehle wie Bauen, Abreißen, Tragen, Ernten und so weiter ab.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Cuir orduithe tógála, miandóireachta, feirmeoireachta agus orduithe eile ar ceal.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
-  <DesignatorCutPlants>Pflanzen entfernen</DesignatorCutPlants>
+  <DesignatorCutPlants>Gearr plandaí</DesignatorCutPlants>
   <!-- EN: Marks plants to be cut and destroyed. The plant will be completely removed, and any food or resource yield will be harvested. -->
-  <DesignatorCutPlantsDesc>Markiere Pflanzen, die komplett entfernt werden sollen. Nahrung und Ressourcen werden nach Möglichkeit geerntet.</DesignatorCutPlantsDesc>
+  <DesignatorCutPlantsDesc>Roghnaigh na plandaí atá le gearradh agus le scriosadh. Gearrfar an planda agus bainfear aon acmhainní nó bia.</DesignatorCutPlantsDesc>
 
   <!-- EN: Deconstruct -->
-  <DesignatorDeconstruct>Abreißen</DesignatorDeconstruct>
+  <DesignatorDeconstruct>Scrios</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>Reiße dieses Objekt ab und erhalte einen Teil der Ressourcen zurück.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Scrios rud agus tóg ar ais cuid de na hacmhainní lenar tógadh é.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
-  <DesignatorUninstall>Demontieren</DesignatorUninstall>
+  <DesignatorUninstall>Bain</DesignatorUninstall>
   <!-- EN: Uninstall this so it can be moved, sold, or installed somewhere else. -->
-  <DesignatorUninstallDesc>Demontiere dieses Objekt, um es zu verkaufen oder woanders wieder zu montieren.</DesignatorUninstallDesc>
+  <DesignatorUninstallDesc>Bain an rud seo, chun go mbeidh tú in ann é a bhogadh, a dhíol nó a bhogadh go suíomh nua.</DesignatorUninstallDesc>
 
   <!-- EN: Extract tree -->
-  <DesignatorExtractTree>Baum ausgraben</DesignatorExtractTree>
+  <DesignatorExtractTree>Bain crann</DesignatorExtractTree>
   <!-- EN: Extract this tree while keeping it alive so it can be replanted somewhere else. -->
-  <DesignatorExtractTreeDesc>Grabe diesen Baum aus, um ihn woanders wieder einzupflanzen.</DesignatorExtractTreeDesc>
+  <DesignatorExtractTreeDesc>Bain an crann seo ón talamh gan é a mharú. Beidh tú in ann é a chur athuair i suíomh nua.</DesignatorExtractTreeDesc>
 
   <!-- EN: Harvest -->
-  <DesignatorHarvest>Ernten</DesignatorHarvest>
+  <DesignatorHarvest>Bain barraí</DesignatorHarvest>
   <!-- EN: Marks plants to be harvested for their food or other products. -->
-  <DesignatorHarvestDesc>Markiere Pflanzen, die für ihre Nahrung oder andere Produkte geerntet werden sollen.</DesignatorHarvestDesc>
+  <DesignatorHarvestDesc>Roghnaigh plandaí atá le baint do bhia nó d'acmhainní eile.</DesignatorHarvestDesc>
 
   <!-- EN: Chop wood -->
-  <DesignatorHarvestWood>Holz hacken</DesignatorHarvestWood>
+  <DesignatorHarvestWood>Gearr admhad</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>Markiere Bäume, die zur Holzgewinnung gefällt werden sollen.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Marcáil na crainn atá le gearradh chun adhmad a bhaint.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
-  <DesignatorHaulThings>Objekte wegtragen</DesignatorHaulThings>
+  <DesignatorHaulThings>Iompair</DesignatorHaulThings>
   <!-- EN: Mark rock chunks and other items to be hauled to dumping areas. Not needed for things like food or corpses, which are always haulable. -->
-  <DesignatorHaulThingsDesc>Markiere Felsbrocken und andere Objekte, die weggetragen werden sollen, um Platz zu schaffen. Nicht erforderlich für Objekte, die immer transportfähig sind, wie z.B. Nahrung, Leichen usw.</DesignatorHaulThingsDesc>
+  <DesignatorHaulThingsDesc>Marcáil clocha agus rudaí eile atá le hiompar chuig zóin dumpála. Ní gá bia nó corpáin a mharcáil, is féidir nithe den sórt sin a iompar i gcónaí.</DesignatorHaulThingsDesc>
   <!-- EN: Can only designate haulable but non-always-hauled things (like rock chunks). -->
-  <MustHaulHaulables>Es können nur Objekte markiert werden, die nicht automatisch weggetragen werden (z.B. Felsbrocken).</MustHaulHaulables>
+  <MustHaulHaulables>Ní féidir an t-ordú seo a úsáid ach ar rudaí is féidir a iompar, ach nach bhfuil marcáilte lena n-iompar (m.sh. clocha).</MustHaulHaulables>
 
   <!-- EN: Hunt -->
-  <DesignatorHunt>Jagen</DesignatorHunt>
+  <DesignatorHunt>Sealgaireacht</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <DesignatorHuntDesc>Markiere Tiere, die von deinen Jägern gejagt werden sollen.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Marcáil na hainmhithe atá le fiach agus le marú ag do chuid sealgairí.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
-  <DesignatorMine>Gestein abbauen</DesignatorMine>
+  <DesignatorMine>Miandóireacht</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>Markiere Gesteine, die abgebaut werden sollen.</DesignatorMineDesc>
+  <DesignatorMineDesc>Marcáil clocha atá le baint.</DesignatorMineDesc>
 
   <!-- EN: Smooth surface -->
-  <DesignatorSmoothSurface>Oberfläche glätten</DesignatorSmoothSurface>
+  <DesignatorSmoothSurface>Leacaigh</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
-  <DesignatorSmoothSurfaceDesc>Markiere raue Böden und Wände, die geglättet werden sollen.</DesignatorSmoothSurfaceDesc>
+  <DesignatorSmoothSurfaceDesc>Marcáil urláir chloiche agus urláir gharbh atá le leacú agus le déanamh mín.</DesignatorSmoothSurfaceDesc>
 
   <!-- EN: Plan -->
-  <DesignatorPlan>Planen</DesignatorPlan>
+  <DesignatorPlan>Pleanáil</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Platziere Markierungen, um zukünftige Ausbauten deiner Kolonie zu planen.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Cuir síos pleananna. Ní aon fheidhm ag na marcanna seo, ach cuidíonn siad leat na forbairtí a dhéanfaidh tú amach anseo a phleanáil amach.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
-  <DesignatorPlanRemove>Pläne entfernen</DesignatorPlanRemove>
+  <DesignatorPlanRemove>Scrios pleananna</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>Entferne Markierungen, die du zur Planung zukünftiger Ausbauten deiner Kolonie platziert hast.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Scrios na marcanna pleanála a chur tú síos.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
-  <DesignatorForbid>Verbieten</DesignatorForbid>
+  <DesignatorForbid>Dícheadaigh</DesignatorForbid>
   <!-- EN: Mark items as forbidden. Colonists will not be able to interact with the designated items. -->
-  <DesignatorForbidDesc>Markiere Objekte als 'verboten'. Kolonisten dürfen mit diesen Objekten nicht interagieren.</DesignatorForbidDesc>
+  <DesignatorForbidDesc>Marcáil earraí mar dhícheadaithe. Ní bheidh coilínigh in ann earraí dícheadaithe a úsáid.</DesignatorForbidDesc>
 
   <!-- EN: Allow -->
-  <DesignatorUnforbid>Erlauben</DesignatorUnforbid>
+  <DesignatorUnforbid>Ceadaigh</DesignatorUnforbid>
   <!-- EN: Mark items as not forbidden. Colonists will be able to interact with the designated items. -->
-  <DesignatorUnforbidDesc>Markiere Objekte als 'erlaubt'. Kolonisten dürfen mit diesen Objekten interagieren.</DesignatorUnforbidDesc>
+  <DesignatorUnforbidDesc>Marcáil earraí mar cheadaithe. Beidh coilínigh in earraí ceadaithe a úsáid.</DesignatorUnforbidDesc>
 
   <!-- EN: Expand home area -->
-  <DesignatorAreaHomeExpand>Heimatgebiet erweitern</DesignatorAreaHomeExpand>
+  <DesignatorAreaHomeExpand>Leathnaigh ceantar baile</DesignatorAreaHomeExpand>
   <!-- EN: Colonists will repair buildings, clean floors, and extinguish fires only in the home area. -->
-  <DesignatorAreaHomeExpandDesc>Nur in diesem Gebiet können Bauwerke repariert, Böden gesäubert oder Feuer gelöscht werden.</DesignatorAreaHomeExpandDesc>
+  <DesignatorAreaHomeExpandDesc>Déanfaidh coilínigh foirgnimh a dheisiú, urláir a ghlanadh, agus tinte a mhúchadh sa cheantar baile.</DesignatorAreaHomeExpandDesc>
   <!-- EN: Clear home area -->
-  <DesignatorAreaHomeClear>Heimatgebiet verkleinern</DesignatorAreaHomeClear>
+  <DesignatorAreaHomeClear>Scrios ceantar baile</DesignatorAreaHomeClear>
   <!-- EN: Removes a home area. Colonists will no longer clean, repair, or extinguish fires here. -->
-  <DesignatorAreaHomeClearDesc>Entferne einen Teil des Heimatgebietes. Kolonisten können hier nicht länger saubermachen, reparieren oder Feuer löschen.</DesignatorAreaHomeClearDesc>
+  <DesignatorAreaHomeClearDesc>Ní dhéanfaidh coilínigh foirgnimh a dheisiú, urláir a ghlanadh, agus tinte a mhúchadh lasmuigh den cheantar baile.</DesignatorAreaHomeClearDesc>
 
   <!-- EN: Build roof area -->
-  <DesignatorAreaBuildRoofExpand>'Dach bauen' erweitern</DesignatorAreaBuildRoofExpand>
+  <DesignatorAreaBuildRoofExpand>Tóg díon</DesignatorAreaBuildRoofExpand>
   <!-- EN: Colonists will build roofs in this area. -->
-  <DesignatorAreaBuildRoofExpandDesc>Kolonisten werden Dächer in diesem Gebiet bauen.</DesignatorAreaBuildRoofExpandDesc>
+  <DesignatorAreaBuildRoofExpandDesc>Tógfaidh coilínigh díonta sa zón seo.</DesignatorAreaBuildRoofExpandDesc>
 
   <!-- EN: Remove roof area -->
-  <DesignatorAreaNoRoofExpand>'Dach abreißen' erweitern</DesignatorAreaNoRoofExpand>
+  <DesignatorAreaNoRoofExpand>Scrios díon</DesignatorAreaNoRoofExpand>
   <!-- EN: Colonists will remove roofs in this area (except overhead mountain, which cannot be removed). -->
-  <DesignatorAreaNoRoofExpandDesc>Kolonisten werden Dächer in diesem Gebiet abreißen. Beachte, dass massive Höhlendecken nicht abgerissen werden können.</DesignatorAreaNoRoofExpandDesc>
+  <DesignatorAreaNoRoofExpandDesc>Bainfidh coilínigh díonta sa zón seo (seachas díonta faoi sléibhte, ní féidir na díonta sin a bhaint).</DesignatorAreaNoRoofExpandDesc>
 
   <!-- EN: Ignore roof area -->
-  <DesignatorAreaIgnoreRoofExpand>Dachgebiet verkleinern</DesignatorAreaIgnoreRoofExpand>
+  <DesignatorAreaIgnoreRoofExpand>Déan neamhaird de dhíon</DesignatorAreaIgnoreRoofExpand>
   <!-- EN: Colonists will ignore roofs in this area. -->
-  <DesignatorAreaIgnoreRoofExpandDesc>Entferne einen Teil des Gebietes, das zum Bauen oder Abreißen von Dächern markiert ist.</DesignatorAreaIgnoreRoofExpandDesc>
+  <DesignatorAreaIgnoreRoofExpandDesc>Déanfaidh coilínigh neamhaird de dhíonta sa zón seo.</DesignatorAreaIgnoreRoofExpandDesc>
 
   <!-- EN: Snow removal area -->
-  <DesignatorAreaSnowClearExpand>'Schnee räumen' erweitern</DesignatorAreaSnowClearExpand>
+  <DesignatorAreaSnowClearExpand>Zón bainte sneachta</DesignatorAreaSnowClearExpand>
   <!-- EN: Create an area which colonists will try to keep clear of snow. -->
-  <DesignatorAreaSnowClearExpandDesc>Erstelle ein Gebiet, den die Kolonisten möglichst schneefrei halten sollen.</DesignatorAreaSnowClearExpandDesc>
+  <DesignatorAreaSnowClearExpandDesc>Déanfaidh coilínigh iarracht an limistéir seo a choinneáil saor ó shneachta.</DesignatorAreaSnowClearExpandDesc>
   <!-- EN: Clear snow removal area -->
-  <DesignatorAreaSnowClearClear>'Schnee räumen' verkleinern</DesignatorAreaSnowClearClear>
+  <DesignatorAreaSnowClearClear>Scrios zón bainte sneachta</DesignatorAreaSnowClearClear>
   <!-- EN: Removes a snow removal area. Colonists will no longer try to keep this area clear of snow. -->
-  <DesignatorAreaSnowClearClearDesc>Entferne ein Gebiet, das zum Schneeräumen markiert ist. Kolonisten werden hier nicht mehr versuchen, den Bereich schneefrei zu halten.</DesignatorAreaSnowClearClearDesc>
+  <DesignatorAreaSnowClearClearDesc>Sciostar zón bainte sneachta leis seo. Ní dhéanfaidh coilínigh iarracht an limistéir seo a choinneáil saor ó shneachta.</DesignatorAreaSnowClearClearDesc>
 
   <!-- EN: Expand allowed area -->
-  <DesignatorExpandAreaAllowed>Erlaubtes Gebiet erweitern</DesignatorExpandAreaAllowed>
+  <DesignatorExpandAreaAllowed>Leathnaigh zón ceadaithe</DesignatorExpandAreaAllowed>
   <!-- EN: Expand an allowed area.\n\nAllowed areas are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorExpandAreaAllowedDesc>Erweitere ein erlaubtes Gebiet.\n\nErlaubte Gebiete sind definierte Bereiche, die du den Kolonisten zuweisen kannst. Kolonisten beschränken ihre Arbeit und Bedürfnisse nur auf dieses Gebiet.</DesignatorExpandAreaAllowedDesc>
+  <DesignatorExpandAreaAllowedDesc>Déan zón ceadaithe a leathnú.\n\nIs ionann zón ceadaithe agus ceantar áirithe a bhféadfaidh tú coilínigh a shannadh dóibh. Ní rachaidh coilínigh lasmuigh dá zón ceadaithe.</DesignatorExpandAreaAllowedDesc>
   <!-- EN: Clear allowed area -->
-  <DesignatorClearAreaAllowed>Erlaubtes Gebiet verkleinern</DesignatorClearAreaAllowed>
+  <DesignatorClearAreaAllowed>Scrios zón ceadaithe</DesignatorClearAreaAllowed>
   <!-- EN: Clear cells from an allowed area.\n\nAllowed area are defined areas you can assign to colonists. Colonists will not accept work or fulfill their needs outside their allowed area. -->
-  <DesignatorClearAreaAllowedDesc>Verkleinere ein erlaubtes Gebiet.\n\nErlaubte Gebiete sind definierte Bereiche, die du den Kolonisten zuweisen kannst. Kolonisten beschränken ihre Arbeit und Bedürfnisse nur auf dieses Gebiet.</DesignatorClearAreaAllowedDesc>
+  <DesignatorClearAreaAllowedDesc>Déan zón ceadaithe a scriosadh.\n\nIs ionann zón ceadaithe agus ceantar áirithe a bhféadfaidh tú coilínigh a shannadh dóibh. Ní rachaidh coilínigh lasmuigh dá zón ceadaithe.</DesignatorClearAreaAllowedDesc>
   <!-- EN: Manage areas... -->
-  <ManageAreas>Gebiete verwalten...</ManageAreas>
+  <ManageAreas>Zóin...</ManageAreas>
   <!-- EN: Manage auto-slaughter... -->
-  <ManageAutoSlaughter>Auto-Schlachtung verwalten...</ManageAutoSlaughter>
+  <ManageAutoSlaughter>Maraigh ainmhí...</ManageAutoSlaughter>
 
   <!-- EN: Create a zone where your colonists will try to grow a certain kind of plant. -->
-  <DesignatorGrowingZoneDesc>Erstelle eine Zone, die deine Kolonisten zum Anbauen einer bestimmten Pflanzenart nutzen werden.</DesignatorGrowingZoneDesc>
+  <DesignatorGrowingZoneDesc>Cruthaigh zón ina ndéanfaidh do choilínigh iarracht plandaí a fhás.</DesignatorGrowingZoneDesc>
 
   <!-- EN: Create a stockpile where your colonists will store resources.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageResourcesDesc>Erstelle eine Zone, die deine Kolonisten zum Lagern von Ressourcen nutzen werden.\nDieser Befehl kann auch einen bereits vorhandenen Lagerplatz erweitern.</DesignatorZoneCreateStorageResourcesDesc>
+  <DesignatorZoneCreateStorageResourcesDesc>Cruthaigh stoc-charn. Coinneoidh do choilíneachtaí acmhainní sa limistéar seo.\nIs féidir an t-ordú seo a úsáid chun stoc-chearn atá ann cheana a dhéanamh níos mó, freisin.</DesignatorZoneCreateStorageResourcesDesc>
 
   <!-- EN: Create a stockpile where your colonists will store junk.\nThis tool can also expand any existing stockpile. -->
-  <DesignatorZoneCreateStorageDumpingDesc>Erstelle eine Zone, die deine Kolonisten zum Lagern von Abfällen nutzen werden.\nDieser Befehl kann auch einen bereits vorhandenen Lagerplatz erweitern.</DesignatorZoneCreateStorageDumpingDesc>
+  <DesignatorZoneCreateStorageDumpingDesc>Cruthaigh stoc-charn dumpála. Coinneoidh do choilínigh bruscar agus dramhaíl anseo.\nIs féidir an t-ordú seo a úsáid chun stoc-chearn atá ann cheana a dhéanamh níos mó, freisin.</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Zonen verkleinern</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Scrios zóin</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
-  <DesignatorZoneDeleteSingular>Zone verkleinern</DesignatorZoneDeleteSingular>
+  <DesignatorZoneDeleteSingular>Scrios zón</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>Entferne Zonen, wie z.B. Lager- und Abfallzonen.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Déan zóin (stoc-charn nó zón fáis, mar shampla) a scriosadh.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
-  <DesignatorZoneExpand>Zone erweitern</DesignatorZoneExpand>
+  <DesignatorZoneExpand>Leathnaigh zón</DesignatorZoneExpand>
   
   <!-- EN: Claim -->
-  <DesignatorClaim>In Besitz nehmen</DesignatorClaim>
+  <DesignatorClaim>Glac úinéireacht</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
-  <DesignatorClaimDesc>Nimm neutrale Strukturen für deine Kolonie in Besitz, wie zum Beispiel antike Ruinen oder verlassene Belagerungsstrukturen. Beanspruchte Strukturen können von deinen Kolonisten repariert und genutzt werden.</DesignatorClaimDesc>
+  <DesignatorClaimDesc>Glac úinéireacht ar struichtúir neodracha don choilíneacht, lena n-áirítear fothracha ársa. Beidh coilínigh in ann struichtúir a ghlacann tú úinéireacht orthu a dheisiú agus a choinneáil.</DesignatorClaimDesc>
 
   <!-- EN: Remove floor -->
-  <DesignatorRemoveFloor>Boden entfernen</DesignatorRemoveFloor>
+  <DesignatorRemoveFloor>Bain urlár</DesignatorRemoveFloor>
   <!-- EN: Remove floors to reveal the terrain underneath. -->
-  <DesignatorRemoveFloorDesc>Entferne Böden, um den natürlichen Boden freizulegen.</DesignatorRemoveFloorDesc>
+  <DesignatorRemoveFloorDesc>Bain an t-urlár.</DesignatorRemoveFloorDesc>
 
   <!-- EN: Remove bridge -->
-  <DesignatorRemoveBridge>Brücke entfernen</DesignatorRemoveBridge>
+  <DesignatorRemoveBridge>Scrios droichead</DesignatorRemoveBridge>
   <!-- EN: Remove bridges to reveal the terrain underneath. -->
-  <DesignatorRemoveBridgeDesc>Entferne Brücken, um den natürlichen Boden freizulegen.</DesignatorRemoveBridgeDesc>
+  <DesignatorRemoveBridgeDesc>Scrios droichead.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
-  <DesignatorStrip>Entkleiden</DesignatorStrip>
+  <DesignatorStrip>Bain éadaí</DesignatorStrip>
   <!-- EN: Strip apparel from corpses and the wounded. -->
-  <DesignatorStripDesc>Markiere Leichen oder Verwundete, die entkleidet werden sollen.</DesignatorStripDesc>
+  <DesignatorStripDesc>Bain na héadaí ó chorpáin agus ó dhaoine gortaithe.</DesignatorStripDesc>
 
   <!-- EN: Open -->
-  <DesignatorOpen>Öffnen</DesignatorOpen>
+  <DesignatorOpen>Oscail</DesignatorOpen>
   <!-- EN: Open containers. -->
-  <DesignatorOpenDesc>Öffne Behälter.</DesignatorOpenDesc>
+  <DesignatorOpenDesc>Oscail coimeádáin.</DesignatorOpenDesc>
   
   <!-- EN: Slaughter -->
-  <DesignatorSlaughter>Schlachten</DesignatorSlaughter>
+  <DesignatorSlaughter>Maraigh</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
-  <DesignatorSlaughterDesc>Markiere Haustiere, die geschlachtet werden sollen.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>Maraigh ainmhí ceansa.</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
-  <DesignatorTame>Zähmen</DesignatorTame>
+  <DesignatorTame>Ceansaigh</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
-  <DesignatorTameDesc>Markiere Wildtiere, die gezähmt werden sollen.</DesignatorTameDesc>
+  <DesignatorTameDesc>Déan ainmhí fián a cheansú.</DesignatorTameDesc>
 
   <!-- EN: Release to wild -->
-  <DesignatorReleaseAnimalToWild>In die Wildnis entlassen</DesignatorReleaseAnimalToWild>
+  <DesignatorReleaseAnimalToWild>Scaoil saor</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
-  <DesignatorReleaseAnimalToWildDesc>Entlasse ein Tier in die Wildnis.</DesignatorReleaseAnimalToWildDesc>
+  <DesignatorReleaseAnimalToWildDesc>Scaoil ainmhí ceansa saor.</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
-  <DesignatorStudy>Analysieren</DesignatorStudy>
+  <DesignatorStudy>Stáidéar</DesignatorStudy>
   <!-- EN: Study this object to learn more about it. -->
-  <DesignatorStudyDesc>Analysiere dieses Objekt, um mehr darüber zu erfahren.</DesignatorStudyDesc>
+  <DesignatorStudyDesc>Déan stáidéar ar an rud seo chun tuilleadh eolais a fháil faoi.</DesignatorStudyDesc>
 
   <!-- EN: Paint building... -->
-  <DesignatorPaintBuilding>Bauwerk streichen...</DesignatorPaintBuilding>
+  <DesignatorPaintBuilding>Péinteáil struchtúr...</DesignatorPaintBuilding>
   <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
-  <DesignatorPaintBuildingDesc>Kennzeichne Wände und Bauwerke, die mit Farbstoff gestrichen werden sollen. Farbstoff wird aus der Tinktoriapflanze gewonnen, die du selbst auf deinen Feldern anbauen kannst. Es können nur bestimmte Bauwerke gestrichen werden.</DesignatorPaintBuildingDesc>
+  <DesignatorPaintBuildingDesc>Marcáil ballaí agus foirgnimh atá le péinteáil ag baint úsáide as ruaim. Ní féidir ach foirgnimh áirithe a phéinteáil.</DesignatorPaintBuildingDesc>
   <!-- EN: Paint floor... -->
-  <DesignatorPaintFloor>Boden streichen...</DesignatorPaintFloor>
+  <DesignatorPaintFloor>Péinteáil urlár...</DesignatorPaintFloor>
   <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
-  <DesignatorPaintFloorDesc>Kennzeichne Böden, die mit Farbstoff gestrichen werden sollen. Farbstoff wird aus der Tinktoriapflanze gewonnen, die du selbst auf deinen Feldern anbauen kannst. Es können nur bestimmte Böden gestrichen werden.</DesignatorPaintFloorDesc>
+  <DesignatorPaintFloorDesc>Marcáil urláir atá le péinteáil ag baint úsáide as ruaim. Ní féidir ach urláir áirithe a phéinteáil.</DesignatorPaintFloorDesc>
 
   <!-- EN: Remove paint -->
-  <DesignatorRemovePaint>Anstrich entfernen</DesignatorRemovePaint>
+  <DesignatorRemovePaint>Bain péint</DesignatorRemovePaint>
   <!-- EN: Remove paint from walls, buildings, and floors. -->
-  <DesignatorRemovePaintDesc>Entferne die aufgetragene Farbe von Wänden, Bauwerken und Böden.</DesignatorRemovePaintDesc>
+  <DesignatorRemovePaintDesc>Bain péint ó bhallaí, urláir, agus foirgnimh.</DesignatorRemovePaintDesc>
   <!-- EN: Remove floor paint -->
-  <DesignatorRemoveFloorPaint>Bodenfarbe entfernen</DesignatorRemoveFloorPaint> 
+  <DesignatorRemoveFloorPaint>Bain péint urláir</DesignatorRemoveFloorPaint> 
   <!-- EN: Remove paint from floors. -->
-  <DesignatorRemoveFloorPaintDesc>Entferne die aufgetragene Farbe von Böden.</DesignatorRemoveFloorPaintDesc> 
+  <DesignatorRemoveFloorPaintDesc>Bain péint ón urlár.</DesignatorRemoveFloorPaintDesc> 
   <!-- EN: Paint -->
-  <Paint>Anstrichfarbe</Paint>
+  <Paint>Péinteáil</Paint>
   <!-- EN: Color -->
-  <Color>Farbe</Color>
+  <Color>Dath</Color>
 
   <!-- EN: Color picker -->
-  <DesignatorEyedropper>Pipette</DesignatorEyedropper>
+  <DesignatorEyedropper>Dathphiocaire</DesignatorEyedropper>
   <!-- EN: Grab existing color -->
-  <GrabExistingColor>Farbe kopieren</GrabExistingColor>
+  <GrabExistingColor>Roghnaigh dath</GrabExistingColor>
   <!-- EN: Grab a color from an existing building. -->
-  <DesignatorEyeDropperDesc_Paint>Kopiere die Farbe eines bestehenden Bauwerks.</DesignatorEyeDropperDesc_Paint>
+  <DesignatorEyeDropperDesc_Paint>Roghnaigh dath ó fhoirgneamh atá ann cheana.</DesignatorEyeDropperDesc_Paint>
   <!-- EN: Grab a color from an existing carpet. -->
-  <DesignatorEyeDropperDesc_Carpet>Kopiere die Farbe eines bestehenden Teppichs.</DesignatorEyeDropperDesc_Carpet>
+  <DesignatorEyeDropperDesc_Carpet>Roghnaigh dath ó chairpéad atá ann cheana.</DesignatorEyeDropperDesc_Carpet>
   <!-- EN: Select a painted building. -->
-  <SelectAPaintedBuilding>Gestrichenes Bauwerk auswählen</SelectAPaintedBuilding>
+  <SelectAPaintedBuilding>Roghnaigh foirgneamh a bhfuil péint air cheana</SelectAPaintedBuilding>
   <!-- EN: Select colored carpet. -->
-  <SelectColoredFloor>Gefärbten Teppich auswählen</SelectColoredFloor>
+  <SelectColoredFloor>Roghnaigh cairpéad a bhfuil dath air</SelectColoredFloor>
   <!-- EN: Grab -->
-  <Grab>Kopieren</Grab>
+  <Grab>Roghnaigh</Grab>
   <!-- EN: Grabbed color -->
-  <GrabbedColor>Kopierte Farbe</GrabbedColor>
+  <GrabbedColor>Dath roghnaithe</GrabbedColor>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
-  <UnchosenStuff>Nicht ausgewähltes Material</UnchosenStuff>
+  <UnchosenStuff>Ní mór ábhar a roghnú</UnchosenStuff>
   <!-- EN: Too close to map edge. -->
-  <TooCloseToMapEdge>Zu nah am Kartenrand.</TooCloseToMapEdge>
+  <TooCloseToMapEdge>Róchóngarach le taobh na léarscáilte.</TooCloseToMapEdge>
   <!-- EN: Out of bounds. -->
-  <OutOfBounds>Außerhalb der Begrenzungen.</OutOfBounds>
+  <OutOfBounds>Thar teorainn na léarscáilte.</OutOfBounds>
   <!-- EN: Cannot place in undiscovered areas. -->
-  <CannotPlaceInUndiscovered>Platzierung von Objekten in unentdeckten Gebieten nicht möglich.</CannotPlaceInUndiscovered>
+  <CannotPlaceInUndiscovered>Ní féidir é seo a chur i gceantar nach bhfuil aimsithe agat go fóill.</CannotPlaceInUndiscovered>
   <!-- EN: Interaction spot is blocked by {1_labelShort}. -->
-  <InteractionSpotBlocked>Interaktionspunkt blockiert durch {1_labelShort}.</InteractionSpotBlocked>
+  <InteractionSpotBlocked>Tá sé seo blocáilte ag {1_labelShort}.</InteractionSpotBlocked>
   <!-- EN: Interaction spot is out of bounds. -->
-  <InteractionSpotOutOfBounds>Interaktionspunkt ist außerhalb der Begrenzungen.</InteractionSpotOutOfBounds>
+  <InteractionSpotOutOfBounds>Tá sé seo thar teorainn na léarscáilte.</InteractionSpotOutOfBounds>
   <!-- EN: Interaction spot will be blocked by {1_labelShort}. -->
-  <InteractionSpotWillBeBlocked>Interaktionspunkt wird blockiert durch {1_labelShort}.</InteractionSpotWillBeBlocked>
+  <InteractionSpotWillBeBlocked>Beidh sé seo blocáilte ag {1_labelShort}.</InteractionSpotWillBeBlocked>
   <!-- EN: {0} would block {1}'s interaction spot. -->
-  <WouldBlockInteractionSpot>{0} würde den Interaktionspunkt von {1} blockieren.</WouldBlockInteractionSpot>
+  <WouldBlockInteractionSpot>Bheadh {1} blocáilte ag {0}.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
-  <TerrainIsAlready>Der Boden hier ist bereits {0}.</TerrainIsAlready>
+  <TerrainIsAlready>Tá {0} anseo cheana.</TerrainIsAlready>
   <!-- EN: The surface is already marked for smoothing. -->
-  <SurfaceBeingSmoothed>Diese Oberfläche ist bereits zum Glätten markiert.</SurfaceBeingSmoothed>
+  <SurfaceBeingSmoothed>Tá an t-urlár anseo le smúdáil cheana.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
-  <IdenticalThingExists>Hier ist bereits ein identisches Objekt.</IdenticalThingExists>
+  <IdenticalThingExists>Tá an rud céanna anseo cheana.</IdenticalThingExists>
   <!-- EN: Identical blueprint already exists here. -->
-  <IdenticalBlueprintExists>Hier ist bereits eine identische Blaupause.</IdenticalBlueprintExists>
+  <IdenticalBlueprintExists>Tá an gormchló céanna anseo cheana.</IdenticalBlueprintExists>
   <!-- EN: {0_label} cannot be built on this terrain. -->
-  <TerrainCannotSupport>{0_label} kann nicht auf diesem Boden gebaut werden.</TerrainCannotSupport>
+  <TerrainCannotSupport>Ní féidir {0_label} a thógáil ar an talamh seo.</TerrainCannotSupport>
   <!-- EN: {0_label} requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordance>{0_label} benötigt einen Boden, der die Bodenanforderung '{1_label}' unterstützt.</TerrainCannotSupport_TerrainAffordance>
+  <TerrainCannotSupport_TerrainAffordance>Tá talamh ar a bhféadfaidh '{1_label}' a thógáil ag teastáil le haghaidh {0_label}.</TerrainCannotSupport_TerrainAffordance>
   <!-- EN: {0_label} (when made of {2_label}) requires terrain that supports: {1_label} -->
-  <TerrainCannotSupport_TerrainAffordanceFromStuff>{0_label} (wenn bestehend aus {2_label}) benötigt einen Boden, der die Bodenanforderung '{1_label}' unterstützt.</TerrainCannotSupport_TerrainAffordanceFromStuff>
+  <TerrainCannotSupport_TerrainAffordanceFromStuff>Tá talamh ar a bhféadfaidh '{1_label}' a thógáil ag teastáil le haghaidh {0_label} (nuair atá sé déanta as {2_label}).</TerrainCannotSupport_TerrainAffordanceFromStuff>
   <!-- EN: Space already occupied. -->
-  <SpaceAlreadyOccupied>Bauplatz ist bereits belegt.</SpaceAlreadyOccupied>
+  <SpaceAlreadyOccupied>Tá rud anseo cheana.</SpaceAlreadyOccupied>
   <!-- EN: Space being smoothed. -->
-  <SpaceBeingSmoothed>Fläche wird gerade geglättet.</SpaceBeingSmoothed>
+  <SpaceBeingSmoothed>Tá an t-urlár seo á smúdáil.</SpaceBeingSmoothed>
   <!-- EN: Must target a removable floor. -->
-  <TerrainMustBeRemovable>Muss einen entfernbaren Boden als Ziel haben.</TerrainMustBeRemovable>
+  <TerrainMustBeRemovable>Ní féidir an t-urlár seo a bhaint.</TerrainMustBeRemovable>
   <!-- EN: The waterwheel must be on moving water. -->
-  <MustBeOnMovingWater>Das Wasserrad muss auf fließendem Wasser gebaut werden.</MustBeOnMovingWater>
+  <MustBeOnMovingWater>Ní mór an roth uisce a chur in uisce corraitheach.</MustBeOnMovingWater>
   <!-- EN: Interaction spot will overlap with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotWillOverlap>Interaktionspunkt wird sich mit dem Interaktionspunkt von {1_labelShort} überschneiden.</InteractionSpotWillOverlap>
+  <InteractionSpotWillOverlap>Tá sé seo róghar le {1_labelShort}.</InteractionSpotWillOverlap>
   <!-- EN: Interaction spot overlaps with the interaction spot of {1_labelShort}. -->
-  <InteractionSpotOverlaps>Interaktionspunkt überschneidet sich mit dem Interaktionspunkt von {1_labelShort}.</InteractionSpotOverlaps>
+  <InteractionSpotOverlaps>Tá sé seo róghar le {1_labelShort}.</InteractionSpotOverlaps>
   <!-- EN: Cannot place monument over: {0}. -->
-  <CannotPlaceMonumentOver>Denkmal kann nicht auf '{0}' platziert werden.</CannotPlaceMonumentOver>
+  <CannotPlaceMonumentOver>Ní féidir séadchomhartha a thógail ar '{0}'.</CannotPlaceMonumentOver>
   <!-- EN: Cannot build on: {0}. -->
-  <CannotPlaceMonumentOnTerrain>Kann nicht auf '{0}' gebaut werden.</CannotPlaceMonumentOnTerrain>
+  <CannotPlaceMonumentOnTerrain>Ní féidir tógáil ar '{0}'.</CannotPlaceMonumentOnTerrain>
   <!-- EN: Cannot place monument over: {0}. -->
-  <MonumentOverlapsBuilding>Denkmal kann nicht auf '{0}' platziert werden.</MonumentOverlapsBuilding>
+  <MonumentOverlapsBuilding>Ní féidir séadchomhartha a thógáíl ar '{0}'.</MonumentOverlapsBuilding>
   <!-- EN: Monument cannot be placed adjacent to: {0}. -->
-  <MonumentAdjacentToBuilding>Denkmal kann nicht neben '{0}' platziert werden.</MonumentAdjacentToBuilding>
+  <MonumentAdjacentToBuilding>Ní féidir séadchomhartha a chur taobh le '{0}'.</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
   <CannotBePlantedHere>Ní féidir é seo a chur anseo</CannotBePlantedHere>
   
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
-  <ExpandOrCreateZone>Leathnaigh {0} \nCruthaigh {1} nua</ExpandOrCreateZone>
+  <ExpandOrCreateZone>Leathnaigh {0} nó\nCruthaigh {1} nua</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
   <CreateNewZone>Cruthaigh {0} nua</CreateNewZone>
   

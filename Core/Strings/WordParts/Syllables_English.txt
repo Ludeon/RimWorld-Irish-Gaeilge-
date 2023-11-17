@@ -3,13 +3,13 @@ all
 an
 and
 ar
-are
+ar
 as
 at
 
 but
 ban
-bin
+ban
 bon
 
 ca
@@ -17,24 +17,24 @@ co
 
 da
 do
-din
-del
+dan
+dal
 
-ea
-ed
-en
-ent
-er
-era
-ere
-es
-eve
+a
+ad
+an
+ant
+ar
+ara
+ara
+as
+eabha
 
 for
 far
-fin
-fun
-fen
+fan
+fan
+fan
 
 ga
 go
@@ -42,76 +42,76 @@ go
 ha
 had
 hat
-he
-hen
-her
-hi
-hi
-hin
-his
+ha
+han
+har
+ha
+ha
+han
+hos
 
-in
-is
-it
-ith
+an
+as
+ot
+oth
 
 ja
 
-ka
-ko
+ca
+co
 
-le
+la
 la
 lon
-len
+lan
 lan
 
-me
 ma
-min
+ma
+man
 mon
-men
+mon
 
-ne
+na
 not
 na
 
-ome
+oma
 on
 or
 ou
-oul
-our
+ol
+or
 
 pa
 
-qua
+ca
 
-re
+ra
 ra
 ro
 
-se
-sho
+sa
+so
 st
 
-te
-ted
-ter
-thi
+ta
+tad
+tar
+thu
 tha
-the
-thi
-ti
+to
+tha
+to
 to
 
 un
 
-ve
-ver
+va
+var
 
-wa
-was
-wit
+va
+vas
+vat
 
-you
+ia

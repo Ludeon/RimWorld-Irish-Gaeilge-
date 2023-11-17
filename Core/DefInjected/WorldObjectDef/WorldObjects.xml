@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: abandoned settlement -->
-  <AbandonedSettlement.label>TODO</AbandonedSettlement.label>
+  <AbandonedSettlement.label>lonnaíocht thréigthe</AbandonedSettlement.label>
   <!-- EN: An abandoned settlement. -->
-  <AbandonedSettlement.description>TODO</AbandonedSettlement.description>
+  <AbandonedSettlement.description>Lonnaíocht thréigthne, nach gcónaíonn aon duine inti níos mó.</AbandonedSettlement.description>
   
   <!-- EN: attacked caravan -->
-  <AttackedNonPlayerCaravan.label>TODO</AttackedNonPlayerCaravan.label>
+  <AttackedNonPlayerCaravan.label>carbhán faoi ionsaí</AttackedNonPlayerCaravan.label>
   <!-- EN: A caravan under attack. -->
-  <AttackedNonPlayerCaravan.description>TODO</AttackedNonPlayerCaravan.description>
+  <AttackedNonPlayerCaravan.description>Carbhán atá faoi ionsaí.</AttackedNonPlayerCaravan.description>
   
   <!-- EN: caravan -->
-  <Caravan.label>TODO</Caravan.label>
+  <Caravan.label>carbhán</Caravan.label>
   <!-- EN: A group of traveling people. -->
-  <Caravan.description>TODO</Caravan.description>
+  <Caravan.description>Grúpa taistealaithe.</Caravan.description>
   
   <!-- EN: destroyed settlement -->
-  <DestroyedSettlement.label>TODO</DestroyedSettlement.label>
+  <DestroyedSettlement.label>lonnaíocht scriosta</DestroyedSettlement.label>
   <!-- EN: A destroyed settlement. -->
-  <DestroyedSettlement.description>TODO</DestroyedSettlement.description>
+  <DestroyedSettlement.description>Lonnaíocht a leagadh go talamh.</DestroyedSettlement.description>
   
   <!-- EN: landed ship -->
-  <EscapeShip.label>TODO</EscapeShip.label>
+  <EscapeShip.label>spáslong</EscapeShip.label>
   <!-- EN: The location of a hidden ship which can help you escape the planet. -->
-  <EscapeShip.description>TODO</EscapeShip.description>
+  <EscapeShip.description>Spáslong rúnda. Tá seans ann go mbeidh tú éalú ón bpláinéad leis.</EscapeShip.description>
   
   <!-- EN: peace talks -->
-  <PeaceTalks.label>TODO</PeaceTalks.label>
+  <PeaceTalks.label>cainteanna síochána</PeaceTalks.label>
   <!-- EN: A site designated for peace talks. -->
-  <PeaceTalks.description>TODO</PeaceTalks.description>
+  <PeaceTalks.description>Suíomh roghnaithe do chainteanna síochána.</PeaceTalks.description>
   
   <!-- EN: waypoint -->
-  <RoutePlannerWaypoint.label>TODO</RoutePlannerWaypoint.label>
+  <RoutePlannerWaypoint.label>Treoirphointe</RoutePlannerWaypoint.label>
   <!-- EN: A temporary waypoint. -->
-  <RoutePlannerWaypoint.description>TODO</RoutePlannerWaypoint.description>
+  <RoutePlannerWaypoint.description>Treoirphointe sealadach.</RoutePlannerWaypoint.description>
   
   <!-- EN: settlement -->
-  <Settlement.label>TODO</Settlement.label>
+  <Settlement.label>Lonnaíocht</Settlement.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement.description>TODO</Settlement.description>
+  <Settlement.description>Lonnaíocht le ceann de na faicsin.</Settlement.description>
   
   <!-- EN: transport pods -->
-  <TravelingTransportPods.label>TODO</TravelingTransportPods.label>
+  <TravelingTransportPods.label>podanna iompair</TravelingTransportPods.label>
   <!-- EN: Transport pods in flight. -->
-  <TravelingTransportPods.description>TODO</TravelingTransportPods.description>
+  <TravelingTransportPods.description>Podanna iompair atá ag eitilt san aer.</TravelingTransportPods.description>
   
 </LanguageData>

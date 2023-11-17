@@ -1,44 +1,44 @@
-the weather
+an aimsir
 
-breakfast cereal
-breakfast
-dinner
-food
-lunchtime
-eating habits
-salty foods
-sweet foods
-savory foods
-bitter foods
+bricfeasta
+bricfeasta
+dinnéar
+bia
+am lóin
+cúrsaí bia
+bia milis
+milseáin
+bia
+bia
 
-favorite haircuts
-favorite clothes
-hairstyles
-fashion
-makeup
-beards
-facial hair
+stíleanna gruaige
+éadaí
+stíleanna gruaige
+faisean
+smidiú
+féasóga
+féasóga
 
-odd jobs
-kids' games
-entertainment
-games
-birthdays
-balloons
-drunkenness
-getting drunk
-parties
-vacations
-beautiful people
-fat people
-tall people
-short people
-guilty pleasures
-vomiting
-eating
-swimming
-sports
-beaches
+obair tí
+cluichí leanaí
+siamsaíocht
+cluichí
+laethanta breithe
+balúin
+an t-ól
+dul ar an drabhlás
+cóisirí
+laethanta saoire
+daoine áille
+daoine ramhra
+daoine arda
+daoine beaga
+caitheamh aimsire
+caitheamh aníos
+ithe
+snámh
+cúrsaí spóirt
+an trá
 
 animals
 cute animals

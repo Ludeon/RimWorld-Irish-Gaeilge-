@@ -2,170 +2,170 @@
 <LanguageData>
   
   <!-- EN: monkey -->
-  <Monkey.label>TODO</Monkey.label>
+  <Monkey.label>moncaí</Monkey.label>
   <!-- EN: left clavicle -->
-  <Monkey.corePart.parts.left_clavicle.customLabel>TODO</Monkey.corePart.parts.left_clavicle.customLabel>
+  <Monkey.corePart.parts.left_clavicle.customLabel>dealrachán clé</Monkey.corePart.parts.left_clavicle.customLabel>
   <!-- EN: right clavicle -->
-  <Monkey.corePart.parts.right_clavicle.customLabel>TODO</Monkey.corePart.parts.right_clavicle.customLabel>
+  <Monkey.corePart.parts.right_clavicle.customLabel>dealrachán deas</Monkey.corePart.parts.right_clavicle.customLabel>
   <!-- EN: left lung -->
-  <Monkey.corePart.parts.left_lung.customLabel>TODO</Monkey.corePart.parts.left_lung.customLabel>
+  <Monkey.corePart.parts.left_lung.customLabel>scamhóg chlé</Monkey.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <Monkey.corePart.parts.right_lung.customLabel>TODO</Monkey.corePart.parts.right_lung.customLabel>
+  <Monkey.corePart.parts.right_lung.customLabel>scamhóg dheas</Monkey.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <Monkey.corePart.parts.left_kidney.customLabel>TODO</Monkey.corePart.parts.left_kidney.customLabel>
+  <Monkey.corePart.parts.left_kidney.customLabel>duán clé</Monkey.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <Monkey.corePart.parts.right_kidney.customLabel>TODO</Monkey.corePart.parts.right_kidney.customLabel>
+  <Monkey.corePart.parts.right_kidney.customLabel>duán deas</Monkey.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>súil chlé</Monkey.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>súil dheas</Monkey.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
   <!-- EN: left ear -->
-  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>TODO</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>cluas chlé</Monkey.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
   <!-- EN: right ear -->
-  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>TODO</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>cluas dheas</Monkey.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: left shoulder -->
-  <Monkey.corePart.parts.left_shoulder.customLabel>TODO</Monkey.corePart.parts.left_shoulder.customLabel>
+  <Monkey.corePart.parts.left_shoulder.customLabel>gualainn chlé</Monkey.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>lámh chlé</Monkey.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left humerus -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>húiméireas clé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_humerus.customLabel>
   <!-- EN: left radius -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>ga clé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_radius.customLabel>
   <!-- EN: left hand -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>lámh chlé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>méar bheag chlé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left ring finger -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>méar fáinne chlé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_ring_finger.customLabel>
   <!-- EN: left middle finger -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>méar láir chlé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>corrmhéar chlé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ordóg clé</Monkey.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Monkey.corePart.parts.right_shoulder.customLabel>TODO</Monkey.corePart.parts.right_shoulder.customLabel>
+  <Monkey.corePart.parts.right_shoulder.customLabel>gualainn deas</Monkey.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>lámh dheas</Monkey.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right humerus -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>húiméireas deas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_humerus.customLabel>
   <!-- EN: right radius -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>ga deas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_radius.customLabel>
   <!-- EN: right hand -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>lámh dheas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>méar bheag dheas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right ring finger -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>méar fáinne dheas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_ring_finger.customLabel>
   <!-- EN: right middle finger -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>méar láir dheas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>corrmhéar dheas</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ordóg dea</Monkey.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Monkey.corePart.parts.left_leg.customLabel>TODO</Monkey.corePart.parts.left_leg.customLabel>
+  <Monkey.corePart.parts.left_leg.customLabel>cos chlé</Monkey.corePart.parts.left_leg.customLabel>
   <!-- EN: left femur -->
-  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>féimear clé</Monkey.corePart.parts.left_leg.parts.left_femur.customLabel>
   <!-- EN: left tibia -->
-  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>tibia clé</Monkey.corePart.parts.left_leg.parts.left_tibia.customLabel>
   <!-- EN: left foot -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>cos chlé</Monkey.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: left little toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>ladhar bheag chlé</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_little_toe.customLabel>
   <!-- EN: left fourth toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>ceathrú ladhar chlé</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_fourth_toe.customLabel>
   <!-- EN: left middle toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>ladhar láir chlé</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_middle_toe.customLabel>
   <!-- EN: left second toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>dara ladhar chlé</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_second_toe.customLabel>
   <!-- EN: left big toe -->
-  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>TODO</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
+  <Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>ladhar mhór chlé</Monkey.corePart.parts.left_leg.parts.left_foot.parts.left_big_toe.customLabel>
   <!-- EN: right leg -->
-  <Monkey.corePart.parts.right_leg.customLabel>TODO</Monkey.corePart.parts.right_leg.customLabel>
+  <Monkey.corePart.parts.right_leg.customLabel>cos dheas</Monkey.corePart.parts.right_leg.customLabel>
   <!-- EN: right femur -->
-  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>féimear deas</Monkey.corePart.parts.right_leg.parts.right_femur.customLabel>
   <!-- EN: right tibia -->
-  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>tibia deas</Monkey.corePart.parts.right_leg.parts.right_tibia.customLabel>
   <!-- EN: right foot -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>cos dheas</Monkey.corePart.parts.right_leg.parts.right_foot.customLabel>
   <!-- EN: right little toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>ladhar bheag dheas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_little_toe.customLabel>
   <!-- EN: right fourth toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>ceathrú ladhar dheas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_fourth_toe.customLabel>
   <!-- EN: right middle toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>ladhar láir dheas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_middle_toe.customLabel>
   <!-- EN: right second toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>dara ladhar dheas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_second_toe.customLabel>
   <!-- EN: right big toe -->
-  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>TODO</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
+  <Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>ladhar mhór dheas</Monkey.corePart.parts.right_leg.parts.right_foot.parts.right_big_toe.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithClawsTailAndJowl.label>TODO</QuadrupedAnimalWithClawsTailAndJowl.label>
+  <QuadrupedAnimalWithClawsTailAndJowl.label>ainmhí ceathairchosach</QuadrupedAnimalWithClawsTailAndJowl.label>
   <!-- EN: left lung -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>scamhóg chlé</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>scamhóg dheas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>duán clé</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>duán deas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>súil chlé</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>súil dheas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
   <!-- EN: left ear -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>cluas chlé</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
   <!-- EN: right ear -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>cluas dheas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>cos tosaigh chlé</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>cos tosaigh chlé, céad chrobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_first_claw.customLabel>
   <!-- EN: front left leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>cos tosaigh chlé, dara crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_second_claw.customLabel>
   <!-- EN: front left leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>cos tosaigh chlé, tríú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_third_claw.customLabel>
   <!-- EN: front left leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>cos tosaigh chlé, ceathrú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fourth_claw.customLabel>
   <!-- EN: front left leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>cos tosaigh chlé, cúigiú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_left_leg.parts.front_left_leg_fifth_claw.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>cos tosaigh dheas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>cos tosaigh dheas, céad chrobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_first_claw.customLabel>
   <!-- EN: front right leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>cos tosaigh dheas, dara crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_second_claw.customLabel>
   <!-- EN: front right leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>cos tosaigh dheas, tríú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_third_claw.customLabel>
   <!-- EN: front right leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>cos tosaigh dheas, ceathrú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fourth_claw.customLabel>
   <!-- EN: front right leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>cos tosaigh dheas, cúigiú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.front_right_leg.parts.front_right_leg_fifth_claw.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>cos chúil chlé</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>cos chúil chlé, céad chrobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_first_claw.customLabel>
   <!-- EN: rear left leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>cos chúil chlé, dara crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_second_claw.customLabel>
   <!-- EN: rear left leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>cos chúil chlé, tríú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_third_claw.customLabel>
   <!-- EN: rear left leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>cos chúil chlé, ceathrú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fourth_claw.customLabel>
   <!-- EN: rear left leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>cos chúil chlé, cúigiú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_left_leg.parts.rear_left_leg_fifth_claw.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>cos chúil dheas</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right leg first claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>cos chúil dheas, céad chrobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_first_claw.customLabel>
   <!-- EN: rear right leg second claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>cos chúil dheas, dara crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_second_claw.customLabel>
   <!-- EN: rear right leg third claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>cos chúil dheas, tríú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_third_claw.customLabel>
   <!-- EN: rear right leg fourth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>cos chúil dheas, ceathrú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fourth_claw.customLabel>
   <!-- EN: rear right leg fifth claw -->
-  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>TODO</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
+  <QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>cos chúil dheas, cúigiú crobh</QuadrupedAnimalWithClawsTailAndJowl.corePart.parts.rear_right_leg.parts.rear_right_leg_fifth_claw.customLabel>
   
   <!-- EN: quadruped animal -->
   <QuadrupedAnimalWithHooves.label>TODO</QuadrupedAnimalWithHooves.label>

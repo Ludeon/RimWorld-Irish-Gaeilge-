@@ -15,7 +15,7 @@
   <!-- EN: In prison cell: For prisoner use -->
   <InPrisonCell>I gcillín príosúin (do phriosúnaigh)</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>Do choilínigh</ForColonistUse>
+  <ForColonistUse>Le húsáid ag coilínigh</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>Leigheas</MedicalBed>
   <!-- EN: Owner -->
@@ -125,9 +125,9 @@
   <!-- EN: unknown -->
   <UnknownLower>ní fios</UnknownLower>
   <!-- EN: On -->
-  <On>Ar</On>
+  <On>Ar siúl</On>
   <!-- EN: Off -->
-  <Off>As</Off>
+  <Off>Múchta</Off>
   <!-- EN: Power -->
   <PowerSwitch_Power>Cumhacht</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
@@ -1077,7 +1077,7 @@
   <!-- EN: Oldest plant age -->
   <OldestPlantAge>Alter der ältesten Pflanze</OldestPlantAge>
   <!-- EN: Growing period -->
-  <OutdoorGrowingPeriod>Wachstumsperiode</OutdoorGrowingPeriod>
+  <OutdoorGrowingPeriod>Tréimhse fáis</OutdoorGrowingPeriod>
   <!-- EN: Never -->
   <NoGrowingPeriod>Nie</NoGrowingPeriod>
   <!-- EN: Year-round -->

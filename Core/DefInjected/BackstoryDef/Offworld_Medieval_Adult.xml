@@ -16,7 +16,7 @@
   <Herbalist54.titleShort>luibhlia</Herbalist54.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
-  <MedievalDoctor40.baseDesc>D'oibrigh [PAWN_nameDef] mar dhochtúir ar dhomhan meánaoiseach. Úsáideadh an chuisleoireacht go minic ar an bplaineád sin chun tinneas a chóireáil. </MedievalDoctor40.baseDesc>
+  <MedievalDoctor40.baseDesc>D'oibrigh [PAWN_nameDef] mar dhochtúir ar dhomhan meánaoiseach. Úsáideadh an chuisleoireacht go minic ar an bplaineád sin chun tinneas a chóireáil.</MedievalDoctor40.baseDesc>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>dochtúir meánaoiseach</MedievalDoctor40.title>
   <!-- EN: quack -->
@@ -30,7 +30,7 @@
   <MedievalFarmOaf58.titleShort>feirmeoir meánaoiseach</MedievalFarmOaf58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
-  <MedievalLord57.baseDesc>Tiarna ab ea [PAWN_nameDef] ar phláinéad réamhthionsclaíoch. Bhí sé de nós ag [PAWN_nameDef]. Mar gheall ar an bpribhléid sin, níor fhoghlaim [PAWN_nameDef] conas obair fhisiciúil a dhéanamh dá bharr. </MedievalLord57.baseDesc>
+  <MedievalLord57.baseDesc>Tiarna ab ea [PAWN_nameDef] ar phláinéad réamhthionsclaíoch. Bhí sé de nós ag [PAWN_nameDef]. Mar gheall ar an bpribhléid sin, níor fhoghlaim [PAWN_nameDef] conas obair fhisiciúil a dhéanamh dá bharr.</MedievalLord57.baseDesc>
   <!-- EN: medieval lord -->
   <MedievalLord57.title>tiarna meánaoiseach</MedievalLord57.title>
   <!-- EN: noble -->
@@ -44,7 +44,7 @@
   <MedievalMinstrel95.titleShort>oirfideach</MedievalMinstrel95.titleShort>
   
   <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
-  <MedievalSailor97.baseDesc>Thaistil [PAWN_nameDef] ar an bhfarraige i mbad adhmaid, sa tóir ar thíortha úra agus ainmnithe andúchasacha. </MedievalSailor97.baseDesc>
+  <MedievalSailor97.baseDesc>Thaistil [PAWN_nameDef] ar an bhfarraige i mbad adhmaid, sa tóir ar thíortha úra agus ainmnithe andúchasacha.</MedievalSailor97.baseDesc>
   <!-- EN: medieval sailor -->
   <MedievalSailor97.title>mairnéalach meánaoiseach</MedievalSailor97.title>
   <!-- EN: sailor -->

@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: animal products -->
-  <AnimalProductRaw.label>TODO</AnimalProductRaw.label>
+  <AnimalProductRaw.label>earraí ainmhithe</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>ainmhithe</Animals.label>
   
   <!-- EN: apparel -->
-  <Apparel.label>TODO</Apparel.label>
+  <Apparel.label>éadaí</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>armúr</ApparelArmor.label>
   
   <!-- EN: misc -->
-  <ApparelMisc.label>TODO</ApparelMisc.label>
+  <ApparelMisc.label>misc</ApparelMisc.label>
   
   <!-- EN: noble apparel -->
-  <ApparelNoble.label>TODO</ApparelNoble.label>
+  <ApparelNoble.label>éadaí uasal</ApparelNoble.label>
   
   <!-- EN: utility -->
-  <ApparelUtility.label>TODO</ApparelUtility.label>
+  <ApparelUtility.label>fóntas</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>ceann</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
-  <Artifacts.label>TODO</Artifacts.label>
+  <Artifacts.label>déantúsáin</Artifacts.label>
   
   <!-- EN: body parts -->
-  <BodyParts.label>TODO</BodyParts.label>
+  <BodyParts.label>baill choirp</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>arcai-teicneolaíocht</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bitheonach</BodyPartsBionic.label>
   
   <!-- EN: mechtech -->
-  <BodyPartsMechtech.label>TODO</BodyPartsMechtech.label>
+  <BodyPartsMechtech.label>meicea-teicneolaíocht</BodyPartsMechtech.label>
   
   <!-- EN: natural -->
-  <BodyPartsNatural.label>TODO</BodyPartsNatural.label>
+  <BodyPartsNatural.label>nádúrtha</BodyPartsNatural.label>
   
   <!-- EN: prosthetic -->
-  <BodyPartsProsthetic.label>TODO</BodyPartsProsthetic.label>
+  <BodyPartsProsthetic.label>próistéiteach</BodyPartsProsthetic.label>
   
   <!-- EN: simple parts -->
-  <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
+  <BodyPartsSimple.label>comhpháirteanna simplí</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultra-teicneolaíocht</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
-  <Buildings.label>TODO</Buildings.label>
+  <Buildings.label>foirgnimh</Buildings.label>
   
   <!-- EN: art -->
-  <BuildingsArt.label>TODO</BuildingsArt.label>
+  <BuildingsArt.label>ealaín</BuildingsArt.label>
   
   <!-- EN: furniture -->
-  <BuildingsFurniture.label>TODO</BuildingsFurniture.label>
+  <BuildingsFurniture.label>troscán</BuildingsFurniture.label>
   
   <!-- EN: recreation -->
-  <BuildingsJoy.label>TODO</BuildingsJoy.label>
+  <BuildingsJoy.label>siamsaíocht</BuildingsJoy.label>
   
   <!-- EN: misc -->
-  <BuildingsMisc.label>TODO</BuildingsMisc.label>
+  <BuildingsMisc.label>misc</BuildingsMisc.label>
   
   <!-- EN: power -->
-  <BuildingsPower.label>TODO</BuildingsPower.label>
+  <BuildingsPower.label>cumhacht</BuildingsPower.label>
   
   <!-- EN: production -->
   <BuildingsProduction.label>TODO</BuildingsProduction.label>

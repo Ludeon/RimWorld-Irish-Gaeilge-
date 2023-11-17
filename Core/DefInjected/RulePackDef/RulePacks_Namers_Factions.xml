@@ -141,7 +141,57 @@
     <li>townend->ron</li>
     <li>townend->well</li>
   -->
-  <NamerSettlementOutlander.rulePack.rulesStrings>TODO</NamerSettlementOutlander.rulePack.rulesStrings>
+  <NamerSettlementOutlander.rulePack.rulesStrings>
+  <li>r_name(p=12)->[townname_wordgen]</li>
+    <li>r_name(p=6)->[townname_fixed]</li>
+    <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_near]</li>
+    <li>topicalnoun->[Vegetable]</li>
+    <li>topicalnoun->[Game]</li>
+    <li>topicalnoun->[BodyPart]</li>
+    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+    <li>townname_combo->[topicalnoun] [Community]</li>
+    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
+    <li>townname_combo->[Community] [topicalnoun]</li>
+    <li>townname_combo(p=2)->[TerrainFeature] [concept_positive]</li>
+    <li>townname_combo(p=2)->[TerrainFeature] [concept_positive] </li>
+    <li>townname_combo(p=2)->[Community] [concept_positive]</li>
+    <li>townname_combo(p=3)->[TerrainFeature] [Character]</li>
+    <li>townname_combo(p=3)->[Community] [Character]</li>
+    <li>townname_near->[nearnameinitial] ag an [TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial] ag an [TerrainFeature]</li>
+    <li>townname_near->[nearnameinitial] ar an [TerrainFeature]</li>
+    <li>nearnameinitial->[townname_wordgen]</li>
+    <li>nearnameinitial->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townend]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
+    <li>townname_wordgen->[TerrainFeature][townend]</li>
+    <li>townname_wordgen->[topicalnoun][townend]</li>
+    <li>townend->bhaile</li>
+    <li>townend->bhaile</li>
+    <li>townend->harts</li>
+    <li>townend->borna</li>
+    <li>townend->brad</li>
+    <li>townend->dála</li>
+    <li>townend->halla</li>
+    <li>townend->ach</li>
+    <li>townend->nach</li>
+    <li>townend->mara</li>
+    <li>townend->nan</li>
+    <li>townend->sa</li>
+    <li>townend->tan</li>
+    <li>townend->stan</li>
+    <li>townend->os</li>
+    <li>townend->dan</li>
+    <li>townend->tas</li>
+    <li>townend->vódan</li>
+    <li>townend->tír</li>
+    <li>townend->bhard</li>
+    <li>townend->talamh</li>
+    <li>townend->ran</li>
+    <li>townend->tobar</li></NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=4)->[townname_combo]</li>
@@ -185,7 +235,47 @@
     <li>townendevil->thard</li>
     <li>townendevil->thad</li>
   -->
-  <NamerSettlementPirate.rulePack.rulesStrings>TODO</NamerSettlementPirate.rulePack.rulesStrings>
+  <NamerSettlementPirate.rulePack.rulesStrings>
+  <li>r_name(p=4)->[townname_combo]</li>
+    <li>r_name->[townname_wordgen]</li>
+    <li>townname_combo->[geography] [AnimalBadass]</li>
+    <li>townname_combo->[geography] [AnimalBadass]</li>
+    <li>townname_combo->[ConceptBadass] [geography]</li>
+    <li>townname_combo->[ConceptBadass] [geography]</li>
+    <li>townname_combo->[PersonBadass] [geography]</li>
+    <li>townname_combo->[geography] [PersonBadass] </li>
+    <li>townname_combo->[geography] [Enemy]</li>
+    <li>townname_combo->[geography] [Enemy] </li>
+    <li>townname_combo->[geography] [Weapon]</li>
+    <li>townname_combo->[Weapon] [geography]</li>
+    <li>townname_combo->[geography] [ColorBadass]</li>
+    <li>geography(p=2)->[TerrainFeature]</li>
+    <li>geography->[Community]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
+    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
+    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
+    <li>townendevil->vas</li>
+    <li>townendevil->varg</li>
+    <li>townendevil->vax</li>
+    <li>townendevil->tar</li>
+    <li>townendevil->tar</li>
+    <li>townendevil->cat</li>
+    <li>townendevil->lap</li>
+    <li>townendevil->osa</li>
+    <li>townendevil->osal</li>
+    <li>townendevil->lat</li>
+    <li>townendevil->loch</li>
+    <li>townendevil->bharr</li>
+    <li>townendevil->sár</li>
+    <li>townendevil->sonc</li>
+    <li>townendevil->hart</li>
+    <li>townendevil->vás</li>
+    <li>townendevil->vár</li>
+    <li>townendevil->vag</li>
+    <li>townendevil->tat</li>
+    <li>townendevil->tad</li>
+    <li>townendevil->tad</li></NamerSettlementPirate.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=2)->[WordTribal]</li>

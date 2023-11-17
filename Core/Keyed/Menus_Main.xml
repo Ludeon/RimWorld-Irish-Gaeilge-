@@ -343,15 +343,15 @@
   <!-- EN: Difficulty -->
   <Difficulty>Deacracht</Difficulty>
   <!-- EN: Commitment mode -->
-  <CommitmentMode>Mód: ceangaltas</CommitmentMode>
+  <CommitmentMode>Sábháil nuair a dhúntar an cluiche</CommitmentMode>
   <!-- EN: Reload anytime mode -->
-  <ReloadAnytimeMode>Mód: athlódáil ag aon am</ReloadAnytimeMode>
+  <ReloadAnytimeMode>Sábháil agus athlódáil ag aon am</ReloadAnytimeMode>
   <!-- EN: Please choose commitment mode or reload anytime mode. -->
-  <MustChoosePermadeath>Roghnaidh mód: ceangaltas nó mód: athlódáil ag aon am.</MustChoosePermadeath>
+  <MustChoosePermadeath>Ní mór mód sábhála a roghnú.</MustChoosePermadeath>
   <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
-  <ReloadAnytimeModeInfo>Is féidir an cluiche a shábháil agus a athlódáil ag aon am.\n\nDieser Modus ist in folgenden Fällen empfehlenswert:\n\n- Du lernst das Spiel gerade erst kennen\n- Er passt zu deinem Spielstil\n- Du verwendest unsichere Mods\n- Du kannst dir den Hardcore-Modus selbst auferlegen</ReloadAnytimeModeInfo>
+  <ReloadAnytimeModeInfo>Is féidir an cluiche a shábháil agus a athlódáil ag aon am.\n\nIs fearr an socrú seo a roghnú:\n\n- Má tá tú ag foghlaim conas Rimworld a imirt\n- Má thagann sé le do stíl imeartha\n- Má tá tú ag baint úsáide as modanna.</ReloadAnytimeModeInfo>
   <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
-  <PermadeathModeInfo>Du kannst nur speichern, wenn du das Spiel beendest.\n\nRimWorld ist ein Geschichtengenerator. Selbst wenn man alle bis auf eine Person verliert, ist das nicht das Ende des Spiels - es ist Teil der Geschichte.\n\nSich solchen Situationen zu stellen, macht die Geschichte aus. Eine Geschichte von Tragik und Triumph. RimWorld wurde für diese Spielweise entwickelt.\n\nEs hat schon seinen Grund, warum Luke Skywalker nach dem Tod seiner Familie nicht aufgegeben und neu geladen hat - Verlust und Erholung sind Teil des Dramas!</PermadeathModeInfo>
+  <PermadeathModeInfo>Ní féidir sábháil ach nuair a dhúntar an cluiche.\n\nCluiche scéalaíochta is ea Rimworld, agus is cuid den scéal iad na heachtraí a tharlaíonn agus tú ag imirt.\n\nSeo an bealach a raibh sé beartaithe Rimworld a imirt nuair a cruthaíodh an cluiche.\n\nMá roghnaítear an socrú seo, ní bheidh tú in ann athlódáil agus dul siar má tharlaíonn eachtra tubáisteach.</PermadeathModeInfo>
   <!-- EN: Storyteller and playstyle can be changed any time. -->
   <CanChangeStorytellerSettingsDuringPlay>Is féidir an Scéalaí agus an mód imeartha a athrú ag aon am.</CanChangeStorytellerSettingsDuringPlay>
 

@@ -2,74 +2,74 @@
 <LanguageData>
   
   <!-- EN: beer brewing -->
-  <Brewing.label>TODO</Brewing.label>
+  <Brewing.label>déantús alcóil</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
-  <Brewing.description>TODO</Brewing.description>
+  <Brewing.description>Tóg grúdlann agus damhcha coipthe chun beoir a dhéanamh as leannlusanna.</Brewing.description>
   
   <!-- EN: carpet making -->
-  <CarpetMaking.label>TODO</CarpetMaking.label>
+  <CarpetMaking.label>déantús cáirpéad</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>TODO</CarpetMaking.description>
+  <CarpetMaking.description>Déan cáipéid áille as éadach.</CarpetMaking.description>
   
   <!-- EN: cocoa -->
-  <Cocoa.label>TODO</Cocoa.label>
+  <Cocoa.label>cócó</Cocoa.label>
   <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
-  <Cocoa.description>TODO</Cocoa.description>
+  <Cocoa.description>Cuir crainn cócó chun do sheacláid féin a dhéanamh. Is maith le coilínigh seacláid a ithe, agus is féidir é a dhíol ar an margadh freisin.</Cocoa.description>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>TODO</ComplexClothing.label>
+  <ComplexClothing.label>éadaí casta</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
-  <ComplexClothing.description>TODO</ComplexClothing.description>
+  <ComplexClothing.description>Déan éadaí casta, ar nós bríste, dustair agus hataí.</ComplexClothing.description>
   
   <!-- EN: complex furniture -->
-  <ComplexFurniture.label>TODO</ComplexFurniture.label>
+  <ComplexFurniture.label>troscán casta</ComplexFurniture.label>
   <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
-  <ComplexFurniture.description>TODO</ComplexFurniture.description>
+  <ComplexFurniture.description>Déan troscán casta ar nós leapacha, boird, cathaoireacha, toilg, caibinéid, agus mar sin de.</ComplexFurniture.description>
   
   <!-- EN: devilstrand -->
-  <Devilstrand.label>TODO</Devilstrand.label>
+  <Devilstrand.label>diabhalraithneach</Devilstrand.label>
   <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
-  <Devilstrand.description>TODO</Devilstrand.description>
+  <Devilstrand.description>Muisiriún is ea diabhalraithneach, as a thagann snáithíní an-chrua dófhriotaíocha. Is féidir éadaí a dhéanamh as, ach fásann sé go mall.   </Devilstrand.description>
   
   <!-- EN: drug production -->
-  <DrugProduction.label>TODO</DrugProduction.label>
+  <DrugProduction.label>déantús drugaí</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>TODO</DrugProduction.description>
+  <DrugProduction.description>Tóg saotharlann chun drugaí bunúsacha a chruthú. Tá tuilleadh taighde de dhíth chun drugaí áirithe a dhéanamh.</DrugProduction.description>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>TODO</GoJuiceProduction.label>
+  <GoJuiceProduction.label>déantús go-juice</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>TODO</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Druga sintéiseach a chuireann leis an bhfeidhmiú is ea go-juice. Cuireann sé le scileanna troda agus gluaiseachta, agus cuireann sé bac ar an bpian.</GoJuiceProduction.description>
   
   <!-- EN: greatbow -->
-  <Greatbow.label>TODO</Greatbow.label>
+  <Greatbow.label>bogha mór</Greatbow.label>
   <!-- EN: Craft greatbows for killing enemies at great range. -->
-  <Greatbow.description>TODO</Greatbow.description>
+  <Greatbow.description>Déan boghanna móra chun naimhde a mharú ó i bhfad i gcéin.</Greatbow.description>
   
   <!-- EN: long blades -->
-  <LongBlades.label>TODO</LongBlades.label>
+  <LongBlades.label>lanna fada</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
-  <LongBlades.description>TODO</LongBlades.description>
+  <LongBlades.description>Déan lanna fada agus sleánna.</LongBlades.description>
   
   <!-- EN: passive cooler -->
-  <PassiveCooler.label>TODO</PassiveCooler.label>
+  <PassiveCooler.label>fuaraitheoir uathoibríoch</PassiveCooler.label>
   <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
-  <PassiveCooler.description>TODO</PassiveCooler.description>
+  <PassiveCooler.description>Déan fuarathóirí uathoibríoch, chun seomra a dhéanamh níos fuaire gan leictreachas.</PassiveCooler.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>peimicean</Pemmican.label>
   <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Déan peimicean, bia déanta as feoil agus plandaí. Ní théann peimicean as dáta as tá sé iontach don taisteal.</Pemmican.description>
   
   <!-- EN: penoxycyline production -->
-  <PenoxycylineProduction.label>TODO</PenoxycylineProduction.label>
+  <PenoxycylineProduction.label>déantús peanocsaicílíne</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
-  <PenoxycylineProduction.description>TODO</PenoxycylineProduction.description>
+  <PenoxycylineProduction.description>Déan peanocsaicílín. Cuireann an druga seo cosc ar an bplá, ar maláire agus ar go leor galair eile.</PenoxycylineProduction.description>
   
   <!-- EN: plate armor -->
-  <PlateArmor.label>TODO</PlateArmor.label>
+  <PlateArmor.label>caithéide</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>TODO</PlateArmor.description>
+  <PlateArmor.description>Déan caithéide as miotal nó admhad. Tá cosaint mhaith ag an gcathéide seo, ach bíonn ar an té a chaitheann bogadh go mall.</PlateArmor.description>
   
   <!-- EN: psychite refining -->
   <PsychiteRefining.label>TODO</PsychiteRefining.label>
@@ -92,14 +92,14 @@
   <Smithing.description>TODO</Smithing.description>
   
   <!-- EN: stonecutting -->
-  <Stonecutting.label>TODO</Stonecutting.label>
+  <Stonecutting.label>gearradh cloch</Stonecutting.label>
   <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
-  <Stonecutting.description>TODO</Stonecutting.description>
+  <Stonecutting.description>Déan blocaí agus brící as clocha. Is féidir tílí áille cloiche nó urláir coincréite a dhéanamh leo.</Stonecutting.description>
   
   <!-- EN: tree sowing -->
-  <TreeSowing.label>TODO</TreeSowing.label>
+  <TreeSowing.label>síolú crann</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
-  <TreeSowing.description>TODO</TreeSowing.description>
+  <TreeSowing.description>Cuir crainn áitiúla an cheantair i do pháirceanna.</TreeSowing.description>
   
   <!-- EN: wake-up production -->
   <WakeUpProduction.label>TODO</WakeUpProduction.label>
