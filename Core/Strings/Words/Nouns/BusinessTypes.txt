@@ -1,18 +1,18 @@
-﻿Company
-Partners
-Corporation
-Traders
-Industries
-Incorporated
-Travelers
-Interplanetary
-Shipping
-Export Company
-Import Company
-Transport Company
-Transit Company
-Securities
-Solutions
-Consortium
-Interstellar
-Lubricants
+﻿Comhlacht
+Pairtnéirí
+Corparáid
+Trádálaithe
+Tionscal
+Ionchorporaithe
+Tastealaithe
+Idir-phlainéadach
+Lastála
+Comhlacht Easpórtála
+Comhlacht Iompórtála
+Comhlacht Iompair
+Comhlacht Iompair
+Sábháilteacht
+Comhlacht
+Cuibhreannas
+Idir-réaltacht
+Ola

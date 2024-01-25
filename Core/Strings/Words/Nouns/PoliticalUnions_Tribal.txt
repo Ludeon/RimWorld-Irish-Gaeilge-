@@ -1,16 +1,16 @@
 ﻿//Common with outlanders
-union
-nation
-confederacy
-confederation
-alliance
-league
-covenant
-treaty
-pact
-coalition
+aontas
+náisiún
+cónaidhm
+cónaidhm
+comhghuaillíocht
+léig
+conradh
+conradh
+comhaontas
+comhaontas
 
 //Tribe specific
-kinship
-people
-tribe
+dream
+muintir
+treabh

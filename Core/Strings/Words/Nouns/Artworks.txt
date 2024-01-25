@@ -1,52 +1,52 @@
-﻿artwork
-art
-work
-item
-piece
+﻿ealaín
+ealaín
+píosa
+píosa
+píosa
 
-oeuvre
-expression
-attempt
-untitled
-titled
+obair
+léiriúchán
+iarracht
+gan teideal
+le teideal
 
-shape
-form
-image
-shot
-picture
-portrait
-still
+cruth
+foirm
+íomhá
+iarracht
+pictiúr
+pictiúr
+seait
 
-poem
+dán
 
-lullaby
-song
-tune
-rhythm
-beat
+suantraí
+amhrán
+tiún
+streancán
+tiún
 
-codex
-book
+coidéacs 
+leabhar
 
-cuboid
-circloid
-parabolic
-cubic
-curvelike
-curve
+ciúb
+sféar
+parabóileach
+ciúbach
+cuarach
+cuar
 
-mirror
-day
-vomit
-sweat
-shadow
+scáthán
+lá
+múisc
+allas
+scáth
 
-freedom
-vision
-love
-divinity
-wisdom
-shame
-death
-darkness
+saoirse
+fís
+grá 
+diagacht
+gaois 
+náire
+bás
+dorchadas

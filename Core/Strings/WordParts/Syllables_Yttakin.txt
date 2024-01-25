@@ -1,66 +1,66 @@
 bar
 ban
 bak
-by
-bytt
-by
+ba
+batt
+ba
 
 dul
 dur
 du
 do
-de
-dy
+da
+da
 
 fa
-fy
+fa
 
 ha
-ho
-ho
-hys
+ha
+há
+has
 
-itt
+ath
 
-kysh
-kin
-kon
-kov
-ko
-kott
-ku
-kol
-kel
-kys
+chas
+chan
+chon
+chav
+cha
+chat
+chál
+chl
+chal
+chás
 
 ra
-ro
-raw
-ry
-rysh
+ra
+rá
+rá
+rás
 
 or
-osh
-oy
+os
+ós
 
-she
-sho
-sha
-shel
-sytt
+sa
+sa
+sá
+sál
+sát
 
-woo
-wo
-wu
-wuk
-wush
-wan
-wak
-wtt
-wytt
-wysh
+vo
+vo
+vu
+vach
+vas
+van
+vach
+vath
+vath
+vas
 
-ytt
-yo
-ya
-ye
+-ath
+-ach
+-ach
+-ach

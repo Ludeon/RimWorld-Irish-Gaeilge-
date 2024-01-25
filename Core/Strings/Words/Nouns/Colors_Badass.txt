@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+dearg
+dubh
+liath
+dúdhonn
 
-dark
-shadow
-night
+dorcha
+dorcha
+dorcha

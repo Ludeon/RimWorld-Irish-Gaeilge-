@@ -1,19 +1,19 @@
 ﻿//Common with tribals
-union
-nation
-confederacy
-confederation
-alliance
-covenant
-treaty
-pact
-coalition
+aontas
+náisiún
+cónaidhm
+cónaidhm
+aontas
+conradh 
+conradh 
+comhaontú
+comhaontú
 
 //Outlander specific (different from empire)
-federation
-league
-compact
-accord
-concord
-amalgamation
-unification
+cónaidhm
+léig
+complachtas
+comhaontú
+comhaontú
+cónascadh
+aontas

@@ -61,7 +61,7 @@
   <!-- EN: Plan -->
   <DesignatorPlan>Pleanáil</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Cuir síos pleananna. Ní aon fheidhm ag na marcanna seo, ach cuidíonn siad leat na forbairtí a dhéanfaidh tú amach anseo a phleanáil amach.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Cuir síos pleananna. Níl aon fheidhm ag na marcanna seo, ach cuidíonn siad leat na forbairtí a dhéanfaidh tú amach anseo a phleanáil amach.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Scrios pleananna</DesignatorPlanRemove>

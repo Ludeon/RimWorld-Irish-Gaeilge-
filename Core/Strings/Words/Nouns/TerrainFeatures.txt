@@ -1,52 +1,52 @@
-﻿plain
-expanse
-grassland
-plateau
-prairie
-desert
-field
+﻿machaire
+machaire
+féarach
+ardchlár
+féarthalamh
+fásach
+páirc
 
-forest
-tree
-thicket
-bramble
+foraois
+crann
+mothar
+dris
 
-boulder
-rock
-quarry
-stone
+bollán
+cloch
+cairéal
+carraig
 
-mountain
-hill
-mesa
-cliff
-bluff
+sliabh
+cnoc
+méasa
+aill
+leathaill
 crag
-ridge
-valley
-canyon
-gorge
+mullach
+gleann
+cainneon
+scornach
 
-oasis
-meadow
+ósais
+cluain
 
-cave
+pluais
 
-river
-stream
-creek
-brook
-delta
-inlet
-sound
-cove
+abhann
+cainéal
+sruthán
+cuaisín
+deilt
+bearna
+béal
+cóbh
 
-lake
-ocean
-pond
-basin
-lagoon
-pit
-swamp
-tarpit
-mire
+loch
+farraige
+lochán
+abhantrach
+murlach
+poll
+seascann
+poll tarra
+portach
