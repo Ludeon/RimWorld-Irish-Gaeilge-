@@ -250,7 +250,7 @@
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>Dearadh an cluiche chun go bhfeidhmeoidh sé le léarscáileanna meánacha. Tá go leor spáis ar na léarscáileanna sin!\n\nLaghdófar feidhmíocht do ríomhaire le léarscáil an-mhór, agus ní fheidhmeoidh an cluiche i gceart. Déanfaidh an IS cinntí amaideacha, agus beidh cothromaíocht an chluiche as alt. Cuirtear na méideanna seo ar fáil chun críoch tástála amháin, ach ná bain úsáid astu gan chúis mhaith</MapSizePerformanceWarning>
   <!-- EN: Map size -->
-  <MapSize>Achar na léarscáileanna</MapSize>
+  <MapSize>Achar na léarscáile</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
   <MapSizeDesc>{0}x{0} ({1} cill)</MapSizeDesc>
   <!-- EN: Small -->
@@ -311,7 +311,7 @@
   <!-- EN: Note: Small-volume ingredients like gold require {0}x as much. -->
   <BillRequiresMayVary>Nóta: Tá {0}x níos mó ag teastáil i gcás comhábhar ar nós ór.</BillRequiresMayVary>
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
-  <ThisIsSmallVolume>Dies ist eine kleinvolumige Zutat. Das bedeutet, dass jede 'Einheit' nur 1/{0} der Menge einer normalvolumigen Zutat ausmacht. Um den gleichen Bedarf an Zutaten zu decken, brauchst du also die {0}-fache Menge.</ThisIsSmallVolume>
+  <ThisIsSmallVolume>Comhábhar beag is ea é seo. Ciallaíon sé sin nach bhfuil gach 'aonad' ach 1/{0} chomh mór le gnáth-chomhábhar. Mar sin, chun aon riachtanais a líonadh, beidh {0}x níos mó den chomhabhar seo de dhíth ort.</ThisIsSmallVolume>
   <!-- EN: ingredients -->
   <UsableIngredients>Zutaten</UsableIngredients>
   <!-- EN: To {0} -->

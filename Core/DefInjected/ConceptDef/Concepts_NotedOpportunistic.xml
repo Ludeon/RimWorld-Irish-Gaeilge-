@@ -103,7 +103,7 @@
   <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
   <Shelves.helpText>TODO</Shelves.helpText>
   
-  <!-- EN: Shield belts -->
+  <!-- EN: s -->
   <ShieldBelts.label>TODO</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
   <ShieldBelts.helpText>TODO</ShieldBelts.helpText>

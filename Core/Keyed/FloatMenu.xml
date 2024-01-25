@@ -2,65 +2,65 @@
 <LanguageData>
 
   <!-- EN: Call {0} -->
-  <CallOnRadio>Kontaktiere {0}</CallOnRadio>
+  <CallOnRadio>Glaoigh {0}</CallOnRadio>
   <!-- EN: Cannot use: {0} -->
-  <CannotUseReason>Kann nicht nutzen: {0}</CannotUseReason>
+  <CannotUseReason>Ní féidir seo a úsáid: {0}</CannotUseReason>
   <!-- EN: Cannot use: EMP -->
-  <CannotUseSolarFlare>Kann nicht nutzen: EMP</CannotUseSolarFlare>
+  <CannotUseSolarFlare>Ní féidir seo a úsáid: EMP</CannotUseSolarFlare>
   <!-- EN: Cannot use: No power -->
-  <CannotUseNoPower>Kann nicht nutzen: Kein Strom</CannotUseNoPower>
+  <CannotUseNoPower>Ní féidir seo a úsáid: Níl aon chumhacht</CannotUseNoPower>
   <!-- EN: Cannot use: No path -->
-  <CannotUseNoPath>Kann nicht nutzen: Kein Weg</CannotUseNoPath>
+  <CannotUseNoPath>Ní féidir seo a úsáid: Níor aimsíodh bealach</CannotUseNoPath>
   <!-- EN: Cannot use: Reserved -->
-  <CannotUseReserved>Kann nicht nutzen: Reserviert</CannotUseReserved>
+  <CannotUseReserved>Ní féidir seo a úsáid: Curtha in áirithint</CannotUseReserved>
   <!-- EN: Cannot use: Full -->
-  <CannotUseFull>Kann nicht nutzen: Voll</CannotUseFull>
+  <CannotUseFull>Ní féidir seo a úsáid: Lán</CannotUseFull>
   <!-- EN: leader {1_labelShort} is unavailable -->
-  <LeaderUnavailable>Anführer {1_labelShort} ist nicht erreichbar</LeaderUnavailable>
+  <LeaderUnavailable>Níl ceannaire {1_labelShort} ar fáil</LeaderUnavailable>
   <!-- EN: leader is unavailable -->
-  <LeaderUnavailableNoLeader>Anführer ist nicht erreichbar</LeaderUnavailableNoLeader>
+  <LeaderUnavailableNoLeader>Níl an ceannaire ar fáil</LeaderUnavailableNoLeader>
   <!-- EN: Not allowed -->
-  <NotAllowed>Nicht erlaubt</NotAllowed>
+  <NotAllowed>Ní cheadaítear é seo</NotAllowed>
   
   <!-- EN: Fire at {1_label} -->
-  <FireAt>Schieße auf {1_label}</FireAt>
+  <FireAt>Scaoil ar {1_label}</FireAt>
 
   <!-- EN: out of range -->
-  <OutOfRange>außer Reichweite</OutOfRange>
+  <OutOfRange>as raon</OutOfRange>
   <!-- EN: too close -->
-  <TooClose>zu nah</TooClose>
+  <TooClose>róchóngarach</TooClose>
   <!-- EN: Cannot hit target -->
-  <CannotHitTarget>kann Ziel nicht treffen</CannotHitTarget>
+  <CannotHitTarget>Ní féidir an targaid a bhualadh</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
-  <IsIncapableOfViolenceLower>{1_labelShort} verweigert Gewalt</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>Níl {1_labelShort} tugtha don fhoréigean</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
-  <IncapableOfViolenceLower>verweigert Gewalt</IncapableOfViolenceLower>
+  <IncapableOfViolenceLower>foréigean coiscthe</IncapableOfViolenceLower>
   <!-- EN: {0_labelShort} is incapable of shooting -->
-  <IsIncapableOfShootingLower>{0_labelShort} kann nicht schießen</IsIncapableOfShootingLower>
+  <IsIncapableOfShootingLower>Ní féidir le {0_labelShort} scaoileadh</IsIncapableOfShootingLower>
   <!-- EN: {1_labelShort} is not drafted -->
-  <IsNotDraftedLower>{1_labelShort} ist nicht im Kampfmodus</IsNotDraftedLower>
+  <IsNotDraftedLower>Níl {1_labelShort} dréachtaithe</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
-  <CannotOrderNonControlledLower>fremde Charaktere können nicht befehligt werden</CannotOrderNonControlledLower>
+  <CannotOrderNonControlledLower>Ní féidir orduithe a thabhairt do charactair nach bhfuil smacht agat orthu</CannotOrderNonControlledLower>
   <!-- EN: cannot attack self -->
-  <CannotAttackSelf>kann nicht sich selbst angreifen</CannotAttackSelf>
+  <CannotAttackSelf>Ní féidir féin-ionsaí a dhéanamh</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>kann Fraktionsverbündeten nicht angreifen</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>Ní féidir comrádaí faicsin a ionsú</CannotAttackSameFactionMember>
   <!-- EN: Incapable of firefighting. -->
-  <IncapableOfFirefighting>Verweigert Feuerwehr.</IncapableOfFirefighting>
+  <IncapableOfFirefighting>Troid dóiteáin coiscthe.</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>Bemanne {1_labelShort}</OrderManThing>
+  <OrderManThing>Fear {1_labelShort}</OrderManThing>
   
   <!-- EN: Melee attack {1_label} -->
-  <MeleeAttack>Attackiere {1_label} im Nahkampf</MeleeAttack>
+  <MeleeAttack>Ionsaigh {1_label} de láimh</MeleeAttack>
   <!-- EN: Melee attack {1_label} to death -->
-  <MeleeAttackToDeath>Töte {1_label} im Nahkampf</MeleeAttackToDeath>
+  <MeleeAttackToDeath>Maraigh {1_label} de láimh</MeleeAttackToDeath>
   <!-- EN: no path -->
-  <NoPath>kein Weg</NoPath>
+  <NoPath>níl aon bhealach ann</NoPath>
   <!-- EN: burying -->
-  <Burying>Beerdigen von</Burying>
+  <Burying>á adhlacadh</Burying>
   <!-- EN: designated for {0} -->
-  <DesignatedFor>für {0} markiert</DesignatedFor>
+  <DesignatedFor>le {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
   <ForbiddenLower>verboten</ForbiddenLower>
