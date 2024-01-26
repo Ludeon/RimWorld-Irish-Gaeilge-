@@ -141,335 +141,335 @@
   <!-- EN: Fertilized -->
   <Fertilized>toirchithe</Fertilized>
   <!-- EN: Progress stopped until fertilized -->
-  <ProgressStoppedUntilFertilized>Fortschritt gestoppt, wartet auf Befruchtung</ProgressStoppedUntilFertilized>
+  <ProgressStoppedUntilFertilized>Stopadh an dul chun cinn go dtí  toirchithe</ProgressStoppedUntilFertilized>
   <!-- EN: Hatches in -->
-  <HatchesIn>Schlüpft in</HatchesIn>
+  <HatchesIn>Ag teacht amach i gceann</HatchesIn>
   <!-- EN: need {0} level {2}, have {1} -->
-  <SkillTooLow>benötigt {0} Stufe {2}, hat {1}</SkillTooLow>
+  <SkillTooLow>tá {0} ag leibhéal {2} de dhíth, níl agat ach {1}</SkillTooLow>
   <!-- EN: Freezing -->
-  <Freezing>Gefriert</Freezing>
+  <Freezing>Reoite</Freezing>
   <!-- EN: Overheating -->
-  <Overheating>Überhitzt</Overheating>
+  <Overheating>Róthe</Overheating>
   <!-- EN: Ruined by temperature. -->
-  <RuinedByTemperature>Ruiniert durch Temperatur.</RuinedByTemperature>
+  <RuinedByTemperature>Sciosta ag an teas.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>Fehlende Körperteile</CorpsePercentMissing>
+  <CorpsePercentMissing>Baill choirp is easnamh</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
-  <HiveReproducesIn>Zeit bis zur Vermehrung</HiveReproducesIn>
+  <HiveReproducesIn>Ag síolrú i gceann:</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
-  <DormantHiveNotReproducing>Inaktiv: Vermehrt sich nicht.</DormantHiveNotReproducing>
+  <DormantHiveNotReproducing>Neamghníomach: níl sé ag síolrú.</DormantHiveNotReproducing>
   <!-- EN: Next {0} in -->
-  <NextSpawnedItemIn>Erzeugt {0} in</NextSpawnedItemIn>
+  <NextSpawnedItemIn>An cheann ceann eile i: {0}n</NextSpawnedItemIn>
   <!-- EN: Next resource in -->
-  <NextSpawnedResourceIn>Nächste Ressource in</NextSpawnedResourceIn>
+  <NextSpawnedResourceIn>An chead acmhainn eile i</NextSpawnedResourceIn>
   <!-- EN: Broken down -->
-  <BrokenDown>Defekt</BrokenDown>
+  <BrokenDown>Briste</BrokenDown>
   <!-- EN: (bond) -->
-  <BondBrackets>(Bindung)</BondBrackets>
+  <BondBrackets>(nasc)</BondBrackets>
   <!-- EN: Fuel -->
-  <Fuel>Brennstoff</Fuel>
+  <Fuel>Breosla</Fuel>
   <!-- EN: Fuel -->
-  <FuelLevelGizmoLabel>Brennstoff</FuelLevelGizmoLabel>
+  <FuelLevelGizmoLabel>Breosla</FuelLevelGizmoLabel>
   <!-- EN: Set target fuel level to {0} -->
-  <SetTargetFuelLevel>Setze max. Brennstoff auf {0}</SetTargetFuelLevel>
+  <SetTargetFuelLevel>Roghnaigh leibhéal breosla: {0}</SetTargetFuelLevel>
   <!-- EN: Set target fuel level to {0}\nMax distance: {1} tiles -->
-  <SetPodLauncherTargetFuelLevel>Setze max. Brennstoff auf {0}\nErmöglicht eine Reichweite von {1} Feldern</SetPodLauncherTargetFuelLevel>
+  <SetPodLauncherTargetFuelLevel>Roghnaigh leibhéal breosla: {0}\n. Uas-achar: {1} leacán</SetPodLauncherTargetFuelLevel>
   <!-- EN: Target fuel level: {0} -->
-  <ConfiguredTargetFuelLevel>Max. Brennstoff: {0}</ConfiguredTargetFuelLevel>
+  <ConfiguredTargetFuelLevel>Spriocleibhéal breosla: {0}</ConfiguredTargetFuelLevel>
   <!-- EN: enemies -->
-  <Enemies>Gegner</Enemies>
+  <Enemies>Naimhde</Enemies>
   <!-- EN: people -->
   <People>Leute</People>
   <!-- EN: time passed -->
-  <TimePassed>verstrichene Zeit</TimePassed>
+  <TimePassed>am</TimePassed>
   <!-- EN: current radius -->
-  <CurrentRadius>aktueller Radius</CurrentRadius>
+  <CurrentRadius>ga reatha</CurrentRadius>
   <!-- EN: radius expands in -->
-  <RadiusExpandsIn>Radius erweitert sich in</RadiusExpandsIn>
+  <RadiusExpandsIn>leathnóidh an ga i gceann</RadiusExpandsIn>
   <!-- EN: permanent -->
-  <Permanent>permanent</Permanent>
+  <Permanent>buan</Permanent>
   <!-- EN: Resting -->
-  <CaravanResting>Rastet</CaravanResting>
+  <CaravanResting>Dímhaoin</CaravanResting>
   <!-- EN: using 1 bedroll -->
-  <UsingBedroll>nutzt 1 Schlafsack</UsingBedroll>
+  <UsingBedroll>rolla leapa amháin in úsáid</UsingBedroll>
   <!-- EN: using {0} bedrolls -->
-  <UsingBedrolls>nutzt {0} Schlafsäcke</UsingBedrolls>
+  <UsingBedrolls>{0} rolla leapa in úsáid</UsingBedrolls>
   <!-- EN: Est. time to destination: {0} days -->
-  <CaravanEstimatedTimeToDestination>Voraussichtliche Ankunftszeit: {0} Tage</CaravanEstimatedTimeToDestination>
+  <CaravanEstimatedTimeToDestination>Bainfear an ceann scríbe amach i gceann ~{0} lá</CaravanEstimatedTimeToDestination>
   <!-- EN: Route travel time: {0} days -->
-  <CaravanEstimatedDaysToDestination>Reisezeit dieser Route: {0} Tage</CaravanEstimatedDaysToDestination>
+  <CaravanEstimatedDaysToDestination>Bainfear an ceann scríbe amach i gceann ~{0} lá</CaravanEstimatedDaysToDestination>
   <!-- EN: Immobilized: Too much weight. -->
-  <CaravanImmobilizedByMass>Bewegungsunfähig: Zu viel Gewicht.</CaravanImmobilizedByMass>
+  <CaravanImmobilizedByMass>Stoptha: Tá an carbhán róthrom.</CaravanImmobilizedByMass>
   <!-- EN: Out of food. -->
-  <CaravanOutOfFood>Keine Nahrung.</CaravanOutOfFood>
+  <CaravanOutOfFood>Níl aon bhia fágtha.</CaravanOutOfFood>
   <!-- EN: Days of food: {0} -->
-  <CaravanDaysOfFood>Nahrungsvorrat: {0}</CaravanDaysOfFood>
+  <CaravanDaysOfFood>Bia fágtha: {0} lá</CaravanDaysOfFood>
   <!-- EN: Days of food: {0} (rot in {1} days) -->
-  <CaravanDaysOfFoodRot>Nahrungsvorrat: {0} (verdirbt in {1} Tagen)</CaravanDaysOfFoodRot>
+  <CaravanDaysOfFoodRot>Bia fágtha {0} la (bia ag lobh i gceann {1} lá)</CaravanDaysOfFoodRot>
   <!-- EN: Stopped because: Everyone is downed. -->
-  <AllCaravanMembersDowned>Angehalten: Alle liegen am Boden.</AllCaravanMembersDowned>
+  <AllCaravanMembersDowned>Stoptha: Tá gach duine leagtha.</AllCaravanMembersDowned>
   <!-- EN: Stopped because: Everyone is in a mental break. -->
-  <AllCaravanMembersMentalBreak>Angehalten: Alle haben einen Nervenzusammenbruch.</AllCaravanMembersMentalBreak>
+  <AllCaravanMembersMentalBreak>Stoptha: Tá cliseadh néarach ar gach duine.</AllCaravanMembersMentalBreak>
   <!-- EN: {0} {1} -->
   <CaravanColonistsCount>{0} {1}</CaravanColonistsCount>
   <!-- EN: 1 animal -->
-  <CaravanAnimal>1 Tier</CaravanAnimal>
+  <CaravanAnimal>1 ainmhí</CaravanAnimal>
   <!-- EN: {0} animals -->
-  <CaravanAnimalsCount>{0} Tiere</CaravanAnimalsCount>
+  <CaravanAnimalsCount>{0} ainmhí</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>1 Gefangener</CaravanPrisoner>
+  <CaravanPrisoner>1 príosúnach</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
-  <CaravanPrisonersCount>{0} Gefangene</CaravanPrisonersCount>
+  <CaravanPrisonersCount>{0} príosúnach</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
-  <CaravanPawnsInMentalState>{0} übergeschnappt</CaravanPawnsInMentalState>
+  <CaravanPawnsInMentalState>Tá cliseadh néarach ar {0}</CaravanPawnsInMentalState>
   <!-- EN: {0} downed -->
-  <CaravanPawnsDowned>{0} bewegungsunfähig</CaravanPawnsDowned>
+  <CaravanPawnsDowned>Leagadh {0}</CaravanPawnsDowned>
   <!-- EN: Traveling. -->
-  <CaravanTraveling>Reist.</CaravanTraveling>
+  <CaravanTraveling>Ag taisteal.</CaravanTraveling>
   <!-- EN: Waiting. -->
-  <CaravanWaiting>Wartet.</CaravanWaiting>
+  <CaravanWaiting>Ag fanacht.</CaravanWaiting>
   <!-- EN: Being carried due to illness -->
-  <BeingCarriedDueToIllness>Wird krankheitsbedingt getragen</BeingCarriedDueToIllness>
+  <BeingCarriedDueToIllness>Á iompar mar gheall ar thinneas</BeingCarriedDueToIllness>
   <!-- EN: Using bedrolls due to illness -->
-  <UsingBedrollsDueToIllness>Verwendet krankheitsbedingt Schlafsäcke</UsingBedrollsDueToIllness>
+  <UsingBedrollsDueToIllness>Rolla leapa in úsáid mar gheall ar thinneas</UsingBedrollsDueToIllness>
   <!-- EN: Current tile movement time -->
-  <CurrentTileMovementTime>Momentane Bewegungszeit</CurrentTileMovementTime>
+  <CurrentTileMovementTime>Gluaiseach reatha</CurrentTileMovementTime>
   <!-- EN: Visibility -->
-  <Visibility>Sichtbarkeit</Visibility>
+  <Visibility>Infheictheacht</Visibility>
   <!-- EN: Temperature -->
-  <Temperature>Temperatur</Temperature>
+  <Temperature>Teocht</Temperature>
   <!-- EN: bad temperature -->
-  <BadTemperature>ungünstige Temperatur</BadTemperature>
+  <BadTemperature>drochtheocht</BadTemperature>
   <!-- EN: Ideal fermenting temperature -->
-  <IdealFermentingTemperature>Ideale Temperatur zum Gären</IdealFermentingTemperature>
+  <IdealFermentingTemperature>Teocht idéalach don choipeadh</IdealFermentingTemperature>
   <!-- EN: {0} effect multiplier: {1} -->
-  <DrugEffectMultiplier>{0}-Wirkungsmultiplikator: {1}</DrugEffectMultiplier>
+  <DrugEffectMultiplier>Iolraitheoir éifeachta le haghaidh{0}: {1}</DrugEffectMultiplier>
   <!-- EN: Visiting {0}. -->
-  <CaravanVisiting>Besucht {0}.</CaravanVisiting>
+  <CaravanVisiting>Ag tabhairt cuairte ar {0}.</CaravanVisiting>
   <!-- EN: Entering {0}. -->
-  <CaravanEntering>Betritt {0}.</CaravanEntering>
+  <CaravanEntering>Ag dul isteach i {0}.</CaravanEntering>
   <!-- EN: Attacking {0}. -->
-  <CaravanAttacking>Attackiert {0}.</CaravanAttacking>
+  <CaravanAttacking>Ag ionsaí {0}.</CaravanAttacking>
   <!-- EN: Offering gifts to {0}. -->
-  <CaravanOfferingGifts>Bietet {0} Geschenke an.</CaravanOfferingGifts>
+  <CaravanOfferingGifts>Ag tabhairt bronntanais do {0}.</CaravanOfferingGifts>
   <!-- EN: Trading with {0}. -->
-  <CaravanTrading>Handelt mit {0}.</CaravanTrading>
+  <CaravanTrading>Ag trádáil le {0}.</CaravanTrading>
   <!-- EN: Tainted from being worn by a corpse. -->
-  <WasWornByCorpse>Verunreinigt, da von einer Leiche getragen.</WasWornByCorpse>
+  <WasWornByCorpse>Tá seo scriosta, toisc go raibh sé á chaitheamh ag corpán.</WasWornByCorpse>
   <!-- EN: T -->
-  <WornByCorpseChar>V</WornByCorpseChar>
+  <WornByCorpseChar>C</WornByCorpseChar>
   <!-- EN: unroofed -->
-  <DeterioratingUnroofed>nicht überdacht</DeterioratingUnroofed>
+  <DeterioratingUnroofed>gan díon</DeterioratingUnroofed>
   <!-- EN: outdoors -->
-  <DeterioratingOutdoors>draußen</DeterioratingOutdoors>
+  <DeterioratingOutdoors>lasmuigh</DeterioratingOutdoors>
   <!-- EN: raining -->
-  <DeterioratingRaining>Regen</DeterioratingRaining> 
+  <DeterioratingRaining>báisteach</DeterioratingRaining> 
   <!-- EN: protected -->
-  <Protected>geschützt</Protected>
+  <Protected>cosanta</Protected>
   <!-- EN: Deteriorating -->
-  <DeterioratingBecauseOf>Zerfällt</DeterioratingBecauseOf>
+  <DeterioratingBecauseOf>Ag meathlú</DeterioratingBecauseOf>
   <!-- EN: Will deteriorate in {0}. -->
-  <DeteriorateInDuration>Zerfällt in (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime).</DeteriorateInDuration>
+  <DeteriorateInDuration>Beidh seo meathlaithe i gceann {0}.</DeteriorateInDuration>
   <!-- EN: Map -->
-  <Map>Karte</Map>
+  <Map>Léarscáil</Map>
   <!-- EN: {0} until enemies arrive -->
-  <CaravanDetectedRaidCountdown>Ankunft der Feinde in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</CaravanDetectedRaidCountdown>
+  <CaravanDetectedRaidCountdown>Tiocfaidh naimhde i gceann {0}</CaravanDetectedRaidCountdown>
   <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
-  <CaravanDetectedRaidCountdownTip>Feindliche Verstärkungen werden in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"} in diesem Gebiet eintreffen.</CaravanDetectedRaidCountdownTip>
+  <CaravanDetectedRaidCountdownTip>Tiocfaidh naimhde cúltaca i gceann {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
-  <Room>Raum</Room>
+  <Room>Seomra</Room>
   <!-- EN: Beauty here -->
-  <BeautyHere>Attraktivität hier</BeautyHere>
+  <BeautyHere>Áilleacht anseo</BeautyHere>
   <!-- EN: no power -->
-  <NoPower>kein Strom</NoPower>
+  <NoPower>gan chumacht</NoPower>
   <!-- EN: Work speed -->
-  <WorkSpeedPenalty>Arbeitsgeschwindigkeit</WorkSpeedPenalty>
+  <WorkSpeedPenalty>luas oibre</WorkSpeedPenalty>
   <!-- EN: Disabled -->
-  <DisabledCommand>Deaktiviert</DisabledCommand>
+  <DisabledCommand>Díchumasaithe</DisabledCommand>
   <!-- EN: Ready for launch. -->
-  <ReadyForLaunch>Startbereit.</ReadyForLaunch>
+  <ReadyForLaunch>Réidh le leainseáil.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Nicht startbereit</NotReadyForLaunch>
+  <NotReadyForLaunch>Ní féidir leainseáil</NotReadyForLaunch>
   <!-- EN: no fueling port -->
-  <NotAllInGroupConnectedToFuelingPort>Keine Startrampe</NotAllInGroupConnectedToFuelingPort>
+  <NotAllInGroupConnectedToFuelingPort>de dhíth: béalóg bhreosla</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>Kein Brennstoff</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>gan bhreosla</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>Beladevorgang läuft</TransportPodInGroupHasSomethingLeftToLoad>
+  <TransportPodInGroupHasSomethingLeftToLoad>á lódáil</TransportPodInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
-  <TransportPodDestinationBeyondMaximumRange>Außerhalb maximaler Reichweite</TransportPodDestinationBeyondMaximumRange>
+  <TransportPodDestinationBeyondMaximumRange>lasmuigh den uasraon</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>Nicht genug Brennstoff</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>Níl go leor breosla</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
-  <SettlementTrader>{0} von {1}</SettlementTrader>
+  <SettlementTrader>{0} as {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
-  <RoomSurgerySuccessChanceFactor>Operationserfolgschance-Faktor vom Raum</RoomSurgerySuccessChanceFactor>
+  <RoomSurgerySuccessChanceFactor>Iolraitheoir ón seomra go n-éireoidh le hoibreád</RoomSurgerySuccessChanceFactor>
   <!-- EN: Infection chance multiplier from room -->
-  <RoomInfectionChanceFactor>Infektionschance-Faktor vom Raum</RoomInfectionChanceFactor>
+  <RoomInfectionChanceFactor>Iolraitheoir ón seomra go mbeidh ionfhabhtú ann</RoomInfectionChanceFactor>
   <!-- EN: Closed -->
-  <VentClosed>Geschlossen</VentClosed>
+  <VentClosed>Dúnta</VentClosed>
   <!-- EN: worn by {1_labelShort} -->
-  <WornBy>getragen von {1_labelShort}</WornBy>
+  <WornBy>á chaitheamh ag {1_labelShort}</WornBy>
   <!-- EN: equipped by {1_labelShort} -->
-  <EquippedBy>ausgerüstet von {1_labelShort}</EquippedBy>
+  <EquippedBy>in úsáid ag {1_labelShort}</EquippedBy>
   <!-- EN: {0} wants this destroyed.\n    Reward: {1} ({2}) -->
-  <QuestTargetDestroyInspectString>{0} will/wollen das zerstört sehen.\n    Belohnung: {1} ({2}).</QuestTargetDestroyInspectString>
+  <QuestTargetDestroyInspectString>Tá {0} ag iarraidh seo a scriosadh.\n    Cúiteamh: {1} ({2}).</QuestTargetDestroyInspectString>
   <!-- EN: {0} wants this destroyed. -->
-  <QuestTargetDestroyInspectStringShort>{0} will, dass dies zerstört wird.</QuestTargetDestroyInspectStringShort>
+  <QuestTargetDestroyInspectStringShort>Tá {0} ag iarraidh seo a scriosadh.</QuestTargetDestroyInspectStringShort>
   <!-- EN: Departing on shuttle in {0} -->
-  <ShuttleDelayInspectString>Shuttle-Abreise in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</ShuttleDelayInspectString>
+  <ShuttleDelayInspectString>Ag imeaht ar an spástointealaí i {0}</ShuttleDelayInspectString>
   <!-- EN: Departing in {0} -->
-  <ShuttleLeaveDelayInspectString>Abreise in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</ShuttleLeaveDelayInspectString>
+  <ShuttleLeaveDelayInspectString>Ag imeacht i</ShuttleLeaveDelayInspectString>
   <!-- EN: Should depart on shuttle -->
-  <ShouldDepartOnShuttleInspectString>Muss per Shuttle abreisen</ShouldDepartOnShuttleInspectString>
+  <ShouldDepartOnShuttleInspectString>Le himeacht ar spástointealaí</ShouldDepartOnShuttleInspectString>
   <!-- EN: Time left: {0} -->
-  <WorldObjectTimeout>Verbleibende Zeit: {0}</WorldObjectTimeout>
+  <WorldObjectTimeout>Am fágtha: {0}</WorldObjectTimeout>
   <!-- EN: Click to sort by this column. -->
-  <ClickToSortByThisColumn>Klicke zum Sortieren nach dieser Spalte.</ClickToSortByThisColumn>
+  <ClickToSortByThisColumn>Cliceáil chun sórtáil de réir an cholúin seo.</ClickToSortByThisColumn>
   <!-- EN: Shift + click: Increase priority\nShift + right click: Decrease priority -->
-  <WorkPriorityShiftClickTip>Umschalt + Klick: Erhöhe Priorität\nUmschalt + Rechtsklick: Reduziere Priorität</WorkPriorityShiftClickTip>
+  <WorkPriorityShiftClickTip>SHIFT agus cléchliceáil chun an t-ord tosaíochta a mhéadú\nSHIFT agus deaschliceáil chun an t-ord tosaíochta a laghdú</WorkPriorityShiftClickTip>
   <!-- EN: Shift + click: Enable all\nShift + right click: Disable all -->
-  <WorkPriorityShiftClickEnableDisableTip>Umschalt + Klick: Aktiviere Alle\nUmschalt + Rechtsklick: Deaktiviere Alle</WorkPriorityShiftClickEnableDisableTip>
+  <WorkPriorityShiftClickEnableDisableTip>SHIFT agus cléchliceáil chun gach rud a chumasú\nSHIFT agus deaschliceáil chun gach rud a dhíchumasú</WorkPriorityShiftClickEnableDisableTip>
   <!-- EN: Shift + click: Set all to home\nShift + right click: Set all to unrestricted -->
-  <AllowedAreaShiftClickTip>Umschalt + Klick: Alle auf Heimat setzen\nUmschalt + Rechtsklick: Alle auf Unbegrenzt setzen</AllowedAreaShiftClickTip>
+  <AllowedAreaShiftClickTip>SHIFT agus cléchliceáil chun gach duine a shannadh don zón baile\nSHIFT agus deaschliceáil chun aon srianta a bhaint</AllowedAreaShiftClickTip>
   <!-- EN: Shift + click: Check all\nShift + right click: Uncheck all -->
-  <CheckboxShiftClickTip>Umschalt + Klick: Alle auswählen\nUmschalt + Rechtsklick: Alle abwählen</CheckboxShiftClickTip>
+  <CheckboxShiftClickTip>SHIFT agus cléchiliceáil chun tic a chur le gach rud\nSHIFT agus deaschliceáil chun tic a bhaint ó gach rud</CheckboxShiftClickTip>
   <!-- EN: {0} {1} -->
   <KnownSiteThreatEnemyCountAppend>{0} {1}</KnownSiteThreatEnemyCountAppend>
   <!-- EN: Skill Requirements -->
-  <SkillRequirements>Benötigte Fertigkeiten</SkillRequirements>
+  <SkillRequirements>Riachtanas Scileanna</SkillRequirements>
   <!-- EN: Products -->
-  <Products>Erzeugnisse</Products>
+  <Products>Tárigí</Products>
   <!-- EN: Requires -->
-  <Requires>Benötigt</Requires>
+  <Requires>De dhíth:</Requires>
   <!-- EN: {0}x any of -->
-  <NumAnyOf>{0}x irgendwas aus</NumAnyOf>
+  <NumAnyOf>aon {0}x de</NumAnyOf>
   <!-- EN: {0} of {1} -->
-  <Relationship>{0} von {1}</Relationship>
+  <Relationship>{0} as {1}</Relationship>
   <!-- EN: Prisoner -->
-  <Prisoner>Gefangener</Prisoner>
+  <Prisoner>Príosúnach</Prisoner>
   <!-- EN: Refugee -->
-  <Refugee>Flüchtling</Refugee>
+  <Refugee>Teifeach</Refugee>
   <!-- EN: Terrain movement difficulty -->
-  <TileMovementDifficulty>Geländebewegungsaufwand</TileMovementDifficulty>
+  <TileMovementDifficulty>Deacracht gluaiseachta</TileMovementDifficulty>
   <!-- EN: Impassable -->
-  <Impassable>Unpassierbar</Impassable>
+  <Impassable>Ní féidir dul anseo</Impassable>
   <!-- EN: Caravan movement speed -->
-  <CaravanMovementSpeedFull>Karawane-Reisegeschwindigkeit</CaravanMovementSpeedFull>
+  <CaravanMovementSpeedFull>Luas gluaiseachta</CaravanMovementSpeedFull>
   <!-- EN: downed -->
-  <DownedLower>liegt am Boden</DownedLower>
+  <DownedLower>leagtha</DownedLower>
   <!-- EN: resting -->
-  <Carried>ruht sich aus</Carried>
+  <Carried>dímhaoin</Carried>
   <!-- EN: Rideable animals / people -->
-  <RideableAnimalsPerPeople>Reitbare Tiere / Personen</RideableAnimalsPerPeople>
+  <RideableAnimalsPerPeople>Ainmhí / daoine gur féidir marcaíocht orthu</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
-  <MultiplierFromRiddenAnimals>Multiplikator von gerittenen Tieren</MultiplierFromRiddenAnimals>
+  <MultiplierFromRiddenAnimals>Iolraitheoir ó ainmhithe marcaíochta</MultiplierFromRiddenAnimals>
   <!-- EN: Multiplier for carried mass: {0} -->
-  <MultiplierForCarriedMass>Transportgewicht-Faktor: {0}</MultiplierForCarriedMass>
+  <MultiplierForCarriedMass>Iolraitheoir don mheachán: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
-  <RideableAnimalTip>Dieses Tier kann geritten werden. Die Personen in einer Karawane reiten auf den schnellsten verfügbaren Tieren und erhöhen so die Geschwindigkeit der gesamten Karawane.</RideableAnimalTip>
+  <RideableAnimalTip>Is féidir marcaíocht ar an ainmhí seo. Déanfaidh daoine i gcarbháin marcaíocht ar na hainmhithe is tapúla atá ar fáil, agus beidh an carbhán in ann gluaiseacht níos tapúla.</RideableAnimalTip>
   <!-- EN: This caravan can't move because it carries too much. -->
-  <EncumberedCaravanTilesPerDayTip>Diese Karawane kann sich nicht bewegen, da sie zu schwer ist.</EncumberedCaravanTilesPerDayTip>
+  <EncumberedCaravanTilesPerDayTip>Ní féidir leis an gcarbhán seo bogadh, tá an iomarca rudaí á n-iompar.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
-  <FinalCaravanPawnsMovementSpeed>Mitglieder-Geschw.</FinalCaravanPawnsMovementSpeed>
+  <FinalCaravanPawnsMovementSpeed>Luas bhaill an charbháin.</FinalCaravanPawnsMovementSpeed>
   <!-- EN: Final speed -->
-  <FinalCaravanMovementSpeed>Endgültige Geschwindigkeit</FinalCaravanMovementSpeed>
+  <FinalCaravanMovementSpeed>Luas deiridh</FinalCaravanMovementSpeed>
   <!-- EN: Winter -->
-  <Winter>Winter</Winter>
+  <Winter>Geimhreadh</Winter>
   <!-- EN: {0} in winter -->
-  <MovementDifficultyOffsetInWinter>{0} im Winter</MovementDifficultyOffsetInWinter>
+  <MovementDifficultyOffsetInWinter>{0} sa Gheimhreadh</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>bis</RangeTo>
+  <RangeTo>chun</RangeTo>
   <!-- EN: No letter -->
-  <NoDietCategoryLetter>Kein Buchstabe</NoDietCategoryLetter>
+  <NoDietCategoryLetter>gan litir</NoDietCategoryLetter>
   <!-- EN: Expires in -->
-  <ExpiresIn>Läuft ab in</ExpiresIn>
+  <ExpiresIn>In éag i:</ExpiresIn>
   <!-- EN: {1_labelShort}'s caravan -->
-  <CaravanLeaderCaravanName>{replace: {1_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} Karawane</CaravanLeaderCaravanName>
+  <CaravanLeaderCaravanName>carbhán {1_labelShort}</CaravanLeaderCaravanName>
   <!-- EN: Reason -->
-  <Reason>Grund</Reason>
+  <Reason>Cúis</Reason>
   <!-- EN: Relations with {0} -->
-  <RelationsWith>Beziehungen mit {0}</RelationsWith>
+  <RelationsWith>Caidreamh le {0}</RelationsWith>
   <!-- EN: captured by {0} -->
-  <capturedBy>eingefangen von {0}</capturedBy>
+  <capturedBy>Gafa ag {0}</capturedBy>
   <!-- EN: your caravan -->
-  <yourCaravan>deine Karawane</yourCaravan>
+  <yourCaravan>do charbhán</yourCaravan>
   <!-- EN: {0} wildness -->
-  <CreatureWildness>Wildheit</CreatureWildness>
+  <CreatureWildness>Fiáine</CreatureWildness>
   <!-- EN: {0} trainability -->
-  <CreatureTrainability>Trainierbarkeit</CreatureTrainability>
+  <CreatureTrainability>Inmhúinte</CreatureTrainability>
   <!-- EN: Follow master while drafted -->
-  <CreatureFollowDrafted>Folge Bezugsp. im Kampfmodus</CreatureFollowDrafted>
+  <CreatureFollowDrafted>Lean máistir le linn dréachtaithe</CreatureFollowDrafted>
   <!-- EN: Follow master while doing field work -->
-  <CreatureFollowFieldwork>Folge Bezugsp. bei Außeneinsätzen</CreatureFollowFieldwork>
+  <CreatureFollowFieldwork>Lean máistir agus obair á dhéanamh</CreatureFollowFieldwork>
   <!-- EN: {0} with {1} -->
-  <ProximitySingleGoodwillChange>{0} mit {1}</ProximitySingleGoodwillChange>
+  <ProximitySingleGoodwillChange>{0} le {1}</ProximitySingleGoodwillChange>
   <!-- EN: Too dangerous to re-enter for {0}. -->
-  <EnterCooldown>Zu gefährlich. Kann erst in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"} wieder betreten werden.</EnterCooldown>
+  <EnterCooldown>Beidh sé ródháinséarach dul isteach anseo arís ar feadh {0}.</EnterCooldown>
   <!-- EN: Caravan -->
-  <Caravan>Karawane</Caravan>
+  <Caravan>Carbhán</Caravan>
   <!-- EN: there may be danger there. -->
-  <HiddenOrNoSitePartDescription>dort Gefahren lauern können.</HiddenOrNoSitePartDescription>
+  <HiddenOrNoSitePartDescription>tá baol ann go mbeidh dáinséar anseo.</HiddenOrNoSitePartDescription>
   <!-- EN: The scanner is picking up activity around the lump. It's likely hostile. -->
-  <PreciousLumpHostileThreat>Der Scanner registriert Aktivitäten in der Nähe des Vorkommens. Wahrscheinlich sind sie feindlicher Natur.</PreciousLumpHostileThreat>
+  <PreciousLumpHostileThreat>Tá gníomhaíocht le feiceáil timpeall ar an gcarn ar an scanóir. Is dócha go mbeidh naimhde anseo.</PreciousLumpHostileThreat>
   <!-- EN: lump of {0} -->
-  <PreciousLumpLabel>{0}vorkommen</PreciousLumpLabel>
+  <PreciousLumpLabel>Carn {0}</PreciousLumpLabel>
   <!-- EN: no active research project -->
-  <NoActiveResearchProjectToFinish>Kein aktives Forschungsprojekt</NoActiveResearchProjectToFinish>
+  <NoActiveResearchProjectToFinish>Níl aon taighde ar siúl faoi láthair</NoActiveResearchProjectToFinish>
   <!-- EN: turret -->
-  <Turret>Geschützturm</Turret>
+  <Turret>túirín</Turret>
   <!-- EN: turrets -->
-  <Turrets>Geschütztürme</Turrets>
+  <Turrets>túiríní</Turrets>
   <!-- EN: mortar -->
-  <Mortar>Mörser</Mortar>
+  <Mortar>móirtéar</Mortar>
   <!-- EN: mortars -->
-  <Mortars>Mörser</Mortars>
+  <Mortars>móirtéir</Mortars>
   <!-- EN: enemy -->
-  <Enemy>Gegner</Enemy>
+  <Enemy>naimhde</Enemy>
   <!-- EN: location -->
-  <Location>Standort</Location>
+  <Location>suíomhe</Location>
   <!-- EN: animals -->
-  <AnimalsLower>Tiere</AnimalsLower>
+  <AnimalsLower>ainmhithe</AnimalsLower>
   <!-- EN: items -->
-  <ItemsLower>Gegenstände</ItemsLower>
+  <ItemsLower>earraí</ItemsLower>
   <!-- EN: {0} x{1} -->
   <FilthLabel>{0} x{1}</FilthLabel>
   <!-- EN: {0} of {1} x{2} -->
-  <FilthLabelWithSource>{0} x{2} ({replace: {replace: Quelle: {1}; " eine "-" "}; " ein "-" "})</FilthLabelWithSource>
+  <FilthLabelWithSource>{0} de {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>Benötigt</Required>
+  <Required>Riachtanach</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>Warnung: Du kannst keine Handelsaufträge mithilfe von Transportkapseln abschließen.\nWenn du Waren versendest, werden sie von der Siedlung als Geschenke akzeptiert, aber du wirst nicht belohnt.\n\nUm mit der Siedlung zu handeln, musst du sie mit einer Karawane besuchen!\n\nBist du sicher, dass du die geladenen Waren der Fraktion schenken willst?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Rabhadh: Ní féidir iarratas trádála a chomhlíonadh ag baint úsáide as podanna iompair.\nMá sheolann tú na hearraí, glacfar leo mar bhronntanas ach ní thabharfaidh siad aon rud duit.\n\nChun trádáil, ní mór cuairt a thabhairt ar an lonnaíocht le carbhán.!\n\nAn bhfuil tú cinnte gur mian leat na hearraí seo a thabhairt don fhaicsean mar bhronntanas?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
-  <PrisonerLower>Gefangener</PrisonerLower>
+  <PrisonerLower>príosúnach</PrisonerLower>
   <!-- EN: prisoners -->
-  <PrisonersLower>Gefangene</PrisonersLower>
+  <PrisonersLower>príosúnaigh</PrisonersLower>
   <!-- EN: Click to view this quest in quests tab -->
-  <ClickToViewInQuestsTab>Klicke, um diese Quest im Quests-Tab zu sehen</ClickToViewInQuestsTab>
+  <ClickToViewInQuestsTab>Cliceáil le breathnú ar an misean seo i dtáb na Misean</ClickToViewInQuestsTab>
   <!-- EN: Mood -->
-  <Mood>Stimmung</Mood>
+  <Mood>Giúmar</Mood>
   <!-- EN: Quest -->
-  <Quest>Quest</Quest>
+  <Quest>Misean</Quest>
   <!-- EN: Brings raids every {0} -->
-  <BringsRaidsEvery>Bringt Überfälle alle {0}</BringsRaidsEvery>
+  <BringsRaidsEvery>Beidh ruathar ann gach {0}</BringsRaidsEvery>
   <!-- EN: Generates {0} every {1} -->
-  <GeneratesResourcesEvery>Generiert {0} alle {1}</GeneratesResourcesEvery>
+  <GeneratesResourcesEvery>Ginfear {0} gach {1}</GeneratesResourcesEvery>
   <!-- EN: Foliage kill radius -->
-  <FoliageKillRadius>Blattwerkvernichtungsradius</FoliageKillRadius>
+  <FoliageKillRadius>Marófar plandaí sa limistéar seo</FoliageKillRadius>
   <!-- EN: Radius expand rate -->
-  <RadiusExpandRate>Radiusausdehnungsrate</RadiusExpandRate>
+  <RadiusExpandRate>Ráta leathnaithe an gha</RadiusExpandRate>
   <!-- EN: View: {0} -->
-  <ViewHyperlink>Mehr über: {0}</ViewHyperlink>
+  <ViewHyperlink>Féach: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
-  <DetonationCountdown>Detoniert in {0} Tagen</DetonationCountdown>
+  <DetonationCountdown>Ag pléascadh i gceann {0} lá</DetonationCountdown>
   <!-- EN: Large fire explosion if damaged. -->
-  <ExplosionOnDamageWarning>Große Feuerexplosion bei Beschädigung.</ExplosionOnDamageWarning>
+  <ExplosionOnDamageWarning>Beidh pléascadh mór má dhamáistítear é seo.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
-  <MechCluster>Mech-Cluster</MechCluster>
+  <MechCluster>Meicea-charn</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>Spawnt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</SpawningNextPawnIn>
+  <SpawningNextPawnIn>Ag giniúint i {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>{0} wird gebaut und ist in {replace: {1}; "Tage"-"Tagen"; "Jahre"-"Jahren"} kampfbereit.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>Críochnófar an tógáil i gceann {0}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
   <MechAssemblyNextType>Baut als Nächstes</MechAssemblyNextType>
   <!-- EN: produced -->

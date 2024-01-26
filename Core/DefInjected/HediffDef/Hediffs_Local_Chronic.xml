@@ -2,99 +2,99 @@
 <LanguageData>
   
   <!-- EN: alzheimer's -->
-  <Alzheimers.label>TODO</Alzheimers.label>
+  <Alzheimers.label>galar Alzheimer</Alzheimers.label>
   <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
-  <Alzheimers.description>TODO</Alzheimers.description>
+  <Alzheimers.description>Galar intinne, a tharlaíonn sa tseanaois. Bíonn éifeachtaí ag galaar Alzheimer ar an gcuimhne agus ar an gcumas smaointeoireachta. Uaireanta ní aithníonn othair daoine eile, agus in amanna eile tagann mearbhall orthu.</Alzheimers.description>
   <!-- EN: minor -->
-  <Alzheimers.stages.minor-0.label>TODO</Alzheimers.stages.minor-0.label>
+  <Alzheimers.stages.minor-0.label>mionchúiseach</Alzheimers.stages.minor-0.label>
   <!-- EN: minor -->
-  <Alzheimers.stages.minor-1.label>TODO</Alzheimers.stages.minor-1.label>
+  <Alzheimers.stages.minor-1.label>mionchúiseach</Alzheimers.stages.minor-1.label>
   <!-- EN: major -->
-  <Alzheimers.stages.major-0.label>TODO</Alzheimers.stages.major-0.label>
+  <Alzheimers.stages.major-0.label>mórchúiseach</Alzheimers.stages.major-0.label>
   <!-- EN: major -->
-  <Alzheimers.stages.major-1.label>TODO</Alzheimers.stages.major-1.label>
+  <Alzheimers.stages.major-1.label>mórchúiseach</Alzheimers.stages.major-1.label>
   
   <!-- EN: asthma -->
-  <Asthma.label>TODO</Asthma.label>
+  <Asthma.label>plúchadh</Asthma.label>
   <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
-  <Asthma.description>TODO</Asthma.description>
+  <Asthma.description>Galar fadtéarmach sna scamógha agus sna haerbhealaí. Ní mór an galar seo a chóiriú ar bhonn rialta chun siomptóim a sheachaint.</Asthma.description>
   <!-- EN: minor -->
-  <Asthma.stages.minor.label>TODO</Asthma.stages.minor.label>
+  <Asthma.stages.minor.label>mionchúiseach</Asthma.stages.minor.label>
   <!-- EN: major -->
-  <Asthma.stages.major-0.label>TODO</Asthma.stages.major-0.label>
+  <Asthma.stages.major-0.label>mórchúiseach</Asthma.stages.major-0.label>
   <!-- EN: major -->
-  <Asthma.stages.major-1.label>TODO</Asthma.stages.major-1.label>
+  <Asthma.stages.major-1.label>mórchúiseach</Asthma.stages.major-1.label>
   
   <!-- EN: bad back -->
-  <BadBack.label>TODO</BadBack.label>
+  <BadBack.label>droim tinn</BadBack.label>
   <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
-  <BadBack.description>TODO</BadBack.description>
+  <BadBack.description>Díghrádú sa dhromlach agus i gcóras na matán. Bíonn sé an-deacair gluaiseacht i gceart nó cromadh dá bharr.</BadBack.description>
   <!-- EN: a bad back -->
-  <BadBack.labelNoun>TODO</BadBack.labelNoun>
+  <BadBack.labelNoun>droim tinn</BadBack.labelNoun>
   
   <!-- EN: blindness -->
-  <Blindness.label>TODO</Blindness.label>
+  <Blindness.label>daille</Blindness.label>
   <!-- EN: Total inability to see. -->
-  <Blindness.description>TODO</Blindness.description>
+  <Blindness.description>Tá an duine seo iomlán dall.</Blindness.description>
   
   <!-- EN: carcinoma -->
-  <Carcinoma.label>TODO</Carcinoma.label>
+  <Carcinoma.label>carcanóma</Carcinoma.label>
   <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
-  <Carcinoma.description>TODO</Carcinoma.description>
+  <Carcinoma.description>Tá ailse ar an duine seo. Gan chóireáil leighis, scapfaidh sé le himeacht ama, rachaidh na siomptóim in olcas, agus marófar an t-othar.\n\nIs féidir le dochtúir oillte an carcanóma a bhaint. D'fhéadfadh sé go mbeidh dochtúir amaitéarach in ann an bhall coirp ina bhfuil an carcanóma a theascadh.</Carcinoma.description>
   <!-- EN: a carcinoma -->
-  <Carcinoma.labelNoun>TODO</Carcinoma.labelNoun>
+  <Carcinoma.labelNoun>carcanóma</Carcinoma.labelNoun>
   <!-- EN: minor -->
-  <Carcinoma.stages.minor-0.label>TODO</Carcinoma.stages.minor-0.label>
+  <Carcinoma.stages.minor-0.label>mionchúiseach</Carcinoma.stages.minor-0.label>
   <!-- EN: minor -->
-  <Carcinoma.stages.minor-1.label>TODO</Carcinoma.stages.minor-1.label>
+  <Carcinoma.stages.minor-1.label>mionchúiseach</Carcinoma.stages.minor-1.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-0.label>TODO</Carcinoma.stages.major-0.label>
+  <Carcinoma.stages.major-0.label>mórchúiseach</Carcinoma.stages.major-0.label>
   <!-- EN: major -->
-  <Carcinoma.stages.major-1.label>TODO</Carcinoma.stages.major-1.label>
+  <Carcinoma.stages.major-1.label>mórchúiseach</Carcinoma.stages.major-1.label>
   <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-0.label>TODO</Carcinoma.stages.extreme-0.label>
+  <Carcinoma.stages.extreme-0.label>foircneach</Carcinoma.stages.extreme-0.label>
   <!-- EN: extreme -->
-  <Carcinoma.stages.extreme-1.label>TODO</Carcinoma.stages.extreme-1.label>
+  <Carcinoma.stages.extreme-1.label>foircneach</Carcinoma.stages.extreme-1.label>
   
   <!-- EN: cataract -->
-  <Cataract.label>TODO</Cataract.label>
+  <Cataract.label>cataracht </Cataract.label>
   <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
-  <Cataract.description>TODO</Cataract.description>
+  <Cataract.description>Galar súl. Cuireann cataracht isteach ar an amharc.</Cataract.description>
   <!-- EN: a cataract -->
-  <Cataract.labelNoun>TODO</Cataract.labelNoun>
+  <Cataract.labelNoun>cataracht</Cataract.labelNoun>
   
   <!-- EN: dementia -->
-  <Dementia.label>TODO</Dementia.label>
+  <Dementia.label>néaltrú</Dementia.label>
   <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
-  <Dementia.description>TODO</Dementia.description>
+  <Dementia.description>Díghrádú intinne, a chuireann isteach ar an gcumas smaointeoireachta. Tá go leor cúiseanna le néaltrú, lena n-áirítear an tseanaois, galar áirithe agus tocsainí.</Dementia.description>
   
   <!-- EN: frail -->
-  <Frail.label>TODO</Frail.label>
+  <Frail.label>leochaileacht</Frail.label>
   <!-- EN: Generalized loss of muscle and bone density. -->
-  <Frail.description>TODO</Frail.description>
+  <Frail.description>Is beag láidreacht atá ag an duine seo sna matáin nó sna cnámha.</Frail.description>
   <!-- EN: frailty -->
-  <Frail.labelNoun>TODO</Frail.labelNoun>
+  <Frail.labelNoun>leochaileacht</Frail.labelNoun>
   
   <!-- EN: hearing loss -->
-  <HearingLoss.label>TODO</HearingLoss.label>
+  <HearingLoss.label>caillteanas éisteachta</HearingLoss.label>
   <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
-  <HearingLoss.description>TODO</HearingLoss.description>
+  <HearingLoss.description>Ní féidir leis an duine seo fuaimeanna ciúine a chloisteáil de bharr galair sa chocla.</HearingLoss.description>
   
   <!-- EN: artery blockage -->
-  <HeartArteryBlockage.label>TODO</HeartArteryBlockage.label>
+  <HeartArteryBlockage.label>galar croí</HeartArteryBlockage.label>
   <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
-  <HeartArteryBlockage.description>TODO</HeartArteryBlockage.description>
+  <HeartArteryBlockage.description>Tá galar croí ag an duine seo, agus tá artaire tábhachtach blocáilte. D'fhéadfadh taom croí tarlú go randamach de bharr an ghalair seo.</HeartArteryBlockage.description>
   <!-- EN: an artery blockage -->
-  <HeartArteryBlockage.labelNoun>TODO</HeartArteryBlockage.labelNoun>
+  <HeartArteryBlockage.labelNoun>galar croí</HeartArteryBlockage.labelNoun>
   <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-0.label>TODO</HeartArteryBlockage.stages.minor-0.label>
+  <HeartArteryBlockage.stages.minor-0.label>mionchúiseach</HeartArteryBlockage.stages.minor-0.label>
   <!-- EN: minor -->
-  <HeartArteryBlockage.stages.minor-1.label>TODO</HeartArteryBlockage.stages.minor-1.label>
+  <HeartArteryBlockage.stages.minor-1.label>mionchúiseach</HeartArteryBlockage.stages.minor-1.label>
   <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-0.label>TODO</HeartArteryBlockage.stages.major-0.label>
+  <HeartArteryBlockage.stages.major-0.label>mórchúiseach</HeartArteryBlockage.stages.major-0.label>
   <!-- EN: major -->
-  <HeartArteryBlockage.stages.major-1.label>TODO</HeartArteryBlockage.stages.major-1.label>
+  <HeartArteryBlockage.stages.major-1.label>mórchúiseach</HeartArteryBlockage.stages.major-1.label>
   <!-- EN: extreme -->
-  <HeartArteryBlockage.stages.extreme.label>TODO</HeartArteryBlockage.stages.extreme.label>
+  <HeartArteryBlockage.stages.extreme.label>foircneach</HeartArteryBlockage.stages.extreme.label>
   
 </LanguageData>

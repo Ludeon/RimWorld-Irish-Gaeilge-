@@ -1,24 +1,24 @@
 ﻿//Normal outlanders
-farmer
-villager
-miller
-smith
-brewer
-weaver
-cook
-beggar
-town guard
-town councilor
-baker
-tailor
-elder
-gunsmith
-blacksmith
-fletcher
-thresher
-thatcher
-carpenter
-trader
+feirmeoir
+sráideánach
+muilleoir
+gabha
+grúdaire
+fíodóir
+cócaire
+bacach
+garda
+comhairleoir
+bácaire
+táilliúr
+aosach
+gabha gunnaí
+gabha dubh
+déantóir saighead
+buailteoir
+tuíodóir
+siúinéir
+trádálaí
 
 //Exotic outlanders
 surgeon
