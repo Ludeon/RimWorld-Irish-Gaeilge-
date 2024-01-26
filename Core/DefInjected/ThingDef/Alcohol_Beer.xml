@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: beer -->
-  <Beer.label>TODO</Beer.label>
+  <Beer.label>beoir</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>TODO</Beer.description>
+  <Beer.description>An deoch is mó a d'ól an cine daonna riamh seachas uisce. Bíonn beoir an-bhlasta, ach cuirfidh sé ar meisce thú. Má ólann coilínigh an iomarca beorach, tiocfaidh andúil agus fadhbanna sláinte orthu.</Beer.description>
   <!-- EN: Drink {0} -->
-  <Beer.ingestible.ingestCommandString>TODO</Beer.ingestible.ingestCommandString>
+  <Beer.ingestible.ingestCommandString>Ól {0}</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
-  <Beer.ingestible.ingestReportString>TODO</Beer.ingestible.ingestReportString>
+  <Beer.ingestible.ingestReportString>Ag ól {0}</Beer.ingestible.ingestReportString>
   <!-- EN: bottle -->
-  <Beer.tools.bottle.label>TODO</Beer.tools.bottle.label>
+  <Beer.tools.bottle.label>buidéal</Beer.tools.bottle.label>
   <!-- EN: neck -->
-  <Beer.tools.neck.label>TODO</Beer.tools.neck.label>
+  <Beer.tools.neck.label>scrogall</Beer.tools.neck.label>
   
   <!-- EN: wort -->
-  <Wort.label>TODO</Wort.label>
+  <Wort.label>poitín</Wort.label>
   <!-- EN: Un-fermented beer. This substance needs to ferment in a fermenting barrel before it becomes drinkable beer. -->
-  <Wort.description>TODO</Wort.description>
+  <Wort.description>Beoir neamhchoipthe. Ní mór an substaint seo a choipeadh i mbairille chun beoir a dhéanamh.</Wort.description>
   
 </LanguageData>

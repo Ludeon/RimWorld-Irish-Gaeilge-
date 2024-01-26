@@ -63,77 +63,77 @@
   <DesignatedFor>le {0}</DesignatedFor>
 
   <!-- EN: forbidden -->
-  <ForbiddenLower>verboten</ForbiddenLower>
+  <ForbiddenLower>coiscthe</ForbiddenLower>
   <!-- EN: outside allowed area -->
-  <ForbiddenOutsideAllowedAreaLower>außerhalb erlaubten Gebiets</ForbiddenOutsideAllowedAreaLower>
+  <ForbiddenOutsideAllowedAreaLower>lasmuigh den limistéar ceadaithe</ForbiddenOutsideAllowedAreaLower>
   <!-- EN: not in home area -->
-  <NotInHomeArea>nicht im Heimatgebiet</NotInHomeArea>
+  <NotInHomeArea>lasmuigh den limistéar baile</NotInHomeArea>
   <!-- EN: burning -->
-  <BurningLower>brennt</BurningLower>
+  <BurningLower>ag dó</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
-  <NoEmptyPlaceLower>kein Lagerplatz verfügbar, der frei, erreichbar oder dafür vorgesehen ist</NoEmptyPlaceLower>
+  <NoEmptyPlaceLower>níl spás folamh, inrochtana ar fáil chun seo a stóráil</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>kein Stapel zum Hinzufügen verfügbar</NoMergeTarget>
+  <NoMergeTarget>níl carn ar fáil ina bhféadfaidh é seo a chur</NoMergeTarget>
   <!-- EN: already filled enough -->
-  <AlreadyFilledLower>bereits genug aufgefüllt</AlreadyFilledLower>
+  <AlreadyFilledLower>lán go leor</AlreadyFilledLower>
   <!-- EN: missing {0} -->
-  <MissingMaterials>brauche {0}</MissingMaterials>
+  <MissingMaterials>{0} de dhíth</MissingMaterials>
   <!-- EN: No medicine for restriction '{CATEGORY}'. -->
-  <NoMedicineMatchingCategory>Keine Medizin für Pflegemodus '{CATEGORY}'</NoMedicineMatchingCategory>
+  <NoMedicineMatchingCategory>Níl aon leigheas ann faoin gcatagóir '{CATEGORY}'</NoMedicineMatchingCategory>
   <!-- EN: under required skill {0} -->
-  <UnderRequiredSkill>unter Mindeststufe {0}</UnderRequiredSkill>
+  <UnderRequiredSkill>faoin leibhéal scile a theastaíonn: {0}</UnderRequiredSkill>
   <!-- EN: under allowed skill {0} -->
-  <UnderAllowedSkill>unter erlaubter Stufe {0}</UnderAllowedSkill>
+  <UnderAllowedSkill>faoin leibhéal scile ceadaithe: {0}</UnderAllowedSkill>
   <!-- EN: above allowed skill {0} -->
-  <AboveAllowedSkill>über erlaubter Stufe {0}</AboveAllowedSkill>
+  <AboveAllowedSkill>thar an leibhéal scile ceadaithe: {0}</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
-  <NoReachableOutsideCell>keine Außenzelle erreichbar</NoReachableOutsideCell>
+  <NoReachableOutsideCell>níl aon cheall ar fáil lasmuigh</NoReachableOutsideCell>
   <!-- EN: missing required skill level -->
-  <MissingRequiredSkillLevel>notwendige Fertigkeitsstufe fehlt</MissingRequiredSkillLevel>
+  <MissingRequiredSkillLevel>faoin leibhéal scile a theastaíonn</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
-  <AnimalInteractedTooRecently>Tierinteraktion fand kürzlich statt</AnimalInteractedTooRecently>
+  <AnimalInteractedTooRecently>idirghníomhaíodh leis an ainmhí seo le déanaí</AnimalInteractedTooRecently>
   <!-- EN: interacted with too recently -->
-  <PrisonerInteractedTooRecently>Interaktion fand kürzlich statt</PrisonerInteractedTooRecently>
+  <PrisonerInteractedTooRecently>rinneadh seo le déanaí</PrisonerInteractedTooRecently>
   <!-- EN: no usable food -->
-  <NoUsableFood>keine nutzbare Nahrung</NoUsableFood>
+  <NoUsableFood>níl aon bhia in-úsáidte ar fáil</NoUsableFood>
   <!-- EN: no food -->
-  <NoFood>keine Nahrung</NoFood>
+  <NoFood>níl aon bhia ar fáil</NoFood>
   <!-- EN: no food matching restrictions -->
-  <NoFoodMatchingRestrictions>keine Nahrung gemäß Ernährungsplan</NoFoodMatchingRestrictions>
+  <NoFoodMatchingRestrictions>níl aon bhia ar fáil a thagann leis na srianta</NoFoodMatchingRestrictions>
   <!-- EN: No {0_label} -->
-  <NoIngredient>Brauche {0_label}</NoIngredient>
+  <NoIngredient>Níl aon {0_label} ar fáil</NoIngredient>
   <!-- EN: below requirements of {0} -->
-  <FoodBelowTitleRequirements>unterhalb der Anforderungen von {0}</FoodBelowTitleRequirements>
+  <FoodBelowTitleRequirements>faoin na riachtanais le haghaidh {0}</FoodBelowTitleRequirements>
   <!-- EN: animals skill too low - need {0} -->
-  <AnimalsSkillTooLow>Tiere-Fertigkeit zu niedrig - benötige {0}</AnimalsSkillTooLow>
+  <AnimalsSkillTooLow>scileanna ainmhí ró-íseal - tá {0} de dhíth</AnimalsSkillTooLow>
   <!-- EN: animal downed -->
-  <CantInteractAnimalDowned>Tier liegt am Boden</CantInteractAnimalDowned>
+  <CantInteractAnimalDowned>leagadh an t-ainmhí</CantInteractAnimalDowned>
   <!-- EN: animal sleeping -->
-  <CantInteractAnimalAsleep>Tier schläft</CantInteractAnimalAsleep>
+  <CantInteractAnimalAsleep>tá an t-ainmhí ina chodladh</CantInteractAnimalAsleep>
   <!-- EN: animal busy -->
-  <CantInteractAnimalBusy>Tier ist beschäftigt</CantInteractAnimalBusy>
+  <CantInteractAnimalBusy>tá an t-ainmhí gafa</CantInteractAnimalBusy>
   <!-- EN: no allowed reachable pens -->
-  <CantRopeAnimalNoUsableReachablePens>keine erlaubten Gehege erreichbar</CantRopeAnimalNoUsableReachablePens>
+  <CantRopeAnimalNoUsableReachablePens>níl aon chró ceadaithe ar fáil</CantRopeAnimalNoUsableReachablePens>
   <!-- EN: no enclosed pens -->
-  <CantRopeAnimalNoEnclosedPens>keine umschlossenen Gehege</CantRopeAnimalNoEnclosedPens>
+  <CantRopeAnimalNoEnclosedPens>níl aon chró imfhálaithe ar fáil</CantRopeAnimalNoEnclosedPens>
   <!-- EN: no allowed pens -->
-  <CantRopeAnimalNoAllowedPens>keine erlaubten Gehege</CantRopeAnimalNoAllowedPens>
+  <CantRopeAnimalNoAllowedPens>níl aon chró ceadaithe ar fáil</CantRopeAnimalNoAllowedPens>
   <!-- EN: no reachable pens -->
-  <CantRopeAnimalNoReachablePens>keine erlaubten Gehege erreichbar</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalNoReachablePens>níl an chró inrochtana ar fáil</CantRopeAnimalNoReachablePens>
   <!-- EN: can't touch -->
-  <CantRopeAnimalCantTouch>nicht erreichbar</CantRopeAnimalCantTouch>
+  <CantRopeAnimalCantTouch>can't touch</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
-  <CantRopeAnimalNoSpace>kein Platz im Gehege</CantRopeAnimalNoSpace>
+  <CantRopeAnimalNoSpace>níl aon spás in aon chró</CantRopeAnimalNoSpace>
   <!-- EN: {0_labelShort} is in {1} state -->
-  <CantRopeAnimalMentalState>das Tier ist übergeschnappt ({1})</CantRopeAnimalMentalState>
+  <CantRopeAnimalMentalState>tá {1} ar {0_labelShort}</CantRopeAnimalMentalState>
   <!-- EN: already in best pen -->
-  <CantRopeAnimalAlreadyInBestPen>bereits im besten Gehege</CantRopeAnimalAlreadyInBestPen>
+  <CantRopeAnimalAlreadyInBestPen>tá an t-ainmhí seo sa chró is fearr</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>{0}-Fertigkeit zu niedrig</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>scil ró-íséal ({0})</SkillTooLowForConstruction>
   <!-- EN: need components -->
-  <NoComponentsToRepair>benötige Bauteile</NoComponentsToRepair>
+  <NoComponentsToRepair>comhpháirteanna de dhíth</NoComponentsToRepair>
   <!-- EN: need {0} -->
-  <NoFuelToRefuel>benötige {0}</NoFuelToRefuel>
+  <NoFuelToRefuel>{0} de dhíth</NoFuelToRefuel>
   <!-- EN: need wort -->
   <NoWort>benötige Bierwürze</NoWort>
   <!-- EN: available food is in storage of higher priority -->

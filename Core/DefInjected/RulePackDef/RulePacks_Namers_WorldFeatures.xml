@@ -34,7 +34,14 @@
     <li>terrain_word->brush</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerAridShrubland.rulePack.rulesStrings>TODO</NamerAridShrubland.rulePack.rulesStrings>
+  <NamerAridShrubland.rulePack.rulesStrings><li>terrain_word(p=4)->scrobarnach</li>
+    <li>terrain_word(p=4)->scrobarnach</li>
+    <li>terrain_word(p=2)->ardchlár</li>
+    <li>terrain_word(p=2)->scrob</li>
+    <li>terrain_word->fásach</li>
+    <li>terrain_word->díthreabh</li>
+    <li>terrain_word->díthreabh</li>
+    <li>terrain_word->gortach</li></NamerAridShrubland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
@@ -44,7 +51,12 @@
     <li>terrain_word->anchorage</li>
     <li>terrain_word->cove</li>
   -->
-  <NamerBay.rulePack.rulesStrings>TODO</NamerBay.rulePack.rulesStrings>
+  <NamerBay.rulePack.rulesStrings><li>r_name(p=0.2)->murascaill [narrative_name]</li>
+    <li>terrain_word(p=6)->bá</li>
+    <li>terrain_word->biochta</li>
+    <li>terrain_word->murascaill</li>
+    <li>terrain_word->pointe</li>
+    <li>terrain_word->cobh</li></NamerBay.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -55,7 +67,7 @@
     <li>terrain_word->tangle</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerBorealForest.rulePack.rulesStrings><li>terrain_word(p=6)->forest</li>
+  <NamerBorealForest.rulePack.rulesStrings><li>foraois->terrain_word(p=6)</li>
     <li>foraois->terrain_word(p=3)</li>
     <li>garrán->terrain_word</li>
     <li>coill->terrain_word</li>
@@ -87,7 +99,28 @@
     <li>terrain_word->wasteland</li>
     <li>terrain_word->barrens</li>
   -->
-  <NamerDesert.rulePack.rulesStrings>TODO</NamerDesert.rulePack.rulesStrings>
+  <NamerDesert.rulePack.rulesStrings><li>r_name(p=0.4)->[narrative_name] [desert_adjective]</li>
+    <li>desert_adjective->cothrom</li>
+    <li>desert_adjective->bán</li>
+    <li>desert_adjective->mór</li>
+    <li>desert_adjective->cruálach</li>
+    <li>desert_adjective->loiscthe</li>
+    <li>desert_adjective->tirim</li>
+    <li>desert_adjective->fada</li>
+    <li>desert_adjective->dóite</li>
+    <li>desert_adjective->grianmhar</li>
+    <li>desert_adjective->dalltach</li>
+    <li>desert_adjective->te</li>
+    <li>desert_adjective->allasúil</li>
+    <li>desert_adjective->gainmheach</li>
+    <li>desert_adjective->carraigeach</li>
+    <li>terrain_word(p=6)->fásach</li>
+    <li>terrain_word->ardchlár</li>
+    <li>terrain_word->clár</li>
+    <li>terrain_word->abhantrach</li>
+    <li>terrain_word->fásach</li>
+    <li>terrain_word->fásach</li>
+    <li>terrain_word->gortach</li></NamerDesert.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
@@ -95,7 +128,10 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->thicket</li>
   -->
-  <NamerForest.rulePack.rulesStrings>TODO</NamerForest.rulePack.rulesStrings>
+  <NamerForest.rulePack.rulesStrings><li>terrain_word(p=6)->foraois</li>
+    <li>terrain_word->garrán</li>
+    <li>terrain_word->coill</li>
+    <li>terrain_word->doire</li></NamerForest.rulePack.rulesStrings>
   
   <!-- EN:
     <li>terrain_word->sheet</li>
@@ -126,7 +162,14 @@
     <li>terrain_word->islet</li>
     <li>terrain_word->point</li>
   -->
-  <NamerIsland.rulePack.rulesStrings>TODO</NamerIsland.rulePack.rulesStrings>
+  <NamerIsland.rulePack.rulesStrings><li>r_name(p=0.2)->oileán [narrative_name]</li>
+    <li>terrain_word(p=4)->oileán</li>
+    <li>terrain_word(p=2)->oileán</li>
+    <li>terrain_word->scairbh</li>
+    <li>terrain_word->atall</li>
+    <li>terrain_word->carraig</li>
+    <li>terrain_word->oileán</li>
+    <li>terrain_word->pointe</li></NamerIsland.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
@@ -139,7 +182,15 @@
     <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
-  <NamerLake.rulePack.rulesStrings>TODO</NamerLake.rulePack.rulesStrings>
+  <NamerLake.rulePack.rulesStrings><li>r_name->loch [narrative_name]</li>
+    <li>terrain_word(p=6)->loch</li>
+    <li>terrain_word->muir</li>
+    <li>terrain_word->linn</li>
+    <li>terrain_word->abhantrach</li>
+    <li>terrain_word->taiscumar</li>
+    <li>terrain_word(p=0.3)->slodán</li>
+    <li>terrain_word(p=0.3)->murlach</li>
+    <li>terrain_word(p=0.3)->loch</li></NamerLake.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
@@ -149,7 +200,12 @@
     <li>terrain_word->hills</li>
     <li>terrain_word->cliffs</li>
   -->
-  <NamerMountainRange.rulePack.rulesStrings>TODO</NamerMountainRange.rulePack.rulesStrings>
+  <NamerMountainRange.rulePack.rulesStrings><li>r_name(p=0.2)->sliabh [narrative_name]</li>
+    <li>terrain_word(p=5)->sléibhte</li>
+    <li>terrain_word(p=2)->sliabhraon </li>
+    <li>terrain_word->cnoc</li>
+    <li>terrain_word->cnoc</li>
+    <li>terrain_word->aillte</li></NamerMountainRange.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
@@ -170,7 +226,23 @@
     <li>terrain_word(p=3)->sea</li>
     <li>terrain_word->expanse</li>
   -->
-  <NamerOcean.rulePack.rulesStrings>TODO</NamerOcean.rulePack.rulesStrings>
+  <NamerOcean.rulePack.rulesStrings><li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
+    <li>ocean_adjective->gorm</li>
+    <li>ocean_adjective->bán</li>
+    <li>ocean_adjective->liath</li>
+    <li>ocean_adjective->bán</li>
+    <li>ocean_adjective->gaofar</li>
+    <li>ocean_adjective->stoirmiúil</li>
+    <li>ocean_adjective->suaimhneach</li>
+    <li>ocean_adjective->leathan</li>
+    <li>ocean_adjective->síoraí</li>
+    <li>ocean_adjective->cothrom</li>
+    <li>ocean_adjective->ciúin</li>
+    <li>ocean_adjective->corrach</li>
+    <li>ocean_adjective->séimh</li>
+    <li>terrain_word(p=6)->muir</li>
+    <li>terrain_word(p=3)->farraige</li>
+    <li>terrain_word->farraige</li></NamerOcean.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>

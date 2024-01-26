@@ -1,12 +1,12 @@
-﻿Primus
-Secundus
-Tertius
-Quadrus
-Pentimus
-Heximus
-Septimus
-Octus
-Nonus
+﻿Príomha
+a Dó
+a Trí
+a Ceathair
+a Cúig
+a Sé
+a Seacht
+a hOcht
+a Naoi
 
 Minutus
 Borealis

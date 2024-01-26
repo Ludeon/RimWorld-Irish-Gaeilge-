@@ -2,35 +2,35 @@
 <LanguageData>
   
   <!-- EN: You can dismiss letters by right-clicking on them. -->
-  <GameplayTips.DismissLetters>Is féidir fáil réidh le teachtaireachtaí trí dheaschliceáil orthu.</GameplayTips.DismissLetters>
+  <GameplayTips.DismissLetters>Is féidir fáil réidh le teachtaireachtaí ach deaschliceáil orthu.</GameplayTips.DismissLetters>
   <!-- EN: You can hold the shift key to queue orders on your colonists. -->
   <GameplayTips.QueueOrders>Is féidir an cnaipe SHIFT a bhrú chun orduithe a chiúáil.</GameplayTips.QueueOrders>
   <!-- EN: You can right-click and drag to reorder colonists on the colonist bar. -->
   <GameplayTips.ReorderColonistbar>Is féidir deaschliceáil agus tarraingt chun ord na gcoilíneach ar bharr an scáileáin a athrú.</GameplayTips.ReorderColonistbar>
   <!-- EN: You can select previous/next colonist with the , and . keys. -->
-  <GameplayTips.SelectPrevNextColonist>TODO</GameplayTips.SelectPrevNextColonist>
+  <GameplayTips.SelectPrevNextColonist>Is féidir cóilínigh a roghnú leis na cnaipí , agus .</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>TODO</GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>Is féidir socruithe a chliceáil agus a tharraingt chun iad a 'pheinteáil' ar rudaí éagsúla. Oibríonn sé le rudaí ar nós éadaí nó roghanna bia. </GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
-  <GameplayTips.ManualPriorities>TODO</GameplayTips.ManualPriorities>
+  <GameplayTips.ManualPriorities>Sa táb oibre, tugtar tosaíocht do rudaí a bhfuil uimhir a 1 leo, agus tugtar tosaíocht íseal do rudaí a bhfuil uimhir a 4 leo.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
-  <GameplayTips.ColonistMood>TODO</GameplayTips.ColonistMood>
+  <GameplayTips.ColonistMood>Taispeántar giúmar gach coilíneach taobh thiar dá pictiúir ar an mbarra ag barr an scáileáin.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->
-  <GameplayTips.WorkTabChangeAllColonists>TODO</GameplayTips.WorkTabChangeAllColonists>
+  <GameplayTips.WorkTabChangeAllColonists>Má dhéanann tú cliceáil iomlaide ar chineál oibre sa táb Oibre, athrófar na socruithe go gach cóilíneach ag an am céanna.</GameplayTips.WorkTabChangeAllColonists>
   <!-- EN: Right-clicking a number in the Work tab using manual priorities will reduce the priority instead of increasing it. -->
-  <GameplayTips.WorkTabDecreasePriority>TODO</GameplayTips.WorkTabDecreasePriority>
+  <GameplayTips.WorkTabDecreasePriority>Má dhéanann tú deaschliceáil ar uimhir sa táb Oibre, laghdófar an tosaíocht.</GameplayTips.WorkTabDecreasePriority>
   <!-- EN: You can hold the alt key to show detailed information about a specific tile. -->
-  <GameplayTips.CellInspector>TODO</GameplayTips.CellInspector>
+  <GameplayTips.CellInspector>Is féidir an cnaipe ALT a bhrú chun eolas breise a fháil maidir le leacán ar leith.</GameplayTips.CellInspector>
   <!-- EN: In a gunfight, always be behind cover! Right-click and drag to have your drafted fighters form a line. -->
-  <GameplayTips.GunfightCover>TODO</GameplayTips.GunfightCover>
+  <GameplayTips.GunfightCover>Bí cinnte go bhfuil tú ar foscadh agus gunnaí in úsáid agat! Deaschliceáil agus tarraing chun do chóilínigh dhréachtaithe a chur i líne.</GameplayTips.GunfightCover>
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
-  <GameplayTips.GunfightSpread>TODO</GameplayTips.GunfightSpread>
+  <GameplayTips.GunfightSpread>Deaschliceáil agus tarraing chun do chóilínigh dhréachtaithe a chur i líne. Tá sé éasca targaidí atá in aice lena chéile a bhualadh!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>TODO</GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>Má tá deatach ann, ní bheidh túiríní in ann targaidí a aimsiú. Is féidir iad a úsáid, ach ní bheidh siad chomh cruinn céanna! </GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
-  <GameplayTips.DesignDefenses>TODO</GameplayTips.DesignDefenses>
+  <GameplayTips.DesignDefenses>Agus do chosaint á tógáil, ná déan dearmad go bhféadfaidh naimhde teacht anuas ón spéir nó aníos ón talamh. Bí cinnte go bhfuil cosaint inmheánach agat.</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
-  <GameplayTips.ShootingAccuracyFogRain>TODO</GameplayTips.ShootingAccuracyFogRain>
+  <GameplayTips.ShootingAccuracyFogRain>Tá sé níos deacra airm fhadraoin a úsáid nuair a bhíonn ceo nó báisteach ann.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
   <GameplayTips.ShootingTooltip>TODO</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->

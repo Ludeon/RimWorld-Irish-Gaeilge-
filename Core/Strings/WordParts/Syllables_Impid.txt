@@ -16,66 +16,66 @@ fov
 
 ga
 
-hi
+ha
 ho
 ha
 haz
-hach
-hak
+hac
+hac
 
-je
-ji
-jul
+da
+da
+dal
 
-ke
-ko
-kav
-kaz
-kach
-ketz
+ca
+ca
+cav
+caz
+cac
+cats
 
 la
-li
-ltz
+la
+lach
 
-me
+ma
 mo
-mi
+ma
 
 no
-ne
-nch
+na
+nach
 
-pi
+pa
 
-re
+ra
 ro
-roz
-retz
+ras
+ratsa
 
 so
-si
+sa
 su
-se
-sz
-sez
-soss
+sa
+sás
+sas
+sas
 
-ths
-tha
-thaa
-thz
-the
+tas
+tá
+tá
+tás
+ta
 
 va
-ve
-vi
+va
+va
 vo
 vu
 vas
-vtch
-vz
+vach
+vá
 
-ze
-zo
-zech
+za
+za
+zach

@@ -3,153 +3,153 @@
 
   <!-- Forbid -->
   <!-- EN: Forbid -->
-  <CommandForbid>Verbieten</CommandForbid>
+  <CommandForbid>Dícheadaigh</CommandForbid>
   <!-- EN: Allow -->
-  <CommandAllow>Erlauben</CommandAllow>
+  <CommandAllow>Ceadaigh</CommandAllow>
   <!-- EN: Forbidden: Your colonists are not allowed to interact with this. Click to allow. -->
-  <CommandForbiddenDesc>Verboten: Deine Kolonisten dürfen damit nicht interagieren. Klicke zum Erlauben.</CommandForbiddenDesc>
+  <CommandForbiddenDesc>Dícheadaithe: Níl cead ag do Chóilínigh é seo a úsáid.</CommandForbiddenDesc>
   <!-- EN: Allowed: Your colonists are allowed to interact with this. Click to forbid. -->
-  <CommandNotForbiddenDesc>Erlaubt: Deine Kolonisten dürfen damit interagieren. Klicke zum Verbieten.</CommandNotForbiddenDesc>
+  <CommandNotForbiddenDesc>Ceadaithe: Tá cead ag do chóilínigh seo a úsáid.</CommandNotForbiddenDesc>
 
   <!-- Power -->
   <!-- EN: Toggle power -->
-  <CommandTogglePowerLabel>Ein/Aus</CommandTogglePowerLabel>
+  <CommandTogglePowerLabel>Cas air/ as</CommandTogglePowerLabel>
   <!-- EN: Toggle power. -->
-  <CommandTogglePowerDesc>Ein-/Ausschalten.</CommandTogglePowerDesc>
+  <CommandTogglePowerDesc>Cuir an chumacht ar siúl nó múch í.</CommandTogglePowerDesc>
   
   <!-- EN: Designate toggle power -->
-  <CommandDesignateTogglePowerLabel>Strom ein/aus</CommandDesignateTogglePowerLabel>
+  <CommandDesignateTogglePowerLabel>Cas air/as</CommandDesignateTogglePowerLabel>
   <!-- EN: Designate this thing to have power toggled. A colonist will come soon to flick the switch. -->
-  <CommandDesignateTogglePowerDesc>Ordne an, dass bei diesem Objekt die Stromversorgung umgeschaltet werden soll. Ein Kolonist wird so bald wie möglich kommen und den Schalter umlegen.</CommandDesignateTogglePowerDesc>
+  <CommandDesignateTogglePowerDesc>Roghnaith an bhfuil an rud seo le casadh air/as. Tiocfaidh cóilíneach chun an cnaipe a bhrú.</CommandDesignateTogglePowerDesc>
   
   <!-- EN: Reconnect -->
-  <CommandTryReconnectLabel>Neu verbinden</CommandTryReconnectLabel>
+  <CommandTryReconnectLabel>Athcheangal</CommandTryReconnectLabel>
   <!-- EN: Try to connect to a different power net within my connection radius. This is useful if I'm connected to an unpowered net but there is a powered net nearby. -->
-  <CommandTryReconnectDesc>Versuche, das Objekt mit einem anderen Stromnetz innerhalb seiner Reichweite zu verbinden. Das ist z.B. nützlich, wenn man ein Objekt, das gerade mit einem inaktiven Stromnetz verbunden ist, mit einem aktiven Stromnetz verbinden will.</CommandTryReconnectDesc>
+  <CommandTryReconnectDesc>Déan iarracht an rud seo a cheangal le líonra cumhachta eile atá cóngarach. Bíonn seo úsáideach mura bhfuil an rud ceangailte le leictreachas ach má tá cumacht ar fáil in aice láimhe.</CommandTryReconnectDesc>
 
   <!-- EN: Gather spot -->
-  <CommandGatherSpotToggleLabel>Sammelpunkt</CommandGatherSpotToggleLabel>
+  <CommandGatherSpotToggleLabel>Tionól</CommandGatherSpotToggleLabel>
   <!-- EN: Active - colonists will gather around this object. -->
-  <CommandGatherSpotToggleDescActive>Aktiv - Kolonisten werden sich bei diesem Objekt versammeln.</CommandGatherSpotToggleDescActive>
+  <CommandGatherSpotToggleDescActive>Gníomach - Baileoidh cóilínigh le chéile timpeall ar an spota seo.</CommandGatherSpotToggleDescActive>
   <!-- EN: Inactive - colonists will not gather around this object. -->
-  <CommandGatherSpotToggleDescInactive>Inaktiv - Kolonisten werden sich nicht bei diesem Objekt versammeln.</CommandGatherSpotToggleDescInactive>
+  <CommandGatherSpotToggleDescInactive>Neamhgníomach - Ní bhaileoidh cóilínigh le chéile timpeall ar an spota seo.</CommandGatherSpotToggleDescInactive>
   
   <!-- Drafting -->
   <!-- EN: Draft -->
-  <CommandDraftLabel>Kampfmodus</CommandDraftLabel>
+  <CommandDraftLabel>Dréachtaigh</CommandDraftLabel>
   <!-- EN: Undraft -->
-  <CommandUndraftLabel>Kampfmodus beenden</CommandUndraftLabel>
+  <CommandUndraftLabel>Dídhréachtaigh</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>Schaltet den Kampfmodus ein/aus.\n\nKolonisten im Kampfmodus können direkt gesteuert werden. Sie werden jedoch nicht arbeiten, essen oder schlafen gehen.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Roghnaidh daoine le dréáchtú.\n\nLeanfaidh cóilínigh dhréachtaithe orduithe agus rachaidh siad i mbun troda. Ní dhéanfaidh siad aon obair, ní ithfidh siad, agus ní thógfaidh siad sos.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
-  <IsIncapped>{1_labelShort} kann nicht laufen.</IsIncapped>
+  <IsIncapped>Ní féidir le {1_labelShort} siúl.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <ParticipatingInRitual>{0_labelShort} nimmt gerade an '{1}' teil.</ParticipatingInRitual>
+  <ParticipatingInRitual>Tá {0_labelShort} ag glacadh páirte i '{1}'.</ParticipatingInRitual>
 
   <!-- EN: Fire at will -->
-  <CommandFireAtWillLabel>Schießen erlauben</CommandFireAtWillLabel>
+  <CommandFireAtWillLabel>Scaoil</CommandFireAtWillLabel>
   <!-- EN: Toggle fire at will.\n\nWhen disabled, this character will not automatically shoot at ranged targets. Does not affect melee combat. -->
-  <CommandFireAtWillDesc>Erlaube oder verbiete das Schießen nach eigenem Ermessen.\n\nWenn deaktiviert, schießt dieser Charakter nicht automatisch auf ferne Ziele. Dieser Befehl hat keinen Einfluss auf den Nahkampf.</CommandFireAtWillDesc>
+  <CommandFireAtWillDesc>Má mhúchtar an socrú seo, ní scaoilfidh an carachtar seo ar thargaidí go huathoibríoch.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>Priorisierte Arbeiten löschen</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>Athshocraigh obair thosaíochta</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>Lösche alle priorisierten Arbeiten, die du zugewiesen hast. Der Charakter wird mit seinen normalen Aktivitäten weitermachen.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>Glan aon obair thosaíochta a sannadh roimhe seo. Rachaidh an carachtar seo i mbun gníomhaíochtaí féinstiúrtha arís.</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
-  <CommandCancelConstructionLabel>Abbrechen</CommandCancelConstructionLabel>
+  <CommandCancelConstructionLabel>Cealaigh</CommandCancelConstructionLabel>
   <!-- EN: Cancel this construction. -->
-  <CommandCancelConstructionDesc>Brich diese Konstruktion ab.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionDesc>Cealaigh an tógáil seo.</CommandCancelConstructionDesc>
 
   <!-- EN: Get out of bed -->
-  <CommandGetOutOfBedLabel>Aufstehen</CommandGetOutOfBedLabel>
+  <CommandGetOutOfBedLabel>Éirí</CommandGetOutOfBedLabel>
   <!-- EN: Get out of current bed. -->
-  <CommandGetOutOfBedDesc>Stehe auf und verlasse das aktuelle Bett.</CommandGetOutOfBedDesc>
+  <CommandGetOutOfBedDesc>Éirí ón leaba.</CommandGetOutOfBedDesc>
 
   <!-- EN: Set owner -->
-  <CommandThingSetOwnerLabel>Besitzer wählen</CommandThingSetOwnerLabel>
+  <CommandThingSetOwnerLabel>Roghnaigh úinéir</CommandThingSetOwnerLabel>
   <!-- EN: Assign this bed to be owned by a specific {0}. -->
-  <CommandBedSetOwnerDesc>Weise dieses Bett einem bestimmten {lookup: {0}; decline; 2} zu.</CommandBedSetOwnerDesc>
+  <CommandBedSetOwnerDesc>Roghnaigh {0} mar úinéir ar an leaba seo.</CommandBedSetOwnerDesc>
   <!-- EN: Assign this throne to be owned by a specific colonist. -->
-  <CommandThroneSetOwnerDesc>Weise diesen Thron einem bestimmten Kolonisten zu.</CommandThroneSetOwnerDesc>
+  <CommandThroneSetOwnerDesc>Roghnaigh úinéir don ríchathaoir seo.</CommandThroneSetOwnerDesc>
   <!-- EN: Assign this meditation spot to be owned by a specific colonist. -->
-  <CommandMeditationSpotSetOwnerDesc>Weise diesen Meditationsplatz einem bestimmten Kolonisten zu.</CommandMeditationSpotSetOwnerDesc>
+  <CommandMeditationSpotSetOwnerDesc>Roghnaigh úinéir don spota machnaimh seo.</CommandMeditationSpotSetOwnerDesc>
   <!-- EN: Assign colonist -->
-  <CommandGraveAssignColonistLabel>Kolonist zuweisen</CommandGraveAssignColonistLabel>
+  <CommandGraveAssignColonistLabel>Roghnaigh cóilíneach</CommandGraveAssignColonistLabel>
   <!-- EN: Assign this grave to be owned by a specific colonist. -->
-  <CommandGraveAssignColonistDesc>Weise dieses Grab einem bestimmten Kolonisten zu.</CommandGraveAssignColonistDesc>
+  <CommandGraveAssignColonistDesc>Roghnaigh cóilíneach ar leith don uaigh seo.</CommandGraveAssignColonistDesc>
   <!-- EN: Assign -->
-  <BuildingAssign>Zuweisen</BuildingAssign>
+  <BuildingAssign>Roghnaigh</BuildingAssign>
   <!-- EN: Reassign -->
-  <BuildingReassign>Neu zuweisen</BuildingReassign>
+  <BuildingReassign>Athroghnaigh</BuildingReassign>
   <!-- EN: Unassign -->
-  <BuildingUnassign>Zuweisung aufheben</BuildingUnassign>
+  <BuildingUnassign>Díroghnaigh</BuildingUnassign>
   <!-- EN: For prisoners -->
-  <CommandBedSetForPrisonersLabel>Für Gefangene</CommandBedSetForPrisonersLabel>
+  <CommandBedSetForPrisonersLabel>Priosúnaigh</CommandBedSetForPrisonersLabel>
   <!-- EN: Whether beds in this room should be used by prisoners. -->
-  <CommandBedSetForPrisonersDesc>Lege fest, ob die Betten in diesem Raum von Gefangenen genutzt werden sollen.</CommandBedSetForPrisonersDesc>
+  <CommandBedSetForPrisonersDesc>Úsáidfear na leapacha sa seomra seo do phríosúnaigh.</CommandBedSetForPrisonersDesc>
   <!-- EN: Only beds in enclosed spaces can be set for prisoners. -->
-  <CommandBedSetForPrisonersFailOutdoors>Nur Betten in geschlossenen Räumen können als Gefängnisbetten markiert werden.</CommandBedSetForPrisonersFailOutdoors>
+  <CommandBedSetForPrisonersFailOutdoors>Ní mór leapacha atá i spáis dhúnta a roghnú do phríosúnaigh.</CommandBedSetForPrisonersFailOutdoors>
   <!-- EN: Medical -->
-  <CommandBedSetAsMedicalLabel>Medizinisch</CommandBedSetAsMedicalLabel>
+  <CommandBedSetAsMedicalLabel>Leigheas</CommandBedSetAsMedicalLabel>
   <!-- EN: Whether this bed is for medical use. -->
-  <CommandBedSetAsMedicalDesc>Lege fest, ob dieses Bett für medizinische Zwecke verwendet werden soll.</CommandBedSetAsMedicalDesc>
+  <CommandBedSetAsMedicalDesc>Úsáidfear na leapacha sa seomra seo do chúram leighis.</CommandBedSetAsMedicalDesc>
   <!-- EN: Turning on prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOnPrisonerBedWarning>Das Einschalten des Gefängnismodus betrifft den gesamten Raum (da Kolonisten und Gefangene nicht im selben Raum schlafen können).\n\nFolgende Personen verlieren ihre Betten:</TurningOnPrisonerBedWarning>
+  <TurningOnPrisonerBedWarning>Má roghnaítear príosúnaigh, athrófar an seomra iomlán (ós rud é nach bhféadfaidh príosúnaigh agus cóilínigh dul ina gcodladh sa seomra céanna).\n\nCaillfidh na daoine seo a gcuid leapacha:</TurningOnPrisonerBedWarning>
   <!-- EN: Turning off prisoner mode affects the whole room (since prisoners and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <TurningOffPrisonerBedWarning>Das Ausschalten des Gefängnismodus betrifft den gesamten Raum (da Kolonisten und Gefangene nicht im selben Raum schlafen können).\n\nFolgende Personen verlieren ihre Betten:</TurningOffPrisonerBedWarning>
+  <TurningOffPrisonerBedWarning>Má dhíroghnaítear príosúnaigh, athrófar an seomra iomlán (ós rud é nach bhféadfaidh príosúnaigh agus cóilínigh dul ina gcodladh sa seomra céanna).\n\nCaillfidh na daoine seo a gcuid leapacha:</TurningOffPrisonerBedWarning>
   <!-- EN: Are you sure you want to do this? -->
-  <AreYouSure>Willst du das wirklich tun?</AreYouSure>
+  <AreYouSure>Ar mian leat leanúint ar aghaidh?</AreYouSure>
   <!-- EN: Changing bed use affects the whole room (since prisoners, slaves and colonists cannot sleep in the same room).\n\nThese people will lose ownership of their beds: -->
-  <ChangingOwnerTypeBedWarning>Das Ändern der Bettdefinition hat Auswirkungen auf den ganzen Raum (da Gefangene, Sklaven und Kolonisten nicht im selben Raum schlafen können).\n\nFolgende Personen verlieren ihre Betten:</ChangingOwnerTypeBedWarning>
+  <ChangingOwnerTypeBedWarning>Beidh éifeacht ag an athrú seo ar an seomhra iomlán (ós rud é nach bhféadfaidh príosúnaigh, sclábhaithe agus cóilínigh dul ina gcodladh sa seomra céanna).\n\nCaillfidh na daoine seo a gcuid leapacha:</ChangingOwnerTypeBedWarning>
 
 
   <!-- EN: Detonate -->
-  <CommandDetonateLabel>Detonation</CommandDetonateLabel>
+  <CommandDetonateLabel>Pléasc</CommandDetonateLabel>
   <!-- EN: Start the countdown to detonation. -->
-  <CommandDetonateDesc>Starte den Countdown bis zur Detonation.</CommandDetonateDesc>
+  <CommandDetonateDesc>Cuir tús leis an gcomhaireamh síos chuig an bpléascadh.</CommandDetonateDesc>
 
   <!-- EN: Rename -->
-  <CommandRenameZoneLabel>Umbenennen</CommandRenameZoneLabel>
+  <CommandRenameZoneLabel>Athainmnigh</CommandRenameZoneLabel>
   <!-- EN: Rename this zone. -->
-  <CommandRenameZoneDesc>Benenne diese Zone um.</CommandRenameZoneDesc>
+  <CommandRenameZoneDesc>Roghnaigh ainm nua don zón seo.</CommandRenameZoneDesc>
 
   <!-- EN: Hide -->
-  <CommandHideZoneLabel>Ausblenden</CommandHideZoneLabel>
+  <CommandHideZoneLabel>Folaigh</CommandHideZoneLabel>
   <!-- EN: Unhide -->
-  <CommandUnhideZoneLabel>Einblenden</CommandUnhideZoneLabel>
+  <CommandUnhideZoneLabel>Dífholaigh</CommandUnhideZoneLabel>
   <!-- EN: Hide/unhide this zone. -->
-  <CommandHideZoneDesc>Blende diese Zone ein oder aus.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Cuir an zón seo i bhfolach, nó taispeán é.</CommandHideZoneDesc>
 
   <!-- EN: Delete -->
-  <CommandDeleteZoneLabel>Löschen</CommandDeleteZoneLabel>
+  <CommandDeleteZoneLabel>Scrios</CommandDeleteZoneLabel>
   <!-- EN: Delete this zone. -->
-  <CommandDeleteZoneDesc>Lösche diese Zone.</CommandDeleteZoneDesc>
+  <CommandDeleteZoneDesc>Scrios an zón seo.</CommandDeleteZoneDesc>
 
   <!-- EN: Copy settings -->
-  <CommandCopyZoneSettingsLabel>Einstellung kopieren</CommandCopyZoneSettingsLabel>
+  <CommandCopyZoneSettingsLabel>Cóipeáil socruithe</CommandCopyZoneSettingsLabel>
   <!-- EN: Copy this storage's settings to the clipboard so you can paste them onto another zone. -->
-  <CommandCopyZoneSettingsDesc>Kopiere die Einstellungen dieses Lagers in die Zwischenablage, um sie in ein anderes Lager einzufügen.</CommandCopyZoneSettingsDesc>
+  <CommandCopyZoneSettingsDesc>Cóipeáil na socruithe don stóras seo chuig an ngearrthaisce, chun go mbeidh tú in ann iad a chur le zón eile.</CommandCopyZoneSettingsDesc>
 
   <!-- EN: Paste settings -->
-  <CommandPasteZoneSettingsLabel>Einstellung einfügen</CommandPasteZoneSettingsLabel>
+  <CommandPasteZoneSettingsLabel>Greamaigh socruithe</CommandPasteZoneSettingsLabel>
   <!-- EN: Overwrite this storage's settings with those previously copied to the clipboard. -->
-  <CommandPasteZoneSettingsDesc>Überschreibe die Einstellungen dieses Lagers mit den zuvor kopierten aus der Zwischenablage.</CommandPasteZoneSettingsDesc>
+  <CommandPasteZoneSettingsDesc>Cuir na socruithe atá cóipeáilte ar an ngearrthaisce i bhfeidhm ar an stóras seo.</CommandPasteZoneSettingsDesc>
 
   <!-- EN: Allow sowing -->
-  <CommandAllowSow>Anbauen erlauben</CommandAllowSow>
+  <CommandAllowSow>Síolrú ceadaithe</CommandAllowSow>
   <!-- EN: When disabled, colonists will never sow new plants in this zone. They will still harvest. -->
-  <CommandAllowSowDesc>Bei Deaktivierung werden Kolonisten keine neuen Pflanzen in dieser Zone anbauen. Sie dürfen aber weiterhin die Zone abernten.</CommandAllowSowDesc>
+  <CommandAllowSowDesc>Má mhúchtar an socrú seo, ní chuirfidh cóilínigh aon phlandaí nua sa zón seo. Bainfear aon rud a fhásann go fóill.</CommandAllowSowDesc>
 
   <!-- EN: Allow cutting -->
-  <CommandAllowCut>Entfernen erlauben</CommandAllowCut>
+  <CommandAllowCut>Gearradh ceadaithe</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
-  <CommandAllowCutDesc>Bei Deaktivierung werden Kolonisten keine Pflanzen in dieser Zone entfernen. Sie dürfen aber weiterhin neue Pflanzen auf bereits leeren Zellen anbauen und Pflanzen ernten, die dem Pflanzentyp der Anbauzone entsprechen.</CommandAllowCutDesc>
+  <CommandAllowCutDesc>Má mhúchtar an socru seo, ní ghearrfaidh cóilínigh aon phlandaí sa zón seo. Cuirfidh siad plandaí nua i spásanna atá ann cheana.</CommandAllowCutDesc>
   
   <!-- EN: Select {0_label} -->
-  <CommandSelectStoredThing>{0_label} selektieren</CommandSelectStoredThing>
+  <CommandSelectStoredThing>Roghnaigh {0_label}</CommandSelectStoredThing>
   <!-- EN: Select the item stored in here. -->
-  <CommandSelectStoredThingDesc>Selektiere den hier gelagerten Gegenstand.</CommandSelectStoredThingDesc>
+  <CommandSelectStoredThingDesc>Roghnaigh an t-earra a stóráltar anseo.</CommandSelectStoredThingDesc>
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->

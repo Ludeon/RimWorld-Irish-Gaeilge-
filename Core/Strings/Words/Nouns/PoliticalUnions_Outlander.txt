@@ -6,8 +6,8 @@ cónaidhm
 aontas
 conradh 
 conradh 
-comhaontú
-comhaontú
+comhaontas
+comhaontas
 
 //Outlander specific (different from empire)
 cónaidhm

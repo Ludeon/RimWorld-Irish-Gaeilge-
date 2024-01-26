@@ -313,9 +313,9 @@
   <!-- EN: This is a small-volume ingredient. This means that each 'unit' is only 1/{0} as much as a normal-volume ingredient. So, to fill the same ingredient requirement, you'll need {0}x as much as usual. -->
   <ThisIsSmallVolume>Comhábhar beag is ea é seo. Ciallaíon sé sin nach bhfuil gach 'aonad' ach 1/{0} chomh mór le gnáth-chomhábhar. Mar sin, chun aon riachtanais a líonadh, beidh {0}x níos mó den chomhabhar seo de dhíth ort.</ThisIsSmallVolume>
   <!-- EN: ingredients -->
-  <UsableIngredients>Zutaten</UsableIngredients>
+  <UsableIngredients>comhábhair</UsableIngredients>
   <!-- EN: To {0} -->
-  <BillRepeatTargetCountShort>Bis {0}</BillRepeatTargetCountShort>
+  <BillRepeatTargetCountShort>Go dtí {0}</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
   <PauseWhenSatisfied>Pause, wenn Bedingung erfüllt</PauseWhenSatisfied>

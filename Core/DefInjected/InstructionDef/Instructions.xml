@@ -101,7 +101,7 @@
   <!-- EN: Click GENERATE to generate your world. -->
   <CreateWorldParams.rejectInputMessage>Cliceáil ar CRUTHAIGH chun an pláinéad a ghiniúint.</CreateWorldParams.rejectInputMessage>
   <!-- EN: Welcome to RimWorld!\n\nThis page configures how your world should be generated.\n\nThe default settings here are good - go ahead and click GENERATE! -->
-  <CreateWorldParams.text>Fáilte chuig RimWorld!\n\nÚsáidtear an leathanach seo chun do phlainéad a ghiniúint.\n\Ní gá na réamhshocruithe ar an roghchlár seo a athrú - lean ar aghaidh agus cliceáil ar CRUTHAIGH.</CreateWorldParams.text>
+  <CreateWorldParams.text>Fáilte chuig RimWorld!\n\nÚsáidtear an leathanach seo chun do dhomhan a ghiniúint.\n\nNí gá na réamhshocruithe ar an roghchlár seo a athrú - lean ar aghaidh agus cliceáil ar CRUTHAIGH.</CreateWorldParams.text>
   
   <!-- EN: Send colonists here\ntouching sandbags for cover -->
   <DownRaider.onMapInstruction>Cuir coilínigh ar foscadh anseo\ntaobh leis na málaí gainimh</DownRaider.onMapInstruction>

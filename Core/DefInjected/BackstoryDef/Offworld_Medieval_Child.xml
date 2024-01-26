@@ -11,7 +11,7 @@
   <!-- EN: [PAWN_nameDef] was a minor noble in an old kingdom on a medieval world. [PAWN_pronoun] grew up in a manor made of stone, served by bowing lowerclassmen.\n\nSuch a life teaches no technical skills and instils a lifelong aversion to manual labor - but [PAWN_nameDef] learned early the ways of social manipulation. -->
   <MedievalLordling19.baseDesc>Fothiarna ab ea [PAWN_nameDef] i seanríocht ar dhomhan meánaoiseach. D'fhás [PAWN_nameDef] aníos i gcaisleán mór, rud a chiallaíonn nach ndearna [PAWN_nameDef] mórán oibre teicniúil. Tuigeann [PAWN_nameDef] conas tionchar a imirt ar dhaoine eile, áfach.</MedievalLordling19.baseDesc>
   <!-- EN: medieval lordling -->
-  <MedievalLordling19.title>mion-tiarna meánaoiseach</MedievalLordling19.title>
+  <MedievalLordling19.title>miontiarna meánaoiseach</MedievalLordling19.title>
   <!-- EN: medieval lady -->
   <MedievalLordling19.titleFemale>bantairna meánaoiseach</MedievalLordling19.titleFemale>
   <!-- EN: lordling -->

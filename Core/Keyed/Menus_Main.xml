@@ -71,7 +71,7 @@
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Warnung: Dies ist eine instabile Entwicklerversion. Das bedeutet, dass wir mit dem Design experimentieren und technische Entwicklungen vornehmen.\n\nEinige Dinge werden mit Absicht zeitweise unausgeglichen sein. Das ist eine klassische Methode der Spieleentwicklung, bei der wir absichtlich die Grenzen überschreiten, um die Balance besser zu verstehen. Mit diesen Informationen können wir dann die endgültigen Einstellungen festlegen.\n\nEs wird auch Bugs geben, einschließlich solcher, die das Spiel unspielbar machen. Die Kompatibilität von Speicherständen kann jederzeit verloren gehen.\n\nWenn du mit all dem einverstanden bist, danke fürs Testen! Wenn du nicht an unseren Experimenten teilnehmen möchtest, spiel bitte mit der stabilen Version.</DevBuildWarning>
+  <DevBuildWarning>Rabhadh: tá leagan forbartha den chluiche in úsáid agat, rud a chiallaíonn go bhfuil sé fós a dhearadh againn go fóill.\n\nBeidh socruithe áirithe as alt dá bharr. Is minic go dtéann muid thar fóir le hathruithe tásála chuin tuiscint a fháil ar na sriantaí a bhaineann leis na gnéithe úra a chuirtear lesi an gcluiche. Ansin, bainimid úsáid an an eolas sinn chun cothromaíocht a aimsiú sa leagan deiridh.\n\nBeidh fabhtanna ann, agus beidh drochthionchar acu ar an gcluiche. D'fhéadfadh sé nach n-oibreoidh do chuid sábhálacha amach anseo.\n\nMá tá tú sásta leanúint ar aghaidh, gabhaimid buíochas leat as an leagan seo a thástáil! Mura bhfuil tú ag iarraidh páirt a ghlacadh sa tástáil, moltar duit an leagan reatha is déanaí den chluiche a imirt.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -155,7 +155,7 @@
   <!-- EN: Auto-sort mods -->
   <ResolveModOrder>Uath-sortáil modanna</ResolveModOrder>
   <!-- EN: Save and apply changes -->
-  <SaveModChanges>Sábháil &amp; Cur i bhfeidhm</SaveModChanges>
+  <SaveModChanges>Sábháil agus cur i bhfeidhm</SaveModChanges>
   <!-- EN: Mod changes have not been saved. Are you sure you want to continue? -->
   <DiscardModChanges>Níor sábháladh na hathruithe a rinneadh ar na modanna. Ar mhaith leat leanúint ar aghaidh?</DiscardModChanges>
   <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
@@ -187,109 +187,109 @@
   <!-- EN: Save / load list... -->
   <SaveLoadList>Liosta sábhála/lódála...</SaveLoadList>
   <!-- EN: Save mod list -->
-  <SaveModList>Mod-Liste speichern</SaveModList>
+  <SaveModList>Sabháil liosta modanna</SaveModList>
   <!-- EN: Load mod list -->
-  <LoadModList>Mod-Liste laden</LoadModList>
+  <LoadModList>Lódáil liosta modanna</LoadModList>
   <!-- EN: Added mods -->
-  <AddedModsList>Hinzugefügte Mods</AddedModsList>
+  <AddedModsList>Modanna nua</AddedModsList>
   <!-- EN: Missing mods -->
-  <MissingModsList>Fehlende Mods</MissingModsList>
+  <MissingModsList>Modanna in easnamh</MissingModsList>
   <!-- EN: Shared mods -->
-  <SharedModsList>Geteilte Mods</SharedModsList>
+  <SharedModsList>Modanna roinnte</SharedModsList>
   <!-- EN: Website -->
-  <ModWebsite>Webseite</ModWebsite>
+  <ModWebsite>Suíomh gréasáin</ModWebsite>
   <!-- EN: Open folder -->
-  <ModFolder>Ordner öffnen</ModFolder>
+  <ModFolder>Oscail fillteán</ModFolder>
   <!-- EN: Mod options -->
-  <ModOptions>Mod-Optionen</ModOptions>
+  <ModOptions>Socruithe modanna</ModOptions>
   <!-- EN: Workshop -->
   <FromWorkshop>Workshop</FromWorkshop>
   <!-- EN: Forum -->
-  <FromForum>Forum</FromForum>
+  <FromForum>Fóram</FromForum>
   <!-- EN: Advanced... -->
-  <MoreActions>Erweitert...</MoreActions>
+  <MoreActions>Socruithe Breise...</MoreActions>
   <!-- EN: All selected mods -->
-  <AllSelectedMods>Alle ausgewählten Mods</AllSelectedMods>
+  <AllSelectedMods>Gach mod roghnaithe</AllSelectedMods>
   <!-- EN: All disabled mods -->
-  <AllDisabledMods>Alle deaktivierten Mods</AllDisabledMods>
+  <AllDisabledMods>Gach mod díchumasaithe</AllDisabledMods>
   <!-- EN: All incompatible mods -->
-  <AllIncompatibleMods>Alle inkompatiblen Mods</AllIncompatibleMods>
+  <AllIncompatibleMods>Gach mod neamh-chomhoiriúnach</AllIncompatibleMods>
   <!-- EN: Workshop page -->
-  <WorkshopPage>Workshop-Seite</WorkshopPage>
+  <WorkshopPage>Leathanach Workshop</WorkshopPage>
   <!-- EN: Upload to Steam Workshop -->
-  <UploadToSteamWorkshop>In Workshop hochladen</UploadToSteamWorkshop>
+  <UploadToSteamWorkshop>Uaslódáil go dtí Steam Workshop</UploadToSteamWorkshop>
   <!-- EN: Update on Steam Workshop -->
-  <UpdateOnSteamWorkshop>In Workshop aktualisieren</UpdateOnSteamWorkshop>
+  <UpdateOnSteamWorkshop>Uasdátaigh ó Steam Workshop</UpdateOnSteamWorkshop>
   <!-- EN: Upload already in progress. -->
-  <UploadAlreadyInProgress>Wird bereits hochgeladen.</UploadAlreadyInProgress>
+  <UploadAlreadyInProgress>Tá uaslódáil ar siúl cheana féin.</UploadAlreadyInProgress>
   <!-- EN: Workshop submission failed.\n\nReason: {0} -->
-  <WorkshopSubmissionFailed>Übertragung zum Workshop fehlgeschlagen.\n\nUrsache: {0}</WorkshopSubmissionFailed>
+  <WorkshopSubmissionFailed>Theip ar an uaslódáil.\n\nCúis: {0}</WorkshopSubmissionFailed>
   <!-- EN: Successfully uploaded {0}. -->
-  <WorkshopUploadSucceeded>{0} erfolgreich hochgeladen.</WorkshopUploadSucceeded>
+  <WorkshopUploadSucceeded>Uaslódáladh {0}.</WorkshopUploadSucceeded>
   <!-- EN: Downloading -->
-  <Downloading>Lade herunter</Downloading>
+  <Downloading>Ag íoslódáil</Downloading>
   <!-- EN: Workshop ID -->
   <WorkshopId>Workshop-ID</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>Erfüllte Anforderungen anzeigen</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Féach riachtanais chríochnaithe</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
-  <ModClickToSelect>Klicke zum Auswählen.</ModClickToSelect>
+  <ModClickToSelect>Cliceáil le roghnú.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
-  <ModClickToGoToWebsite>Klicke, um zur Webseite zu gelangen.</ModClickToGoToWebsite>
+  <ModClickToGoToWebsite>Cliceáil le dul chuig an suíomh gréasáin.</ModClickToGoToWebsite>
   <!-- EN: Source -->
-  <Source>Quelle</Source>
+  <Source>Foinse</Source>
   <!-- EN: Game versions -->
-  <ModTargetVersion>Spielversionen</ModTargetVersion>
+  <ModTargetVersion>Leaganacha</ModTargetVersion>
   <!-- EN: Mod version -->
-  <ModVersion>Mod-Version</ModVersion>
+  <ModVersion>Leagan</ModVersion>
   <!-- EN: ID -->
   <ModPackageId>ID</ModPackageId>
   <!-- EN: This must be loaded before: {0}. -->
-  <ModMustLoadBefore>Diese Mod muss vor folgenden Mods geladen werden: {0}.</ModMustLoadBefore>
+  <ModMustLoadBefore>Ní mór an mod seo a lódáil roimh: {0}.</ModMustLoadBefore>
   <!-- EN: This must be loaded after: {0}. -->
-  <ModMustLoadAfter>Diese Mod muss nach folgenden Mods geladen werden: {0}.</ModMustLoadAfter>
+  <ModMustLoadAfter>Ní mór an mod seo a lódáil tar éis: {0}.</ModMustLoadAfter>
   <!-- EN: Depends on: {0} -->
-  <ModDependsOn>Abhängig von: {0}</ModDependsOn>
+  <ModDependsOn>Ag brath ar: {0}</ModDependsOn>
   <!-- EN: Incompatible with: {0} -->
-  <ModIncompatibleWith>Nicht kompatibel mit: {0}</ModIncompatibleWith>
+  <ModIncompatibleWith>Neamh-chomhoiriúnach le: {0}</ModIncompatibleWith>
   <!-- EN: This mod is incompatible with: {0}. -->
-  <ModIncompatibleWithTip>Diese Mod ist nicht kompatibel mit: {0}.</ModIncompatibleWithTip>
+  <ModIncompatibleWithTip>Tá an mod seo neamh-chomhoiriúnach le: {0}.</ModIncompatibleWithTip>
   <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
-  <ModOrderingWarning>Diese Mod wird in falscher Reihenfolge relativ zu anderen Mods geladen. Benutze 'Mods autom. sortieren' oder ordne sie manuell.</ModOrderingWarning>
+  <ModOrderingWarning>Tá an mod seo san ord mícheart i gcomparáid le mod eile. Bain úsáid as an rogha "uath-sortáil modanna" nó déan iad a athrú de láimh.</ModOrderingWarning>
   <!-- EN: Another active mod uses the same ID: {0}. -->
-  <ModWithSameIdAlreadyActive>Eine andere aktive Mod verwendet die gleiche ID: {0}.</ModWithSameIdAlreadyActive>
+  <ModWithSameIdAlreadyActive>Tá an ID céanna in úsáid ag mod eile: {0}.</ModWithSameIdAlreadyActive>
   <!-- EN: There is a cyclic mod dependency starting with {0}. -->
-  <ModCyclicDependency>Es besteht eine zyklische Mod-Abhängigkeit, die mit {0} beginnt.</ModCyclicDependency>
+  <ModCyclicDependency>Tá spléachas ciogaltach modanna ann, a thosaíonn le {0}.</ModCyclicDependency>
   <!-- EN: This requires the following mods to work: {0}. -->
-  <ModUnsatisfiedDependency>Diese Mod erfordert folgende Mods, um zu funktionieren: {0}.</ModUnsatisfiedDependency>
+  <ModUnsatisfiedDependency>Ní fheidmeoidh an mod seo gan na modanna seo a leanas: {0}.</ModUnsatisfiedDependency>
   <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion>Diese Mod wurde nicht für diese Version von RimWorld entwickelt und wird wahrscheinlich nicht richtig funktionieren.</ModNotMadeForThisVersion>
+  <ModNotMadeForThisVersion>Níor chruthaíodh an mod seo don leagan seo de Rimworld, agus ní dócha go bhfeidhmeoidh sé i gceart.</ModNotMadeForThisVersion>
   <!-- EN: This mod is not made for this version of RimWorld. -->
-  <ModNotMadeForThisVersionShort>Diese Mod wurde nicht für diese Version von RimWorld entwickelt.</ModNotMadeForThisVersionShort>
+  <ModNotMadeForThisVersionShort>Níor chruthaíodh an mod seo don leagan seo de Rimworld.</ModNotMadeForThisVersionShort>
   <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
-  <ModNotMadeForThisVersion_Newer>Diese Mod wurde für eine neuere Version von RimWorld entwickelt und wird wahrscheinlich nicht richtig funktionieren.</ModNotMadeForThisVersion_Newer>
+  <ModNotMadeForThisVersion_Newer>Cruthaíodh an mod seo do leagan níos nuaí de Rimworld, agus ní dócha go bhfeidhmeoidh sé i gceart.</ModNotMadeForThisVersion_Newer>
   <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
   <MessageModNeedsWellFormattedTargetVersion>Mod benötigt korrekt formatierte unterstützte Versionsinformationen in About.xml. Das targetVersion-Tag ist veraltet. Verwende stattdessen das supportedVersions-Tag in Verbindung mit li-Tags. Beispiele dafür findest du in fast jeder aktuellen Mod oder im Internet. Weitere Informationen findest du im Log.</MessageModNeedsWellFormattedTargetVersion>
   <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
-  <MessageModNeedsWellFormattedPackageId>Mod benötigt eine eindeutige, korrekt formatierte Paket-ID in About.xml. Die ID muss folgende Anforderungen erfüllen:\n\n  - Nur alphanumerische Zeichen und Punkt.\n  - Keine Leerzeichen.\n  - Mindestens ein Punkt.\n  - Keine sich wiederholenden, direkt angrenzenden Punkte oder kein Punkt am Anfang oder Ende.\n  - 60 Zeichen oder weniger.\n  - Darf nicht das Wort "Ludeon" enthalten.\n\nZum Beispiel:\nAutorName.ModName\nAutorName.ModName.Spezifisch</MessageModNeedsWellFormattedPackageId>
+  <MessageModNeedsWellFormattedPackageId>Tá packageId atá formádaithe i gceart in easnamh ón bhfillteán About.xml. Ní mór go dtiocfaidh an packageId sin leis na riachtanais seo a leanas:\n\n  - Ní cheadaítear ach siombailí alfa-uimhriúla agus poncanna.\n  - Teastaíonn a laghad ponc amháin.\n  - Ní cheadaítear dhá phonc a chur i ndiaidh a chéile, ag an tús nó ag an deireadh.\n  - 60 carachtar nó níos lú.\n  - Ní cheadaítear an focal "Ludeon" a chur ann.</MessageModNeedsWellFormattedPackageId>
   <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
-  <ModHadLoadFolderIssues>Diese Mod hat Probleme in LoadFolders.xml, die vor dem Hochladen behoben werden müssen:</ModHadLoadFolderIssues>
+  <ModHadLoadFolderIssues>Tá fabhtanna leis an mod seo sa chomhad LoadFolders.xml, agus beidh ort iad a réiteach:</ModHadLoadFolderIssues>
   <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
-  <ModLoadFolderDoesntExist>Der für Version {1} angegebene Ordner {0} existiert nicht.</ModLoadFolderDoesntExist>
+  <ModLoadFolderDoesntExist>Ní ann don fhillteán {0} a shannadh le haghaidh leagan {1}.</ModLoadFolderDoesntExist>
   <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
-  <ModLoadFolderMalformedVersion>Fehlerhafte Versionszeichenkette '{0}'. Das korrekte Format ist Haupt.Neben (z. B. 1.1)</ModLoadFolderMalformedVersion>
+  <ModLoadFolderMalformedVersion>Teaghrán míchumtha '{0}'. Is é Major.Minor an formáid ceart (e.g. 1.1)</ModLoadFolderMalformedVersion>
   <!-- EN: The list of load folders for version {0} is empty. -->
-  <ModLoadFolderListEmpty>Die Liste der zu ladenden Ordner für Version {0} ist leer.</ModLoadFolderListEmpty>
+  <ModLoadFolderListEmpty>Tá liosta na bhfillteán lódála le haghaidh leagan {0} folamh.</ModLoadFolderListEmpty>
   <!-- EN: Version {0} lists the same folder more than once: {1}. -->
-  <ModLoadFolderRepeatingFolder>Version {0} listet denselben Ordner mehr als einmal auf: {1}.</ModLoadFolderRepeatingFolder>
+  <ModLoadFolderRepeatingFolder>Liostáitear an filltéan céanna níos mó ná uair amháin le haghaidh leagan {0}: {1}.</ModLoadFolderRepeatingFolder>
   <!-- EN: Invalid version order: {0} should come before {1}. -->
-  <ModLoadFolderOutOfOrder>Ungültige Versionsreihenfolge: {0} sollte vor {1} stehen.</ModLoadFolderOutOfOrder>
+  <ModLoadFolderOutOfOrder>Ord mícheart: ba cheart go dtiocfaidh leagan {0} roimh leagan {1}.</ModLoadFolderOutOfOrder>
   <!-- EN: Invalid version order: 'default' should be defined first. -->
-  <ModLoadFolderOutOfOrderDefault>Ungültige Versionsreihenfolge: 'default' sollte zuerst definiert sein.</ModLoadFolderOutOfOrderDefault>
+  <ModLoadFolderOutOfOrderDefault>Ord mícheart: ba cheart go dtiocfaidh an leagan 'default' ar dtús.</ModLoadFolderOutOfOrderDefault>
   <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
-  <ModLoadFolderDefaultDeprecated>Die Nutzung von 'default' in den zu ladenden Ordnern ist veraltet. Bitte definiere für jede Version einen Ordner mithilfe des v...-Tags.</ModLoadFolderDefaultDeprecated>
+  <ModLoadFolderDefaultDeprecated>Ní úsáidtear 'default' i bhfillteáin lódála níos mó. Bain úsáid as clibeanna "v..."</ModLoadFolderDefaultDeprecated>
   <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
-  <ModLoadFolderDefinesUnsupportedGameVersion>Version {0} ist in den zu ladenden Ordnern definiert, aber nicht in 'supportedVersions' in About.xml der Mod aufgeführt.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <ModLoadFolderDefinesUnsupportedGameVersion>Sanntar leagan {0} sna fillteáin lódála, ach ní liostáitear é le 'supportedVersions' sa chomhad About.xml a ghabhann leis an mod.</ModLoadFolderDefinesUnsupportedGameVersion>
   <!-- EN: Drag to reorder -->
   <DragToReorder>Cliceáil agus tarraing</DragToReorder>
 
@@ -403,33 +403,33 @@
   <!-- EN: Adjust the amount of materials produced when mining. -->
   <Difficulty_MineYieldFactor_Info>Athraigh líon an ábhair a bhainfear le mianadóireacht.</Difficulty_MineYieldFactor_Info>
   <!-- EN: Butchering yield -->
-  <Difficulty_ButcherYieldFactor_Label>Éifeachtúlacht búisteireachta</Difficulty_ButcherYieldFactor_Label>
+  <Difficulty_ButcherYieldFactor_Label>Éifeachtúlacht búistéireachta</Difficulty_ButcherYieldFactor_Label>
   <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
-  <Difficulty_ButcherYieldFactor_Info>Athriagh líon an ábhair a bhainfear leis an mbúistéireacht. Áirítear feoil, leathar, agus ábhar ó meic-róbait a bhriseadh síos leis seo.</Difficulty_ButcherYieldFactor_Info>
+  <Difficulty_ButcherYieldFactor_Info>Athraigh an líon feola a bhainfear leis an mbúistéireacht. Áirítear feoil, leathar, agus ábhar ó mheicea-róbait leis seo.</Difficulty_ButcherYieldFactor_Info>
   <!-- EN: Research speed -->
   <Difficulty_ResearchSpeedFactor_Label>Luas taighde</Difficulty_ResearchSpeedFactor_Label>
   <!-- EN: Adjust the speed of research. -->
-  <Difficulty_ResearchSpeedFactor_Info>Athraigh an luas ag a dhéanfar taighde.</Difficulty_ResearchSpeedFactor_Info>
+  <Difficulty_ResearchSpeedFactor_Info>Athraigh an luas ar a dhéanfar taighde.</Difficulty_ResearchSpeedFactor_Info>
   <!-- EN: Quest rewards -->
   <Difficulty_QuestRewardValueFactor_Label>Luaíocht misean</Difficulty_QuestRewardValueFactor_Label>
   <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_QuestRewardValueFactor_Info>Athraigh luach na nduaiseanna a bhronntar ar mhisin.\n\nMar eolas: déantar luaíocht na misean a choigeartú go huathoibríocht bunaithe ar an leibhéal bagairte. Má athraíonn tú an rogha seo, beidh iolraitheoir eile in úsáid.</Difficulty_QuestRewardValueFactor_Info>
+  <Difficulty_QuestRewardValueFactor_Info>Athraigh luach na nduaiseanna a bhronntar ar mhisin.\n\nMar eolas: déantar luaíocht na misean a choigeartú go huathoibríocht bunaithe ar an leibhéal bagairte. Má athraíonn tú an socú seo, beidh iolraitheoir breise in úsáid.</Difficulty_QuestRewardValueFactor_Info>
   <!-- EN: Raid loot -->
-  <Difficulty_RaidLootPointsFactor_Label>Earraí ruathairí</Difficulty_RaidLootPointsFactor_Label>
+  <Difficulty_RaidLootPointsFactor_Label>Luaíocht ruathairí</Difficulty_RaidLootPointsFactor_Label>
   <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
-  <Difficulty_RaidLootPointsFactor_Info>Athraigh luach na n-earraí a iompraíonn ruathairí.\n\nMar eolas: déantar luaíocht na misean a choigeartú go huathoibríocht bunaithe ar an leibhéal bagairte. Má athraíonn tú an rogha seo, beidh iolraitheoir eile in úsáid.</Difficulty_RaidLootPointsFactor_Info>
+  <Difficulty_RaidLootPointsFactor_Info>Athraigh luach na n-earraí a iompraíonn ruathairí.\n\nMar eolas: déantar luaíocht na misean a choigeartú go huathoibríocht bunaithe ar an leibhéal bagairte. Má athraíonn tú an socrú seo, beidh iolraitheoir breise in úsáid.</Difficulty_RaidLootPointsFactor_Info>
   <!-- EN: Turret rearm cost -->
   <Difficulty_MaintenanceCostFactor_Label>Costas: Atharmáil Túiríní</Difficulty_MaintenanceCostFactor_Label>
   <!-- EN: Adjust the cost of rearming turrets. -->
-  <Difficulty_MaintenanceCostFactor_Info>Athraigh na costais a bhaineann le túiríní a atharmáil.</Difficulty_MaintenanceCostFactor_Info>
+  <Difficulty_MaintenanceCostFactor_Info>Athraigh an méid ábhair atá de dhíth chun túiríní a athlódáil.</Difficulty_MaintenanceCostFactor_Info>
   <!-- EN: Scaria rot chance -->
   <Difficulty_ScariaRotChance_Label>Dóchúlacht: Lobhadh scairia</Difficulty_ScariaRotChance_Label>
   <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
-  <Difficulty_ScariaRotChance_Info>An dóchúlacht go dtosóidh marbhán ag lobhadh ar an bpointe ar uair an bháis.\n\Mar eolas: Tá sé i gceist ag na gnáth-shoscruithe líon ard na n-ainmhithe a choigeartú ag leibhéil deacrachta ard, ionas go mbeidh an méid céanna feola ag gach imreoir.</Difficulty_ScariaRotChance_Info>
+  <Difficulty_ScariaRotChance_Info>An dóchúlacht go dtosóidh marbhán ag lobhadh ar an bpointe ar uair an bháis.\n\Mar eolas: Má roghnaítear na gnáth-shoscruithe, déanfar líon ard na n-ainmhithe a choigeartú ag leibhéil deacrachta arda, ionas go mbeidh an méid céanna feola ag gach imreoir.</Difficulty_ScariaRotChance_Info>
   <!-- EN: Enemy death on downed -->
   <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Naimhde leagtha: dóchúlacht báis</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
   <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
-  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Athraigh an dóchúlacht breise go gheobhaidh naimhde nuair a leagtar iad. Bíonn éifeacht ag an socrú seo ar na deiseanna a bhíonn agat príosúnaigh a thógáil, agus beidh tionchar ag an méid sin ar fhás do chóilíneachta dá bharr.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Athraigh an dóchúlacht bhreise go gheobhaidh naimhde bás nuair a leagtar iad. Bíonn éifeacht ag an socrú seo ar na deiseanna a bhíonn agat príosúnaigh a thógáil, agus beidh tionchar ag an méid sin ar fhás do chóilíneachta dá bharr.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
 
   <!-- EN: General -->
   <DifficultyGeneralSection>Ginearálta</DifficultyGeneralSection>
@@ -442,21 +442,21 @@
   <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
   <Difficulty_FoodPoisonChanceFactor_Info>Athraigh an dóchúlacht go dtiocfaidh bia-nimhiú ar choilínigh má itheann siad béiltí naimhde.</Difficulty_FoodPoisonChanceFactor_Info>
   <!-- EN: Animal revenge chance -->
-  <Difficulty_ManhunterChanceOnDamageFactor_Label>Dóchúlacht: díolta ainmhithe</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Dóchúlacht: díoltas ainmhithe</Difficulty_ManhunterChanceOnDamageFactor_Label>
   <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
   <Difficulty_ManhunterChanceOnDamageFactor_Info>Athraigh an dóchúlacht go n-ionsóidh ainmhithe allta má ghortaítear iad.</Difficulty_ManhunterChanceOnDamageFactor_Info>
   <!-- EN: Friendly fire -->
   <Difficulty_FriendlyFireChanceFactor_Label>Dóchúlacht: féinghortú</Difficulty_FriendlyFireChanceFactor_Label>
   <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
-  <Difficulty_FriendlyFireChanceFactor_Info>Athraigh an seans go ngortóidh do choilínigh a chéile.\n\nNóta: ní bhaineann an rogha seo ach le hurchair dhíreacha a bhí dul an targaid a bhaint amach. Ní stopann sé damáiste ó phléascanna, nó ó urchair nach raibh dul an targaid a bhaint amach.</Difficulty_FriendlyFireChanceFactor_Info>
+  <Difficulty_FriendlyFireChanceFactor_Info>Athraigh an Dóchúlacht go ngortóidh do choilínigh a chéile.\n\nNóta: ní bhaineann an rogha seo ach le hurchair a scaoiltear ar thargaidí. Ní bhaineann sé lé damáiste ó phléascanna nó ó urchair a théann ar strae.</Difficulty_FriendlyFireChanceFactor_Info>
   <!-- EN: Colonist instant kills -->
   <Difficulty_AllowInstantKillChance_Label>Bás láithreach</Difficulty_AllowInstantKillChance_Label>
   <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
-  <Difficulty_AllowInstantKillChance_Info>Athraigh an dóchúlacht go marófar coilínigh ar an bpointe má ionsaítear iad.\n\nNí bhaineann an rogha seo ach le hionsaithe áirithe - is féidir coilínigh a leagadh agus a bhású de bharr tine, pléascanna, galair, agus mar sin de.</Difficulty_AllowInstantKillChance_Info>
+  <Difficulty_AllowInstantKillChance_Info>Athraigh an dóchúlacht go marófar coilínigh ar an bpointe má ionsaítear iad.\n\nNí bhaineann an rogha seo ach le hionsaithe áirithe.</Difficulty_AllowInstantKillChance_Info>
   <!-- EN: Infection chance -->
   <Difficulty_PlayerPawnInfectionChanceFactor_Label>Dóchúlacht ionfhabhtaithe</Difficulty_PlayerPawnInfectionChanceFactor_Label>
   <!-- EN: Adjust the chance that a wound will become infected. -->
-  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Athraigh an dóchúlacht go dtiocfaidh ionfhabhtú ar chréachtaí.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Athraigh an dóchúlacht go dtiocfaidh ionfhabhtú ar choilínigh ghortaithe.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
   <!-- EN: Disease frequency -->
   <Difficulty_DiseaseIntervalFactor_Inverted_Label>Minicíocht galar</Difficulty_DiseaseIntervalFactor_Inverted_Label>
   <!-- EN: Adjust the frequency of random disease events. -->
@@ -480,7 +480,7 @@
   <!-- EN: Add unwavering prisoners -->
   <Difficulty_UnwaveringPrisoners_Label>Príosúnaigh dhiongbháilte</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
-  <Difficulty_UnwaveringPrisoners_Info>Leis an rogha seo, cuirfear príosúnaigh dhiongbháilte leis an gcluiche, nach mbeidh tú in ann a earcú.\n\nDéantar príosúnaigh dhiongbháilte a chur isteach sa bhreis ar na gnáthphríosúnaigh, mar sin ní bheidh níos mó príosúnaigh le hearcú má roghnaítear an rogha seo - díreach baineann an rogha seo na príosúnaigh dhiongbháilte.\n\nIs féidir príosúnaigh dhiongbháilte a scaoileadh saor ar chúiseanna taidhleoireachta, a dhíol, a chur faoi smacht, nó is féidir úsáid eile a bhaint astu. Ar an iomlán, cuireann siad tuilleadh roghanna agus acmhainní ar fáil, agus déanann siad an cluiche níos saibhre agus níos éasca.</Difficulty_UnwaveringPrisoners_Info>
+  <Difficulty_UnwaveringPrisoners_Info>Leis an rogha seo, cuirfear príosúnaigh dhiongbháilte leis an gcluiche, nach mbeidh tú in ann iad a earcú.\n\nDéantar príosúnaigh dhiongbháilte a chur isteach mar aon leis na gnáthphríosúnaigh, mar sin ní bheidh níos mó príosúnaigh le hearcú má roghnaítear an socrú seo - ní bhaineann an socrú seo ach le príosúnaigh dhiongbháilte.\n\nIs féidir príosúnaigh dhiongbháilte a scaoileadh saor ar chúiseanna taidhleoireachta, a dhíol, a chur faoi smacht, nó is féidir úsáidí eile a bhaint astu. Ar an iomlán, cuireann siad tuilleadh roghanna agus acmhainní ar fáil, agus déanann siad an cluiche níos saibhre agus níos éasca.</Difficulty_UnwaveringPrisoners_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Uirlisí imreora</DifficultyPlayerToolsSection>

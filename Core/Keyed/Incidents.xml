@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Mad {ANIMAL_labelShort} -->
-  <LetterLabelAnimalInsanitySingle>{ANIMAL_genderResolved ? Verrückter : Verrückte : Verrücktes} {ANIMAL_labelShort}</LetterLabelAnimalInsanitySingle>
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} fiáin</LetterLabelAnimalInsanitySingle>
   <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
-  <AnimalInsanitySingle>{ANIMAL_genderResolved ? Ein hiesiger : Eine hiesige : Ein hiesiges} {ANIMAL_label} ist verrückt geworden. {ANIMAL_genderResolved ? Er : Sie : Es} wird jeden in Sichtweite angreifen.</AnimalInsanitySingle>
+  <AnimalInsanitySingle>Tá {ANIMAL_label} áitiúil imithe le báiní. Ionsóidh sé gach duine a fheiceann sé.</AnimalInsanitySingle>
   <!-- EN: Mad {0} -->
-  <LetterLabelAnimalInsanityMultiple>Verrückte {0}</LetterLabelAnimalInsanityMultiple>
+  <LetterLabelAnimalInsanityMultiple>{0} fiáin</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
   <AnimalInsanityMultiple>Eine Art übersinnliche Welle ist über das Land hinweggefegt. Deinen Kolonisten geht es gut, aber...\n\nScheinbar sind einige {0} verrückt geworden.</AnimalInsanityMultiple>
 

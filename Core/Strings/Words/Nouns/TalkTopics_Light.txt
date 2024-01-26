@@ -40,10 +40,10 @@ snámh
 cúrsaí spóirt
 an trá
 
-animals
-cute animals
-fat animals
-pets
+ainmhithe
+ainmhithe gleoite
+ainmhithe móra
+peata
 
 pet peeves
 life's annoyances
