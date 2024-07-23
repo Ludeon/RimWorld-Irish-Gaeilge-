@@ -531,7 +531,7 @@
   <!-- EN: Select starting site -->
   <SelectStartingSite>Roghnaigh suíomh tosaigh</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite></SelectRandomSite>
+  <SelectRandomSite />
   <!-- EN: Select site -->
   <SelectSite>Roghnaigh suíomh</SelectSite>
   <!-- EN: Please select a site. -->
@@ -642,6 +642,8 @@
   <IncapableOfTooltipRole>De bharr: ról</IncapableOfTooltipRole>
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>De bharr: géin</IncapableOfTooltipGene>
+  <!-- EN: Caused by -->
+  <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
   <!-- EN: Traits -->
   <Traits>Tréithe</Traits>
   <!-- EN: Permanent mood effect -->
@@ -678,7 +680,7 @@
   <StartingPawnsSelected>Roghnaithe</StartingPawnsSelected>
   <!-- EN: Left behind -->
   <StartingPawnsLeftBehind>Neamhroghnaithe</StartingPawnsLeftBehind>
-  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
   <GuiltyDesc>Tá an coilíneach seo ciontach. Féadfaidh tú an duine seo a chur ar deoraíocht, a chur chun báis, nó a ghabháil, agus ní chuirfear isteach ar aon duine eile.\n\nRachaidh an ciontacht in éag i gceann</GuiltyDesc>
   
   <!-- Misc -->

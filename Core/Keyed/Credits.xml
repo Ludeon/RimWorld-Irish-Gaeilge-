@@ -1,42 +1,82 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Main menu-->
   <!-- EN: A story generator by Tynan Sylvester -->
   <MainPageCredit>Cluiche scéalaíochta le Tynan Sylvester</MainPageCredit>
 
+  <!-- Credits -->
+  <!-- EN: Design -->
+  <Credits_Design>Dearadh</Credits_Design>
   <!-- EN: Engineering -->
   <Credits_Developers>Innealtóireacht</Credits_Developers>
   <!-- EN: Audio -->
   <Credit_MusicAndSound>Fuaim</Credit_MusicAndSound>
   <!-- EN: Art -->
   <Credit_GameArt>Ealaín</Credit_GameArt>
-  <!-- EN: Menu art -->
-  <Credit_MenuArt>Ealaíon (Roghchlár)</Credit_MenuArt>
-  <!-- EN: Additional engineering -->
+  <!-- EN: Testers -->
+  <Credit_Testers>Tástálaithe</Credit_Testers>
+  <!-- EN: Additional development -->
   <Credits_AdditionalDevelopment>Innealtóireacht bhreise</Credits_AdditionalDevelopment>
-  <!-- EN: Community volunteers -->
-  <Credits_TitleCommunity>Oibrithe deonacha</Credits_TitleCommunity>
-  <!-- EN: Community testers -->
+
+  <!-- EN: Volunteer testers -->
   <Credits_TitleTester>Tástálaithe deonacha</Credits_TitleTester>
+
   <!-- EN: Mods -->
   <Credits_TitleMods>Modanna</Credits_TitleMods>
-  <!-- EN: Mod donor -->
-  <Credit_ModDonation>Deontóir modanna</Credit_ModDonation>
-  <!-- EN: Writing donor -->
-  <Credit_WritingDonation>Scríobhneoir deonach</Credit_WritingDonation>
-  <!-- EN: Moderator -->
-  <Credit_Moderator>Modhnóir</Credit_Moderator>
-  <!-- EN: Wiki master -->
-  <Credit_WikiMaster>Vicí</Credit_WikiMaster>
-  <!-- EN: Test lead -->
-  <Credit_TestLead>Príomh-thástálaí</Credit_TestLead>
+
   <!-- EN: {0} language -->
   <Credits_TitleLanguage>Teanga: {0}</Credits_TitleLanguage>
-  <!-- EN: Thanks for playing! -->
-  <ThanksForPlaying>Go raibh maith agat as imirt!</ThanksForPlaying>
+  <!-- EN: Anomaly localization -->
+  <Credits_Localization_Anomaly>Logánú Anomaly</Credits_Localization_Anomaly>
+  <!-- EN: Lead Localization Project Manager -->
+  <Credits_LeadLocalizationProjectManager>Príomhbhainisteoir Logánaithe</Credits_LeadLocalizationProjectManager>
+  <!-- EN: Localization Project Manager -->
+  <Credits_LocalizationProjectManager>Bainisteoir Tionscadail Logánaithe</Credits_LocalizationProjectManager>
+  <!-- EN: Project Manager -->
+  <Credits_ProjectManager>Bainisteoir Tionscadail</Credits_ProjectManager>
+  <!-- EN: Translator -->
+  <Credits_Translator>Aistritheoir</Credits_Translator>
+  <!-- EN: Editor -->
+  <Credits_Editor>Eagarthóir</Credits_Editor>
+  <!-- EN: French -->
+  <Credits_French>Fraincis</Credits_French>
+  <!-- EN: Japanese -->
+  <Credits_Japanese>Seapáinis</Credits_Japanese>
+  <!-- EN: Korean -->
+  <Credits_Korean>Cóiréis</Credits_Korean>
+  <!-- EN: Polish -->
+  <Credits_Polish>Polainnis</Credits_Polish>
+  <!-- EN: Russian -->
+  <Credits_Russian>Rúisis</Credits_Russian>
+  <!-- EN: Simplified Chinese -->
+  <Credits_ChineseSimplified>Sínis Shimplithe</Credits_ChineseSimplified>
+  <!-- EN: Traditional Chinese -->
+  <Credits_ChineseTraditional>Sínis Thraidisiúnta</Credits_ChineseTraditional>
 
-  <!-- Currently unused -->
+  <!-- Credits - Currently unused -->
   <!-- EN: Special thanks -->
   <Credit_SpecialThanks>Buíochas speisialta</Credit_SpecialThanks>
+  <!-- EN: Test lead -->
+  <Credit_TestLead>Príomh-thástálaí</Credit_TestLead>
+  <!-- EN: Community donations -->
+  <Credits_TitleCommunity>Oibrithe deonacha</Credits_TitleCommunity>
+  <!-- EN: Mod donors -->
+  <Credit_ModDonation>Déantóirí modanna</Credit_ModDonation>
+  <!-- EN: Writing donor -->
+  <Credit_WritingDonation>Scríobhneoir deonach</Credit_WritingDonation>
+
+  <!-- Meta -->
+  <!-- EN: Thanks for playing! -->
+  <ThanksForPlaying>Go raibh maith agat as imirt!</ThanksForPlaying>
+  <!-- EN: Skip credits -->
+  <SkipCredits>Dún na creidiúintí</SkipCredits>
+
+
+
+  <!-- UNUSED -->
+  <Credit_MenuArt>Ealaíon (Roghchlár)</Credit_MenuArt>
+  <Credit_Moderator>Modhnóir</Credit_Moderator>
+  <Credit_WikiMaster>Vicí</Credit_WikiMaster>
 
 </LanguageData>

@@ -16,7 +16,7 @@
   <!-- EN: Area must be walkable. -->
   <ShuttleCannotLand_Unwalkable>La zone doit être accessible à pied.</ShuttleCannotLand_Unwalkable>
 
-  <!-- EN: Select {BESTOWER_definite} and click 'Start bestowing ceremony' to commence the ceremony. -->
+  <!-- EN: Select {BESTOWER_definite} and click 'Begin bestowing ceremony' to commence the ceremony. -->
   <MessageBestowerWaiting>Sélectionnez {TARGET_definite} et cliquez sur "Commencer cérémonie de promotion" pour commencer la cérémonie.</MessageBestowerWaiting>
   <!-- EN: Cannot reach bestower! -->
   <MessageBestowerUnreachable>Impossible d'atteindre l'émissaire !</MessageBestowerUnreachable>
@@ -28,7 +28,7 @@
   <MessageBestowingDanger>L'émissaire s'en va à cause d'un danger menaçant sa vie.</MessageBestowingDanger>
   <!-- EN: The bestower is leaving due to life-threatening temperature. -->
   <MessageBestowingDangerTemperature>L'émissaire s'en va à cause des températures trop extrêmes.</MessageBestowingDangerTemperature>
-  <!-- EN: The bestower is leaving due to life-threatening gases in the area. -->
+  <!-- EN: The bestower is leaving due to dangerous gases in the area. -->
   <MessageBestowingDangerGas>L'émissaire s'en va à cause des gaz mortels dans la région.</MessageBestowingDangerGas>
   <!-- EN: The bestowing ceremony has been interrupted. -->
   <MessageBestowingInterrupted>La cérémonie de promotion a été interrompue.</MessageBestowingInterrupted>

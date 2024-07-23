@@ -38,7 +38,7 @@
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>Invité perdu : {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelGuestLost.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, is gone. [remainingWillNowLeave][failLetterEndingCommon] -->
-  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>[letterSubject], que vous étiez chargé de protéger, a disparu. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
+  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>{letterSubject}, que vous étiez chargé de protéger, est retourn{PAWN_gender ? é : ée } à l'état sauvage. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
   <!-- EN: Guest lost: {SUBJECT_definite} -->
   <Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>Invité perdu : {SUBJECT_definite}</Hospitality_Util_Worker.LetterLabelLodgerRanWild.slateRef>
   <!-- EN: [letterSubject], who you were charged to protect, has run wild. [remainingWillNowLeave][failLetterEndingCommon] -->
@@ -70,7 +70,6 @@
   
   <!-- UNUSED -->
   <Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>Invité perdu : {SUBJECT_definite}</Hospitality_Util_Worker.root.nodes.lodgersLeftMap.node.nodes.Letter.label.slateRef>
-  <Hospitality_Util_Worker.LetterTextGuestLost.slateRef>{letterSubject}, que vous étiez chargé de protéger, est retourn{PAWN_gender ? é : ée } à l'état sauvage. [remainingWillNowLeave][failLetterEndingCommon]</Hospitality_Util_Worker.LetterTextGuestLost.slateRef>
   
   <!-- EN: Shuttle destroyed -->
   <Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>Navette détruite</Util_ArriveByDropPodsOrShuttle.LetterLabelShuttleDestroyed.slateRef>

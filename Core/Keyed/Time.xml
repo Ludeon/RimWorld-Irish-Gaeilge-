@@ -11,6 +11,11 @@
   <LetterSecond>s</LetterSecond>
   <!-- EN: y -->
   <LetterYear>b</LetterYear>
+  
+  <!-- EN: AM -->
+  <AM>TODO</AM>
+  <!-- EN: PM -->
+  <PM>TODO</PM>
 
   <!-- EN: days -->
   <DaysLower>lá</DaysLower>
@@ -31,7 +36,6 @@
   <SeasonPermanentSummer>samhradh síoraí</SeasonPermanentSummer>
   <!-- EN: permanent winter -->
   <SeasonPermanentWinter>geimhreadh síoraí</SeasonPermanentWinter>
-
 
   <!-- EN: Aprimay -->
   <QuadrumAprimay>Earrach</QuadrumAprimay>

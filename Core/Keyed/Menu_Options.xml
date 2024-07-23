@@ -30,6 +30,8 @@
   <!-- Gameplay -->
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Scrolláil ag taobh an scáileáin</EdgeScreenScroll>
+  <!-- EN: Zoom to mouse -->
+  <ZoomToMouse>TODO</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>Stop an cluiche nuair a lódáiltear é</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
@@ -62,12 +64,14 @@
   <DevelopmentMode>Mód forbróra</DevelopmentMode>
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Atosaigh modanna má chliseann RimWorld</ResetModsConfigOnCrash>
-  <!-- EN: Simulate not owning Royalty -->
-  <SimulateNotOwningRoyalty>Lódáil amhail nach raibh Royalty suite</SimulateNotOwningRoyalty>
-  <!-- EN: Simulate not owning Ideology -->
-  <SimulateNotOwningIdeology>Lódáil amhail nach raibh Ideology suite</SimulateNotOwningIdeology>
-  <!-- EN: Simulate not owning Biotech -->
-  <SimulateNotOwningBiotech>Lódáil amhail nach raibh Biotech suite</SimulateNotOwningBiotech>
+  <!-- EN: Quick start has no cryptosleep sickness -->
+  <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
+  <!-- EN: Start game with dev palette on -->
+  <StartDevPaletteOn>TODO</StartDevPaletteOn>
+  <!-- EN: Open log on warnings -->
+  <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
+  <!-- EN: Close log by pressing cancel -->
+  <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
   <LogVerbose>Verbose logging</LogVerbose>
   <!-- EN: Save data folder -->
@@ -102,10 +106,14 @@
   <TemperatureMode>Aonad teochta</TemperatureMode>
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Taispeáin clog fíor-ama</ShowRealtimeClock>
+  <!-- EN: Use 12 hour clock -->
+  <TwelveHourClockMode>TODO</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
   <DisableTinyText>Múch clófhoireann an-bheag</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Líon uasta coilíneachtaí: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Autosaves count: {0} -->
+  <AutosavesCount>TODO</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Íogaireacht na luchóga ar an léarscáil</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
@@ -158,5 +166,10 @@
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Ealaín chúlra</SetBackgroundImage>
+
+  <!-- UNUSED -->
+  <SimulateNotOwningRoyalty>Lódáil amhail nach raibh Royalty suite</SimulateNotOwningRoyalty>
+  <SimulateNotOwningIdeology>Lódáil amhail nach raibh Ideology suite</SimulateNotOwningIdeology>
+  <SimulateNotOwningBiotech>Lódáil amhail nach raibh Biotech suite</SimulateNotOwningBiotech>
 
 </LanguageData>

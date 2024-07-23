@@ -64,6 +64,8 @@
   <durationDays>fad (laethanta)</durationDays>
   <!-- EN: interval (days) -->
   <intervalDays>eatramh (laethanta)</intervalDays>
+  <!-- EN: delay (days) -->
+  <delayDays>TODO</delayDays> <!-- text_todo -->
   <!-- EN: repeat -->
   <repeat>athdhéan</repeat>
   <!-- EN: default -->
@@ -96,6 +98,14 @@
   <Uses>Úsáidí</Uses>
   <!-- EN: Translation -->
   <Translation>Aistriúchán</Translation>
+  <!-- EN: min(days) -->
+  <minDays>TODO</minDays>
+  <!-- EN: max(days) -->
+  <maxDays>TODO</maxDays>
+  <!-- EN: Processing -->
+  <Processing>TODO</Processing>
+  <!-- EN: Inspect -->
+  <Inspect>TODO</Inspect> 
 
   <!-- Content generation-->
   
@@ -114,10 +124,7 @@
 \nThe physical form of techprints can range from scraps of paper with diagrams, all the way to advanced self-contained teaching machines. Regardless of form, they play the same role. They give your researchers the confidence that an idea is possible, and a rough idea of the designs used in more established societies.
 \nYour researchers need the foundational knowledge offered by techprints to know where to start on a given technology. Only after enough techprints have been applied can your researchers work out the fine details of how to make use of the technology in your particular situation.
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
-  <TechprintDesc>Is teic-phrionta é seo don tionscadal '{PROJECT_label}'
-  \nTagann teic-phriontaí in go leor foirmeacha, amhail píosaí páipéir a bhfuil buneolas scríofa orthu, nó meaisíní casta teagaisc. Bíonn an feidhm céanna acu i gcónaí. Tugann siad le fios do thaighdeoirí go bhfuiltear in ann smaoineamh a bhaint amach, agus tugann siad léargas garbh dóibh ar na dearthaí a úsáidtear i sochaithe níos casta.
-  \nTá an t-eolas bunaidh atá i dteic-phriontaí de dhíth ó do thaighdeoirí chun go mbeidh siad in ann tús a chur le teicneolaíocht ar leith. Ní bheidh do thaighdeoirí in ann oibriú amach conas an teicneolaíocht a úsáid go dtí go mbeidh go leor teic-phriontaí bailithe acu.
-  \nMá chuirtear teic-phrionta i bhfeidhm ar thionscadal, críochnófar leath den taighde atá fágtha ar an bpointe. Chomh maith leis sin, gheobhaiodh taighdeoirí borradh lena scileanna intleachtúla nuair a úsaideann siad teic-phríontaí, fiú ar theicneolaíochtaí atá críochnaithe.</TechprintDesc>
+  <TechprintDesc>Is teic-phrionta é seo don tionscadal '{PROJECT_label}'\n  \nTagann teic-phriontaí in go leor foirmeacha, amhail píosaí páipéir a bhfuil buneolas scríofa orthu, nó meaisíní casta teagaisc. Bíonn an feidhm céanna acu i gcónaí. Tugann siad le fios do thaighdeoirí go bhfuiltear in ann smaoineamh a bhaint amach, agus tugann siad léargas garbh dóibh ar na dearthaí a úsáidtear i sochaithe níos casta.\n  \nTá an t-eolas bunaidh atá i dteic-phriontaí de dhíth ó do thaighdeoirí chun go mbeidh siad in ann tús a chur le teicneolaíocht ar leith. Ní bheidh do thaighdeoirí in ann oibriú amach conas an teicneolaíocht a úsáid go dtí go mbeidh go leor teic-phriontaí bailithe acu.\n  \nMá chuirtear teic-phrionta i bhfeidhm ar thionscadal, críochnófar leath den taighde atá fágtha ar an bpointe. Chomh maith leis sin, gheobhaiodh taighdeoirí borradh lena scileanna intleachtúla nuair a úsaideann siad teic-phríontaí, fiú ar theicneolaíochtaí atá críochnaithe.</TechprintDesc>
   <!-- EN: Unlocks -->
   <Unlocks>Baintear amach:</Unlocks>
 
@@ -204,6 +211,5 @@
   <!-- Legal status -->
   <!-- EN: colonist -->
   <Colonist>coilíneach</Colonist>
-  
-  
+
 </LanguageData>

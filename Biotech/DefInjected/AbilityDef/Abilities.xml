@@ -12,6 +12,8 @@
   <AnimalWarcall.description>Mit einem kräftigen Gebrüll und einer mentalen Bindung befiehlst du einem Tier, für ein paar Stunden gegen deine Feinde zu kämpfen.</AnimalWarcall.description>
   <!-- EN: warcall -->
   <AnimalWarcall.verbProperties.label>Schlachtruf</AnimalWarcall.verbProperties.label>
+  <!-- EN: Choose an animal to call -->
+  <AnimalWarcall.verbProperties.mouseTargetingText>TODO</AnimalWarcall.verbProperties.mouseTargetingText>
   
   <!-- EN: bloodfeed -->
   <Bloodfeed.label>Blut saugen</Bloodfeed.label>

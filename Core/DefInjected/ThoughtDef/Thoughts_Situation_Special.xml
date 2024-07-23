@@ -20,6 +20,10 @@
   <!-- EN: I love my work. I could do this all day, every day. -->
   <DoingPassionateWork.stages.burning_passion_for_my_work.description>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.description>
   
+  <!-- UNUSED -->
+  <GeneticChemicalDependency.stages.genetic_chemical_dependency.label>genetische chemische Abhängigkeit</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
+  <GeneticChemicalDependency.stages.genetic_chemical_dependency.description>Ich brauche {CHEMICAL_label} wegen eines genetischen Defekts. Es wäre wieder einmal so weit.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
+  
   <!-- EN: joywire -->
   <Joywire.stages.joywire.label>TODO</Joywire.stages.joywire.label>
   <!-- EN: It feels amazing. -->

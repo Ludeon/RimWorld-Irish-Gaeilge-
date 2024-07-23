@@ -2,7 +2,8 @@
 <LanguageData>
   
   <!-- EN: Worn out by the pressures of social interaction, [PAWN_nameDef] left [PAWN_possessive] crowded city to live a simple life in the wilderness. There, [PAWN_pronoun] spent [PAWN_possessive] days alone, tending [PAWN_possessive] garden and crafting the simple tools [PAWN_pronoun] needed to survive. -->
-  <Hermit82.baseDesc>D'fhág [PAWN_nameDef] an chathair mhór chun saol simplí a chaitheamh san fhiántas.</Hermit82.baseDesc> Ar an iargúltacht, chaith [PAWN_nameDef] cuid mhór ama mar aonarán, gan ach gairdín agus na huirlisí simplí a bhí de dhíth chun maireachtáil.
+  <Hermit82.description>TODO</Hermit82.description>
+  <Hermit82.baseDesc>D'fhág [PAWN_nameDef] an chathair mhór chun saol simplí a chaitheamh san fhiántas.</Hermit82.baseDesc>
   <!-- EN: hermit -->
   <Hermit82.title>aonarán</Hermit82.title>
   <!-- EN: hermit -->

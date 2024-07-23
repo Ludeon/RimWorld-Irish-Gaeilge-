@@ -32,6 +32,8 @@
   <GeneProcessor.label>Gen-Prozessor</GeneProcessor.label>
   <!-- EN: A genetic analysis and processing system. Placed near a gene assembler, it increases the maximum genetic complexity of the xenogerms you can assemble. Building multiple gene processors will increase the genetic complexity limit further. -->
   <GeneProcessor.description>Ein System zur genetischen Analyse und Verarbeitung. Platziere einen oder mehrere Prozessoren in der Nähe eines Gen-Kombinators, um die maximale genetische Komplexität des zu kombinierenden Xenokeims zu erhöhen. Je mehr davon gebaut werden, desto höher ist das Limit der genetischen Komplexität.</GeneProcessor.description>
+  <!-- EN: Gene complexity increase -->
+  <GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>TODO</GeneProcessor.comps.CompInspectStringGeneProcessor.inspectString>
   
   <!-- EN: growth vat -->
   <GrowthVat.label>Wachstumskapsel</GrowthVat.label>
@@ -40,7 +42,7 @@
   
   <!-- EN: mechband dish -->
   <MechbandDish.label>Mechband-Schüssel</MechbandDish.label>
-  <!-- EN: A mech-band signaling device more powerful than the normal mechlink antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
+  <!-- EN: A mech-band signaling device more powerful than the normal mechband antenna. When activated, it puts out an ultra-powerful mech signal pulse, which will attract a mechanoid commander to attack with its escorts. If you can defeat it, you can collect special technologies from its corpse. The signal pulse burns out the dish, so this building can only be used once. -->
   <MechbandDish.description>Ein Mechband-Signalgerät, das leistungsfähiger als die normale Mechlink-Antenne ist. Bei Aktivierung sendet es einen extrem starken Mechsignalimpuls aus, der einen mechanoiden Befehlshaber mitsamt Eskorte anlockt. Sie werden deine Kolonie angreifen. Wenn du es schaffst, ihn zu besiegen, kannst du spezielle Technologien aus seinen Überresten bergen. Der Signalimpuls verbrennt die Schüssel, so dass dieses Gerät nur einmal verwendet werden kann.</MechbandDish.description>
   <!-- EN: Summon apocriton threat -->
   <MechbandDish.comps.CompUsable.useLabel>Rufe einen Apokrit herbei</MechbandDish.comps.CompUsable.useLabel>

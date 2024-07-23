@@ -2,6 +2,7 @@
 <LanguageData>
   
   <!-- EN: As a smith on a medieval world, [PAWN_nameDef] gained a reputation for the high quality of [PAWN_possessive] work. [PAWN_pronoun] wasn't bad at using the swords [PAWN_pronoun] forged either. -->
+  <Blacksmith72.description>TODO</Blacksmith72.description>
   <Blacksmith72.baseDesc>Gaibhneoir ab ea [PAWN_nameDef] ar dhomhan meánaoiseach. Bhí cáil ar na claimhte a rinne [PAWN_nameDef].</Blacksmith72.baseDesc>
   <!-- EN: blacksmith -->
   <Blacksmith72.title>gaibhneoir</Blacksmith72.title>
@@ -9,6 +10,7 @@
   <Blacksmith72.titleShort>gaibhneoir</Blacksmith72.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived in the forest near a village. Though many of the villagers feared [PAWN_objective], sick villagers would come to [PAWN_objective] to purchase salves and poultices made from the herbs [PAWN_pronoun] grew in [PAWN_possessive] garden. [PAWN_pronoun] was happy to help them — for a price. -->
+  <Herbalist54.description>TODO</Herbalist54.description>
   <Herbalist54.baseDesc>Bhí cónaí ar [PAWN_nameDef] i bhforaois in aice le baile beag. Luibhlia ab ea [PAWN_nameDef], a chuir leigheas ar mhuintir na háite le plandaí agus luibheanna.</Herbalist54.baseDesc>
   <!-- EN: herbalist -->
   <Herbalist54.title>luibhlia</Herbalist54.title>
@@ -16,34 +18,39 @@
   <Herbalist54.titleShort>luibhlia</Herbalist54.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a doctor on a medieval planet. [PAWN_pronoun] firmly believes that most ailments can be cured with a little bloodletting.\n\n[PAWN_pronoun] was also a master anaesthetist, developing a specialty technique that involved a heavy blow to the head. -->
+  <MedievalDoctor40.description>TODO</MedievalDoctor40.description>
   <MedievalDoctor40.baseDesc>D'oibrigh [PAWN_nameDef] mar dhochtúir ar dhomhan meánaoiseach. Úsáideadh an chuisleoireacht go minic ar an bplaineád sin chun tinneas a chóireáil.</MedievalDoctor40.baseDesc>
   <!-- EN: medieval doctor -->
   <MedievalDoctor40.title>dochtúir meánaoiseach</MedievalDoctor40.title>
   <!-- EN: quack -->
   <MedievalDoctor40.titleShort>dochtúir meánaoiseach</MedievalDoctor40.titleShort>
   
-  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life leaves one essentially incapable of participating in intellectual, technology-driven activities. -->
+  <!-- EN: Tilling, hoeing, guiding ox carts, pushing wheelbarrows. Digging ditches, planting seeds, predicting the harvest.\n\nMedieval-level farmers aren't educated in the usual sense, but they know a lot about growing plants without technology. That said, such a life can leave one  incapable of participating in technology-driven activities. -->
+  <MedievalFarmOaf58.description>TODO</MedievalFarmOaf58.description>
   <MedievalFarmOaf58.baseDesc>Níl feirmeoirí meánaoiseacha an-oillte, ach tá go leor eolais acu maidir le conas plandaí a fhás gan aon teicneolaíocht.\n\nMar gheall ar an ngairm bheatha sin, is beag scileanna intleachtúla nó teicneolaíochta atá ag na daoine seo.</MedievalFarmOaf58.baseDesc>
   <!-- EN: medieval farm oaf -->
   <MedievalFarmOaf58.title>feirmeoir meánaoiseach</MedievalFarmOaf58.title>
   <!-- EN: oaf -->
   <MedievalFarmOaf58.titleShort>feirmeoir meánaoiseach</MedievalFarmOaf58.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a lord on a preindustrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a work tool during that entire time. [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <!-- EN: [PAWN_nameDef] was a lord on a pre-industrial planet. [PAWN_pronoun] went to parties, managed the underlings, and even learned some swordplay.\n\n[PAWN_possessive] soft hands did not hold a tool once during that entire time. Now, [PAWN_pronoun] considers manual labor to be beneath [PAWN_objective]. -->
+  <MedievalLord57.description>TODO</MedievalLord57.description>
   <MedievalLord57.baseDesc>Tiarna ab ea [PAWN_nameDef] ar phláinéad réamhthionsclaíoch. Bhí sé de nós ag [PAWN_nameDef]. Mar gheall ar an bpribhléid sin, níor fhoghlaim [PAWN_nameDef] conas obair fhisiciúil a dhéanamh dá bharr.</MedievalLord57.baseDesc>
   <!-- EN: medieval lord -->
   <MedievalLord57.title>tiarna meánaoiseach</MedievalLord57.title>
   <!-- EN: noble -->
   <MedievalLord57.titleShort>tiarna</MedievalLord57.titleShort>
   
-  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world.\n\n[PAWN_pronoun] could always be found telling stories or singing songs, and is capable of protecting [PAWN_objective]self from the dangers of the road. However, [PAWN_pronoun] was always conspicuously absent whenever there was hard labour to be done. -->
+  <!-- EN: [PAWN_nameDef] was a traveling entertainer on a medieval world and [PAWN_pronoun] could always be found telling stories or singing songs.\n\nThe roads were dangerous, so [PAWN_pronoun] is capable of protecting [PAWN_objective]self. However, [PAWN_pronoun] would always move on when there was hard labour to be done. -->
+  <MedievalMinstrel95.description>TODO</MedievalMinstrel95.description>
   <MedievalMinstrel95.baseDesc>Oirfideach fáin ab ea [PAWN_nameDef] ar phláinéad meánaoiseach. Scéalaí iontach is ea [PAWN_nameDef], ach is beag obair chrua a rinne [PAWN_nameDef].</MedievalMinstrel95.baseDesc>
   <!-- EN: medieval minstrel -->
   <MedievalMinstrel95.title>oirfideach meánaoiseach</MedievalMinstrel95.title>
   <!-- EN: minstrel -->
   <MedievalMinstrel95.titleShort>oirfideach</MedievalMinstrel95.titleShort>
   
-  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] collected. -->
+  <!-- EN: [PAWN_nameDef] explored the oceans on a wooden ship, seeking out plant and animal specimens from exotic places, and occasionally fending off pirates. [PAWN_pronoun] loved the sea so much [PAWN_pronoun] refused to do all but the barest minimum of work on land, except to sell the treasures [PAWN_pronoun] had collected. -->
+  <MedievalSailor97.description>TODO</MedievalSailor97.description>
   <MedievalSailor97.baseDesc>Thaistil [PAWN_nameDef] ar an bhfarraige i mbad adhmaid, sa tóir ar thíortha úra agus ainmnithe andúchasacha.</MedievalSailor97.baseDesc>
   <!-- EN: medieval sailor -->
   <MedievalSailor97.title>mairnéalach meánaoiseach</MedievalSailor97.title>
@@ -51,13 +58,15 @@
   <MedievalSailor97.titleShort>mairnéalach</MedievalSailor97.titleShort>
   
   <!-- EN: On a medieval world, the fastest way to send a message is to give it to somebody on a horse and hope they survive the journey. [PAWN_nameDef] was that somebody. -->
+  <MessageCarrier77.description>TODO</MessageCarrier77.description>
   <MessageCarrier77.baseDesc>Sa domhan meánaoiseach, ba é an bealach is fearr chun teachtaireacht a sheoladh ná an teachtaireacht a thabhairt do dhuine a bhfuil capall tapa aige. Ba é [PAWN_nameDef] an duine sin.</MessageCarrier77.baseDesc>
   <!-- EN: message carrier -->
   <MessageCarrier77.title>teachtaire</MessageCarrier77.title>
   <!-- EN: messenger -->
   <MessageCarrier77.titleShort>teachtaire</MessageCarrier77.titleShort>
   
-  <!-- EN: As the taster for a medieval king, any dish served at the royal table had to be sampled first by [PAWN_nameDef]. [PAWN_pronoun] lived a decadent lifestyle at court, getting fat and doing very little work. -->
+  <!-- EN: As the food taster for a medieval king, [PAWN_nameDef] sampled any dish served at the royal table. [PAWN_pronoun] lived a decadent lifestyle at court, growing fat and doing very little real work. -->
+  <Taster16.description>TODO</Taster16.description>
   <Taster16.baseDesc>Mar bhlastóir bia do rí meánaoiseach, bhí sé de dhualgas ar [PAWN_nameDef] gach béile ag an mbord ríoga a thriail. Bhí saol meatach ag [PAWN_nameDef] sa chúirt ríoga, le go leor bia agus gan móran oibre.</Taster16.baseDesc>
   <!-- EN: taster -->
   <Taster16.title>blastóir</Taster16.title>

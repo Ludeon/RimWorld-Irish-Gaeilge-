@@ -22,8 +22,9 @@
   <GeneticDrugNeed.description>Diese Person hat eine genetisch bedingte biochemische Abhängigkeit von einer bestimmten Droge. Wenn die Person die Droge nicht regelmäßig zu sich nimmt, wird sich ihr Gesundheitszustand und ihre Stimmung verschlechtern, bis sie stirbt.\n\nWird erst nach dem 13. Lebensjahr wirksam.</GeneticDrugNeed.description>
   <!-- EN: deficiency -->
   <GeneticDrugNeed.stages.deficiency.label>Mangel</GeneticDrugNeed.stages.deficiency.label>
+  <GeneticDrugNeed.stages.deficiency.overrideLabel>Koma durch Mangel</GeneticDrugNeed.stages.deficiency.overrideLabel>
   <!-- EN: deficiency coma -->
-  <GeneticDrugNeed.stages.2.overrideLabel>Koma durch Mangel</GeneticDrugNeed.stages.2.overrideLabel>
+  <GeneticDrugNeed.stages.3.overrideLabel>TODO</GeneticDrugNeed.stages.3.overrideLabel>
   
   <!-- EN: hemogen craving -->
   <HemogenCraving.label>Hämogen-Verlangen</HemogenCraving.label>

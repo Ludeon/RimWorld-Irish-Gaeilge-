@@ -10,11 +10,11 @@
   <BreakRiskMajor>Gealltacht: riosca láidir</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Gealltacht: riosca tromchúiseach</BreakRiskExtreme>
-  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
   <BreakRiskMinorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh mionghealltacht orthu:\n\n{0}</BreakRiskMinorDesc>
-  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n\n{0} -->
+  <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
   <BreakRiskMajorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh gealltacht orthu:\n\n{0}</BreakRiskMajorDesc>
-  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n\n{0} -->
+  <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
   <BreakRiskExtremeDesc>Tá na coilínigh seo faoi an iomarca brú agus d'fhéadfadh sé go dtiocfaidh cliseadh néarógach tromchúiseach orthu (a d'fhéadfadh a bheith foréigeanach):\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
   <BreakRiskDescEnding>Féach ar Riachtanais na gcoilínigh le breathnú céard atá ag cur isteach orthu.\n\nChun giúmar níos fearr a chur orthu, féadfaidh tú bia deas a dhéanamh dóibh, tuilleadh ama siamsaíochta nó earraí níos fearr a thabhairt dóibh, nó iad a chur i dtimpeallachtaí áille.</BreakRiskDescEnding>
@@ -23,9 +23,9 @@
   <ColonistNeedsRescue>Tarrtháil de dhíth ar choilíneach</ColonistNeedsRescue>
   <!-- EN: Colonists need rescue -->
   <ColonistsNeedRescue>Tarrtháil de dhíth ar choilíneach</ColonistsNeedRescue>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.) -->
   <ColonistsNeedRescueDesc>Tá na coilínigh seo a leanas ar éagumas ar an talamh:\n\n{0}\nSeol coilíneach eile chun iad a tharrtháil agus a thabhairt chuig leaba.\n\n(Tarrtháil: roghnaigh coilíneach, ansin deascliceáil ar an íospartach agus roghnaigh Tarrtháil.)</ColonistsNeedRescueDesc>
-  <!-- EN: These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
+  <!-- EN: These colonists are incapacitated on the ground:\n{0}\n\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then press the left trigger button on the victim and select Rescue.) -->
   <ColonistsNeedRescueDescController>Tá na coilínigh seo a leanas ar éagumas ar an talamh:\n\n{0}\nSeol coilíneach eile chun iad a tharrtháil agus a thabhairt chuig leaba.\n\n(Tarrtháil: roghnaigh coilíneach, ansin bruígh ar an truicear deas ar an íospartach agus roghnaigh Tarrtháil.).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
@@ -35,7 +35,7 @@
 
   <!-- EN: Need doctor -->
   <NeedDoctor>Dochtúir de dhíth</NeedDoctor>
-  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
+  <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
   <NeedDoctorDesc>Tá cóireáil leighis de dhíth ar na coilínigh seo a leanas, ach níl aon choilínigh shláintiúla sannta mar dhochtúirí.\n\n{0}\Déan coilíneach sláintúil a shannadh mar Dhochtúir. Gan chóireáil, tá baol ann nach gcneasóid gortuithe agus go mairfidh go deo </NeedDoctorDesc>
 
   <!-- EN: Need miner -->
@@ -70,34 +70,34 @@
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>Tá coilíneach le hadhlacadh.\n\nD'fhéadfadh sé go mbeidh drochthionchar ag seo ar ghiúmar na gcoilíneach.</AlertColonistLeftUnburiedDesc>
 
-  <!-- EN: Hunter lacks ranged weapon -->
+  <!-- EN: Hunter lacks suitable weapon -->
   <HunterLacksWeapon>Sealgaire gan arm fadraoin </HunterLacksWeapon>
-  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon.\n\nThey will not hunt until they are carrying a ranged weapon.\n\nThe following colonists are assigned as hunters and need ranged weapons -->
+  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
   <HunterLacksWeaponDesc>Tá coilíneach atá sannta mar Shealgaire, ach níl arm fadraoin aige.\n\nNí bheidh sé in ann dul san fhiach go dtí go mbeidh arm fadraoin aige.\n\nTá na coilínigh seo a leanas sannta mar Shealgairí, agus tá airm fhadraoin de dhíth orthu</HunterLacksWeaponDesc>
 
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Éadaí stróicthe</AlertTatteredApparel>
-  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertTatteredApparelDesc>Tá éadaí stróicthe ag na coilínigh seo a leanas, rud atá ag cur isteach orthu:\n\n{0}\nTabhair éadaí nach bhfuil damáistithe dóibh.\n\nIs féidir éadaí a dhéanamh ag spota ceardaíochta nó tábla táilliúra, nó iad a cheannach ó thrádálaithe.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
   <AlertUnhappyNudity>Lomnochtacht mí-oiriúnach</AlertUnhappyNudity>
-  <!-- EN: These colonists are nude and not happy about it:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
+  <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>Tá na coilínigh seo a leanas lomnocht, agus níl siad sásta faoi:\n\n{0}\nTabhair éadaí dóibh.\n\nIs féidir éadaí a dhéanamh ag spota ceardaíochta nó tábla táilliúra, nó iad a cheannach ó thrádálaithe.</AlertUnhappyNudityDesc>
 
   <!-- EN: Starvation -->
   <Starvation>Ocras</Starvation>
-  <!-- EN: These colonists are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
   <StarvationDesc>Tá ocras na coilínigh seo a leanas:\n\n{0}\nAimsigh bia dóibh.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Ocras ar ainmhí</StarvationAnimals>
-  <!-- EN: These colony animals are starving:\n\n{0}\nGet them some food. -->
+  <!-- EN: These colony animals are starving:\n{0}\n\nGet them some food. -->
   <StarvationAnimalsDesc>Tá ocras ar na hainmhithe seo a leanas:\n\n{0}\nAimsigh bia dóibh.</StarvationAnimalsDesc>
 
   <!-- EN: Exhaustion -->
   <Exhaustion>Traochadh</Exhaustion>
-  <!-- EN: These colonists are exhausted and need rest:\n\n{0}\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
+  <!-- EN: These colonists are exhausted and need rest:\n{0}\n\nGet them some rest. They'll need a bed marked for colonist use. Also, make sure they're not drafted. -->
   <ExhaustionDesc>Tá na coilínigh seo a leanas traochta agus tá sos de dhíth orthu:\n\n{0}\nLig dóibh sós a thógail. Beidh leaba coilínigh de dhíth orthu. Bí cinnte nach bhfuil siad Coinscríofa.</ExhaustionDesc>
 
   <!-- EN: Need food hopper -->
@@ -125,7 +125,7 @@
 
   <!-- EN: Boredom -->
   <Boredom>Leadrán</Boredom>
-  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n\n{2} -->
+  <!-- EN: These people are either in need of recreation or are assigned to recreation, but are bored of every available source of recreation:\n\n{0}\n\nGet them some more recreation variety.\n\nCurrently available recreation types for {PAWN_labelShort}:\n{2} -->
   <BoredomDesc>Tá siamsaíocht de dhíth ó na daoine seo a leanas, nó tá siad dubh dóite de gach foinse siamsaíochta atá ar fáil:\n\n{0}\n\nTabhair níos mó éagsúlacht siamsaíochta dóibh.\n\nSeo na cineálacha siamsaíochta ar fáil do {PAWN_labelShort} faoi láthair:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
@@ -149,34 +149,34 @@
 
   <!-- EN: Need research project -->
   <NeedResearchProject>Tionscadal taighde de dhíth</NeedResearchProject>
-  <!-- EN: You have the equipment to do research but have not selected a project.\n\nOpen the research menu and select a project. -->
+  <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>Féadfaidh tú taighhde a dhéanamh, ach tionscadal a roghnú.\n\nOscail an roghchlár taighde agus roghnaigh tionscadal.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>coilínigh dímhaoin</ColonistsIdle>
-  <!-- EN: These colonists are wandering idly:\n\n{0}\nYou should probably find them something productive to do. -->
+  <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>Tá na coilínigh seo dímhaoin, agus tá siad ag fánaíocht:\n\n{0}\nBa cheart obair tháirgiúil a shannadh orthu.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>carbhán dímhaoin</CaravanIdle>
-  <!-- EN: These caravans are waiting for you to set their next destination:\n\n{0} -->
+  <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
   <CaravanIdleDesc>Ní mór ceann scríbe a shannadh do na carbháin seo:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>Cóireáil leighis de dhíth</ColonistNeedsTreatment>
-  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>.Tá cóireáil leighis de dhíth ar na daoine seo a leanas.\n\n{0}\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(I dtosach, roghnaigh ar leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.) </ColonistNeedsTreatmentDesc>
-  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
+  <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDescController>Tá cóireáil leighis de dhíth ar na daoine seo a leanas.Gan chóireáil, tá baol ann nach gcneasóid gortuithe agus go mairfidh siad go deo.\n\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(I dtosach, roghnaigh ar leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Hipiteirme</AlertHypothermia>
-  <!-- EN: These colonists are suffering from hypothermia:\n\n{0}\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
+  <!-- EN: These colonists are suffering from hypothermia:\n{0}\n\nMake sure their clothing is appropriate for the season and that indoor spaces are properly heated. -->
   <AlertHypothermiaDesc>Tá hipiteirme ar na coilínigh seo a leanas:\n\n{0}\nBí cinnte go bhfuil éadaí oiriúnacha acu agus go bhfuil spásanna faoi dhíon téite i gceart.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
   <PatientsAwaitingMedicalOperation>{0} othar ag fanacht le hobráid leighis</PatientsAwaitingMedicalOperation>
-  <!-- EN: These patients await medical operation:\n\n{0}\nMake sure you have all necessary medical tools and a free doctor available. -->
+  <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>Tá na hoathair seo a leanas ag fanacht le hobráid leighis:\n\n{0}\nBí cinnte go bhfuil gach uirlis leighis atá de dhíth agat, agus go bhfuil dochtúir ar fáil.</PatientsAwaitingMedicalOperationDesc>
 
   <!-- EN: Fire! -->
@@ -186,9 +186,9 @@
 
   <!-- EN: Medical emergency -->
   <PawnsWithLifeThreateningDisease>Éigeandáil leighis</PawnsWithLifeThreateningDisease>
-  <!-- EN: People are at risk of death because of severe illness:\n\n{0}\nMake sure that they get the best medical care possible. -->
+  <!-- EN: People are at risk of death because of severe illness:\n{0}\n\nMake sure that they get the best medical care possible. -->
   <PawnsWithLifeThreateningDiseaseDesc>Tá daoine i mbaol an bháis mar gheall ar thinneas tromchúiseach:\n\n{0}\nBí cinnte go bhfaighidh siad an chóireáil leighis is fearr is féidir.</PawnsWithLifeThreateningDiseaseDesc>
-  <!-- EN: People are at risk for death because of severe illness:\n\n{0}\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
+  <!-- EN: People are at risk for death because of severe illness:\n{0}\n\nIf possible, consider amputating or replacing infected limbs in order to keep colonists alive. -->
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Tá daoine i mbaol an bháis mar gheall ar thinneas tromchúiseach:\n\n{0}\nMás féidir, déan na géaga ionfhabhtaithe a theascadh chun na coilínigh a chonneáil beo, nó tabhairt géaga próistéiteacha dóibh.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
@@ -232,24 +232,24 @@
 
   <!-- EN: Heatstroke -->
   <AlertHeatstroke>Stróc teasa</AlertHeatstroke>
-  <!-- EN: The following people are suffering from heatstroke:\n\n{0}\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
+  <!-- EN: The following people are suffering from heatstroke:\n{0}\n\nGet them to a cooler area. You can cool down rooms with passive coolers or electrical coolers. Deep underground spaces are also naturally cool, if separated from the outdoors by a door. -->
   <AlertHeatstrokeDesc>Tá stróc teasa ar na daoine seo a leanas:\n\n{0}\nCuir chuig seomra fuar iad. Is féidir seomraí a dhéanamh níos fuaire le fuaraitheoirí. Bíonn seomraí thíos faoin talamh fuar freisin, má bhíonn doras idir an seomra agus an taobh amuigh.</AlertHeatstrokeDesc>
 
   <!-- EN: Guest unhappy -->
   <QuestPartMoodBelowThreshold>Cuairteoir míshásta</QuestPartMoodBelowThreshold>
-  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n\n{1} -->
+  <!-- EN: The quest {0} requires you to keep this person in a good mood. However, their mood is poor. Take some action to make them feel better:\n{1} -->
   <QuestPartMoodBelowThresholdDesc>Mar chuid den mhisean '{0}', ní mór duit an duine seo a choinneáil sásta. Ba cheart rud éigean a dhéanamh chun dea-spion a chur orthu.:\n\n{1}</QuestPartMoodBelowThresholdDesc>
   
   <!-- EN: Shuttle leaving in {0} -->
   <QuestPartShuttleLeaveDelay>Tointeálaí ag imeacht i gceann {0}</QuestPartShuttleLeaveDelay>
-  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <!-- EN: The shuttle will leave in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
   <QuestPartShuttleLeaveDelayDesc>Imeoidh an tointeálaí i gceann {1}. Mar chuid den mhisean '{0}', ní mór na daoine nó earraí seo a leanas a lódáil ar an tointeálaí sula n-imeoidh sé:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
   <!-- EN: The shuttle will leave in {0}. -->
   <QuestPartShuttleLeaveDelayDescHidden>Imeoidh an tointeálaí i gceann {0}.</QuestPartShuttleLeaveDelayDescHidden>
 
   <!-- EN: Shuttle arriving in {0} -->
   <QuestPartShuttleArriveDelay>Tointeálaí ag teacht i gceann  {0}</QuestPartShuttleArriveDelay>
-  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n\n{2} -->
+  <!-- EN: A shuttle will arrive in {1}. The quest {0} requires you to load the following people or items onto the shuttle before it leaves:\n{2} -->
   <QuestPartShuttleArriveDelayDesc>Tiocfaidh an tointeálaí i gceann {1}. Mar chuid den mhisean '{0}', ní mór na daoine nó earraí seo a leanas a lódáil ar an tointeálaí sula n-imeoidh sé:\n\n{2}</QuestPartShuttleArriveDelayDesc>
   <!-- EN: A shuttle will arrive in {0}. -->
   <QuestPartShuttleArriveDelayDescHidden>Tiocfaidh an tointeálaí i gceann {0}.</QuestPartShuttleArriveDelayDescHidden>
@@ -299,17 +299,17 @@
 
   <!-- EN: Animal wandering away -->
   <AlertAnimalIsRoaming>Ainmhí ag dul ar strae</AlertAnimalIsRoaming>
-  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n\n{0} -->
+  <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
   <AlertAnimalIsRoamingDesc>Tá roinnt ainmhithe múinte ag fánaíocht agus tá siad ag dul ar strae. Beidh siad caillte má shroiceann siad imeall na léarscála.\n\nMá tá pionna ainmhithe timpeallaithe agat, féadfaidh do láimhseálaithe na hainmhithe a thahbairt abhaile. Ní rachaidh ainmhithe atá i bpionna ar strae.\n\nTá na hainmhithe seo a leanas ag fánaíocht:\n\n{0}</AlertAnimalIsRoamingDesc>
 
   <!-- EN: Hungry pen animals -->
   <AlertPennedAnimalHungry>Tá ocras ar d'ainmhithe</AlertPennedAnimalHungry>
-  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n\n{0} -->
+  <!-- EN: Some of your penned animals are hungry.\n\nSelect a pen marker and use the Food tab to see more detail.\n\nGrass-eating animals may need a larger pen to provide enough grass. Other animals may need to be supplied with haygrass or similar food using a stockpile.\n\nThe following penned animals are hungry:\n{0} -->
   <AlertPennedAnimalHungryDesc>Tá ocras ar roinnt de d'ainmhithe.\n\nRoghnaigh marcóir pionna agus úsáid an táb 'Bia' chun tuilleadh eolais a fháil.\n\nD'fhéadfadh sé go mbeidh pionna níos mó de dhíth ar ainmhithe féaraigh chun tuilleadh féar a chur ar fáil dóibh. I gcás ainmhithe eile, beidh gá féar tirim a chur ar fáil dóibh le stoc-charn.\n\nTá ocras ar na hainmhithe seo a leanas:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
   <AlertHitchedAnimalHungryNoFood>Tá ocras ar ainmhí ceangailte</AlertHitchedAnimalHungryNoFood>
-  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n\n{0} -->
+  <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
   <AlertHitchedAnimalHungryNoFoodDesc>Tá ocras ar roinnt ainmhithe atá ceangailte le bacáin téide. D'fhéadfadh sé nach bhfuil aon bhia taobh leo.\n\nTabhair bia dóibh, nó bain ón bacán téide iad chun go mbeidh siad in ann bia a aimsiú.\n\nTá ocras ar na hainmhithe seo a leanas:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
@@ -321,7 +321,7 @@
 
   <!-- EN: Faction will become hostile if you stay -->
   <FactionWillBecomeHostileIfNotLeavingWithin>Eireoidh an faicsean seo naimhdeach má fhanann tú</FactionWillBecomeHostileIfNotLeavingWithin>
-  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n\n{0} -->
+  <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Éireoidh na faicsin seo a leanas naimhdeach má fhanann tú níos faide ag a lonnaíocht nó ag a n-urphost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->

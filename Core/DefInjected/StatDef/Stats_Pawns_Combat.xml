@@ -16,6 +16,16 @@
   <!-- EN: Average armor penetration of all attacks in melee combat.\n\nThis stat includes currently used weapon. -->
   <MeleeArmorPenetration.description>TODO</MeleeArmorPenetration.description>
   
+  <!-- EN: melee cooldown -->
+  <MeleeCooldownFactor.label>TODO</MeleeCooldownFactor.label>
+  <!-- EN: A multiplier on the time this creature takes to recover after making a melee attack. -->
+  <MeleeCooldownFactor.description>TODO</MeleeCooldownFactor.description>
+  
+  <!-- EN: melee damage factor -->
+  <MeleeDamageFactor.label>Nahkampfschaden-Faktor</MeleeDamageFactor.label>
+  <!-- EN: A multiplier on the amount of melee damage inflicted by this person. -->
+  <MeleeDamageFactor.description>Ein Multiplikator auf die Höhe des Nahkampfschadens, den man verursacht.</MeleeDamageFactor.description>
+  
   <!-- EN: melee dodge chance -->
   <MeleeDodgeChance.label>TODO</MeleeDodgeChance.label>
   <!-- EN: Chance to dodge a melee attack that would've otherwise hit.\n\nCharacters will not dodge while aiming or firing a ranged weapon. -->
@@ -43,6 +53,11 @@
   <!-- EN: Chance to spring a trap the character is unaware of. -->
   <PawnTrapSpringChance.description>TODO</PawnTrapSpringChance.description>
   
+  <!-- EN: ranged cooldown multiplier -->
+  <RangedCooldownFactor.label>Fernkampfabklingzeit-Faktor</RangedCooldownFactor.label>
+  <!-- EN: A multiplier on the cooldown between bursts when using a ranged weapon. -->
+  <RangedCooldownFactor.description>Ein Multiplikator auf die Abklingzeit nach jedem Schuss mit einer Fernkampfwaffe.</RangedCooldownFactor.description>
+  
   <!-- EN: accuracy factor (long) -->
   <ShootingAccuracyFactor_Long.label>TODO</ShootingAccuracyFactor_Long.label>
   <!-- EN: A multiplier on accuracy at a distance of 40 cells or more. -->
@@ -69,5 +84,10 @@
   <ShootingAccuracyPawn.description>TODO</ShootingAccuracyPawn.description>
   <!-- EN: shooting accuracy (people) -->
   <ShootingAccuracyPawn.labelForFullStatList>TODO</ShootingAccuracyPawn.labelForFullStatList>
+  
+  <!-- EN: stagger time multiplier -->
+  <StaggerDurationFactor.label>Taumelzeit-Faktor</StaggerDurationFactor.label>
+  <!-- EN: A multiplier on the duration of the stagger-slowdown that occurs when damage is taken. -->
+  <StaggerDurationFactor.description>Ein Multiplikator auf die Dauer der Verlangsamung durch Taumeln, das beim Erleiden von Schaden auftritt.</StaggerDurationFactor.description>
   
 </LanguageData>

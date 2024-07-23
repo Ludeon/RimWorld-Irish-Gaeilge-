@@ -29,6 +29,8 @@
   <DeleteCustom>Supprimer la personnalisée</DeleteCustom>
   <!-- EN: Create new -->
   <CreateNew>Créer une nouvelle</CreateNew>
+  <!-- EN: Create fluid -->
+  <CreateFluid>TODO</CreateFluid>
   <!-- EN: Load existing -->
   <LoadExisting>Charger une existante</LoadExisting>
   <!-- EN: Create custom ideoligion -->
@@ -99,6 +101,10 @@
   <SetIdeoColor>Définir la couleur de l'idéoligion</SetIdeoColor>
   <!-- EN: Set to favorite color -->
   <SetFavoriteColor>Définir la couleur favorite</SetFavoriteColor>
+  <!-- EN: {PAWN_nameDef}’s favorite color. Having more than 60% of {PAWN_possessive} apparel in this color, or the color of {PAWN_possessive} ideoligion, will make {PAWN_objective} slightly happier. -->
+  <FavoriteColorPickerTip>TODO</FavoriteColorPickerTip>
+  <!-- EN: {PAWN_nameDef}’s ideoligion color. Having more than 60% of {PAWN_possessive} apparel in this color, or {PAWN_possessive} favorite color, will make {PAWN_objective} slightly happier. -->
+  <IdeoColorPickerTip>TODO</IdeoColorPickerTip>
   <!-- EN: Configure your faction's ideoligion -->
   <ConfigureIdeoligion>Configurer l'idéoligion de votre faction</ConfigureIdeoligion>
   <!-- EN: Not enough dye. -->
@@ -197,8 +203,14 @@
   <RitualTargetConnectedGauranlenTree>Déjà connecté à {PAWN_nameDef}</RitualTargetConnectedGauranlenTree>
   <!-- EN: {TREE_definite} has had its connection torn recently. It can connect again in {1}. -->
   <RitualTargetConnectionTornGauranlenTree>La connexion de {TREE_definite} a été rompue récemment. Elle pourra se reconnecter dans {1}.</RitualTargetConnectionTornGauranlenTree>
-  <!-- EN: You need {0} wood for each participant ({2} total). You have {1} wood. -->
-  <RitualTargeWoodInfo>Vous avez besoin de {0} bois pour chaque participant ({2} au total). Vous avez {1} bois.</RitualTargeWoodInfo>
+  <!-- EN: You need {0} wood for each participant ({1} total). -->
+  <RitualTargetWoodInfo>TODO</RitualTargetWoodInfo>
+  <!-- EN: A participant cannot reach enough wood. -->
+  <RitualTargetWoodInfoAppend>TODO</RitualTargetWoodInfoAppend>
+  <!-- EN: {0} participants cannot reach enough wood. -->
+  <RitualTargetWoodInfoAppendMultiple>TODO</RitualTargetWoodInfoAppendMultiple>
+  <!-- EN: {PAWN_labelShort} cannot reach enough wood. -->
+  <RitualTargetWoodInfoWarning>TODO</RitualTargetWoodInfoWarning>
   <!-- EN: {0} must be able to reach ritual target. -->
   <RitualTargetUnreachable>{0} doit pouvoir atteindre la cible du rituel.</RitualTargetUnreachable>
   <!-- EN: Accuse -->
@@ -292,8 +304,6 @@
 
   <!-- EN: For slave use -->
   <ForSlaveUse>Pour les esclaves</ForSlaveUse>
-  <!-- EN: Slave -->
-  <Slave>Esclave</Slave>
   <!-- EN: If you sell someone to any faction besides their own, they become slaves. -->
   <SellingAsSlave>Si vous vendez quelqu'un à une faction différente de la sienne, il devient esclave.</SellingAsSlave>
   <!-- EN: If you sell someone to their own faction, they are ransomed and not enslaved. -->
@@ -388,7 +398,7 @@
 
   <!-- EN: Relic info found -->
   <RelicInfoFound>Informations sur la relique trouvées</RelicInfoFound>
-  <!-- EN: inactive, requires atleast {0} {1}s (have {2}) -->
+  <!-- EN: inactive, requires at least {0} {1}s (have {2}) -->
   <InactiveRoleRequiresMoreBelievers>inactif, nécessite au moins {0} {1}s (avoir {2})</InactiveRoleRequiresMoreBelievers>
   
   <!-- EN: certainty -->
@@ -644,7 +654,7 @@
   <!-- EN: One of these conditions will be healed -->
   <HealingCycleOneWillHeal>Une de ces maladies ou blessures sera guérie</HealingCycleOneWillHeal>
   <!-- EN: Missing required research -->
-  <MissingRequiredResearch>Recherche nécessaire manquante</MissingRequiredResearch>
+  <MissingRequiredResearch>Missing required research</MissingRequiredResearch>
   <!-- EN: Requires -->
   <BiosculpterRequiresIngredients>Nécessite</BiosculpterRequiresIngredients>
   <!-- EN: On completion of the {CYCLE} cycle, the following will occur -->
@@ -658,5 +668,8 @@
   <ChangeStyleDesc>Modifiez le style dans lequel cela sera bâti. Ceci est purement visuel et n'a aucun impact sur le gameplay.</ChangeStyleDesc>
   <!-- EN: No available styles. -->
   <ChangeStyleDisabledNoCategories>Modèles non disponibles.</ChangeStyleDisabledNoCategories>
+
+  <!-- UNUSED -->
+  <RitualTargeWoodInfo>Vous avez besoin de {0} bois pour chaque participant ({2} au total). Vous avez {1} bois.</RitualTargeWoodInfo>
 
 </LanguageData>
