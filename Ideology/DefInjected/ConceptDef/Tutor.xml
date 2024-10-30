@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: editing memes -->
-  <EditingMemes.label>modifier les mèmes</EditingMemes.label>
+  <EditingMemes.label>méimeanna a athrú</EditingMemes.label>
   <!-- EN: You can edit memes by clicking on them. -->
-  <EditingMemes.helpText>Vous pouvez modifier les mèmes en cliquant dessus.</EditingMemes.helpText>
+  <EditingMemes.helpText>Is féidir méimeanna a athrú ach cliceáil orthu.</EditingMemes.helpText>
   
   <!-- EN: editing precepts -->
-  <EditingPrecepts.label>modifier les préceptes</EditingPrecepts.label>
+  <EditingPrecepts.label>proiceaptaí a athrú</EditingPrecepts.label>
   <!-- EN: You can edit precepts by clicking on them. -->
-  <EditingPrecepts.helpText>Vous pouvez modifier les préceptes en cliquant dessus.</EditingPrecepts.helpText>
+  <EditingPrecepts.helpText>Is féidir proiceaptaí a athrú ach cliceáil orthu.</EditingPrecepts.helpText>
   
 </LanguageData>

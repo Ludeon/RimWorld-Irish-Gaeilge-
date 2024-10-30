@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: party -->
-  <PartyCloseWander.label>fête</PartyCloseWander.label>
+  <PartyCloseWander.label>cóisir</PartyCloseWander.label>
   
   <!-- EN: dance party -->
-  <PartyDance.label>soirée dansante</PartyDance.label>
+  <PartyDance.label>cóisir damhsa</PartyDance.label>
   
   <!-- EN: playing music -->
-  <PlayTargetInstrument.label>jouer de la musique</PlayTargetInstrument.label>
+  <PlayTargetInstrument.label>tá ceol á sheinm</PlayTargetInstrument.label>
   
 </LanguageData>

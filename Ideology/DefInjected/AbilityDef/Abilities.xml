@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: Animal calm -->
-  <AnimalCalm.label>calme animal</AnimalCalm.label>
+  <AnimalCalm.label>Suaimhneas ainmhithe</AnimalCalm.label>
   <!-- EN: Use unique methods of connecting with animals to calm a maddened beast. -->
-  <AnimalCalm.description>Utilise une méthode unique de connexion avec les animaux afin de calmer une bête enragée.</AnimalCalm.description>
+  <AnimalCalm.description>Úsáid cumhachtaí speisialta chun labhairt le hainmhithe, chun ainmhí fiáin a suaimhniú.</AnimalCalm.description>
   <!-- EN: {INITIATOR_labelShort} successfully calmed {RECIPIENT_labelShort}. -->
-  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>{INITIATOR_labelShort} a réussi à calmer {RECIPIENT_labelShort}</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
+  <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>D'éirigh le{INITIATOR_labelShort} {RECIPIENT_labelShort} a shuaimhniú.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>transe berserk</BerserkTrance.label>
+  <BerserkTrance.label>támh craiceáilte</BerserkTrance.label>
   <!-- EN: The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
-  <BerserkTrance.description>Le lanceur de sorts se remplit de colère face à des griefs idéologiques. Cela renforce le corps au-delà des limites normales, mais signifie également perdre le contrôle et attaquer tous les ennemis à proximité dans une rage imparable. L'état de berserk dure 3 heures.</BerserkTrance.description>
+  <BerserkTrance.description>Tagann fearg dearg ar an úsáideoir. Ciallaíonn sé seo go dtiocfaidh láidreacht ar an gcorp a théann thar na teoireainneacha fisiciúla a bhí ann roimhe, ach ní bheidh smacht ag an úsáideoir air féin agus ionsóidh sé gach duine i gcuthach feirge. Mairfidh an támh craiceáilte ar feadh 3 uair an chloig.</BerserkTrance.description>
   
   <!-- EN: combat command -->
-  <CombatCommand.label>commandement</CombatCommand.label>
+  <CombatCommand.label>misneach comhraic</CombatCommand.label>
   <!-- EN: Create an aura that boosts the combat skills of everyone nearby. The effect lasts 24 hours and remains attached to the leader for the duration. -->
-  <CombatCommand.description>Crée une aura qui booste les compétences de combat pour les personnes aux alentours. Dure 24 heures et reste attaché au chef tout ce temps.</CombatCommand.description>
+  <CombatCommand.description>Feabhsófar scileanna comhraic gach duine sa cheantar. Mairfidh an éifeacht seo 24 uair an chloig.</CombatCommand.description>
   
   <!-- EN: conversion ritual -->
-  <ConversionRitual.label>rituel de conversion</ConversionRitual.label>
+  <ConversionRitual.label>deasghnáth tiontaithe</ConversionRitual.label>
   <!-- EN: Try to persuade someone to adopt your beliefs. If it goes well, they will lose some certainty in their ideoligion and may convert. If it backfires, they will gain certainty in their old beliefs.\n\nTo start this ritual at a specific place, select a ritual spot or matching altar/ideogram. -->
-  <ConversionRitual.description>Tente de persuader quelqu'un d'adopter vos croyances. Si tout se passe bien, il perdra une partie de sa certitude en son idéoligion et pourrait se convertir. Si cela se passe mal, il gagnera en certitude dans son ancienne croyance.\n\nPour commencer ce rituel à un endroit spécifique, sélectionnez un endroit rituel ou un autel/idéogramme correspondant.</ConversionRitual.description>
+  <ConversionRitual.description>Déan iarracht áitiú ar dhuine glacadh le do chreideamh. Má éiríonn leat, caillfidh an duine ar a bhfuil an deasghnáth dírithe misneach as a íde-eolaíocht féin, agus tá seans ann go dtiontóidh sé. Mura n-éiríonn leat, beidh an duine níos cinnte as a chreideamh.\n\nChun tús a chur leis an deasghnáth, roghnaigh spota deasghnátha nó altóir.</ConversionRitual.description>
   
   <!-- EN: convert -->
-  <Convert.label>convertir</Convert.label>
+  <Convert.label>tiontaigh</Convert.label>
   <!-- EN: Attempt to convert someone to the speaker's ideoligion. This will reduce the target's certainty in their own beliefs. The certainty reduction depends on the speaker's negotiation ability. -->
-  <Convert.description>Tente de convertir à l'idéoligion du locuteur. Cela réduira la certitude de la cible en ses propres croyances. La réduction de la certitude dépend de la capacité de négociation du locuteur.</Convert.description>
+  <Convert.description>Déan iarracht duine a thiontú go híde-eolaíocht an chainteora. Leis seo, laghdófar cinnteacht duine as a chreideamh. Braitheann an seans go n-éireoidh leat ar scileanna an chainteora.</Convert.description>
   <!-- EN: {INITIATOR_labelShort} failed to convert {RECIPIENT_labelShort}. {RECIPIENT_labelShort} was upset by the attempt, but {RECIPIENT_possessive} certainty fell from {CERTAINTYBEFORE} to {CERTAINTYAFTER}. -->
-  <Convert.comps.CompAbilityEffect_Convert.failMessage>{INITIATOR_labelShort} n'a pas réussi à convertir {RECIPIENT_labelShort}. {RECIPIENT_labelShort} a été contrarié par la tentative, mais sa certitude est passée de {CERTAINTYBEFORE} à {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
+  <Convert.comps.CompAbilityEffect_Convert.failMessage>Níor éirigh le {INITIATOR_labelShort} {RECIPIENT_labelShort} a thiontú. Ní raibh {RECIPIENT_labelShort} róshásta leis an iarracht, ach thit a c{RECIPIENT_possessive}innteacht ó {CERTAINTYBEFORE} go {CERTAINTYAFTER}.</Convert.comps.CompAbilityEffect_Convert.failMessage>
   <!-- EN: {INITIATOR_labelShort} has converted {RECIPIENT_labelShort} to {IDEO}. -->
-  <Convert.comps.CompAbilityEffect_Convert.successMessage>{INITIATOR_labelShort} a converti {RECIPIENT_labelShort} en {IDEO}</Convert.comps.CompAbilityEffect_Convert.successMessage>
+  <Convert.comps.CompAbilityEffect_Convert.successMessage>D'éirigh le {INITIATOR_labelShort} {RECIPIENT_labelShort} a thiontú go {IDEO}.</Convert.comps.CompAbilityEffect_Convert.successMessage>
   
   <!-- EN: counsel -->
-  <Counsel.label>Réconforter</Counsel.label>
+  <Counsel.label>tabhair comhairle</Counsel.label>
   <!-- EN: Offer counsel to a person to cancel the effect of a sad memory. The chance of success depends on the speaker's social skills and their relationship with the listener. -->
-  <Counsel.description>Offre du réconfort à une personne pour atténuer l'effet d'un souvenir triste. Les chances de réussite dépendent des compétences sociales de l'orateur et de sa relation avec l'auditeur.</Counsel.description>
+  <Counsel.description>Tabhair comhairle do dhuine chun an drochéifeacht a bhaineann le drochchuimhne a chur ar ceal. Braitheann an seans go n-éireoidh leat ar scilleanna an chainteora agus ar an gcaidreamh atá ag an gcainteoir leis an duine.</Counsel.description>
   <!-- EN: {INITIATOR_labelShort} botched the attempt to counsel {RECIPIENT_labelShort}. {RECIPIENT_labelShort} has become upset. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>{INITIATOR_labelShort} a bâclé le réconfort de {RECIPIENT_labelShort}. {RECIPIENT_labelShort} s'est énervé.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.failMessage>Níor éirigh le{INITIATOR_labelShort} comhairle a chur ar {RECIPIENT_labelShort}. Tá {RECIPIENT_labelShort} míshásta.</Counsel.comps.CompAbilityEffect_Counsel.failMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, canceling the mood impact of {2}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>{INITIATOR_labelShort} a réconforté avec succès {RECIPIENT_labelShort}, atténuant l'impact sur l'humeur de {2}.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessage>D'éirigh le{INITIATOR_labelShort} comhairle a chur ar {RECIPIENT_labelShort}.</Counsel.comps.CompAbilityEffect_Counsel.successMessage>
   <!-- EN: {INITIATOR_labelShort} successfully counselled {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} mood by {MOODBONUS}. -->
-  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>{INITIATOR_labelShort} a réconforté avec succès {RECIPIENT_labelShort}, augmentant son humeur de {MOODBONUS}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
+  <Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>D'éirigh le{INITIATOR_labelShort} comhairle a chur ar {RECIPIENT_labelShort}.</Counsel.comps.CompAbilityEffect_Counsel.successMessageNoNegativeThought>
   
   <!-- EN: farming command -->
-  <FarmingCommand.label>encouragement à l'agriculture</FarmingCommand.label>
+  <FarmingCommand.label>misneach feirmeoireachta</FarmingCommand.label>
   <!-- EN: Offer guidance on farming techniques, boosting the farming abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <FarmingCommand.description>Offre des conseils sur les techniques agricoles, en améliorant les capacités agricoles de tous ceux qui se trouvent à proximité. L'effet reste attaché au lanceur pendant 24 heures.</FarmingCommand.description>
+  <FarmingCommand.description>Tabhair comhairle maidir le teicnící feirmeoireachta, rud a chuirfidh le scileanna feirmeoireachta gach duine sa cheantar. Mairfidh an éifeacht ar feadh 24 uair an chloig.</FarmingCommand.description>
   
   <!-- EN: Immunity drive -->
-  <ImmunityDrive.label>soutien moral immunitaire</ImmunityDrive.label>
+  <ImmunityDrive.label>borradh imdhíonachta</ImmunityDrive.label>
   <!-- EN: Offer moral support that energizes the body, boosting someone's immunity gain for one day. -->
-  <ImmunityDrive.description>Offre un soutien moral qui dynamise le corps, augmentant le gain immunitaire de quelqu'un pendant une journée.</ImmunityDrive.description>
+  <ImmunityDrive.description>Tabhair comhairle a thugann fuinneamh do gach duine sa cheantar. Cuireann an éifeacht seo le frithsheasmhacht i gcoinne galar ar feadh lá amháin.</ImmunityDrive.description>
   
   <!-- EN: leader speech -->
-  <LeaderSpeech.label>discours de chef</LeaderSpeech.label>
+  <LeaderSpeech.label>óráid cheannaireachta</LeaderSpeech.label>
   <!-- EN: Initiate a leader speech. If it goes well, listeners will gain improved mood, respect for the speaker, and possibly new inspirations. If it goes poorly, social damage will occur. -->
-  <LeaderSpeech.description>Commence un discours de chef. Si tout se passe bien, les auditeurs gagneront en humeur, en respect pour l'orateur et peut-être en inspiration. S'il se passe mal, il y aura des conséquences sociales néfastes.</LeaderSpeech.description>
+  <LeaderSpeech.description>Cuir tús le hóráid cheannaireachta. Má éiríonn leat, beidh tuilleadh ómóis do gach duine don chainteoir agus tiocfaidh dea-ghiumar orthu. Mura n-éiríonn leat, beidh iarmhairtí sóisialta ann.</LeaderSpeech.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>encouragement au tir</MarksmanCommand.label>
+  <MarksmanCommand.label>misneach aimsitheora</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MarksmanCommand.description>Améliore les compétences de tir de tous ceux qui se trouvent à proximité. L'effet reste attaché au lanceur pendant 24 heures.</MarksmanCommand.description>
+  <MarksmanCommand.description>Tabhair misneach do gach duine a bhfuil arm fadraoin acu. Cuireann an éifeacht seo le scil lámhaigh gach duine sa cheantar agus maireann sé 24 uair an chloig.</MarksmanCommand.description>
   
   <!-- EN: mining command -->
   <MiningCommand.label>encouragement au minage</MiningCommand.label>
