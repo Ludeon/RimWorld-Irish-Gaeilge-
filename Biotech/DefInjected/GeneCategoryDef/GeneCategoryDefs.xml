@@ -2,54 +2,54 @@
 <LanguageData>
   
   <!-- EN: special abilities -->
-  <Ability.label>Spezialfähigkeiten</Ability.label>
+  <Ability.label>speisialta</Ability.label>
   
   <!-- EN: aptitudes -->
-  <Aptitudes.label>Begabungen</Aptitudes.label>
+  <Aptitudes.label>inniúlachtaí</Aptitudes.label>
   
   <!-- EN: archite -->
-  <Archite.label>Archit</Archite.label>
+  <Archite.label>aircít</Archite.label>
   
   <!-- EN: beauty -->
-  <Beauty.label>Attraktivität</Beauty.label>
+  <Beauty.label>áilleacht</Beauty.label>
   
   <!-- EN: cosmetic - body type -->
-  <Cosmetic_Body.label>Kosmetisch - Körpertyp</Cosmetic_Body.label>
+  <Cosmetic_Body.label>cosmaideach - corp </Cosmetic_Body.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>Drogen</Drugs.label>
+  <Drugs.label>drugaí</Drugs.label>
   
   <!-- EN: health -->
-  <Healing.label>Gesundheit</Healing.label>
+  <Healing.label>sláinte</Healing.label>
   
   <!-- EN: hemogen -->
-  <Hemogen.label>Hämogen</Hemogen.label>
+  <Hemogen.label>haemaigin</Hemogen.label>
   
   <!-- EN: mood -->
-  <Mood.label>Stimmung</Mood.label>
+  <Mood.label>giúmar</Mood.label>
   
   <!-- EN: movement -->
-  <Movement.label>Fortbewegung</Movement.label>
+  <Movement.label>gluaiseacht</Movement.label>
   
   <!-- EN: pain -->
-  <Pain.label>Schmerz</Pain.label>
+  <Pain.label>pain</Pain.label>
   
   <!-- EN: psychics -->
-  <Psychic.label>Mentales</Psychic.label>
+  <Psychic.label>síceach</Psychic.label>
   
   <!-- EN: reproduction -->
-  <Reproduction.label>Fortpflanzung</Reproduction.label>
+  <Reproduction.label>atáirgeadh</Reproduction.label>
   
   <!-- EN: resistance and sensitivity -->
-  <ResistanceAndWeakness.label>Resistenzen und Anfälligkeiten</ResistanceAndWeakness.label>
+  <ResistanceAndWeakness.label>frithsheasmhacht</ResistanceAndWeakness.label>
   
   <!-- EN: sleep -->
-  <Sleep.label>Schlaf</Sleep.label>
+  <Sleep.label>codladh</Sleep.label>
   
   <!-- EN: temperature -->
-  <Temperature.label>Temperatur</Temperature.label>
+  <Temperature.label>teocht</Temperature.label>
   
   <!-- EN: violence -->
-  <Violence.label>Gewalt</Violence.label>
+  <Violence.label>foréigean</Violence.label>
   
 </LanguageData>

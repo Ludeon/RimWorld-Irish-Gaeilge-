@@ -16,95 +16,95 @@
   <AnimalFarmer21.titleShort>feirmeoir ainmhithe</AnimalFarmer21.titleShort>
   
   <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
-  <AsceticPriest84.description>TODO</AsceticPriest84.description>
+  <AsceticPriest84.description>Thug [PAWN_nameDef] gealltanas ciúnais, agus chuaigh [PAWN_pronoun] le mainistir. D'aimsigh [PAWN_pronoun] sé suaimhneas sa ghairdín agus sa chistin.</AsceticPriest84.description>
   <!-- EN: ascetic priest -->
-  <AsceticPriest84.title>TODO</AsceticPriest84.title>
+  <AsceticPriest84.title>sagart diantréanach</AsceticPriest84.title>
   <!-- EN: priest -->
-  <AsceticPriest84.titleShort>TODO</AsceticPriest84.titleShort>
+  <AsceticPriest84.titleShort>sagart</AsceticPriest84.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a bartender in a seedy establishment. The job was one part drink-mixing, one part diplomacy, and one part head-bashing. -->
-  <Bartender62.description>TODO</Bartender62.description>
+  <Bartender62.description>D'oibrigh [PAWN_nameDef] taobh thiar den bheár in áit ghránna. Bhí trí rud a i gceist leis an bpost: manglamóireacht deochanna, taidhleoireacht agus trodaíocht.</Bartender62.description>
   <!-- EN: bartender -->
-  <Bartender62.title>TODO</Bartender62.title>
+  <Bartender62.title>freastalaí beáir</Bartender62.title>
   <!-- EN: barkeep -->
-  <Bartender62.titleShort>TODO</Bartender62.titleShort>
+  <Bartender62.titleShort>freastalaí beáir</Bartender62.titleShort>
   
   <!-- EN: [PAWN_nameDef] protected whoever paid [PAWN_objective]. [PAWN_pronoun] gained proficiency in many different combat forms, and was known for [PAWN_possessive] ruthlessness against those who crossed [PAWN_objective]. -->
-  <Bodyguard58.description>TODO</Bodyguard58.description>
+  <Bodyguard58.description>Chuir [PAWN_nameDef] seirbhísí cosanta ar fáil dóibh siúd a raibh airgead acu. Tá [PAWN_pronoun] oilte in go leor cineálacha troda.</Bodyguard58.description>
   <!-- EN: bodyguard -->
-  <Bodyguard58.title>TODO</Bodyguard58.title>
+  <Bodyguard58.title>garda cosanta</Bodyguard58.title>
   <!-- EN: bodyguard -->
-  <Bodyguard58.titleShort>TODO</Bodyguard58.titleShort>
+  <Bodyguard58.titleShort>garda cosanta</Bodyguard58.titleShort>
   
   <!-- EN: [PAWN_nameDef] made a living mapping out dark tunnels and near-inaccessible crevices in search of valuable minerals. [PAWN_possessive] work was very dangerous, but the pay was good. -->
-  <CaveExplorer45.description>TODO</CaveExplorer45.description>
+  <CaveExplorer45.description>Bhain [PAWN_nameDef] maireachtáil as léarscáileanna a dhéanamh de phluaiseanna agus uaimheanna, ag iarraidh teacht ar mhianraí luachmhara. Bhí an obair dáinséarach, ach bhí an pá go maith.</CaveExplorer45.description>
   <!-- EN: cave explorer -->
-  <CaveExplorer45.title>TODO</CaveExplorer45.title>
+  <CaveExplorer45.title>taiscéalaí pluaiseanna</CaveExplorer45.title>
   <!-- EN: cave explorer -->
-  <CaveExplorer45.titleShort>TODO</CaveExplorer45.titleShort>
+  <CaveExplorer45.titleShort>taiscéalaí pluaiseanna</CaveExplorer45.titleShort>
   
   <!-- EN: [PAWN_nameDef] was the star chef at a high-class coreworld restaurant. [PAWN_pronoun] was famous among patrons for [PAWN_possessive] creative culinary specialties, and infamous among the kitchen staff for [PAWN_possessive] casual disdain for grunt work. -->
-  <Chef52.description>TODO</Chef52.description>
+  <Chef52.description>Cócaire ab ea [PAWN_nameDef] i mbialann mór le rá. Bhí cáil ar an mbia a rinne [PAWN_pronoun], agus níor thug [PAWN_pronoun] riamh faoi aon obair neamhoilte sa chistin.</Chef52.description>
   <!-- EN: chef -->
-  <Chef52.title>TODO</Chef52.title>
+  <Chef52.title>cócaire</Chef52.title>
   <!-- EN: chef -->
-  <Chef52.titleShort>TODO</Chef52.titleShort>
+  <Chef52.titleShort>cócaire</Chef52.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a low-ranking administrator for a moribund government bureaucracy. [PAWN_pronoun] is most at home filling out complicated paperwork and playing office politics. -->
-  <CivilServant2.description>TODO</CivilServant2.description>
+  <CivilServant2.description>D'oibrigh [PAWN_nameDef] leis an státseirbhís i roinn rialtais leadránach. Is breá le [PAWN_nameDef] páipéarachas agus obair oifige.</CivilServant2.description>
   <!-- EN: civil servant -->
-  <CivilServant2.title>TODO</CivilServant2.title>
+  <CivilServant2.title>státseirbhíseach</CivilServant2.title>
   <!-- EN: bureaucrat -->
-  <CivilServant2.titleShort>TODO</CivilServant2.titleShort>
+  <CivilServant2.titleShort>státseirbhíseach</CivilServant2.titleShort>
   
   <!-- EN: [PAWN_nameDef] never created anything in [PAWN_possessive] life. [PAWN_pronoun] did, however, prove to be a natural at getting others to give [PAWN_objective] what they had created. -->
-  <ConArtist80.description>TODO</ConArtist80.description>
+  <ConArtist80.description>Ní dhearna [PAWN_nameDef] lá oibre riamh, ach bhí [PAWN_pronoun] go maith ar an gcreidiúint a fháil ar obair a rinne daoine eile.</ConArtist80.description>
   <!-- EN: con artist -->
-  <ConArtist80.title>TODO</ConArtist80.title>
+  <ConArtist80.title>caimiléir</ConArtist80.title>
   <!-- EN: con artist -->
-  <ConArtist80.titleShort>TODO</ConArtist80.titleShort>
+  <ConArtist80.titleShort>caimiléir</ConArtist80.titleShort>
   
   <!-- EN: [PAWN_nameDef] was well-known in art circles on [PAWN_possessive] home world for [PAWN_possessive] unique and creative conceptual artworks.\n\nNobody was sure exactly what [PAWN_pronoun] was trying to communicate, but [PAWN_possessive] pieces were highly valued by collectors. -->
-  <ConceptualArtist39.description>TODO</ConceptualArtist39.description>
+  <ConceptualArtist39.description>Bhí aithne ar [PAWN_nameDef] i measc ealaíontóirí as a c[PAWN_possessive]uid saothar.\n\nNí raibh duine ar bith róchinnte céard a bhí i gceist leis na saothair féin, ach bhí siad an-luachmhar!</ConceptualArtist39.description>
   <!-- EN: conceptual artist -->
-  <ConceptualArtist39.title>TODO</ConceptualArtist39.title>
+  <ConceptualArtist39.title>ealaíontóir coincheapúil</ConceptualArtist39.title>
   <!-- EN: artist -->
-  <ConceptualArtist39.titleShort>TODO</ConceptualArtist39.titleShort>
+  <ConceptualArtist39.titleShort>ealaíontóir</ConceptualArtist39.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a construction worker. [PAWN_pronoun] lead a team which built everything from office blocks to cathedrals.\n\n[PAWN_possessive] busy job and numerous nearby fast-food outlets meant [PAWN_pronoun] never cooked for [PAWN_objective]self. -->
-  <ConstructionEngineer32.description>TODO</ConstructionEngineer32.description>
+  <ConstructionEngineer32.description>D'oibrigh [PAWN_nameDef] mar innealtóir tógála. Bhí [PAWN_pronoun] i gceannas ar fhoireann, agus thóg siad foirgnimh mhóra. Bia gasta amháin a d'ith [PAWN_nameDef], agus níor fhoghlaim [PAWN_pronoun] conas cóicaráil riamh.</ConstructionEngineer32.description>
   <!-- EN: construction engineer -->
-  <ConstructionEngineer32.title>TODO</ConstructionEngineer32.title>
+  <ConstructionEngineer32.title>innnealtóir tógála</ConstructionEngineer32.title>
   <!-- EN: builder -->
-  <ConstructionEngineer32.titleShort>TODO</ConstructionEngineer32.titleShort>
+  <ConstructionEngineer32.titleShort>tógálaí</ConstructionEngineer32.titleShort>
   
   <!-- EN: [PAWN_nameDef] moved from job to job, extracting minerals and ancient valuables in tunnels and strip-mines. The work was tough and dirty, but [PAWN_pronoun] found it rewarding. -->
-  <ContractMiner86.description>TODO</ContractMiner86.description>
+  <ContractMiner86.description>Chuaigh [PAWN_nameDef] ó jab go jab, i mbun mianadóireachta i dtolláin mhóra. Bhí an obair féin deacair agus salach, ach bhain [PAWN_pronoun] an-sult aisti.</ContractMiner86.description>
   <!-- EN: contract miner -->
-  <ContractMiner86.title>TODO</ContractMiner86.title>
+  <ContractMiner86.title>mianadóir ar conradh</ContractMiner86.title>
   <!-- EN: contract miner -->
-  <ContractMiner86.titleShort>TODO</ContractMiner86.titleShort>
+  <ContractMiner86.titleShort>mianadóir ar conradh</ContractMiner86.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked in a massive open-plan office, ensuring that [PAWN_possessive] assigned team of workers stayed mostly on-task.\n\nThe job was intensely political. In order to advance, [PAWN_nameDef] learned how to arrange things so [PAWN_pronoun] could take credit for work done by almost anyone. -->
-  <CorporateManager76.description>TODO</CorporateManager76.description>
+  <CorporateManager76.description>D'oibrigh [PAWN_nameDef] in oifig mhór, agus bhí [PAWN_pronoun] freagrach as foireann oibrithe. Bhí go leor polaitíochta ag baint leis an ról.</CorporateManager76.description>
   <!-- EN: corporate manager -->
-  <CorporateManager76.title>TODO</CorporateManager76.title>
+  <CorporateManager76.title>bainisteoir corparáideach</CorporateManager76.title>
   <!-- EN: manager -->
-  <CorporateManager76.titleShort>TODO</CorporateManager76.titleShort>
+  <CorporateManager76.titleShort>bainisteoir</CorporateManager76.titleShort>
   
   <!-- EN: A terrifying trauma when [PAWN_nameDef] was a young adult caused [PAWN_objective] to develop a serious eating disorder. With counseling [PAWN_pronoun] learned to have a healthier relationship with food, and decided to put [PAWN_possessive] new skills to use helping others overcome their emotional problems. -->
-  <Counselor26.description>TODO</Counselor26.description>
+  <Counselor26.description>Bhí fadhbanna ag [PAWN_nameDef] leis an mbia nuair a bhí [PAWN_pronoun] óg, ach le comhairleoireacht d'éirigh le [PAWN_nameDef] nósanna sláintiúla ite a chruthú. Chinn [PAWN_pronoun] dul leis an gcomhairleoireacht, chun cuidiú le daoine eile a gcuid fadhbanna a réiteach.</Counselor26.description>
   <!-- EN: counselor -->
-  <Counselor26.title>TODO</Counselor26.title>
+  <Counselor26.title>comhairleoir</Counselor26.title>
   <!-- EN: counselor -->
-  <Counselor26.titleShort>TODO</Counselor26.titleShort>
+  <Counselor26.titleShort>comhairleoir</Counselor26.titleShort>
   
   <!-- EN: [PAWN_nameDef] ran a crop farm. [PAWN_pronoun] analyzed soil, agricultural equipment, weather patterns, and price trends to optimize the planting and harvesting of massive crop fields. -->
-  <CropFarmer17.description>TODO</CropFarmer17.description>
+  <CropFarmer17.description>Bhí feirm mhór ag [PAWN_nameDef]. Rinne [PAWN_pronoun] anailís ar an ithir agus ar an aimsir agus d'úsáid [PAWN_pronoun] trealamh nua-aimseartha chun páirceanna móra a shaothrú.</CropFarmer17.description>
   <!-- EN: crop farmer -->
-  <CropFarmer17.title>TODO</CropFarmer17.title>
+  <CropFarmer17.title>feirmeoir</CropFarmer17.title>
   <!-- EN: farmer -->
-  <CropFarmer17.titleShort>TODO</CropFarmer17.titleShort>
+  <CropFarmer17.titleShort>feirmeoir</CropFarmer17.titleShort>
   
   <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent out after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run, treating [PAWN_possessive] own wounds so no doctor could betray [PAWN_objective]. The ordeal made [PAWN_objective] bitter and untrusting. -->
   <Defector78.description>TODO</Defector78.description>

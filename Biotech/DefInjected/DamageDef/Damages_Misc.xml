@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: beam -->
-  <Beam.label>Strahl</Beam.label>
+  <Beam.label>léas</Beam.label>
   <!-- EN: {0} has been beamed to death. -->
-  <Beam.deathMessage>{0} wurde zu Tode gestrahlt.</Beam.deathMessage>
+  <Beam.deathMessage>Maraíodh {0} le léas solais.</Beam.deathMessage>
   
   <!-- EN: tox gas -->
-  <ToxGas.label>Giftgas</ToxGas.label>
+  <ToxGas.label>gas tocsaineach</ToxGas.label>
   <!-- EN: {0} has been killed. -->
-  <ToxGas.deathMessage>{0} wurde getötet.</ToxGas.deathMessage>
+  <ToxGas.deathMessage>Maraíodh {0}.</ToxGas.deathMessage>
   
 </LanguageData>

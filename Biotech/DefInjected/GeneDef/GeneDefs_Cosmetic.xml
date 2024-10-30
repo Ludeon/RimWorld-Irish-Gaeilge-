@@ -2,217 +2,217 @@
 <LanguageData>
   
   <!-- EN: unisex beards -->
-  <Beard_Always.label>Unisex-Bärte</Beard_Always.label>
+  <Beard_Always.label>feasóga fear agus ban</Beard_Always.label>
   <!-- EN: Carriers of this gene always have thick facial hair, even women. -->
-  <Beard_Always.description>Träger dieses Gens haben immer eine dichte Gesichtsbehaarung, auch Frauen.</Beard_Always.description>
+  <Beard_Always.description>Bíonn féasóga ar iompróirí na géine seo, is cuma cén inscne atá orthu.</Beard_Always.description>
   <!-- EN: bearded -->
   <Beard_Always.labelShortAdj>bärtig</Beard_Always.labelShortAdj>
   
   <!-- EN: only bushy beards -->
-  <Beard_BushyOnly.label>nur buschige Bärte</Beard_BushyOnly.label>
+  <Beard_BushyOnly.label>feasógach</Beard_BushyOnly.label>
   <!-- EN: Male carriers of this gene experience rapid beard growth and are uncomfortable cutting their beards. -->
-  <Beard_BushyOnly.description>Männliche Träger dieses Gens haben einen schnellen Bartwuchs und schneiden sich nur ungern den Bart.</Beard_BushyOnly.description>
+  <Beard_BushyOnly.description>Fir a bhfuil an ghéin seo acu, bíonn siad féasógach i gcónaí.</Beard_BushyOnly.description>
   <!-- EN: bushy -->
-  <Beard_BushyOnly.labelShortAdj>buschig</Beard_BushyOnly.labelShortAdj>
+  <Beard_BushyOnly.labelShortAdj>féasógach</Beard_BushyOnly.labelShortAdj>
   <!-- EN: beard -->
-  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>Bart</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>feasóg</Beard_BushyOnly.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: bush -->
-  <Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>Busch</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>feasógach</Beard_BushyOnly.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: lumber -->
-  <Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>Holzfäller</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>feasógach</Beard_BushyOnly.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: bristle -->
-  <Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>Borsten</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
+  <Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>feasógach</Beard_BushyOnly.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: beard -->
-  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>bart</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>feasóg</Beard_BushyOnly.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: bush -->
-  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>busch</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
+  <Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>mothallach</Beard_BushyOnly.symbolPack.suffixSymbols.1.symbol>
   
   <!-- EN: beardless -->
-  <Beard_NoBeardOnly.label>bartlos</Beard_NoBeardOnly.label>
+  <Beard_NoBeardOnly.label>gan fhéasóg</Beard_NoBeardOnly.label>
   <!-- EN: Carriers of this gene grow no facial hair. -->
-  <Beard_NoBeardOnly.description>Träger dieses Gens haben keine Gesichtsbehaarung.</Beard_NoBeardOnly.description>
+  <Beard_NoBeardOnly.description>Ní bhíonn aon clúmh aghaidhe ar iompróirí na geine seo.</Beard_NoBeardOnly.description>
   <!-- EN: beardless -->
-  <Beard_NoBeardOnly.labelShortAdj>bartlos</Beard_NoBeardOnly.labelShortAdj>
+  <Beard_NoBeardOnly.labelShortAdj>gan fheasóg</Beard_NoBeardOnly.labelShortAdj>
   <!-- EN: smooth -->
-  <Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>Glatt</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>mín</Beard_NoBeardOnly.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: bare -->
-  <Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>Kahl</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>lom</Beard_NoBeardOnly.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: clean -->
-  <Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>Sauber</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
+  <Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>glan</Beard_NoBeardOnly.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: chin -->
-  <Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>kinn</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>smig</Beard_NoBeardOnly.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: smoothchin -->
-  <Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>Glattkinn</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
+  <Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>smig</Beard_NoBeardOnly.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: heavy brow -->
-  <Brow_Heavy.label>Brauenwulst</Brow_Heavy.label>
+  <Brow_Heavy.label>éadan tiubh</Brow_Heavy.label>
   <!-- EN: Carriers of this gene have a prominent brow. -->
-  <Brow_Heavy.description>Träger dieses Gens haben eine markante Wulst oberhalb der Augenhöhlen.</Brow_Heavy.description>
+  <Brow_Heavy.description>Bíonn éadan tiubh ar iompróirí na geine seo.</Brow_Heavy.description>
   
   <!-- EN: gray eyes -->
-  <Eyes_Gray.label>graue Augen</Eyes_Gray.label>
+  <Eyes_Gray.label>súile liatha</Eyes_Gray.label>
   <!-- EN: Carriers of this gene have pale white-gray eyes. -->
-  <Eyes_Gray.description>Träger dieses Gens haben graue Augen.</Eyes_Gray.description>
+  <Eyes_Gray.description>Bíonn súile liatha ag iompróirí na geine seo.</Eyes_Gray.description>
   <!-- EN: gray-eyed -->
-  <Eyes_Gray.labelShortAdj>grauäugig</Eyes_Gray.labelShortAdj>
+  <Eyes_Gray.labelShortAdj>liathsúileach</Eyes_Gray.labelShortAdj>
   
   <!-- EN: red eyes -->
-  <Eyes_Red.label>rote Augen</Eyes_Red.label>
+  <Eyes_Red.label>súile dearga</Eyes_Red.label>
   <!-- EN: Carriers of this gene have deeply red-pigmented eyes. -->
-  <Eyes_Red.description>Träger dieses Gens haben rote Augen.</Eyes_Red.description>
+  <Eyes_Red.description>Bíonn súile dearga ag iompróirí na geine seo.</Eyes_Red.description>
   <!-- EN: red-eyed -->
-  <Eyes_Red.labelShortAdj>rotäugig</Eyes_Red.labelShortAdj>
+  <Eyes_Red.labelShortAdj>deargsúileach</Eyes_Red.labelShortAdj>
   
   <!-- EN: facial ridges -->
-  <FacialRidges.label>Furchen im Gesicht</FacialRidges.label>
+  <FacialRidges.label>filltíní aghaidhe</FacialRidges.label>
   <!-- EN: Carriers of this gene grow raised ridges of skin on their face. -->
-  <FacialRidges.description>Träger dieses Gens haben auffällige Furchen oder Vertiefungen im Gesicht.</FacialRidges.description>
+  <FacialRidges.description>Bíonn filltíní ar a n-aghaidh ag iompróirí na géine seo.</FacialRidges.description>
   
   <!-- EN: furskin -->
-  <Furskin.label>Fellhaut</Furskin.label>
+  <Furskin.label>craiceann clúmhach</Furskin.label>
   <!-- EN: Carriers of this gene grow thick fur all over their body, which protects them from cold temperatures. -->
-  <Furskin.description>Träger dieses Gens haben ein dichtes Fell am ganzen Körper, das sie vor Kälte schützt.</Furskin.description>
+  <Furskin.description>Bíonn craiceann clúmhach ar fud a gcorp ag iompróirí na géine seo, rud a chosnaíonn iad in aghaidh teochtaí fuara.</Furskin.description>
   <!-- EN: furskinned -->
-  <Furskin.labelShortAdj>fellhäutig</Furskin.labelShortAdj>
+  <Furskin.labelShortAdj>clúmhach</Furskin.labelShortAdj>
   
   <!-- EN: no hair -->
-  <Hair_BaldOnly.label>keine Haare</Hair_BaldOnly.label>
+  <Hair_BaldOnly.label>gan ghruaig</Hair_BaldOnly.label>
   <!-- EN: Carriers of this gene grow no hair on the head. -->
-  <Hair_BaldOnly.description>Träger dieses Gens haben keine Haare auf dem Kopf.</Hair_BaldOnly.description>
+  <Hair_BaldOnly.description>Ní bhíonn aon ghruaig ar a gcinn ag iompróirí na géine seo.</Hair_BaldOnly.description>
   <!-- EN: bald -->
-  <Hair_BaldOnly.labelShortAdj>glatzköpfig</Hair_BaldOnly.labelShortAdj>
+  <Hair_BaldOnly.labelShortAdj>maol</Hair_BaldOnly.labelShortAdj>
   <!-- EN: bald -->
-  <Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>Glatze</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>maol</Hair_BaldOnly.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: chrome -->
-  <Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>Chrom</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>maolach</Hair_BaldOnly.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: dome -->
-  <Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>Platten</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>maolach</Hair_BaldOnly.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: smooth -->
-  <Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>Glatt</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>mín</Hair_BaldOnly.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: bare -->
-  <Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>Kahl</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
+  <Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>lom</Hair_BaldOnly.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: dome -->
-  <Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>platte</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>lom</Hair_BaldOnly.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: smooth -->
-  <Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>glatt</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>mín</Hair_BaldOnly.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: bare -->
-  <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>kahl</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
+  <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>maol</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
   
   <!-- EN: grayless hair -->
-  <Hair_Grayless.label>grauloses Haar</Hair_Grayless.label>
+  <Hair_Grayless.label>gan ghruaig liath</Hair_Grayless.label>
   <!-- EN: Carriers of this gene keep their natural hair color as they age. -->
-  <Hair_Grayless.description>Träger dieses Gens behalten ihre natürliche Haarfarbe, wenn sie älter werden.</Hair_Grayless.description>
+  <Hair_Grayless.description>Ní thagann gruaig liath ar iompróirí na géine seo mar a éiríonn siad níos sine.</Hair_Grayless.description>
   <!-- EN: No age-related gray hair. -->
-  <Hair_Grayless.customEffectDescriptions.0>Keine altersbedingten grauen Haare.</Hair_Grayless.customEffectDescriptions.0>
+  <Hair_Grayless.customEffectDescriptions.0>frithsheashmach do ghruaig liath mar gheall ar aosú.</Hair_Grayless.customEffectDescriptions.0>
   
   <!-- EN: long-haired -->
-  <Hair_LongOnly.label>lange Haare</Hair_LongOnly.label>
+  <Hair_LongOnly.label>gruaig fhada</Hair_LongOnly.label>
   <!-- EN: Carriers of this gene grow hair on the head very quickly. -->
-  <Hair_LongOnly.description>Träger dieses Gens bekommen sehr schnell Haare auf dem Kopf.</Hair_LongOnly.description>
+  <Hair_LongOnly.description>Fásann gruaig iompróirí na géine seo go han-tapa.</Hair_LongOnly.description>
   
   <!-- EN: short-haired -->
-  <Hair_ShortOnly.label>kurze Haare</Hair_ShortOnly.label>
+  <Hair_ShortOnly.label>gruaig ghearr</Hair_ShortOnly.label>
   <!-- EN: Carriers of this gene can only grow short hair. -->
-  <Hair_ShortOnly.description>Träger dieses Gens können sich nur kurze Haare wachsen lassen.</Hair_ShortOnly.description>
+  <Hair_ShortOnly.description>Ní bhíonn ach gruaig ghearr ar iompróirí na géine seo.</Hair_ShortOnly.description>
   <!-- EN: crop -->
-  <Hair_ShortOnly.labelShortAdj>gekürzt</Hair_ShortOnly.labelShortAdj>
+  <Hair_ShortOnly.labelShortAdj>bearrtha</Hair_ShortOnly.labelShortAdj>
   <!-- EN: crop -->
-  <Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>Schnitt</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>bearrtha</Hair_ShortOnly.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: fuzz -->
-  <Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>Fussel</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>bearrtha</Hair_ShortOnly.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: stub -->
-  <Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>Stoppel</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>bearrtha</Hair_ShortOnly.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: patch -->
-  <Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>Flicken</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
+  <Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>bearrtha</Hair_ShortOnly.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: crop -->
-  <Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>schnitt</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>bearrtha</Hair_ShortOnly.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: fuzz -->
-  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>fussel</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>bearrtha</Hair_ShortOnly.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: stub -->
-  <Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>stoppel</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>bearrtha</Hair_ShortOnly.symbolPack.suffixSymbols.2.symbol>
   <!-- EN: patch -->
-  <Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>flicken</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
+  <Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>bearrtha</Hair_ShortOnly.symbolPack.suffixSymbols.3.symbol>
   
   <!-- EN: blue skin -->
-  <Skin_Blue.label>blaue Haut</Skin_Blue.label>
+  <Skin_Blue.label>craiceann gorm</Skin_Blue.label>
   <!-- EN: Carriers of this gene produce a pigment that turns their skin a blue color. -->
-  <Skin_Blue.description>Träger dieses Gens produzieren ein Pigment, das ihre Haut blau färbt.</Skin_Blue.description>
+  <Skin_Blue.description>Bíonn craiceann gorm ar iompróirí na géine seo.</Skin_Blue.description>
   <!-- EN: blue -->
-  <Skin_Blue.labelShortAdj>blau</Skin_Blue.labelShortAdj>
+  <Skin_Blue.labelShortAdj>gorm</Skin_Blue.labelShortAdj>
   <!-- EN: blue -->
-  <Skin_Blue.symbolPack.prefixSymbols.0.symbol>Blau</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.0.symbol>gorm</Skin_Blue.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: ice -->
-  <Skin_Blue.symbolPack.prefixSymbols.1.symbol>Eis</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.1.symbol>oighir</Skin_Blue.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: sky -->
-  <Skin_Blue.symbolPack.prefixSymbols.2.symbol>Himmel</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
+  <Skin_Blue.symbolPack.prefixSymbols.2.symbol>spéir</Skin_Blue.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: deep red skin -->
-  <Skin_DeepRed.label>blutrote Haut</Skin_DeepRed.label>
+  <Skin_DeepRed.label>craiceann cródhearg</Skin_DeepRed.label>
   <!-- EN: Carriers of this gene produce a deep-red pigment that gives their skin an almost bloody appearance. -->
-  <Skin_DeepRed.description>Träger dieses Gens produzieren ein rotes Pigment, das ihrer Haut ein blutiges Aussehen verleiht.</Skin_DeepRed.description>
+  <Skin_DeepRed.description>Bíonn craiceann cródhearg ar iompróirí na géine seo, mar a bheadh siad cumhdaithe le fuil.</Skin_DeepRed.description>
   <!-- EN: red -->
-  <Skin_DeepRed.labelShortAdj>rot</Skin_DeepRed.labelShortAdj>
+  <Skin_DeepRed.labelShortAdj>dearg</Skin_DeepRed.labelShortAdj>
   <!-- EN: red -->
-  <Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>Rot</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>dearg</Skin_DeepRed.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: crim -->
-  <Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>Karmin</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>dearg</Skin_DeepRed.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: fire -->
-  <Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>Feuer</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>dearg</Skin_DeepRed.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: rose -->
-  <Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>Rosen</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>dearg</Skin_DeepRed.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: wine -->
-  <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>Wein</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
+  <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>dearg</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
   
   <!-- EN: deep yellow skin -->
-  <Skin_DeepYellow.label>sonnengelbe Haut</Skin_DeepYellow.label>
+  <Skin_DeepYellow.label>craiceann buídhonn</Skin_DeepYellow.label>
   <!-- EN: Carriers of this gene produce a pigment that gives their skin a deep yellow color. -->
-  <Skin_DeepYellow.description>Träger dieses Gens produzieren ein Pigment, das ihrer Haut eine gelbe Farbe verleiht.</Skin_DeepYellow.description>
+  <Skin_DeepYellow.description>Bíonn craiceann buídhonn ar iompróirí na géine seo.</Skin_DeepYellow.description>
   <!-- EN: yellow -->
-  <Skin_DeepYellow.labelShortAdj>gelb</Skin_DeepYellow.labelShortAdj>
+  <Skin_DeepYellow.labelShortAdj>buí</Skin_DeepYellow.labelShortAdj>
   <!-- EN: yellow -->
-  <Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>Gelb</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>buí</Skin_DeepYellow.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: lemon -->
-  <Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>Zitronen</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>buí</Skin_DeepYellow.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: gold -->
-  <Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>Gold</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
+  <Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>órbhuí</Skin_DeepYellow.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: green skin -->
-  <Skin_Green.label>grüne Haut</Skin_Green.label>
+  <Skin_Green.label>craiceann uaine</Skin_Green.label>
   <!-- EN: Carriers of this gene produce a pigment that gives their skin a green color. -->
-  <Skin_Green.description>Träger dieses Gens produzieren ein Pigment, das ihrer Haut eine grüne Farbe verleiht.</Skin_Green.description>
+  <Skin_Green.description>Bíonn craiceann uaine ar iompróirí na géine seo.</Skin_Green.description>
   <!-- EN: green -->
-  <Skin_Green.labelShortAdj>grün</Skin_Green.labelShortAdj>
+  <Skin_Green.labelShortAdj>uaine</Skin_Green.labelShortAdj>
   <!-- EN: green -->
-  <Skin_Green.symbolPack.prefixSymbols.0.symbol>Grün</Skin_Green.symbolPack.prefixSymbols.0.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.0.symbol>uaine</Skin_Green.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: lime -->
-  <Skin_Green.symbolPack.prefixSymbols.1.symbol>Limonen</Skin_Green.symbolPack.prefixSymbols.1.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.1.symbol>uaine</Skin_Green.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: jade -->
-  <Skin_Green.symbolPack.prefixSymbols.2.symbol>Jade</Skin_Green.symbolPack.prefixSymbols.2.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.2.symbol>duilleog</Skin_Green.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: leaf -->
-  <Skin_Green.symbolPack.prefixSymbols.3.symbol>Blatt</Skin_Green.symbolPack.prefixSymbols.3.symbol>
+  <Skin_Green.symbolPack.prefixSymbols.3.symbol>duilleog</Skin_Green.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: greenskin -->
-  <Skin_Green.symbolPack.wholeNameSymbols.0.symbol>Grünhaut</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
+  <Skin_Green.symbolPack.wholeNameSymbols.0.symbol>glas</Skin_Green.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: ink black skin -->
-  <Skin_InkBlack.label>rußschwarze Haut</Skin_InkBlack.label>
+  <Skin_InkBlack.label>craiceann ciardhubh</Skin_InkBlack.label>
   <!-- EN: Carriers of this gene produce a pigment that turns their skin a pale black color almost as dark as ink. -->
-  <Skin_InkBlack.description>Träger dieses Gens produzieren ein Pigment, das ihre Haut schwarz wie Ruß färbt.</Skin_InkBlack.description>
+  <Skin_InkBlack.description>Bíonn craiceann ciardhubh ar iompróirí na géine seo, cosúil le spéir na hoíche.</Skin_InkBlack.description>
   <!-- EN: noir -->
-  <Skin_InkBlack.labelShortAdj>rußfarben</Skin_InkBlack.labelShortAdj>
+  <Skin_InkBlack.labelShortAdj>dubh</Skin_InkBlack.labelShortAdj>
   <!-- EN: ink -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>Tinten</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>dubh</Skin_InkBlack.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: dark -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>Dunkel</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>ciardhubh</Skin_InkBlack.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: coal -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>kohl</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>ciardhubh</Skin_InkBlack.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: pitch -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>Pech</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>ciardhubh</Skin_InkBlack.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: shadow -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>Schatten</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>dorcha</Skin_InkBlack.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: raven -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>Raben</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>dorcha</Skin_InkBlack.symbolPack.prefixSymbols.5.symbol>
   <!-- EN: jet -->
-  <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>Gagat</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
+  <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>dubh</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: shadow -->
   <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>schatten</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: raven -->

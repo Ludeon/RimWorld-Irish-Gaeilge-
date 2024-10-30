@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: acidic smog -->
-  <NoxiousHaze.label>Säuresmog</NoxiousHaze.label>
+  <NoxiousHaze.label>ceo aigéadach</NoxiousHaze.label>
   <!-- EN: Acidic smog is caused by pollution in nearby world tiles. It slows plant growth, deteriorates exposed items, and reduces mood.\n\nThe current world tile has a nearby pollution score of {NEARBYPOLLUTION}, calculated by adding up pollution of nearby world tiles. This means that, on average, acidic smog will occur every {MTB} days. -->
-  <NoxiousHaze.description>Ein Säuresmog wird durch Verseuchung naher Felder auf der Weltkarte verursacht. Er bewirkt, dass Pflanzen langsamer wachsen, Gegenstände im Freien zerfallen und die Stimmung von Menschen beeinträchtigt wird.\n\nDiese Karte hat einen Verseuchungswert von {NEARBYPOLLUTION}, der sich aus der Summe der Verseuchung benachbarter Felder auf der Weltkarte errechnet. Im Schnitt tritt hier ein Säuresmog alle {MTB} Tage auf.</NoxiousHaze.description>
+  <NoxiousHaze.description>Tarlaíonn ceo aigéadach de bharr truaillithe i dtílí máguaird ar an léarscáil domhanda. Déanann ceo aigéadach damáiste do phlandaí agus d'earraí atá amuigh faoin aer, agus bíonn drochthionchar aige ar choilínigh.\n\nFaoi láthair, is é {NEARBYPOLLUTION} an scór truaillithe sna tílí timpeall ar an gceantar seo, rud a chiallaíonn go mbeidh ceo aigéadach ann gach {MTB} lá ar an meán.</NoxiousHaze.description>
   <!-- EN: The acidic smog is lifting. -->
-  <NoxiousHaze.endMessage>Der Säuresmog löst sich auf.</NoxiousHaze.endMessage>
+  <NoxiousHaze.endMessage>Tá an ceo aigéadach ag scaipeadh.</NoxiousHaze.endMessage>
   <!-- EN: Acidic smog has begun due to pollution in this region of the world. -->
-  <NoxiousHaze.startMessage>Ein Säuresmog hat sich gebildet, bedingt durch Verseuchungen in dieser Region.</NoxiousHaze.startMessage>
+  <NoxiousHaze.startMessage>Tá an ceantar cumhdaithe le ceo aigéadach mar gheall ar thruailliú sa chuid seo den domhan.</NoxiousHaze.startMessage>
   
 </LanguageData>
