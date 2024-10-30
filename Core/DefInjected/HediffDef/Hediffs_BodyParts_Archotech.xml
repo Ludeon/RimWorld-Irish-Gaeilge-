@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: archotech arm -->
-  <ArchotechArm.label>TODO</ArchotechArm.label>
+  <ArchotechArm.label>lámh arcai-theicneolaíochta</ArchotechArm.label>
   <!-- EN: An installed archotech arm. It's strong enough to crush a thick hardwood branch in its hand, and precise enough to write a sonnet on a grain of rice. It looks and feels like natural flesh, but it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechArm.description>TODO</ArchotechArm.description>
+  <ArchotechArm.description>Tá an lámh arcai-theicneolaíochta seo láidir go leor crua-adhmad a scriosadh idir na méara, agus tá sí cruinn go leor dán a scríobh ar ghráinne ríse. Tá an chuma uirthi go bhfuil sí déanta as craiceann, ach tá sí níos láidre ná plaisti-mhiotal. Níl sé soiléir cén sórt teicneolaíochta atá taobh thiar den ghléas seo.</ArchotechArm.description>
   <!-- EN: fist -->
-  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>lámh</ArchotechArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: an archotech arm -->
-  <ArchotechArm.labelNoun>TODO</ArchotechArm.labelNoun>
+  <ArchotechArm.labelNoun>lámh arcai-theicneolaíochta</ArchotechArm.labelNoun>
   
   <!-- EN: archotech eye -->
-  <ArchotechEye.label>TODO</ArchotechEye.label>
+  <ArchotechEye.label>súil arcai-theicneolaíochta</ArchotechEye.label>
   <!-- EN: An installed archotech eye. It perceives every type of electromagnetic radiation, including radio waves, infrared, light, x-rays, and gamma rays. Its visual acuity is precise enough to read handwriting from twenty meters away. It can emit various wavelengths of radiation like a flashlight, and has an internal subpersona AI which helps highlight useful visual information. Its internal workings are a mystery to human minds. -->
-  <ArchotechEye.description>TODO</ArchotechEye.description>
+  <ArchotechEye.description>Is féidir gach cineál radaíocht leictreamaighnéadach a fheiceáil leis an tsúil arcai-theicneolaíochta seo, solas infridhearg, x-ghathanna agus gáma-ghathanna san áireamh. Tá géire amhairc na súile seo láidir go leor leabhar a léamh ó achar 200 méadar. Tá sí feistithe le hintleacht shaorga a aibhsíonn rudaí úsáideacha sa timpeallacht don aibhsitheoir. Níl sé soiléir cén sórt teicneolaíochta atá taobh thiar den ghléas seo.</ArchotechEye.description>
   <!-- EN: an archotech eye -->
-  <ArchotechEye.labelNoun>TODO</ArchotechEye.labelNoun>
+  <ArchotechEye.labelNoun>súil arcai-theicneolaíochta</ArchotechEye.labelNoun>
   
   <!-- EN: archotech leg -->
-  <ArchotechLeg.label>TODO</ArchotechLeg.label>
+  <ArchotechLeg.label>cos arcai-theicneolaíochta</ArchotechLeg.label>
   <!-- EN: An installed archotech leg. It looks and feels like natural flesh, but a pair of these can move the user as fast as a decent car, and it's harder to damage than plasteel. Even if it is harmed, it repairs itself over time. Its internal workings are a mystery to all human minds. -->
-  <ArchotechLeg.description>TODO</ArchotechLeg.description>
+  <ArchotechLeg.description>Tá an chuma ar an gcos arcai-theicneolaíochta seo go bhfuil sí déanta as craiceann, ach tá sí chomh crua le plaisti-mhiotal. Má tá péire ag duine, beidh sé in ann rith níos tapúla ná carr agus léimt dhá stór. Níl sé soiléir cén sórt teicneolaíochta atá taobh thiar den ghléas seo.</ArchotechLeg.description>
   <!-- EN: an archotech leg -->
-  <ArchotechLeg.labelNoun>TODO</ArchotechLeg.labelNoun>
+  <ArchotechLeg.labelNoun>cos arcai-theicneolaíochta</ArchotechLeg.labelNoun>
   
 </LanguageData>

@@ -2,75 +2,75 @@
 <LanguageData>
   
   <!-- EN: bionic arm -->
-  <BionicArm.label>TODO</BionicArm.label>
+  <BionicArm.label>lámh bitheonach</BionicArm.label>
   <!-- EN: An installed bionic arm. Silenced mini-servos give great strength, while the biogel nerve-link gives exquisite control. A lattice-dust healing system allows it to recover from damage. It is better than a biological arm in almost every way. -->
-  <BionicArm.description>TODO</BionicArm.description>
+  <BionicArm.description>Lámh bitheonach. Tá sé déanta as seirbhimheicníochtaí beaga a thugann láidreacht agus smacht iontach don úsáideoir. Tá sé níos fearr ná lámh bitheolaíoch ar gach aon bhealach.</BionicArm.description>
   <!-- EN: fist -->
-  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>TODO</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>lámh</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
   <!-- EN: a bionic arm -->
-  <BionicArm.labelNoun>TODO</BionicArm.labelNoun>
+  <BionicArm.labelNoun>lámh bitheonach</BionicArm.labelNoun>
   
   <!-- EN: bionic ear -->
-  <BionicEar.label>TODO</BionicEar.label>
+  <BionicEar.label>cluas bhitheonach</BionicEar.label>
   <!-- EN: An installed bionic ear. A collection of invisible subdermal microphones capture sound and transmit it to a biogel nerve interface that links directly with the auditory nerve. It's sensitive enough to hear a cat before you see it, can't be damaged by loud noise, and automatically tunes itself to pick out meaningful sounds in noisy environments. -->
-  <BionicEar.description>TODO</BionicEar.description>
+  <BionicEar.description>Cluas bhitheonach. Tá sí feistithe le micreafóin fho-chraicneacha atá nasctha le néaróg éisteachta an úsáideora. Tá sé íogair go leor fuaimeanna ciúine a chloisteáil,  cosnaíonn sí an t-úsáideoir ó fhuaimeanna glóracha, agus is féidir léi tiúnáil isteach chuig fuaimeanna tábhachtacha i dtimpeallachtaí torannacha.</BionicEar.description>
   <!-- EN: a bionic ear -->
-  <BionicEar.labelNoun>TODO</BionicEar.labelNoun>
+  <BionicEar.labelNoun>cluas bhitheonach</BionicEar.labelNoun>
   
   <!-- EN: bionic eye -->
-  <BionicEye.label>TODO</BionicEye.label>
+  <BionicEye.label>súil bhitheonach</BionicEye.label>
   <!-- EN: An installed bionic eye. With its biogel nerve-link, internal signal pre-processor, and wide-spectrum sensors, it is better than a biological eye in almost every way. A lattice-dust healing system allows it to recover from damage. -->
-  <BionicEye.description>TODO</BionicEye.description>
+  <BionicEye.description>Súil bhitheonach. Tá sí nasctha go díreach le néaróg optúil an úsáideora, agus tá sí feistithe le braiteoirí speictrim agus réamhphróiseálaí. Tá sí níos fearr ná súil bhitheolaíoch ar gach aon bhealach.</BionicEye.description>
   <!-- EN: a bionic eye -->
-  <BionicEye.labelNoun>TODO</BionicEye.labelNoun>
+  <BionicEye.labelNoun>súil bhitheonach</BionicEye.labelNoun>
   
   <!-- EN: bionic heart -->
-  <BionicHeart.label>TODO</BionicHeart.label>
+  <BionicHeart.label>croí bitheonach</BionicHeart.label>
   <!-- EN: An installed bionic heart. It has synthetic muscle fibers for a realistic heartbeat, plus a high-flow pump for rapid circulation during high stress. It is better than a biological heart in almost every way. -->
-  <BionicHeart.description>TODO</BionicHeart.description>
+  <BionicHeart.description>Croí bitheonach. Tá sé déanta as snáithíní sintéiseacha, rud a thugann cuisle réadúil, agus tá sé feistithe le pumpa ardsreafa. Tá sé níos fearr ná croí bitheolaíoch ar gach aon bhealach.</BionicHeart.description>
   <!-- EN: a bionic heart -->
-  <BionicHeart.labelNoun>TODO</BionicHeart.labelNoun>
+  <BionicHeart.labelNoun>croí bitheonach</BionicHeart.labelNoun>
   
   <!-- EN: bionic jaw -->
-  <BionicJaw.label>TODO</BionicJaw.label>
+  <BionicJaw.label>giall bitheonach</BionicJaw.label>
   <!-- EN: An installed bionic jaw. Made out of biosynthetic bone, with plasteel tooth replacements and a set of micro servomotors for the full range of motion. -->
-  <BionicJaw.description>TODO</BionicJaw.description>
+  <BionicJaw.description>Giall bitheonach. Tá sé déanta as cnámha bith-sintéiseacha, agus tá sé feistithe le fiacla plaisti-mhiotail.</BionicJaw.description>
   <!-- EN: a bionic jaw -->
-  <BionicJaw.labelNoun>TODO</BionicJaw.labelNoun>
+  <BionicJaw.labelNoun>giall bitheonach</BionicJaw.labelNoun>
   
   <!-- EN: bionic leg -->
-  <BionicLeg.label>TODO</BionicLeg.label>
+  <BionicLeg.label>cos bhitheonach</BionicLeg.label>
   <!-- EN: An installed bionic leg. With its biogel nerve-link, powerful mini-servos, and lattice-dust healing system, it is better than a biological leg in almost every way. -->
-  <BionicLeg.description>TODO</BionicLeg.description>
+  <BionicLeg.description>Cos bhitheonach. Tá sí feistithe le nasc néarógach agus seirbhimheicníochtaí, rud a chiallaíonn go bhfuil sí níos fearr ná cos bhitheolaíoch ar gach aon bhealach.</BionicLeg.description>
   <!-- EN: a bionic leg -->
-  <BionicLeg.labelNoun>TODO</BionicLeg.labelNoun>
+  <BionicLeg.labelNoun>cos bhitheonach</BionicLeg.labelNoun>
   
   <!-- EN: bionic spine -->
-  <BionicSpine.label>TODO</BionicSpine.label>
+  <BionicSpine.label>dromlach bitheonach</BionicSpine.label>
   <!-- EN: An installed bionic spine. A biogel nerve bundle runs down an articulated plasteel core, surrounded by a lattice-dust healing system. It matches the performance of a biological spine. -->
-  <BionicSpine.description>TODO</BionicSpine.description>
+  <BionicSpine.description>Dromlach bitheonach. Tá sé déanta as néaróga saorga laistigh de chumhdach plaisti-mhiotail, timpeallaithe ag laitísí. Feidhmíonn sé díreach cosúil le dromlach bitheolaíoch.</BionicSpine.description>
   <!-- EN: a bionic spine -->
-  <BionicSpine.labelNoun>TODO</BionicSpine.labelNoun>
+  <BionicSpine.labelNoun>dromlach bitheonach</BionicSpine.labelNoun>
   
   <!-- EN: bionic stomach -->
-  <BionicStomach.label>TODO</BionicStomach.label>
+  <BionicStomach.label>goile bitheonach</BionicStomach.label>
   <!-- EN: An installed bionic stomach. A person with this has a much lower chance of getting food poisoning, and is immune to some stomach diseases. An integrated lattice-dust healing system automatically repairs any damage to the artificial organ. It is better than a biological stomach in almost every way. -->
-  <BionicStomach.description>TODO</BionicStomach.description>
+  <BionicStomach.description>Goile bitheonach. Cosnaíonn an t-orgán saorga seo an t-úsáideoir ó nimhiú bia, agus in aghaidh roinnt galar freisin. Tá sé níos fearr ná goile bitheolaíoch ar gach aon bhealach.</BionicStomach.description>
   <!-- EN: a bionic stomach -->
-  <BionicStomach.labelNoun>TODO</BionicStomach.labelNoun>
+  <BionicStomach.labelNoun>goile bitheonach</BionicStomach.labelNoun>
   
   <!-- EN: bionic tongue -->
-  <BionicTongue.label>TODO</BionicTongue.label>
+  <BionicTongue.label>teanga bhitheonach</BionicTongue.label>
   <!-- EN: An installed bionic tongue. Made of synthetic smooth-fibers and connected through a neurogel interface, it can match the performance of a natural tongue in speaking, eating, and tasting. -->
-  <BionicTongue.description>TODO</BionicTongue.description>
+  <BionicTongue.description>. Tá an teanga bhitheonach seo déanta as snáithíní saorga, agus tá sí nasctha leis an inchinn le comhéadan néarógach. Tá sí díreach chomh maith le teanga bhitheolaíoch agus an t-úsáideoir ag labhairt agus ag ithe.</BionicTongue.description>
   <!-- EN: a bionic tongue -->
-  <BionicTongue.labelNoun>TODO</BionicTongue.labelNoun>
+  <BionicTongue.labelNoun>teanga bhitheonach</BionicTongue.labelNoun>
   
   <!-- EN: death acidifier -->
-  <DeathAcidifier.label>TODO</DeathAcidifier.label>
+  <DeathAcidifier.label>aigéadóir báis</DeathAcidifier.label>
   <!-- EN: An installed death acidifier. Upon the user's death, it releases powerful chemicals that dissolve gear in contact with the user's body. It doesn't damage others. -->
-  <DeathAcidifier.description>TODO</DeathAcidifier.description>
+  <DeathAcidifier.description>Nuair a fhaigheann an t-úsáideoir bás, scaoiltear ceimiceáin láidre as an aigéadóir báis. Scriosann na ceimiceáin seo aon trealamh atá in úsáid ag an úsáideoir, ach ní dhéanann sé damáiste do dhaoine eile.</DeathAcidifier.description>
   <!-- EN: a death acidifier -->
-  <DeathAcidifier.labelNoun>TODO</DeathAcidifier.labelNoun>
+  <DeathAcidifier.labelNoun>aigéadóir báis</DeathAcidifier.labelNoun>
   
 </LanguageData>
