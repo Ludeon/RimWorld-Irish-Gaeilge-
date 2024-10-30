@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: wake-up -->
-  <WakeUp.label>TODO</WakeUp.label>
+  <WakeUp.label>sú muscailte</WakeUp.label>
   <!-- EN: A synthetic stimulant. Wake-up fills the user's need for rest, allowing them to work for extended periods without getting tired. Psycasters on wake-up gain more psyfocus from meditation than they otherwise would. However, taking wake-up runs the risk of developing an addiction.\n\nIn the most competitive universities and companies of many worlds, high-achievers are sometimes called 'wake-ups' because of the association with this drug. -->
-  <WakeUp.description>TODO</WakeUp.description>
+  <WakeUp.description>Cuireann an spreagthach sintéiseach seo bac ar an tuirse, rud a chiallaíonn go bhféadfaidh an t-úsáideoir leanúint ar aghaidh ag obair gan stad. Is substaint andúile é sú muscailte, áfach.\n\nÚsáidtear an druga seo in ollscoileanna agus i gcomhlachtaí móra ar go leor plainéad.</WakeUp.description>
   <!-- EN: Take {0} -->
-  <WakeUp.ingestible.ingestCommandString>TODO</WakeUp.ingestible.ingestCommandString>
+  <WakeUp.ingestible.ingestCommandString>Tóg {0}</WakeUp.ingestible.ingestCommandString>
   <!-- EN: Taking {0}. -->
-  <WakeUp.ingestible.ingestReportString>TODO</WakeUp.ingestible.ingestReportString>
+  <WakeUp.ingestible.ingestReportString>Ag tógáil {0}.</WakeUp.ingestible.ingestReportString>
   
 </LanguageData>
