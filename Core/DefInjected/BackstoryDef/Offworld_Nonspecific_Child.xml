@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
-  <ChildSpy47.description>TODO</ChildSpy47.description>
+  <ChildSpy47.description>Deirtear go bhfuil gach leanbh neamhchiontach, ach ní sin mar a bhí i gcás [PAWN_nameDef]. Fuair sé [PAWN_pronoun] oiliúint i gceird na na spiaireachta ag aois an-óg, agus chaith [PAWN_pronoun] roinnt blianta ag obair faoi rún.</ChildSpy47.description>
   <!-- EN: child spy -->
-  <ChildSpy47.title>TODO</ChildSpy47.title>
+  <ChildSpy47.title>spiaire óg</ChildSpy47.title>
   <!-- EN: spy -->
-  <ChildSpy47.titleShort>TODO</ChildSpy47.titleShort>
+  <ChildSpy47.titleShort>spiaire</ChildSpy47.titleShort>
   
   <!-- EN: [PAWN_nameDef] was well-known throughout [PAWN_possessive] homeworld as a child actor in films and TV shows. [PAWN_possessive] fame put [PAWN_objective] in contact with many different kinds of people, but also tended to get in the way of [PAWN_possessive] education. -->
-  <ChildStar74.description>TODO</ChildStar74.description>
+  <ChildStar74.description>Bhí aithne ag cách ar [PAWN_nameDef] toisc go raibh [PAWN_pronoun] ina réalta óg mór le rá ar an teilifís. Bhuail [PAWN_nameDef] le go leor daoine éagsúla sa ról sin, ach d'fhulaing an t-oideachas a fuair [PAWN_pronoun] dá bharr.</ChildStar74.description>
   <!-- EN: child star -->
-  <ChildStar74.title>TODO</ChildStar74.title>
+  <ChildStar74.title>réalta óg</ChildStar74.title>
   <!-- EN: star -->
-  <ChildStar74.titleShort>TODO</ChildStar74.titleShort>
+  <ChildStar74.titleShort>réalta</ChildStar74.titleShort>
   
   <!-- EN: A childhood accident put [PAWN_nameDef] into a coma. [PAWN_pronoun] didn't wake up until [PAWN_pronoun] was in [PAWN_possessive] late teens. [PAWN_possessive] body never recovered from the years of inactivity, but people tend to take pity on [PAWN_objective] when they hear [PAWN_possessive] story. -->
   <ComaChild93.description>TODO</ComaChild93.description>

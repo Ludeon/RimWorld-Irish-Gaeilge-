@@ -583,13 +583,13 @@
   <!-- EN: Faction base -->
   <FactionBase>Bunáit faicsin</FactionBase>
   <!-- EN: Stone types -->
-  <StoneTypesHere>Cineálacha cloiche</StoneTypesHere>
+  <StoneTypesHere>Cineál cloiche</StoneTypesHere>
   <!-- EN: Time zone -->
   <TimeZone>Crios ama</TimeZone>
   <!-- EN: Movement difficulty -->
   <MovementDifficulty>Deacracht gluaiseachta</MovementDifficulty>
   <!-- EN: Animals can graze now -->
-  <AnimalsCanGrazeNow>Féadfaidh ainmhithe dul ar féarach anois</AnimalsCanGrazeNow>
+  <AnimalsCanGrazeNow>Oiriúnach d'ainmhithe féaraigh?</AnimalsCanGrazeNow>
   <!-- EN: Average disease frequency -->
   <AverageDiseaseFrequency>Minicíocht galar</AverageDiseaseFrequency>
   <!-- EN: per year -->

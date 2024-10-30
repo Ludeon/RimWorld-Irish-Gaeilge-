@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] traveled with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
-  <Actor72.description>TODO</Actor72.description>
+  <Actor72.description>Chuaigh [PAWN_nameDef] ó áit go háit le comhlacht aisteoireachta, agus bhí [PAWN_pronoun] an-mhór le luchtanna féachana ar fud an domhain. Mar gheall ar an taithí sin, is fearr le [PAWN_nameDef] a c[PAWN_possessive]uid éadaí féin a dhéanamh.</Actor72.description>
   <!-- EN: actor -->
-  <Actor72.title>TODO</Actor72.title>
+  <Actor72.title>aisteoir</Actor72.title>
   <!-- EN: actor -->
-  <Actor72.titleShort>TODO</Actor72.titleShort>
+  <Actor72.titleShort>aisteoir</Actor72.titleShort>
   
   <!-- EN: [PAWN_nameDef] raised a variety of animals to provide meat, milk, eggs, and leather. -->
-  <AnimalFarmer21.description>TODO</AnimalFarmer21.description>
+  <AnimalFarmer21.description>Thóg [PAWN_nameDef] ainmhithe éagsúla chun feoil, bainne, uibheacha agus leathar a chur ar fáil.</AnimalFarmer21.description>
   <!-- EN: animal farmer -->
-  <AnimalFarmer21.title>TODO</AnimalFarmer21.title>
+  <AnimalFarmer21.title>feirmeoir ainmhithe</AnimalFarmer21.title>
   <!-- EN: animal farmer -->
-  <AnimalFarmer21.titleShort>TODO</AnimalFarmer21.titleShort>
+  <AnimalFarmer21.titleShort>feirmeoir ainmhithe</AnimalFarmer21.titleShort>
   
   <!-- EN: After taking a vow of silence, [PAWN_nameDef] joined a monastery to spend [PAWN_possessive] days in quiet contemplation.\n\n[PAWN_pronoun] found happiness growing vegetables in the garden and making cheese in the monastery cellars. -->
   <AsceticPriest84.description>TODO</AsceticPriest84.description>
