@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>ainmhithe</Animals.label>
   <!-- EN: Taming, training, and controlling animals. -->
-  <Animals.description>TODO</Animals.description>
+  <Animals.description>Úsáidtear an scil seo chun ainmhithe a cheansú, a thraenáil agus a rialú.</Animals.description>
   <!-- EN:
     <li>subject->animals</li>
     <li>subject->herding</li>
@@ -21,12 +21,12 @@
   -->
   <Animals.generalRules.rulesStrings>TODO</Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
-  <Animals.skillLabel>TODO</Animals.skillLabel>
+  <Animals.skillLabel>ainmhithe</Animals.skillLabel>
   
   <!-- EN: artistic -->
-  <Artistic.label>TODO</Artistic.label>
+  <Artistic.label>ealaíon</Artistic.label>
   <!-- EN: Crafting art. -->
-  <Artistic.description>TODO</Artistic.description>
+  <Artistic.description>Úsáidtear an scil seo chun saothair ealaíne a chruthú.</Artistic.description>
   <!-- EN:
     <li>subject->art</li>
     <li>subject->pottery</li>
@@ -42,12 +42,12 @@
   -->
   <Artistic.generalRules.rulesStrings>TODO</Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
-  <Artistic.skillLabel>TODO</Artistic.skillLabel>
+  <Artistic.skillLabel>ealaíon</Artistic.skillLabel>
   
   <!-- EN: construction -->
-  <Construction.label>TODO</Construction.label>
+  <Construction.label>tógáil</Construction.label>
   <!-- EN: Constructing and deconstructing structures and furniture. -->
-  <Construction.description>TODO</Construction.description>
+  <Construction.description>Úsáidtear an scil seo chun struchtúir agus troscán a thógáil agus a briseadh síos.</Construction.description>
   <!-- EN:
     <li>subject->construction</li>
     <li>subject->building</li>
@@ -62,12 +62,12 @@
   -->
   <Construction.generalRules.rulesStrings>TODO</Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
-  <Construction.skillLabel>TODO</Construction.skillLabel>
+  <Construction.skillLabel>tógáil</Construction.skillLabel>
   
   <!-- EN: cooking -->
-  <Cooking.label>TODO</Cooking.label>
+  <Cooking.label>cócaireacht</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>TODO</Cooking.description>
+  <Cooking.description>Úsáidtear an scil seo chun béilí a dhéanamh as amhábhair, gan nimhiú bia.</Cooking.description>
   <!-- EN:
     <li>subject->cooking</li>
     <li>subject->food</li>
@@ -85,12 +85,12 @@
   -->
   <Cooking.generalRules.rulesStrings>TODO</Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
-  <Cooking.skillLabel>TODO</Cooking.skillLabel>
+  <Cooking.skillLabel>cócaireacht</Cooking.skillLabel>
   
   <!-- EN: crafting -->
-  <Crafting.label>TODO</Crafting.label>
+  <Crafting.label>ceardaíocht</Crafting.label>
   <!-- EN: Crafting general items including weapons, components, and refined resources. -->
-  <Crafting.description>TODO</Crafting.description>
+  <Crafting.description>Úsáidtear an scil seo chun rudaí ginearálta a dhéanamh, ar nós gunnaí, comhpháirteanna agus acmhainní.</Crafting.description>
   <!-- EN:
     <li>subject->crafting</li>
     <li>subject->assembly</li>
@@ -104,12 +104,12 @@
   -->
   <Crafting.generalRules.rulesStrings>TODO</Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
-  <Crafting.skillLabel>TODO</Crafting.skillLabel>
+  <Crafting.skillLabel>ceardaíocht</Crafting.skillLabel>
   
   <!-- EN: intellectual -->
-  <Intellectual.label>TODO</Intellectual.label>
+  <Intellectual.label>intleachtúil</Intellectual.label>
   <!-- EN: Researching and drug synthesis. -->
-  <Intellectual.description>TODO</Intellectual.description>
+  <Intellectual.description>Úsáidtear an scil seo le haghaidh taighde agus sintéis drugaí.</Intellectual.description>
   <!-- EN:
     <li>subject->physics</li>
     <li>subject->chemistry</li>
@@ -137,12 +137,12 @@
   -->
   <Intellectual.generalRules.rulesStrings>TODO</Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
-  <Intellectual.skillLabel>TODO</Intellectual.skillLabel>
+  <Intellectual.skillLabel>intleachtúil</Intellectual.skillLabel>
   
   <!-- EN: medical -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>leigheas</Medicine.label>
   <!-- EN: Tending wounds and diseases and performing surgery. -->
-  <Medicine.description>TODO</Medicine.description>
+  <Medicine.description>Úsáidtear an scil seo chun gortuithe agus galair a chóireáil, agus chun obráidí a dhéanamh.</Medicine.description>
   <!-- EN:
     <li>subject->medicine</li>
     <li>subject->surgery</li>
@@ -169,12 +169,12 @@
   -->
   <Medicine.generalRules.rulesStrings>TODO</Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
-  <Medicine.skillLabel>TODO</Medicine.skillLabel>
+  <Medicine.skillLabel>leigheas</Medicine.skillLabel>
   
   <!-- EN: melee -->
-  <Melee.label>TODO</Melee.label>
+  <Melee.label>melee</Melee.label>
   <!-- EN: Melee combat, both armed and unarmed. -->
-  <Melee.description>TODO</Melee.description>
+  <Melee.description>Úsáidtear an scil seo le haghaidh comhrac melee, le hairm agus gan airm.</Melee.description>
   <!-- EN:
     <li>subject->fighting</li>
     <li>subject->melee</li>
@@ -190,12 +190,12 @@
   -->
   <Melee.generalRules.rulesStrings>TODO</Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
-  <Melee.skillLabel>TODO</Melee.skillLabel>
+  <Melee.skillLabel>melee</Melee.skillLabel>
   
   <!-- EN: mining -->
-  <Mining.label>TODO</Mining.label>
+  <Mining.label>mianadóireacht</Mining.label>
   <!-- EN: Digging tunnels and extracting buried resources. -->
-  <Mining.description>TODO</Mining.description>
+  <Mining.description>Úsáidtear an scil seo chun tolláin a thochailt agus acmhainní a bhaint ón talamh.</Mining.description>
   <!-- EN:
     <li>subject->mining</li>
     <li>subject->digging</li>
@@ -213,12 +213,12 @@
   -->
   <Mining.generalRules.rulesStrings>TODO</Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
-  <Mining.skillLabel>TODO</Mining.skillLabel>
+  <Mining.skillLabel>mianadóireacht</Mining.skillLabel>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>plandaí</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>TODO</Plants.description>
+  <Plants.description>Úsáidtear an scil seo chun plandaí a chur, a fhás agus a bhaint, agus chun plandaí fiáine a bhaint mar bhia.</Plants.description>
   <!-- EN:
     <li>subject->plants</li>
     <li>subject->herbs</li>
@@ -240,12 +240,12 @@
   -->
   <Plants.generalRules.rulesStrings>TODO</Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
-  <Plants.skillLabel>TODO</Plants.skillLabel>
+  <Plants.skillLabel>plandaí</Plants.skillLabel>
   
   <!-- EN: shooting -->
-  <Shooting.label>TODO</Shooting.label>
+  <Shooting.label>lámhach</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>TODO</Shooting.description>
+  <Shooting.description>Úsaidtear an scil seo le haghaidh comhrac fadraoin, agus baint úsáid as airm shimplí agus ardteicneolaíochta.</Shooting.description>
   <!-- EN:
     <li>subject->guns</li>
     <li>subject->weapons</li>
@@ -268,12 +268,12 @@
   -->
   <Shooting.generalRules.rulesStrings>TODO</Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
-  <Shooting.skillLabel>TODO</Shooting.skillLabel>
+  <Shooting.skillLabel>lámhach</Shooting.skillLabel>
   
   <!-- EN: social -->
-  <Social.label>TODO</Social.label>
+  <Social.label>sóisialta</Social.label>
   <!-- EN: Negotiating, convincing, manipulating, leading, and cheering up others. -->
-  <Social.description>TODO</Social.description>
+  <Social.description>Baineann an scil seo le hidirbheartaíocht, díospóireacht, ceannaireacht agus comhairle a chur ar dhaoine eile.</Social.description>
   <!-- EN:
     <li>subject->communication</li>
     <li>subject->networking</li>
@@ -295,6 +295,6 @@
   -->
   <Social.generalRules.rulesStrings>TODO</Social.generalRules.rulesStrings>
   <!-- EN: social -->
-  <Social.skillLabel>TODO</Social.skillLabel>
+  <Social.skillLabel>sóisialta</Social.skillLabel>
   
 </LanguageData>

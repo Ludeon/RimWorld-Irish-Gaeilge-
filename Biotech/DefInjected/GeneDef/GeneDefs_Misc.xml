@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: dark vision -->
-  <DarkVision.label>Dunkelsicht</DarkVision.label>
+  <DarkVision.label>radharc oíche</DarkVision.label>
   <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
-  <DarkVision.description>Träger dieses Gens können auch bei schwachem Licht gut sehen und erleiden keine durch Dunkelheit verursachte Stimmungsmali. Sie haben eine Reflektorschicht hinter der Netzhaut, was ihr Sehvermögen im Dunkeln verbessert.</DarkVision.description>
+  <DarkVision.description>Bíonn radharc oíche ag iompróirí na géine seo agus bíonn sí in ann rudaí a fheiceáil sa bhreacsholas. Tá cealla speisialta acu taobh thiar den reitine a ligeann dóibh rudaí a fheiceáil sa dhorchadas.</DarkVision.description>
   <!-- EN: dark -->
   <DarkVision.symbolPack.prefixSymbols.0.symbol>Dunkel</DarkVision.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: night -->
@@ -23,9 +23,9 @@
   <DarkVision.symbolPack.suffixSymbols.0.symbol>schatten</DarkVision.symbolPack.suffixSymbols.0.symbol>
   
   <!-- EN: fire resistant -->
-  <FireResistant.label>Feuerresistenz</FireResistant.label>
+  <FireResistant.label> tinedhíonach</FireResistant.label>
   <!-- EN: Carriers of this gene have special fast-acting sweat glands and heat-resistant skin. They only take 25% of the normal damage from fire. The chance of them catching on fire is also drastically reduced. -->
-  <FireResistant.description>Träger dieses Gens haben schnell reagierende Schweißdrüsen und hitzebeständige Haut. Sie erleiden nur 25 Prozent des normalen Schadens durch Feuer. Die Chance, dass sie in Brand geraten, ist ebenfalls drastisch reduziert.</FireResistant.description>
+  <FireResistant.description>Tá cealla tinedhíonacha agus faireoga allais speisialta ag iompróirí na géine seo, rud a chiallaíonn nach dtógann siad ach 25% damáiste ó thine. Chomh maith leis sin, is beag seans go rachaidh siad trí thine.</FireResistant.description>
   <!-- EN: fireproof -->
   <FireResistant.labelShortAdj>feuerfest</FireResistant.labelShortAdj>
   <!-- EN: foam -->
@@ -36,12 +36,12 @@
   <FireResistant.symbolPack.suffixSymbols.0.symbol>schaum</FireResistant.symbolPack.suffixSymbols.0.symbol>
   
   <!-- EN: inbred -->
-  <Inbred.label>Inzucht</Inbred.label>
+  <Inbred.label>ionphóraithe</Inbred.label>
   <!-- EN: This genetic condition affects a person's fertility, immunity, and mental capacity. -->
-  <Inbred.description>Diese genetische Erkrankung beeinträchtigt die Fruchtbarkeit, Immunisierung und geistige Kapazität einer Person.</Inbred.description>
+  <Inbred.description>Bíonn éifeacht ag an ngéin seo ar thorthúlacht, imdhíonacht agus cumas intleachta an iompróra.</Inbred.description>
   
   <!-- EN: major cell instability -->
-  <Instability_Major.label>erhebliche Zellinstabilität</Instability_Major.label>
+  <Instability_Major.label>éagobhsaíocht ceall</Instability_Major.label>
   <!-- EN: Carriers of this gene need much less metabolic energy to stay alive, at the cost of greatly-reduced stability in their cell-replication machinery. -->
   <Instability_Major.description>Träger dieses Gens benötigen viel weniger Stoffwechselenergie, um am Leben zu bleiben, allerdings auf Kosten einer stark verminderten Stabilität ihres Zellreplikationsapparats.</Instability_Major.description>
   

@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Children are presumed innocent, which makes them excellent spies. [PAWN_nameDef] was trained in the art of infiltration when [PAWN_pronoun] was just a small child.\n\n[PAWN_possessive] years undercover gave [PAWN_objective] experience with social manipulation and lying, but [PAWN_pronoun] never had a normal education. -->
-  <ChildSpy47.description>Deirtear go bhfuil gach leanbh neamhchiontach, ach ní sin mar a bhí i gcás [PAWN_nameDef]. Fuair sé [PAWN_pronoun] oiliúint i gceird na na spiaireachta ag aois an-óg, agus chaith [PAWN_pronoun] roinnt blianta ag obair faoi rún.</ChildSpy47.description>
+  <ChildSpy47.description>Deirtear go bhfuil gach leanbh neamhchiontach, ach ní sin mar a bhí i gcás [PAWN_nameDef]. Fuair [PAWN_pronoun] oiliúint i gceird na spiaireachta ag aois an-óg, agus chaith [PAWN_pronoun] roinnt blianta ag obair faoi rún.</ChildSpy47.description>
   <!-- EN: child spy -->
   <ChildSpy47.title>spiaire óg</ChildSpy47.title>
   <!-- EN: spy -->

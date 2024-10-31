@@ -60,7 +60,7 @@
   <!-- EN: Start with -->
   <ScenPart_StartWith>Tosaigh le</ScenPart_StartWith>
   <!-- EN: Map is scattered with -->
-  <ScenPart_MapScatteredWith>Beidh na hearraí seo ar fáil sa léarscáil:</ScenPart_MapScatteredWith>
+  <ScenPart_MapScatteredWith>Beidh na rudaí seo ar fáil ar an léarscáil:</ScenPart_MapScatteredWith>
   <!-- EN: Permanent game condition(s) -->
   <ScenPart_PermaGameCondition>Coinníollacha buana an chluiche:</ScenPart_PermaGameCondition>
   <!-- EN: Incident(s) disabled -->

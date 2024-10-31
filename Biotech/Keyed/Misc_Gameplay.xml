@@ -664,9 +664,9 @@
   <!-- EN: Extreme -->
   <TilePollutionExtreme>Extreme</TilePollutionExtreme>
   <!-- EN: Pollution -->
-  <TilePollution>Pollution</TilePollution>
+  <TilePollution>Truailliú</TilePollution>
   <!-- EN: Nearby pollution -->
-  <TilePollutionNearby>Nearby pollution</TilePollutionNearby>
+  <TilePollutionNearby>Truailliú máguaird</TilePollutionNearby>
   <!-- EN: The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring. -->
   <NearbyPollutionTip>The sum of pollution levels of all tiles within a {0} tile radius. As the distance from this tile increases, the pollution contribution decreases:\n\n{1}\n\nThe higher the nearby pollution the greater the chance of acidic smog occurring.</NearbyPollutionTip>
   <!-- EN: This tile will have acidic smog every {0} days on average. -->
@@ -684,7 +684,7 @@
   <!-- EN: Absorbing pollution: Next in {0} -->
   <AbsorbingPollutionNext>Absorbing pollution: Next in {0}</AbsorbingPollutionNext>
   <!-- EN: How polluted the terrain is on this tile.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most crops cannot live on polluted terrain. -->
-  <TerrainPollutionTip>How polluted the terrain is on this tile.\n\nExposure to polluted terrain causes toxic buildup which can lead to death. Most crops cannot live on polluted terrain.</TerrainPollutionTip>
+  <TerrainPollutionTip>An leibhéal truaillithe ar an tíl seo.\n\nBíonn drochéifeachtaí ag truailliú ar choilínigh agus ní fhásann plandaí i gceart ar thalamh truaillithe.</TerrainPollutionTip>
 
   <!-- Research -->
   <!-- EN: Requires study of -->

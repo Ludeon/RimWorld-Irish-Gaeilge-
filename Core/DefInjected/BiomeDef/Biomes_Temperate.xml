@@ -4,11 +4,11 @@
   <!-- EN: temperate forest -->
   <TemperateForest.label>foraois mheasartha</TemperateForest.label>
   <!-- EN: Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains. -->
-  <TemperateForest.description>Foraois ina bhfásann crainn dhuillsilteacha. Maireann go leor speicis ainmhithe sna crainn agus sna réitigh.</TemperateForest.description>
+  <TemperateForest.description>Foraois ina bhfásann crainn dhuillsilteacha. Maireann go leor speicis ainmhithe sna crainn agus sna páirceanna móra.</TemperateForest.description>
   
   <!-- EN: temperate swamp -->
   <TemperateSwamp.label>corcach mheasartha</TemperateSwamp.label>
   <!-- EN: Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures. -->
-  <TemperateSwamp.description>Talamh fliuch ina bhfásann go leor plandaí, agus ina scaiptear na mílte galar. Tá sé deacair bogadh thart mar gheall ar an bhfásra, agus tá cuid mhór den talamh róbhog chun tacú le struchtúir mhóra.</TemperateSwamp.description>
+  <TemperateSwamp.description>Talamh fliuch ina bhfásann go leor plandaí, agus ina scaiptear na mílte galar. Tá sé deacair bogadh thart mar gheall ar an bhfásra. Is minic nach féidir struchtúir mhóra a thógáil anseo, toisc go bhfuil an talamh róbhog.</TemperateSwamp.description>
   
 </LanguageData>

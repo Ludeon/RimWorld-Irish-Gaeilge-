@@ -189,7 +189,7 @@
   <Research.verb>Déan taighde ag</Research.verb>
   
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
-  <Smithing.description>Cruthaigh airm agus uirlisí ó ábhair éagsúla, mar ghabha nó le meaisíní. Féadfaidh coilínigh meicea-róbait a dheisiú freisin, más Meicneoirí iad.</Smithing.description>
+  <Smithing.description>Cruthaigh airm agus uirlisí ó ábhair éagsúla, mar ghabha nó le meaisíní. Is féidir le coilínigh meicea-róbait a dheisiú freisin, más Meicnitheoirí iad.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>Ceardaíocht</Smithing.gerundLabel>
   <!-- EN: smith -->

@@ -214,16 +214,16 @@
   <!-- EN: jet -->
   <Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>dubh</Skin_InkBlack.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: shadow -->
-  <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>schatten</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>dubh</Skin_InkBlack.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: raven -->
-  <Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>raben</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>dorcha</Skin_InkBlack.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: jet -->
-  <Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>gagat</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
+  <Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>dorcha</Skin_InkBlack.symbolPack.suffixSymbols.2.symbol>
   
   <!-- EN: light gray skin -->
-  <Skin_LightGray.label>hellgraue Haut</Skin_LightGray.label>
+  <Skin_LightGray.label>craiceann liath</Skin_LightGray.label>
   <!-- EN: Carriers of this produce a light-gray pigment in their skin. -->
-  <Skin_LightGray.description>Träger dieses Gens produzieren ein hellgraues Pigment in ihrer Haut.</Skin_LightGray.description>
+  <Skin_LightGray.description>Bíonn craiceann liath ar iompróirí na géine seo.</Skin_LightGray.description>
   <!-- EN: gray -->
   <Skin_LightGray.labelShortAdj>grau</Skin_LightGray.labelShortAdj>
   <!-- EN: gray -->
@@ -232,18 +232,18 @@
   <Skin_LightGray.symbolPack.prefixSymbols.1.symbol>Blass</Skin_LightGray.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: orange skin -->
-  <Skin_Orange.label>orangene Haut</Skin_Orange.label>
+  <Skin_Orange.label>craiceann oráiste</Skin_Orange.label>
   <!-- EN: Carriers of this gene produce a pigment that gives their skin an orange color. -->
-  <Skin_Orange.description>Träger dieses Gens produzieren ein Pigment, das ihrer Haut eine orangene Farbe verleiht.</Skin_Orange.description>
+  <Skin_Orange.description>Bíonn craiceann oráiste ar iompróirí na géine seo.</Skin_Orange.description>
   <!-- EN: orange -->
   <Skin_Orange.labelShortAdj>orangen</Skin_Orange.labelShortAdj>
   <!-- EN: orange -->
   <Skin_Orange.symbolPack.prefixSymbols.0.symbol>Orange</Skin_Orange.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: pale red skin -->
-  <Skin_PaleRed.label>blassrote Haut</Skin_PaleRed.label>
+  <Skin_PaleRed.label>craiceann bándearg</Skin_PaleRed.label>
   <!-- EN: Carriers of this gene produce a pigment that turns their skin a moderate red color. -->
-  <Skin_PaleRed.description>Träger dieses Gens produzieren ein Pigment, das ihre Haut blassrot färbt.</Skin_PaleRed.description>
+  <Skin_PaleRed.description>Bíonn craiceann bándearg ar iompróirí na géine seo.</Skin_PaleRed.description>
   <!-- EN: pink -->
   <Skin_PaleRed.labelShortAdj>pinkfarben</Skin_PaleRed.labelShortAdj>
   <!-- EN: pink -->
@@ -254,9 +254,9 @@
   <Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>Rosa</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: pale yellow skin -->
-  <Skin_PaleYellow.label>blassgelbe Haut</Skin_PaleYellow.label>
+  <Skin_PaleYellow.label>craiceann bánbhuí</Skin_PaleYellow.label>
   <!-- EN: Carriers of this gene produce a pigment that turns their skin a grayish yellow color. -->
-  <Skin_PaleYellow.description>Träger dieses Gens produzieren ein Pigment, das ihre Haut blassgelb färbt.</Skin_PaleYellow.description>
+  <Skin_PaleYellow.description>Bíonn craiceann bánbhuí ar iompróirí na géine seo.</Skin_PaleYellow.description>
   <!-- EN: cream -->
   <Skin_PaleYellow.labelShortAdj>cremefarben</Skin_PaleYellow.labelShortAdj>
   <!-- EN: yellow -->
@@ -269,9 +269,9 @@
   <Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>bananen</Skin_PaleYellow.symbolPack.suffixSymbols.0.symbol>
   
   <!-- EN: purple skin -->
-  <Skin_Purple.label>violette Haut</Skin_Purple.label>
+  <Skin_Purple.label>craiceann corcra</Skin_Purple.label>
   <!-- EN: Carriers of this gene produce a pigment that gives their skin a purple color. -->
-  <Skin_Purple.description>Träger dieses Gens produzieren ein Pigment, das ihrer Haut eine violette Farbe verleiht.</Skin_Purple.description>
+  <Skin_Purple.description>Bíonn craiceann corcra ar iompróirí na géine seo.</Skin_Purple.description>
   <!-- EN: purple -->
   <Skin_Purple.labelShortAdj>violett</Skin_Purple.labelShortAdj>
   <!-- EN: purp -->
@@ -280,9 +280,9 @@
   <Skin_Purple.symbolPack.prefixSymbols.1.symbol>Trauben</Skin_Purple.symbolPack.prefixSymbols.1.symbol>
   
   <!-- EN: sheer white skin -->
-  <Skin_SheerWhite.label>kalkweiße Haut</Skin_SheerWhite.label>
+  <Skin_SheerWhite.label>craiceann bán</Skin_SheerWhite.label>
   <!-- EN: Carriers of this gene have sheer white skin, unlike natural skin tones, due to a special engineered reflective cell covering. -->
-  <Skin_SheerWhite.description>Träger dieses Gens haben im Gegensatz zu natürlichen Hauttönen eine kalkweiße Haut, was auf eine speziell entwickelte reflektierende Zellwand zurückzuführen ist.</Skin_SheerWhite.description>
+  <Skin_SheerWhite.description>Bíonn craiceann bán ar iompróirí na géine seo, mar gheall ar chealla speisialta a dhéanann an solas a fhrithchaitheamh.</Skin_SheerWhite.description>
   <!-- EN: pale -->
   <Skin_SheerWhite.labelShortAdj>blass</Skin_SheerWhite.labelShortAdj>
   <!-- EN: white -->
@@ -315,9 +315,9 @@
   <Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>geist</Skin_SheerWhite.symbolPack.suffixSymbols.0.symbol>
   
   <!-- EN: slate gray skin -->
-  <Skin_SlateGray.label>schiefergraue Haut</Skin_SlateGray.label>
+  <Skin_SlateGray.label>craicann liathdhubh</Skin_SlateGray.label>
   <!-- EN: Carriers of this gene produce a pigment that turns their skin slate gray. -->
-  <Skin_SlateGray.description>Träger dieses Gens produzieren ein Pigment, das ihre Haut schiefergrau färbt.</Skin_SlateGray.description>
+  <Skin_SlateGray.description>Bíonn craiceann liathdhubh ar iompróirí na géine seo.</Skin_SlateGray.description>
   <!-- EN: slate -->
   <Skin_SlateGray.labelShortAdj>grau</Skin_SlateGray.labelShortAdj>
   <!-- EN: gray -->

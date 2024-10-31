@@ -113,9 +113,9 @@
   <DownRaider.textController>Tá rógaire ag teacht chun ionsaí a dhéanamh ar do choilíneacht!\n\n1. Is féidir cluiche a stopadh leis an gcnaipe {Key:TogglePause}!\n2. Léigh an teachtaireacht dhearg ag bun an scáileáin ar dheis.\n3. Chun coilínigh a DHRÉACHTÚ, roghnaigh iad agus cliceáil ar DRÉACHTAIGH.\n4. Úsaid an truicear clé chun iad a chur chuig an gcearnóg, taobh leis na málaí gainimh.\n5. Úsáid an cnaipe {Key:TogglePause}, chun an cluiche a thosú arís.\n\nNí mór go mbeidh coilínigh díreach taobh le cumhdach chun úsáid cheart a bhaint as. Nuair a bheidh tú cosanta ag cumhdach, fan go dtí go dtiocfaidh an rógaire. Ionsóidh do choilínigh go huathoibríoch.</DownRaider.textController>
   
   <!-- EN: Right-click to get out of stockpile designating mode. -->
-  <EndStockpileDesignating.text>Deaschliceáil chun an mód stoc-charntha a dhúnadh.</EndStockpileDesignating.text>
+  <EndStockpileDesignating.text>Deaschliceáil chun an roghchlár a dhúnadh.</EndStockpileDesignating.text>
   <!-- EN: Press left trigger button to get out of stockpile designating mode. -->
-  <EndStockpileDesignating.textController>Úsáid an truicear clé chun an mód stoc-charntha a dhúnadh.</EndStockpileDesignating.textController>
+  <EndStockpileDesignating.textController>Úsáid an truicear clé chun an roghchlár a dhúnadh.</EndStockpileDesignating.textController>
   
   <!-- EN: Equip this -->
   <EquipWeapons.onMapInstruction>Feistigh é seo</EquipWeapons.onMapInstruction>
@@ -156,9 +156,9 @@
   <MakeStockpile.text>Go hiontach!\n\nB'fhiú stoc-charn a chruthú anois, chun go mbeidh áit ag do choilínigh rudaí a stóráil.\n\n1. Cliceáil ar an táb AILTIRE.\n2. Roghnaigh ZÓNÁIL.\n3. Roghnaigh an uirlis CRUTHAIGH STOC-CHARN.\n4. Cliceáil agus tarraing cearnóg, mar atá marcáilte ar an léarscáil.</MakeStockpile.text>
   
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around.\n\nUse the {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right} keys, or click and drag with the middle mouse button.\n\nTry it now! -->
-  <MapCameraDolly.text>Seo linn, táimid leandáilte ar an bplainéad!\n\nDéan iarracht an ceamara a bhogadh.\n\nBain úsáid as na cnaipí {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, nó cliceáil agus tarraing leis an gcnaipe luiche sa lár.\n\nBain triail as anois!</MapCameraDolly.text>
+  <MapCameraDolly.text>Seo linn, táimid leaindeáilte ar an bplainéad!\n\nDéan iarracht an ceamara a bhogadh.\n\nBain úsáid as na cnaipí {Key:MapDolly_Up}-{Key:MapDolly_Left}-{Key:MapDolly_Down}-{Key:MapDolly_Right}, nó cliceáil agus tarraing leis an gcnaipe luiche sa lár.\n\nBain triail as anois!</MapCameraDolly.text>
   <!-- EN: Here you are on the surface!\n\nNow try moving the camera around with the left joystick.\n\nTry it now! -->
-  <MapCameraDolly.textController>Seo linn, táimid leandáilte ar an bplainéad!\n\nDéan iarracht an ceamara a bhogadh leis an luamhán clé.\n\nBain triail as anois!</MapCameraDolly.textController>
+  <MapCameraDolly.textController>Seo linn, táimid leaindeáilte ar an bplainéad!\n\nDéan iarracht an ceamara a bhogadh leis an luamhán clé.\n\nBain triail as anois!</MapCameraDolly.textController>
   
   <!-- EN: Great!\n\nYou can also zoom in and out with the mouse wheel, or the {Key:MapZoom_In} and {Key:MapZoom_Out} keys.\n\nTry it now! -->
   <MapCameraZoom.text>Go hiontach!\n\nFéadfaidh tú zúmáil isteach agus amach leis an roth luiche, nó leis na cnaipí {Key:MapZoom_In} agus {Key:MapZoom_Out}.\n\nBain triail as anois!</MapCameraZoom.text>

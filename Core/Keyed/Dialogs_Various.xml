@@ -1346,9 +1346,9 @@
   <LifeStageMaxFood>Altersgruppe-Maximalnahrung-Faktor</LifeStageMaxFood>
 
   <!-- EN: Expand all -->
-  <ExpandAllCategories>Alles ausklappen</ExpandAllCategories>
+  <ExpandAllCategories>Oscáil gach ceann</ExpandAllCategories>
   <!-- EN: Collapse all -->
-  <CollapseAllCategories>Alles einklappen</CollapseAllCategories>
+  <CollapseAllCategories>Dún gach ceann</CollapseAllCategories>
 
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
   <TooltipDyeExplanation>Farbstoffe können von Tinktoriapflanzen geerntet oder von Händlern gekauft werden.</TooltipDyeExplanation>

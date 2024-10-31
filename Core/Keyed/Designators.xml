@@ -147,11 +147,11 @@
   <DesignatorZoneCreateStorageDumpingDesc>Cruthaigh stoc-charn dumpála. Coinneoidh do choilínigh bruscar agus dramhaíl anseo.\nIs féidir an t-ordú seo a úsáid chun stoc-chearn atá ann cheana a dhéanamh níos mó, freisin.</DesignatorZoneCreateStorageDumpingDesc>
 
   <!-- EN: Shrink zones -->
-  <DesignatorZoneDelete>Scrios zóin</DesignatorZoneDelete>
+  <DesignatorZoneDelete>Scrios zón</DesignatorZoneDelete>
   <!-- EN: Shrink zone -->
   <DesignatorZoneDeleteSingular>Scrios zón</DesignatorZoneDeleteSingular>
   <!-- EN: Remove zones, like stockpile zones or growing zones. -->
-  <DesignatorZoneDeleteDesc>Déan zóin (stoc-charn nó zón fáis, mar shampla) a scriosadh.</DesignatorZoneDeleteDesc>
+  <DesignatorZoneDeleteDesc>Déan zón (stoc-charn nó zón fáis, mar shampla) a scriosadh.</DesignatorZoneDeleteDesc>
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Leathnaigh zón</DesignatorZoneExpand>
