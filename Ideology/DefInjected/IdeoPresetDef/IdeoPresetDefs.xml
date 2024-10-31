@@ -39,7 +39,7 @@
   <!-- EN: feral people -->
   <Feral_People.label>daoine fiáine</Feral_People.label>
   <!-- EN: We are animals and animals are us. We are trees and we live by them and love them as us.\n\nUnlocks animal and plants specialist roles. Increases taming abilities of every member. Cutting trees and slaughtering animals are unacceptable. These people can connect more deeply with the Gauranlen trees. -->
-  <Feral_People.description>Is ainmhithe muid. Is crainn muid, agus pléann muid leo amhail gur daoine iad.\n\nBíonn ról mar speisialtóir ainmhithe agus speisialtóir plandaí ar fáil leis an idé-eolaíocht seo. Bíonn ardscileanna ceansaithe ag gach duine sa ghrúpa. Ní cheadaítear ainmhithe a mharú ná crainn a leagadh. Bíonn na daoine seo in ann nasc níos fearr a dhéanamh leis an gcrann Garanlach.</Feral_People.description>
+  <Feral_People.description>Is ainmhithe muid, is crainn muid, agus pléann muid leo amhail gur daoine iad.\n\nBíonn róil mar speisialtóir ainmhithe agus speisialtóir plandaí ar fáil leis an idé-eolaíocht seo. Bíonn ardscileanna ceansaithe ag gach duine sa ghrúpa. Ní cheadaítear ainmhithe a mharú ná crainn a leagadh. Bíonn na daoine seo in ann nasc níos fearr a dhéanamh leis an gcrann Garanlach.</Feral_People.description>
   
   <!-- EN: free ranchers -->
   <Free_Ranchers.label>saor-rainseoirí</Free_Ranchers.label>
@@ -52,9 +52,9 @@
   <High_Collectivists.description>Ní mór do gach duine obair chrua a dhéanamh ar son an phobail, chun go bhféadfaimid raithneach a chaitheamh i gciorcal mór.\n\nBíonn ról mar speisialtóir plandaí ar fáil leis an idé-eolaíocht seo.</High_Collectivists.description>
   
   <!-- EN: human purists -->
-  <Human_Purists.label>íonaithe daonna</Human_Purists.label>
+  <Human_Purists.label>íonaíochas</Human_Purists.label>
   <!-- EN: The human race is superior and the human body is sacred. We disdain body modification,  íonaithe and drug use.\n\nUnlocks the medical and production specialist roles. -->
-  <Human_Purists.description>Tá an cine daonna os cionn gach cine eile, agus tá an corp daonne beannaithe. Is fuath linn marcáil coirp agus drugaí.\n\nBíonn róil mar speisialtóir leighis agus speisialtóir táirgiúlachta ar fáil leis an idé-eolaíocht seo.</Human_Purists.description>
+  <Human_Purists.description>Tá an cine daonna os cionn gach cine eile, agus tá corp an duine beannaithe. Is fuath linn marcáil coirp agus drugaí.\n\nBíonn róil mar speisialtóir leighis agus speisialtóir táirgiúlachta ar fáil leis an idé-eolaíocht seo.</Human_Purists.description>
   
   <!-- EN: martyrs -->
   <Martyrs.label>mairtírigh</Martyrs.label>
@@ -62,9 +62,9 @@
   <Martyrs.description>Is daoine peacúla muid, agus ní mór dúinne fulaingt as ár bpeacaí. Dírimid ar an bpiain agus ar an íobairt, agus ní cheadaítear grá fisiciúil na compord.</Martyrs.description>
   
   <!-- EN: mole people -->
-  <Mole_People.label>peuple taupe</Mole_People.label>
+  <Mole_People.label>lucht na dtollán</Mole_People.label>
   <!-- EN: The sun - it stuns, we shun! In the tunnels we shuffle, and snuffle for truffles. In our bubble there's no scuttling trouble. Never a kerfuffle.\n\nGrants increased mining efficiency but an aversion to outdoor light. -->
-  <Mole_People.description>An ghrian - tá an ghráin againn uirthi, fanaimid glan uirthi! Sna tolláin, bímid ag lorg strufal. Ní bhíonn aon bhagairt inár mbolgán beag. Ní bhíonn raic ann riamh.\n\nLeis an idé-eolaíocht seo, bíonn scileanna mianadóireacht an-ard ag cách, ach bíonn an ghráin ag gach duine ar sholas na gréine.</Mole_People.description>
+  <Mole_People.description>An ghrian - tá an ghráin againn uirthi, fanaimid glan uirthi! Sna tolláin, bímid ag lorg strufail lena n-ithe. Ní bhíonn aon bhagairt inár mbolgán beag. Ní bhíonn raic ann riamh.\n\nLeis an idé-eolaíocht seo, bíonn scileanna mianadóireacht an-ard ag cách, ach bíonn an ghráin ag gach duine ar sholas na gréine.</Mole_People.description>
   
   <!-- EN: naked maneaters -->
   <Naked_Maneaters.label>canablaigh lomnochta</Naked_Maneaters.label>
@@ -82,38 +82,38 @@
   <Nudist_Recruiters.description>Nous devons nous libérer des vêtements contraignants et inviter constamment les autres à nous rejoindre.</Nudist_Recruiters.description>
   
   <!-- EN: purist flagellators -->
-  <Painful_Purists.label>flagellateurs puristes</Painful_Purists.label>
+  <Painful_Purists.label>íonaíochas lascnaideach</Painful_Purists.label>
   <!-- EN: Suffering purifies and ennobles. Modifying the body to ease your life is the way of the filthy.\n\nUnlocks the medical specialist role. These people have reduced comfort expectations. Will have gladiator duels and sacrifices. -->
-  <Painful_Purists.description>La souffrance purifie et ennoblit. Modifier le corps pour faciliter la vie est inacceptable.\n\nDéverrouille le rôle du médecin spécialiste. Ces personnes ont des attentes réduites en matière de confort. Il y aura des duels de gladiateurs et des sacrifices.</Painful_Purists.description>
+  <Painful_Purists.description>Is cuid tábhachtach den saol í an fhulaingt. An té a athraíonn a chorp féin chun a shaol a dhéanamh níos éasca, tá sé salach agus leisciúil.\n\nBíonn ról mar speisialtóir leighis ar fáil leis an íde-eolaíocht seo. Bíonn trodanna gliairí agus íobairtí i gceist leis an gcreideamh seo.</Painful_Purists.description>
   
   <!-- EN: transcendent humanists -->
-  <Progressive_Humanism.label>transhumanistes</Progressive_Humanism.label>
+  <Progressive_Humanism.label>trasdaonnachaithe</Progressive_Humanism.label>
   <!-- EN: The human race is at the peak of nature and must use technology to step beyond. We do this by enhancing our bodies with technology, but we like to hear others' view on the matter.\n\nUnlocks research and production specialist roles. -->
-  <Progressive_Humanism.description>La race humaine est à son apogée et on doit désormais utiliser la technologie pour la dépasser. Pour ce faire, nous améliorons notre corps grâce à la technologie, mais nous aimerions connaître le point de vue des autres sur le sujet.\n\nDéverrouille les rôles de spécialistes de la recherche et de la production.</Progressive_Humanism.description>
+  <Progressive_Humanism.description>Ní mór dúinn úsáid a bhaint as an teicneolaíocht chun barr ár gcumas a bhaint amach. Déanaimid ár gcoirp a fheabhsú le teicneolaíocht, ach táimid sásta ár smaointe a phlé le daoine eile.\n\nBíonn speisialtóir taighde agus speisialtóir táirgiúlachta ar fáil leis an ról seo.</Progressive_Humanism.description>
   
   <!-- EN: dark humans -->
-  <ProHuman_Darklovers.label>hommes de la nuit</ProHuman_Darklovers.label>
+  <ProHuman_Darklovers.label>lucht na hoíche</ProHuman_Darklovers.label>
   <!-- EN: The human race flourishes in the darkness of night and the underground.\n\nUnlocks mining and production specialist roles. Combat effeciency in the dark is increased. -->
-  <ProHuman_Darklovers.description>La race humaine s'épanouit dans l'obscurité de la nuit et du sous-sol.\n\nDébloque les rôles de spécialistes de l'exploitation minière et de la production. L'efficacité du combat dans l'obscurité est accrue.</ProHuman_Darklovers.description>
+  <ProHuman_Darklovers.description>Is fearr maireachtáil le linn na hoíche agus faoi thalamh.\n\nBíonn speisialtóir mianadóireachta agus táirgiúlachta ar fáil leis an idé-eolaíocht seo. Bíonn na daoine seo níos fearr ag troid sa dhorchadas.</ProHuman_Darklovers.description>
   
   <!-- EN: techno-utopians -->
-  <Techno_Utopians.label>techno-utopistes</Techno_Utopians.label>
+  <Techno_Utopians.label>teicnea-útóipithe</Techno_Utopians.label>
   <!-- EN: The human body must be enhanced with technology so we can build a better future for everyone.\n\nUnlocks the research specialist role. -->
-  <Techno_Utopians.description>Le corps humain doit être amélioré par la technologie afin que nous puissions construire un avenir meilleur pour tous.\n\nDéverrouille le rôle de spécialiste de la recherche.</Techno_Utopians.description>
+  <Techno_Utopians.description>Ní mór corp an duine a fheabhsú le teicneolaíocht, chun go bhféadfaimid todhchaí níos fearr a thógáil do chách.\n\nBíonn speisialtóir taighde ar fáil leis an idé-eolaíocht seo.</Techno_Utopians.description>
   
   <!-- EN: tree-worshippers -->
-  <Tree_Worshippers.label>adorateurs des arbres</Tree_Worshippers.label>
+  <Tree_Worshippers.label>crann-adhraitheoirí</Tree_Worshippers.label>
   <!-- EN: We live in harmony with the Gauranlen trees. Trees should never be cut, and animals should not be harmed.\n\n Unlocks the plants specialist role. These people live in rough conditions without complains, and can connect more deeply with the Gauranlen trees. -->
-  <Tree_Worshippers.description>Nous vivons en harmonie avec les arbres de Gauranlen. Les arbres ne doivent jamais être coupés et les animaux ne doivent pas être blessés.\n\nDébloque le rôle de spécialiste des plantes. Ces personnes vivent dans des conditions difficiles sans se plaindre, et peuvent se connecter plus profondément avec les arbres Gauranlen.</Tree_Worshippers.description>
+  <Tree_Worshippers.description>Cónaimíd in éineacht leis na crainn Garanlacha. Níl sé ceadaithe crainn a leagadh, agus níor cheart ainmhithe a ghortú.\n\nBíonn speisialtóir plandaí ar fáil leis an idé-eolaíocht seo. Tá na daoine seo sásta maireachtáil i ndrochchoinníollacha, agus bíonn nasc níos láidre acu leis an gcrann Garanlach.</Tree_Worshippers.description>
   
   <!-- EN: unity family -->
-  <Unity_Family.label>unité familiale</Unity_Family.label>
+  <Unity_Family.label>pobalbhunaithe</Unity_Family.label>
   <!-- EN: The community is a family of hard-working, like-minded people. Putting yourself first is not acceptable. -->
-  <Unity_Family.description>La communauté est une famille de personnes qui travaillent dur et partagent les mêmes idées. Se mettre en avant n'est pas acceptable.</Unity_Family.description>
+  <Unity_Family.description>Tá ár bpobal déanta suas de dhaoine éagsúla a bhfuil na spriocanna céanna acu. Ní mór tús áite a thabhairt don ghrúpa i gcónaí.</Unity_Family.description>
   
   <!-- EN: bloody dominators -->
-  <Violent_Dominators.label>dominateurs sanglants</Violent_Dominators.label>
+  <Violent_Dominators.label>creachadóirí fuilteacha</Violent_Dominators.label>
   <!-- EN: The weak deserve to lose what they have to us. Raiding and enslaving are honorable.\n\nUnlocks melee and shooting specialist roles. Will have gladiator duels. -->
-  <Violent_Dominators.description>Les faibles méritent qu'on leur prenne ce qu'ils ont. Le pillage et l'asservissement sont honorables.\n\nDéverrouille les rôles de spécialistes de la mêlée et du tir. Il y aura des duels de gladiateurs.</Violent_Dominators.description>
+  <Violent_Dominators.description>Táimid tréan, agus úsáidimid an lámh láidir ar an té atá lag. Níl aon deacracht againn daoine eile a chur faoi chois agus sclábhaithe a choinneáil.\n\nBíonn speisialtóir melee agus speisialtóir lámaigh ar fáil leis an idé-eolaíocht seo.</Violent_Dominators.description>
   
 </LanguageData>

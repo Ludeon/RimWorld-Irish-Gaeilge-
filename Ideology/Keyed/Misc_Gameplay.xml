@@ -2,27 +2,27 @@
 <LanguageData>
 
   <!-- EN: Customize ideoligion -->
-  <CustomizeIdeoligion>Personnalisez votre idéoligion</CustomizeIdeoligion>
+  <CustomizeIdeoligion>Cruthaigh d'idé-chreideamh féin</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
-  <ChooseYourIdeoligion>Choisissez votre idéoligion</ChooseYourIdeoligion>
+  <ChooseYourIdeoligion>Roghnaigh d'idé-chreideamh</ChooseYourIdeoligion>
   <!-- EN: A random structure will be used for your ideoligion. -->
-  <RandomStructureTip>Une structure sera choisie au hasard pour votre idéoligion.</RandomStructureTip>
+  <RandomStructureTip>Roghnófar struchtúr randamach le haghaidh d'idé-chreidimh.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
-  <RandomStyleTip>Un style sera choisi au hasard pour votre idéoligion.</RandomStyleTip>
+  <RandomStyleTip>Roghnófar stíl randamach le haghaidh d'idé-chreidimh.</RandomStyleTip>
   <!-- EN: Ideology system inactive -->
-  <PlayClassic>Jeu classique</PlayClassic>
+  <PlayClassic>Cluiche clasaiceach</PlayClassic>
   <!-- EN: Create custom\n(fluid) -->
-  <CreateCustomFluid>Créer une personnalisée\n(fluide)</CreateCustomFluid>
+  <CreateCustomFluid>Cruthaigh idé-chreideamh\n(athraitheach)</CreateCustomFluid>
   <!-- EN: Create custom\n(fixed) -->
-  <CreateCustomFixed>Créer une personnalisée\n(fixe)</CreateCustomFixed>
+  <CreateCustomFixed>Cruthaigh idé-chreideamh\n(socraithe)</CreateCustomFixed>
   <!-- EN: Custom ideoligions -->
-  <CustomIdeoligions>Idéoligions personnalisées</CustomIdeoligions>
+  <CustomIdeoligions>Idé-chreidimh shaincheaptha</CustomIdeoligions>
   <!-- EN: Load saved -->
-  <LoadSaved>Importer</LoadSaved>
+  <LoadSaved>Lódáil</LoadSaved>
   <!-- EN: Structure -->
-  <Structure>Structure</Structure>
+  <Structure>Struchtúr</Structure>
   <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs. -->
-  <ChooseYourIdeoligionDesc>Quelles doivent être les croyances de vos colons de départ ? Ces croyances affectent le gameplay et les visuels. Vous pourrez convertir d'autres personnes à vos croyances ou adopter les leurs.</ChooseYourIdeoligionDesc>
+  <ChooseYourIdeoligionDesc>Céard iad na rudaí a chreideann do choilínigh? Beidh éifeacht ag na cinntí seo ar an gcluiche. Beidh tú in ann daoine eile a thiontú chuig do chreideamh, nó a rud a chreideann siadsan a ghlacadh.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
   <CreateCustom>Créer une personnalisée</CreateCustom>
   <!-- EN: Delete custom -->

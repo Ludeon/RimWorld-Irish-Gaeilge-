@@ -7,9 +7,9 @@
   <Custom.description>Leis an rogha seo, féadfaidh tú do stíl imeartha féin a chruthú.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí atá sásta le ceann de na roghanna réamhshocruithe, ach ar mhaith leo cúpla rud a athrú.\n- Imreoirí atá ag iarraidh rudaí nua a thriail.</Custom.description>
   
   <!-- EN: community builder -->
-  <Easy.label>pobal-bhunaithe</Easy.label>
+  <Easy.label>pobalbhunaithe</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>Tóg pobal le beagán dáinséir. Beidh bagairtí ann, ach ní bheith siad ródháinséarach..\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí nua.\n- Imreoirí atá ag iarraidh an choilíneacht fhoirfe a fhorbairt.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Easy.description>
+  <Easy.description>Cruthaigh pobal le beagán dáinséir. Beidh bagairtí ann, ach ní bheith siad ródháinséarach..\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí nua.\n- Imreoirí atá ag iarraidh an choilíneacht fhoirfe a fhorbairt.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Easy.description>
   
   <!-- EN: losing is fun -->
   <Extreme.label>is maith liom cailliúint</Extreme.label>
@@ -29,7 +29,7 @@
   <!-- EN: peaceful -->
   <Peaceful.label>síochánta</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>Tóg pobal i dtimpeallacht shíochánta. Ní bheidh aon bhagairtí tromchúiseacha ann, ach bheidh ort plé le galar, meabharshláinte agus ainmhithe fiáine go fóill.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí atá ag iarraidh foghlaim conas an cluiche a imirt gan aon bhrú.\n- Imreoirí a bhfuil spéis acu sa tógáil.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Peaceful.description>
+  <Peaceful.description>Cruthaigh pobal i dtimpeallacht shíochánta. Ní bheidh aon bhagairtí tromchúiseacha ann, ach bheidh ort plé le galar, meabharshláinte agus ainmhithe fiáine go fóill.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí atá ag iarraidh foghlaim conas an cluiche a imirt gan aon bhrú.\n- Imreoirí a bhfuil spéis acu sa tógáil.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Peaceful.description>
   
   <!-- EN: strive to survive -->
   <Rough.label>troid in éadan na héagóra</Rough.label>
