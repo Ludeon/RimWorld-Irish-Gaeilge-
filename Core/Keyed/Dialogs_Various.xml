@@ -204,13 +204,13 @@
   
   <!-- Choose new wanderers -->
   <!-- EN: Choose new wanderers -->
-  <ChooseNewWanderers>TODO</ChooseNewWanderers>
+  <ChooseNewWanderers>Roghnaigh fánaithe úra.</ChooseNewWanderers>
 
   <!-- Save game incompatible warning -->
   <!-- EN: Version mismatch -->
   <VersionMismatch>Neamhréir idir leaganacha</VersionMismatch>
   <!-- EN: This game was saved with game version {0}\nWe are running game version {1}\n\nLoading this save may cause bugs and crashes. -->
-  <SaveGameIncompatibleWarningText>Sábháladh an cluiche seo le leagan {0}\nTá leagan {1} den chluiche á rith faoi láthair.\n\nD'fhéadfadh sé go mbeidh fabhtanna ann nó go gclisfidh an cluiche má lódáltar an sábháil seo.</SaveGameIncompatibleWarningText>
+  <SaveGameIncompatibleWarningText>Sábháladh an cluiche seo le leagan {0}\nTá leagan {1} den chluiche in úsáid faoi láthair.\n\nD'fhéadfadh sé go mbeidh fabhbanna ann nó go gclisfidh an cluiche má lódáiltear an sábháil seo.</SaveGameIncompatibleWarningText>
   <!-- EN: World file was generated with game version {0}\nWe are running game version {1}\n\nLoading this world may cause bugs and crashes. You should probably generate a new world from scratch. -->
   <WorldFileVersionMismatch>Gineadh an comhad domhain le leagan {0}\nTá leagan {1} den chluiche á rith faoi láthair.\n\nD'fhéadfadh sé go mbeidh fabhtanna ann nó go gclisfidh an cluiche má lódáltar an sábháil seo.</WorldFileVersionMismatch>
   <!-- EN: This file was saved with game version {0}\nWe are running game version {1}\n\nLoading this file may cause bugs and crashes. -->
@@ -331,33 +331,33 @@
   <Unpause>Pause aufheben</Unpause>
 
   <!-- EN: Count equipped -->
-  <IncludeEquipped>Zähle Ausgerüstetes dazu</IncludeEquipped>
+  <IncludeEquipped>Rudaí feistithe san áireamh</IncludeEquipped>
   <!-- EN: Count tainted -->
-  <IncludeTainted>Zähle Verunreinigtes dazu</IncludeTainted>
+  <IncludeTainted>Rudaí scriosta san áireamh</IncludeTainted>
   <!-- EN: Only allowed ingredients -->
-  <LimitToAllowedStuff>Nur erlaubte Zutaten</LimitToAllowedStuff>
+  <LimitToAllowedStuff>Comhábhair cheadaithe amháin</LimitToAllowedStuff>
   <!-- EN: Look everywhere -->
-  <IncludeFromAll>Überall suchen</IncludeFromAll>
+  <IncludeFromAll>Féach gach áit</IncludeFromAll>
   <!-- EN: Look in {0} -->
-  <IncludeSpecific>Suche in {0}</IncludeSpecific>
+  <IncludeSpecific>Féach i: {0}</IncludeSpecific>
   <!-- EN: Stockpiles -->
-  <StockpilePlural>TODO</StockpilePlural>
+  <StockpilePlural>Stoc-chairn</StockpilePlural>
   <!-- EN: Shelves -->
-  <ShelfPlural>TODO</ShelfPlural>
+  <ShelfPlural>Seilfeanna</ShelfPlural>
   <!-- EN: Groups -->
-  <GroupPlural>TODO</GroupPlural>
+  <GroupPlural>Grúpaí</GroupPlural>
   
   <!-- Info card -->
   <!-- EN: Damage -->
-  <Damage>Schaden</Damage>
+  <Damage>Damáiste</Damage>
   <!-- EN: Armor penetration -->
-  <ArmorPenetration>Rüstungsdurchdringung</ArmorPenetration>
+  <ArmorPenetration>Láidreacht in aghaidh armúir</ArmorPenetration>
   <!-- EN: Armor penetration is the amount of armor this weapon will ignore each time it hits the target.\n\nIf armor penetration is greater than the target's armor, it is as though the target is unarmored. Otherwise, the armor penetration is subtracted from the target's armor. -->
-  <ArmorPenetrationExplanation>Rüstungsdurchdringung (RD) ist die Rüstungsmenge, die diese Waffe jedes Mal bei einem Treffer ignoriert.\n\nWenn RD größer als der Rüstungswert des Ziels ist, wird die Rüstung des Ziels komplett ignoriert. Wenn RD kleiner als der Rüstungswert des Ziels ist, wird RD vom Rüstungswert des Ziels abgezogen.</ArmorPenetrationExplanation>
+  <ArmorPenetrationExplanation>Is ionann láidreacht in aghaidh armúir agus an méid damáiste a dhéanann an t-arm seo gach uair a bhuailtear targaid.\n\nMá tá an láidreacht in aghaidh armúir níos airde ná armúr na targaide, déantar neamhaird ar an armúr sin. Mura bhfuil an láidreacht in aghaidh armúir níos airde ná armúr na targaide, déantar an láidreacht a bhaint ó armúr na targáide chun an damáiste a ríomh.</ArmorPenetrationExplanation>
   <!-- EN: Building damage factor -->
-  <BuildingDamageFactor>Bauwerkschaden-Faktor</BuildingDamageFactor>
+  <BuildingDamageFactor>Damáiste d'fhoirgnimh</BuildingDamageFactor>
   <!-- EN: Damage to all buildings is multiplied by this value. -->
-  <BuildingDamageFactorExplanation>Ein Multiplikator auf den Schaden gegen alle Bauwerke.</BuildingDamageFactorExplanation>
+  <BuildingDamageFactorExplanation>Méadaítear gach damáiste d'fhoirgnimh faoin méid seo.</BuildingDamageFactorExplanation>
   <!-- EN: Building damage factor (impassable) -->
   <BuildingDamageFactorImpassable>Bauwerkschaden-Faktor (unpassierbar)</BuildingDamageFactorImpassable>
   <!-- EN: Damage to all impassable buildings is multiplied by this value. -->

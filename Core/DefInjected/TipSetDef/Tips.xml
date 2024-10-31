@@ -32,27 +32,27 @@
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->
   <GameplayTips.ShootingAccuracyFogRain>Tá sé níos deacra airm fhadraoin a úsáid nuair a bhíonn ceo nó báisteach ann.</GameplayTips.ShootingAccuracyFogRain>
   <!-- EN: You can analyze the chance a shot will hit by selecting the shooter and placing the mouse over the target. -->
-  <GameplayTips.ShootingTooltip>TODO</GameplayTips.ShootingTooltip>
+  <GameplayTips.ShootingTooltip>Is féidir breathnú ar an dóchúlacht go mbainfidh urchar sprioc amach ach an lámhachóir a roghnú agus an luchóg a chur thar an targaid.</GameplayTips.ShootingTooltip>
   <!-- EN: Turrets explode when they take a lot of damage. Don't put them too close together, and don't put your people too close to them. -->
-  <GameplayTips.TurretsExplode>TODO</GameplayTips.TurretsExplode>
+  <GameplayTips.TurretsExplode>Pléascann túiríní nuair a dhéantar an iomarca damáiste dóibh. Ná cuir iad in aice lena chéile, agus bí cinnte nach gcuireann tú do choilínigh taobh leo.</GameplayTips.TurretsExplode>
   <!-- EN: Some animals explode upon death. You can use transport pods to drop animals on enemies. Think about it. -->
-  <GameplayTips.AnimalDeathExplosion>TODO</GameplayTips.AnimalDeathExplosion>
+  <GameplayTips.AnimalDeathExplosion>Pléascann roinnt ainmhithe nuair a mharaítear iad. Is féidir podanna iompair a úsáid chun ainmhithe a leagan ar do naimhde. Smaoinigh faoi.</GameplayTips.AnimalDeathExplosion>
   <!-- EN: If you need help in a fight, call your allies using the comms console. -->
-  <GameplayTips.CallAllies>TODO</GameplayTips.CallAllies>
+  <GameplayTips.CallAllies>Má tá cúnamh de dhíth ort, is féidir scairt a chur ar do chomhghuaillithe leis an gconsól cumarsáide.</GameplayTips.CallAllies>
   <!-- EN: Maddened animals will attack any human, including your enemies. You can use this. -->
-  <GameplayTips.MaddenedAnimals>TODO</GameplayTips.MaddenedAnimals>
+  <GameplayTips.MaddenedAnimals>Nuair a bhíonn ainmhithe ar míre, ionsóidh siad gach duine - do naimhde san áireamh.</GameplayTips.MaddenedAnimals>
   <!-- EN: EMP bursts will temporarily disable turrets and shields. -->
-  <GameplayTips.EMPDisablesTurretsShields>TODO</GameplayTips.EMPDisablesTurretsShields>
+  <GameplayTips.EMPDisablesTurretsShields>Is féidir túiríní agus sciatha a dhíchumasú go sealadach le EMP.</GameplayTips.EMPDisablesTurretsShields>
   <!-- EN: EMP bursts instantly break personal shields. -->
-  <GameplayTips.EMPDisablesPersonalShields>TODO</GameplayTips.EMPDisablesPersonalShields>
+  <GameplayTips.EMPDisablesPersonalShields>Is féidir sciatha pearsanta a scriosadh le EMP.</GameplayTips.EMPDisablesPersonalShields>
   <!-- EN: The hunter stealth stat reduces the chance of animal attacks. It is affected by the hunter's animals and shooting skills. -->
-  <GameplayTips.HunterStealth>TODO</GameplayTips.HunterStealth>
+  <GameplayTips.HunterStealth>Má tá scil sealgaireachta ard ag coilíneach, is lú seans go n-ionsóidh ainmhithe é.</GameplayTips.HunterStealth>
   <!-- EN: Animals are more likely to attack when harmed from close range. Long-range, slow-firing weapons are safest for hunting. -->
-  <GameplayTips.AnimalsAttackCloseRange>TODO</GameplayTips.AnimalsAttackCloseRange>
+  <GameplayTips.AnimalsAttackCloseRange>Is mó seans go n-ionsóidh ainmhithe má tá siad taobh leat. Is fearr gunnaí fadraoin a úsáid don tsealgaireacht.</GameplayTips.AnimalsAttackCloseRange>
   <!-- EN: Entire herds of animals may attack you when you try to hunt them. Accept the risk before hunting, or choose weaker prey. -->
-  <GameplayTips.AnimalsMayAttack>TODO</GameplayTips.AnimalsMayAttack>
+  <GameplayTips.AnimalsMayAttack>D'fhéadfadh sé go n-ionsóidh grúpaí móra ainmhithe ag aon am amháin. Bí ar an eolas maidir leis na rioscaí agus tú i mbun sealgaireachta.</GameplayTips.AnimalsMayAttack>
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
-  <GameplayTips.AnimalDeathExplosionRain>TODO</GameplayTips.AnimalDeathExplosionRain>
+  <GameplayTips.AnimalDeathExplosionRain>Má mharaíonn tú búmalóip agus é ag cur báistí, ní scaipfear tinte foraoise.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
   <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
@@ -154,14 +154,14 @@
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
   <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
   <!-- EN: It’s never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
-  <GameplayTips.NeverGameOver>TODO</GameplayTips.NeverGameOver>
+  <GameplayTips.NeverGameOver>Ní bhíonn deireadh leis an scéal riamh. Má chailltear gach duine i do choilíneacht, is féidir daoine nua a chruthú chun teacht isteach ina n-áit.</GameplayTips.NeverGameOver>
   <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
   <GameplayTips.StoreBooksInBookcases>TODO</GameplayTips.StoreBooksInBookcases>
   <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill’s “Details…” window. -->
   <GameplayTips.TakeToShelves>TODO</GameplayTips.TakeToShelves>
   <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
-  <GameplayTips.ChangeUnits>TODO</GameplayTips.ChangeUnits>
+  <GameplayTips.ChangeUnits>Is féidir am an chloig 12 uair nó Celsius nó Fahrenheit a úsáid ach na socruithe a athrú.</GameplayTips.ChangeUnits>
   <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
-  <GameplayTips.TargetColonistBar>TODO</GameplayTips.TargetColonistBar>
+  <GameplayTips.TargetColonistBar>Chun coilíneach a roghnú, is féidir cliceáil orthu nó is féidir cliceáil ar an bpictiúr ar bharr an scáileáin.</GameplayTips.TargetColonistBar>
   
 </LanguageData>

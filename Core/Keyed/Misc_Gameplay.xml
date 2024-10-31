@@ -471,141 +471,141 @@
   <!-- EN: Mech cluster -->
   <MechCluster>Meicea-charn</MechCluster>
   <!-- EN: Spawning in {0} -->
-  <SpawningNextPawnIn>Ag giniúint i {0}</SpawningNextPawnIn>
+  <SpawningNextPawnIn>Ag giniúint i gceann {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
   <MechAssemblyCompleteIn>Críochnófar an tógáil i gceann {0}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
   <MechAssemblyNextType>Baut als Nächstes</MechAssemblyNextType>
   <!-- EN: produced -->
-  <ThingsProduced>produziert</ThingsProduced>
+  <ThingsProduced>cruthaithe</ThingsProduced>
   <!-- EN: harvested -->
-  <PlantsHarvested>geerntet</PlantsHarvested>
+  <PlantsHarvested>bainte</PlantsHarvested>
   <!-- EN: {0} killed -->
-  <PawnsKilled>{0} getötet</PawnsKilled>
+  <PawnsKilled>{0} maraithe</PawnsKilled>
   <!-- EN: Sent {0}, will return in {1} -->
-  <PawnsLent>{0} entsandt, Rückkehr in {replace: {1}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</PawnsLent>
+  <PawnsLent>Seoladh {0}, fillfidh sé i gceann {1}.</PawnsLent>
   <!-- EN: Dormant -->
-  <DormantCompInactive>Ruhend</DormantCompInactive>
+  <DormantCompInactive>Suanach</DormantCompInactive>
   <!-- EN: Sealed -->
-  <DormantCompSealed>Versiegelt</DormantCompSealed>
+  <DormantCompSealed>Dúnta</DormantCompSealed>
   <!-- EN: Ready to drop mechanoids -->
-  <DormantCompBeacon>Bereit zum Abwurf von Mechanoiden</DormantCompBeacon>
+  <DormantCompBeacon>Réidh chun meicea-róbait a scaoileadh</DormantCompBeacon>
   <!-- EN: Expired -->
-  <DormantCompExpired>Abgelaufen</DormantCompExpired>
+  <DormantCompExpired>Éagtha</DormantCompExpired>
   <!-- EN: Initiates in -->
-  <InitiatesIn>Beginnt in</InitiatesIn>
+  <InitiatesIn>Ag tosú i gceann</InitiatesIn>
   <!-- EN: Activates in {0} -->
-  <SendSignalOnCountdownCompTime>Aktiviert sich in (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime)</SendSignalOnCountdownCompTime>
+  <SendSignalOnCountdownCompTime>Ag tosú i gceann {0}</SendSignalOnCountdownCompTime>
   <!-- EN: Neural heat -->
-  <PsychicEntropy>Neuralhitze</PsychicEntropy>
+  <PsychicEntropy>Teas néarach</PsychicEntropy>
   <!-- EN: Heat -->
-  <PsychicEntropyShort>Hitze</PsychicEntropyShort>
+  <PsychicEntropyShort>Teas</PsychicEntropyShort>
   <!-- EN: {0} pain boost -->
   <PsychicEntropyPainFocus>{0} Schmerzboost</PsychicEntropyPainFocus>
   <!-- EN: radius {0} -->
-  <ConditionCauserRadius>Radius {0}</ConditionCauserRadius>
+  <ConditionCauserRadius>Ga {0}</ConditionCauserRadius>
   <!-- EN: low psyfocus -->
   <LowPsyfocus>wenig Psyfokus</LowPsyfocus>
   <!-- EN: {0} left -->
-  <DurationLeft>noch {0}</DurationLeft>
+  <DurationLeft>{0} fágtha</DurationLeft>
   <!-- EN: Any of -->
-  <AnyOf>Beliebige Ressource aus</AnyOf>
+  <AnyOf>Aon cheann de na nithe seo:</AnyOf>
   <!-- EN: Requires {0} trait -->
-  <TraitRequired>Benötigt Merkmal {0}</TraitRequired>
+  <TraitRequired>Tréith de dhíth: {0}</TraitRequired>
   <!-- EN: Goodwill -->
-  <Goodwill>Ruf</Goodwill>
+  <Goodwill>Dea-mhéin</Goodwill>
   <!-- EN: Natural goodwill -->
-  <NaturalGoodwill>Natürlicher Ruf</NaturalGoodwill>
+  <NaturalGoodwill>Dea-mhéin nádúrtha</NaturalGoodwill>
   <!-- EN: Natural goodwill range -->
-  <NaturalGoodwillRange>Natürlicher Rufbereich</NaturalGoodwillRange>
+  <NaturalGoodwillRange>Raon dea-mhéine</NaturalGoodwillRange>
   <!-- EN: Natural goodwill is based on faction identities and beliefs. If current goodwill is far from natural goodwill, it will slowly shift towards natural goodwill over time.\n\nAll goodwill effects are multiplied by {0} when moving towards natural goodwill. -->
-  <NaturalGoodwillDescription>Der natürliche Ruf basiert auf den Identitäten und Überzeugungen der Fraktionen. Wenn der aktuelle Ruf weit vom natürlichen Ruf entfernt ist, wird er sich mit der Zeit langsam dem natürlichen Ruf annähern.\n\nJeglicher Rufgewinn oder -verlust wird mit {0} multipliziert, wenn er sich dem natürlichen Ruf nähert.</NaturalGoodwillDescription>
+  <NaturalGoodwillDescription>Tá dea-mhéin nádúrtha bunaithe ar fhéiniúlacht agus creidimh na bhfaicsean. Má tá an leibhéal reatha dea-mhéine i bhfad ón leibhéal nádúrtha dea-mhéine, rachaidh an leibhéal ar ais i dtreo na dea-mhéine nádúrtha le himeacht ama.\n\nMéadaítear gach éifeacht dea-mhéine faoi {0} nuair atáthar ag bogadh i dtreo na dea-mhéine nádúrtha.</NaturalGoodwillDescription>
   <!-- EN: reducing resistance of {0_nameIndef} -->
-  <JobReport_ReduceResistance>Reduziert Widerstand von {0_nameIndef}.</JobReport_ReduceResistance>
+  <JobReport_ReduceResistance>Tá ceannairceacht {0_nameIndef} á laghdú.</JobReport_ReduceResistance>
   <!-- EN: Too large -->
-  <TooLargeForBed>Zu groß</TooLargeForBed>
+  <TooLargeForBed>Rómhór</TooLargeForBed>
   <!-- EN: Warning -->
-  <Warning>Warnung</Warning>
+  <Warning>Rabhadh</Warning>
   <!-- EN: Has subquest -->
-  <HasSubquest>Hat Folgequest</HasSubquest>
+  <HasSubquest>Tá fomhisean ag gabháil leis seo.</HasSubquest>
   <!-- EN: Subquest of -->
-  <SubquestOf>Folgequest von</SubquestOf>
+  <SubquestOf>Fomhisean de:</SubquestOf>
   <!-- EN: Raid -->
-  <Raid>Überfall</Raid>
+  <Raid>Ionsaí</Raid>
   <!-- EN: Disabled by -->
-  <ApparelRequirementDisabledLabel>Deaktiviert durch</ApparelRequirementDisabledLabel>
+  <ApparelRequirementDisabledLabel>Dícheadaithe ag:</ApparelRequirementDisabledLabel>
   <!-- EN: Nudism -->
-  <Nudism>Nudismus</Nudism>
+  <Nudism>Nochtachas</Nudism>
   <!-- EN: Study progress -->
-  <StudyProgress>Analyse-Fortschritt</StudyProgress>
+  <StudyProgress>Dul chun cinn</StudyProgress>
   <!-- EN: completed -->
-  <StudyCompleted>abgeschlossen</StudyCompleted>
+  <StudyCompleted>críochnaithe</StudyCompleted>
   <!-- EN: Attack this to destroy it. -->
-  <AttackToDestroy>Greife dies an, um es zu zerstören.</AttackToDestroy>
+  <AttackToDestroy>Ionsaigh é seo chun é a scriosadh.</AttackToDestroy>
   <!-- EN: Remove this by attacking it. -->
-  <RemoveByAttackingTooltip>Um dies zu entfernen, greife es an.</RemoveByAttackingTooltip>
+  <RemoveByAttackingTooltip>Is féidir seo a bhaint ach é a ionsú.</RemoveByAttackingTooltip>
   <!-- EN: Food -->
-  <ThoughtFoodEatenFood>Nahrung</ThoughtFoodEatenFood>
+  <ThoughtFoodEatenFood>Bia</ThoughtFoodEatenFood>
   <!-- EN: Ingredients -->
-  <ThoughtFoodEatenIngredients>Zutaten</ThoughtFoodEatenIngredients>
+  <ThoughtFoodEatenIngredients>Comhábhair</ThoughtFoodEatenIngredients>
   <!-- EN: Shield pack -->
-  <ShieldInbuilt>Schutzschild</ShieldInbuilt>
+  <ShieldInbuilt>Paca cosanta</ShieldInbuilt>
   <!-- EN: Punctured - will explode soon. -->
-  <PuncturedWillExplode>Instabil - wird bald explodieren.</PuncturedWillExplode>
+  <PuncturedWillExplode>Pollta - pléascfaidh sé seo go luath.</PuncturedWillExplode>
   <!-- EN: Click to open research window -->
-  <ClickToOpenResearchTab>Klicke zum Öffnen des Forschungsfensters</ClickToOpenResearchTab>
+  <ClickToOpenResearchTab>Cliceáil chun an roghchlár taighde a oscailt.</ClickToOpenResearchTab>
   <!-- EN: Target belongs to another faction. -->
-  <TargetBelongsToNPCFaction>Ziel gehört zu einer anderen Fraktion.</TargetBelongsToNPCFaction>
+  <TargetBelongsToNPCFaction>Baineann an targaid le faicsean eile.</TargetBelongsToNPCFaction>
   <!-- EN: more -->
-  <MoreLower>weitere</MoreLower>
+  <MoreLower>tuilleadh</MoreLower>
   <!-- EN: Requires -->
-  <RequiredTechprintTip>Benötigt</RequiredTechprintTip>
+  <RequiredTechprintTip>De dhíth:</RequiredTechprintTip>
   <!-- EN: size -->
-  <Size>Größe</Size>
+  <Size>méid</Size>
   <!-- EN: cost -->
-  <Cost>Kosten</Cost>
+  <Cost>costas</Cost>
   <!-- EN: Stunned by EMP -->
-  <StunnedByEMP>TODO</StunnedByEMP>
+  <StunnedByEMP>Stangtha ag EMP</StunnedByEMP>
   <!-- EN: Title -->
-  <BackstoryTitle>Titel</BackstoryTitle>
+  <BackstoryTitle>Teideal</BackstoryTitle>
   <!-- EN: person -->
-  <Person>Mensch</Person>
+  <Person>duine</Person>
   <!-- EN: activated. -->
-  <Activated>TODO</Activated> 
+  <Activated>cumasaithe</Activated> 
   <!-- EN: Contains -->
-  <Contains>Enthält</Contains>
+  <Contains>Istigh:</Contains>
   <!-- EN: Hostiles -->
-  <Hostiles>TODO</Hostiles>
+  <Hostiles>Naimhde</Hostiles>
   <!-- EN: Investigate -->
-  <Investigate>TODO</Investigate> 
+  <Investigate>Fiosraigh</Investigate> 
   <!-- EN: Activate -->
-  <Activate>TODO</Activate> 
+  <Activate>Cumasaigh</Activate> 
   <!-- EN: Activation -->
-  <Activation>TODO</Activation> 
+  <Activation>Cumasú</Activation> 
   <!-- EN: complete -->
-  <Complete>complete</Complete>
+  <Complete>déanta</Complete>
   <!-- EN: Must be imprisoned. -->
-  <RequiresImprisonment>TODO</RequiresImprisonment> 
+  <RequiresImprisonment>Ní mór an té seo a chur i bpríosún.</RequiresImprisonment> 
   <!-- EN: Prioritize hauling contents -->
   <HaulFromSource>TODO</HaulFromSource>
   <!-- EN: Use -->
-  <UseGizmo>TODO</UseGizmo>
+  <UseGizmo>Úsáid</UseGizmo>
   <!-- EN: Order someone to use the {0}. -->
-  <UseGizmoTooltip>TODO</UseGizmoTooltip>
+  <UseGizmoTooltip>Tabhair ordú do dhuine éigean an {0} a úsáid.</UseGizmoTooltip>
   <!-- EN: Choose who should use this -->
-  <UseGizmoMouse>TODO</UseGizmoMouse>
+  <UseGizmoMouse>Roghnaigh duine chun seo a úsáid.</UseGizmoMouse>
   <!-- EN: Select target -->
-  <TargetGizmoMouse>TODO</TargetGizmoMouse>
+  <TargetGizmoMouse>Roghnaigh targaid</TargetGizmoMouse>
   <!-- EN: Cannot use this -->
-  <CannotUseGizmoMouse>TODO</CannotUseGizmoMouse>
+  <CannotUseGizmoMouse>Ní féidir seo a úsáid</CannotUseGizmoMouse>
   <!-- EN: Buildings -->
-  <Buildings>Buildings</Buildings>
+  <Buildings>Foirgnimh</Buildings>
   <!-- EN: not yet discovered -->
-  <NotYetDiscovered>TODO</NotYetDiscovered>
+  <NotYetDiscovered>níor aimsigh tú seo go fóill</NotYetDiscovered>
   <!-- EN: Crawling to safety. -->
-  <ReportStringCrawlingToSafety>TODO</ReportStringCrawlingToSafety>
+  <ReportStringCrawlingToSafety>Ag lámhacán go háit shábháilte.</ReportStringCrawlingToSafety>
   <!-- EN: Crawling to bed. -->
-  <ReportStringCrawlingToBed>TODO</ReportStringCrawlingToBed>
+  <ReportStringCrawlingToBed>Ag lámhacán chuig an leaba.</ReportStringCrawlingToBed>
   
   <!-- Scanning -->
   <!-- EN: User scanning speed -->

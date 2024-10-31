@@ -119,11 +119,11 @@
   <!-- EN: no allowed pens -->
   <CantRopeAnimalNoAllowedPens>níl aon chró ceadaithe ar fáil</CantRopeAnimalNoAllowedPens>
   <!-- EN: no reachable pens -->
-  <CantRopeAnimalNoReachablePens>níl an chró inrochtana ar fáil</CantRopeAnimalNoReachablePens>
+  <CantRopeAnimalNoReachablePens>níl aon chró inrochtana ar fáil</CantRopeAnimalNoReachablePens>
   <!-- EN: can't touch -->
-  <CantRopeAnimalCantTouch>can't touch</CantRopeAnimalCantTouch>
+  <CantRopeAnimalCantTouch>ní féidr lámh a leagan air seo</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
-  <CantRopeAnimalNoSpace>níl aon spás in aon chró</CantRopeAnimalNoSpace>
+  <CantRopeAnimalNoSpace>níl aon spás sa chró</CantRopeAnimalNoSpace>
   <!-- EN: {0_labelShort} is in {1} state -->
   <CantRopeAnimalMentalState>tá {1} ar {0_labelShort}</CantRopeAnimalMentalState>
   <!-- EN: already in best pen -->
@@ -131,29 +131,29 @@
   <!-- EN: {0} skill too low -->
   <SkillTooLowForConstruction>scil ró-íséal ({0})</SkillTooLowForConstruction>
   <!-- EN: need components -->
-  <NoComponentsToRepair>comhpháirteanna de dhíth</NoComponentsToRepair>
+  <NoComponentsToRepair>tá comhpháirteanna de dhíth</NoComponentsToRepair>
   <!-- EN: need {0} -->
-  <NoFuelToRefuel>{0} de dhíth</NoFuelToRefuel>
+  <NoFuelToRefuel>tá {0} de dhíth</NoFuelToRefuel>
   <!-- EN: need wort -->
-  <NoWort>benötige Bierwürze</NoWort>
+  <NoWort>tá braichlis de dhíth</NoWort>
   <!-- EN: available food is in storage of higher priority -->
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>verfügbare Nahrung ist auf Lagerplatz mit höherer Priorität</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>tá an bia atá ar fáil á choimeád i stóras a bhfuil tosaíocht níos airde aiges</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
-  <NoFoodToFillHopper>keine geeignete Nahrung</NoFoodToFillHopper>
+  <NoFoodToFillHopper>níl aon bhia oiriúnach ar fáil</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
-  <SelfTendDisabled>Selbstbehandlung deaktiviert</SelfTendDisabled>
+  <SelfTendDisabled>tá féinchóireáil dícheadaithe</SelfTendDisabled>
   <!-- EN: reserved for prisoners -->
-  <ReservedForPrisoners>für Gefangene reserviert</ReservedForPrisoners>
+  <ReservedForPrisoners>is do phríosúnaigh an rud seo</ReservedForPrisoners>
   <!-- EN: cannot reach -->
-  <CannotReach>nicht erreichbar</CannotReach>
+  <CannotReach>níl seo inrochtana</CannotReach>
   <!-- EN: not ready for surgery -->
-  <NotSurgeryReady>nicht bereit für Operation</NotSurgeryReady>
+  <NotSurgeryReady>níltear réidh chun tús a chur leis an obráid</NotSurgeryReady>
   <!-- EN: skill incapable -->
-  <SkillDisabled>Fertigkeit gesperrt</SkillDisabled>
+  <SkillDisabled>skill incapable</SkillDisabled>
   <!-- EN: too bright -->
-  <CantSowCavePlantBecauseOfLight>zu hell</CantSowCavePlantBecauseOfLight>
+  <CantSowCavePlantBecauseOfLight>rógheal</CantSowCavePlantBecauseOfLight>
   <!-- EN: unroofed -->
-  <CantSowCavePlantBecauseUnroofed>Dach fehlt</CantSowCavePlantBecauseUnroofed>
+  <CantSowCavePlantBecauseUnroofed>gan díon</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>Abriss nicht möglich</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
