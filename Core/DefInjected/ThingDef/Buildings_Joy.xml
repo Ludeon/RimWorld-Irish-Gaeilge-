@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: billiards table -->
-  <BilliardsTable.label>TODO</BilliardsTable.label>
+  <BilliardsTable.label>bord snúcair</BilliardsTable.label>
   <!-- EN: A soft-topped bounded table for playing a variety of billiards-type games. It trains shooting ability. -->
-  <BilliardsTable.description>TODO</BilliardsTable.description>
+  <BilliardsTable.description>Bord snúcair, ar a bhféadfaidh daoine cluichí éagsúla a imirt. Cuireann na cluichí sin leis an scil lámhaigh.</BilliardsTable.description>
   
   <!-- EN: chess table -->
-  <ChessTable.label>TODO</ChessTable.label>
+  <ChessTable.label>bord fichille</ChessTable.label>
   <!-- EN: The ancient game of kings. Fun for a few hours here and there, even playing alone. It trains intellectual skills.\n\nThis building requires adjacent chairs or stools to use. -->
-  <ChessTable.description>TODO</ChessTable.description>
+  <ChessTable.description>Bord fichille. Is féidir le daoine ficheall a imirt leo féin nó le duine eile. Cuireann ficheall leis an scil taighde.\n\nTá cathaoireacha de dhíth chun an bord seo a úsáid.</ChessTable.description>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>teilifís réscáileáin</FlatscreenTelevision.label>
   <!-- EN: A high-tech flat-screen television with crystal-clear image and rich color. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>Teilifís ardteicneolaíochta réscáileáin, ar a bhfuil íomhanna agus dathanna an-soiléir. Tá sé ceangailte le seansatailítí sa spás, agus is féidir breathnú ar chainéil éagsúla.</FlatscreenTelevision.description>
   
   <!-- EN: Game-of-Ur board -->
-  <GameOfUrBoard.label>TODO</GameOfUrBoard.label>
+  <GameOfUrBoard.label>cluiche úr</GameOfUrBoard.label>
   <!-- EN: Dating from 2500BC, this exciting yet infuriating board game can be played by one or two people. It trains intellectual skills. -->
-  <GameOfUrBoard.description>TODO</GameOfUrBoard.description>
+  <GameOfUrBoard.description>Imríodh an cluiche boird seo fadó fadó, agus is féidir le duine aonair nó beirt a imirt. Cuireann sé le scileanna taighde.</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
   <HoopstoneRing.label>TODO</HoopstoneRing.label>

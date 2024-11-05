@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: beer brewing -->
+  <  <!-- EN: beer brewing -->
   <Brewing.label>déantús alcóil</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
   <Brewing.description>Tóg grúdlann agus damhcha coipthe chun beoir a dhéanamh as leannlusanna.</Brewing.description>
@@ -18,7 +18,7 @@
   <!-- EN: carpet-making -->
   <CarpetMaking.label>déantús cáirpéad</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>Déan cáipéid áille as éadach.</CarpetMaking.description>
+  <CarpetMaking.description>Déan cáirpéid as éadach.</CarpetMaking.description>
   <!-- EN:
     <li>subject->carpet-making</li>
     <li>subject_story->learned to weave carpets from hair, for a distant Emperor</li>
@@ -98,9 +98,9 @@
   <DrugProduction.generalRules.rulesStrings>TODO</DrugProduction.generalRules.rulesStrings>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>déantús go-juice</GoJuiceProduction.label>
+  <GoJuiceProduction.label>déantús sú-fhuinnimh</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
-  <GoJuiceProduction.description>Druga sintéiseach a chuireann leis an bhfeidhmiú is ea go-juice. Cuireann sé le scileanna troda agus gluaiseachta, agus cuireann sé bac ar an bpian.</GoJuiceProduction.description>
+  <GoJuiceProduction.description>Druga sintéiseach a chuireann leis an bhfeidhmiú is ea sú fuinnimh. Cuireann sé le scileanna troda agus gluaiseachta, agus cuireann sé cosc ar an bpian.</GoJuiceProduction.description>
   <!-- EN:
     <li>subject->go-juice production</li>
     <li>subject_story->was expelled for taking go-juice during team sports matches</li>
@@ -190,9 +190,9 @@
   <PlateArmor.generalRules.rulesStrings>TODO</PlateArmor.generalRules.rulesStrings>
   
   <!-- EN: psychite refining -->
-  <PsychiteRefining.label>TODO</PsychiteRefining.label>
+  <PsychiteRefining.label>scagadh sícíte</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
-  <PsychiteRefining.description>TODO</PsychiteRefining.description>
+  <PsychiteRefining.description>Bain úsáid as scagairí chun foirmeacha éagsúla den druga sícít a chruthú, ar nós scealp agus yáyó.</PsychiteRefining.description>
   <!-- EN:
     <li>subject->psychite production</li>
     <li>subject_story->used [ANYPAWN_possessive] university job as cover for [ANYPAWN_possessive] drug-dealing</li>
@@ -203,9 +203,9 @@
   <PsychiteRefining.generalRules.rulesStrings>TODO</PsychiteRefining.generalRules.rulesStrings>
   
   <!-- EN: psychoid brewing -->
-  <PsychoidBrewing.label>TODO</PsychoidBrewing.label>
+  <PsychoidBrewing.label>grúdaireacht sícíte</PsychoidBrewing.label>
   <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
-  <PsychoidBrewing.description>TODO</PsychoidBrewing.description>
+  <PsychoidBrewing.description>Bain úsáid as duilleoga sícíte chun deochanna sícideileacha a dhéanamh.</PsychoidBrewing.description>
   <!-- EN:
     <li>subject->psychoid</li>
     <li>subject_story->joined a short-lived psychoid commune on a cult world</li>
@@ -216,9 +216,9 @@
   <PsychoidBrewing.generalRules.rulesStrings>TODO</PsychoidBrewing.generalRules.rulesStrings>
   
   <!-- EN: recurve bow -->
-  <RecurveBow.label>TODO</RecurveBow.label>
+  <RecurveBow.label>bogha athchuartha</RecurveBow.label>
   <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
-  <RecurveBow.description>TODO</RecurveBow.description>
+  <RecurveBow.description>Tá an bogha athchuartha éifeachtach, agus ní bhíonn cuid mhór acmhainní de dhíth chun é a dhéanamh.</RecurveBow.description>
   <!-- EN:
     <li>subject->bowyery</li>
     <li>subject->bow-making</li>
@@ -230,9 +230,9 @@
   <RecurveBow.generalRules.rulesStrings>TODO</RecurveBow.generalRules.rulesStrings>
   
   <!-- EN: smithing -->
-  <Smithing.label>TODO</Smithing.label>
+  <Smithing.label>miotalóireacht</Smithing.label>
   <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
-  <Smithing.description>TODO</Smithing.description>
+  <Smithing.description>Tóg ceárta miotalóireachta chun sceana, lanna agus mása a dhéanamh. Is féidir an ceárda a úsáid freisin chun tíleanna miotail a dhéanamh don urlár.</Smithing.description>
   <!-- EN:
     <li>subject->blacksmithing</li>
     <li>subject_story->settled in a medieval hamlet and mastered simple metal crafting</li>
@@ -269,9 +269,9 @@
   <TreeSowing.generalRules.rulesStrings>TODO</TreeSowing.generalRules.rulesStrings>
   
   <!-- EN: wake-up production -->
-  <WakeUpProduction.label>TODO</WakeUpProduction.label>
+  <WakeUpProduction.label>déantús sú múscailte</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
-  <WakeUpProduction.description>TODO</WakeUpProduction.description>
+  <WakeUpProduction.description>Déan sú múscailte, druga a chuireann leis an ráta oibre agus a chuireann cosc ar an gcodladh.</WakeUpProduction.description>
   <!-- EN:
     <li>subject->wake-up production</li>
     <li>subject_story->tried to overcome caffeine addiction by taking wake-up</li>

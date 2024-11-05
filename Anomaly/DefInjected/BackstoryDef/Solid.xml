@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef]'s origins are unknown. -->
-  <UnknownAdulthood.description>TODO</UnknownAdulthood.description>
+  <UnknownAdulthood.description>Ní fios cad as a tháinig [PAWN_nameDef].</UnknownAdulthood.description>
   <!-- EN: unknown -->
-  <UnknownAdulthood.title>TODO</UnknownAdulthood.title>
+  <UnknownAdulthood.title>anaithnid</UnknownAdulthood.title>
   <!-- EN: unknown -->
-  <UnknownAdulthood.titleShort>TODO</UnknownAdulthood.titleShort>
+  <UnknownAdulthood.titleShort>anaithnid</UnknownAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef]'s origins are unknown. -->
-  <UnknownChildhood.description>TODO</UnknownChildhood.description>
+  <UnknownChildhood.description>Ní fios cad as a tháinig [PAWN_nameDef].</UnknownChildhood.description>
   <!-- EN: unknown -->
-  <UnknownChildhood.title>TODO</UnknownChildhood.title>
+  <UnknownChildhood.title>anaithnid</UnknownChildhood.title>
   <!-- EN: unknown -->
-  <UnknownChildhood.titleShort>TODO</UnknownChildhood.titleShort>
+  <UnknownChildhood.titleShort>anaithnid</UnknownChildhood.titleShort>
   
 </LanguageData>

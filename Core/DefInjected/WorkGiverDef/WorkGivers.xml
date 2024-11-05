@@ -2,67 +2,67 @@
 <LanguageData>
   
   <!-- EN: release prisoners -->
-  <BasicReleasePrisoner.label>TODO</BasicReleasePrisoner.label>
+  <BasicReleasePrisoner.label>scaoil saor príosúnaigh</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
-  <BasicReleasePrisoner.gerund>TODO</BasicReleasePrisoner.gerund>
+  <BasicReleasePrisoner.gerund>ag scaoileadh saor</BasicReleasePrisoner.gerund>
   <!-- EN: release -->
-  <BasicReleasePrisoner.verb>TODO</BasicReleasePrisoner.verb>
+  <BasicReleasePrisoner.verb>scaoil saor</BasicReleasePrisoner.verb>
   
   <!-- EN: build roofs -->
-  <BuildRoofs.label>TODO</BuildRoofs.label>
+  <BuildRoofs.label>tóg díon</BuildRoofs.label>
   <!-- EN: building roof -->
-  <BuildRoofs.gerund>TODO</BuildRoofs.gerund>
+  <BuildRoofs.gerund>ag tógáil dín</BuildRoofs.gerund>
   <!-- EN: build roof -->
-  <BuildRoofs.verb>TODO</BuildRoofs.verb>
+  <BuildRoofs.verb>tóg díon</BuildRoofs.verb>
   
   <!-- EN: chat with prisoners -->
-  <ChatWithPrisoner.label>TODO</ChatWithPrisoner.label>
+  <ChatWithPrisoner.label>labhair le príosúnaigh</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
-  <ChatWithPrisoner.gerund>TODO</ChatWithPrisoner.gerund>
+  <ChatWithPrisoner.gerund>ag labhairt le</ChatWithPrisoner.gerund>
   <!-- EN: chat with -->
-  <ChatWithPrisoner.verb>TODO</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.verb>labhair le</ChatWithPrisoner.verb>
   
   <!-- EN: clear snow -->
-  <CleanClearSnow.label>TODO</CleanClearSnow.label>
+  <CleanClearSnow.label>bain sneachta</CleanClearSnow.label>
   <!-- EN: clearing snow -->
-  <CleanClearSnow.gerund>TODO</CleanClearSnow.gerund>
+  <CleanClearSnow.gerund>ag baint sneachta</CleanClearSnow.gerund>
   <!-- EN: clear snow -->
-  <CleanClearSnow.verb>TODO</CleanClearSnow.verb>
+  <CleanClearSnow.verb>baint sneachta</CleanClearSnow.verb>
   
   <!-- EN: clean filth -->
-  <CleanFilth.label>TODO</CleanFilth.label>
+  <CleanFilth.label>glan salachar</CleanFilth.label>
   <!-- EN: cleaning -->
-  <CleanFilth.gerund>TODO</CleanFilth.gerund>
+  <CleanFilth.gerund>ag glanadh salachair</CleanFilth.gerund>
   <!-- EN: clean -->
-  <CleanFilth.verb>TODO</CleanFilth.verb>
+  <CleanFilth.verb>glan</CleanFilth.verb>
   
   <!-- EN: deliver resources to blueprints -->
-  <ConstructDeliverResourcesToBlueprints.label>TODO</ConstructDeliverResourcesToBlueprints.label>
+  <ConstructDeliverResourcesToBlueprints.label>tabhair acmhainní chuig gormchlónna</ConstructDeliverResourcesToBlueprints.label>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToBlueprints.gerund>TODO</ConstructDeliverResourcesToBlueprints.gerund>
+  <ConstructDeliverResourcesToBlueprints.gerund>ag tógáil</ConstructDeliverResourcesToBlueprints.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToBlueprints.verb>TODO</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.verb>tóg</ConstructDeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
-  <ConstructDeliverResourcesToFrames.label>TODO</ConstructDeliverResourcesToFrames.label>
+  <ConstructDeliverResourcesToFrames.label>tabhair acmhainní chuig frámaí</ConstructDeliverResourcesToFrames.label>
   <!-- EN: working on -->
-  <ConstructDeliverResourcesToFrames.gerund>TODO</ConstructDeliverResourcesToFrames.gerund>
+  <ConstructDeliverResourcesToFrames.gerund>ag tógáil</ConstructDeliverResourcesToFrames.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToFrames.verb>TODO</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.verb>tóg</ConstructDeliverResourcesToFrames.verb>
   
   <!-- EN: construct placed frames -->
-  <ConstructFinishFrames.label>TODO</ConstructFinishFrames.label>
+  <ConstructFinishFrames.label>tóg frámaí</ConstructFinishFrames.label>
   <!-- EN: constructing -->
-  <ConstructFinishFrames.gerund>TODO</ConstructFinishFrames.gerund>
+  <ConstructFinishFrames.gerund>ag tógáil</ConstructFinishFrames.gerund>
   <!-- EN: construct -->
-  <ConstructFinishFrames.verb>TODO</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.verb>ag tógáil</ConstructFinishFrames.verb>
   
   <!-- EN: remove floors -->
-  <ConstructRemoveFloors.label>TODO</ConstructRemoveFloors.label>
+  <ConstructRemoveFloors.label>bain urláir</ConstructRemoveFloors.label>
   <!-- EN: removing floor -->
-  <ConstructRemoveFloors.gerund>TODO</ConstructRemoveFloors.gerund>
+  <ConstructRemoveFloors.gerund>ag baint urlár</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
-  <ConstructRemoveFloors.verb>TODO</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.verb>bain urlár</ConstructRemoveFloors.verb>
   
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>TODO</ConstructSmoothFloors.label>

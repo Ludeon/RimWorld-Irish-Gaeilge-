@@ -1,188 +1,188 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: tantrum -->
-  <BedroomTantrum.label>TODO</BedroomTantrum.label>
+ <!-- EN: tantrum -->
+  <BedroomTantrum.label>racht feirge</BedroomTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <BedroomTantrum.baseInspectLine>TODO</BedroomTantrum.baseInspectLine>
+  <BedroomTantrum.baseInspectLine>Cliseadh néarógach: racht feirge</BedroomTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to smash things in [PAWN_possessive] room. -->
-  <BedroomTantrum.beginLetter>TODO</BedroomTantrum.beginLetter>
+  <BedroomTantrum.beginLetter>Tá racht feirge tagtha ar {0}.\n\nTá [PAWN_pronoun] ag dul rudaí a bhriseadh ina s[PAWN_possessive]eomra leapa.</BedroomTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <BedroomTantrum.recoveryMessage>TODO</BedroomTantrum.recoveryMessage>
+  <BedroomTantrum.recoveryMessage>Níl racht feirge ar {0} níos mó.</BedroomTantrum.recoveryMessage>
   
   <!-- EN: berserk -->
-  <Berserk.label>TODO</Berserk.label>
+  <Berserk.label>ar mire</Berserk.label>
   <!-- EN: Mental state: Berserk -->
-  <Berserk.baseInspectLine>TODO</Berserk.baseInspectLine>
+  <Berserk.baseInspectLine>Cliseadh néarógach: ar mire</Berserk.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
-  <Berserk.beginLetter>TODO</Berserk.beginLetter>
+  <Berserk.beginLetter>Tá {0} ar mire.\n\nIonsóidh [PAWN_pronoun] aon duine a fheiceann [PAWN_pronoun].</Berserk.beginLetter>
   <!-- EN: {0}'s berserk rage has come to an end. -->
-  <Berserk.recoveryMessage>TODO</Berserk.recoveryMessage>
+  <Berserk.recoveryMessage>Níl {0} ar mire níos mó.</Berserk.recoveryMessage>
   
   <!-- EN: binging on drug -->
-  <Binging_DrugExtreme.label>TODO</Binging_DrugExtreme.label>
+  <Binging_DrugExtreme.label>ragús drugaí</Binging_DrugExtreme.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugExtreme.baseInspectLine>TODO</Binging_DrugExtreme.baseInspectLine>
+  <Binging_DrugExtreme.baseInspectLine>Cliseadh néarógach: ag tógáil {0}</Binging_DrugExtreme.baseInspectLine>
   
   <!-- EN: binging on drug -->
-  <Binging_DrugMajor.label>TODO</Binging_DrugMajor.label>
+  <Binging_DrugMajor.label>ragús drugaí</Binging_DrugMajor.label>
   <!-- EN: Mental state: Binging on {0} -->
-  <Binging_DrugMajor.baseInspectLine>TODO</Binging_DrugMajor.baseInspectLine>
+  <Binging_DrugMajor.baseInspectLine>Cliseadh néarógach: ag tógáil {0}</Binging_DrugMajor.baseInspectLine>
   
   <!-- EN: binging on food -->
-  <Binging_Food.label>TODO</Binging_Food.label>
+  <Binging_Food.label>craos ar bhia</Binging_Food.label>
   <!-- EN: Mental state: Pigging out -->
-  <Binging_Food.baseInspectLine>TODO</Binging_Food.baseInspectLine>
+  <Binging_Food.baseInspectLine>Cliseadh néarógach: craos ar bhia</Binging_Food.baseInspectLine>
   <!-- EN: {0} is pigging out on food. -->
-  <Binging_Food.beginLetter>TODO</Binging_Food.beginLetter>
+  <Binging_Food.beginLetter>Tá {0} ag alpadh bia.</Binging_Food.beginLetter>
   <!-- EN: food binge -->
-  <Binging_Food.beginLetterLabel>TODO</Binging_Food.beginLetterLabel>
+  <Binging_Food.beginLetterLabel>craos ar bhia</Binging_Food.beginLetterLabel>
   <!-- EN: {0} is no longer pigging out on food. -->
-  <Binging_Food.recoveryMessage>TODO</Binging_Food.recoveryMessage>
+  <Binging_Food.recoveryMessage>Níl {0} ag alpadh bia níos mó.</Binging_Food.recoveryMessage>
   
   <!-- EN: corpse obsession -->
-  <CorpseObsession.label>TODO</CorpseObsession.label>
+  <CorpseObsession.label>tógtha le marbhán</CorpseObsession.label>
   <!-- EN: Mental state: Corpse obsession -->
-  <CorpseObsession.baseInspectLine>TODO</CorpseObsession.baseInspectLine>
+  <CorpseObsession.baseInspectLine>Cliseadh néarógach: tógtha le marbhán</CorpseObsession.baseInspectLine>
   <!-- EN: {0} has broken inside and become obsessed with corpses.\n\n[PAWN_pronoun] is going to find a corpse and present it for all to see. -->
-  <CorpseObsession.beginLetter>TODO</CorpseObsession.beginLetter>
+  <CorpseObsession.beginLetter>Níl sé soiléir céard atá tagtha ar {0}, ach tá [PAWN_pronoun] tar éis marbhán a aimsiú agus tá [PAWN_pronoun] ag dul é a chur ar taispeáint do chách.</CorpseObsession.beginLetter>
   <!-- EN: {0} is no longer having a corpse obsession. -->
-  <CorpseObsession.recoveryMessage>TODO</CorpseObsession.recoveryMessage>
+  <CorpseObsession.recoveryMessage>Níl {0} tógtha le marbhán níos mó.</CorpseObsession.recoveryMessage>
   
   <!-- EN: fire starting spree -->
-  <FireStartingSpree.label>TODO</FireStartingSpree.label>
+  <FireStartingSpree.label>coirloscadh</FireStartingSpree.label>
   <!-- EN: Mental state: Fire starting spree -->
-  <FireStartingSpree.baseInspectLine>TODO</FireStartingSpree.baseInspectLine>
+  <FireStartingSpree.baseInspectLine>Cliseadh néarógach: ionsaí coirloiscthe</FireStartingSpree.baseInspectLine>
   <!-- EN: {0} is on a fire starting spree.\n\n[PAWN_pronoun] will wander around for a while, randomly starting fires. -->
-  <FireStartingSpree.beginLetter>TODO</FireStartingSpree.beginLetter>
+  <FireStartingSpree.beginLetter>Tá sé {0} ag dul tinte a lasadh.\n\nRithfidh [PAWN_pronoun] thart ar feadh tamaill, agus cuirfidh [PAWN_pronoun] tús le tinte go randamach.</FireStartingSpree.beginLetter>
   <!-- EN: {0} is no longer on a fire starting spree. -->
-  <FireStartingSpree.recoveryMessage>TODO</FireStartingSpree.recoveryMessage>
+  <FireStartingSpree.recoveryMessage>Tá deireadh tagtha leis an ionsaí coirloiscthe a bhí ar siúl ag {0}.</FireStartingSpree.recoveryMessage>
   
   <!-- EN: giving up and leaving -->
-  <GiveUpExit.label>TODO</GiveUpExit.label>
+  <GiveUpExit.label>ag imeacht</GiveUpExit.label>
   <!-- EN: Mental state: Given up and leaving -->
-  <GiveUpExit.baseInspectLine>TODO</GiveUpExit.baseInspectLine>
+  <GiveUpExit.baseInspectLine>Cliseadh néarógach: ag imeacht</GiveUpExit.baseInspectLine>
   <!-- EN: {0} has given up on this community.\n\n[PAWN_pronoun] has decided to leave and pursue a better life elsewhere. You can try to arrest [PAWN_objective] as [PAWN_pronoun] leaves. Otherwise, you may still see [PAWN_objective] again some day. -->
-  <GiveUpExit.beginLetter>TODO</GiveUpExit.beginLetter>
+  <GiveUpExit.beginLetter>Tá an tuáille caite isteach ag {0}, agus tá [PAWN_pronoun] tar éis cinneadh a dhéanamh imeacht ón gcoilíneacht seo chun saol níos fearr a lorg áit éigean eile. Is féidir iarracht a dhéanamh {0} a ghabháil sula n-imíonn [PAWN_pronoun]. Tá seans ann go mbuailfidh tú le {0} amach anseo.</GiveUpExit.beginLetter>
   <!-- EN: gave up -->
-  <GiveUpExit.beginLetterLabel>TODO</GiveUpExit.beginLetterLabel>
+  <GiveUpExit.beginLetterLabel>ag imeacht</GiveUpExit.beginLetterLabel>
   <!-- EN: {0} has had a change of heart and is coming back to the colony. -->
-  <GiveUpExit.recoveryMessage>TODO</GiveUpExit.recoveryMessage>
+  <GiveUpExit.recoveryMessage>Tháinig athrú intinne ar {0} agus tá[PAWN_pronoun] ag filleadh ar an gcoilíneacht.</GiveUpExit.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <InsultingSpree.label>TODO</InsultingSpree.label>
+  <InsultingSpree.label>íde béil</InsultingSpree.label>
   <!-- EN: Mental state: Insulting spree -->
-  <InsultingSpree.baseInspectLine>TODO</InsultingSpree.baseInspectLine>
+  <InsultingSpree.baseInspectLine>Cliseadh néarógach: íde béil</InsultingSpree.baseInspectLine>
   <!-- EN: {0} is on an insulting spree.\n\n[PAWN_pronoun] will wander around, randomly insulting others. -->
-  <InsultingSpree.beginLetter>TODO</InsultingSpree.beginLetter>
+  <InsultingSpree.beginLetter>Tá {0} ag dul thart ag tabhairt íde béil do dhaoine eile.</InsultingSpree.beginLetter>
   <!-- EN: {0} is no longer on an insulting spree. -->
-  <InsultingSpree.recoveryMessage>TODO</InsultingSpree.recoveryMessage>
+  <InsultingSpree.recoveryMessage>Níl {0} ag tabhairt íde béil níos mó.</InsultingSpree.recoveryMessage>
   
   <!-- EN: inducing prisoner to escape -->
-  <Jailbreaker.label>TODO</Jailbreaker.label>
+  <Jailbreaker.label>ag cuidiú le príosúnach éalú as príosún</Jailbreaker.label>
   <!-- EN: Mental state: Jailbreaker -->
-  <Jailbreaker.baseInspectLine>TODO</Jailbreaker.baseInspectLine>
+  <Jailbreaker.baseInspectLine>Cliseadh néarógach: éalú as príosún</Jailbreaker.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to induce prisoners to escape. -->
-  <Jailbreaker.beginLetter>TODO</Jailbreaker.beginLetter>
+  <Jailbreaker.beginLetter>Tá cliseadh néarógach tagtha ar {0} agus tá [PAWN_pronoun] ag dul cuidiú le príosúnaigh éalú as an bpríosún.</Jailbreaker.beginLetter>
   <!-- EN: jailbreaker -->
-  <Jailbreaker.beginLetterLabel>TODO</Jailbreaker.beginLetterLabel>
+  <Jailbreaker.beginLetterLabel>éalú as an bpríosún</Jailbreaker.beginLetterLabel>
   <!-- EN: {0} is no longer inducing prisoners to escape. -->
-  <Jailbreaker.recoveryMessage>TODO</Jailbreaker.recoveryMessage>
+  <Jailbreaker.recoveryMessage>Níl {0} ag cuidiú le príosúnaigh éalú as an bpríosún go fóill.</Jailbreaker.recoveryMessage>
   
   <!-- EN: murderous rage -->
-  <MurderousRage.label>TODO</MurderousRage.label>
+  <MurderousRage.label>tacht feirge marfach</MurderousRage.label>
   <!-- EN: Mental state: Murderous rage -->
-  <MurderousRage.baseInspectLine>TODO</MurderousRage.baseInspectLine>
+  <MurderousRage.baseInspectLine>Cliseadh néarógach: tacht feirge marfach</MurderousRage.baseInspectLine>
   <!-- EN: {0} has flown into a murderous rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
-  <MurderousRage.beginLetter>TODO</MurderousRage.beginLetter>
+  <MurderousRage.beginLetter>Tá tacht feirge marfach tagtha ar {0}.\n\nTá sé i gceist ag {0} {1} a mharú.</MurderousRage.beginLetter>
   <!-- EN: {0} is no longer in a murderous rage. -->
-  <MurderousRage.recoveryMessage>TODO</MurderousRage.recoveryMessage>
+  <MurderousRage.recoveryMessage>Níl tacht feirge marfach ar {0} níos mó.</MurderousRage.recoveryMessage>
   
   <!-- EN: sadistic rage -->
-  <SadisticRage.label>TODO</SadisticRage.label>
+  <SadisticRage.label>tacht feirge sádach</SadisticRage.label>
   <!-- EN: Mental state: Sadistic rage -->
-  <SadisticRage.baseInspectLine>TODO</SadisticRage.baseInspectLine>
+  <SadisticRage.baseInspectLine>Cliseadh néarógach: tacht feirge sádach</SadisticRage.baseInspectLine>
   <!-- EN: {0} has flown into a sadistic rage.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on the prisoners. -->
-  <SadisticRage.beginLetter>TODO</SadisticRage.beginLetter>
+  <SadisticRage.beginLetter>Tá tacht feirge sádach tagtha ar {0}.\n\nTá sé i gceist ag {0} a f[PAWN_possessive]earg a ligean amach ar na príosúnaigh.</SadisticRage.beginLetter>
   <!-- EN: {0} is no longer in a sadistic rage. -->
-  <SadisticRage.recoveryMessage>TODO</SadisticRage.recoveryMessage>
+  <SadisticRage.recoveryMessage>Níl tacht feirge sádach ar {0} níos mó.</SadisticRage.recoveryMessage>
   
   <!-- EN: slaughterer -->
-  <Slaughterer.label>TODO</Slaughterer.label>
+  <Slaughterer.label>sléachtóir</Slaughterer.label>
   <!-- EN: Mental state: Slaughterer -->
-  <Slaughterer.baseInspectLine>TODO</Slaughterer.baseInspectLine>
+  <Slaughterer.baseInspectLine>Cliseadh néarógach: sléachtóir</Slaughterer.baseInspectLine>
   <!-- EN: {0} has had a mental breakdown and is going to vent [PAWN_possessive] anger on your animals. -->
-  <Slaughterer.beginLetter>TODO</Slaughterer.beginLetter>
+  <Slaughterer.beginLetter>Tá cliseadh néarógach tagtha ar  {0} agus tá sé i gceist ag {0} a f[PAWN_possessive]earg a ligean amach ar do chuid ainmhithe.</Slaughterer.beginLetter>
   <!-- EN: {0} is no longer slaughtering random animals. -->
-  <Slaughterer.recoveryMessage>TODO</Slaughterer.recoveryMessage>
+  <Slaughterer.recoveryMessage>Níl ainmhithe randamacha á marú ag {0} níos mó.</Slaughterer.recoveryMessage>
   
   <!-- EN: tantrum -->
-  <Tantrum.label>TODO</Tantrum.label>
+  <Tantrum.label>tacht feirge</Tantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <Tantrum.baseInspectLine>TODO</Tantrum.baseInspectLine>
+  <Tantrum.baseInspectLine>Cliseadh néarógach: tacht feirge</Tantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] will smash up random furniture, items and structures. -->
-  <Tantrum.beginLetter>TODO</Tantrum.beginLetter>
+  <Tantrum.beginLetter>Tá tacht feirge tagtha ar {0}.\n\n Scriosfaidh [PAWN_pronoun] troscán, earraí agus struchtúir randamacha.</Tantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <Tantrum.recoveryMessage>TODO</Tantrum.recoveryMessage>
+  <Tantrum.recoveryMessage>Níl tacht feirge ar {0} níos mó.</Tantrum.recoveryMessage>
   
   <!-- EN: insulting spree -->
-  <TargetedInsultingSpree.label>TODO</TargetedInsultingSpree.label>
+  <TargetedInsultingSpree.label>íde béil</TargetedInsultingSpree.label>
   <!-- EN: Mental state: Insulting spree against {0} -->
-  <TargetedInsultingSpree.baseInspectLine>TODO</TargetedInsultingSpree.baseInspectLine>
+  <TargetedInsultingSpree.baseInspectLine>Cliseadh néarógach: íde béil dírithe ar {0}</TargetedInsultingSpree.baseInspectLine>
   <!-- EN: {0} has fixated [PAWN_possessive] rage on {1}.\n\n[PAWN_pronoun] will follow {1} around, hurling insults. -->
-  <TargetedInsultingSpree.beginLetter>TODO</TargetedInsultingSpree.beginLetter>
+  <TargetedInsultingSpree.beginLetter>Tá {0} ag tabhairt íde béil do {1}.</TargetedInsultingSpree.beginLetter>
   
   <!-- EN: tantrum -->
-  <TargetedTantrum.label>TODO</TargetedTantrum.label>
+  <TargetedTantrum.label>tacht feirge</TargetedTantrum.label>
   <!-- EN: Mental state: Tantrum -->
-  <TargetedTantrum.baseInspectLine>TODO</TargetedTantrum.baseInspectLine>
+  <TargetedTantrum.baseInspectLine>Cliseadh néarógach: tacht feirge</TargetedTantrum.baseInspectLine>
   <!-- EN: {0} is having a tantrum.\n\n[PAWN_pronoun] is going to destroy {1}. -->
-  <TargetedTantrum.beginLetter>TODO</TargetedTantrum.beginLetter>
+  <TargetedTantrum.beginLetter>Tá tacht feirge tagtha ar {0}.\n\n Tá sé i gceist ag {0} {1} a scriosadh.</TargetedTantrum.beginLetter>
   <!-- EN: {0} is no longer having a tantrum. -->
-  <TargetedTantrum.recoveryMessage>TODO</TargetedTantrum.recoveryMessage>
+  <TargetedTantrum.recoveryMessage>Níl tacht feirge ar {0} níos mó.</TargetedTantrum.recoveryMessage>
   
   <!-- EN: sitting alone -->
-  <Wander_OwnRoom.label>TODO</Wander_OwnRoom.label>
+  <Wander_OwnRoom.label>i bhfolach</Wander_OwnRoom.label>
   <!-- EN: Mental state: Hiding in room -->
-  <Wander_OwnRoom.baseInspectLine>TODO</Wander_OwnRoom.baseInspectLine>
+  <Wander_OwnRoom.baseInspectLine>Cliseadh néarógach: ag dul i bhfolach</Wander_OwnRoom.baseInspectLine>
   <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
-  <Wander_OwnRoom.beginLetter>TODO</Wander_OwnRoom.beginLetter>
+  <Wander_OwnRoom.beginLetter>Tá {0} i bhfolach ina s[PAWN_possessive]eomra.</Wander_OwnRoom.beginLetter>
   <!-- EN: hide in room -->
-  <Wander_OwnRoom.beginLetterLabel>TODO</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.beginLetterLabel>i bhfolach sa seomra</Wander_OwnRoom.beginLetterLabel>
   <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
-  <Wander_OwnRoom.recoveryMessage>TODO</Wander_OwnRoom.recoveryMessage>
+  <Wander_OwnRoom.recoveryMessage>Níl {0} i bhfolach ina s[PAWN_possessive]eomra níos mó.</Wander_OwnRoom.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic.label>TODO</Wander_Psychotic.label>
+  <Wander_Psychotic.label>síocóis</Wander_Psychotic.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic.baseInspectLine>TODO</Wander_Psychotic.baseInspectLine>
+  <Wander_Psychotic.baseInspectLine>Cliseadh néarógach: síocóis</Wander_Psychotic.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic.beginLetter>TODO</Wander_Psychotic.beginLetter>
+  <Wander_Psychotic.beginLetter>Tá síocóis agus mearbhall tagtha ar {0}, agus tá [PAWN_pronoun] ag fánaíocht thart.</Wander_Psychotic.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic.beginLetterLabel>TODO</Wander_Psychotic.beginLetterLabel>
+  <Wander_Psychotic.beginLetterLabel>síocóis</Wander_Psychotic.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic.recoveryMessage>TODO</Wander_Psychotic.recoveryMessage>
+  <Wander_Psychotic.recoveryMessage>Níl mearbhall ar {0} níos mó.</Wander_Psychotic.recoveryMessage>
   
   <!-- EN: wandering in psychosis -->
-  <Wander_Psychotic_Short.label>TODO</Wander_Psychotic_Short.label>
+  <Wander_Psychotic_Short.label>síocóis</Wander_Psychotic_Short.label>
   <!-- EN: Mental state: Psychotic wandering -->
-  <Wander_Psychotic_Short.baseInspectLine>TODO</Wander_Psychotic_Short.baseInspectLine>
+  <Wander_Psychotic_Short.baseInspectLine>Cliseadh néarógach: síocóis</Wander_Psychotic_Short.baseInspectLine>
   <!-- EN: {0} is wandering around in a psychotic state. -->
-  <Wander_Psychotic_Short.beginLetter>TODO</Wander_Psychotic_Short.beginLetter>
+  <Wander_Psychotic_Short.beginLetter>Tá síocóis agus mearbhall tagtha ar {0}, agus tá [PAWN_pronoun] ag fánaíocht thart.</Wander_Psychotic_Short.beginLetter>
   <!-- EN: daze -->
-  <Wander_Psychotic_Short.beginLetterLabel>TODO</Wander_Psychotic_Short.beginLetterLabel>
+  <Wander_Psychotic_Short.beginLetterLabel>síocóis</Wander_Psychotic_Short.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in a psychotic state. -->
-  <Wander_Psychotic_Short.recoveryMessage>TODO</Wander_Psychotic_Short.recoveryMessage>
+  <Wander_Psychotic_Short.recoveryMessage>Níl mearbhall ar {0} níos mó.</Wander_Psychotic_Short.recoveryMessage>
   
   <!-- EN: sad wandering -->
-  <Wander_Sad.label>TODO</Wander_Sad.label>
+  <Wander_Sad.label>fánaíocht</Wander_Sad.label>
   <!-- EN: Mental state: Sad wandering -->
-  <Wander_Sad.baseInspectLine>TODO</Wander_Sad.baseInspectLine>
+  <Wander_Sad.baseInspectLine>Cliseadh néarógach: fánaíocht</Wander_Sad.baseInspectLine>
   <!-- EN: {0} has broken down and is wandering around in sadness. -->
-  <Wander_Sad.beginLetter>TODO</Wander_Sad.beginLetter>
+  <Wander_Sad.beginLetter>Tá cliseadh néarógach tagtha ar {0}, agus tá [PAWN_pronoun] ag fánaíocht thart.</Wander_Sad.beginLetter>
   <!-- EN: sad wander -->
-  <Wander_Sad.beginLetterLabel>TODO</Wander_Sad.beginLetterLabel>
+  <Wander_Sad.beginLetterLabel>fánaíocht</Wander_Sad.beginLetterLabel>
   <!-- EN: {0} is no longer wandering in sadness. -->
-  <Wander_Sad.recoveryMessage>TODO</Wander_Sad.recoveryMessage>
+  <Wander_Sad.recoveryMessage>Níl cliseadh néarógach ar {0} níos mó.</Wander_Sad.recoveryMessage>
   
 </LanguageData>

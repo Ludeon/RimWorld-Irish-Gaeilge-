@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>TODO</Beauty.label>
+  <Beauty.label>áilleacht</Beauty.label>
   <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
-  <Beauty.description>TODO</Beauty.description>
+  <Beauty.description>Cuireann rudaí deasa, ar nós ealaíon nó troscán deas, leis an áilleacht nuair a bhreathnaíonn coilínigh orthu, agus laghdaíonn rudaí gránna í, ar nós salachar agus urláir chloiche.</Beauty.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>TODO</Comfort.label>
+  <Comfort.label>compord</Comfort.label>
   <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
-  <Comfort.description>TODO</Comfort.description>
+  <Comfort.description>Bíonn coilínigh compordach nuair a úsáideann siad troscán compordach. Bíonn siad níos compordaí freisin nuair a bhíonn siad sa leapa, ina suí ar chathaoireachta agus iad i mbun oibre, agus mar sin de.</Comfort.description>
   
   <!-- EN: chemical -->
   <DrugDesire.label>TODO</DrugDesire.label>

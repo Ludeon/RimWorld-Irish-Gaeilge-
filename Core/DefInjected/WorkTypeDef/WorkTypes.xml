@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Create beautiful works of art from raw materials. -->
-  <Art.description>Cruthaigh píosaí ealaíne den chéad scoth as ábhair éagsúla.</Art.description>
+  <Art.description>Cruthóidh na daoine seo ealaín den chéad scoth as ábhair éagsúla.</Art.description>
   <!-- EN: art -->
   <Art.gerundLabel>ealaín</Art.gerundLabel>
   <!-- EN: art -->
@@ -13,7 +13,7 @@
   <Art.verb>Déan ealáin ag</Art.verb>
   
   <!-- EN: Unskilled and easy tasks. Release prisoners and flick switches on machines. -->
-  <BasicWorker.description>Obair bhunúsach, shimplí.</BasicWorker.description>
+  <BasicWorker.description>Déanfaidh na daoine seo obair bhunúsach, shimplí (mar shampla, príosúnaigh a scaoileadh saor nó cnaipí a bhrú).</BasicWorker.description>
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>Obair shimplí</BasicWorker.gerundLabel>
   <!-- EN: basic -->
@@ -24,7 +24,7 @@
   <BasicWorker.verb>TODO</BasicWorker.verb>
   
   <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
-  <Cleaning.description>Glan sneachta, truailliú agus glan an t-urlár sa cheantar baile.</Cleaning.description>
+  <Cleaning.description>Déanfaidh na daoine seo sneachta agus bruscar a ghlanadh, agus glanfaidh siad an t-urlár sa zón baile.</Cleaning.description>
   <!-- EN: cleaning -->
   <Cleaning.gerundLabel>Glan</Cleaning.gerundLabel>
   <!-- EN: clean -->
@@ -35,7 +35,7 @@
   <Cleaning.verb>Glan</Cleaning.verb>
   
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
-  <Construction.description>Tóg rudaí úra, agus deisigh foirgnimh dámáistithe.</Construction.description>
+  <Construction.description>Déanfaidh na daoine seo rudaí agus struchtúir a thógail, agus déanfaidh siad struchtúir a dheisiú.</Construction.description>
   <!-- EN: constructing -->
   <Construction.gerundLabel>Tógáil</Construction.gerundLabel>
   <!-- EN: construct -->
@@ -46,7 +46,7 @@
   <Construction.verb>Tóg</Construction.verb>
   
   <!-- EN: Prepare meals and butcher meat. -->
-  <Cooking.description>Déan béilí a réiteach agus feoil a ghearradh.</Cooking.description>
+  <Cooking.description>Réiteoidh na daoine seo béilí agus gearrfaidh siad feoil.</Cooking.description>
   <!-- EN: cooking -->
   <Cooking.gerundLabel>ag cócaireacht</Cooking.gerundLabel>
   <!-- EN: cook -->
@@ -57,7 +57,7 @@
   <Cooking.verb>Cócairigh</Cooking.verb>
   
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
-  <Crafting.description>Déan obair déantúsaíocht ag stáisiúin oibre (mar shampla, gearradh cloch, bruithniú agus mar sin de).</Crafting.description>
+  <Crafting.description>Déanfaidh na coilínigh seo obair déantúsaíochta ag stáisiúin oibre (gearradh cloch, bruithniú agus mar sin de).</Crafting.description>
   <!-- EN: crafting -->
   <Crafting.gerundLabel>ag cruthú</Crafting.gerundLabel>
   <!-- EN: craft -->
@@ -68,7 +68,7 @@
   <Crafting.verb>Cruthaigh ag</Crafting.verb>
   
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
-  <Doctor.description>Plé le daoine a bhfuil tinneas orthu, tabhair bia dóibh, agus déan obráidí orthu. Tabhairfidh dochtúirí aire do choilínigh agus do phríosúnaigh araon.</Doctor.description>
+  <Doctor.description>Pléifidh na coilínigh seo le daoine a bhfuil tinneas orthu, tabhairfidh siad bia dóibh, agus déanfaidh siad obráidí orthu. Tabhairfidh dochtúirí aire do choilínigh agus do phríosúnaigh araon.</Doctor.description>
   <!-- EN: doctoring -->
   <Doctor.gerundLabel>Dochtúireacht</Doctor.gerundLabel>
   <!-- EN: doctor -->
@@ -79,7 +79,7 @@
   <Doctor.verb>Tabhair aire do</Doctor.verb>
   
   <!-- EN: Extinguish fires in the colony. -->
-  <Firefighter.description>Múch dóiteáin sa choilíneacht.</Firefighter.description>
+  <Firefighter.description>Múchfaidh na daoine seo aon dóiteáin sa choilíneacht.</Firefighter.description>
   <!-- EN: firefighting -->
   <Firefighter.gerundLabel>Comhrac dóiteáin</Firefighter.gerundLabel>
   <!-- EN: firefight -->
@@ -90,7 +90,7 @@
   <Firefighter.verb>Múch dóiteán</Firefighter.verb>
   
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
-  <Growing.description>Cuir síolraí, bain barraí, agus déan foráiste do phlandaí fiáine.</Growing.description>
+  <Growing.description>Cuirfidh na daoine seo síolraí, bainfidh siad barraí, agus aimseoidh siad plandaí fiáine.</Growing.description>
   <!-- EN: growing -->
   <Growing.gerundLabel>Fás</Growing.gerundLabel>
   <!-- EN: grow -->
@@ -101,7 +101,7 @@
   <Growing.verb>Fás</Growing.verb>
   
   <!-- EN: Tame, train, harvest resources from and slaughter animals. -->
-  <Handling.description>Déan ainmhí a cheansú agus a bhuistéireacht.</Handling.description>
+  <Handling.description>Déanfaidh na daoine seo ainmhí a cheansú, cuirfidh siad oiliúint ar ainmhí, agus déanfaidh siad buistéireacht orthu.</Handling.description>
   <!-- EN: handling -->
   <Handling.gerundLabel>Láimhseáil</Handling.gerundLabel>
   <!-- EN: handle -->
@@ -112,7 +112,7 @@
   <Handling.verb>Lámhseáil</Handling.verb>
   
   <!-- EN: Carry things to where they need to be. -->
-  <Hauling.description>Déan rudaí a iompar chuig an áit cheart.</Hauling.description>
+  <Hauling.description>Déanfaidh na daoine seo rudaí a phiocadh suas agus a iompar chuig an áit cheart.</Hauling.description>
   <!-- EN: hauling -->
   <Hauling.gerundLabel>Iompair</Hauling.gerundLabel>
   <!-- EN: haul -->
@@ -123,7 +123,7 @@
   <Hauling.verb>Iompar</Hauling.verb>
   
   <!-- EN: Kill animals which are designated to be hunted. -->
-  <Hunting.description>Maraigh ainmhithe atá marcáilte don tsealgaireacht.</Hunting.description>
+  <Hunting.description>Maróidh na coilínigh seo ainmhithe atá marcáilte don tsealgaireacht.</Hunting.description>
   <!-- EN: hunting -->
   <Hunting.gerundLabel>ag sealgaireacht</Hunting.gerundLabel>
   <!-- EN: hunt -->
@@ -134,7 +134,7 @@
   <Hunting.verb>Sealgaireacht</Hunting.verb>
   
   <!-- EN: Digging and drilling. -->
-  <Mining.description>Tochailt agus mianadóireacht.</Mining.description>
+  <Mining.description>Tabharfaidh na daoine seo faoin tochailt agus mianadóireacht.</Mining.description>
   <!-- EN: mining -->
   <Mining.gerundLabel>Mianadóireacht</Mining.gerundLabel>
   <!-- EN: mine -->
@@ -145,7 +145,7 @@
   <Mining.verb>Mianadóireacht</Mining.verb>
   
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
-  <Patient.description>Téigh chuig leaba dochtúra chun cóireáil leighis a fháil má tá gortaithe.</Patient.description>
+  <Patient.description>Rachaidh na daoine seo chuig leaba dochtúra chun cóireáil leighis a fháil má tá siad gortaithe.</Patient.description>
   <!-- EN: patienting -->
   <Patient.gerundLabel>TODO</Patient.gerundLabel>
   <!-- EN: patient -->
@@ -156,7 +156,7 @@
   <Patient.verb>Bí mar othar</Patient.verb>
   
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
-  <PatientBedRest.description>Tóg sos i leaba chun teacht aniar ó fhadhbanna leighis.</PatientBedRest.description>
+  <PatientBedRest.description>Rachaidh na daoine seo chuig leaba dochtúra chun cóireáil leighis a fháil má tá siad gortaithe.</PatientBedRest.description>
   <!-- EN: resting in bed -->
   <PatientBedRest.gerundLabel>Sos leaba</PatientBedRest.gerundLabel>
   <!-- EN: bed rest -->
@@ -167,7 +167,7 @@
   <PatientBedRest.verb>TODO</PatientBedRest.verb>
   
   <!-- EN: Cut or harvest plants as designated. -->
-  <PlantCutting.description>TODO</PlantCutting.description>
+  <PlantCutting.description>Déanfaidh na daoine seo plandaí a ghearradh nó a bhaint, de réir a gcuid orduithe.</PlantCutting.description>
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>TODO</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
@@ -178,7 +178,7 @@
   <PlantCutting.verb>TODO</PlantCutting.verb>
   
   <!-- EN: Perform research work. -->
-  <Research.description>Déan taighde.</Research.description>
+  <Research.description>Déanfaidh na daoine seo taighde.</Research.description>
   <!-- EN: researching -->
   <Research.gerundLabel>Taighde</Research.gerundLabel>
   <!-- EN: research -->
@@ -189,7 +189,7 @@
   <Research.verb>Déan taighde ag</Research.verb>
   
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
-  <Smithing.description>Cruthaigh airm agus uirlisí ó ábhair éagsúla, mar ghabha nó le meaisíní. Is féidir le coilínigh meicea-róbait a dheisiú freisin, más Meicnitheoirí iad.</Smithing.description>
+  <Smithing.description>Cruthóidh na daoine seo airm agus uirlisí ó ábhair éagsúla, de láimh nó le meaisíní. Féadfaidh na coilínigh seo meicea-róbait a dheisiú freisin, más Meicnitheoirí iad.</Smithing.description>
   <!-- EN: smithing -->
   <Smithing.gerundLabel>Ceardaíocht</Smithing.gerundLabel>
   <!-- EN: smith -->
@@ -200,7 +200,7 @@
   <Smithing.verb>Deán ceardaíocht ag</Smithing.verb>
   
   <!-- EN: Create apparel from raw materials. -->
-  <Tailoring.description>Cruthaigh éadaí ó ábhair éagsúla.</Tailoring.description>
+  <Tailoring.description>Cruthóidh na daoine seo éadaí ó ábhair éagsúla.</Tailoring.description>
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>táilliúireacht</Tailoring.gerundLabel>
   <!-- EN: tailor -->
@@ -211,7 +211,7 @@
   <Tailoring.verb>Déan táilliúireacht against</Tailoring.verb>
   
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
-  <Warden.description>Plé le príosúnaigh, tabhair bia dóibh, agus mar sin de.</Warden.description>
+  <Warden.description>Pléifidh na daoine seo le príosúnaigh, tabhairfidh siad bia dóibh, déanfaidh siad iarracht iad a earcú, agus mar sin de.</Warden.description>
   <!-- EN: wardening -->
   <Warden.gerundLabel>maor</Warden.gerundLabel>
   <!-- EN: warden -->

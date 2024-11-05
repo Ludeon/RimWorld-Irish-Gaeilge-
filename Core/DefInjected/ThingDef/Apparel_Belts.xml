@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: shield belt -->
-  <Apparel_ShieldBelt.label>TODO</Apparel_ShieldBelt.label>
+  <Apparel_ShieldBelt.label>crios cosanta</Apparel_ShieldBelt.label>
   <!-- EN: A projectile-repulsion device. It will attempt to stop incoming projectiles or shrapnel, but does nothing against melee attacks or heat. It prevents the wearer from firing out, and shuts down instantly if hit by EMP. -->
-  <Apparel_ShieldBelt.description>TODO</Apparel_ShieldBelt.description>
+  <Apparel_ShieldBelt.description>Gléas a thugann cosaint ar diúracáin. Cuirfidh an crios cosanta cosc a chur ar diúracáin nó srapnal, ach ní bheidh aon éifeacht aige ar teas nó ar bhuillí fisiciúla. Ní féidir urchair a scaoileadh amach tríd an gcrios, agus clisfidh sé má bhuailtear é le bíog leictreamaighnéadach.</Apparel_ShieldBelt.description>
   
 </LanguageData>

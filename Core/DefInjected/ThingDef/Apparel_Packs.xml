@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: firefoam pop pack -->
-  <Apparel_FirefoampopPack.label>TODO</Apparel_FirefoampopPack.label>
+  <Apparel_FirefoampopPack.label>paca múchta tine</Apparel_FirefoampopPack.label>
   <!-- EN: A utility pack made for firefighters. When triggered, a burst of fire-retardant foam is released, covering a wide circle around its wearer. -->
-  <Apparel_FirefoampopPack.description>TODO</Apparel_FirefoampopPack.description>
+  <Apparel_FirefoampopPack.description>Úsáideann comhraiceoirí dóiteáin an paca seo chun tinte a mhúcadh. Nuair a úsáidtear é, scaoiltear amach cúr múctha tine i gciorcal timpeall ar an úsáideoir.</Apparel_FirefoampopPack.description>
   <!-- EN: firefoam pop -->
-  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>cúr múctha tine</Apparel_FirefoampopPack.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>ag feitheamh</Apparel_FirefoampopPack.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop firefoam -->
-  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>TODO</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
+  <Apparel_FirefoampopPack.verbs.pop_firefoam.label>úsáid cúr múctha tine</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
   <!-- EN: smokepop pack -->
   <Apparel_SmokepopBelt.label>TODO</Apparel_SmokepopBelt.label>

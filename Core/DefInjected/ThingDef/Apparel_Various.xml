@@ -2,78 +2,78 @@
 <LanguageData>
   
   <!-- EN: recon armor -->
-  <Apparel_ArmorRecon.label>TODO</Apparel_ArmorRecon.label>
+  <Apparel_ArmorRecon.label>armúr taiscéalaíochta</Apparel_ArmorRecon.label>
   <!-- EN: A suit of light partially-powered armor, designed to permit quick movement. Lightweight plasteel-weave plates block attacks without compromising mobility, and neuro-memetic assistors in the lower body allow a human to wear the armor and still move easily.\n\nArmor like this is often used by imperial scout troops and glitterworld police forces. -->
-  <Apparel_ArmorRecon.description>TODO</Apparel_ArmorRecon.description>
+  <Apparel_ArmorRecon.description>Tá an t-armúr cumhachtaithe seo éadrom, agus is féidir leis an úsáideoir gluaisteacht go tapa. Tá sé déanta as plátaí plaisti-mhiotail, a chuireann cosc ar damásite gan an t-armúr a dhéanamh róthrom, agus tá braiteoirí néareolaíocha ann freisin a chuidíonn leis an úsáideoir gluaisteacht go héasca.\n\nIs minic go mbíonn an t-armúr seo in úsáid ag trúpaí de chuid na hImpireachta agus ag fórsaí póilíneachta ar phláinéid eile.</Apparel_ArmorRecon.description>
   
   <!-- EN: T-shirt -->
-  <Apparel_BasicShirt.label>TODO</Apparel_BasicShirt.label>
+  <Apparel_BasicShirt.label>t-léine</Apparel_BasicShirt.label>
   <!-- EN: A simple T-shirt. -->
-  <Apparel_BasicShirt.description>TODO</Apparel_BasicShirt.description>
+  <Apparel_BasicShirt.description>T-léine shimplí.</Apparel_BasicShirt.description>
   
   <!-- EN: cape -->
-  <Apparel_Cape.label>TODO</Apparel_Cape.label>
+  <Apparel_Cape.label>clóca</Apparel_Cape.label>
   <!-- EN: A long cape of elegant design. It hangs over one side of the torso. -->
-  <Apparel_Cape.description>TODO</Apparel_Cape.description>
+  <Apparel_Cape.description>Clóca ríoga. Cumhdaíonn sé taobh amháin den chorp.</Apparel_Cape.description>
   
   <!-- EN: button-down shirt -->
-  <Apparel_CollarShirt.label>TODO</Apparel_CollarShirt.label>
+  <Apparel_CollarShirt.label>léine</Apparel_CollarShirt.label>
   <!-- EN: A nice-looking collared shirt with buttons. -->
-  <Apparel_CollarShirt.description>TODO</Apparel_CollarShirt.description>
+  <Apparel_CollarShirt.description>Léine dheas, a bhfuil bóna uirthi.</Apparel_CollarShirt.description>
   
   <!-- EN: duster -->
-  <Apparel_Duster.label>TODO</Apparel_Duster.label>
+  <Apparel_Duster.label>dustar</Apparel_Duster.label>
   <!-- EN: A long duster coat for blocking the sun and grit of the outdoors. -->
-  <Apparel_Duster.description>TODO</Apparel_Duster.description>
+  <Apparel_Duster.description>Cóta fada, a thugann cosaint ón ngriain agus ón salachar.</Apparel_Duster.description>
   
   <!-- EN: flak jacket -->
-  <Apparel_FlakJacket.label>TODO</Apparel_FlakJacket.label>
+  <Apparel_FlakJacket.label>seaicéad piléardhíonach</Apparel_FlakJacket.label>
   <!-- EN: A tough fabric jacket with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
-  <Apparel_FlakJacket.description>TODO</Apparel_FlakJacket.description>
+  <Apparel_FlakJacket.description>Seaicéad armúrphlátáilte. Níl sé chomh héifeachtach le harmúr, ach tugann sé cosaint mhaith i gcoinne ionsaithe, agus níl sé ró míchompordach.</Apparel_FlakJacket.description>
   
   <!-- EN: flak pants -->
-  <Apparel_FlakPants.label>TODO</Apparel_FlakPants.label>
+  <Apparel_FlakPants.label>bríste piléardhíonach</Apparel_FlakPants.label>
   <!-- EN: A pair of pants with armor plates sewn in. While it's not as good as solid armor, it offers effective protection against all manner of attacks while remaining quite comfortable. -->
-  <Apparel_FlakPants.description>TODO</Apparel_FlakPants.description>
+  <Apparel_FlakPants.description>Bríste piléardhíonach. Níl sé chomh héifeachtach le harmúr, ach tugann sé cosaint mhaith i gcoinne ionsaithe, agus níl sé ró mhíchompordach.</Apparel_FlakPants.description>
   
   <!-- EN: flak vest -->
-  <Apparel_FlakVest.label>TODO</Apparel_FlakVest.label>
+  <Apparel_FlakVest.label>veist philéardhíonach</Apparel_FlakVest.label>
   <!-- EN: A vest with armor plates inserted on the chest and back. While quite effective at deflecting gunshots and stabbing attacks against the chest, it does nothing to protect the limbs. -->
-  <Apparel_FlakVest.description>TODO</Apparel_FlakVest.description>
+  <Apparel_FlakVest.description>Veist philéardhíonach. Níl sí chomh héifeachtach le harmúr, ach tugann sí cosaint mhaith i gcoinne ionsaithe, agus níl sí ró mhíchompordach.</Apparel_FlakVest.description>
   
   <!-- EN: jacket -->
-  <Apparel_Jacket.label>TODO</Apparel_Jacket.label>
+  <Apparel_Jacket.label>seaicéad</Apparel_Jacket.label>
   <!-- EN: A tough jacket to stop scrapes and bruises, and to keep one warm in chilly weather. -->
-  <Apparel_Jacket.description>TODO</Apparel_Jacket.description>
+  <Apparel_Jacket.description>Tugann an seaicéad seo cosaint ó scríobthaí agus ó bhallbhrú, agus ón bhfuacht.</Apparel_Jacket.description>
   
   <!-- EN: pants -->
-  <Apparel_Pants.label>TODO</Apparel_Pants.label>
+  <Apparel_Pants.label>bríste</Apparel_Pants.label>
   <!-- EN: A simple set of pants. -->
-  <Apparel_Pants.description>TODO</Apparel_Pants.description>
+  <Apparel_Pants.description>Bríste simplí</Apparel_Pants.description>
   
   <!-- EN: parka -->
-  <Apparel_Parka.label>TODO</Apparel_Parka.label>
+  <Apparel_Parka.label>parca</Apparel_Parka.label>
   <!-- EN: A parka for staying warm in even the coldest of temperatures. -->
-  <Apparel_Parka.description>TODO</Apparel_Parka.description>
+  <Apparel_Parka.description>Tugann an parca seo cosaint ón bhfuacht, fiú i dteocht an-íseal.</Apparel_Parka.description>
   
   <!-- EN: plate armor -->
-  <Apparel_PlateArmor.label>TODO</Apparel_PlateArmor.label>
+  <Apparel_PlateArmor.label>armúr plátáilte</Apparel_PlateArmor.label>
   <!-- EN: Overlapping solid plates of armor covering the entire body from neck to feet. -->
-  <Apparel_PlateArmor.description>TODO</Apparel_PlateArmor.description>
+  <Apparel_PlateArmor.description>Cathéide phlátáilte throm, a chumdaíon an corp iomlán ón muineál go dtí na cosa.</Apparel_PlateArmor.description>
   
   <!-- EN: marine armor -->
-  <Apparel_PowerArmor.label>TODO</Apparel_PowerArmor.label>
+  <Apparel_PowerArmor.label>armúr saighdiúra</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>TODO</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>Armúr cumhachtaithe, déanta as plaisti-miotal. Tugann sé cosaint an-mhaith ar ionsaithe, agus is beag laigí atá ag an armúr seo. Tá braiteoirí leictreacha san armúr a chudíonn leis an úsáideoir gluaiseacht go héasca.\n\nIs minic go mbíonn armúr den sórt seo in úsáid ag spás-shaighdiúirí proifisiúnta.</Apparel_PowerArmor.description>
   
   <!-- EN: robe -->
-  <Apparel_Robe.label>robe</Apparel_Robe.label>
+  <Apparel_Robe.label>róba</Apparel_Robe.label>
   <!-- EN: A long, flowing robe without a hood. -->
-  <Apparel_Robe.description>Une longue robe fluide sans capuche.</Apparel_Robe.description>
+  <Apparel_Robe.description>Róba fada scaoilte gan chochall.</Apparel_Robe.description>
   
   <!-- EN: tribalwear -->
-  <Apparel_TribalA.label>TODO</Apparel_TribalA.label>
-  <!-- EN: A full-body garment crafted using neolithic tools. While it may look primitive, it is effective at insulating the wearer. -->
-  <Apparel_TribalA.description>TODO</Apparel_TribalA.description>
+  <Apparel_TribalA.label>éadaí treibhe</Apparel_TribalA.label>
+  <!-- EN: A full-body garment crafted using treibhe tools. While it may look primitive, it is effective at insulating the wearer. -->
+  <Apparel_TribalA.description>Tógadh na héadaí seo le huirlísí neoiliteacha. Tá cuma simplí ar na héadaí seo, ach tugann siad cosaint mhaith ón bhfuacht.</Apparel_TribalA.description>
   
 </LanguageData>

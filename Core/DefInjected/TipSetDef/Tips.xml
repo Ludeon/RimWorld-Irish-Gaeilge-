@@ -54,114 +54,114 @@
   <!-- EN: If you hunt boomrats and boomalopes when it's raining, their deaths won't cause forest fires. -->
   <GameplayTips.AnimalDeathExplosionRain>Má mharaíonn tú búmalóip agus é ag cur báistí, ní scaipfear tinte foraoise.</GameplayTips.AnimalDeathExplosionRain>
   <!-- EN: Carefully-slaughtered animals yield more meat and leather than those who were killed violently. -->
-  <GameplayTips.GreaterSlaughterYield>TODO</GameplayTips.GreaterSlaughterYield>
+  <GameplayTips.GreaterSlaughterYield>Is féidir níos mó feola a bhaint ó ainmhithe a maraíodh go cúramach i gcomparáid le hainmhithe a maraíodh go foréigeanach.</GameplayTips.GreaterSlaughterYield>
   <!-- EN: Place the caravan hitching spot where you want your caravans to form up. It's usually best to place it near your storage areas. -->
-  <GameplayTips.CaravanHitchingSpot>TODO</GameplayTips.CaravanHitchingSpot>
+  <GameplayTips.CaravanHitchingSpot>Tiocfaidh do charbháin le chéile san áit ina bhfuil an posta ceangailte carbhán. De ghnáth, is fearr é a chur taobh le do zón stórála.</GameplayTips.CaravanHitchingSpot>
   <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
-  <GameplayTips.CaravanHitchingSpotRoamers>TODO</GameplayTips.CaravanHitchingSpotRoamers>
+  <GameplayTips.CaravanHitchingSpotRoamers>Nuair a bheidh tú i bhfad ón mbaile, is féidir posta ceangailte carbhán a chur síos ionas nach rachaidh do chuid ainmhithe ar strae.</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
-  <GameplayTips.CaravanRideableAnimals>TODO</GameplayTips.CaravanRideableAnimals>
+  <GameplayTips.CaravanRideableAnimals>Beidh carbháin in ann gluaiseacht níos tapúla má tá siad déanta suas d'ainmhithe marcaíochta, ar nós capaill agus asail.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
-  <GameplayTips.CaravanSmallerLessVisible>TODO</GameplayTips.CaravanSmallerLessVisible>
+  <GameplayTips.CaravanSmallerLessVisible>Is lú an dóchúlacht go n-ionsófar carbháin bheaga, toisc nach bhfuil siad chomh feiceálacha le carbháin mhóra.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->
-  <GameplayTips.CaravanStockpileNearPackingSpot>TODO</GameplayTips.CaravanStockpileNearPackingSpot>
+  <GameplayTips.CaravanStockpileNearPackingSpot>Roimh duit carbhán a chruthú, bailigh na rudaí ar mian leat a thabhairt leat agus cur i stoc-charn iad taobh leis an bposta ceangailte carbhán. Beidh tú in ann an carbhán a phacáil i bhfad níos tapúla ansin.</GameplayTips.CaravanStockpileNearPackingSpot>
   <!-- EN: If you have untrained animals in your caravan, you can split them into a separate caravan before attacking an enemy, to keep them out of the fight. -->
-  <GameplayTips.CaravanUntrainedAnimals>TODO</GameplayTips.CaravanUntrainedAnimals>
+  <GameplayTips.CaravanUntrainedAnimals>Má tá ainmhithe gan oiliúint agat i do charbhán, is féidir iad a chur i gcarbhán éagsúil roimh duit naimhde a ionsú, chun iad a choinneáil amach ón troid.</GameplayTips.CaravanUntrainedAnimals>
   <!-- EN: Don't forget to pack medicine on your caravans. -->
-  <GameplayTips.CaravanDontForgetMedicine>TODO</GameplayTips.CaravanDontForgetMedicine>
+  <GameplayTips.CaravanDontForgetMedicine>Ná déan dearmad cógas a thabhairt leat i do charbháin.</GameplayTips.CaravanDontForgetMedicine>
   <!-- EN: RimWorld is a story generator, not a skill test. A ruined colony is a dramatic tragedy, not a failure. -->
-  <GameplayTips.StoryGenerator>TODO</GameplayTips.StoryGenerator>
+  <GameplayTips.StoryGenerator>Cluiche scéalaíochta is é Rimworld, ina mbíonn tragóid dhrámatúil gach uair a thagann deireadh le cluiche.</GameplayTips.StoryGenerator>
   <!-- EN: Some colonists are worse than useless. Bad allies are part of the challenge. -->
-  <GameplayTips.BadAllies>TODO</GameplayTips.BadAllies>
+  <GameplayTips.BadAllies>Ní fiú faic coilínigh áirithe. Is cuid den dúshláin iad na droch-chomhghuallaithe sin.</GameplayTips.BadAllies>
   <!-- EN: If you can't defend against a threat, make a caravan and run. You may lose your home, but your story can continue. -->
-  <GameplayTips.MakeCaravanRunBeforeDefeat>TODO</GameplayTips.MakeCaravanRunBeforeDefeat>
+  <GameplayTips.MakeCaravanRunBeforeDefeat>Mura bhfuil tú in ann an fód a sheasamh i gcoinne bagairt, cruthaigh carbháin agus teith. Tá seans ann go gcaillfidh tú do bhaile, ach leanfaidh do scéal ar aghaidh.</GameplayTips.MakeCaravanRunBeforeDefeat>
   <!-- EN: When you have more wealth, more powerful enemies attack. If you want the challenge to scale with time instead, select 'Wealth-independent progress mode' in the storyteller settings. -->
-  <GameplayTips.FixedWealthMode>TODO</GameplayTips.FixedWealthMode>
+  <GameplayTips.FixedWealthMode>Díreoidh naimhde níos cumachtaí ar choilíneachtaí saibhre. Más mian leat dúshlán an chluiche a nascadh le himeacht ama, agus ní le saibhreas, is féidir na socruithe a athrú.</GameplayTips.FixedWealthMode>
   <!-- EN: Avoid using stone for doors. They open very slowly, which wastes your colonists' time. -->
-  <GameplayTips.StoneDoors>TODO</GameplayTips.StoneDoors>
+  <GameplayTips.StoneDoors>Ná tóg doirse cloiche. Osclaíonn siad go han-mhall, rud a chuireann do chuid ama amú.</GameplayTips.StoneDoors>
   <!-- EN: Put chairs in front of workbenches so workers can sit comfortably while working. -->
-  <GameplayTips.ChairsWorkbench>TODO</GameplayTips.ChairsWorkbench>
+  <GameplayTips.ChairsWorkbench>Is féidir cathaoireachta taobh le binsí oibre, chun go mbeidh do choilínigh compordach agus iad i mbun oibre.</GameplayTips.ChairsWorkbench>
   <!-- EN: Mechanical structures break down and require replacement components. Don't build things you don't need. -->
-  <GameplayTips.MechanicalBreakdown>TODO</GameplayTips.MechanicalBreakdown>
+  <GameplayTips.MechanicalBreakdown>Is minic go gcliseann meaisíní, agus bíonn comhpháirteanna ag teastáil chun iad a dheisiú. Ná tóg rudaí nach bhfuil de dhíth ort.</GameplayTips.MechanicalBreakdown>
   <!-- EN: Be careful what you construct on bridges. Bridges collapse easily under explosions, and your buildings will go with them. -->
-  <GameplayTips.CarefulConstructionOnBridges>TODO</GameplayTips.CarefulConstructionOnBridges>
+  <GameplayTips.CarefulConstructionOnBridges>Má scriostar droichead, déanfar smidiríní de gach rud atá tógtha air.</GameplayTips.CarefulConstructionOnBridges>
   <!-- EN: Clean rooms increase research speed, improve medical outcomes, and reduce food poisoning. Sterile tiles make rooms extra-clean. -->
-  <GameplayTips.CleanRooms>TODO</GameplayTips.CleanRooms>
+  <GameplayTips.CleanRooms>Má tá seomra glan, beidh do choilínigh in ann taighde a dhéanamh níos tapúla, agus is lú an seans go dtiocfaidh galar nó nimhiú bia orthu. Is féidir seomraí a dhéanamh níos glaine arís le hurláir steiriúla.</GameplayTips.CleanRooms>
   <!-- EN: Building your whole colony in one structure saves resources, but also makes it difficult to contain fires. -->
-  <GameplayTips.ColonyOneStructure>TODO</GameplayTips.ColonyOneStructure>
+  <GameplayTips.ColonyOneStructure>Is féidir do choilíneacht a thógáil in aon fhoirgneamh amháin chun acmhainní a shábháil, ach beidh sé níos deacra tinte a chur faoi smacht.</GameplayTips.ColonyOneStructure>
   <!-- EN: Terrain affects movement speed. Build floors to help your colonists get around quicker. -->
-  <GameplayTips.TerrainMovementSpeed>TODO</GameplayTips.TerrainMovementSpeed>
+  <GameplayTips.TerrainMovementSpeed>Bíonn tionchar ag an tír-raon ar an luas gluaiseachta. Is féidir urlár a thógail chun go mbeidh do choilínigh in ann bogadh thart níos tapúla.</GameplayTips.TerrainMovementSpeed>
   <!-- EN: Different terrain has different inherent cleanliness levels. Tiles are inherently clean; dirt is inherently dirty. -->
-  <GameplayTips.TerrainCleanliness>TODO</GameplayTips.TerrainCleanliness>
+  <GameplayTips.TerrainCleanliness>Bíonn urláir áirithe níos glaine ná cinn eile. Bíonn tíleanna glan; bíonn cré salach.</GameplayTips.TerrainCleanliness>
   <!-- EN: Some floor types are faster to clean than others. It takes much longer to clean carpet compared to metal tile. -->
-  <GameplayTips.TerrainCleanSpeed>TODO</GameplayTips.TerrainCleanSpeed>
+  <GameplayTips.TerrainCleanSpeed>Is féidir urláir áirithe a ghlanadh níos tapúla ná cinn eile. Tógann sé i bhfad níos faide cairpéid a ghlanadh i gcomparáid le hurlár miotail.</GameplayTips.TerrainCleanSpeed>
   <!-- EN: You can give prisoners as gifts. Giving a prisoner back to their own faction will be highly appreciated. -->
-  <GameplayTips.PrisonersAsGifts>TODO</GameplayTips.PrisonersAsGifts>
+  <GameplayTips.PrisonersAsGifts>Is féidir priosúnaigh a thabhairt mar bhronntanas. Má thugann tú priosúnach ar áis dá bhfaicsean, beidh siad sásta leat.</GameplayTips.PrisonersAsGifts>
   <!-- EN: You can request specific types of trade caravans using the comms console. -->
-  <GameplayTips.RequestTradeCaravans>TODO</GameplayTips.RequestTradeCaravans>
+  <GameplayTips.RequestTradeCaravans>Is féidir carbháin trádála éagsúla a iarradh ag baint úsáide as an gconsól cumarsáide.</GameplayTips.RequestTradeCaravans>
   <!-- EN: You can use transport pods to send gifts directly to other factions' bases - even your enemies. This improves faction relations. -->
-  <GameplayTips.TransportPodsSendGift>TODO</GameplayTips.TransportPodsSendGift>
+  <GameplayTips.TransportPodsSendGift>Is féidir podanna iompair a úsáid chun bronntanais a sheoladh go díreach chuig coilíneachtaí eile - do naimhde san áireamh. Is féidir do chaidreamh le faicsin eile a fheabhsú ar an gcaoi sin.</GameplayTips.TransportPodsSendGift>
   <!-- EN: Keeping prisoners together saves space. However, prisoners kept together will try to break out together. -->
-  <GameplayTips.KeepingPrisonersTogether>TODO</GameplayTips.KeepingPrisonersTogether>
+  <GameplayTips.KeepingPrisonersTogether>Is féidir priosúnaigh a choinneáil le chéile chun spás a shábháil, ach is mó an seans go ndéanfaidh siad iarracht éalú má choinnítear le chéile iad.</GameplayTips.KeepingPrisonersTogether>
   <!-- EN: Enemy faction bases are very well-defended. You don't need to attack them - but be well-prepared if you choose to try. -->
-  <GameplayTips.EnemyFactionBaseDefenses>TODO</GameplayTips.EnemyFactionBaseDefenses>
+  <GameplayTips.EnemyFactionBaseDefenses>Bíonn cosaint mhaith ag coilíneachtaí eile. Bí cinnte go bhfuil tú ullmhaithe i gceart más mian leat ionsaí a dhéanamh ar do naimhde.</GameplayTips.EnemyFactionBaseDefenses>
   <!-- EN: Cute tame animals will nuzzle your colonists, improving their mood. -->
-  <GameplayTips.AnimalNuzzle>TODO</GameplayTips.AnimalNuzzle>
+  <GameplayTips.AnimalNuzzle>Cuirfidh peataí dea-giúmar ar do choilínigh.</GameplayTips.AnimalNuzzle>
   <!-- EN: Assign your herbivorous animals to areas with lots of grass. They'll eat the grass and spare you the need to feed them. -->
-  <GameplayTips.AnimalHerbivorousGrassArea>TODO</GameplayTips.AnimalHerbivorousGrassArea>
+  <GameplayTips.AnimalHerbivorousGrassArea>Cuir ainmhithe luibhiteacha i limistéar ina bhfuil go leor féir. Ithfidh siad an féar agus ní bheidh ort bia a thabhairt dóibh.</GameplayTips.AnimalHerbivorousGrassArea>
   <!-- EN: If someone has a serious infection in a limb, you can remove the limb to save their life. -->
-  <GameplayTips.RemoveLimbInfection>TODO</GameplayTips.RemoveLimbInfection>
+  <GameplayTips.RemoveLimbInfection>Má tá ionfhabhtú dáinséarach ag coilíneach i ngéag, is féidir an ghéag sin a bhaint chun beatha an duine sin a shábháil.</GameplayTips.RemoveLimbInfection>
   <!-- EN: Sloshing through water makes people unhappy. Build a bridge when you can. -->
-  <GameplayTips.SloshingWater>TODO</GameplayTips.SloshingWater>
+  <GameplayTips.SloshingWater>Bíonn daoine míshásta nuair a bhíonn orthu siúl trí huisce. Tóg droicheadh más féidir.</GameplayTips.SloshingWater>
   <!-- EN: Luciferium can heal scars - even those on the eye or brain. It is, however, a permanent commitment. -->
-  <GameplayTips.Luciferium>TODO</GameplayTips.Luciferium>
+  <GameplayTips.Luciferium>Is féidir coilm ó ghortuithe a leigheas le lúicifiream.</GameplayTips.Luciferium>
   <!-- EN: Work and movement speed are affected by lighting. Everything is slower in the dark. -->
-  <GameplayTips.WorkMovementSpeedLighting>TODO</GameplayTips.WorkMovementSpeedLighting>
+  <GameplayTips.WorkMovementSpeedLighting>Bíonn gach rud níos moille sa dorchadas. Beidh do choilínigh in ann obair agus bogadh thart níos tapúla má tá soilse ann.</GameplayTips.WorkMovementSpeedLighting>
   <!-- EN: Deep underground caverns have a naturally stable temperature, even if it's very hot or cold outside. -->
-  <GameplayTips.DeepCavesTemperature>TODO</GameplayTips.DeepCavesTemperature>
+  <GameplayTips.DeepCavesTemperature>Bíonn teocht sheasmhach ann faoin talamh agus i bpluaiseanna, fiú má tá sé an-te nó an-fhuar lasmuigh.</GameplayTips.DeepCavesTemperature>
   <!-- EN: Mountain bases are easy to defend. The downside is that people go crazy spending too long underground. And giant insects. -->
-  <GameplayTips.MountainBases>TODO</GameplayTips.MountainBases>
+  <GameplayTips.MountainBases>Tá sé éasca struchtúir a thógtar sna sléibhte a chosaint. Ní bhíonn daoine sásta nuair a bhíonn orthu an iomarca ama a chaitheamh faoin talamh, áfach. Tá feithidí móra ann, freisin.</GameplayTips.MountainBases>
   <!-- EN: Prisoners will join much quicker and attempt fewer breakouts when they're in a good mood. -->
-  <GameplayTips.PrisonersGoodMood>TODO</GameplayTips.PrisonersGoodMood>
+  <GameplayTips.PrisonersGoodMood>Má tá dea-ghiúmar ar phriosúnaigh, is airde an seans go mbeidh siad sásta dul le do choilíneacht, agus is lú an seans go ndéanfaidh siad iarracht éalú.</GameplayTips.PrisonersGoodMood>
   <!-- EN: You can have multiple researchers working simultaneously at multiple research tables. -->
-  <GameplayTips.MultipleResearchers>TODO</GameplayTips.MultipleResearchers>
+  <GameplayTips.MultipleResearchers>Is féidir níos nó ná taighdeoir amháin agus níos mó ná bord taighde amháin a bheith agat.</GameplayTips.MultipleResearchers>
   <!-- EN: Geysers heat up rooms if enclosed. This can be dangerous, or useful. -->
-  <GameplayTips.GeysersHeatRooms>TODO</GameplayTips.GeysersHeatRooms>
+  <GameplayTips.GeysersHeatRooms>Má tá géasar timpeallaithe ag ballaí, téifear an seomra. D'fhéadfadh an méid sin a bheith dáinséarach, nó úsáideach.</GameplayTips.GeysersHeatRooms>
   <!-- EN: Explosions extinguish fires in their blast radius. This makes artillery shells useful for stopping fires when there is no other choice. -->
-  <GameplayTips.ExtinguishFireArtillery>TODO</GameplayTips.ExtinguishFireArtillery>
+  <GameplayTips.ExtinguishFireArtillery>Is féidir tinte a mhúchadh le pléascanna. Mar sin, is féidir airtléire a úsáid chun tinte a chosc, mura bhfuil aon rogha eile agat.</GameplayTips.ExtinguishFireArtillery>
   <!-- EN: Even serious setbacks don't mean the game has to end. Try playing out a lost battle - often the best stories come from the darkest situations. -->
-  <GameplayTips.BestStoriesFromDarkestSituations>TODO</GameplayTips.BestStoriesFromDarkestSituations>
+  <GameplayTips.BestStoriesFromDarkestSituations>Ní chiallaíonn buille tromchúiseach go bhfuil deireadh leis an gcluiche. Is minic go scríobhtar dea-scéal in am an ghátair.</GameplayTips.BestStoriesFromDarkestSituations>
   <!-- EN: Keep weapon stockpiles away from your prisons. Prison breaks are much more dangerous with guns and explosives. -->
-  <GameplayTips.KeepWeaponsAwayFromPrisoners>TODO</GameplayTips.KeepWeaponsAwayFromPrisoners>
+  <GameplayTips.KeepWeaponsAwayFromPrisoners>Bí cinnte nach gcoinníonn tú aon airm taobh le do phríosún. Tá sé i bhfad níos dáinséaraí má bhriseann daoine amach ón bpríosún le gunnaí.</GameplayTips.KeepWeaponsAwayFromPrisoners>
   <!-- EN: When taming animals, make sure you have enough food of the correct type to feed them. -->
-  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>TODO</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
+  <GameplayTips.MakeSureYouHaveFoodForTamedAnimals>Agus ainmhí á gceansú agat, bí cinnte go bhfuil go leor bia agat chun iad a chothú.</GameplayTips.MakeSureYouHaveFoodForTamedAnimals>
   <!-- EN: Dropping a stone or slag chunk in a doorway will force it open, leaving you vulnerable to hostile wildlife and raiders. -->
-  <GameplayTips.DroppingChunksWillForceDoorsOpen>TODO</GameplayTips.DroppingChunksWillForceDoorsOpen>
+  <GameplayTips.DroppingChunksWillForceDoorsOpen>Má fhágtar cloch nó piosa miotail i ndoras, coinneofar an doras ar oscailt.</GameplayTips.DroppingChunksWillForceDoorsOpen>
   <!-- EN: Clean labs with sterile tile give research speed bonuses. -->
-  <GameplayTips.CleanLabs>TODO</GameplayTips.CleanLabs>
+  <GameplayTips.CleanLabs>Is fearr saotharlann ghlan ina bhfuil tíleanna steiriúla a chruthú. Beidh do thaighdeoirí i bhfad níos éifeachtaí ansin.</GameplayTips.CleanLabs>
   <!-- EN: You can change storyteller and playstyle at any time through the options menu. -->
-  <GameplayTips.ChangeStoryteller>TODO</GameplayTips.ChangeStoryteller>
+  <GameplayTips.ChangeStoryteller>Is féidir na socruithe scéalaíochta a athrú pé uair is mian leat sa roghchlár.</GameplayTips.ChangeStoryteller>
   <!-- EN: The more factions you are allied with, the more random traders and military aid you will receive. -->
-  <GameplayTips.MoreAlliesMoreTraders>TODO</GameplayTips.MoreAlliesMoreTraders>
+  <GameplayTips.MoreAlliesMoreTraders>Má tá comhghuallaíochtaí agat le cuid mhór faicsean, beidh rochtain agat ar níos nó trádálaithe agus cúnaimh.</GameplayTips.MoreAlliesMoreTraders>
   <!-- EN: You can use drug policies to have your fighters carry combat drugs like go-juice. A quick dose at the start of combat can win the battle. -->
-  <GameplayTips.CombatDrugsFromInventory>TODO</GameplayTips.CombatDrugsFromInventory>
+  <GameplayTips.CombatDrugsFromInventory>Is féidir polasaithe drugaí a úsáid chun drugaí comhraic a úsáid. I dtroid, is féidir an taoide a chasadh má tá drugaí áirithe ag do shaighdiúirí.</GameplayTips.CombatDrugsFromInventory>
   <!-- EN: Set schedules with long stretches of one activity to minimize travel time. -->
-  <GameplayTips.SchedulesSetLong>TODO</GameplayTips.SchedulesSetLong>
+  <GameplayTips.SchedulesSetLong>Is fearr sceideal a leagan amach ina bhfuil go leor ama do gach gníomhaíocht.</GameplayTips.SchedulesSetLong>
   <!-- EN: Straw matting ignores filth. Use it as the floor for your barn. -->
-  <GameplayTips.StrawMatting>TODO</GameplayTips.StrawMatting>
+  <GameplayTips.StrawMatting>Ní bhíonn éifeacht ag an salachar ar urlár tuí. Is féidir é a úsáid mar urlár i do scioból.</GameplayTips.StrawMatting>
   <!-- EN: Some animals produce a lot of filth. Keep your elephants and cattle outside. -->
-  <GameplayTips.AnimalFilth>TODO</GameplayTips.AnimalFilth>
+  <GameplayTips.AnimalFilth>Tá ainmhithe áirithe an-salach. Coinnigh lasmuigh iad.</GameplayTips.AnimalFilth>
   <!-- EN: Predators won't hunt animals which are on the other side of fences or barricades. -->
-  <GameplayTips.PredatorsAndFences>TODO</GameplayTips.PredatorsAndFences>
+  <GameplayTips.PredatorsAndFences>Ní bhacfaidh creachadóir le hainmhithe atá timpeallaithe ag sconsaí.</GameplayTips.PredatorsAndFences>
   <!-- EN: It’s never game over. If everyone is dead or gone, you can create new wanderers to take over the remains of your colony. -->
-  <GameplayTips.NeverGameOver>Ní bhíonn deireadh leis an scéal riamh. Má chailltear gach duine i do choilíneacht, is féidir daoine nua a chruthú chun teacht isteach ina n-áit.</GameplayTips.NeverGameOver>
+  <GameplayTips.NeverGameOver>Ní bhíonn deireadh leis an gcluiche riamh. Má tá do choilínigh ar fad marbh nó imithe, is féidir deoraithe úra a chruthú chun seilbh a ghlacadh ar do choilíneacht.</GameplayTips.NeverGameOver>
   <!-- EN: Store books in bookcases. This increases the beauty of a room, makes nearby research benches faster, and increases the XP and recreation gained from reading. -->
-  <GameplayTips.StoreBooksInBookcases>TODO</GameplayTips.StoreBooksInBookcases>
+  <GameplayTips.StoreBooksInBookcases>Is féidir leabhair a choinneáil ar seilfanna. Cuirfidh seilfeanna le háilleacht an tseomra, agus beidh do thaighdeoirí níos tapúla má tá siad in aice láimhe.</GameplayTips.StoreBooksInBookcases>
   <!-- EN: Want a newly crafted item to be taken to a specific shelf? Once a shelf is named or linked with other shelves, it will appear as a hauling destination in the bill’s “Details…” window. -->
-  <GameplayTips.TakeToShelves>TODO</GameplayTips.TakeToShelves>
+  <GameplayTips.TakeToShelves>Ar mian leat earra nuachruthaithe a sheoladh chuig seilf áirithe? Nuair a bheidh seilf ainmnhithe nó nasctha le seilfeanna eile, beidh sé le feiceáil sa roghchlár "Tuilleadh..." i dtáb na mbillí.</GameplayTips.TakeToShelves>
   <!-- EN: You can change to a 12 hour clock, or change Celsius temperatures to Fahrenheit, in the options menu. -->
-  <GameplayTips.ChangeUnits>Is féidir am an chloig 12 uair nó Celsius nó Fahrenheit a úsáid ach na socruithe a athrú.</GameplayTips.ChangeUnits>
+  <GameplayTips.ChangeUnits>Is féidir clog 12 uair an chloig a shocrú, nó teocht Celsius nó Fahrenheit a roghnú sna socruithe.</GameplayTips.ChangeUnits>
   <!-- EN: When targeting a colonist with an ability or item, you can also target their portrait in the top colonist bar. -->
-  <GameplayTips.TargetColonistBar>Chun coilíneach a roghnú, is féidir cliceáil orthu nó is féidir cliceáil ar an bpictiúr ar bharr an scáileáin.</GameplayTips.TargetColonistBar>
+  <GameplayTips.TargetColonistBar>Chun coilínigh a roghnú, is féidir cliceáil orthu nó cliceáil ar a bportráidí ar bharr an scáileáin.</GameplayTips.TargetColonistBar>
   
 </LanguageData>

@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: barn -->
-  <Barn.label>TODO</Barn.label>
+  <Barn.label>scioból</Barn.label>
   
   <!-- EN: barracks -->
-  <Barracks.label>TODO</Barracks.label>
+  <Barracks.label>beairic</Barracks.label>
   
   <!-- EN: bedroom -->
-  <Bedroom.label>TODO</Bedroom.label>
+  <Bedroom.label>seomra leapa</Bedroom.label>
   
   <!-- EN: dining room -->
-  <DiningRoom.label>TODO</DiningRoom.label>
+  <DiningRoom.label>seomra bia</DiningRoom.label>
   
   <!-- EN: hospital -->
-  <Hospital.label>TODO</Hospital.label>
+  <Hospital.label>ospidéal</Hospital.label>
   
   <!-- EN: kitchen -->
-  <Kitchen.label>TODO</Kitchen.label>
+  <Kitchen.label>cistin</Kitchen.label>
   
   <!-- EN: laboratory -->
-  <Laboratory.label>TODO</Laboratory.label>
+  <Laboratory.label>saotharlann</Laboratory.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>faic</None.label>
   
   <!-- EN: prison barracks -->
-  <PrisonBarracks.label>TODO</PrisonBarracks.label>
+  <PrisonBarracks.label>beairic príosúin</PrisonBarracks.label>
   
   <!-- EN: prison cell -->
-  <PrisonCell.label>TODO</PrisonCell.label>
+  <PrisonCell.label>cillín príosúin</PrisonCell.label>
   
   <!-- EN: rec room -->
-  <RecRoom.label>TODO</RecRoom.label>
+  <RecRoom.label>seomra siamsaíochta</RecRoom.label>
   
   <!-- EN: room -->
-  <Room.label>TODO</Room.label>
+  <Room.label>seomra</Room.label>
   
   <!-- EN: storeroom -->
-  <Storeroom.label>TODO</Storeroom.label>
+  <Storeroom.label>seomra stórais</Storeroom.label>
   
   <!-- EN: tomb -->
-  <Tomb.label>TODO</Tomb.label>
+  <Tomb.label>tuama</Tomb.label>
   
   <!-- EN: workshop -->
-  <Workshop.label>TODO</Workshop.label>
+  <Workshop.label>ceardlann</Workshop.label>
   
 </LanguageData>

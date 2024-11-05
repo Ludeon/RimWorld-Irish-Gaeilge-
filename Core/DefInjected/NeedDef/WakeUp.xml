@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: wake-up -->
-  <Chemical_WakeUp.label>TODO</Chemical_WakeUp.label>
+  <Chemical_WakeUp.label>sú múscailte</Chemical_WakeUp.label>
   <!-- EN: Because of a wake-up addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
-  <Chemical_WakeUp.description>TODO</Chemical_WakeUp.description>
+  <Chemical_WakeUp.description>Ní mór don duine seo sú múscailte a úsáid ar bhonn rialta, chun drochéifeachtaí éirí as a sheachaint</Chemical_WakeUp.description>
   
 </LanguageData>
