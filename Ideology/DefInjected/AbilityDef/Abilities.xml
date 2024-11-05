@@ -59,45 +59,45 @@
   <LeaderSpeech.description>Cuir tús le hóráid cheannaireachta. Má éiríonn leat, beidh tuilleadh ómóis do gach duine don chainteoir agus tiocfaidh dea-ghiumar orthu. Mura n-éiríonn leat, beidh iarmhairtí sóisialta ann.</LeaderSpeech.description>
   
   <!-- EN: marksman command -->
-  <MarksmanCommand.label>misneach aimsitheora</MarksmanCommand.label>
+  <MarksmanCommand.label>misneach lámhaigh</MarksmanCommand.label>
   <!-- EN: Call out shots and boost the shooting skills of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MarksmanCommand.description>Tabhair misneach do gach duine a bhfuil arm fadraoin acu. Cuireann an éifeacht seo le scil lámhaigh gach duine sa cheantar agus maireann sé 24 uair an chloig.</MarksmanCommand.description>
+  <MarksmanCommand.description>Tabhair misneach do gach duine a bhfuil arm fadraoin acu. Cuireann an éifeacht seo le scil lámhaigh gach duine sa cheantar agus maireann sí 24 uair an chloig.</MarksmanCommand.description>
   
   <!-- EN: mining command -->
-  <MiningCommand.label>encouragement au minage</MiningCommand.label>
+  <MiningCommand.label>misneach mianadóireachta</MiningCommand.label>
   <!-- EN: Offer guidance on mining techniques, boosting the mining speed for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <MiningCommand.description>Offre des conseils sur les techniques de minage, augmentant la vitesse de minage pour tous ceux qui se trouvent à proximité. L'effet reste attaché au lanceur pendant 24 heures.</MiningCommand.description>
+  <MiningCommand.description>Tabhair misneach do dhaoine agus iad a mbun mianadóireachta. Cuireann an éifeacht seo le scil mianadóireachta gach duine sa cheantar agus maireann sí 24 uair an chloig.</MiningCommand.description>
   
   <!-- EN: preach health -->
-  <PreachHealth.label>prêche de soin</PreachHealth.label>
+  <PreachHealth.label>comhairle sláinte</PreachHealth.label>
   <!-- EN: Preach moral strength to a sick or wounded person through the concepts of your ideology. This will improve their rate of wound healing and immunity gain. -->
-  <PreachHealth.description>Prêche la force morale à une personne malade ou blessée à travers les concepts de votre idéologie. Cela améliorera leur taux de cicatrisation et leur immunité.</PreachHealth.description>
+  <PreachHealth.description>Tabhair comhairle sláinte do dhuine tinn. Cuireann an éifeacht seo le sláinte an duine agus tiocfaidh sé ar ais ó ghortú níos tapúla.</PreachHealth.description>
   
   <!-- EN: production command -->
-  <ProductionCommand.label>encouragement à la production</ProductionCommand.label>
+  <ProductionCommand.label>misneach táirgeachta</ProductionCommand.label>
   <!-- EN: Offer guidance on construction techniques, boosting construction and crafting abilities for everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ProductionCommand.description>Offre des conseils sur les techniques de construction, l'amélioration des capacités de construction et d'artisanat pour tout le monde à proximité. L'effet reste attaché au lanceur pendant 24 heures.</ProductionCommand.description>
+  <ProductionCommand.description>Tabhair misneach do dhaoine agus iad i mbun táirgthe. Cuireann an éifeacht seo le scilleanna tógála gach duine sa cheantar agus maireann sí 24 uair an chloig.</ProductionCommand.description>
   
   <!-- EN: reassure -->
-  <Reassure.label>réassurance</Reassure.label>
+  <Reassure.label>athdhearbhú</Reassure.label>
   <!-- EN: Increase someone's certainty in their own beliefs. The regained certainty is based on the speaker's negotiation ability. -->
-  <Reassure.description>Augmente la certitude de quelqu'un en ses propres croyances. La certitude retrouvée repose sur la capacité de négociation du locuteur.</Reassure.description>
+  <Reassure.description>Labhair le duine agus cur lena chinnteacht faoina chreideamh féin. Braitheann an chinnteacht ar scileanna idirbheartaíochta an chainteora.</Reassure.description>
   <!-- EN: {INITIATOR_labelShort} has reassured {RECIPIENT_labelShort}, increasing {RECIPIENT_possessive} certainty in {IDEO} from {BEFORECERTAINTY} to {AFTERCERTAINTY}. -->
-  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>{INITIATOR_labelShort} a rassuré {RECIPIENT_labelShort}, augmentant sa certitude en {IDEO} de {BEFORECERTAINTY} à {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
+  <Reassure.comps.CompAbilityEffect_Reassure.successMessage>Thug {INITIATOR_labelShort} comhairle do {RECIPIENT_labelShort}, agus feabhsaíodh cinnteacht {RECIPIENT_labelShort} as {IDEO} ó {BEFORECERTAINTY} go dtí {AFTERCERTAINTY}.</Reassure.comps.CompAbilityEffect_Reassure.successMessage>
   
   <!-- EN: research command -->
-  <ResearchCommand.label>encouragement à la recherche</ResearchCommand.label>
+  <ResearchCommand.label>misneach taighde</ResearchCommand.label>
   <!-- EN: Provide suggestions and mental support, boosting the research speed of everyone nearby. The effect remains attached to the caster for 24 hours. -->
-  <ResearchCommand.description>Propose des suggestions et offre un soutien mental, augmentant la vitesse de recherche de tous ceux qui se trouvent à proximité. L'effet reste attaché au lanceur pendant 24 heures.</ResearchCommand.description>
+  <ResearchCommand.description>Tabhair tacaíocht agus misneach do dhaoine agus iad i mbun taighde. Baineann an éifeacht seo leis an gcainteoir agus maireann sí 24 uair an chloig.</ResearchCommand.description>
   
   <!-- EN: trial -->
-  <Trial.label>procès</Trial.label>
+  <Trial.label>triail</Trial.label>
   <!-- EN: Charge someone with a terrible wrongdoing and initiate a trial where they will be either convicted or exonerated. If the target is convicted, they can be freely imprisoned, executed or banished without penalty. The chance of conviction depends on the social abilities of the accuser and accused. -->
-  <Trial.description>Accuser quelqu'un d'un acte répréhensible grave et engager un procès où il sera soit reconnu coupable, soit innocenté. Si l'accusé est condamné, il peut être librement emprisonné, exécuté ou banni sans peine. Les chances de condamnation dépendent des compétences sociales de l'accusateur et de l'accusé.</Trial.description>
+  <Trial.description>Cuir tús le triail, ina ndéanfar duine a chúisiú as éagóir nó a scaoileadh saor. Má chiontaítear an duine, is féidir é a chur i bpríosún, a mharú nó a ruaigeadh gan aon phíonós. Braitheann an dóchúlacht go gciontófar duine ar scileanna sóisialta an chúiseora agus an duine atá cúisithe.</Trial.description>
   
   <!-- EN: work drive -->
-  <WorkDrive.label>encouragement au travail</WorkDrive.label>
+  <WorkDrive.label>misneach oibre</WorkDrive.label>
   <!-- EN: Call on a person to work harder for some time. -->
-  <WorkDrive.description>Encourager une personne à travailler plus dur pour un certain temps.</WorkDrive.description>
+  <WorkDrive.description>Tabhair misneach do dhuine chun go mbeidh sé in ann obair go crua ar feadh tamall.</WorkDrive.description>
   
 </LanguageData>
