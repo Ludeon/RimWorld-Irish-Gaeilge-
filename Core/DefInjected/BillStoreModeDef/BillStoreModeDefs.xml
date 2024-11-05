@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: take to best stockpile -->
-  <BestStockpile.label>tóg na nithe is fearr go dtí stoc-charn</BestStockpile.label>
+  <BestStockpile.label>tóg chuig an stoc-charn is fearr</BestStockpile.label>
   
   <!-- EN: drop on floor -->
   <DropOnFloor.label>cuir ar an urlár</DropOnFloor.label>
   
   <!-- EN: take to {0} -->
-  <SpecificStockpile.label>tóg go dtí {0}</SpecificStockpile.label>
+  <SpecificStockpile.label>tóg chuig {0}</SpecificStockpile.label>
   
 </LanguageData>
