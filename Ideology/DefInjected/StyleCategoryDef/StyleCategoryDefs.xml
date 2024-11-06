@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: animalist -->
-  <Animalist.label>animaliste</Animalist.label>
+  <Animalist.label>ainmhíoch</Animalist.label>
   
   <!-- EN: Buddhist -->
-  <Buddhist.label>bouddhiste</Buddhist.label>
+  <Buddhist.label>Búdaíoch</Buddhist.label>
   
   <!-- EN: Christian -->
-  <Christian.label>chrétien</Christian.label>
+  <Christian.label>Críostaí </Christian.label>
   
   <!-- EN: Hindu -->
-  <Hindu.label>hindou</Hindu.label>
+  <Hindu.label>Hiondúch </Hindu.label>
   
   <!-- EN: Islamic -->
-  <Islamic.label>islamique</Islamic.label>
+  <Islamic.label>Ioslamach </Islamic.label>
   
   <!-- EN: morbid -->
-  <Morbid.label>morbide</Morbid.label>
+  <Morbid.label>galrach</Morbid.label>
   
   <!-- EN: rustic -->
-  <Rustic.label>rustique</Rustic.label>
+  <Rustic.label>tuathúil</Rustic.label>
   
   <!-- EN: spikecore -->
-  <Spikecore.label>pic</Spikecore.label>
+  <Spikecore.label>spíceach</Spikecore.label>
   
   <!-- EN: techist -->
-  <Techist.label>technique</Techist.label>
+  <Techist.label>techneolaíoch</Techist.label>
   
   <!-- EN: totemic -->
-  <Totemic.label>totémique</Totemic.label>
+  <Totemic.label>tótamach</Totemic.label>
   
 </LanguageData>

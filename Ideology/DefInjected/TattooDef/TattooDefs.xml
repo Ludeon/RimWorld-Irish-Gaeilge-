@@ -2,90 +2,90 @@
 <LanguageData>
   
   <!-- EN: buttons -->
-  <Body_Buttons.label>ronds</Body_Buttons.label>
+  <Body_Buttons.label>cnaipú</Body_Buttons.label>
   
   <!-- EN: cross -->
-  <Body_Cross.label>croix</Body_Cross.label>
+  <Body_Cross.label>cros</Body_Cross.label>
   
   <!-- EN: heart -->
-  <Body_Heart.label>cœur</Body_Heart.label>
+  <Body_Heart.label>croí</Body_Heart.label>
   
   <!-- EN: insect -->
-  <Body_Insect.label>insecte</Body_Insect.label>
+  <Body_Insect.label>feithid</Body_Insect.label>
   
   <!-- EN: jester -->
-  <Body_Jester.label>bouffon</Body_Jester.label>
+  <Body_Jester.label>fuirseoir</Body_Jester.label>
   
   <!-- EN: moon -->
-  <Body_Moon.label>lune</Body_Moon.label>
+  <Body_Moon.label>gealach</Body_Moon.label>
   
   <!-- EN: power -->
-  <Body_Power.label>puissance</Body_Power.label>
+  <Body_Power.label>cumhacht</Body_Power.label>
   
   <!-- EN: rings -->
-  <Body_Rings.label>anneaux</Body_Rings.label>
+  <Body_Rings.label>fáinne</Body_Rings.label>
   
   <!-- EN: royal -->
-  <Body_Royal.label>couronne</Body_Royal.label>
+  <Body_Royal.label>ríoga</Body_Royal.label>
   
   <!-- EN: scar -->
-  <Body_Scar.label>cicatrice</Body_Scar.label>
+  <Body_Scar.label>colm</Body_Scar.label>
   
   <!-- EN: skeleton -->
-  <Body_Skeleton.label>squelette</Body_Skeleton.label>
+  <Body_Skeleton.label>creatlach</Body_Skeleton.label>
   
   <!-- EN: skull -->
-  <Body_Skull.label>crânes</Body_Skull.label>
+  <Body_Skull.label>blaosc</Body_Skull.label>
   
   <!-- EN: spike -->
-  <Body_Spike.label>pique</Body_Spike.label>
+  <Body_Spike.label>spíce</Body_Spike.label>
   
   <!-- EN: sun -->
-  <Body_Sun.label>soleil</Body_Sun.label>
+  <Body_Sun.label>griain</Body_Sun.label>
   
   <!-- EN: tiger -->
-  <Body_Tiger.label>tigre</Body_Tiger.label>
+  <Body_Tiger.label>tíogar</Body_Tiger.label>
   
   <!-- EN: wings -->
-  <Body_Wings.label>ailes</Body_Wings.label>
+  <Body_Wings.label>cléití</Body_Wings.label>
   
   <!-- EN: cobweb -->
-  <Face_Cobweb.label>toile d'araignée</Face_Cobweb.label>
+  <Face_Cobweb.label>nead</Face_Cobweb.label>
   
   <!-- EN: eclipse -->
-  <Face_Eclipse.label>éclipse</Face_Eclipse.label>
+  <Face_Eclipse.label>urú</Face_Eclipse.label>
   
   <!-- EN: headshot -->
-  <Face_Headshot.label>cible</Face_Headshot.label>
+  <Face_Headshot.label>ceann</Face_Headshot.label>
   
   <!-- EN: line -->
-  <Face_Line.label>ligne</Face_Line.label>
+  <Face_Line.label>líne</Face_Line.label>
   
   <!-- EN: love -->
-  <Face_Love.label>amour</Face_Love.label>
+  <Face_Love.label>grá</Face_Love.label>
   
   <!-- EN: oracle -->
-  <Face_Oracle.label>prophète</Face_Oracle.label>
+  <Face_Oracle.label>fáidh</Face_Oracle.label>
   
   <!-- EN: pantheon -->
-  <Face_Pantheon.label>temple</Face_Pantheon.label>
+  <Face_Pantheon.label>paintéón</Face_Pantheon.label>
   
   <!-- EN: spider -->
-  <Face_Spider.label>araignée</Face_Spider.label>
+  <Face_Spider.label>damhan alla</Face_Spider.label>
   
   <!-- EN: stars -->
-  <Face_Stars.label>étoiles</Face_Stars.label>
+  <Face_Stars.label>réalt</Face_Stars.label>
   
   <!-- EN: tear -->
-  <Face_Tear.label>larme</Face_Tear.label>
+  <Face_Tear.label>deoir</Face_Tear.label>
   
   <!-- EN: tiger -->
-  <Face_Tiger.label>tigre</Face_Tiger.label>
+  <Face_Tiger.label>tíogar</Face_Tiger.label>
   
   <!-- EN: war paint -->
-  <Face_Warpaint.label>peinture de guerre</Face_Warpaint.label>
+  <Face_Warpaint.label>péint chogaidh</Face_Warpaint.label>
   
   <!-- EN: worried -->
-  <Face_Worried.label>sourcils</Face_Worried.label>
+  <Face_Worried.label>buartha</Face_Worried.label>
   
 </LanguageData>

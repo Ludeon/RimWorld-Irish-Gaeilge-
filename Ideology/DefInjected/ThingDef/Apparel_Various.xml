@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: blindfold -->
-  <Apparel_Blindfold.label>bandeau pour les yeux</Apparel_Blindfold.label>
+  <Apparel_Blindfold.label>dallóg</Apparel_Blindfold.label>
   <!-- EN: A long strip of cloth that is wrapped over the eyes to block vision. -->
-  <Apparel_Blindfold.description>Une longue bande de tissu qui est enroulée sur les yeux pour bloquer la vision.</Apparel_Blindfold.description>
+  <Apparel_Blindfold.description>Píosa éadach a chuirtear ar na súile chun radharc na súl a chosc.</Apparel_Blindfold.description>
   
   <!-- EN: slave body strap -->
-  <Apparel_BodyStrap.label>sangle d'esclave</Apparel_BodyStrap.label>
+  <Apparel_BodyStrap.label>strapa sclábhaí</Apparel_BodyStrap.label>
   <!-- EN: An uncomfortable arrangement of straps around the torso made for slaves. It reminds the wearer of their slave status and psychologically suppresses them, reducing the chance of a slave rebellion. -->
-  <Apparel_BodyStrap.description>Un agencement inconfortable de sangles autour du torse fait pour les esclaves. Il rappelle au porteur son statut d'esclave et le réprime psychologiquement, réduisant ainsi le risque de rébellion.</Apparel_BodyStrap.description>
+  <Apparel_BodyStrap.description>Cuireann an strapa míchompordach seo i gcuimhne do sclábhaithe nach daoine iad. Is lú seans go n-éireoidh sclábhaí amach nuair a bhíonn an strapa seo á chaitheamh acu.</Apparel_BodyStrap.description>
   
   <!-- EN: burka -->
-  <Apparel_Burka.label>burka</Apparel_Burka.label>
+  <Apparel_Burka.label>búrca</Apparel_Burka.label>
   <!-- EN: A large garment that conceals the wearer's entire head and body. -->
-  <Apparel_Burka.description>Un grand vêtement qui cache toute la tête et le corps du porteur.</Apparel_Burka.description>
+  <Apparel_Burka.description>Búrca a chumdaíonn corp iomlán an duine.</Apparel_Burka.description>
   
   <!-- EN: torture crown -->
-  <Apparel_TortureCrown.label>couronne de torture</Apparel_TortureCrown.label>
+  <Apparel_TortureCrown.label>coróin spíne</Apparel_TortureCrown.label>
   <!-- EN: A crown-like headpiece with stubby inward-facing spikes that poke the head. It is used to induce pain in the wearer. -->
-  <Apparel_TortureCrown.description>Une coiffe en forme de couronne avec des pointes tronquées tournées vers l'intérieur qui poussent la tête. Elle est utilisée pour induire une douleur chez le porteur.</Apparel_TortureCrown.description>
+  <Apparel_TortureCrown.description>Coróin spíne, ar a bhfuil spící móra. Gortaíonn sé an té a chaitheann é.</Apparel_TortureCrown.description>
   
 </LanguageData>

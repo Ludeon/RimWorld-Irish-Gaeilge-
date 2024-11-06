@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: ark -->
-  <RelicInertArk.label>arche</RelicInertArk.label>
+  <RelicInertArk.label>áirc</RelicInertArk.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertArk.description>Un objet ayant une signification idéoligieuse.</RelicInertArk.description>
+  <RelicInertArk.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertArk.description>
   
   <!-- EN: box -->
-  <RelicInertBox.label>boîte</RelicInertBox.label>
+  <RelicInertBox.label>bosca</RelicInertBox.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertBox.description>Un objet ayant une signification idéoligieuse.</RelicInertBox.description>
+  <RelicInertBox.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertBox.description>
   
   <!-- EN: cube -->
-  <RelicInertCube.label>cube</RelicInertCube.label>
+  <RelicInertCube.label>ciúb</RelicInertCube.label>
   <!-- EN: A hand-sized cube. While now dormant, it was once unnaturally captivating. -->
-  <RelicInertCube.description>Un objet ayant une signification idéoligieuse.</RelicInertCube.description>
+  <RelicInertCube.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertCube.description>
   
   <!-- EN: chalice -->
-  <RelicInertCup.label>calice</RelicInertCup.label>
+  <RelicInertCup.label>cailís</RelicInertCup.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertCup.description>Un objet ayant une signification idéoligieuse.</RelicInertCup.description>
+  <RelicInertCup.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertCup.description>
   
   <!-- EN: fragment -->
-  <RelicInertFragment.label>fragment</RelicInertFragment.label>
+  <RelicInertFragment.label>iarsma</RelicInertFragment.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertFragment.description>Un objet ayant une signification idéoligieuse.</RelicInertFragment.description>
+  <RelicInertFragment.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertFragment.description>
   
   <!-- EN: pendant -->
-  <RelicInertPendant.label>pendentif</RelicInertPendant.label>
+  <RelicInertPendant.label>siogairlín</RelicInertPendant.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertPendant.description>Un objet ayant une signification idéoligieuse.</RelicInertPendant.description>
+  <RelicInertPendant.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertPendant.description>
   
   <!-- EN: hilt -->
-  <RelicInertSwordHandle.label>poignée</RelicInertSwordHandle.label>
+  <RelicInertSwordHandle.label>dornchla</RelicInertSwordHandle.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertSwordHandle.description>Un objet ayant une signification idéoligieuse.</RelicInertSwordHandle.description>
+  <RelicInertSwordHandle.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertSwordHandle.description>
   
   <!-- EN: tablet -->
-  <RelicInertTablet.label>tablette</RelicInertTablet.label>
+  <RelicInertTablet.label>clár</RelicInertTablet.label>
   <!-- EN: An object with ideoligious significance. -->
-  <RelicInertTablet.description>Un objet ayant une signification idéoligieuse.</RelicInertTablet.description>
+  <RelicInertTablet.description>Seaniarsma a bhfuil tábhacht íde-reiligiúnach ag baint leis.</RelicInertTablet.description>
   
 </LanguageData>

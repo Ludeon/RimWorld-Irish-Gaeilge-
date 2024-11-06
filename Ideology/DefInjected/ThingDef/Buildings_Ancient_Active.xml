@@ -2,38 +2,38 @@
 <LanguageData>
   
   <!-- EN: ancient comms console -->
-  <AncientCommsConsole.label>ancienne console de communication</AncientCommsConsole.label>
+  <AncientCommsConsole.label>seanchonsól cumarsáide</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientCommsConsole.description>Une ancienne console avec une parabole de communication attachée. Des pièces de valeur manquent et tout le reste est dégradé et inutile.</AncientCommsConsole.description>
+  <AncientCommsConsole.description>Seanchonsól cumarsáide. Tá na compháirteanna luachmhara imithe, agus ní féidir mórán a dhéanamh leis.</AncientCommsConsole.description>
   
   <!-- EN: ancient enemy terminal -->
-  <AncientEnemyTerminal.label>ancien terminal ennemi</AncientEnemyTerminal.label>
+  <AncientEnemyTerminal.label>seanchonsól</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
-  <AncientEnemyTerminal.description>Un ancien terminal informatique. Il peut être piraté pour appeler des ennemis proches.</AncientEnemyTerminal.description>
+  <AncientEnemyTerminal.description>Seanchonsól faisnéise. Is féidir an consól seo a úsáid chun naimhde atá in aice láimhe a ghlaoch.</AncientEnemyTerminal.description>
   
   <!-- EN: ancient unstable fuel node -->
-  <AncientFuelNode.label>ancien nœud combustible instable</AncientFuelNode.label>
+  <AncientFuelNode.label>cill bhreosla mhíchobhsaí</AncientFuelNode.label>
   <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
-  <AncientFuelNode.description>Un ancien nœud combustible instable autrefois utilisé pour recharger les machines en carburant. Il est devenu instable au fil des années en raison du manque d'entretien.</AncientFuelNode.description>
+  <AncientFuelNode.description>Úsáideadh an chill bhreosla seo fadó chun meaisíní a chumhachtú. Tá sí an-sean, agus an-mhíchobhsaí.</AncientFuelNode.description>
   
   <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>caisse hermétique</AncientHermeticCrate.label>
+  <AncientHermeticCrate.label>bocsa heirméiteach</AncientHermeticCrate.label>
   <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>Une caisse auto-alimentée hermétiquement fermée pour la conservation d'objets de valeur. Elles peuvent conserver leur contenu pendant longtemps.</AncientHermeticCrate.description>
+  <AncientHermeticCrate.description>Úsáidtear an bosca heirméiteach seo chun rudaí luachmhara a stóráil.</AncientHermeticCrate.description>
   
   <!-- EN: security crate -->
-  <AncientSecurityCrate.label>caisse de sécurité</AncientSecurityCrate.label>
+  <AncientSecurityCrate.label>bosca slándála</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
-  <AncientSecurityCrate.description>Une grande caisse autoalimentée hermétiquement fermée avec des alarmes de sécurité intégrées. Elles peuvent conserver leur contenu pendant longtemps. Si elle est ouverte sans le bon code, elle activera probablement un système de sécurité à proximité.</AncientSecurityCrate.description>
+  <AncientSecurityCrate.description>Bosca mór heirméiteach, a bhfuil aláram slándála air. Úsáidtear an bosca seo chun rudaí luachmhara a choinneáil. Má osclaítear é gan an cód ceart, tá seans ann go ngníomhachtófar córas slándála éigin.</AncientSecurityCrate.description>
   
   <!-- EN: ancient terminal -->
-  <AncientTerminal.label>ancien terminal</AncientTerminal.label>
+  <AncientTerminal.label>seanchonsól</AncientTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
-  <AncientTerminal.description>Un ancien terminal informatique. Il peut être piraté pour révéler des informations oubliées depuis longtemps.</AncientTerminal.description>
+  <AncientTerminal.description>Seanchonsól faisnéise. Is féidir an consól seo a úsáid chun eolas ársa a fháil.</AncientTerminal.description>
   
   <!-- EN: ancient terminal -->
-  <AncientTerminal_Worshipful.label>ancien terminal</AncientTerminal_Worshipful.label>
+  <AncientTerminal_Worshipful.label>seanchonsól</AncientTerminal_Worshipful.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
-  <AncientTerminal_Worshipful.description>Un ancien terminal informatique. Il peut être piraté pour révéler des informations oubliées depuis longtemps.</AncientTerminal_Worshipful.description>
+  <AncientTerminal_Worshipful.description>Seanchonsól faisnéise. Is féidir an consól seo a úsáid chun eolas ársa a fháil.</AncientTerminal_Worshipful.description>
   
 </LanguageData>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: archotech structure -->
-  <AbandonedArchotechStructures.label>structure archotech</AbandonedArchotechStructures.label>
+  <AbandonedArchotechStructures.label>struchtúr arca-neicseas</AbandonedArchotechStructures.label>
   <!-- EN: An archotech structure that you can study. -->
-  <AbandonedArchotechStructures.description>Une structure archotech que vous pouvez étudier.</AbandonedArchotechStructures.description>
+  <AbandonedArchotechStructures.description>Is féidir staidéar a dhéanamh ar an struchtúr arca-neicseas seo..</AbandonedArchotechStructures.description>
   
   <!-- EN: settlement -->
-  <Settlement_SecondArchonexusCycle.label>colonie</Settlement_SecondArchonexusCycle.label>
+  <Settlement_SecondArchonexusCycle.label>lonnaíocht</Settlement_SecondArchonexusCycle.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement_SecondArchonexusCycle.description>La base d'une des factions.</Settlement_SecondArchonexusCycle.description>
+  <Settlement_SecondArchonexusCycle.description>Lonnaíocht le ceann de na faicsin.</Settlement_SecondArchonexusCycle.description>
   
   <!-- EN: settlement -->
-  <Settlement_ThirdArchonexusCycle.label>colonie</Settlement_ThirdArchonexusCycle.label>
+  <Settlement_ThirdArchonexusCycle.label>lonnaíocht</Settlement_ThirdArchonexusCycle.label>
   <!-- EN: A base of one of the factions. -->
-  <Settlement_ThirdArchonexusCycle.description>La base d'une des factions.</Settlement_ThirdArchonexusCycle.description>
+  <Settlement_ThirdArchonexusCycle.description>Lonnaíocht le ceann de na faicsin.</Settlement_ThirdArchonexusCycle.description>
   
 </LanguageData>
