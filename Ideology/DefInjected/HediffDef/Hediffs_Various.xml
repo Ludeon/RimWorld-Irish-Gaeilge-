@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: Biosculpting sickness -->
-  <BiosculptingSickness.label>Maladie du biosculptage</BiosculptingSickness.label>
+  <BiosculptingSickness.label>tinneas bithdhealbhaithe</BiosculptingSickness.label>
   <!-- EN: The after-effects of an incomplete biosculpting cycle. It causes nausea, dizziness, and fuzzy thinking. -->
-  <BiosculptingSickness.description>Les séquelles d'un cycle de biosculptage incomplet. Provoque des nausées, des étourdissements et des pensées confuses.</BiosculptingSickness.description>
+  <BiosculptingSickness.description>Tá tinneas ar an duine seo toisc nár críochnaíodh thimthriall bithdhealbhaithe i gceart. Tá tinneas, meadhrán agus mearbhall ar an duine seo dá bharr.</BiosculptingSickness.description>
   
   <!-- EN: blindfolded -->
-  <Blindfold.label>yeux bandés</Blindfold.label>
+  <Blindfold.label>dallógtha</Blindfold.label>
   <!-- EN: A blindfold is blocking this person's vision. -->
-  <Blindfold.description>Un bandeau bloque la vision de cette personne.</Blindfold.description>
+  <Blindfold.description>Tá dallóg ar an duine seo agus ní féidir leis aon rud a fheiceáil.</Blindfold.description>
   
   <!-- EN: neural supercharge -->
-  <NeuralSupercharge.label>suralimentation neuronale</NeuralSupercharge.label>
+  <NeuralSupercharge.label>sárchumhacht néarach</NeuralSupercharge.label>
   <!-- EN: An externally-induced increase in sensitivity and synchronicity of neurons. This boosts consciousness and learning rate at the cost of increased hunger. -->
-  <NeuralSupercharge.description>Une augmentation induite de l'extérieur de la sensibilité et de la synchronicité des neurones. Cela stimule la conscience et le taux d'apprentissage au prix d'une faim accrue.</NeuralSupercharge.description>
+  <NeuralSupercharge.description>Tá feabhas tagtha ar íogaireacht agus sioncronacht na néaróg. Cuireann an méid sin leis an mothú agus leis an ráta foghlama, ach tiocfaidh ocras ar an duine seo ar ráta níos tapúla.</NeuralSupercharge.description>
   
   <!-- EN: torture crown -->
-  <TortureCrown.label>couronne de torture</TortureCrown.label>
+  <TortureCrown.label>coróin spíne</TortureCrown.label>
   <!-- EN: A crown-like headpiece with stubby spikes that poke the head uncomfortably. It is used to put the wearer in pain. -->
-  <TortureCrown.description>Une coiffe en forme de couronne avec des pointes courtes qui piquent la tête de manière inconfortable. Utilisé pour faire souffrir le porteur.</TortureCrown.description>
+  <TortureCrown.description>Coróin spíne, ar a bhfuil spící móra. Gortaíonn sé an té a chaitheann é.</TortureCrown.description>
   
   <!-- EN: work focus -->
-  <WorkFocus.label>Stimulation de travail</WorkFocus.label>
+  <WorkFocus.label>fócas oibre</WorkFocus.label>
   <!-- EN: This person was energized by a ritual or event they participated in. The energy means they can now work harder. -->
-  <WorkFocus.description>Cette personne a été stimulée par un rituel ou un événement auquel elle a participé. La stimulation signifie qu'elle peut maintenant travailler plus dur.</WorkFocus.description>
+  <WorkFocus.description>Tugadh misneach agus fuinneamh don duine seo tar éis do freastal ar dheasghnáth nó ócáid. Is féidir leis obair go crua anois mar gheall ar an bhfuinneamh breise sin.</WorkFocus.description>
   
 </LanguageData>

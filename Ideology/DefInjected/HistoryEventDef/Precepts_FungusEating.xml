@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: ate fungus -->
-  <AteFungus.label>a mangé un champignon</AteFungus.label>
+  <AteFungus.label>d'ith mé muisiriún</AteFungus.label>
   
   <!-- EN: ate meal with fungus -->
-  <AteFungusAsIngredient.label>a mangé un repas avec champignon</AteFungusAsIngredient.label>
+  <AteFungusAsIngredient.label>d'ith mé béile déanta as muisiriún</AteFungusAsIngredient.label>
   
   <!-- EN: ate non-fungus plant meal -->
-  <AteNonFungusMealWithPlants.label>a mangé un repas végétalien sans champignon</AteNonFungusMealWithPlants.label>
+  <AteNonFungusMealWithPlants.label>d'ith mé béile gan mhuisiriún</AteNonFungusMealWithPlants.label>
   
   <!-- EN: ate non-fungus crop -->
-  <AteNonFungusPlant.label>a mangé une plante sans champignon</AteNonFungusPlant.label>
+  <AteNonFungusPlant.label>d'ith mé planda seachas muisiriún</AteNonFungusPlant.label>
   
 </LanguageData>

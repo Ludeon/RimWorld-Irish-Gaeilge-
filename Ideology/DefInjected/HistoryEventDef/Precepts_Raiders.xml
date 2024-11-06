@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: raided someone -->
-  <PlayerRaidedSomeone.label>a pillé quelqu'un</PlayerRaidedSomeone.label>
+  <PlayerRaidedSomeone.label>rinne muid ionsai</PlayerRaidedSomeone.label>
   
   <!-- EN: raided -->
-  <Raided.label>a été pillé</Raided.label>
+  <Raided.label>rinne muid ionsaí</Raided.label>
   
   <!-- EN: raided bandit camp -->
-  <Raided_BanditCamp.label>a pillé un camp de bandits</Raided_BanditCamp.label>
+  <Raided_BanditCamp.label>d'ionsaigh muid meirleacha</Raided_BanditCamp.label>
   
   <!-- EN: raided work site -->
-  <Raided_WorkSite.label>a pillé un chantier</Raided_WorkSite.label>
+  <Raided_WorkSite.label>d'ionsaigh muid láthair oibre</Raided_WorkSite.label>
   
 </LanguageData>

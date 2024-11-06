@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: ate venerated animal meat -->
-  <AteVeneratedAnimalMeat.label>viande d'animal vénéré mangée</AteVeneratedAnimalMeat.label>
+  <AteVeneratedAnimalMeat.label>d'ith mé ainmhí naofa</AteVeneratedAnimalMeat.label>
   
   <!-- EN: hunted venerated animal -->
-  <HuntedVeneratedAnimal.label>animal vénéré chassé</HuntedVeneratedAnimal.label>
+  <HuntedVeneratedAnimal.label>sheilg mé ainmhí naofa</HuntedVeneratedAnimal.label>
   
   <!-- EN: slaughtered venerated animal -->
-  <SlaughteredVeneratedAnimal.label>animal vénéré abattu</SlaughteredVeneratedAnimal.label>
+  <SlaughteredVeneratedAnimal.label>mharaigh mé ainmhí naofa</SlaughteredVeneratedAnimal.label>
   
   <!-- EN: tame venerated animal died -->
-  <TameVeneratedAnimalDied.label>animal vénéré et apprivoisé mort</TameVeneratedAnimalDied.label>
+  <TameVeneratedAnimalDied.label>cailleadh ainmhí naofa</TameVeneratedAnimalDied.label>
   
 </LanguageData>

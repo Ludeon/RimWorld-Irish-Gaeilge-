@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: converted new member -->
-  <ConvertedNewMember.label>nouveau membre converti</ConvertedNewMember.label>
+  <ConvertedNewMember.label>iompaíodh ball nua</ConvertedNewMember.label>
   
   <!-- EN: relic obtained -->
-  <RelicHuntSuccess.label>relique obtenue</RelicHuntSuccess.label>
+  <RelicHuntSuccess.label>aimsíodh seaniarsma</RelicHuntSuccess.label>
   
   <!-- EN: pilgrims visited relic -->
-  <ReliquaryPilgrimsSuccess.label>des pèlerins ont visité la relique</ReliquaryPilgrimsSuccess.label>
+  <ReliquaryPilgrimsSuccess.label>thug oilithrigh cuairt ar sheaniarsma</ReliquaryPilgrimsSuccess.label>
   
 </LanguageData>

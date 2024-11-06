@@ -9,7 +9,7 @@
   <AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>D'éirigh le{INITIATOR_labelShort} {RECIPIENT_labelShort} a shuaimhniú.</AnimalCalm.comps.CompAbilityEffect_StopManhunter.successMessage>
   
   <!-- EN: berserk trance -->
-  <BerserkTrance.label>támh craiceáilte</BerserkTrance.label>
+  <BerserkTrance.label>támh fhoiréigneach</BerserkTrance.label>
   <!-- EN: The caster fills themself with anger over ideological grievances. This strengthens the body past normal limits, but also means losing control and attacking every enemy nearby in an unstoppable rage. The berserk state will last for 3 hours. -->
   <BerserkTrance.description>Tagann fearg dearg ar an úsáideoir. Ciallaíonn sé seo go dtiocfaidh láidreacht ar an gcorp a théann thar na teoireainneacha fisiciúla a bhí ann roimhe, ach ní bheidh smacht ag an úsáideoir air féin agus ionsóidh sé gach duine i gcuthach feirge. Mairfidh an támh craiceáilte ar feadh 3 uair an chloig.</BerserkTrance.description>
   
