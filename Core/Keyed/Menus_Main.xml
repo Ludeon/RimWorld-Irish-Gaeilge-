@@ -537,7 +537,7 @@
   <!-- EN: Please select a site. -->
   <MustSelectStartingSite>Ní mór suíomh a roghnú.</MustSelectStartingSite>
   <!-- EN: You cannot land on this biome: {0} -->
-  <CannotLandBiome>Ní féidir leandáil sa bhithóm se: {0}</CannotLandBiome>
+  <CannotLandBiome>Ní féidir leaindeáil sa bhithóm seo: {0}</CannotLandBiome>
   <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Bithóm díghníomhachtaithe</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->

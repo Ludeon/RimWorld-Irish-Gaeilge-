@@ -2,85 +2,85 @@
 <LanguageData>
   
   <!-- EN: cloth -->
-  <Cloth.label>TODO</Cloth.label>
+  <Cloth.label>éadach</Cloth.label>
   <!-- EN: Cloth woven from organic fibers. -->
-  <Cloth.description>TODO</Cloth.description>
+  <Cloth.description>Éadach déanta as snáithíní orgánacha.</Cloth.description>
   
   <!-- EN: devilstrand -->
-  <DevilstrandCloth.label>TODO</DevilstrandCloth.label>
+  <DevilstrandCloth.label>diabhalraithneach</DevilstrandCloth.label>
   <!-- EN: Fabric spun from microfibers extracted from devilstrand mushrooms. It is very tough, good at insulating, and protects exceptionally well against flame. -->
-  <DevilstrandCloth.description>TODO</DevilstrandCloth.description>
+  <DevilstrandCloth.description>Éadach déanta as snáithíní diabhalraithní. Tá sé an-láidir, agus tugann sé cosaint maith ón bhfuacht agus ó thine.</DevilstrandCloth.description>
   
   <!-- EN: gold -->
-  <Gold.label>TODO</Gold.label>
+  <Gold.label>ór</Gold.label>
   <!-- EN: The most seductive metal of them all. While it is too soft to be of much practical use, it is strikingly beautiful and never tarnishes. Millions have died in attempting to feed the endless human thirst for gold. -->
-  <Gold.description>TODO</Gold.description>
+  <Gold.description>An miotal is mó tóir atá ann. Tá sé róbhog le húsáid i gcomhair aon rud praiticiúil, ach tá sé an-luacmhar agus tá áilleacht speisialta ag baint leis an miotal seo.</Gold.description>
   
   <!-- EN: hyperweave -->
-  <Hyperweave.label>TODO</Hyperweave.label>
+  <Hyperweave.label>hiperéadach</Hyperweave.label>
   <!-- EN: Nano-fibers woven into sheets molecule-by-molecule using specialized production mechanites. While it flexes freely most of the time, it stiffens to absorb blows as they land, and is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures. -->
-  <Hyperweave.description>TODO</Hyperweave.description>
+  <Hyperweave.description>Nanai-éadach nua-aoiseach déanta as nana-snaithíní todhchaíocha. Tá sé an-bhog an chuid is mó den am, ach éiríonn sé righin chun buillí a ionsú isteach, rud a chiallaíonn go dtugann sé cosaint an-mhaith. Tá sé an-láidir agus deacair é a stroiceadh.</Hyperweave.description>
   
   <!-- EN: jade -->
-  <Jade.label>TODO</Jade.label>
+  <Jade.label>séad</Jade.label>
   <!-- EN: A hard, green stone. Because of its beauty and rarity, jade is often used for ornaments and decorations. Its hardness and density also makes it a good material for blunt weapons. -->
-  <Jade.description>TODO</Jade.description>
+  <Jade.description>Mianra crua, glas. Tá sé álainn agus neamhchomónta, agus is minic go n-úsáidtear é chun maisiúcháin a dhéanamh.</Jade.description>
   
   <!-- EN: plasteel -->
-  <Plasteel.label>TODO</Plasteel.label>
+  <Plasteel.label>plaisti-mhiotal</Plasteel.label>
   <!-- EN: Advanced spacer tech structural material. Plasteel is extremely strong due to its unique molecular structure. -->
-  <Plasteel.description>TODO</Plasteel.description>
+  <Plasteel.description>Ábhar struchtúrach nua-aoiseach. Tá struchtúr móilíneach ar leith ag plaisti-mhiotal, rud a chiallaíonn go bhfuil sé an-láidir.</Plasteel.description>
   
   <!-- EN: silver -->
-  <Silver.label>TODO</Silver.label>
+  <Silver.label>airgead</Silver.label>
   <!-- EN: This metal is mostly used as a commodity currency. It can also be used for making decorations. -->
-  <Silver.description>TODO</Silver.description>
+  <Silver.description>Úsáidtear an miotal seo mar airgeadra den chuid is mó, ach is féidir maisiúcháin a dhéanamh as freisin.</Silver.description>
   
   <!-- EN: steel -->
-  <Steel.label>TODO</Steel.label>
+  <Steel.label>cruach</Steel.label>
   <!-- EN: An iron-carbon metal alloy used for building a huge variety of structures, weapons, and machines. -->
-  <Steel.description>TODO</Steel.description>
+  <Steel.description>Úsáidtear an cóimhiotal chun go leor struchtúr, arm agus measíní a thógáíl.</Steel.description>
   
   <!-- EN: synthread -->
-  <Synthread.label>TODO</Synthread.label>
+  <Synthread.label>éadach sintéiseach</Synthread.label>
   <!-- EN: Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well. -->
-  <Synthread.description>TODO</Synthread.description>
+  <Synthread.description>Éadach déanta as snáithíní sintéiseacha. Tá sé bog, éadrom, láidir agus tugann sé cosaint mhaith ón bhfuacht.</Synthread.description>
   
   <!-- EN: uranium -->
-  <Uranium.label>TODO</Uranium.label>
+  <Uranium.label>úráiniam</Uranium.label>
   <!-- EN: A dark, heavy metal. While it is best known as a fuel for nuclear devices, its extreme density and hardness also make it good for making certain weapons, armor, and ammunition. -->
-  <Uranium.description>TODO</Uranium.description>
+  <Uranium.description>Miotal dlúth. Is féidir úráiniam a úsáid mar fhoinse breosla le haghaidh meaisíní núicléacha, ach is féidir airm, armúr agus piléir a dhéanamh as freisin.</Uranium.description>
   
   <!-- EN: wood -->
-  <WoodLog.label>TODO</WoodLog.label>
+  <WoodLog.label>adhmad</WoodLog.label>
   <!-- EN: Wood from trees or other fibrous plants. Useful for building structures and weapons. It is a good fuel for campfires and generators, and can be refined into chemfuel. In a pinch, a piece of wood can be used as a weapon or a leg. -->
-  <WoodLog.description>TODO</WoodLog.description>
+  <WoodLog.description>Is féidir struchtúir agus airm a dhéanamh as admhad. Is foinse maith breosla é freisin, agus is féidir ceimi-peitreal a dhéanamh as freisin. Is féidir píosa admhaid a úsáid chun tú féin a chosaint freisin, más gá.</WoodLog.description>
   <!-- EN: log -->
-  <WoodLog.tools.log.label>TODO</WoodLog.tools.log.label>
+  <WoodLog.tools.log.label>tamhan</WoodLog.tools.log.label>
   
   <!-- EN: alpaca wool -->
-  <WoolAlpaca.label>TODO</WoolAlpaca.label>
+  <WoolAlpaca.label>olann alpaca</WoolAlpaca.label>
   <!-- EN: The remarkably soft wool of an alpaca. It is warm, protects well from heat, and fetches a high price. -->
-  <WoolAlpaca.description>TODO</WoolAlpaca.description>
+  <WoolAlpaca.description>Tá an olann seo an-bhog, tugann sí cosaint an-mhaith ón bhfuacht, agus tá sí luacmhar.</WoolAlpaca.description>
   
   <!-- EN: bison wool -->
-  <WoolBison.label>TODO</WoolBison.label>
+  <WoolBison.label>olann bhíosúin</WoolBison.label>
   <!-- EN: Thick and coarse wool of a bison. Quite warm. -->
-  <WoolBison.description>TODO</WoolBison.description>
+  <WoolBison.description>Tá an olann seo tiubh agus garbh, agus tugann sí cosaint mhaith ón bhfuacht.</WoolBison.description>
   
   <!-- EN: megasloth wool -->
-  <WoolMegasloth.label>TODO</WoolMegasloth.label>
+  <WoolMegasloth.label>olann mheigea-spadáin</WoolMegasloth.label>
   <!-- EN: While somewhat coarse, megasloth wool's long fibers make it very strong. It is exceptionally warm. -->
-  <WoolMegasloth.description>TODO</WoolMegasloth.description>
+  <WoolMegasloth.description>Tá an olann seo sách garbh, ach tá sí an-láidir agus tugann sí cosaint iontach ón bhfuacht.</WoolMegasloth.description>
   
   <!-- EN: muffalo wool -->
-  <WoolMuffalo.label>TODO</WoolMuffalo.label>
+  <WoolMuffalo.label>olann mhubhaill</WoolMuffalo.label>
   <!-- EN: Soft, light and provides very good insulation. Muffalo wool clothes can keep the body warm even in very cold conditions. -->
-  <WoolMuffalo.description>TODO</WoolMuffalo.description>
+  <WoolMuffalo.description>Tá an olann seo bog agus éadrom, agus tugann sí cosaint iontach ón bhfuacht.</WoolMuffalo.description>
   
   <!-- EN: sheep wool -->
-  <WoolSheep.label>TODO</WoolSheep.label>
+  <WoolSheep.label>olann chaora</WoolSheep.label>
   <!-- EN: Sheep's wool. It provides good insulation. -->
-  <WoolSheep.description>TODO</WoolSheep.description>
+  <WoolSheep.description>Tugann an olann seo dea-chosaint ón bhfuacht.</WoolSheep.description>
   
 </LanguageData>

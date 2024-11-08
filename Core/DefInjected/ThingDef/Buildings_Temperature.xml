@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: campfire -->
-  <Campfire.label>TODO</Campfire.label>
+  <Campfire.label>campa tine</Campfire.label>
   <!-- EN: Cooks meals and produces heat, and burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable. -->
-  <Campfire.description>TODO</Campfire.description>
+  <Campfire.description>Gineann an tine seo teas, agus is féidir béilí a chócaráil air. Mairfidh sé cúpla lá, agus is féidir breosla a chur leis.</Campfire.description>
   
   <!-- EN: cooler -->
-  <Cooler.label>TODO</Cooler.label>
+  <Cooler.label>fuaraitheoir</Cooler.label>
   <!-- EN: An air-cooling machine that fits into a wall. Cool air comes out one side, while hot exhaust comes out the other. Can be used to cool down rooms during summer, or to create a walk-in freezer. -->
-  <Cooler.description>TODO</Cooler.description>
+  <Cooler.description>Téann an fuaraitheoir seo i mballa, agus cuireann sé aer fuar isteach ar thaobh amháin agus cuirtear aer te amach an taobh eile. Is féidir iad a úsáid chun seomraí a fhuarú le linn an tsamhraidh, nó chun reoiteoir siúil isteach a chruthú.</Cooler.description>
   
   <!-- EN: heater -->
-  <Heater.label>TODO</Heater.label>
+  <Heater.label>téitheoir</Heater.label>
   <!-- EN: A device that converts electricity into heat. It can automatically turn itself on or off to reach a specific target temperature. -->
-  <Heater.description>TODO</Heater.description>
+  <Heater.description>Is féidir teas a chruthú as leictreachas leis an téitheoir seo. Is féidir spriochteocht a shocrú.</Heater.description>
   
   <!-- EN: passive cooler -->
-  <PassiveCooler.label>TODO</PassiveCooler.label>
+  <PassiveCooler.label>fuaraitheoir neamhchumhachtaithe</PassiveCooler.label>
   <!-- EN: A traditional unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Not efficient enough to refrigerate food. -->
-  <PassiveCooler.description>TODO</PassiveCooler.description>
+  <PassiveCooler.description>Oibríonn an fuaraitheoir neamhchumhachtaithe seo trí ghalú. Ní mór breosla a chur leis, agus níl sé éifeachtach go leor chun bia a fhuarú.</PassiveCooler.description>
   
   <!-- EN: vent -->
-  <Vent.label>TODO</Vent.label>
+  <Vent.label>gaothaire</Vent.label>
   <!-- EN: A vent for equalizing the temperature between two rooms without allowing people to walk between them. -->
-  <Vent.description>TODO</Vent.description>
+  <Vent.description>Is féidir gaothairí a úsáid chun an teocht idir dhá sheomra a chothromú.</Vent.description>
   
 </LanguageData>

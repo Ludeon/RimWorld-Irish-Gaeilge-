@@ -22,33 +22,33 @@
   <GameOfUrBoard.description>Imríodh an cluiche boird seo fadó fadó, agus is féidir le duine aonair nó beirt a imirt. Cuireann sé le scileanna taighde.</GameOfUrBoard.description>
   
   <!-- EN: hoopstone ring -->
-  <HoopstoneRing.label>TODO</HoopstoneRing.label>
+  <HoopstoneRing.label>cluiche na bhfáinní</HoopstoneRing.label>
   <!-- EN: A simple ancient game played with stones and a large ring in the ground. Players try to toss stones through the ring from a distance. It's relaxing, and trains shooting skills. -->
-  <HoopstoneRing.description>TODO</HoopstoneRing.description>
+  <HoopstoneRing.description>Seanchluiche a imrítear le clocha agus fáinne ar an talamh, ina ndéanann na himreoirí iarracht na clocha a chaitheamh isteach san fháinne. Tá sé taitneamhach, agus feabhsaíonn sé scileanna lámhaigh na n-imreoirí.</HoopstoneRing.description>
   
   <!-- EN: horseshoes pin -->
-  <HorseshoesPin.label>TODO</HorseshoesPin.label>
+  <HorseshoesPin.label>cluiche na gcrúite capaill</HorseshoesPin.label>
   <!-- EN: A simple ancient game played with a horseshoes and a large pin in the ground. Players toss horseshoes to try to get them to land on the pin. It's relaxing, and trains shooting skills. -->
-  <HorseshoesPin.description>TODO</HorseshoesPin.description>
+  <HorseshoesPin.description>Seanchluiche a imrítear le crúite capaill agus posta sa talamh, ina ndéanann na himreoirí iarracht crúite capaill a chaitheamh timpeall ar an bposta. Tá sé taitneamhach, agus feabhsaíonn sé scileanna lámhaigh na n-imreoirí.</HorseshoesPin.description>
   
   <!-- EN: megascreen television -->
-  <MegascreenTelevision.label>TODO</MegascreenTelevision.label>
+  <MegascreenTelevision.label>teilifís mórscáileáin</MegascreenTelevision.label>
   <!-- EN: A huge, high-tech television. Gigantic, hyper-vibrant images almost leap out of the screen. Very entertaining. Picks up transmissions from ancient satellites and ubiquitous data cards. -->
-  <MegascreenTelevision.description>TODO</MegascreenTelevision.description>
+  <MegascreenTelevision.description>Teilifís nua-aimseartha ollmhór. Léimeanna na híomhanna amach ón scáileán, agus piocann sé suas comharthaí ón bpláinéad iomlán agus ón spás.</MegascreenTelevision.description>
   
   <!-- EN: poker table -->
-  <PokerTable.label>TODO</PokerTable.label>
+  <PokerTable.label>bord pócair</PokerTable.label>
   <!-- EN: A table designed for playing gambling card games like poker. A great way to test your strategic skills and a bit of luck.\n\nThis building requires adjacent chairs or stools to use. -->
-  <PokerTable.description>TODO</PokerTable.description>
+  <PokerTable.description>Is féidir pócair agus cluichí eile a imirt ag an mbord seo. Bíonn scileanna stráitéiseacha agus beagán ádh i gceist leis na cluichí seo.\n\nTá cathaoireacha de dhíth chun an bord seo a úsáid.</PokerTable.description>
   
   <!-- EN: telescope -->
-  <Telescope.label>TODO</Telescope.label>
+  <Telescope.label>teileascóp</Telescope.label>
   <!-- EN: A telescope for doing amateur astronomy. It's a relaxing hobby for a certain kind of person. Can only be used outdoors. -->
-  <Telescope.description>TODO</Telescope.description>
+  <Telescope.description>Is féidir le coilínigh bheith ina réalteolaithe amaitéireacha leis an teileascóp seo. Caithfear an teileascóp a chur lasmuigh.</Telescope.description>
   
   <!-- EN: tube television -->
-  <TubeTelevision.label>TODO</TubeTelevision.label>
+  <TubeTelevision.label>feadán teilifíseáin</TubeTelevision.label>
   <!-- EN: A cathode ray tube display for showing moving pictures with sound. Even on the rimworlds, there is often an old transmitter running something at least marginally interesting. -->
-  <TubeTelevision.description>TODO</TubeTelevision.description>
+  <TubeTelevision.description>Teilifís gha-chatóideach, a thaispeánann íomhánna simplí. Fiú ar an bpláinéad iargúlta seo, is minic go mbíonn rud éigin spéisiúil á chraoladh ar na haerthonnta.</TubeTelevision.description>
   
 </LanguageData>

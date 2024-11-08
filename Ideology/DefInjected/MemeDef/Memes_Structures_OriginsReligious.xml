@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Buddhist origin -->
-  <Structure_OriginBuddhist.label>origine bouddhiste</Structure_OriginBuddhist.label>
+  <Structure_OriginBuddhist.label>bunús Búdaíoch</Structure_OriginBuddhist.label>
   <!-- EN: This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginBuddhist.description>Cette idéoligion est une descendante du bouddhisme antique. Elle peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</Structure_OriginBuddhist.description>
+  <Structure_OriginBuddhist.description>Tagann an idé-eolaíocht seo ón mBúdachas ársa. Tá athrú tagtha ar na smaointe féin leis na mílte bliain anuas, ach tá na siombailí céanna fós in úsáid ag adhraitheoirí an lae inniu.</Structure_OriginBuddhist.description>
   <!-- EN:
     <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
     <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
@@ -105,9 +105,9 @@
   <Structure_OriginBuddhist.worshipRoomLabel>pagode</Structure_OriginBuddhist.worshipRoomLabel>
   
   <!-- EN: Christian origin -->
-  <Structure_OriginChristian.label>origine chrétienne</Structure_OriginChristian.label>
+  <Structure_OriginChristian.label>bunús Críostaíoch</Structure_OriginChristian.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginChristian.description>C'est une variante de la structure théiste abstraite. Cette idéoligion est une descendante du christianisme antique. Il peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</Structure_OriginChristian.description>
+  <Structure_OriginChristian.description>Tagann an idé-eolaíocht seo ón gCríostaíocht ársa. Tá athrú tagtha ar na smaointe féin leis na mílte bliain anuas, ach tá na siombailí céanna fós in úsáid ag adhraitheoirí an lae inniu.</Structure_OriginChristian.description>
   <!-- EN:
     <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
     <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>
@@ -244,9 +244,9 @@
   <Structure_OriginChristian.worshipRoomLabel>église</Structure_OriginChristian.worshipRoomLabel>
   
   <!-- EN: Hindu origin -->
-  <Structure_OriginHindu.label>origine hindoue</Structure_OriginHindu.label>
+  <Structure_OriginHindu.label>bunús Hiondúch</Structure_OriginHindu.label>
   <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginHindu.description>Il s'agit d'une variante de la structure théiste incarnée. Cette idéoligion est une descendante de l'hindouisme antique. Elle peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</Structure_OriginHindu.description>
+  <Structure_OriginHindu.description>Tagann an idé-eolaíocht seo ón Hiondúchas ársa. Tá athrú tagtha ar na smaointe féin leis na mílte bliain anuas, ach tá na siombailí céanna fós in úsáid ag adhraitheoirí an lae inniu.</Structure_OriginHindu.description>
   <!-- EN: God of Creation -->
   <Structure_OriginHindu.fixedDeityNameTypes.0.type>Dieu de la création</Structure_OriginHindu.fixedDeityNameTypes.0.type>
   <!-- EN: God of Preservation -->
@@ -439,9 +439,9 @@
   <Structure_OriginHindu.worshipRoomLabel>mandir</Structure_OriginHindu.worshipRoomLabel>
   
   <!-- EN: Islamic origin -->
-  <Structure_OriginIslamic.label>origine islamique</Structure_OriginIslamic.label>
+  <Structure_OriginIslamic.label>bunús Ioslamach</Structure_OriginIslamic.label>
   <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
-  <Structure_OriginIslamic.description>C'est une variante de la structure théiste abstraite. Cette idéoligion est une descendante de l'Islam ancien. Elle peut avoir des préceptes très différents de ceux d'il y a des milliers d'années, mais ses symboles sont similaires.</Structure_OriginIslamic.description>
+  <Structure_OriginIslamic.description>Tagann an idé-eolaíocht seo ón Ioslam ársa. Tá athrú tagtha ar na smaointe féin leis na mílte bliain anuas, ach tá na siombailí céanna fós in úsáid ag adhraitheoirí an lae inniu.</Structure_OriginIslamic.description>
   <!-- EN:
     <li>r_ideoName(p=99)->[globalAdjective] [packIdeoName]</li>
     <li>r_ideoName(p=99)->[memeAdjective] [packIdeoName]</li>

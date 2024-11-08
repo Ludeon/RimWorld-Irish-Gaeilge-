@@ -24,7 +24,7 @@
   <!-- EN: Modify -->
   <Modify>Athraigh</Modify>
   <!-- EN: Settle here anyways? -->
-  <ConfirmSettle>Ar mhaith leat cuir fút anseo ar aon nós?</ConfirmSettle>
+  <ConfirmSettle>Ar mhaith leat do choilíneach a bhunú anseo ar aon nós?</ConfirmSettle>
   <!-- EN: add -->
   <Add>cuir leis</Add>
   <!-- EN: Cannot shoot -->
@@ -1143,7 +1143,7 @@
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
-  <ConfirmSettleNearFactionBase>Dieser Standort befindet sich in der Nähe einer Fraktionsbasis, die im Umkreis von {0} Feldern keine neuen Siedlungen duldet. Wenn du hier siedelst, verschlechtert sich dein Ruf bei dieser Fraktion alle {1} Tage, weil sie das Gefühl haben, dass du in ihr Land eindringst.</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Tá an tíl seo lonnaithe in aice le lonnaíocht de chuid faicsean eile, agus ní bheidh siad sásta go bhfuil tú cur isteach ar a dtalamh. Rachaidh do chaidreamh leis an bhfaicsean eile in olcas gach {1} lá mar thoradh.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->

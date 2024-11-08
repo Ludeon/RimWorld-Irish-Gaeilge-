@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: inhuman -->
-  <Inhuman.label>TODO</Inhuman.label>
+  <Inhuman.label>Neamhdhaonnach</Inhuman.label>
   <!-- EN: Humanity is a barrier to our connection with the machine god and its pleasurable rewards. -->
-  <Inhuman.description>TODO</Inhuman.description>
+  <Inhuman.description>Is ionann ár ndaonnacht agus bacainn a chuireann isteach ar an bhfírinne.</Inhuman.description>
   <!-- EN:
     <li>memeAdjective->inhuman</li>
     <li>memeAdjective->unhuman</li>
@@ -19,9 +19,9 @@
   <Inhuman.generalRules.rulesStrings>TODO</Inhuman.generalRules.rulesStrings>
   
   <!-- EN: ritualist -->
-  <Ritualist.label>TODO</Ritualist.label>
+  <Ritualist.label>deasghnáthaíoch</Ritualist.label>
   <!-- EN: There is a greater energy in the universe. Through ritual we can understand it and harness its power. -->
-  <Ritualist.description>TODO</Ritualist.description>
+  <Ritualist.description>Táimid timpeallaithe le hardchumhacht, agus is féidir linn é a thuiscint agus úsáid a bhaint as ach úsáid a bhaint as deasghnátha.</Ritualist.description>
   <!-- EN:
     <li>memeAdjective->ritual</li>
     <li>memeConcept->ritual</li>

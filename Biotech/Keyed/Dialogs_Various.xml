@@ -267,7 +267,7 @@
 
   <!-- Pollution -->
   <!-- EN: This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy. -->
-  <ConfirmSettleNearPollution>This tile is near polluted tiles, so there will be an acidic smog here roughly every {0} days. Acidic smog slows plant growth, deteriorates exposed items, and makes people unhappy.</ConfirmSettleNearPollution>
+  <ConfirmSettleNearPollution>Tá an tíl seo taobh le tíleanna truaillithe, rud a chiallaíonn go mbeidh ceo aigéadach sa cheantar seo gach {0} lá. Tá ceo aigdéadach díobhálach don tsláinte.</ConfirmSettleNearPollution>
 
   <!-- Pregnancy -->
   <!-- EN: {PAWN_nameDef} is away. -->

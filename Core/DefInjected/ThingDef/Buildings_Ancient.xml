@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: ancient concrete barrier -->
-  <AncientConcreteBarrier.label>TODO</AncientConcreteBarrier.label>
+  <AncientConcreteBarrier.label>bacainn ársa</AncientConcreteBarrier.label>
   <!-- EN: A traffic management solution from long ago. -->
-  <AncientConcreteBarrier.description>TODO</AncientConcreteBarrier.description>
+  <AncientConcreteBarrier.description>Bacainn tráchta ársa.</AncientConcreteBarrier.description>
   
   <!-- EN: ancient lamppost -->
-  <AncientLamppost.label>TODO</AncientLamppost.label>
+  <AncientLamppost.label>cuaille solais ársa</AncientLamppost.label>
   <!-- EN: Road lighting from long ago. No longer functional. -->
-  <AncientLamppost.description>TODO</AncientLamppost.description>
+  <AncientLamppost.description>Cuaille solais ársa. Ní fheidmíonn sé a thuilleadh.</AncientLamppost.description>
   
   <!-- EN: urn -->
-  <Urn.label>TODO</Urn.label>
+  <Urn.label>síothal</Urn.label>
   <!-- EN: An ancient-style decorative container. -->
-  <Urn.description>TODO</Urn.description>
+  <Urn.description>Soitheach ársa.</Urn.description>
   
 </LanguageData>

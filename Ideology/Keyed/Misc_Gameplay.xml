@@ -24,9 +24,9 @@
   <!-- EN: What should your starting colonists believe? These beliefs affect gameplay and visuals. You'll be able to recruit others to your beliefs, or take on their beliefs. -->
   <ChooseYourIdeoligionDesc>Céard iad na rudaí a chreideann do choilínigh? Beidh éifeacht ag na cinntí seo ar an gcluiche. Beidh tú in ann daoine eile a thiontú chuig do chreideamh, nó a rud a chreideann siadsan a ghlacadh.</ChooseYourIdeoligionDesc>
   <!-- EN: Create custom -->
-  <CreateCustom>Créer une personnalisée</CreateCustom>
+  <CreateCustom>Cruthaigh idé-eolaíocht</CreateCustom>
   <!-- EN: Delete custom -->
-  <DeleteCustom>Supprimer la personnalisée</DeleteCustom>
+  <DeleteCustom>Scrios idé-eolaíocht</DeleteCustom>
   <!-- EN: Create new -->
   <CreateNew>Créer une nouvelle</CreateNew>
   <!-- EN: Create fluid -->
@@ -44,13 +44,13 @@
   <!-- EN: Select an ideoligion for your faction on the left, or -->
   <SelectAnIdeo>Choisissez une idéoligion pour votre faction à gauche, ou</SelectAnIdeo>
   <!-- EN: ideoligion -->
-  <Ideo>idéoligion</Ideo> 
+  <Ideo>idé-eolaóocht</Ideo> 
   <!-- EN: Randomize all -->
   <RandomizeAll>Aléatoire</RandomizeAll>
   <!-- EN: Appearance -->
   <Appearance>Apparence</Appearance>
   <!-- EN: Done -->
-  <DoneButton>Valider</DoneButton>
+  <DoneButton>Ar aghaidh</DoneButton>
   <!-- EN: Caused by -->
   <CausedBy>Causé par</CausedBy>
   <!-- EN: Belief in -->

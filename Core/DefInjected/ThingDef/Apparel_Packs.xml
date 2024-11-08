@@ -13,14 +13,14 @@
   <Apparel_FirefoampopPack.verbs.pop_firefoam.label>úsáid cúr múctha tine</Apparel_FirefoampopPack.verbs.pop_firefoam.label>
   
   <!-- EN: smokepop pack -->
-  <Apparel_SmokepopBelt.label>TODO</Apparel_SmokepopBelt.label>
+  <Apparel_SmokepopBelt.label>brat deataigh</Apparel_SmokepopBelt.label>
   <!-- EN: A defensive smokescreen. When activated, it will release a cloud of smoke, obscuring incoming shots and preventing turrets from locking on. -->
-  <Apparel_SmokepopBelt.description>TODO</Apparel_SmokepopBelt.description>
+  <Apparel_SmokepopBelt.description>Brat deataigh cosanta. Nuair a úsáidtear é, cruthófar scamall deataigh timpeall ar an úsáideoir, agus ní bheidh sé le feiceáil agus naimhde nó ag túiríní.</Apparel_SmokepopBelt.description>
   <!-- EN: smokepop -->
-  <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>TODO</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>brat deataigh</Apparel_SmokepopBelt.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>TODO</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
+  <Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>ag fanacht</Apparel_SmokepopBelt.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: pop smoke -->
-  <Apparel_SmokepopBelt.verbs.pop_smoke.label>TODO</Apparel_SmokepopBelt.verbs.pop_smoke.label>
+  <Apparel_SmokepopBelt.verbs.pop_smoke.label>úsáid deatach</Apparel_SmokepopBelt.verbs.pop_smoke.label>
   
 </LanguageData>
