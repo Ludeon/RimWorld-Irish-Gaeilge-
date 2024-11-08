@@ -4,7 +4,7 @@
   <!-- EN: dark vision -->
   <DarkVision.label>radharc oíche</DarkVision.label>
   <!-- EN: Carriers of this gene see well in low light and are unaffected by mood penalties related to darkness. They have a reflective layer behind the retina that amplifies their ability to see in the dark. -->
-  <DarkVision.description>Bíonn radharc oíche ag iompróirí na géine seo agus bíonn sí in ann rudaí a fheiceáil sa bhreacsholas. Tá cealla speisialta acu taobh thiar den reitine a ligeann dóibh rudaí a fheiceáil sa dhorchadas.</DarkVision.description>
+  <DarkVision.description>Bíonn radharc oíche ag iompróirí na géine seo agus bíonn siad in ann rudaí a fheiceáil sa bhreacsholas. Tá cealla speisialta acu taobh thiar den reitine a ligeann dóibh rudaí a fheiceáil sa dhorchadas.</DarkVision.description>
   <!-- EN: dark -->
   <DarkVision.symbolPack.prefixSymbols.0.symbol>Dunkel</DarkVision.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: night -->

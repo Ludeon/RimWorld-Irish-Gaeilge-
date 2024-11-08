@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: unisex beards -->
-  <Beard_Always.label>feasóga fear agus ban</Beard_Always.label>
+  <Beard_Always.label>feasógach</Beard_Always.label>
   <!-- EN: Carriers of this gene always have thick facial hair, even women. -->
-  <Beard_Always.description>Bíonn féasóga ar iompróirí na géine seo, is cuma cén inscne atá orthu.</Beard_Always.description>
+  <Beard_Always.description>Bíonn féasóga ar iompróirí na géine seo i gcónaí, is cuma cén inscne atá orthu.</Beard_Always.description>
   <!-- EN: bearded -->
   <Beard_Always.labelShortAdj>bärtig</Beard_Always.labelShortAdj>
   
@@ -76,7 +76,7 @@
   <Furskin.labelShortAdj>clúmhach</Furskin.labelShortAdj>
   
   <!-- EN: no hair -->
-  <Hair_BaldOnly.label>gan ghruaig</Hair_BaldOnly.label>
+  <Hair_BaldOnly.label>maol</Hair_BaldOnly.label>
   <!-- EN: Carriers of this gene grow no hair on the head. -->
   <Hair_BaldOnly.description>Ní bhíonn aon ghruaig ar a gcinn ag iompróirí na géine seo.</Hair_BaldOnly.description>
   <!-- EN: bald -->
@@ -99,11 +99,11 @@
   <Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>maol</Hair_BaldOnly.symbolPack.suffixSymbols.2.symbol>
   
   <!-- EN: grayless hair -->
-  <Hair_Grayless.label>gan ghruaig liath</Hair_Grayless.label>
+  <Hair_Grayless.label>gruaig dhaite</Hair_Grayless.label>
   <!-- EN: Carriers of this gene keep their natural hair color as they age. -->
-  <Hair_Grayless.description>Ní thagann gruaig liath ar iompróirí na géine seo mar a éiríonn siad níos sine.</Hair_Grayless.description>
+  <Hair_Grayless.description>Ní thagann gruaig liath ar iompróirí na géine seo mar a théann siad in aois.</Hair_Grayless.description>
   <!-- EN: No age-related gray hair. -->
-  <Hair_Grayless.customEffectDescriptions.0>frithsheashmach do ghruaig liath mar gheall ar aosú.</Hair_Grayless.customEffectDescriptions.0>
+  <Hair_Grayless.customEffectDescriptions.0>frithsheashmach do ghruaig liath.</Hair_Grayless.customEffectDescriptions.0>
   
   <!-- EN: long-haired -->
   <Hair_LongOnly.label>gruaig fhada</Hair_LongOnly.label>
@@ -164,9 +164,9 @@
   <Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>dearg</Skin_DeepRed.symbolPack.prefixSymbols.4.symbol>
   
   <!-- EN: deep yellow skin -->
-  <Skin_DeepYellow.label>craiceann buídhonn</Skin_DeepYellow.label>
+  <Skin_DeepYellow.label>craiceann buí</Skin_DeepYellow.label>
   <!-- EN: Carriers of this gene produce a pigment that gives their skin a deep yellow color. -->
-  <Skin_DeepYellow.description>Bíonn craiceann buídhonn ar iompróirí na géine seo.</Skin_DeepYellow.description>
+  <Skin_DeepYellow.description>Bíonn craiceann buí ar iompróirí na géine seo.</Skin_DeepYellow.description>
   <!-- EN: yellow -->
   <Skin_DeepYellow.labelShortAdj>buí</Skin_DeepYellow.labelShortAdj>
   <!-- EN: yellow -->
@@ -254,9 +254,9 @@
   <Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>Rosa</Skin_PaleRed.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: pale yellow skin -->
-  <Skin_PaleYellow.label>craiceann bánbhuí</Skin_PaleYellow.label>
+  <Skin_PaleYellow.label>craiceann buíbhán</Skin_PaleYellow.label>
   <!-- EN: Carriers of this gene produce a pigment that turns their skin a grayish yellow color. -->
-  <Skin_PaleYellow.description>Bíonn craiceann bánbhuí ar iompróirí na géine seo.</Skin_PaleYellow.description>
+  <Skin_PaleYellow.description>Bíonn craiceann buíbhán ar iompróirí na géine seo.</Skin_PaleYellow.description>
   <!-- EN: cream -->
   <Skin_PaleYellow.labelShortAdj>cremefarben</Skin_PaleYellow.labelShortAdj>
   <!-- EN: yellow -->
