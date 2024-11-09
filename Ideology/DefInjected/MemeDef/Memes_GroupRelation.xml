@@ -137,25 +137,25 @@
     <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] that one will be born who lives their whole life true to their people. In death their spirit will explode in light, destroying all surrenderers and warmongers.</li>
   -->
   <Loyalist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Loyalist)        -> Thug [deity0_name] misneach dóibh siúd nach raibh aon chúis acu.</li>
-    <li>episode(uses=1,tag=meme_Loyalist)  ->Cuireadh tús le cogadh le lucht na ndíchreidmheach ansin. Thug creidmheach amháin, [believer_nameFull], cuireadh do na págánaigh chuig talún [deity0_name], agus chuir an fealladh sin fearg fíochmhar ar [deity0_name]. Bhuail [deity0_name] [believer_objective] míle uair.</li>
+    <li>creation(tag=meme_Loyalist)        -> Thug [deity0_name] misneach dóibh siúd nach raibh aon chúis acu ar an domhan seo.</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  ->Cuireadh tús le cogadh le lucht na ndíchreidmheach ansin. Thug creidmheach amháin, [believer_nameFull], cuireadh do na págánaigh isteach i dtalún naofa [deity0_name], agus chuir an fealladh sin fearg fíochmhar ar [deity0_name]. Bhuail [deity0_name] [believer_objective] míle uair.</li>
     <!-- NOTE: besoin de altarRoom_gender -->
-    <li>intro(tag=meme_Loyalist)           ->Une communauté [memeAdjective] sur le [place_summary] [place_name] adorait [deity0_name] dans son/sa [altarRoomLabel], et étaient inébranlables dans leur foi.</li>
-    <li>conflict(tag=meme_Loyalist)        ->Un [foeLeader] plaça des [foeSoldiers] comme espions au sein des [memberNamePlural] pour les diviser.</li>
-    <li>founderJoin(tag=meme_Loyalist)     ->[founderName], un [place_job] [memeAdjective], fut torturé par les [foeSoldiers], mais refusa de jurer fidélité au [foeLeader].</li>
-    <li>victory(tag=meme_Loyalist)         ->Avec la force de [deity0_name], [founderName] et les [memberNamePlural] ne purent être divisés. Ils vainquirent les [foeSoldiers] avec des [place_personalWeapon] et bannirent le [foeLeader] de [place_name].</li>
-    <li>setup(tag=meme_Loyalist)           ->Au début, le mouvement de [founderName] fut réprimé par les gouvernements et les religions. [founder_pronoun] ne laissa jamais la colère la pousser à commettre les atrocités que d'autres ont commises, mais [founder_pronoun] ne recula jamais devant un combat.</li>
-    <li>story(uses=1,tag=meme_Loyalist)    ->[founderName] punit ceux qui essayèrent de nuire aux incroyants, ainsi que ceux qui les invitèrent dans la maison des croyants.</li>
-    <li>lessonIntro(tag=meme_Loyalist)         ->J'ai vu un [foeLeader] courtiser les faveurs de ses rivaux tout en laissant ses [foeSoldiers] mourir sur le champ de bataille. J'ai alors juré de ne jamais être comme [foeLeader_objective], sachant que</li>
-    <li>lesson(tag=meme_Loyalist)              ->ton amour pour ton ami n'a de sens que parce que tu n'aimes pas ton ennemi</li>
-    <li>lesson(tag=meme_Loyalist)              ->aimer tout, c'est n'aimer personne</li>
-    <li>lessonReinforcement(tag=meme_Loyalist) ->Ne partagez ces vérités qu'avec ceux qui prouvent leur allégeance par le sacrifice.</li>
-    <li>archistBasis(tag=meme_Loyalist)    ->La demande des archotechs est simple : suivre leur chemin désigné, et aucun autre.</li>
-    <li>archistFact(tag=meme_Loyalist)     ->Les archotechs touchent chaque conscience humaine directement et régulièrement, ne transmettant la sagesse qu'à ceux qui recherchent la connaissance des archotechs.</li>
-    <li>archistProphecy(tag=meme_Loyalist) ->[inTheEnd], les archotech jugeront la loyauté de l'humanité. Ceux qui n'ont pas minaudé ou se sont vantés seront élevés à une transcendance.</li>
-    <li>animistBasis(tag=meme_Loyalist)    ->Il y a trois caractères de tribus : la tribu des fauteurs de guerre et des meurtriers, la tribu des capitulards et des pleurnichards, et la tribu noble des forts et des loyaux.</li>
-    <li>animistFact(tag=meme_Loyalist)     ->Les esprits combattent à la fois ceux qui trahissent leur peuple et ceux qui trahissent les amis de leur peuple. Les traîtres trébucheront sur chaque rocher, s'étoufferont avec chaque graine et goûteront toujours de l'eau sale.</li>
-    <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] que naîtra celui qui vit toute sa vie fidèle à son peuple. Dans la mort, son esprit explosera de lumière, détruisant tous les adeptes de la reddition, les capitulards et les fauteurs de guerre.</li>
+    <li>intro(tag=meme_Loyalist)           ->Tháinig pobal [memeAdjective] le chéile ag [place_summary] [place_name] in ainm [deity0_name], sa [altarRoomLabel], agus bhí siad láidir ina gcreidimh.</li>
+    <li>conflict(tag=meme_Loyalist)        ->Sheol [foeLeader] [foeSoldiers] chuig na [memberNamePlural] agus rinne sé iarracht teacht eatarthu.</li>
+    <li>founderJoin(tag=meme_Loyalist)     ->Rinne na [foeSoldiers][founderName] a chéasadh, ach níor ghéill [founderName] riamh le [foeLeader].</li>
+    <li>victory(tag=meme_Loyalist)         ->De bharr láidreacht [deity0_name], ní rabhthas in ann [founderName] agus na [memberNamePlural] a bhuaileadh. Fuair siad an lámh in uachtar ar  na [foeSoldiers] ag baint úsáid as [place_personalWeapon] agus ruaig siad [foeLeader] amnach as [place_name].</li>
+    <li>setup(tag=meme_Loyalist)           ->Ar dtús, chuir rialtais agus creidimh eile bac ar ghluaiseacht [founderName]. Níor ghéill [founder_pronoun] riamh leis an bhfearg agus leis an bhforéigean mar a rinne gluaiseachtaí eile, ach níor thug [founder_pronoun] cúl ar throid riamh ach oiread.</li>
+    <li>story(uses=1,tag=meme_Loyalist)    ->Ghearr [founderName] píonós orthu siúd a rinne iarracht dochar a dhéanamh do na díchreidmhigh, agus orthu siúd a thug cuireadh do na díchreidmhigh isteach i dteach [founderName].</li>
+    <li>lessonIntro(tag=meme_Loyalist)         ->Lá amháin, chonaic mé [foeLeader] ag teitheadh agus a s[foeLeader_possessive]aighdiúirí fágtha ina d[foeLeader_possessive]iaidh ar an láthair catha. Gheall mé nach mbeadh mé cosúil le [foeLeader] riamh nuair a thug mé,</li>
+    <li>lesson(tag=meme_Loyalist)              ->an té a bhíonn amuigh fuarann a chuid</li>
+    <li>lesson(tag=meme_Loyalist)              ->an té a bhíonn thíos buailtear cos air</li>
+    <li>lessonReinforcement(tag=meme_Loyalist) ->Ná roinn an fhírinne sin ach leo siúd a bhfuil a dtiomantas cruthaithe acu le híobairtí.</li>
+    <li>archistBasis(tag=meme_Loyalist)    ->Tá bealach na n-arcai-theicneoirí simplí: lean a n-aitheanta, agus ná lean aon aitheanta eile</li>
+    <li>archistFact(tag=meme_Loyalist)     ->Déanann na haircea-theicneoirí teagmháil rialta le gach spiorad, agus roinneann siad a gcuid bealaí linn.</li>
+    <li>archistProphecy(tag=meme_Loyalist) ->[inTheEnd], déanfaidh na harcai-theicneoirí breithiúnas ar an gcine daonna, agus bronnfar grá síoraí ar an té a leanann a gcuid mianta.</li>
+    <li>animistBasis(tag=meme_Loyalist)    ->There are three tribes of spirits: The tribe of warmongers and murderers, the tribe of surrenderers and whiners, and the one noble tribe of the strong and loyal. Tá trí ghrúpa spiorad ann: iad siúd a mharaíonn, iad siúd atá lag, agus iad siúd atá láidir agus dílis.</li>
+    <li>animistFact(tag=meme_Loyalist)     ->Troideann na spioraid i gcoinne na daoine sin a thréigeann a gcairde agus a ndaoine, agus cinntíonn na spioraid chéanna go mbeidh drochrath ar na daoine sin i gcónaí.</li>
+    <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] go rugfar duine a nochtfaidh an fhírinne dá dhaoine, agus go mbeidh deireadh go deo ansin le gach fealltóir agus le gach gríosóir cogaidh.</li>
   </Loyalist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->loyal</li>
@@ -166,21 +166,21 @@
     <li>memeMoralist->loyalizer</li>
   -->
   <Loyalist.generalRules.rulesStrings>
-    <li>memeAdjective->na ndílsitheoirí</li>
-    <li>memeAdjective->an tírghrá</li>
-    <li>memeAdjective->an ómóis</li>
-    <li>memeConcept->na clanna</li>
-    <li>memeConcept->na ngealltanas</li>
-    <li>memeMoralist->na dílseachta</li>
+    <li>memeAdjective->na nDílsitheoirí</li>
+    <li>memeAdjective->an Tírghrá</li>
+    <li>memeAdjective->an Ómóis</li>
+    <li>memeConcept->na Clanna</li>
+    <li>memeConcept->na nGealltanas</li>
+    <li>memeMoralist->Dílsitheoir</li>
   </Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
-  <Loyalist.symbolPacks.0.adjective>loyal</Loyalist.symbolPacks.0.adjective>
+  <Loyalist.symbolPacks.0.adjective>dílis</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
-  <Loyalist.symbolPacks.0.ideoName>Loyalisme</Loyalist.symbolPacks.0.ideoName>
+  <Loyalist.symbolPacks.0.ideoName>Dílseacht</Loyalist.symbolPacks.0.ideoName>
   <!-- EN: loyalist -->
-  <Loyalist.symbolPacks.0.member>loyaliste</Loyalist.symbolPacks.0.member>
+  <Loyalist.symbolPacks.0.member>dílsitheoir</Loyalist.symbolPacks.0.member>
   <!-- EN: loyalty -->
-  <Loyalist.symbolPacks.0.theme>loyauté</Loyalist.symbolPacks.0.theme>
+  <Loyalist.symbolPacks.0.theme>dílseacht</Loyalist.symbolPacks.0.theme>
   <!-- EN: fealtist -->
   <Loyalist.symbolPacks.1.adjective>fidèle</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->

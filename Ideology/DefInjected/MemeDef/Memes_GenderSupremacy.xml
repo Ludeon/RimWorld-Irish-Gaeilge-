@@ -46,16 +46,16 @@
     <li>memeLeaderNoun->woman</li>
   -->
   <FemaleSupremacy.generalRules.rulesStrings>
-    <li>memeAdjective->féminin</li>
-    <li>memeAdjective_Fem->féminine</li>
-    <li>memeHyphenPrefix->femme</li>
-    <li>memeHyphenPrefix->fem</li>
-    <li>memeHyphenPrefix->gyno</li>
-    <li>memeHyphenPrefix->matri</li>
-    <li>memeConcept->la femme</li>
-    <li>memeConcept->la féminité</li>
-    <li>memeGod->Mère</li>
-    <li>memeLeaderNoun->femme</li>
+    <li>memeAdjective->baineann</li>
+    <li>memeAdjective_Fem->banúil</li>
+    <li>memeHyphenPrefix->ban</li>
+    <li>memeHyphenPrefix->ban</li>
+    <li>memeHyphenPrefix->ban</li>
+    <li>memeHyphenPrefix->matra</li>
+    <li>memeConcept->na mBan</li>
+    <li>memeConcept->an Fheimineachais</li>
+    <li>memeGod->Máthair</li>
+    <li>memeLeaderNoun->bean</li>
   </FemaleSupremacy.generalRules.rulesStrings>
   <!-- EN: gynist -->
   <FemaleSupremacy.symbolPacks.0.adjective>gyniste</FemaleSupremacy.symbolPacks.0.adjective>

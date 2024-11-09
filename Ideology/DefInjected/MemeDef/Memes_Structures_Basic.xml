@@ -28,19 +28,19 @@
     <li>memeMoralist->aîné</li>
   </Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.adjective>animique</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.0.adjective>anamaí</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.member>animiste</Structure_Animist.symbolPacks.0.member>
+  <Structure_Animist.symbolPacks.0.member>anamaí</Structure_Animist.symbolPacks.0.member>
   <!-- EN: animism -->
-  <Structure_Animist.symbolPacks.0.theme>animisme</Structure_Animist.symbolPacks.0.theme>
+  <Structure_Animist.symbolPacks.0.theme>anamachas</Structure_Animist.symbolPacks.0.theme>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.adjective>spirique</Structure_Animist.symbolPacks.1.adjective>
+  <Structure_Animist.symbolPacks.1.adjective>spioradach</Structure_Animist.symbolPacks.1.adjective>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.member>spirite</Structure_Animist.symbolPacks.1.member>
+  <Structure_Animist.symbolPacks.1.member>spioradaí</Structure_Animist.symbolPacks.1.member>
   <!-- EN: spiritism -->
   <Structure_Animist.symbolPacks.1.theme>spirisme</Structure_Animist.symbolPacks.1.theme>
   <!-- EN: temple -->
-  <Structure_Animist.worshipRoomLabel>temple</Structure_Animist.worshipRoomLabel>
+  <Structure_Animist.worshipRoomLabel>teampall</Structure_Animist.worshipRoomLabel>
   
   <!-- EN: archist -->
   <Structure_Archist.label>arcai-teicneoirí</Structure_Archist.label>

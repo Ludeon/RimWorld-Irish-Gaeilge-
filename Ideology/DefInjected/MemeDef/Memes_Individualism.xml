@@ -67,9 +67,9 @@
     <li>memeCreed->commune</li>
     <li>memeCreed->famille</li>
     <li>memeConcept->la famille</li>
-    <li>memeLeaderNoun->président</li>
-    <li>memeLeaderNoun->secrétaire</li>
-    <li>memeMoralist->commissaire</li>
+    <li>memeLeaderNoun->uachtarán</li>
+    <li>memeLeaderNoun->rúnaí</li>
+    <li>memeMoralist->coimisinéir</li>
   </Collectivist.generalRules.rulesStrings>
   <!-- EN: solidaritist -->
   <Collectivist.symbolPacks.0.adjective>solidaire</Collectivist.symbolPacks.0.adjective>
