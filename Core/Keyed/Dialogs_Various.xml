@@ -92,9 +92,9 @@
   <!-- EN: Initializing -->
   <Initializing>Ag tosú</Initializing>
   <!-- EN: Loading world -->
-  <LoadingWorld>Domhan á lódáil</LoadingWorld>
+  <LoadingWorld>Tá an domhan á lódáil</LoadingWorld>
   <!-- EN: Loading map -->
-  <LoadingMap>Léarscáil á lódáil</LoadingMap>
+  <LoadingMap>Tá an léarscáil á lódáil</LoadingMap>
   <!-- EN: Initializing game -->
   <InitializingGame>Cluiche á thosú</InitializingGame>
   <!-- EN: Spawning things -->

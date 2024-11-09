@@ -137,8 +137,8 @@
     <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] that one will be born who lives their whole life true to their people. In death their spirit will explode in light, destroying all surrenderers and warmongers.</li>
   -->
   <Loyalist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Loyalist)        ->[deity0_name] exhorta les bons peuples à ne combattre que ceux qui se battaient sans juste cause.</li>
-    <li>episode(uses=1,tag=meme_Loyalist)  ->Une guerre avec les incroyants s'ensuivit. L'un des croyants, [believer_nameFull], cherchant à prendre l'avantage, invita les païens à l'intérieur du pays de [deity0_name], ce qui rendit [deity0_name] furieux. Pour sa trahison, [deity0_name] frappa dix mille fois.</li>
+    <li>creation(tag=meme_Loyalist)        -> Thug [deity0_name] misneach dóibh siúd nach raibh aon chúis acu.</li>
+    <li>episode(uses=1,tag=meme_Loyalist)  ->Cuireadh tús le cogadh le lucht na ndíchreidmheach ansin. Thug creidmheach amháin, [believer_nameFull], cuireadh do na págánaigh chuig talún [deity0_name], agus chuir an fealladh sin fearg fíochmhar ar [deity0_name]. Bhuail [deity0_name] [believer_objective] míle uair.</li>
     <!-- NOTE: besoin de altarRoom_gender -->
     <li>intro(tag=meme_Loyalist)           ->Une communauté [memeAdjective] sur le [place_summary] [place_name] adorait [deity0_name] dans son/sa [altarRoomLabel], et étaient inébranlables dans leur foi.</li>
     <li>conflict(tag=meme_Loyalist)        ->Un [foeLeader] plaça des [foeSoldiers] comme espions au sein des [memberNamePlural] pour les diviser.</li>
@@ -166,12 +166,12 @@
     <li>memeMoralist->loyalizer</li>
   -->
   <Loyalist.generalRules.rulesStrings>
-    <li>memeAdjective->loyal</li>
-    <li>memeAdjective->patriotique</li>
-    <li>memeAdjective->respectueux</li>
-    <li>memeConcept->la famille</li>
-    <li>memeConcept->la promesse</li>
-    <li>memeMoralist->fidèle</li>
+    <li>memeAdjective->na ndílsitheoirí</li>
+    <li>memeAdjective->an tírghrá</li>
+    <li>memeAdjective->an ómóis</li>
+    <li>memeConcept->na clanna</li>
+    <li>memeConcept->na ngealltanas</li>
+    <li>memeMoralist->na dílseachta</li>
   </Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
   <Loyalist.symbolPacks.0.adjective>loyal</Loyalist.symbolPacks.0.adjective>

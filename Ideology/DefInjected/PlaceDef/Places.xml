@@ -22,24 +22,24 @@
     <li>place_foeSoldiers->thugs</li>
   -->
   <AturaStation.placeRules.rulesStrings>
-    <li>place_name->Station Atura</li>
-    <li>place_adjective->Aturan</li>
-    <li>place_summary->chantier naval orbital</li>
-    <li>place_community->quai de la navette</li>
-    <li>place_community->anneau de fabrication</li>
-    <li>place_community->anneau résidentiel</li>
-    <li>place_powerCenter->salle de contrôle centrale</li>
-    <li>place_job->opérateur de drone de chantier</li>
-    <li>place_job->manager</li>
-    <li>place_job->pilote d'essai</li>
-    <li>place_job->commercial</li>
-    <li>place_job->Technicien d'imprimante 3D</li>
+    <li>place_name->Stáisiún Atara</li>
+    <li>place_adjective->Atarach</li>
+    <li>place_summary->longchlós spáis</li>
+    <li>place_community->caladh spásloinge</li>
+    <li>place_community->stáisiún oibre</li>
+    <li>place_community->stáisiún cónaithe</li>
+    <li>place_powerCenter->túr rialúcháin</li>
+    <li>place_job->oibritheoir dróin tógála</li>
+    <li>place_job->bainisteoir</li>
+    <li>place_job->piolóta</li>
+    <li>place_job->díolaitheoir</li>
+    <li>place_job->teicnitheoir printéireachta 3T</li>
     <li>place_personalWeapon->taser</li>
-    <li>place_personalWeapon->soudeuse</li>
+    <li>place_personalWeapon->táthaire</li>
     <li>place_massWeapon->[anEMPAttack]</li>
-    <li>place_massWeapon->drones de soudage télécommandés</li>
-    <li>place_foeLeader->patron du crime</li>
-    <li>place_foeSoldiers->voyous</li>
+    <li>place_massWeapon->dróin táthaire</li>
+    <li>place_foeLeader->saoiste</li>
+    <li>place_foeSoldiers->robálaithe</li>
   </AturaStation.placeRules.rulesStrings>
   
   <!-- EN:

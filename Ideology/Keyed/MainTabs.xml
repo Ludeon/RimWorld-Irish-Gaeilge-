@@ -3,83 +3,83 @@
 
   <!-- Ideoligions -->
   <!-- EN: Deities -->
-  <Deities>Divinités</Deities>
+  <Deities>Déithe</Deities>
   <!-- EN: Show all ideoligions -->
-  <ButtonShowAllIdeoligions>Afficher toutes les idéoligions</ButtonShowAllIdeoligions>
+  <ButtonShowAllIdeoligions>Taispeáin gach idé-eolaíocht</ButtonShowAllIdeoligions>
   <!-- EN: Ideoligion of -->
-  <IdeoligionOf>Idéoligion de</IdeoligionOf>
+  <IdeoligionOf>Idé-eolaíocht de chuid</IdeoligionOf>
   <!-- EN: Memes -->
-  <Memes>Mèmes</Memes>
+  <Memes>Méimeanna</Memes>
   <!-- EN: Narrative -->
-  <CoreNarrative>Récit</CoreNarrative>
+  <CoreNarrative>Soiscéal</CoreNarrative>
   <!-- EN: The core narrative of your ideoligion. This has no gameplay impact. -->
-  <CoreNarrativeDesc>Le récit central de votre idéoligion. Cela n'a aucun impact sur le gameplay.</CoreNarrativeDesc>
+  <CoreNarrativeDesc>An soisceál a bhaineann le do chreideamh. Ní bhíonn aon éifeacht aige ar an gcluiche.</CoreNarrativeDesc>
   <!-- EN: Edit narrative -->
-  <EditNarrative>Modifier le récit</EditNarrative>
+  <EditNarrative>Athraigh soiscéal</EditNarrative>
   <!-- EN: Lock or unlock the ideoligion's narrative. When locked, the narrative text will not auto-regenerate if the ideoligion is changed. -->
-  <LockButtonDesc>Verrouillez ou déverrouillez le récit de l'idéologie. Lorsqu'il est verrouillé, le texte narratif ne se régénère pas automatiquement si l'idéoligion est modifiée.</LockButtonDesc>
+  <LockButtonDesc>Is féidir an soiscéál a chur faoi ghlas. Nuair a chuirtear cuid den soiscéal faoi ghlas, ní athrófar é má dhéantar an idé-eolaíocht a athghiniúint.</LockButtonDesc>
   <!-- EN: {0} lock is currently on. The {1} will not auto-regenerate. -->
-  <LockInOn>Le verrouillage {0} est actuellement activé. Le {1} ne se régénérera pas automatiquement.</LockInOn>
+  <LockInOn>Tá "{0}" faoi ghlas faoi láthair. Ní dhéanfar "{1}" a athghiniúint.</LockInOn>
   <!-- EN: {0} lock is currently off. The {1} text can auto-regenerate. -->
-  <LockInOff>Le verrouillage {0} est actuellement désactivé. Le texte {1} peut se régénérer automatiquement.</LockInOff>
+  <LockInOff>Níl "{0}" faoi ghlas. Déanfar "{1}" a athghiniúint.</LockInOff>
   <!-- EN: Lock or unlock the name of this precept. When locked, the precept name will not auto-regenerate if the ideoligion is changed. -->
-  <LockPreceptNameButtonDesc>Verrouiller ou déverrouiller le nom de ce précepte. Lorsqu'il est verrouillé, le nom du précepte ne se régénère pas automatiquement si l'idéoligion est modifiée.</LockPreceptNameButtonDesc>
+  <LockPreceptNameButtonDesc>Cuir an proiceapta seo faoi ghlas. Má chuirtear faoi ghlas é, ní athrófar an téacs má dhéantar an idé-eolaíocht a athghiniúint.</LockPreceptNameButtonDesc>
   <!-- EN: Precepts -->
-  <Precepts>Préceptes</Precepts>
+  <Precepts>Proiceaptaí</Precepts>
   <!-- EN: Rituals -->
-  <Rituals>Rituels</Rituals>
+  <Rituals>Deasghnátha</Rituals>
   <!-- EN: Roles -->
-  <IdeoRoles>Rôles</IdeoRoles>
+  <IdeoRoles>Róil</IdeoRoles>
   <!-- EN: Buildings -->
-  <IdeoBuildings>Bâtiments</IdeoBuildings>
+  <IdeoBuildings>Foirgnimh</IdeoBuildings>
   <!-- EN: Relics -->
-  <IdeoRelics>Reliques</IdeoRelics>
+  <IdeoRelics>Seaniarsmaí</IdeoRelics>
   <!-- EN: Preferred apparel -->
-  <IdeoApparel>Vêtements préférés</IdeoApparel>
+  <IdeoApparel>Éadaí</IdeoApparel>
   <!-- EN: apparel desire -->
-  <IdeoApparelDesire>vêtements</IdeoApparelDesire>
+  <IdeoApparelDesire>éadaí</IdeoApparelDesire>
   <!-- EN: Won't do -->
-  <UnwillingToDoIdeoAction>Ne fera pas</UnwillingToDoIdeoAction>
+  <UnwillingToDoIdeoAction>Ní dhéanfar:</UnwillingToDoIdeoAction>
   <!-- EN: Stats -->
-  <PreceptStats>Stats</PreceptStats>
+  <PreceptStats>Staitisticí</PreceptStats>
   <!-- EN: Prohibitions -->
-  <Prohibitions>Interdictions</Prohibitions>
+  <Prohibitions>Coiscthe</Prohibitions>
   <!-- EN: Opinions -->
-  <Opinions>Opinions</Opinions>
+  <Opinions>Tuairimí</Opinions>
   <!-- EN: Mental breaks -->
-  <MentalBreaks>TODO</MentalBreaks>
+  <MentalBreaks>Cliste néarógacha</MentalBreaks>
   <!-- EN: Randomize name -->
-  <RandomizeName>Nom aléatoire</RandomizeName>
+  <RandomizeName>Ainmn randamach</RandomizeName>
   <!-- EN: Randomize precepts -->
-  <RandomizePrecepts>Préceptes aléatoires</RandomizePrecepts>
+  <RandomizePrecepts>Proiceaptaí randamacha</RandomizePrecepts>
   <!-- EN: Randomize deities -->
-  <RandomizeDeities>Divinités aléatoires</RandomizeDeities>
+  <RandomizeDeities>Déithe randamacha</RandomizeDeities>
   <!-- EN: Add deity -->
-  <AddDeity>Ajouter une divinité</AddDeity>
+  <AddDeity>Roghnaigh dia</AddDeity>
   <!-- EN: Choose memes -->
-  <ChooseMemes>Choisir les mèmes</ChooseMemes>
+  <ChooseMemes>Roghnaigh méimeanna</ChooseMemes>
   <!-- EN: Choose starting meme -->
-  <ChooseStartingMeme>Choisir le mème de départ</ChooseStartingMeme>
+  <ChooseStartingMeme>Roghnaigh méim</ChooseStartingMeme>
   <!-- EN: Choose structure -->
-  <ChooseStructure>Choisir la structure</ChooseStructure>
+  <ChooseStructure>Roghnaigh struchtúr</ChooseStructure>
   <!-- EN: Choose culture -->
-  <ChooseCulture>Choisir la sculpture</ChooseCulture>
+  <ChooseCulture>Roghnaigh cultúr</ChooseCulture>
   <!-- EN: Culture -->
-  <Culture>Culture</Culture>
+  <Culture>Cultúr</Culture>
   <!-- EN: Culture affects names, appearances, and symbols. -->
-  <CultureTip>La culture affecte les noms, les apparences et les symboles.</CultureTip>
+  <CultureTip>Bíonn tionchar ag an gcultúr a roghnaítear ar na hainmneacha, éadaí agus siombailí a úsáidtear.</CultureTip>
   <!-- EN: Structure -->
-  <StructureMeme>Structure</StructureMeme>
+  <StructureMeme>Struchtúr</StructureMeme>
   <!-- EN: An ideoligion's structure determines the kind of entities and forces it sees as important to the moral structure of the universe. It has no direct gameplay effects. -->
-  <StructureMemeTip>La structure d'une idéologie détermine le type d'entités et de forces qu'elle considère comme importantes pour la structure morale de l'univers. Elle n'a pas d'effets directs sur le gameplay.</StructureMemeTip>
+  <StructureMemeTip>Bíonn tionchar ag an struchtúr idé-eolaíoch ar na déithe agus forsaí atá tábhachtach i do chreideamh. Ní bhíonn éifeacht aige ar an gcluiche.</StructureMemeTip>
   <!-- EN: Adjective -->
-  <Adjective>Adjectif</Adjective>
+  <Adjective>Aidiacht</Adjective>
   <!-- EN: Ritual room -->
-  <WorshipRoom>Salle rituelle</WorshipRoom>
+  <WorshipRoom>Seomra</WorshipRoom>
   <!-- EN: Member noun -->
-  <IdeoMembers>Nom du membre</IdeoMembers>
+  <IdeoMembers>Ainmfhocal uatha</IdeoMembers>
   <!-- EN: Member plural -->
-  <IdeoMembersPlural>Nom des membres</IdeoMembersPlural>
+  <IdeoMembersPlural>Ainmfhocal iolra</IdeoMembersPlural>
   <!-- EN: Edit symbols -->
   <EditSymbols>Modifier les symboles</EditSymbols>
   <!-- EN: Edit deity -->
