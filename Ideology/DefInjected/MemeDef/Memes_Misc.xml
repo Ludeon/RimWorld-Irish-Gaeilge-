@@ -106,7 +106,7 @@
   <!-- EN: beastor -->
   <AnimalPersonhood.symbolPacks.1.member>bestiole</AnimalPersonhood.symbolPacks.1.member>
   <!-- EN: beasts -->
-  <AnimalPersonhood.symbolPacks.1.theme>bêtes</AnimalPersonhood.symbolPacks.1.theme>
+  <AnimalPersonhood.symbolPacks.1.theme>na mBeithíoch</AnimalPersonhood.symbolPacks.1.theme>
   
   <!-- EN: blindsight -->
   <Blindsight.label>daille</Blindsight.label>
@@ -286,7 +286,7 @@
   <!-- EN: androphage -->
   <Cannibal.symbolPacks.1.member>androphage</Cannibal.symbolPacks.1.member>
   <!-- EN: androphagy -->
-  <Cannibal.symbolPacks.1.theme>androphagie</Cannibal.symbolPacks.1.theme>
+  <Cannibal.symbolPacks.1.theme>na Canablachta</Cannibal.symbolPacks.1.theme>
   <!-- EN: manporky -->
   <Cannibal.symbolPacks.2.adjective>anthropophage</Cannibal.symbolPacks.2.adjective>
   <!-- EN: Manporkism -->
@@ -446,7 +446,7 @@
   <!-- EN: fleshist -->
   <FleshPurity.symbolPacks.1.member>chairiste</FleshPurity.symbolPacks.1.member>
   <!-- EN: flesh -->
-  <FleshPurity.symbolPacks.1.theme>chaire</FleshPurity.symbolPacks.1.theme>
+  <FleshPurity.symbolPacks.1.theme>an Chraicinn</FleshPurity.symbolPacks.1.theme>
   <!-- EN: sanctic -->
   <FleshPurity.symbolPacks.2.adjective>sanctique</FleshPurity.symbolPacks.2.adjective>
   <!-- EN: Sanctism -->
@@ -547,7 +547,7 @@
   <!-- EN: doper -->
   <HighLife.symbolPacks.1.member>drogué</HighLife.symbolPacks.1.member>
   <!-- EN: dope -->
-  <HighLife.symbolPacks.1.theme>drogue</HighLife.symbolPacks.1.theme>
+  <HighLife.symbolPacks.1.theme>na Raithní</HighLife.symbolPacks.1.theme>
   <!-- EN: smokist -->
   <HighLife.symbolPacks.2.adjective>fumant</HighLife.symbolPacks.2.adjective>
   <!-- EN: Smokism -->
@@ -644,7 +644,7 @@
   <!-- EN: skinnist -->
   <Nudism.symbolPacks.1.member>naturiste</Nudism.symbolPacks.1.member>
   <!-- EN: skin -->
-  <Nudism.symbolPacks.1.theme>peau</Nudism.symbolPacks.1.theme>
+  <Nudism.symbolPacks.1.theme>na Lomnochtachta</Nudism.symbolPacks.1.theme>
   
   <!-- EN: pain is virtue -->
   <PainIsVirtue.label>faigheann pian fortacht</PainIsVirtue.label>
@@ -755,7 +755,7 @@
   <!-- EN: torturist -->
   <PainIsVirtue.symbolPacks.1.member>Tortionnaire</PainIsVirtue.symbolPacks.1.member>
   <!-- EN: torture -->
-  <PainIsVirtue.symbolPacks.1.theme>torture</PainIsVirtue.symbolPacks.1.theme>
+  <PainIsVirtue.symbolPacks.1.theme>na Péine</PainIsVirtue.symbolPacks.1.theme>
   <!-- EN: sufferist -->
   <PainIsVirtue.symbolPacks.2.adjective>souffrance</PainIsVirtue.symbolPacks.2.adjective>
   <!-- EN: Sufferism -->
@@ -852,7 +852,7 @@
   <!-- EN: veritist -->
   <Proselytizer.symbolPacks.1.member>vériste</Proselytizer.symbolPacks.1.member>
   <!-- EN: verity -->
-  <Proselytizer.symbolPacks.1.theme>vérité</Proselytizer.symbolPacks.1.theme>
+  <Proselytizer.symbolPacks.1.theme>na Fírinne</Proselytizer.symbolPacks.1.theme>
   <!-- EN: realitic -->
   <Proselytizer.symbolPacks.2.adjective>réaliste</Proselytizer.symbolPacks.2.adjective>
   <!-- EN: Reality -->
@@ -953,7 +953,7 @@
   <!-- EN: plunderer -->
   <Raider.symbolPacks.1.member>brigand</Raider.symbolPacks.1.member>
   <!-- EN: plundering -->
-  <Raider.symbolPacks.1.theme>pillage</Raider.symbolPacks.1.theme>
+  <Raider.symbolPacks.1.theme>an Chreachta</Raider.symbolPacks.1.theme>
   <!-- EN: lootist -->
   <Raider.symbolPacks.2.adjective>pillage</Raider.symbolPacks.2.adjective>
   <!-- EN: Lootism -->

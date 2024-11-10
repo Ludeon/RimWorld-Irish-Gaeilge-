@@ -38,7 +38,7 @@
   <!-- EN: spiritist -->
   <Structure_Animist.symbolPacks.1.member>spioradaí</Structure_Animist.symbolPacks.1.member>
   <!-- EN: spiritism -->
-  <Structure_Animist.symbolPacks.1.theme>spirisme</Structure_Animist.symbolPacks.1.theme>
+  <Structure_Animist.symbolPacks.1.theme>an Spioradachais</Structure_Animist.symbolPacks.1.theme>
   <!-- EN: temple -->
   <Structure_Animist.worshipRoomLabel>teampall</Structure_Animist.worshipRoomLabel>
   
@@ -91,7 +91,7 @@
   <!-- EN: archist -->
   <Structure_Archist.symbolPacks.1.member>archiste</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
-  <Structure_Archist.symbolPacks.1.theme>archisme</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.symbolPacks.1.theme>na nArcaitheoirí</Structure_Archist.symbolPacks.1.theme>
   <!-- EN: shrine -->
   <Structure_Archist.worshipRoomLabel>tombeau</Structure_Archist.worshipRoomLabel>
   
@@ -146,7 +146,7 @@
   <!-- EN: ideologist -->
   <Structure_Ideological.symbolPacks.1.member>idéologue</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
-  <Structure_Ideological.symbolPacks.1.theme>idéologie</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.1.theme>na hIdé-Eolaíochta</Structure_Ideological.symbolPacks.1.theme>
   <!-- EN: just -->
   <Structure_Ideological.symbolPacks.2.adjective>juste</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
@@ -219,7 +219,7 @@
   <!-- EN: faithholder -->
   <Structure_TheistAbstract.symbolPacks.1.member>fidèle</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistAbstract.symbolPacks.1.theme>foi</Structure_TheistAbstract.symbolPacks.1.theme>
+  <Structure_TheistAbstract.symbolPacks.1.theme>an Chreidimh</Structure_TheistAbstract.symbolPacks.1.theme>
   <!-- EN: divinist -->
   <Structure_TheistAbstract.symbolPacks.2.adjective>divin</Structure_TheistAbstract.symbolPacks.2.adjective>
   <!-- EN: Divinism -->
@@ -284,7 +284,7 @@
   <!-- EN: faithholder -->
   <Structure_TheistEmbodied.symbolPacks.1.member>fidèle</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.theme>foi</Structure_TheistEmbodied.symbolPacks.1.theme>
+  <Structure_TheistEmbodied.symbolPacks.1.theme>an Chreidimh</Structure_TheistEmbodied.symbolPacks.1.theme>
   <!-- EN: pantheon -->
   <Structure_TheistEmbodied.worshipRoomLabel>panthéon</Structure_TheistEmbodied.worshipRoomLabel>
   

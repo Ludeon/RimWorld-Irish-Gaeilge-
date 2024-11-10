@@ -94,7 +94,7 @@
   <!-- EN: sinner -->
   <Guilty.symbolPacks.1.member>pécheur</Guilty.symbolPacks.1.member>
   <!-- EN: sin -->
-  <Guilty.symbolPacks.1.theme>péché</Guilty.symbolPacks.1.theme>
+  <Guilty.symbolPacks.1.theme>na bPeacaí</Guilty.symbolPacks.1.theme>
   <!-- EN: shamist -->
   <Guilty.symbolPacks.2.adjective>honteux</Guilty.symbolPacks.2.adjective>
   <!-- EN: Shamism -->
@@ -182,21 +182,21 @@
   <!-- EN: loyalty -->
   <Loyalist.symbolPacks.0.theme>dílseacht</Loyalist.symbolPacks.0.theme>
   <!-- EN: fealtist -->
-  <Loyalist.symbolPacks.1.adjective>fidèle</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.1.adjective>dílsitheoir</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>Féalisme</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>Dílseacht</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
-  <Loyalist.symbolPacks.1.member>féaliste</Loyalist.symbolPacks.1.member>
+  <Loyalist.symbolPacks.1.member>dílseoir</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
-  <Loyalist.symbolPacks.1.theme>fidélité</Loyalist.symbolPacks.1.theme>
+  <Loyalist.symbolPacks.1.theme>na Dílseachta</Loyalist.symbolPacks.1.theme>
   <!-- EN: fidelist -->
-  <Loyalist.symbolPacks.2.adjective>fidèle</Loyalist.symbolPacks.2.adjective>
+  <Loyalist.symbolPacks.2.adjective>dílsitheoir</Loyalist.symbolPacks.2.adjective>
   <!-- EN: Fidelism -->
-  <Loyalist.symbolPacks.2.ideoName>Fidélisme</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.ideoName>Dílseacht</Loyalist.symbolPacks.2.ideoName>
   <!-- EN: fidelor -->
-  <Loyalist.symbolPacks.2.member>fidèle</Loyalist.symbolPacks.2.member>
+  <Loyalist.symbolPacks.2.member>dílseoir</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->
-  <Loyalist.symbolPacks.2.theme>fidélité</Loyalist.symbolPacks.2.theme>
+  <Loyalist.symbolPacks.2.theme>dílseacht</Loyalist.symbolPacks.2.theme>
   
   <!-- EN: supremacist -->
   <Supremacist.label>forchiníoch</Supremacist.label>
@@ -221,22 +221,22 @@
     <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] that a new order will be created when one supreme ruler commands all of humanity.</li>
   -->
   <Supremacist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Supremacist)        ->Les habitants du [place_summary] [place_name] se disputaient sans cesse, et [deity0_name] se lassa de la discorde et oignit les [memberNamePlural] comme le souverain légitime de tous.</li>
-    <li>episode(uses=1,tag=meme_Supremacist)  ->Les fidèles combattirent les infidèles, et [deity0_name] dit : " Combattez-les partout, en mon nom, jusqu'à ce que je sois adoré dans tout l'univers et que la vraie paix puisse enfin régner."</li>
-    <li>intro(tag=meme_Supremacist)           ->Les habitants de [place_summary] [place_name] adoraient [deity0_name]. [deity0_pronoun] vu qu'ils étaient adaptés pour [memeConcept], et ordonna que ces adorateurs règnent sur tous les autres.</li>
-    <li>conflict(tag=meme_Supremacist)        ->Un [foeLeader] adopta une loi interdisant aux [memberNamePlural] d'accéder aux classes dirigeantes de [place_name].</li>
-    <li>founderJoin(tag=meme_Supremacist)     ->Un guerrier nommé [founderName] utilisa [place_massWeapon] pour détruire une [place_community]. [deity0_name] vu le caractère impitoyable de [founderName] et l'a reconnu comme le dirigeant légitime de toute l'humanité.</li>
-    <li>victory(tag=meme_Supremacist)         ->[founderName] détruisit la capitale de [place_name] avec [place_massWeapon], tuant le [foeLeader]. [founder_pronoun] prit sa place en tant que souverain de [place_name] - et de l'univers.</li>
-    <li>setup(tag=meme_Supremacist)           ->[founderName] construisit une armée qui répandit son pouvoir et sa gloire à travers le pays, plaçant ceux qui refusaient de suivre à juste titre sous son règne.</li>
-    <li>story(uses=1,tag=meme_Supremacist)    ->[founderName] demanda à tous les étrangers de se soumettre. Lorsque la première ville refusa, [founder_pronoun] utilisa [place_massWeapon] pour tuer tout le monde à l'intérieur.</li>
-    <li>lessonIntro(tag=meme_Supremacist)         ->J'ai regardé ce [foeLeader], avec ses pitoyable [foeSoldiers], tout ce pouvoir laissé en jachère. J'ai essayé de le convaincre que</li>
-    <li>lesson(tag=meme_Supremacist)              ->nous avions depuis longtemps prouvé que nous avons la force de régner à juste titre sur cet univers</li>
-    <li>lessonReinforcement(tag=meme_Supremacist) ->C'est pourquoi nous sommes fiers d'exprimer la force de notre cœur en frappant les talons de nos bottes.</li>
-    <li>archistBasis(tag=meme_Supremacist)    ->Il a fallu la fine fleur des humains pour créer les archotechs, afin que les archotechs puissent devenir supérieurs à tous.</li>
-    <li>archistFact(tag=meme_Supremacist)     ->Les archotechs nous méprisent à juste titre, comme nous méprisons nos inférieurs.</li>
-    <li>archistProphecy(tag=meme_Supremacist) ->Les archotechs ne nous amèneront à les rejoindre que lorsque nous régnerons enfin sur tous les autres.</li>
-    <li>animistFact(tag=meme_Supremacist)     ->Les esprits puissants décident qui est apte à gouverner et prêtent le pouvoir à leurs élus qui soumettent les autres.</li>
-    <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] qu'un nouvel ordre sera créé lorsqu'un souverain suprême commandera à toute l'humanité.</li>
+    <li>creation(tag=meme_Supremacist)        ->Bhíodh aighneas síoraí ann idir mhuintir [place_name], agus chinn [deity0_name] deireadh a chur leis an achrann, agus d'fhógair sé gurb iad na [memberNamePlural] an cine in uachtar.</li>
+    <li>episode(uses=1,tag=meme_Supremacist)  ->Throid na dílsitheoirí i gcoinne na hainchreidmhigh, agus dúirt [deity0_name] : " Déan iad a throid i ngach áit ar fud na cruinne, go dtí nach mbeidh fágtha ach dílsitheoirí, agus ansin beidh síochán ann.</li>
+    <li>intro(tag=meme_Supremacist)           ->Bhíodh muintir [place_name] ag adhradh [deity0_name]. Chonaic [deity0_pronoun] go raibh [memeConcept] tuillte acu, agus d'fhógair [deity0_pronoun] go mbeadh an lámh in uachtar acu ar an gcruinne.</li>
+    <li>conflict(tag=meme_Supremacist)        ->Rith [foeLeader] dlí, lenar cuireadh cosc ar na [memberNamePlural] dul leis an aicme cheannais i [place_name].</li>
+    <li>founderJoin(tag=meme_Supremacist)     ->Bhain gaiscíoch darb ainm [founderName] úsáid as [place_massWeapon] chun [place_community] a scriosadh. Chonaic [deity0_name] spiorad [founderName] agus d'fhógair [deity0_pronoun] gur [founderName] an t-oidhre dlisteanach ar an gcine daonna.</li>
+    <li>victory(tag=meme_Supremacist)         ->Scrios [founderName] ardchathair [place_name] ag baint úsáid as [place_massWeapon], agus mharaigh [founder_pronoun] [foeLeader]. Thóg [founder_pronoun] áit [foeLeader] mar cheannaire [place_name] - agus ar an domhan mór.</li>
+    <li>setup(tag=meme_Supremacist)           ->Roghnaigh [founderName] míle gaiscíoch, agus scaip siad a c[founder_possessive]umhacht agus a g[founder_possessive]lóir ar fud na cruinne, agus cuireadh na díchreidmhigh faoina rialú.</li>
+    <li>story(uses=1,tag=meme_Supremacist)    ->D'ordaigh [founderName] do gach stráinséar géilleadh lena c[founder_possessive]umhacht. Nuair a dhiúltaigh an chéad chathair, d'úsáid [founder_pronoun]  [place_massWeapon] chun daonra iomlán na cathrach a mharú.</li>
+    <li>lessonIntro(tag=meme_Supremacist)         ->Bhreathnaigh mé le trua ar [foeLeader], agus ar na [foeSoldiers], agus iad gan chumhacht agus gan shábháil. Rinne mé iarracht a chur in iúl dóibh</li>
+    <li>lesson(tag=meme_Supremacist)              ->go bhfuil sé de chumhacht againn an chruinne iomlán a chur faoi chois</li>
+    <li>lessonReinforcement(tag=meme_Supremacist) ->Is é sin an chúis go bhfuilimid sásta ár gcumhacht a léiriú, le neart ár ngéag.</li>
+    <li>archistBasis(tag=meme_Supremacist)    ->Ba iad na daoine ba chumhachtaí riamh a chruthaigh na harcai-theicneoirí, ionas go bhféadfadh na harcai-theicneoirí an chruinne iomlán a rialú.</li>
+    <li>archistFact(tag=meme_Supremacist)     ->Breathnaíonn na harcai-theicneoirí síos orainn, mar a bhreathnaimid síos orthu siúd atá níos laige ná muid.</li>
+    <li>archistProphecy(tag=meme_Supremacist) ->Ní nglacfaidh na harcai-theicneoirí linn go dtí go mbeidh an lámh in uachtar againn thar gach cine eile.</li>
+    <li>animistFact(tag=meme_Supremacist)     ->Bronnann na spioraid cumhacht ar an gcine tofa, chun go bhféadfaidh siad daoine eile a chur faoi chois.</li>
+    <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] go gcruthófar ord domhanda nua nuair a bheidh an cine daonna aontaithe faoi aon rialathóir amháin.</li>
   </Supremacist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->supreme</li>
@@ -262,45 +262,45 @@
     <li>memeLeaderNoun->victor</li>
   -->
   <Supremacist.generalRules.rulesStrings>
-    <li>memeAdjective->suprême</li>
-    <li>memeAdjective->haut</li>
-    <li>memeAdjective->génial</li>
-    <li>memeAdjective->principal</li>
-    <li>memeAdjective->parfait</li>
-    <li>memeAdjective->premier</li>
-    <li>memeAdjective->fort</li>
-    <li>memeCreed->armée</li>
-    <li>memeCreed->légion</li>
-    <li>memeHyphenPrefix->super</li>
-    <li>memeConcept->la guerre</li>
-    <li>memeConcept->la violence</li>
-    <li>memeConcept->la dominance</li>
-    <li>memeLeaderNoun->général</li>
-    <li>memeLeaderNoun->commandant</li>
-    <li>memeLeaderNoun->maréchal</li>
-    <li>memeLeaderNoun->gouverneur</li>
-    <li>memeLeaderNoun->dirigeant</li>
-    <li>memeLeaderNoun->dictateur</li>
-    <li>memeLeaderNoun->conquérant</li>
-    <li>memeLeaderNoun->vainqueur</li>
+    <li>memeAdjective->Uachtarach</li>
+    <li>memeAdjective->Ard</li>
+    <li>memeAdjective->Iontach</li>
+    <li>memeAdjective->na Príomhachta</li>
+    <li>memeAdjective->na Foirfeachta</li>
+    <li>memeAdjective->na Príomhachta</li>
+    <li>memeAdjective->na Láidreachta</li>
+    <li>memeCreed->arm</li>
+    <li>memeCreed->léigiún</li>
+    <li>memeHyphenPrefix->sár</li>
+    <li>memeConcept->an cogadh</li>
+    <li>memeConcept->an foréigean</li>
+    <li>memeConcept->an smacht</li>
+    <li>memeLeaderNoun->ginearál</li>
+    <li>memeLeaderNoun->ceannfort</li>
+    <li>memeLeaderNoun->maor</li>
+    <li>memeLeaderNoun->gobharnóir</li>
+    <li>memeLeaderNoun->lámh</li>
+    <li>memeLeaderNoun->deachtóir</li>
+    <li>memeLeaderNoun->concaire</li>
+    <li>memeLeaderNoun->buaiteoir</li>
   </Supremacist.generalRules.rulesStrings>
   <!-- EN: dominant -->
-  <Supremacist.symbolPacks.0.adjective>dominant</Supremacist.symbolPacks.0.adjective>
+  <Supremacist.symbolPacks.0.adjective>ceannasach</Supremacist.symbolPacks.0.adjective>
   <!-- EN: dominator -->
-  <Supremacist.symbolPacks.0.member>dominateur</Supremacist.symbolPacks.0.member>
+  <Supremacist.symbolPacks.0.member>ceannasaí</Supremacist.symbolPacks.0.member>
   <!-- EN: dominance -->
-  <Supremacist.symbolPacks.0.theme>dominance</Supremacist.symbolPacks.0.theme>
+  <Supremacist.symbolPacks.0.theme>ceannas</Supremacist.symbolPacks.0.theme>
   <!-- EN: victoryist -->
-  <Supremacist.symbolPacks.1.adjective>victorieux</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.1.adjective>buaiteach</Supremacist.symbolPacks.1.adjective>
   <!-- EN: victorist -->
-  <Supremacist.symbolPacks.1.member>vainqueur</Supremacist.symbolPacks.1.member>
+  <Supremacist.symbolPacks.1.member>buaiteoir</Supremacist.symbolPacks.1.member>
   <!-- EN: victory -->
-  <Supremacist.symbolPacks.1.theme>victoire</Supremacist.symbolPacks.1.theme>
+  <Supremacist.symbolPacks.1.theme>an Bhua</Supremacist.symbolPacks.1.theme>
   <!-- EN: powerist -->
-  <Supremacist.symbolPacks.2.adjective>puissant</Supremacist.symbolPacks.2.adjective>
+  <Supremacist.symbolPacks.2.adjective>cumhachtach</Supremacist.symbolPacks.2.adjective>
   <!-- EN: poweror -->
-  <Supremacist.symbolPacks.2.member>puissant</Supremacist.symbolPacks.2.member>
+  <Supremacist.symbolPacks.2.member>cumhachtaí</Supremacist.symbolPacks.2.member>
   <!-- EN: power -->
-  <Supremacist.symbolPacks.2.theme>puissance</Supremacist.symbolPacks.2.theme>
+  <Supremacist.symbolPacks.2.theme>na Cumhachta</Supremacist.symbolPacks.2.theme>
   
 </LanguageData>
