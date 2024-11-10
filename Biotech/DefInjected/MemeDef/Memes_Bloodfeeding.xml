@@ -82,12 +82,9 @@
   <Bloodfeeding.generalRules.rulesStrings>
     <li>memeAdjective->blutig</li>
     <li>memeAdjective->blutdürstig</li>
-    <li>memeCreed->Krypta</li>
-    <li>memeCreed->Versteck</li>
-    <li>memeCreed->Zirkel</li>
-    <li>memeCreedGender->e Krypta</li>
-    <li>memeCreedGender->es Versteck</li>
-    <li>memeCreedGender->er Zirkel</li>
+    <li>memeCreed->Uaimh</li>
+    <li>memeCreed->Brocais</li>
+    <li>memeCreed->Rún</li>
     <li>memeHyphenPrefix->Hämo</li>
     <li>memeConcept->Blut</li>
     <li>memeConcept->Durst</li>

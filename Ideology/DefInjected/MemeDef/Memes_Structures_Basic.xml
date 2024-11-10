@@ -184,10 +184,10 @@
     <li>memeMoralist->abbot</li>
   -->
   <Structure_TheistAbstract.generalRules.rulesStrings>
-    <li>memeCreed->temple</li>
-    <li>memeCreed->secte</li>
-    <li>memeCreed->culte</li>
-    <li>memeCreed->foi</li>
+    <li>memeCreed->teampall</li>
+    <li>memeCreed->seict</li>
+    <li>memeCreed->cultas</li>
+    <li>memeCreed->creideamh</li>
     <li>memeHyphenPrefix->théo</li>
     <li>memeConcept->la création</li>
     <li>memeConcept->la vie</li>
@@ -257,10 +257,10 @@
     <li>memeMoralist->cleric</li>
   -->
   <Structure_TheistEmbodied.generalRules.rulesStrings>
-    <li>memeCreed->secte</li>
-    <li>memeCreed->culte</li>
-    <li>memeCreed->temple</li>
-    <li>memeCreed->foi</li>
+    <li>memeCreed->seict</li>
+    <li>memeCreed->cultas</li>
+    <li>memeCreed->teampall</li>
+    <li>memeCreed->creideamh</li>
     <li>memeHyphenPrefix->théo</li>
     <li>memeConcept->la création</li>
     <li>memeConcept->la vie</li>

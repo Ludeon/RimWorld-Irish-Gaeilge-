@@ -80,9 +80,9 @@
   <AnimalPersonhood.generalRules.rulesStrings>
     <li>memeAdjective->animal</li>
     <li>memeAdjective->velu</li>
-    <li>memeCreed->meute</li>
-    <li>memeCreed->troupeau</li>
-    <li>memeCreed->troupeau</li>
+    <li>memeCreed->paca</li>
+    <li>memeCreed->tréad</li>
+    <li>memeCreed->ealta</li>
     <li>memeConcept->l'animal</li>
     <li>memeLeaderNoun->bête</li>
     <li>memeLeaderNoun->animal</li>
@@ -175,8 +175,8 @@
     <li>memeAdjective->aveugle</li>
     <li>memeAdjective->visionnaire</li>
     <li>memeAdjective->hypermétrope</li>
-    <li>memeCreed->vue</li>
-    <li>memeCreed->culte</li>
+    <li>memeCreed->Radharc</li>
+    <li>memeCreed->Cultas</li>
     <li>memeHyphenPrefix->aveugle</li>
     <li>memeConcept->la cécité</li>
     <li>memeConcept->la vision</li>
@@ -253,10 +253,10 @@
   -->
   <Cannibal.generalRules.rulesStrings>
     <li>memeAdjective->sanglant</li>
-    <li>memeCreed->mangeurs</li>
-    <li>memeCreed->dents</li>
-    <li>memeCreed->abattoir</li>
-    <li>memeCreed->culet</li>
+    <li>memeCreed->iteoií</li>
+    <li>memeCreed->fiacla</li>
+    <li>memeCreed->seamlas</li>
+    <li>memeCreed->cultas</li>
     <li>memeHyphenPrefix->sang</li>
     <li>memeConcept->sang</li>
     <li>memeConcept->la chair</li>
@@ -422,8 +422,8 @@
     <li>memeAdjective->propre</li>
     <li>memeAdjective->pur</li>
     <li>memeAdjective->sacré</li>
-    <li>memeCreed->culte</li>
-    <li>memeCreed->secte</li>
+    <li>memeCreed->cultas</li>
+    <li>memeCreed->seict</li>
     <li>memeConcept->la chair</li>
     <li>memeConcept->la pureté</li>
     <li>memeConcept->l'immaculé</li>
@@ -514,7 +514,7 @@
     <li>memeMoralist->giggler</li>
   -->
   <HighLife.generalRules.rulesStrings>
-    <li>memeCreed->fête</li>
+    <li>memeCreed->cóisir</li>
     <li>memeAdjective->perché</li>
     <li>memeAdjective->délirant</li>
     <li>memeAdjective->défoncé</li>
@@ -720,9 +720,9 @@
   <PainIsVirtue.generalRules.rulesStrings>
     <li>memeAdjective->nocif</li>
     <li>memeAdjective->douleur</li>
-    <li>memeCreed->maison</li>
-    <li>memeCreed->chambre</li>
-    <li>memeCreed->cellule</li>
+    <li>memeCreed->teach</li>
+    <li>memeCreed->seomra</li>
+    <li>memeCreed->ceall</li>
     <li>memeHyphenPrefix->nocio</li>
     <li>memeHyphenPrefix->douleur</li>
     <li>memeConcept->la douleur</li>
@@ -1147,10 +1147,10 @@
     <li>memeAdjective->technologique</li>
     <li>memeAdjective->machinique</li>
     <li>memeAdjective->industriel</li>
-    <li>memeCreed->école</li>
-    <li>memeCreed->académie</li>
-    <li>memeCreed->université</li>
-    <li>memeCreed->philosophie</li>
+    <li>memeCreed->scoil</li>
+    <li>memeCreed->acadamh</li>
+    <li>memeCreed->ollscoil</li>
+    <li>memeCreed->fealsúnacht</li>
     <li>memeHyphenPrefix->techno</li>
     <li>memeHyphenPrefix->cyber</li>
     <li>memeHyphenPrefix->haxor</li>
@@ -1285,11 +1285,11 @@
     <li>memeMoralist->treespeaker</li>
   -->
   <TreeConnection.generalRules.rulesStrings>
-    <li>memeCreed->racine</li>
-    <li>memeCreed->feuille</li>
-    <li>memeCreed->vigne</li>
-    <li>memeCreed->clairière</li>
-    <li>memeCreed->forêt</li>
+    <li>memeCreed->fréamh</li>
+    <li>memeCreed->duilleog</li>
+    <li>memeCreed->fíniún</li>
+    <li>memeCreed->páirc</li>
+    <li>memeCreed->foraois</li>
     <li>memeConcept->arbres</li>
     <li>memeConcept->forêts</li>
     <li>memeAdjective->robuste</li>
@@ -1377,9 +1377,9 @@
     <li>memeMoralist->mindminer</li>
   -->
   <Tunneler.generalRules.rulesStrings>
-    <li>memeCreed->grotte</li>
-    <li>memeCreed->bunker</li>
-    <li>memeCreed->puit</li>
+    <li>memeCreed->pluais</li>
+    <li>memeCreed->buncar</li>
+    <li>memeCreed->pasáiste</li>
     <li>memeAdjective->profond</li>
     <li>memeHyphenPrefix->pierre</li>
     <li>memeHyphenPrefix->grotte</li>

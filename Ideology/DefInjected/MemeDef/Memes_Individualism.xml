@@ -62,10 +62,10 @@
     <li>memeAdjective->unifié</li>
     <li>memeAdjective->indivisé</li>
     <li>memeAdjective->collectif</li>
-    <li>memeCreed->collectivité</li>
-    <li>memeCreed->coopération</li>
-    <li>memeCreed->commune</li>
-    <li>memeCreed->famille</li>
+    <li>memeCreed->comhar</li>
+    <li>memeCreed->comharghrúpa</li>
+    <li>memeCreed->pobal</li>
+    <li>memeCreed->clann</li>
     <li>memeConcept->la famille</li>
     <li>memeLeaderNoun->uachtarán</li>
     <li>memeLeaderNoun->rúnaí</li>
@@ -171,7 +171,7 @@
   <!-- EN: independent -->
   <Individualist.symbolPacks.2.adjective>indépendant</Individualist.symbolPacks.2.adjective>
   <!-- EN: Independency -->
-  <Individualist.symbolPacks.2.ideoName>Indépendance</Individualist.symbolPacks.2.ideoName>
+  <Individualist.symbolPacks.2.ideoName>an Neamhspleáchais</Individualist.symbolPacks.2.ideoName>
   <!-- EN: independent -->
   <Individualist.symbolPacks.2.member>Indépendant</Individualist.symbolPacks.2.member>
   <!-- EN: independence -->
@@ -179,7 +179,7 @@
   <!-- EN: autonomist -->
   <Individualist.symbolPacks.3.adjective>autonome</Individualist.symbolPacks.3.adjective>
   <!-- EN: Autonomism -->
-  <Individualist.symbolPacks.3.ideoName>Autonomisme</Individualist.symbolPacks.3.ideoName>
+  <Individualist.symbolPacks.3.ideoName>na Féinrialach</Individualist.symbolPacks.3.ideoName>
   <!-- EN: autonomor -->
   <Individualist.symbolPacks.3.member>autonome</Individualist.symbolPacks.3.member>
   <!-- EN: autonomy -->

@@ -136,9 +136,9 @@
     <li>memeAdjective->naturel</li>
     <li>memeAdjective->sauvage</li>
     <li>memeAdjective->organique</li>
-    <li>memeCreed->tanière</li>
-    <li>memeCreed->jardin</li>
-    <li>memeCreed->prairie</li>
+    <li>memeCreed->poll</li>
+    <li>memeCreed->gáirdín</li>
+    <li>memeCreed->páirc</li>
     <li>memeConcept->la nature</li>
   </NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->

@@ -27,14 +27,14 @@
   
   <!-- EN:
     <li>r_ideoName->[keyDeity]ism</li>
-    <li>r_ideoName->[hyphenPrefix]-[keyDeity]ism</li>
+    <li>r_ideoName->[hyphenPrefix]-[creed] [keyDeity]</li>
     <li>r_ideoName->[keyDeity]'s [creed]</li>
     <li>r_ideoName->[creed] of [keyDeity]</li>
     <li>r_ideoAdjective->[keyDeity]ic</li>
     <li>r_memberName->[keyDeity]ist</li>
     <li>r_memberName->[keyDeity]ite</li>
     <li>r_ideoName(p=6)->[packIdeoName]</li>
-    <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</li>
+    <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[creed] [packIdeoName]</li>
     <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[packIdeoNameStructure]</li>
     <li>r_ideoName(p=2)->[memeAdjective] [creed]</li>
     <li>r_ideoName(p=1)->[creed] of [packTheme]</li>
@@ -58,14 +58,14 @@
   -->
   <NamerIdeoGlobal.rulePack.rulesStrings>
     <li>r_ideoName->[keyDeity]achas</li>
-    <li>r_ideoName->[hyphenPrefix]-[keyDeity]achas</li>
+    <li>r_ideoName->[hyphenPrefix]-[creed] [keyDeity]</li>
     <li>r_ideoName->[creed] [keyDeity]</li>
     <li>r_ideoName->[creed] [keyDeity]</li>
     <li>r_ideoAdjective->[keyDeity]ach</li>
     <li>r_memberName->[keyDeity]ach</li>
     <li>r_memberName->[keyDeity]ach</li>
     <li>r_ideoName(p=6)->[packIdeoName]</li>
-    <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[packIdeoName]</li>
+    <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[creed][packIdeoName]</li>
     <li>r_ideoName(p=2,forcePrefix==False)->[hyphenPrefix]-[packIdeoNameStructure]</li>
     <li>r_ideoName(p=2)->[creed] [memeAdjective]</li>
     <li>r_ideoName(p=1)->[creed] [packTheme]</li>
@@ -81,11 +81,11 @@
     <li>genericCreed->cónair</li>
     <li>hyphenPrefix->[globalHyphenPrefix]</li>
     <li>hyphenPrefix->[memeHyphenPrefix]</li>
-    <li>globalHyphenPrefix(p=4)->nua-</li>
-    <li>globalHyphenPrefix(p=2)->iar-</li>
-    <li>globalHyphenPrefix->nóva-</li>
-    <li>globalHyphenPrefix->arca-</li>
-    <li>globalHyphenPrefix->hipear-</li>
+    <li>globalHyphenPrefix(p=4)->nua</li>
+    <li>globalHyphenPrefix(p=2)->iar</li>
+    <li>globalHyphenPrefix->nóva</li>
+    <li>globalHyphenPrefix->arca</li>
+    <li>globalHyphenPrefix->hipear</li>
   </NamerIdeoGlobal.rulePack.rulesStrings>
   
 </LanguageData>
