@@ -79,7 +79,7 @@
   <!-- EN: archotechnic -->
   <Structure_Archist.symbolPacks.0.adjective>archotechnique</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
-  <Structure_Archist.symbolPacks.0.ideoName>Archotechnisme</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.ideoName>na hArcai-theicneolaíochta</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
   <Structure_Archist.symbolPacks.0.member>archotechnicien</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
@@ -87,7 +87,7 @@
   <!-- EN: archist -->
   <Structure_Archist.symbolPacks.1.adjective>archique</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
-  <Structure_Archist.symbolPacks.1.ideoName>archisme</Structure_Archist.symbolPacks.1.ideoName>
+  <Structure_Archist.symbolPacks.1.ideoName>na nArcaitheoirí</Structure_Archist.symbolPacks.1.ideoName>
   <!-- EN: archist -->
   <Structure_Archist.symbolPacks.1.member>archiste</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
@@ -134,7 +134,7 @@
   <!-- EN: ethical -->
   <Structure_Ideological.symbolPacks.0.adjective>éthique</Structure_Ideological.symbolPacks.0.adjective>
   <!-- EN: Ethics -->
-  <Structure_Ideological.symbolPacks.0.ideoName>Moralisme</Structure_Ideological.symbolPacks.0.ideoName>
+  <Structure_Ideological.symbolPacks.0.ideoName>an Mhoráltachais</Structure_Ideological.symbolPacks.0.ideoName>
   <!-- EN: ethicist -->
   <Structure_Ideological.symbolPacks.0.member>moraliste</Structure_Ideological.symbolPacks.0.member>
   <!-- EN: ethics -->
@@ -142,7 +142,7 @@
   <!-- EN: ideological -->
   <Structure_Ideological.symbolPacks.1.adjective>idéologique</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
-  <Structure_Ideological.symbolPacks.1.ideoName>Idéologie</Structure_Ideological.symbolPacks.1.ideoName>
+  <Structure_Ideological.symbolPacks.1.ideoName>na hIdé-eolaíochta</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
   <Structure_Ideological.symbolPacks.1.member>idéologue</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
@@ -150,7 +150,7 @@
   <!-- EN: just -->
   <Structure_Ideological.symbolPacks.2.adjective>juste</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
-  <Structure_Ideological.symbolPacks.2.ideoName>Justice</Structure_Ideological.symbolPacks.2.ideoName>
+  <Structure_Ideological.symbolPacks.2.ideoName>an Cheartais</Structure_Ideological.symbolPacks.2.ideoName>
   <!-- EN: justicar -->
   <Structure_Ideological.symbolPacks.2.member>justicier</Structure_Ideological.symbolPacks.2.member>
   <!-- EN: justice -->
@@ -207,7 +207,7 @@
   <!-- EN: spiritual -->
   <Structure_TheistAbstract.symbolPacks.0.adjective>spirituel</Structure_TheistAbstract.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
-  <Structure_TheistAbstract.symbolPacks.0.ideoName>Spiritisme</Structure_TheistAbstract.symbolPacks.0.ideoName>
+  <Structure_TheistAbstract.symbolPacks.0.ideoName>an Spiorad</Structure_TheistAbstract.symbolPacks.0.ideoName>
   <!-- EN: spiritist -->
   <Structure_TheistAbstract.symbolPacks.0.member>spiritiste</Structure_TheistAbstract.symbolPacks.0.member>
   <!-- EN: spiritualism -->
@@ -215,7 +215,7 @@
   <!-- EN: faithful -->
   <Structure_TheistAbstract.symbolPacks.1.adjective>fidèle</Structure_TheistAbstract.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistAbstract.symbolPacks.1.ideoName>Foi</Structure_TheistAbstract.symbolPacks.1.ideoName>
+  <Structure_TheistAbstract.symbolPacks.1.ideoName>an Chreidimh</Structure_TheistAbstract.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
   <Structure_TheistAbstract.symbolPacks.1.member>fidèle</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
@@ -223,7 +223,7 @@
   <!-- EN: divinist -->
   <Structure_TheistAbstract.symbolPacks.2.adjective>divin</Structure_TheistAbstract.symbolPacks.2.adjective>
   <!-- EN: Divinism -->
-  <Structure_TheistAbstract.symbolPacks.2.ideoName>Divinisme</Structure_TheistAbstract.symbolPacks.2.ideoName>
+  <Structure_TheistAbstract.symbolPacks.2.ideoName>Dé</Structure_TheistAbstract.symbolPacks.2.ideoName>
   <!-- EN: divinist -->
   <Structure_TheistAbstract.symbolPacks.2.member>diviniste</Structure_TheistAbstract.symbolPacks.2.member>
   <!-- EN: divinity -->
@@ -231,7 +231,7 @@
   <!-- EN: holyist -->
   <Structure_TheistAbstract.symbolPacks.3.adjective>holistique</Structure_TheistAbstract.symbolPacks.3.adjective>
   <!-- EN: Holyism -->
-  <Structure_TheistAbstract.symbolPacks.3.ideoName>Holyisme</Structure_TheistAbstract.symbolPacks.3.ideoName>
+  <Structure_TheistAbstract.symbolPacks.3.ideoName>na Naofachta</Structure_TheistAbstract.symbolPacks.3.ideoName>
   <!-- EN: holyist -->
   <Structure_TheistAbstract.symbolPacks.3.member>holyiste</Structure_TheistAbstract.symbolPacks.3.member>
   <!-- EN: holiness -->
@@ -272,7 +272,7 @@
   <!-- EN: spiritual -->
   <Structure_TheistEmbodied.symbolPacks.0.adjective>spirituel</Structure_TheistEmbodied.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
-  <Structure_TheistEmbodied.symbolPacks.0.ideoName>Spiritisme</Structure_TheistEmbodied.symbolPacks.0.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.0.ideoName>an Spioradachais</Structure_TheistEmbodied.symbolPacks.0.ideoName>
   <!-- EN: spiritist -->
   <Structure_TheistEmbodied.symbolPacks.0.member>spiritiste</Structure_TheistEmbodied.symbolPacks.0.member>
   <!-- EN: spiritualism -->
@@ -280,7 +280,7 @@
   <!-- EN: faithful -->
   <Structure_TheistEmbodied.symbolPacks.1.adjective>fidèle</Structure_TheistEmbodied.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.ideoName>Foi</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.1.ideoName>na Muiníne</Structure_TheistEmbodied.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
   <Structure_TheistEmbodied.symbolPacks.1.member>fidèle</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->

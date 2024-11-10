@@ -94,7 +94,7 @@
   <!-- EN: animalistic -->
   <AnimalPersonhood.symbolPacks.0.adjective>animalistique</AnimalPersonhood.symbolPacks.0.adjective>
   <!-- EN: Animalism -->
-  <AnimalPersonhood.symbolPacks.0.ideoName>Animalisme</AnimalPersonhood.symbolPacks.0.ideoName>
+  <AnimalPersonhood.symbolPacks.0.ideoName>na nAinmhithe</AnimalPersonhood.symbolPacks.0.ideoName>
   <!-- EN: animalist -->
   <AnimalPersonhood.symbolPacks.0.member>Animaliste</AnimalPersonhood.symbolPacks.0.member>
   <!-- EN: animals -->
@@ -102,7 +102,7 @@
   <!-- EN: beastic -->
   <AnimalPersonhood.symbolPacks.1.adjective>bestial</AnimalPersonhood.symbolPacks.1.adjective>
   <!-- EN: Beastism -->
-  <AnimalPersonhood.symbolPacks.1.ideoName>Bestialisme</AnimalPersonhood.symbolPacks.1.ideoName>
+  <AnimalPersonhood.symbolPacks.1.ideoName>na mBeithíoch</AnimalPersonhood.symbolPacks.1.ideoName>
   <!-- EN: beastor -->
   <AnimalPersonhood.symbolPacks.1.member>bestiole</AnimalPersonhood.symbolPacks.1.member>
   <!-- EN: beasts -->
@@ -274,7 +274,7 @@
   <!-- EN: cannibal -->
   <Cannibal.symbolPacks.0.adjective>cannibale</Cannibal.symbolPacks.0.adjective>
   <!-- EN: Cannibalism -->
-  <Cannibal.symbolPacks.0.ideoName>Cannibalisme</Cannibal.symbolPacks.0.ideoName>
+  <Cannibal.symbolPacks.0.ideoName>na gCanablach</Cannibal.symbolPacks.0.ideoName>
   <!-- EN: cannibal -->
   <Cannibal.symbolPacks.0.member>cannibale</Cannibal.symbolPacks.0.member>
   <!-- EN: cannibalism -->
@@ -282,7 +282,7 @@
   <!-- EN: androphage -->
   <Cannibal.symbolPacks.1.adjective>androphage</Cannibal.symbolPacks.1.adjective>
   <!-- EN: Androphagy -->
-  <Cannibal.symbolPacks.1.ideoName>Androphagie</Cannibal.symbolPacks.1.ideoName>
+  <Cannibal.symbolPacks.1.ideoName>na Feola</Cannibal.symbolPacks.1.ideoName>
   <!-- EN: androphage -->
   <Cannibal.symbolPacks.1.member>androphage</Cannibal.symbolPacks.1.member>
   <!-- EN: androphagy -->
@@ -290,7 +290,7 @@
   <!-- EN: manporky -->
   <Cannibal.symbolPacks.2.adjective>anthropophage</Cannibal.symbolPacks.2.adjective>
   <!-- EN: Manporkism -->
-  <Cannibal.symbolPacks.2.ideoName>Anthropophagie</Cannibal.symbolPacks.2.ideoName>
+  <Cannibal.symbolPacks.2.ideoName>an Bhánbhia</Cannibal.symbolPacks.2.ideoName>
   <!-- EN: manporkist -->
   <Cannibal.symbolPacks.2.member>anthropophage</Cannibal.symbolPacks.2.member>
   <!-- EN: manpork -->
@@ -434,7 +434,7 @@
   <!-- EN: purist -->
   <FleshPurity.symbolPacks.0.adjective>puriste</FleshPurity.symbolPacks.0.adjective>
   <!-- EN: Purism -->
-  <FleshPurity.symbolPacks.0.ideoName>Purisme</FleshPurity.symbolPacks.0.ideoName>
+  <FleshPurity.symbolPacks.0.ideoName>na Glaineachta</FleshPurity.symbolPacks.0.ideoName>
   <!-- EN: purifier -->
   <FleshPurity.symbolPacks.0.member>purificateur</FleshPurity.symbolPacks.0.member>
   <!-- EN: purity -->
@@ -442,7 +442,7 @@
   <!-- EN: fleshist -->
   <FleshPurity.symbolPacks.1.adjective>chairique</FleshPurity.symbolPacks.1.adjective>
   <!-- EN: Fleshism -->
-  <FleshPurity.symbolPacks.1.ideoName>Chairisme</FleshPurity.symbolPacks.1.ideoName>
+  <FleshPurity.symbolPacks.1.ideoName>an Chraicinn</FleshPurity.symbolPacks.1.ideoName>
   <!-- EN: fleshist -->
   <FleshPurity.symbolPacks.1.member>chairiste</FleshPurity.symbolPacks.1.member>
   <!-- EN: flesh -->
@@ -450,7 +450,7 @@
   <!-- EN: sanctic -->
   <FleshPurity.symbolPacks.2.adjective>sanctique</FleshPurity.symbolPacks.2.adjective>
   <!-- EN: Sanctism -->
-  <FleshPurity.symbolPacks.2.ideoName>Sanctisme</FleshPurity.symbolPacks.2.ideoName>
+  <FleshPurity.symbolPacks.2.ideoName>na Naofachta</FleshPurity.symbolPacks.2.ideoName>
   <!-- EN: sanctic -->
   <FleshPurity.symbolPacks.2.member>Sanctiste</FleshPurity.symbolPacks.2.member>
   <!-- EN: sanctity -->
@@ -535,7 +535,7 @@
   <!-- EN: euphorist -->
   <HighLife.symbolPacks.0.adjective>euphorique</HighLife.symbolPacks.0.adjective>
   <!-- EN: Euphorism -->
-  <HighLife.symbolPacks.0.ideoName>Euphorisme</HighLife.symbolPacks.0.ideoName>
+  <HighLife.symbolPacks.0.ideoName>an Ghliondair</HighLife.symbolPacks.0.ideoName>
   <!-- EN: euphor -->
   <HighLife.symbolPacks.0.member>euphoriste</HighLife.symbolPacks.0.member>
   <!-- EN: euphoria -->
@@ -543,7 +543,7 @@
   <!-- EN: dopist -->
   <HighLife.symbolPacks.1.adjective>drogué</HighLife.symbolPacks.1.adjective>
   <!-- EN: Dopistry -->
-  <HighLife.symbolPacks.1.ideoName>droguisme</HighLife.symbolPacks.1.ideoName>
+  <HighLife.symbolPacks.1.ideoName>an Dóip</HighLife.symbolPacks.1.ideoName>
   <!-- EN: doper -->
   <HighLife.symbolPacks.1.member>drogué</HighLife.symbolPacks.1.member>
   <!-- EN: dope -->
@@ -551,7 +551,7 @@
   <!-- EN: smokist -->
   <HighLife.symbolPacks.2.adjective>fumant</HighLife.symbolPacks.2.adjective>
   <!-- EN: Smokism -->
-  <HighLife.symbolPacks.2.ideoName>fumisme</HighLife.symbolPacks.2.ideoName>
+  <HighLife.symbolPacks.2.ideoName>an Deataigh</HighLife.symbolPacks.2.ideoName>
   <!-- EN: smoker -->
   <HighLife.symbolPacks.2.member>fumeur</HighLife.symbolPacks.2.member>
   <!-- EN: smoke -->
@@ -559,7 +559,7 @@
   <!-- EN: ecstatic -->
   <HighLife.symbolPacks.3.adjective>extatique</HighLife.symbolPacks.3.adjective>
   <!-- EN: Ecstasy -->
-  <HighLife.symbolPacks.3.ideoName>Extase</HighLife.symbolPacks.3.ideoName>
+  <HighLife.symbolPacks.3.ideoName>an Aoibhnis</HighLife.symbolPacks.3.ideoName>
   <!-- EN: ecstator -->
   <HighLife.symbolPacks.3.member>Extateur</HighLife.symbolPacks.3.member>
   <!-- EN: ecstasy -->
@@ -632,7 +632,7 @@
   <!-- EN: nudist -->
   <Nudism.symbolPacks.0.adjective>nudiste</Nudism.symbolPacks.0.adjective>
   <!-- EN: nudism -->
-  <Nudism.symbolPacks.0.ideoName>nudisme</Nudism.symbolPacks.0.ideoName>
+  <Nudism.symbolPacks.0.ideoName>na Nochtachta</Nudism.symbolPacks.0.ideoName>
   <!-- EN: nudist -->
   <Nudism.symbolPacks.0.member>nudiste</Nudism.symbolPacks.0.member>
   <!-- EN: nudity -->
@@ -640,7 +640,7 @@
   <!-- EN: skinnist -->
   <Nudism.symbolPacks.1.adjective>naturiste</Nudism.symbolPacks.1.adjective>
   <!-- EN: skinism -->
-  <Nudism.symbolPacks.1.ideoName>naturisme</Nudism.symbolPacks.1.ideoName>
+  <Nudism.symbolPacks.1.ideoName>na Lomnochtachta</Nudism.symbolPacks.1.ideoName>
   <!-- EN: skinnist -->
   <Nudism.symbolPacks.1.member>naturiste</Nudism.symbolPacks.1.member>
   <!-- EN: skin -->
@@ -743,7 +743,7 @@
   <!-- EN: painist -->
   <PainIsVirtue.symbolPacks.0.adjective>douloureux</PainIsVirtue.symbolPacks.0.adjective>
   <!-- EN: Painism -->
-  <PainIsVirtue.symbolPacks.0.ideoName>Doulourisme</PainIsVirtue.symbolPacks.0.ideoName>
+  <PainIsVirtue.symbolPacks.0.ideoName>na Péine</PainIsVirtue.symbolPacks.0.ideoName>
   <!-- EN: screamer -->
   <PainIsVirtue.symbolPacks.0.member>hurleur</PainIsVirtue.symbolPacks.0.member>
   <!-- EN: pain -->
@@ -751,7 +751,7 @@
   <!-- EN: torturistic -->
   <PainIsVirtue.symbolPacks.1.adjective>torturique</PainIsVirtue.symbolPacks.1.adjective>
   <!-- EN: Torturism -->
-  <PainIsVirtue.symbolPacks.1.ideoName>Torturisme</PainIsVirtue.symbolPacks.1.ideoName>
+  <PainIsVirtue.symbolPacks.1.ideoName>an Chrá</PainIsVirtue.symbolPacks.1.ideoName>
   <!-- EN: torturist -->
   <PainIsVirtue.symbolPacks.1.member>Tortionnaire</PainIsVirtue.symbolPacks.1.member>
   <!-- EN: torture -->
@@ -759,7 +759,7 @@
   <!-- EN: sufferist -->
   <PainIsVirtue.symbolPacks.2.adjective>souffrance</PainIsVirtue.symbolPacks.2.adjective>
   <!-- EN: Sufferism -->
-  <PainIsVirtue.symbolPacks.2.ideoName>Souffrisme</PainIsVirtue.symbolPacks.2.ideoName>
+  <PainIsVirtue.symbolPacks.2.ideoName>na Fulaingthe</PainIsVirtue.symbolPacks.2.ideoName>
   <!-- EN: sufferer -->
   <PainIsVirtue.symbolPacks.2.member>souffrique</PainIsVirtue.symbolPacks.2.member>
   <!-- EN: suffering -->
@@ -767,7 +767,7 @@
   <!-- EN: agonist -->
   <PainIsVirtue.symbolPacks.3.adjective>agonisant</PainIsVirtue.symbolPacks.3.adjective>
   <!-- EN: Agonism -->
-  <PainIsVirtue.symbolPacks.3.ideoName>Agonisme</PainIsVirtue.symbolPacks.3.ideoName>
+  <PainIsVirtue.symbolPacks.3.ideoName>na Géarphéine</PainIsVirtue.symbolPacks.3.ideoName>
   <!-- EN: agonist -->
   <PainIsVirtue.symbolPacks.3.member>agoniste</PainIsVirtue.symbolPacks.3.member>
   <!-- EN: agony -->
@@ -775,7 +775,7 @@
   <!-- EN: miserist -->
   <PainIsVirtue.symbolPacks.4.adjective>misérable</PainIsVirtue.symbolPacks.4.adjective>
   <!-- EN: Miserism -->
-  <PainIsVirtue.symbolPacks.4.ideoName>Misérisme</PainIsVirtue.symbolPacks.4.ideoName>
+  <PainIsVirtue.symbolPacks.4.ideoName>an Chruatain</PainIsVirtue.symbolPacks.4.ideoName>
   <!-- EN: martyr -->
   <PainIsVirtue.symbolPacks.4.member>martyre</PainIsVirtue.symbolPacks.4.member>
   <!-- EN: misery -->
@@ -840,7 +840,7 @@
   <!-- EN: truthist -->
   <Proselytizer.symbolPacks.0.adjective>véridique</Proselytizer.symbolPacks.0.adjective>
   <!-- EN: Truth -->
-  <Proselytizer.symbolPacks.0.ideoName>Vérité</Proselytizer.symbolPacks.0.ideoName>
+  <Proselytizer.symbolPacks.0.ideoName>na Fírinne</Proselytizer.symbolPacks.0.ideoName>
   <!-- EN: truthist -->
   <Proselytizer.symbolPacks.0.member>vériste</Proselytizer.symbolPacks.0.member>
   <!-- EN: truth -->
@@ -848,7 +848,7 @@
   <!-- EN: veritic -->
   <Proselytizer.symbolPacks.1.adjective>véridique</Proselytizer.symbolPacks.1.adjective>
   <!-- EN: Verity -->
-  <Proselytizer.symbolPacks.1.ideoName>Vérité</Proselytizer.symbolPacks.1.ideoName>
+  <Proselytizer.symbolPacks.1.ideoName>na Fírinne</Proselytizer.symbolPacks.1.ideoName>
   <!-- EN: veritist -->
   <Proselytizer.symbolPacks.1.member>vériste</Proselytizer.symbolPacks.1.member>
   <!-- EN: verity -->
@@ -856,7 +856,7 @@
   <!-- EN: realitic -->
   <Proselytizer.symbolPacks.2.adjective>réaliste</Proselytizer.symbolPacks.2.adjective>
   <!-- EN: Reality -->
-  <Proselytizer.symbolPacks.2.ideoName>Réalité</Proselytizer.symbolPacks.2.ideoName>
+  <Proselytizer.symbolPacks.2.ideoName>an tSaoil</Proselytizer.symbolPacks.2.ideoName>
   <!-- EN: realitist -->
   <Proselytizer.symbolPacks.2.member>réaliste</Proselytizer.symbolPacks.2.member>
   <!-- EN: reality -->
@@ -941,7 +941,7 @@
   <!-- EN: raidist -->
   <Raider.symbolPacks.0.adjective>pillage</Raider.symbolPacks.0.adjective>
   <!-- EN: Raidism -->
-  <Raider.symbolPacks.0.ideoName>pillage</Raider.symbolPacks.0.ideoName>
+  <Raider.symbolPacks.0.ideoName>na Ruathairí</Raider.symbolPacks.0.ideoName>
   <!-- EN: raidist -->
   <Raider.symbolPacks.0.member>pilleur</Raider.symbolPacks.0.member>
   <!-- EN: raiding -->
@@ -949,7 +949,7 @@
   <!-- EN: plunderic -->
   <Raider.symbolPacks.1.adjective>pillage</Raider.symbolPacks.1.adjective>
   <!-- EN: Plunderism -->
-  <Raider.symbolPacks.1.ideoName>pillage</Raider.symbolPacks.1.ideoName>
+  <Raider.symbolPacks.1.ideoName>an tSlada</Raider.symbolPacks.1.ideoName>
   <!-- EN: plunderer -->
   <Raider.symbolPacks.1.member>brigand</Raider.symbolPacks.1.member>
   <!-- EN: plundering -->
@@ -957,7 +957,7 @@
   <!-- EN: lootist -->
   <Raider.symbolPacks.2.adjective>pillage</Raider.symbolPacks.2.adjective>
   <!-- EN: Lootism -->
-  <Raider.symbolPacks.2.ideoName>pillage</Raider.symbolPacks.2.ideoName>
+  <Raider.symbolPacks.2.ideoName>na gCreachtaí</Raider.symbolPacks.2.ideoName>
   <!-- EN: looter -->
   <Raider.symbolPacks.2.member>pillard</Raider.symbolPacks.2.member>
   <!-- EN: looting -->
@@ -965,7 +965,7 @@
   <!-- EN: kleptic -->
   <Raider.symbolPacks.3.adjective>volé</Raider.symbolPacks.3.adjective>
   <!-- EN: Kleptism -->
-  <Raider.symbolPacks.3.ideoName>vol</Raider.symbolPacks.3.ideoName>
+  <Raider.symbolPacks.3.ideoName>na nGadaithe</Raider.symbolPacks.3.ideoName>
   <!-- EN: kleptor -->
   <Raider.symbolPacks.3.member>voleur</Raider.symbolPacks.3.member>
   <!-- EN: kleptism -->
@@ -1050,7 +1050,7 @@
   <!-- EN: ranch -->
   <Rancher.symbolPacks.0.adjective>élevé</Rancher.symbolPacks.0.adjective>
   <!-- EN: Ranchism -->
-  <Rancher.symbolPacks.0.ideoName>Elevisme</Rancher.symbolPacks.0.ideoName>
+  <Rancher.symbolPacks.0.ideoName>na Rainseoirí</Rancher.symbolPacks.0.ideoName>
   <!-- EN: rancher -->
   <Rancher.symbolPacks.0.member>eleveur</Rancher.symbolPacks.0.member>
   <!-- EN: ranching -->
@@ -1058,15 +1058,15 @@
   <!-- EN: herdic -->
   <Rancher.symbolPacks.1.adjective>herbique</Rancher.symbolPacks.1.adjective>
   <!-- EN: Herdism -->
-  <Rancher.symbolPacks.1.ideoName>Herbisme</Rancher.symbolPacks.1.ideoName>
+  <Rancher.symbolPacks.1.ideoName>na dTréad</Rancher.symbolPacks.1.ideoName>
   <!-- EN: herder -->
   <Rancher.symbolPacks.1.member>herbeur</Rancher.symbolPacks.1.member>
   <!-- EN: herding -->
-  <Rancher.symbolPacks.1.theme>herbe</Rancher.symbolPacks.1.theme>
+  <Rancher.symbolPacks.1.theme>na dTréadaithe</Rancher.symbolPacks.1.theme>
   <!-- EN: pasturic -->
   <Rancher.symbolPacks.2.adjective>pâturique</Rancher.symbolPacks.2.adjective>
   <!-- EN: Pasturism -->
-  <Rancher.symbolPacks.2.ideoName>Pâturisme</Rancher.symbolPacks.2.ideoName>
+  <Rancher.symbolPacks.2.ideoName>na bhFéarach</Rancher.symbolPacks.2.ideoName>
   <!-- EN: pasturist -->
   <Rancher.symbolPacks.2.member>pâtureur</Rancher.symbolPacks.2.member>
   <!-- EN: pastures -->
@@ -1173,7 +1173,7 @@
   <!-- EN: technologistic -->
   <Transhumanist.symbolPacks.0.adjective>technologistique</Transhumanist.symbolPacks.0.adjective>
   <!-- EN: Technologism -->
-  <Transhumanist.symbolPacks.0.ideoName>Technologisme</Transhumanist.symbolPacks.0.ideoName>
+  <Transhumanist.symbolPacks.0.ideoName>na Teicneolaíochta</Transhumanist.symbolPacks.0.ideoName>
   <!-- EN: technologist -->
   <Transhumanist.symbolPacks.0.member>technologiste</Transhumanist.symbolPacks.0.member>
   <!-- EN: technology -->
@@ -1181,15 +1181,15 @@
   <!-- EN: progressist -->
   <Transhumanist.symbolPacks.1.adjective>progressiste</Transhumanist.symbolPacks.1.adjective>
   <!-- EN: Progressism -->
-  <Transhumanist.symbolPacks.1.ideoName>Progressisme</Transhumanist.symbolPacks.1.ideoName>
+  <Transhumanist.symbolPacks.1.ideoName>an Leanúnachais</Transhumanist.symbolPacks.1.ideoName>
   <!-- EN: progressor -->
   <Transhumanist.symbolPacks.1.member>progressiste</Transhumanist.symbolPacks.1.member>
   <!-- EN: progress -->
-  <Transhumanist.symbolPacks.1.theme>progrès</Transhumanist.symbolPacks.1.theme>
+  <Transhumanist.symbolPacks.1.theme>an Fhoráis</Transhumanist.symbolPacks.1.theme>
   <!-- EN: machinist -->
   <Transhumanist.symbolPacks.2.adjective>machiniste</Transhumanist.symbolPacks.2.adjective>
   <!-- EN: Machinism -->
-  <Transhumanist.symbolPacks.2.ideoName>Machinisme</Transhumanist.symbolPacks.2.ideoName>
+  <Transhumanist.symbolPacks.2.ideoName>na Meicnitheoirí</Transhumanist.symbolPacks.2.ideoName>
   <!-- EN: machinist -->
   <Transhumanist.symbolPacks.2.member>machiniste</Transhumanist.symbolPacks.2.member>
   <!-- EN: machinery -->
@@ -1197,7 +1197,7 @@
   <!-- EN: steelist -->
   <Transhumanist.symbolPacks.3.adjective>sidérurgique</Transhumanist.symbolPacks.3.adjective>
   <!-- EN: Steelism -->
-  <Transhumanist.symbolPacks.3.ideoName>sidérurgisme</Transhumanist.symbolPacks.3.ideoName>
+  <Transhumanist.symbolPacks.3.ideoName>na Cruach</Transhumanist.symbolPacks.3.ideoName>
   <!-- EN: steeler -->
   <Transhumanist.symbolPacks.3.member>sidérurgiste</Transhumanist.symbolPacks.3.member>
   <!-- EN: steel -->
@@ -1205,7 +1205,7 @@
   <!-- EN: automatist -->
   <Transhumanist.symbolPacks.4.adjective>automatique</Transhumanist.symbolPacks.4.adjective>
   <!-- EN: Automatism -->
-  <Transhumanist.symbolPacks.4.ideoName>Automatisme</Transhumanist.symbolPacks.4.ideoName>
+  <Transhumanist.symbolPacks.4.ideoName>an Uathoibrithe</Transhumanist.symbolPacks.4.ideoName>
   <!-- EN: automator -->
   <Transhumanist.symbolPacks.4.member>automatiste</Transhumanist.symbolPacks.4.member>
   <!-- EN: automata -->
@@ -1213,7 +1213,7 @@
   <!-- EN: augmentist -->
   <Transhumanist.symbolPacks.5.adjective>augmentiste</Transhumanist.symbolPacks.5.adjective>
   <!-- EN: Augmentism -->
-  <Transhumanist.symbolPacks.5.ideoName>Augmentisme</Transhumanist.symbolPacks.5.ideoName>
+  <Transhumanist.symbolPacks.5.ideoName>an Bhreisithe</Transhumanist.symbolPacks.5.ideoName>
   <!-- EN: augmentor -->
   <Transhumanist.symbolPacks.5.member>augmentateur</Transhumanist.symbolPacks.5.member>
   <!-- EN: augmentation -->

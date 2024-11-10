@@ -82,7 +82,7 @@
   <!-- EN: guiltist -->
   <Guilty.symbolPacks.0.adjective>culpabilisant</Guilty.symbolPacks.0.adjective>
   <!-- EN: Guiltism -->
-  <Guilty.symbolPacks.0.ideoName>Culpabilisme</Guilty.symbolPacks.0.ideoName>
+  <Guilty.symbolPacks.0.ideoName>na Ciontachta</Guilty.symbolPacks.0.ideoName>
   <!-- EN: guilty One -->
   <Guilty.symbolPacks.0.member>Premier coupable</Guilty.symbolPacks.0.member>
   <!-- EN: guilt -->
@@ -90,7 +90,7 @@
   <!-- EN: sinist -->
   <Guilty.symbolPacks.1.adjective>péchiste</Guilty.symbolPacks.1.adjective>
   <!-- EN: Sinism -->
-  <Guilty.symbolPacks.1.ideoName>Péchisme</Guilty.symbolPacks.1.ideoName>
+  <Guilty.symbolPacks.1.ideoName>na bPeacaí</Guilty.symbolPacks.1.ideoName>
   <!-- EN: sinner -->
   <Guilty.symbolPacks.1.member>pécheur</Guilty.symbolPacks.1.member>
   <!-- EN: sin -->
@@ -98,7 +98,7 @@
   <!-- EN: shamist -->
   <Guilty.symbolPacks.2.adjective>honteux</Guilty.symbolPacks.2.adjective>
   <!-- EN: Shamism -->
-  <Guilty.symbolPacks.2.ideoName>Hontisme</Guilty.symbolPacks.2.ideoName>
+  <Guilty.symbolPacks.2.ideoName>na Náire</Guilty.symbolPacks.2.ideoName>
   <!-- EN: ashamer -->
   <Guilty.symbolPacks.2.member>hontiste</Guilty.symbolPacks.2.member>
   <!-- EN: shame -->
@@ -106,7 +106,7 @@
   <!-- EN: atonist -->
   <Guilty.symbolPacks.3.adjective>expiatique</Guilty.symbolPacks.3.adjective>
   <!-- EN: Atonism -->
-  <Guilty.symbolPacks.3.ideoName>Expiatisme</Guilty.symbolPacks.3.ideoName>
+  <Guilty.symbolPacks.3.ideoName>an Taithligh</Guilty.symbolPacks.3.ideoName>
   <!-- EN: atoner -->
   <Guilty.symbolPacks.3.member>expiateur</Guilty.symbolPacks.3.member>
   <!-- EN: atonement -->
@@ -176,7 +176,7 @@
   <!-- EN: loyal -->
   <Loyalist.symbolPacks.0.adjective>dílis</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
-  <Loyalist.symbolPacks.0.ideoName>Dílseacht</Loyalist.symbolPacks.0.ideoName>
+  <Loyalist.symbolPacks.0.ideoName>na Dílseachta</Loyalist.symbolPacks.0.ideoName>
   <!-- EN: loyalist -->
   <Loyalist.symbolPacks.0.member>dílsitheoir</Loyalist.symbolPacks.0.member>
   <!-- EN: loyalty -->
@@ -184,7 +184,7 @@
   <!-- EN: fealtist -->
   <Loyalist.symbolPacks.1.adjective>dílsitheoir</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>Dílseacht</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>na Dílseachta</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
   <Loyalist.symbolPacks.1.member>dílseoir</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
@@ -192,7 +192,7 @@
   <!-- EN: fidelist -->
   <Loyalist.symbolPacks.2.adjective>dílsitheoir</Loyalist.symbolPacks.2.adjective>
   <!-- EN: Fidelism -->
-  <Loyalist.symbolPacks.2.ideoName>Dílseacht</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.ideoName>na nDílsitheoirí</Loyalist.symbolPacks.2.ideoName>
   <!-- EN: fidelor -->
   <Loyalist.symbolPacks.2.member>dílseoir</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->

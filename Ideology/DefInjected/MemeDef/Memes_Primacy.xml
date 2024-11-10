@@ -70,7 +70,7 @@
   <!-- EN: humanitist -->
   <HumanPrimacy.symbolPacks.0.adjective>humaniste</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
-  <HumanPrimacy.symbolPacks.0.ideoName>Humanisme</HumanPrimacy.symbolPacks.0.ideoName>
+  <HumanPrimacy.symbolPacks.0.ideoName>an Chine Dhaonna</HumanPrimacy.symbolPacks.0.ideoName>
   <!-- EN: humanitor -->
   <HumanPrimacy.symbolPacks.0.member>humaniste</HumanPrimacy.symbolPacks.0.member>
   <!-- EN: humanity -->
@@ -78,7 +78,7 @@
   <!-- EN: pro-man -->
   <HumanPrimacy.symbolPacks.1.adjective>pro-humain</HumanPrimacy.symbolPacks.1.adjective>
   <!-- EN: Mankindism -->
-  <HumanPrimacy.symbolPacks.1.ideoName>Anthroposisme</HumanPrimacy.symbolPacks.1.ideoName>
+  <HumanPrimacy.symbolPacks.1.ideoName>na hAntraipeolaíochta</HumanPrimacy.symbolPacks.1.ideoName>
   <!-- EN: mankindist -->
   <HumanPrimacy.symbolPacks.1.member>anthroposiste</HumanPrimacy.symbolPacks.1.member>
   <!-- EN: mankind -->
@@ -144,7 +144,7 @@
   <!-- EN: naturist -->
   <NaturePrimacy.symbolPacks.0.adjective>naturaliste</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->
-  <NaturePrimacy.symbolPacks.0.ideoName>Naturalisme</NaturePrimacy.symbolPacks.0.ideoName>
+  <NaturePrimacy.symbolPacks.0.ideoName>an Nádúir</NaturePrimacy.symbolPacks.0.ideoName>
   <!-- EN: naturist -->
   <NaturePrimacy.symbolPacks.0.member>naturaliste</NaturePrimacy.symbolPacks.0.member>
   <!-- EN: nature -->
@@ -152,7 +152,7 @@
   <!-- EN: earthist -->
   <NaturePrimacy.symbolPacks.1.adjective>terriste</NaturePrimacy.symbolPacks.1.adjective>
   <!-- EN: Earthism -->
-  <NaturePrimacy.symbolPacks.1.ideoName>Terrisme</NaturePrimacy.symbolPacks.1.ideoName>
+  <NaturePrimacy.symbolPacks.1.ideoName>an Domhain</NaturePrimacy.symbolPacks.1.ideoName>
   <!-- EN: earthist -->
   <NaturePrimacy.symbolPacks.1.member>terriste</NaturePrimacy.symbolPacks.1.member>
   <!-- EN: earth -->
@@ -160,7 +160,7 @@
   <!-- EN: soilist -->
   <NaturePrimacy.symbolPacks.2.adjective>géologique</NaturePrimacy.symbolPacks.2.adjective>
   <!-- EN: Soilism -->
-  <NaturePrimacy.symbolPacks.2.ideoName>Géologie</NaturePrimacy.symbolPacks.2.ideoName>
+  <NaturePrimacy.symbolPacks.2.ideoName>na Cré</NaturePrimacy.symbolPacks.2.ideoName>
   <!-- EN: soilist -->
   <NaturePrimacy.symbolPacks.2.member>géologue</NaturePrimacy.symbolPacks.2.member>
   <!-- EN: soil -->
@@ -168,7 +168,7 @@
   <!-- EN: lifeist -->
   <NaturePrimacy.symbolPacks.3.adjective>biologique</NaturePrimacy.symbolPacks.3.adjective>
   <!-- EN: Lifism -->
-  <NaturePrimacy.symbolPacks.3.ideoName>Biologie</NaturePrimacy.symbolPacks.3.ideoName>
+  <NaturePrimacy.symbolPacks.3.ideoName>an tSaoil</NaturePrimacy.symbolPacks.3.ideoName>
   <!-- EN: lifeist -->
   <NaturePrimacy.symbolPacks.3.member>biologiste</NaturePrimacy.symbolPacks.3.member>
   <!-- EN: life -->
