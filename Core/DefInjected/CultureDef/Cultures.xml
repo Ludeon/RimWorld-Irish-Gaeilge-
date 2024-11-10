@@ -4,21 +4,21 @@
   <!-- EN: astropolitan -->
   <Astropolitan.label>astrapholaiteach</Astropolitan.label>
   <!-- EN: A broad collection of cultures common among frequent space travelers. -->
-  <Astropolitan.description>Bailiúchán leathan cultúr a bhíonn coitianta i measc spás-taistealaithe.</Astropolitan.description>
+  <Astropolitan.description>Bailiúchán leathan cultúr, atá coitianta i measc spás-taistealaithe.</Astropolitan.description>
   
   <!-- EN: corunan -->
   <Corunan.label>coranach</Corunan.label>
   <!-- EN: An ancient culture common among rimworld tribes. -->
-  <Corunan.description>Cultúr ársa a bhíonn coitianta i measc treabhanna ar phlánéid iargúlta.</Corunan.description>
+  <Corunan.description>Cultúr ársa atá coitianta i measc treabhanna ar phlánéid iargúlta.</Corunan.description>
   
   <!-- EN: kriminul -->
   <Kriminul.label>coirpeach</Kriminul.label>
   <!-- EN: A broad category describing the styles and practices of many pirate groups. -->
-  <Kriminul.description>Catagóir leathan a dhéanann cur síos ar na nósanna imeachta a bhíonn ag cuid mhór grúpaí foghlaithe.</Kriminul.description>
+  <Kriminul.description>Catagóir leathan a dhéanann cur síos ar na nósanna imeachta a bhíonn ag cuid mhór grúpaí píoraidí.</Kriminul.description>
   
   <!-- EN: rustican -->
   <Rustican.label>tuathánach</Rustican.label>
   <!-- EN: A hardy industrial culture common among rimworld outlanders. -->
-  <Rustican.description>Cultúr miotalach tionsclaíoch a bhíonn comónta i measc lonnaitheoirí ar phláinéid iargúlta.</Rustican.description>
+  <Rustican.description>Cultúr tionsclaíoch atá comónta i measc lonnaitheoirí ar phláinéid iargúlta.</Rustican.description>
   
 </LanguageData>

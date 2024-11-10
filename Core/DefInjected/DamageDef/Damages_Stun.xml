@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: EMP -->
-  <EMP.label>TODO</EMP.label>
+  <EMP.label>EMP</EMP.label>
   <!-- EN: {0} has been EMPed to death. -->
-  <EMP.deathMessage>TODO</EMP.deathMessage>
+  <EMP.deathMessage>Maraíodh {0} le EMP.</EMP.deathMessage>
   
   <!-- EN: stun -->
-  <Stun.label>BLM</Stun.label>
+  <Stun.label>stiúdadh</Stun.label>
   <!-- EN: {0} has been stunned to death. -->
   <Stun.deathMessage>Stiúdadh {0} chun báis.</Stun.deathMessage>
   

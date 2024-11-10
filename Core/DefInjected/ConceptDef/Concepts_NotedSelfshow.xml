@@ -46,19 +46,19 @@
   <CoverAndShooting.helpText>Tá sé tábhachtach cosaint a úsáid nuair atá tú ag troid le gunnaí.\n\nChun go n-oibreoudh foscadh i gceart, ní mór go mbeidh do choilíneach taobh leis an gcosaint, agus ní mór go mbeidh an chosaint idir do choilíneach agus an naimhde.\n\nIs féidir coilínigh a chur taobh le cuinní, agus breathnóidh siad timpeall an chúinne chun urchar a scaoileadh.\n\nIs féidir beagnach aon rud a úsáid mar fhoscadh, ach bíonn rudaí áirithe níos fearr ná rudaí eile. Is féidir dul i bhfoscadh taobh thiar de chrann, agus b'fhearr dul i bhfoscadh taobh thiar de mhála gainimh.</CoverAndShooting.helpText>
   
   <!-- EN: Item deterioration -->
-  <Deterioration.label>Meath</Deterioration.label>
+  <Deterioration.label>Earraí a stóráil i gceart</Deterioration.label>
   <!-- EN: Items left outdoors will slowly deteriorate.\n\nIf you want to store items long-term, keep them in a roofed room. -->
-  <Deterioration.helpText>TODO</Deterioration.helpText>
+  <Deterioration.helpText>Má choinntítear earraí lasmuigh, rachaidh siad in éag le himeacht ama.\n\nChun earraí a choinneáil go fadtéarmach, cuir faoi dhíon iad.</Deterioration.helpText>
   
   <!-- EN: Equipping weapons -->
-  <EquippingWeapons.label>TODO</EquippingWeapons.label>
+  <EquippingWeapons.label>Airm a úsáid</EquippingWeapons.label>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and right-click on the weapon you want them to equip. -->
-  <EquippingWeapons.helpText>TODO</EquippingWeapons.helpText>
+  <EquippingWeapons.helpText>Bhí cúpla arm ag do choilínigh nuair a leaindeáil siad.\n\nRoghnaigh gach coilíneach agus deaschliceáil ar gach arm chun a rá leo úsáid a bhaint astu.</EquippingWeapons.helpText>
   <!-- EN: Your colonists arrived with some weapons. Equip them!\n\nSelect each colonist and press the left trigger on the weapon you want them to equip. -->
-  <EquippingWeapons.helpTextController>TODO</EquippingWeapons.helpTextController>
+  <EquippingWeapons.helpTextController>Bhí cúpla arm ag do choilínigh nuair a leaindeáil siad.\n\nRoghnaigh gach coilíneach agus úsáid an truicear clé ar gach arm chun a rá leo úsáid a bhaint astu.</EquippingWeapons.helpTextController>
   
   <!-- EN: Fire preparation -->
-  <FirePreparation.label>TODO</FirePreparation.label>
+  <FirePreparation.label>comhrac dóiteáin</FirePreparation.label>
   <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
   <FirePreparation.helpText>TODO</FirePreparation.helpText>
   
