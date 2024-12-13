@@ -288,9 +288,9 @@
   <AlertAnimalPenNeededDescExplanation>Cruthaigh pionna trí mharcóir pionna a chur i gceantar atá timpeallaithe le sconsa, baracáid nó ballaí.\n\nRoghnaigh an marcóir pionna le fáil amach cé na hainmhithe is féidir a chur ann agus líon na n-ainmhithe is féidir a chur ann.\n\nCuirfidh do láimseálaithe ainmhithe isteach i bpionnaí go huathoibríoch má tá geata nó doras ann chun iad a ligean isteach.</AlertAnimalPenNeededDescExplanation>
   
   <!-- EN: Pen not enclosed -->
-  <AlertAnimalPenNotEnclosed>Pionna neamh-imfhálaithe</AlertAnimalPenNotEnclosed>
+  <AlertAnimalPenNotEnclosed>Clós oscailte</AlertAnimalPenNotEnclosed>
   <!-- EN: An animal pen marker is not enclosed.\n\nEnclose the pen using fences, barricades, gates, walls, or doors to prevent animals from wandering out.\n\nIf you have only unenclosed pen markers, your handlers can still lead wandering animals back home - but this must be repeated from time to time when the animals wander away once again. -->
-  <AlertAnimalPenNotEnclosedDesc>Tá marcóir pionna nach bhfui timpeallaithe i gceart.\n\nBí cinnte go bhfuil an pionna timpeallaithe le sconsa, baracáid, geataí, ballaí nó doirse ionas nach rachaidh ainmhithe ar strae. Má tá marcóir pionna agat amuigh faoin tír, féadfaidh láimhseálaithe ainmhithe a thabairt abhaile - ach beidh orthu é seo a dhéanamh arís agus arís eile.\n\nDie Gehegemarkierung muss nicht zwingend umzäunt sein. Deine Tierpfleger können weggelaufene Tiere wieder zurückholen - allerdings müssen sie das wiederholen, wenn die Tiere erneut weglaufen.</AlertAnimalPenNotEnclosedDesc>
+  <AlertAnimalPenNotEnclosedDesc>Tá clós ainmhithe ann nach bhfui timpeallaithe i gceart.\n\nBí cinnte go bhfuil an clós timpeallaithe le sconsa, baracáid, geataí, ballaí nó doirse ionas nach rachaidh ainmhithe ar strae. Má tá marcóirí pionna agat nach bhfuil timpeallaithe i gceart, beidh láimhseálaithe fós in ann ainmhithe a thabairt abhaile - ach imeoidh na hainmhithe ar strae agus beidh orthu iad a aimsiú arís agus arís eile.</AlertAnimalPenNotEnclosedDesc>
 
   <!-- EN: {ANIMAL_labelShort} in animal pen -->
   <AlertPredatorInAnimalPen>{ANIMAL_labelShort} i bpionna ainmhithe</AlertPredatorInAnimalPen>
@@ -320,7 +320,7 @@
   <AlertTimedRaidsArrivingAt>Sroicfidh siad {0} i gceann {1}</AlertTimedRaidsArrivingAt>
 
   <!-- EN: Faction will become hostile if you stay -->
-  <FactionWillBecomeHostileIfNotLeavingWithin>Eireoidh an faicsean seo naimhdeach má fhanann tú</FactionWillBecomeHostileIfNotLeavingWithin>
+  <FactionWillBecomeHostileIfNotLeavingWithin>Éireoidh an faicsean seo naimhdeach má fhanann tú</FactionWillBecomeHostileIfNotLeavingWithin>
   <!-- EN: These factions will become hostile if you stay for longer at their settlement or outpost:\n{0} -->
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Éireoidh na faicsin seo a leanas naimhdeach má fhanann tú níos faide ag a lonnaíocht nó ag a n-urphost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: heavy bandolier -->
-  <Apparel_Bandolier.label>schwerer Waffengurt</Apparel_Bandolier.label>
+  <Apparel_Bandolier.label>crios gualainne mór</Apparel_Bandolier.label>
   <!-- EN: A heavy shoulder-belt for keeping spare munitions close at hand. It allows quick access to bullets, grenades, arrows, or whatever the user needs, reducing their weapon's ranged cooldown. Due to its bulk, it can't be worn under other clothing. It doesn't cover the body, so it can be worn happily by nudists and yttakin. -->
-  <Apparel_Bandolier.description>Ein schwerer Schultergurt mit griffbereiter Ersatzmunition. Ermöglicht den schnellen Zugriff auf Munition, Granaten, Pfeile oder was auch immer nötig ist, und verringert so die Abklingzeit der Fernkampfwaffe des Trägers. Aufgrund seiner Sperrigkeit kann der Gurt nicht unter einer anderen Kleidung getragen werden. Der Gurt bedeckt nicht den Körper, weshalb er gerne von Nudisten und Yttakin getragen wird.</Apparel_Bandolier.description>
+  <Apparel_Bandolier.description>Crios gualainne mór a úsáidtear chun armlón spáráilte a choinneáil in aice láimhe. Is féidir urchair, gránáidí agus saigheada a choinneáil ar an gcrios, rud a chiallaíonn go bhféadfaidh coilínigh airm a athlódáil níos tapúla. Ní féidir an crios seo faoi éadaí eile, ach ní chumdaíonn sé an chorp mar sin is féidir le nochtaigh agus iatúitigh é a chaitheamh.</Apparel_Bandolier.description>
   
   <!-- EN: mechlord suit -->
   <Apparel_MechlordSuit.label>Mechlord-Rüstung</Apparel_MechlordSuit.label>

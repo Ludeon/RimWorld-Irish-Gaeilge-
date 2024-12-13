@@ -12,35 +12,35 @@
   <BabySleepingSpot.description>Kennzeichnet einen Platz auf dem Boden, auf dem ein Baby abgelegt werden soll. Unbequem.</BabySleepingSpot.description>
   
   <!-- EN: blackboard -->
-  <Blackboard.label>Schultafel</Blackboard.label>
+  <Blackboard.label>clár dubh</Blackboard.label>
   <!-- EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
-  <Blackboard.description>Eine flache, steinartige Oberfläche, auf die mit Kreide geschrieben wird. Kann in der Nähe des Schultischs platziert werden, um die Lernrate der Kinder beim Unterrichten zu erhöhen. Es können bis zu drei Tafeln gleichzeitig verwendet werden.</Blackboard.description>
+  <Blackboard.description>Is féidir scríobh ar an gclár dubh le cailc. Má chuirtear an clár dubh taobh le bord ranga, foghlaimeoidh leanaí níos tapúla. Is féidir suas le trí chlár dubh a chur i seomra ranga amháin.</Blackboard.description>
   <!-- EN: Learning rate -->
-  <Blackboard.comps.CompInspectStringBlackboard.inspectString>TODO</Blackboard.comps.CompInspectStringBlackboard.inspectString>
+  <Blackboard.comps.CompInspectStringBlackboard.inspectString>ráta foghlama</Blackboard.comps.CompInspectStringBlackboard.inspectString>
   
   <!-- UNUSED -->
   <Blackboard.comps.CompStatEntry.reportText>Wenn dieses Bauwerk in der Nähe eines Schultisches platziert wird, an dem gerade unterrichtet wird, steigert es die Lernrate der Schüler. Dieser Effekt ist bis zu dreimal stapelbar.</Blackboard.comps.CompStatEntry.reportText>
   <Blackboard.comps.CompStatEntry.statLabel>Lernratebonus</Blackboard.comps.CompStatEntry.statLabel>
   
   <!-- EN: crib -->
-  <Crib.label>Babybett</Crib.label>
+  <Crib.label>cliabhán</Crib.label>
   <!-- EN: A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
-  <Crib.description>Ein bequemes Bett mit Sicherheitsgittern an den Seiten, das perfekt für ein schlafendes Baby geeignet ist. Ein qualitativ hochwertiges Babybett macht ein Baby glücklich. Es können mehrere Babybetten in einem Schlafraum platziert werden, ohne dass dieser zu einem Schlafsaal wird.</Crib.description>
+  <Crib.description>Cliabhán compordach, ina bhféadfaidh leanaí ÓGA dul ina gcodladh. Is féidir níos mó ná cliabhán a chur sa seomra céanna gan bheairic a dheánamh de.</Crib.description>
   
   <!-- EN: school desk -->
-  <SchoolDesk.label>Schultisch</SchoolDesk.label>
+  <SchoolDesk.label>bord scoile</SchoolDesk.label>
   <!-- EN: A desk where adults can teach lessons to children. -->
-  <SchoolDesk.description>Ein Schultisch, an dem Kinder von Erwachsenen unterrichtet werden können.</SchoolDesk.description>
+  <SchoolDesk.description>Úsáidtear an bord seo chun ranganna a dhéanamh le leanaí.</SchoolDesk.description>
   <!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>Ein Multiplikator auf die Geschwindigkeit, mit der Kinder hier im Unterricht lernen.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>A multiplier on how quickly children learn during lessons which are assisted by this.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
   <!-- EN: Learning rate bonus -->
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>Lernratebonus</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>ráta foghlama</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
   <!-- EN: Learning rate bonus -->
-  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>Lernratebonus</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
+  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>ráta foghlama</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
   
   <!-- EN: toy box -->
-  <ToyBox.label>Spielkiste</ToyBox.label>
+  <ToyBox.label>bosca bréagán</ToyBox.label>
   <!-- EN: A toy box containing many small toys. Toy boxes can be used to play with babies, satisfying their need for play. -->
-  <ToyBox.description>Eine Kiste voller Spielzeuge. Kann genutzt werden, um mit Babys zu spielen und so ihren Spieldrang zu stillen.</ToyBox.description>
+  <ToyBox.description>Bosca ina bhfuil bréagáin éagsúla. Is féidir le leanaí súgradh le bréagáin, chun a gcuid riachtanais a chomhlíonadh.</ToyBox.description>
   
 </LanguageData>

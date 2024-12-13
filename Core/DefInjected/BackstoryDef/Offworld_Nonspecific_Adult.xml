@@ -265,7 +265,7 @@
   <Paramedic45.titleShort>paraimhíochaineoir</Paramedic45.titleShort>
   
   <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal social enforcement unit.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
-  <Policeman45.description>D'oibrigh [PAWN_nameDef] mar gharda agus tá oilte i ndíghéarú, smacht fisiciúil, lámhach agus scileanna póilíneachta eile. </Policeman45.description>
+  <Policeman45.description>D'oibrigh [PAWN_nameDef] mar gharda agus tá [PAWN_pronoun]oilte i ndíghéarú, smacht fisiciúil, lámhach agus scileanna póilíneachta eile. </Policeman45.description>
   <!-- EN: policeman -->
   <Policeman45.title>garda</Policeman45.title>
   <!-- EN: policewoman -->
@@ -276,59 +276,59 @@
   <Policeman45.titleShortFemale>garda</Policeman45.titleShortFemale>
   
   <!-- EN: [PAWN_nameDef] worked in a quarry helping to extract valuable stone from the hillside. [PAWN_pronoun] learned to sense opportunities and dangers in the stone by sight, touch, and intuition. -->
-  <QuarryWorker29.description>TODO</QuarryWorker29.description>
+  <QuarryWorker29.description>D'oibrigh [PAWN_nameDef] i gcairéal chun cloch a bhaint ón talamh.</QuarryWorker29.description>
   <!-- EN: quarry worker -->
-  <QuarryWorker29.title>TODO</QuarryWorker29.title>
+  <QuarryWorker29.title>oibrí cairéil</QuarryWorker29.title>
   <!-- EN: quarry worker -->
-  <QuarryWorker29.titleShort>TODO</QuarryWorker29.titleShort>
+  <QuarryWorker29.titleShort>oibrí cairéil</QuarryWorker29.titleShort>
   
   <!-- EN: [PAWN_nameDef] owned and operated a successful ranch where [PAWN_pronoun] raised animals for meat and wool.\n\n[PAWN_pronoun] refused to do any dumb labour [PAWN_pronoun] could pay someone else to do for [PAWN_objective]. -->
-  <Rancher43.description>TODO</Rancher43.description>
+  <Rancher43.description>Bhí a rainse féin ag [PAWN_nameDef], áit a thóg [PAWN_pronoun] ainmhithe. Ní dhearna [PAWN_pronoun] aon obair neamhoilte ar an rainse, toisc go raibh oibrithe ann an obair chrua a dhéanamh.</Rancher43.description>
   <!-- EN: rancher -->
-  <Rancher43.title>TODO</Rancher43.title>
+  <Rancher43.title>rainséir</Rancher43.title>
   <!-- EN: rancher -->
-  <Rancher43.titleShort>TODO</Rancher43.titleShort>
+  <Rancher43.titleShort>rainséir</Rancher43.titleShort>
   
   <!-- EN: [PAWN_nameDef] tracked animals and people for a wide range of clients. [PAWN_pronoun] became adept at reading spoor, finding food in the wild, and stalking prey. -->
-  <Ranger96.description>TODO</Ranger96.description>
+  <Ranger96.description>Is féidir le [PAWN_nameDef] ainmhithe agus bia a aimsiú san fhoraois.</Ranger96.description>
   <!-- EN: ranger -->
-  <Ranger96.title>TODO</Ranger96.title>
+  <Ranger96.title>maor páirce</Ranger96.title>
   <!-- EN: ranger -->
-  <Ranger96.titleShort>TODO</Ranger96.titleShort>
+  <Ranger96.titleShort>maor páirce</Ranger96.titleShort>
   
   <!-- EN: [PAWN_nameDef] was part of a revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.\n\n[PAWN_pronoun] traveled [PAWN_possessive] homeworld, judging the young people [PAWN_pronoun] met to determine if they might be suitable for training. -->
-  <Recruiter14.description>TODO</Recruiter14.description>
+  <Recruiter14.description>Bhí [PAWN_nameDef] mar chuid de ghrúpa rúnda a bhí an-oilte i gcearáite agus scileanna spiaireachta. Chaith [PAWN_pronoun] a c[PAWN_possessive]uid ama ag taisteal ar fud an phláinéid chun daoine nua a aimsiú don ghrúpa.</Recruiter14.description>
   <!-- EN: recruiter -->
-  <Recruiter14.title>TODO</Recruiter14.title>
+  <Recruiter14.title>earcaitheoir</Recruiter14.title>
   <!-- EN: recruiter -->
-  <Recruiter14.titleShort>TODO</Recruiter14.titleShort>
+  <Recruiter14.titleShort>earcaitheoir</Recruiter14.titleShort>
   
   <!-- EN: [PAWN_nameDef] slaughtered animals for a living. Others looked down on this work as filthy, but the skills required to manage and cleanly slaughter large numbers of animals were never simple. -->
-  <Slaughterer58.description>TODO</Slaughterer58.description>
+  <Slaughterer58.description>Mharaigh [PAWN_nameDef] grúpaí ainmhithe mar ghairm bheatha. Cheap daoine eile go raibh an obair sin salach, ach tá go leor scileanna de dhíth chun grúpa móra ainmhithe a mharú ar bhealach glan, éifeachtach.</Slaughterer58.description>
   <!-- EN: slaughterer -->
-  <Slaughterer58.title>TODO</Slaughterer58.title>
+  <Slaughterer58.title>sléachtóir</Slaughterer58.title>
   <!-- EN: slaughterer -->
-  <Slaughterer58.titleShort>TODO</Slaughterer58.titleShort>
+  <Slaughterer58.titleShort>sléachtóir</Slaughterer58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was educated in the liberal arts and taught at a public school. [PAWN_pronoun] was widely knowledgeable and well-liked by [PAWN_possessive] students. -->
-  <Teacher20.description>TODO</Teacher20.description>
+  <Teacher20.description>Fuair [PAWN_nameDef] a c[PAWN_possessive]uid oideachais sna healaíona agus bhí [PAWN_pronoun] ina m[PAWN_possessive]úinteoir i scoil phoiblí. Tá raon leathan eolais ag [PAWN_nameDef] agus réitigh [PAWN_pronoun] go maith leis na daltaí scoile.</Teacher20.description>
   <!-- EN: teacher -->
-  <Teacher20.title>TODO</Teacher20.title>
+  <Teacher20.title>múinteoir</Teacher20.title>
   <!-- EN: teacher -->
-  <Teacher20.titleShort>TODO</Teacher20.titleShort>
+  <Teacher20.titleShort>múinteoir</Teacher20.titleShort>
   
   <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
-  <Torturer37.description>TODO</Torturer37.description>
+  <Torturer37.description>D'oibrigh [PAWN_nameDef] faoi dheachtóir tíoránta, agus bhí [PAWN_pronoun] cáiliúil as a scileanna céasta. Bhí sé de dhualgas ar plé le príosúnaigh sa doinsiún chun a gcuid eolais a bhaint astu.</Torturer37.description>
   <!-- EN: torturer -->
-  <Torturer37.title>TODO</Torturer37.title>
+  <Torturer37.title>céastóir</Torturer37.title>
   <!-- EN: torturer -->
-  <Torturer37.titleShort>TODO</Torturer37.titleShort>
+  <Torturer37.titleShort>céastóir</Torturer37.titleShort>
   
   <!-- EN: [PAWN_nameDef] treated sick and injured animals for a living. Seeing their suffering affected [PAWN_possessive] stance on the practice of eating meat, and for many years [PAWN_pronoun] lived as a vegetarian. -->
-  <Veterinarian99.description>TODO</Veterinarian99.description>
+  <Veterinarian99.description>D'oibrigh [PAWN_nameDef] mar thréidlia agus chuir [PAWN_pronoun] cóir leighis ar ainmhithe. Chonaic [PAWN_nameDef] fulaingt na n-ainmhith thar na blianta, agus ní itheann [PAWN_pronoun] feoil mar thoradh.</Veterinarian99.description>
   <!-- EN: veterinarian -->
-  <Veterinarian99.title>TODO</Veterinarian99.title>
+  <Veterinarian99.title>tréidlia</Veterinarian99.title>
   <!-- EN: vet -->
-  <Veterinarian99.titleShort>TODO</Veterinarian99.titleShort>
+  <Veterinarian99.titleShort>tréidlia</Veterinarian99.titleShort>
   
 </LanguageData>

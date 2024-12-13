@@ -144,17 +144,17 @@
   <StatsReport_Malnutrition>Iolraitheoir don mhíchothú {0}</StatsReport_Malnutrition>
 
   <!-- EN: Possible offsets -->
-  <StatReport_PossibleOffsets>Mögliche Offsets</StatReport_PossibleOffsets>
+  <StatReport_PossibleOffsets>Fritháirimh fhéideartha</StatReport_PossibleOffsets>
   <!-- EN: Room impressiveness -->
-  <StatsReport_RoomImpressiveness>Raumeindruck</StatsReport_RoomImpressiveness>
+  <StatsReport_RoomImpressiveness>Leibhéal an tseomra</StatsReport_RoomImpressiveness>
   <!-- EN: Lit -->
   <StatsReport_Lit>Lasta</StatsReport_Lit>
   <!-- EN: Contains {0} -->
-  <StatsReport_GraveFull>Enthält {0}</StatsReport_GraveFull>
+  <StatsReport_GraveFull>Tá na nithe seo a leanas anseo: {0}</StatsReport_GraveFull>
   <!-- EN: Contains a human corpse -->
-  <StatsReport_GraveFullAbstract>Enthält eine menschliche Leiche</StatsReport_GraveFullAbstract>
+  <StatsReport_GraveFullAbstract>Tá corp curtha anseo</StatsReport_GraveFullAbstract>
   <!-- EN: Meditator is related to the corpse inside -->
-  <StatsReport_GraveCorpseRelatedAbstract>Meditierender ist mit der Leiche verwandt</StatsReport_GraveCorpseRelatedAbstract>
+  <StatsReport_GraveCorpseRelatedAbstract>Tá gaol ag an machnóir leis an gcorp atá curtha anseo</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
   <StatsReport_FromQuality>Von Qualität</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
