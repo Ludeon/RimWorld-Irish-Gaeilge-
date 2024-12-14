@@ -2,141 +2,141 @@
 <LanguageData>
   
   <!-- EN: beautiful -->
-  <Beauty.degreeDatas.beautiful.label>TODO</Beauty.degreeDatas.beautiful.label>
+  <Beauty.degreeDatas.beautiful.label>álainn</Beauty.degreeDatas.beautiful.label>
   <!-- EN: [PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth. -->
-  <Beauty.degreeDatas.beautiful.description>TODO</Beauty.degreeDatas.beautiful.description>
+  <Beauty.degreeDatas.beautiful.description>Tá [PAWN_nameDef] thar a bheith álainn. Is minic go mbíonn daoine an-tógtha le [PAWN_nameDef] sula labhraíonn [PAWN_possessive].</Beauty.degreeDatas.beautiful.description>
   <!-- EN: pretty -->
-  <Beauty.degreeDatas.pretty.label>TODO</Beauty.degreeDatas.pretty.label>
+  <Beauty.degreeDatas.pretty.label>dathúil</Beauty.degreeDatas.pretty.label>
   <!-- EN: [PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective]. -->
-  <Beauty.degreeDatas.pretty.description>TODO</Beauty.degreeDatas.pretty.description>
+  <Beauty.degreeDatas.pretty.description>Tá [PAWN_nameDef] dathúil, rud a chiallaíonn go bhfuil seans níos mó ann go dtaitneoidh [PAWN_pronoun] le daoine eile.</Beauty.degreeDatas.pretty.description>
   <!-- EN: ugly -->
-  <Beauty.degreeDatas.ugly.label>TODO</Beauty.degreeDatas.ugly.label>
+  <Beauty.degreeDatas.ugly.label>gránna</Beauty.degreeDatas.ugly.label>
   <!-- EN: [PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions. -->
-  <Beauty.degreeDatas.ugly.description>TODO</Beauty.degreeDatas.ugly.description>
+  <Beauty.degreeDatas.ugly.description>Tá [PAWN_nameDef] beagán gránna. Mar gheall air sin, cuirtear as do dhaoine eile beagán i gcaidrimh shóisialta.</Beauty.degreeDatas.ugly.description>
   <!-- EN: staggeringly ugly -->
-  <Beauty.degreeDatas.staggeringly_ugly.label>TODO</Beauty.degreeDatas.staggeringly_ugly.label>
+  <Beauty.degreeDatas.staggeringly_ugly.label>fíorghránna</Beauty.degreeDatas.staggeringly_ugly.label>
   <!-- EN: [PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing. -->
-  <Beauty.degreeDatas.staggeringly_ugly.description>TODO</Beauty.degreeDatas.staggeringly_ugly.description>
+  <Beauty.degreeDatas.staggeringly_ugly.description>Tá [PAWN_nameDef] thar a bheith gránna. Tá cuma uafásach ar aghaidh [PAWN_nameDef], mar a bheadh féatas míchumtha ann. Bíonn sé fíordheacair ar dhaoine eile fiú breathnú ar [PAWN_nameDef] agus iad ag caint.</Beauty.degreeDatas.staggeringly_ugly.description>
   
   <!-- EN: chemical fascination -->
-  <DrugDesire.degreeDatas.chemical_fascination.label>TODO</DrugDesire.degreeDatas.chemical_fascination.label>
+  <DrugDesire.degreeDatas.chemical_fascination.label>andúil i ndrugaí</DrugDesire.degreeDatas.chemical_fascination.label>
   <!-- EN: [PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
-  <DrugDesire.degreeDatas.chemical_fascination.description>TODO</DrugDesire.degreeDatas.chemical_fascination.description>
+  <DrugDesire.degreeDatas.chemical_fascination.description>Tá [PAWN_nameDef] iomlán tugtha do cheimiceáin. Cuirfidh drugaí dea-ghiúmar ar [PAWN_nameDef], agus tiocfaidh drochghiúmar ar [PAWN_nameDef] mura mbeidh [PAWN_pronoun] in ann drugaí a úsáid. Bainfidh [PAWN_pronoun] úsáid as drugaí i bhfad níos minice ná daoine eile.</DrugDesire.degreeDatas.chemical_fascination.description>
   <!-- EN: chemical interest -->
-  <DrugDesire.degreeDatas.chemical_interest.label>TODO</DrugDesire.degreeDatas.chemical_interest.label>
+  <DrugDesire.degreeDatas.chemical_interest.label>tugtha do dhrugaí</DrugDesire.degreeDatas.chemical_interest.label>
   <!-- EN: [PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person. -->
-  <DrugDesire.degreeDatas.chemical_interest.description>TODO</DrugDesire.degreeDatas.chemical_interest.description>
+  <DrugDesire.degreeDatas.chemical_interest.description>Tá [PAWN_nameDef] tugtha do cheimiceáin. Cuirfidh drugaí dea-ghiúmar ar [PAWN_nameDef], agus tiocfaidh drochghiúmar ar [PAWN_nameDef] mura mbeidh [PAWN_pronoun] in ann drugaí a úsáid. Bainfidh [PAWN_pronoun] úsáid as drugaí níos minice ná daoine eile.</DrugDesire.degreeDatas.chemical_interest.description>
   <!-- EN: teetotaler -->
-  <DrugDesire.degreeDatas.teetotaler.label>TODO</DrugDesire.degreeDatas.teetotaler.label>
+  <DrugDesire.degreeDatas.teetotaler.label>staonaire</DrugDesire.degreeDatas.teetotaler.label>
   <!-- EN: [PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs. -->
-  <DrugDesire.degreeDatas.teetotaler.description>TODO</DrugDesire.degreeDatas.teetotaler.description>
+  <DrugDesire.degreeDatas.teetotaler.description>Is fuath le [PAWN_nameDef] ceimiceáin agus drugaí. Ní ólann [PAWN_pronoun] alcól agus fanann [PAWN_pronoun] glan ar dhrugaí.</DrugDesire.degreeDatas.teetotaler.description>
   
   <!-- EN: super-immune -->
-  <Immunity.degreeDatas.superimmune.label>TODO</Immunity.degreeDatas.superimmune.label>
+  <Immunity.degreeDatas.superimmune.label>sár-imdhíonacht</Immunity.degreeDatas.superimmune.label>
   <!-- EN: [PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others. -->
-  <Immunity.degreeDatas.superimmune.description>TODO</Immunity.degreeDatas.superimmune.description>
+  <Immunity.degreeDatas.superimmune.description>Tá córas imdhíonachta iontach láidir ag [PAWN_nameDef]. Tiocfaidh imdhíonacht ar [PAWN_nameDef] i bhfad níos tapúla ná daoine eile, agus ní bheidh [PAWN_pronoun] tinn chomh minic le daoine eile.</Immunity.degreeDatas.superimmune.description>
   <!-- EN: sickly -->
-  <Immunity.degreeDatas.sickly.label>TODO</Immunity.degreeDatas.sickly.label>
+  <Immunity.degreeDatas.sickly.label>easláinteach</Immunity.degreeDatas.sickly.label>
   <!-- EN: [PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by. -->
-  <Immunity.degreeDatas.sickly.description>TODO</Immunity.degreeDatas.sickly.description>
+  <Immunity.degreeDatas.sickly.description>Tá córas imdhíonachta an-lag ag [PAWN_nameDef], agus bíonn [PAWN_pronoun] tinn go minic.</Immunity.degreeDatas.sickly.description>
   
   <!-- EN: industrious -->
-  <Industriousness.degreeDatas.industrious.label>TODO</Industriousness.degreeDatas.industrious.label>
+  <Industriousness.degreeDatas.industrious.label>dícheallach</Industriousness.degreeDatas.industrious.label>
   <!-- EN: [PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person. -->
-  <Industriousness.degreeDatas.industrious.description>TODO</Industriousness.degreeDatas.industrious.description>
+  <Industriousness.degreeDatas.industrious.description>Tá [PAWN_nameDef] an-dírithe agus cuireann [PAWN_pronoun] jabanna i gcrích i bhfad níos tapúla ná daoine eile.</Industriousness.degreeDatas.industrious.description>
   <!-- EN: hard worker -->
-  <Industriousness.degreeDatas.hard_worker.label>TODO</Industriousness.degreeDatas.hard_worker.label>
+  <Industriousness.degreeDatas.hard_worker.label>díograiseach</Industriousness.degreeDatas.hard_worker.label>
   <!-- EN: [PAWN_nameDef] is a natural hard worker and will finish tasks faster than most. -->
-  <Industriousness.degreeDatas.hard_worker.description>TODO</Industriousness.degreeDatas.hard_worker.description>
+  <Industriousness.degreeDatas.hard_worker.description>Oibríonn [PAWN_nameDef] go crua agus cuireann [PAWN_pronoun] jabanna i gcrích níos tapúla ná daoine eile.</Industriousness.degreeDatas.hard_worker.description>
   <!-- EN: lazy -->
-  <Industriousness.degreeDatas.lazy.label>TODO</Industriousness.degreeDatas.lazy.label>
+  <Industriousness.degreeDatas.lazy.label>leisciúil</Industriousness.degreeDatas.lazy.label>
   <!-- EN: [PAWN_nameDef] is a little bit lazy. -->
-  <Industriousness.degreeDatas.lazy.description>TODO</Industriousness.degreeDatas.lazy.description>
+  <Industriousness.degreeDatas.lazy.description>Tá [PAWN_nameDef] beagán leisciúil.</Industriousness.degreeDatas.lazy.description>
   <!-- EN: slothful -->
-  <Industriousness.degreeDatas.slothful.label>TODO</Industriousness.degreeDatas.slothful.label>
+  <Industriousness.degreeDatas.slothful.label>falsa</Industriousness.degreeDatas.slothful.label>
   <!-- EN: [PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task. -->
-  <Industriousness.degreeDatas.slothful.description>TODO</Industriousness.degreeDatas.slothful.description>
+  <Industriousness.degreeDatas.slothful.description>Tá [PAWN_nameDef] iomlán falsa agus leisciúil. Bogann [PAWN_pronoun] go mall agus bíonn sé deacair ar [PAWN_nameDef] díriú ar thascanna.</Industriousness.degreeDatas.slothful.description>
   
   <!-- EN: sanguine -->
-  <NaturalMood.degreeDatas.sanguine.label>TODO</NaturalMood.degreeDatas.sanguine.label>
+  <NaturalMood.degreeDatas.sanguine.label>dóchasach</NaturalMood.degreeDatas.sanguine.label>
   <!-- EN: [PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is. -->
-  <NaturalMood.degreeDatas.sanguine.description>TODO</NaturalMood.degreeDatas.sanguine.description>
+  <NaturalMood.degreeDatas.sanguine.description>Tá [PAWN_nameDef] an-dearfach agus glacann [PAWN_possessive] go réidh le gach rud, is cuma céard atá ag tarlú.</NaturalMood.degreeDatas.sanguine.description>
   <!-- EN: optimist -->
-  <NaturalMood.degreeDatas.optimist.label>TODO</NaturalMood.degreeDatas.optimist.label>
+  <NaturalMood.degreeDatas.optimist.label>dearfach</NaturalMood.degreeDatas.optimist.label>
   <!-- EN: [PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down. -->
-  <NaturalMood.degreeDatas.optimist.description>TODO</NaturalMood.degreeDatas.optimist.description>
+  <NaturalMood.degreeDatas.optimist.description>Tá [PAWN_nameDef] dearfach. Is beag rudaí a chuireann isteach ar [PAWN_nameDef].</NaturalMood.degreeDatas.optimist.description>
   <!-- EN: pessimist -->
-  <NaturalMood.degreeDatas.pessimist.label>TODO</NaturalMood.degreeDatas.pessimist.label>
+  <NaturalMood.degreeDatas.pessimist.label>diúltach</NaturalMood.degreeDatas.pessimist.label>
   <!-- EN: [PAWN_nameDef] tends to look on the bad side of life. -->
-  <NaturalMood.degreeDatas.pessimist.description>TODO</NaturalMood.degreeDatas.pessimist.description>
+  <NaturalMood.degreeDatas.pessimist.description>Bíonn claonadh ar [PAWN_nameDef] díriú ar rudaí diúltacha.</NaturalMood.degreeDatas.pessimist.description>
   <!-- EN: depressive -->
-  <NaturalMood.degreeDatas.depressive.label>TODO</NaturalMood.degreeDatas.depressive.label>
+  <NaturalMood.degreeDatas.depressive.label>duairc</NaturalMood.degreeDatas.depressive.label>
   <!-- EN: [PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine. -->
-  <NaturalMood.degreeDatas.depressive.description>TODO</NaturalMood.degreeDatas.depressive.description>
+  <NaturalMood.degreeDatas.depressive.description>Bíonn [PAWN_nameDef] míshásta i gcónaí, fiú nuair a bhíonn gach rud go breá.</NaturalMood.degreeDatas.depressive.description>
   
   <!-- EN: iron-willed -->
   <Nerves.degreeDatas.ironwilled.label>TODO</Nerves.degreeDatas.ironwilled.label>
   <!-- EN: [PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before. -->
   <Nerves.degreeDatas.ironwilled.description>TODO</Nerves.degreeDatas.ironwilled.description>
   <!-- EN: steadfast -->
-  <Nerves.degreeDatas.steadfast.label>TODO</Nerves.degreeDatas.steadfast.label>
+  <Nerves.degreeDatas.steadfast.label>intinn dhiongbháilte</Nerves.degreeDatas.steadfast.label>
   <!-- EN: [PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people. -->
-  <Nerves.degreeDatas.steadfast.description>TODO</Nerves.degreeDatas.steadfast.description>
+  <Nerves.degreeDatas.steadfast.description>Tá intinn dhiongbháilte ag [PAWN_nameDef]. Ní ghéillfidh [PAWN_pronoun] le rud ar bith, is cuma cé chomh strusmhar.</Nerves.degreeDatas.steadfast.description>
   <!-- EN: nervous -->
-  <Nerves.degreeDatas.nervous.label>TODO</Nerves.degreeDatas.nervous.label>
+  <Nerves.degreeDatas.nervous.label>neirbhíseach</Nerves.degreeDatas.nervous.label>
   <!-- EN: [PAWN_nameDef] tends to crack under pressure. -->
-  <Nerves.degreeDatas.nervous.description>TODO</Nerves.degreeDatas.nervous.description>
+  <Nerves.degreeDatas.nervous.description>Ní phléann [PAWN_nameDef] go maith le strus.</Nerves.degreeDatas.nervous.description>
   <!-- EN: volatile -->
-  <Nerves.degreeDatas.volatile.label>TODO</Nerves.degreeDatas.volatile.label>
+  <Nerves.degreeDatas.volatile.label>teasaí</Nerves.degreeDatas.volatile.label>
   <!-- EN: [PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation. -->
-  <Nerves.degreeDatas.volatile.description>TODO</Nerves.degreeDatas.volatile.description>
+  <Nerves.degreeDatas.volatile.description>Bíonn [PAWN_nameDef] ar tinneall i gcónaí, agus is minic go mbíonn [PAWN_pronoun] ar an gcéad duine a ghéilleann nuair a thagann strus chun cinn.</Nerves.degreeDatas.volatile.description>
   
   <!-- EN: neurotic -->
-  <Neurotic.degreeDatas.neurotic.label>TODO</Neurotic.degreeDatas.neurotic.label>
+  <Neurotic.degreeDatas.neurotic.label>néaróiseach</Neurotic.degreeDatas.neurotic.label>
   <!-- EN: [PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.neurotic.description>TODO</Neurotic.degreeDatas.neurotic.description>
+  <Neurotic.degreeDatas.neurotic.description>Oibríonn [PAWN_nameDef] go crua, ach uaireanta cliseann ar a néaróga.</Neurotic.degreeDatas.neurotic.description>
   <!-- EN: very neurotic -->
-  <Neurotic.degreeDatas.very_neurotic.label>TODO</Neurotic.degreeDatas.very_neurotic.label>
+  <Neurotic.degreeDatas.very_neurotic.label>an-néaróiseach</Neurotic.degreeDatas.very_neurotic.label>
   <!-- EN: [PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective]. -->
-  <Neurotic.degreeDatas.very_neurotic.description>TODO</Neurotic.degreeDatas.very_neurotic.description>
+  <Neurotic.degreeDatas.very_neurotic.description>Bíonn [PAWN_nameDef] neirbhíseach maidir le gach rud. Oibríonn [PAWN_nameDef] go crua, ach is minic go gcliseann ar a néaróga.</Neurotic.degreeDatas.very_neurotic.description>
   
   <!-- EN: psychically hypersensitive -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>TODO</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>ró-íogaireacht shíceach</PsychicSensitivity.degreeDatas.psychically_hypersensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>TODO</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>Tá [PAWN_nameDef] an-íogair do fheiniméin shíceacha.</PsychicSensitivity.degreeDatas.psychically_hypersensitive.description>
   <!-- EN: psychically sensitive -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>TODO</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.label>íogaireacht shíceach</PsychicSensitivity.degreeDatas.psychically_sensitive.label>
   <!-- EN: [PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>TODO</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
+  <PsychicSensitivity.degreeDatas.psychically_sensitive.description>Tá [PAWN_nameDef] íogair do fheiniméin shíceacha.</PsychicSensitivity.degreeDatas.psychically_sensitive.description>
   <!-- EN: psychically dull -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.label>TODO</PsychicSensitivity.degreeDatas.psychically_dull.label>
+  <PsychicSensitivity.degreeDatas.psychically_dull.label>frithsheasmhacht shíceach</PsychicSensitivity.degreeDatas.psychically_dull.label>
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_dull.description>TODO</PsychicSensitivity.degreeDatas.psychically_dull.description>
+  <PsychicSensitivity.degreeDatas.psychically_dull.description>Tá [PAWN_nameDef] frithsheasmhach do fheiniméin shíceacha.</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.label>TODO</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>bodhaire shíceach</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.description>TODO</PsychicSensitivity.degreeDatas.psychically_deaf.description>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.description>Ní bhíonn aon éifeacht ag feiniméin shíceacha ar [PAWN_nameDef].</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   
   <!-- EN: careful shooter -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.label>TODO</ShootingAccuracy.degreeDatas.careful_shooter.label>
+  <ShootingAccuracy.degreeDatas.careful_shooter.label>cruinnaimsitheoir</ShootingAccuracy.degreeDatas.careful_shooter.label>
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
-  <ShootingAccuracy.degreeDatas.careful_shooter.description>TODO</ShootingAccuracy.degreeDatas.careful_shooter.description>
+  <ShootingAccuracy.degreeDatas.careful_shooter.description>Tógann sé níos mó ama ar [PAWN_nameDef] targaidí a aimsiú le gunnaí, ach bíonn [PAWN_pronoun] níos cruinne.</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.label>TODO</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>drochaimsitheoir</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.description>TODO</ShootingAccuracy.degreeDatas.triggerhappy.description>
+  <ShootingAccuracy.degreeDatas.triggerhappy.description>Plab! Plab! Plab! Is maith le [PAWN_nameDef] an truicear a bhrú, ach ní bhíonn [PAWN_pronoun] róchruinn le gunnaí.</ShootingAccuracy.degreeDatas.triggerhappy.description>
   
   <!-- EN: slowpoke -->
-  <SpeedOffset.degreeDatas.slowpoke.label>TODO</SpeedOffset.degreeDatas.slowpoke.label>
+  <SpeedOffset.degreeDatas.slowpoke.label>mall</SpeedOffset.degreeDatas.slowpoke.label>
   <!-- EN: [PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere. -->
-  <SpeedOffset.degreeDatas.slowpoke.description>TODO</SpeedOffset.degreeDatas.slowpoke.description>
+  <SpeedOffset.degreeDatas.slowpoke.description>Siúlann [PAWN_nameDef] go mall.</SpeedOffset.degreeDatas.slowpoke.description>
   <!-- EN: fast walker -->
-  <SpeedOffset.degreeDatas.fast_walker.label>TODO</SpeedOffset.degreeDatas.fast_walker.label>
+  <SpeedOffset.degreeDatas.fast_walker.label>tapa</SpeedOffset.degreeDatas.fast_walker.label>
   <!-- EN: [PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people. -->
-  <SpeedOffset.degreeDatas.fast_walker.description>TODO</SpeedOffset.degreeDatas.fast_walker.description>
+  <SpeedOffset.degreeDatas.fast_walker.description>Siúlann [PAWN_nameDef] níos tapúla ná daoine eile.</SpeedOffset.degreeDatas.fast_walker.description>
   <!-- EN: jogger -->
-  <SpeedOffset.degreeDatas.jogger.label>TODO</SpeedOffset.degreeDatas.jogger.label>
+  <SpeedOffset.degreeDatas.jogger.label>reathaí</SpeedOffset.degreeDatas.jogger.label>
   <!-- EN: [PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up. -->
-  <SpeedOffset.degreeDatas.jogger.description>TODO</SpeedOffset.degreeDatas.jogger.description>
+  <SpeedOffset.degreeDatas.jogger.description>Ritheann [PAWN_nameDef] ar fud na háite, agus bíonn sé deacair ar dhaoine eile coinneáil suas le [PAWN_nameDef].</SpeedOffset.degreeDatas.jogger.description>
   
 </LanguageData>

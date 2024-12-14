@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: collectivist -->
-  <Collectivist.label>comhsheilbheachais</Collectivist.label>
+  <Collectivist.label>Comhsheilbheachas</Collectivist.label>
   <!-- EN: Each person is part of a greater whole. People should work to play their part and help the group. -->
-  <Collectivist.description>Ní neart go cur le chéile. Tá a luach féin ag gach duine, agus tá ról ar leith ag gach duine sa grúpa.</Collectivist.description>
+  <Collectivist.description>Ní neart go cur le chéile. Tá a luach féin ag gach duine, agus tá ról ar leith ag gach duine inár ngrúpa.</Collectivist.description>
   <!-- EN:
     <li>creation(tag=meme_Collectivist)        ->[deity0_name] made all men and women from a great mold, and those that deviated [deity0_pronoun] threw into fire so the believers could live in harmony.</li>
     <li>episode(uses=1,tag=meme_Collectivist)  ->[deity0_name] said to all, "No one of you stands above the whole. Work together or perish together."</li>

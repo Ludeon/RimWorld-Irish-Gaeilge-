@@ -44,27 +44,27 @@
   <!-- EN: free ranchers -->
   <Free_Ranchers.label>saor-rainseoirí</Free_Ranchers.label>
   <!-- EN: A community of ranchers who hunt and raise animals for food. They don't like eating plants. They welcome diverse ideas.\n\nUnlocks the animals specialist role. -->
-  <Free_Ranchers.description>Pobal rainseoirí a thógann ainmhithe lena n-ithe. Ní itheann siad plandaí. Cuireann siad fáilte roimh smaointe agus creidimh éagsúla.\n\nBíonn ról mar speisialtóir ainmhithe ar fáil leis an idé-eolaíocht seo.</Free_Ranchers.description>
+  <Free_Ranchers.description>Is rainseoirí muid agus tógaimid ainmhithe lena n-ithe. Ní itheann muid plandaí. Cuirimid fáilte roimh smaointe agus creidimh éagsúla.\n\nBíonn ról mar speisialtóir ainmhithe ar fáil leis an idé-eolaíocht seo.</Free_Ranchers.description>
   
   <!-- EN: high collectivists -->
   <High_Collectivists.label>ard-chomhshealbhóirí</High_Collectivists.label>
   <!-- EN: Everyone must work hard and contribute to the community, so they can party in a smokeleaf circle together.\n\nUnlocks the plants specialist role. -->
-  <High_Collectivists.description>Ní mór do gach duine obair chrua a dhéanamh ar son an phobail, chun go bhféadfaimid raithneach a chaitheamh i gciorcal mór.\n\nBíonn ról mar speisialtóir plandaí ar fáil leis an idé-eolaíocht seo.</High_Collectivists.description>
+  <High_Collectivists.description>Ní mór do gach duine obair chrua a dhéanamh ar son an phobail, agus creidimid go bhfuil tábhacht speisialta ag baint le substaintí sícideileacha.\n\nBíonn ról mar speisialtóir plandaí ar fáil leis an idé-eolaíocht seo.</High_Collectivists.description>
   
   <!-- EN: human purists -->
   <Human_Purists.label>íonaíochas</Human_Purists.label>
   <!-- EN: The human race is superior and the human body is sacred. We disdain body modification,  íonaithe and drug use.\n\nUnlocks the medical and production specialist roles. -->
-  <Human_Purists.description>Tá an cine daonna os cionn gach cine eile, agus tá corp an duine beannaithe. Is fuath linn marcáil coirp agus drugaí.\n\nBíonn róil mar speisialtóir leighis agus speisialtóir táirgiúlachta ar fáil leis an idé-eolaíocht seo.</Human_Purists.description>
+  <Human_Purists.description>Tá an cine daonna níos fearr ná gach cine eile, agus tá corp an duine beannaithe. Is fuath linn tatúnna agus drugaí.\n\nBíonn róil mar speisialtóir leighis agus speisialtóir táirgiúlachta ar fáil leis an idé-eolaíocht seo.</Human_Purists.description>
   
   <!-- EN: martyrs -->
   <Martyrs.label>mairtírigh</Martyrs.label>
   <!-- EN: Admitting our corrupt, sinful nature is as crucial as suffering for it. Pain and sacrifices are approved, while physical love and comfort are shameful. -->
-  <Martyrs.description>Is daoine peacúla muid, agus ní mór dúinne fulaingt as ár bpeacaí. Dírimid ar an bpiain agus ar an íobairt, agus ní cheadaítear grá fisiciúil na compord.</Martyrs.description>
+  <Martyrs.description>Is daoine peacúla muid, agus ní mór dúinn fulaingt as ár bpeacaí. Dírimid ar an bpiain agus ar an íobairt, agus tá cosc ar an ngrá fisiciúil agus ar an gcompord.</Martyrs.description>
   
   <!-- EN: mole people -->
   <Mole_People.label>lucht na dtollán</Mole_People.label>
   <!-- EN: The sun - it stuns, we shun! In the tunnels we shuffle, and snuffle for truffles. In our bubble there's no scuttling trouble. Never a kerfuffle.\n\nGrants increased mining efficiency but an aversion to outdoor light. -->
-  <Mole_People.description>An ghrian - tá an ghráin againn uirthi, fanaimid glan uirthi! Sna tolláin, bímid ag lorg strufail lena n-ithe. Ní bhíonn aon bhagairt inár mbolgán beag. Ní bhíonn raic ann riamh.\n\nLeis an idé-eolaíocht seo, bíonn scileanna mianadóireacht an-ard ag cách, ach bíonn an ghráin ag gach duine ar sholas na gréine.</Mole_People.description>
+  <Mole_People.description>An ghrian - tá an ghráin againn uirthi, fanaimid glan uirthi! Sna tolláin, bímid ag lorg strufail lena n-ithe, agus ní bhíonn aon bhagairt inár mbolgán beag. Ní bhíonn raic ann riamh faoin talamh.\n\nLeis an idé-eolaíocht seo, bíonn scileanna mianadóireacht an-ard ag cách, ach bíonn an ghráin ag gach duine ar sholas na gréine.</Mole_People.description>
   
   <!-- EN: naked maneaters -->
   <Naked_Maneaters.label>canablaigh lomnochta</Naked_Maneaters.label>

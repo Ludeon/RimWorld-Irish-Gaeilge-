@@ -97,61 +97,61 @@
   <Kind.degreeDatas.kind.description>Tá {PAWN_nameDef} thar a bheith cineálta, agus is minic go ndéarfaidh {PAWN_pronoun} rudaí deasa le daoine eile. Chomh maith leis sin, ní dhéanann {PAWN_nameDef} aon duine a mheas ar a dhealramh. Is mó seans go dtaithneoidh {PAWN_nameDef} le daoine eile.</Kind.degreeDatas.kind.description>
   
   <!-- EN: masochist -->
-  <Masochist.degreeDatas.masochist.label>TODO</Masochist.degreeDatas.masochist.label>
+  <Masochist.degreeDatas.masochist.label>masacach</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>TODO</Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>Taitníonn pian le {PAWN_nameDef}, cé nach dtuigeann {PAWN_pronoun} cén fáth. </Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
-  <NightOwl.degreeDatas.night_owl.label>TODO</NightOwl.degreeDatas.night_owl.label>
+  <NightOwl.degreeDatas.night_owl.label>airneánach</NightOwl.degreeDatas.night_owl.label>
   <!-- EN: {PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark. -->
-  <NightOwl.degreeDatas.night_owl.description>TODO</NightOwl.degreeDatas.night_owl.description>
+  <NightOwl.degreeDatas.night_owl.description>Is maith le {PAWN_nameDef} fanacht ina s{PAWN_possessive}uí go déanach san oíche.\n\nBeidh giúmar níos fearr ar {PAWN_nameDef} má bhíonn {PAWN_pronoun} ina s{PAWN_possessive}uí le linn na hoíche (23h-6h).\n\nNí chuireann an dorchadas isteach ar{PAWN_nameDef}.</NightOwl.degreeDatas.night_owl.description>
   
   <!-- EN: nimble -->
-  <Nimble.degreeDatas.nimble.label>TODO</Nimble.degreeDatas.nimble.label>
+  <Nimble.degreeDatas.nimble.label>sciobtha</Nimble.degreeDatas.nimble.label>
   <!-- EN: {PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace. -->
-  <Nimble.degreeDatas.nimble.description>TODO</Nimble.degreeDatas.nimble.description>
+  <Nimble.degreeDatas.nimble.description>Tá {PAWN_nameDef} gasta ar na cosa, agus uaireanta bíonn {PAWN_pronoun} in ann dáinséar a sheachaint go maorga.</Nimble.degreeDatas.nimble.description>
   
   <!-- EN: nudist -->
-  <Nudist.degreeDatas.nudist.label>TODO</Nudist.degreeDatas.nudist.label>
+  <Nudist.degreeDatas.nudist.label>nochtach</Nudist.degreeDatas.nudist.label>
   <!-- EN: {PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it. -->
-  <Nudist.degreeDatas.nudist.description>TODO</Nudist.degreeDatas.nudist.description>
+  <Nudist.degreeDatas.nudist.description>B'fhearr le {PAWN_nameDef} gan aon éadaí a chaitheamh.</Nudist.degreeDatas.nudist.description>
   
   <!-- EN: psychopath -->
-  <Psychopath.degreeDatas.psychopath.label>TODO</Psychopath.degreeDatas.psychopath.label>
+  <Psychopath.degreeDatas.psychopath.label>síceapatach</Psychopath.degreeDatas.psychopath.label>
   <!-- EN: {PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing. -->
-  <Psychopath.degreeDatas.psychopath.description>TODO</Psychopath.degreeDatas.psychopath.description>
+  <Psychopath.degreeDatas.psychopath.description>Níl aon chomhbhá ag {PAWN_nameDef}. Ní chuireann fulaingt daoine eile isteach ar {PAWN_nameDef} ar chor ar bith. Is cuma le {PAWN_nameDef} má dhéantar slad ar dhaoine eile, má fhágtar corpáin amuigh faoin aer, nó má dhíoltar daoine eile mar sclábhaithe. Ní bhaineannn {PAWN_nameDef} sult as labhairt le daoine eile ach oiread.</Psychopath.degreeDatas.psychopath.description>
   
   <!-- EN: pyromaniac -->
-  <Pyromaniac.degreeDatas.pyromaniac.label>TODO</Pyromaniac.degreeDatas.pyromaniac.label>
+  <Pyromaniac.degreeDatas.pyromaniac.label>pireamáineach</Pyromaniac.degreeDatas.pyromaniac.label>
   <!-- EN: {PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires, and will occasionally go on random fire starting sprees. {PAWN_pronoun} will be happy around flames, and happier when wielding an incendiary weapon. -->
-  <Pyromaniac.degreeDatas.pyromaniac.description>TODO</Pyromaniac.degreeDatas.pyromaniac.description>
+  <Pyromaniac.degreeDatas.pyromaniac.description>Is breá le {PAWN_nameDef} tine. Ní múchfaidh {PAWN_pronoun} tinte riamh, agus ó am go chéile cuirfidh {PAWN_pronoun}  tús le tinte go randamach. Bíonn {PAWN_nameDef} nuair a bhíonn {PAWN_pronoun} taobh le tine.</Pyromaniac.degreeDatas.pyromaniac.description>
   
   <!-- EN: quick sleeper -->
-  <QuickSleeper.degreeDatas.quick_sleeper.label>TODO</QuickSleeper.degreeDatas.quick_sleeper.label>
+  <QuickSleeper.degreeDatas.quick_sleeper.label>dea-chodlatóir</QuickSleeper.degreeDatas.quick_sleeper.label>
   <!-- EN: {PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time. -->
-  <QuickSleeper.degreeDatas.quick_sleeper.description>TODO</QuickSleeper.degreeDatas.quick_sleeper.description>
+  <QuickSleeper.degreeDatas.quick_sleeper.description>Ní bhíonn go leor codlata de dhíth ar {PAWN_nameDef}.</QuickSleeper.degreeDatas.quick_sleeper.description>
   
   <!-- EN: slow learner -->
-  <SlowLearner.degreeDatas.slow_learner.label>TODO</SlowLearner.degreeDatas.slow_learner.label>
+  <SlowLearner.degreeDatas.slow_learner.label>amadán</SlowLearner.degreeDatas.slow_learner.label>
   <!-- EN: {PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others. -->
-  <SlowLearner.degreeDatas.slow_learner.description>TODO</SlowLearner.degreeDatas.slow_learner.description>
+  <SlowLearner.degreeDatas.slow_learner.description>Níl {PAWN_nameDef} róchliste, agus foghlaimíonn {PAWN_pronoun} scileanna úra i bhfad níos moille ná daoine eile.</SlowLearner.degreeDatas.slow_learner.description>
   
   <!-- EN: too smart -->
-  <TooSmart.degreeDatas.too_smart.label>TODO</TooSmart.degreeDatas.too_smart.label>
+  <TooSmart.degreeDatas.too_smart.label>cliste</TooSmart.degreeDatas.too_smart.label>
   <!-- EN: {PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric. -->
-  <TooSmart.degreeDatas.too_smart.description>TODO</TooSmart.degreeDatas.too_smart.description>
+  <TooSmart.degreeDatas.too_smart.description>Tá {PAWN_nameDef} an-chliste. Foghlaimíonn {PAWN_pronoun} scileanna úra i bhfad níos tapúla ná daoine eile, ach bíonn nósanna aisteacha ag {PAWN_nameDef} freisin.</TooSmart.degreeDatas.too_smart.description>
   
   <!-- EN: tortured artist -->
-  <TorturedArtist.degreeDatas.tortured_artist.label>TODO</TorturedArtist.degreeDatas.tortured_artist.label>
+  <TorturedArtist.degreeDatas.tortured_artist.label>ealaíontóir ciaptha</TorturedArtist.degreeDatas.tortured_artist.label>
   <!-- EN: {PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break. -->
-  <TorturedArtist.degreeDatas.tortured_artist.description>TODO</TorturedArtist.degreeDatas.tortured_artist.description>
+  <TorturedArtist.degreeDatas.tortured_artist.description>Tá {PAWN_nameDef} cantalach agus mothaíonn {PAWN_pronoun} go bhfuil {PAWN_pronoun} scoite amach ó dhaoine eile. Beidh drochghiúmar ar {PAWN_nameDef} i gcónaí, ach tá seans níos airde ann (50%) go dtiocfaidh ionspioráid ar {PAWN_nameDef} tar éis cliseadh néarógach.</TorturedArtist.degreeDatas.tortured_artist.description>
   <!-- EN: As a suffering tortured artist, [PAWN_nameIndef] has experienced an inspiration. -->
-  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>TODO</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
+  <TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>Tá ionspioráid tagtha ar [PAWN_nameIndef].</TorturedArtist.degreeDatas.tortured_artist.mentalBreakInspirationGainReasonText>
   
   <!-- EN: tough -->
-  <Tough.degreeDatas.tough.label>TODO</Tough.degreeDatas.tough.label>
+  <Tough.degreeDatas.tough.label>crua</Tough.degreeDatas.tough.label>
   <!-- EN: {PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill. -->
-  <Tough.degreeDatas.tough.description>TODO</Tough.degreeDatas.tough.description>
+  <Tough.degreeDatas.tough.description>Tá {PAWN_nameDef} crua agus láidir. Tá sé deacair {PAWN_nameDef} a ghortú, agus tá sé an-deacair {PAWN_nameDef} a mharú.</Tough.degreeDatas.tough.description>
   
   <!-- EN: body modder -->
   <Transhumanist.degreeDatas.body_modder.label>TODO</Transhumanist.degreeDatas.body_modder.label>
@@ -159,13 +159,13 @@
   <Transhumanist.degreeDatas.body_modder.description>TODO</Transhumanist.degreeDatas.body_modder.description>
   
   <!-- EN: undergrounder -->
-  <Undergrounder.degreeDatas.undergrounder.label>TODO</Undergrounder.degreeDatas.undergrounder.label>
+  <Undergrounder.degreeDatas.undergrounder.label>tochaltóir</Undergrounder.degreeDatas.undergrounder.label>
   <!-- EN: {PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever and is not bothered by darkness. However, {PAWN_nameDef} will be unhappy while outdoors. -->
-  <Undergrounder.degreeDatas.undergrounder.description>TODO</Undergrounder.degreeDatas.undergrounder.description>
+  <Undergrounder.degreeDatas.undergrounder.description>Is fearr le {PAWN_nameDef} a bheith faoin talamh, in áit a bheith amuigh faoin aer. Ní thiocfaidh fiabhras cábáin ar {PAWN_nameDef} riamh, ach beidh {PAWN_pronoun} míshásta nuair a bhíonn sé lasmuigh.</Undergrounder.degreeDatas.undergrounder.description>
   
   <!-- EN: wimp -->
-  <Wimp.degreeDatas.wimp.label>TODO</Wimp.degreeDatas.wimp.label>
+  <Wimp.degreeDatas.wimp.label>cladhaire</Wimp.degreeDatas.wimp.label>
   <!-- EN: {PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}. -->
-  <Wimp.degreeDatas.wimp.description>TODO</Wimp.degreeDatas.wimp.description>
+  <Wimp.degreeDatas.wimp.description>Tá {PAWN_nameDef} lag agus cladhartha. Beidh {PAWN_nameDef} sioctha leis an eagla má bhíonn dáinséar os a c{PAWN_possessive}omhair..</Wimp.degreeDatas.wimp.description>
   
 </LanguageData>

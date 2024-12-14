@@ -2,11 +2,11 @@
 <LanguageData>
 
   <!-- EN: Customize ideoligion -->
-  <CustomizeIdeoligion>Cruthaigh d'idé-chreideamh féin</CustomizeIdeoligion>
+  <CustomizeIdeoligion>Cruthaigh idé-chreideamh</CustomizeIdeoligion>
   <!-- EN: Choose your ideoligion -->
-  <ChooseYourIdeoligion>Roghnaigh d'idé-chreideamh</ChooseYourIdeoligion>
+  <ChooseYourIdeoligion>Roghnaigh idé-chreideamh</ChooseYourIdeoligion>
   <!-- EN: A random structure will be used for your ideoligion. -->
-  <RandomStructureTip>Roghnófar struchtúr randamach le haghaidh d'idé-chreidimh.</RandomStructureTip>
+  <RandomStructureTip>Roghnófar struchtúr randamach le haghaidh idé-chreidimh.</RandomStructureTip>
   <!-- EN: A random style will be used for your ideoligion. -->
   <RandomStyleTip>Roghnófar stíl randamach le haghaidh d'idé-chreidimh.</RandomStyleTip>
   <!-- EN: Ideology system inactive -->

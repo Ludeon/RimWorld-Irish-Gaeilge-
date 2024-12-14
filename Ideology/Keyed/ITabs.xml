@@ -3,11 +3,11 @@
 
   <!-- Character -->
   <!-- EN: Overrides some precepts related to -->
-  <OverridesSomePrecepts>Remplace certains préceptes liés à</OverridesSomePrecepts>
+  <OverridesSomePrecepts>Bíonn éifeacht ag an tréith seo ar:</OverridesSomePrecepts>
   <!-- EN: Agrees with memes -->
-  <AgreeableMemes>D'accord avec les mèmes.</AgreeableMemes>
+  <AgreeableMemes>Ag teacht leis na méimeanna seo a leanas</AgreeableMemes>
   <!-- EN: Conflicts with memes -->
-  <DisagreeableMemes>En conflit avec les mèmes.</DisagreeableMemes>
+  <DisagreeableMemes>Ag teacht salach ar na méimeanna seo a leanas</DisagreeableMemes>
 
   <!-- ITab titles -->
   <!-- EN: Slave -->
