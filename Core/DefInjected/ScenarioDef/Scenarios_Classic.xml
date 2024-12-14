@@ -1,12 +1,12 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: Crashlanded -->
   <Crashlanded.label>Tuirlingt de Thuairt</Crashlanded.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Crashlanded.description>
+  <Crashlanded.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leaindeálann sibh ar an bplainéad iargúlta seo.</Crashlanded.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Crashlanded.scenario.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Crashlanded.scenario.description>
+  <Crashlanded.scenario.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leaindeálann sibh ar an bplainéad iargúlta seo.</Crashlanded.scenario.description>
   <!-- EN: Crashlanded -->
   <Crashlanded.scenario.name>Tuirlingt de Thuairt</Crashlanded.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
@@ -28,15 +28,15 @@
   <!-- EN: Naked Brutality -->
   <NakedBrutality.label>Brúidiúlacht Nocht</NakedBrutality.label>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.description>Chuaigh tú faoi ainéistéiseach d'oibréad. Díreach anois, dhúisigh tú i bpod a bhí ag eitilt i dtreo an phláinéid iargúlta seo. Tá tú lomnocht, leat féin agus iomlán neamhullamh. An mbeidh leat?\n\nRabhadh: Is tús thar a bheith míchothrom é seo - tá sé an-deacair agus d'fhéadfadh rud ar bith thú a mharú.</NakedBrutality.description>
+  <NakedBrutality.description>Chuaigh tú faoi ainéistéiseach d'oibréad. Díreach anois, dhúisigh tú i bpod a bhí ag eitilt i dtreo an phláinéid iargúlta seo. Tá tú lomnocht, leat féin agus iomlán neamhullamh. An éireoidh leat?\n\nRabhadh: Is tús thar a bheith míchothrom é seo - tá sé an-deacair agus d'fhéadfadh rud ar bith thú a mharú.</NakedBrutality.description>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
-  <NakedBrutality.scenario.description>Chuaigh tú faoi ainéistéiseach d'oibréad. Díreach anois, dhúisigh tú i bpod a bhí ag eitilt i dtreo an phláinéid iargúlta seo. Tá tú lomnocht, leat féin agus iomlán neamhullamh. An mbeidh leat?\n\nRabhadh: Is tús thar a bheith míchothrom é seo - tá sé an-deacair agus d'fhéadfadh rud ar bith thú a mharú.</NakedBrutality.scenario.description>
+  <NakedBrutality.scenario.description>Chuaigh tú faoi ainéistéiseach d'oibréad. Díreach anois, dhúisigh tú i bpod a bhí ag eitilt i dtreo an phláinéid iargúlta seo. Tá tú lomnocht, leat féin agus iomlán neamhullamh. An éireoidh leat?\n\nRabhadh: Is tús thar a bheith míchothrom é seo - tá sé an-deacair agus d'fhéadfadh rud ar bith thú a mharú.</NakedBrutality.scenario.description>
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>Brúidiúlacht Nocht</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>Ní raibh i gceist ach obráid an-bheag. Uair an chloig faoi ainéistéiseach.\n\nDhúisigh tú i bpod éalaithe a bhí ag eitilt i dtreo pláinéad iargúlta.\n\nTá tú lomnocht, leat féin agus go hiomlán neamhullamh. An mbeidh leat?</NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Ní raibh i gceist ach obráid an-bheag. Uair an chloig faoi ainéistéiseach.\n\nDhúisigh tú i bpod éalaithe a bhí ag eitilt i dtreo pláinéad iargúlta.\n\nTá tú lomnocht, leat féin agus go hiomlán neamhullamh. </NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
-  <NakedBrutality.scenario.summary>Lomnocht, leat féin agus iomlán neamhullamh. An mbeidh leat?</NakedBrutality.scenario.summary>
+  <NakedBrutality.scenario.summary>Lomnocht, leat féin agus iomlán neamhullamh. An éireoidh leat?</NakedBrutality.scenario.summary>
   
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>An Taisceálaí Saibhir</TheRichExplorer.label>
@@ -47,16 +47,16 @@
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.scenario.name>An Taisceálaí Saibhir</TheRichExplorer.scenario.name>
   <!-- EN: The neurosimulations, holo-games, and free-orgies were never enough for you. You wanted more - the grit and consequence of real life, like they talk about in the history books. You wanted to know what real challenge and consequence feel like.\n\nNow, after a journey of decades in cryptosleep, you're landing on this unknown rimworld. Real consequences await you. -->
-  <TheRichExplorer.scenario.parts.GameStartDialog.text>D'éirigh tú braon de na neárai-ionsamhlúcháin, na cluichí ríomhaire agus na fleánna craicinn. Bhí eispéireas eile uait - fíoreispéireas greanach, mar a bhí sna leabhair staire. Bhí tú ag iarraidh fíordhúthláin agus fíor-iarmhairtí a bhrath.\n\nAnois, tar éis duit turas fada a chaitheamh i gcriptea-chodladh, tá tú leandáilte ar an bpláinéad iargúlta seo. An mbeidh tú in ann an fód a sheasamh?</TheRichExplorer.scenario.parts.GameStartDialog.text>
+  <TheRichExplorer.scenario.parts.GameStartDialog.text>D'éirigh tú braon de na neárai-ionsamhlúcháin, na cluichí ríomhaire agus na fleánna craicinn. Bhí eispéireas eile uait - fíoreispéireas greanach, mar a bhí sna leabhair staire. Bhí tú ag iarraidh fíordhúthláin agus fíor-iarmhairtí a bhrath.\n\nAnois, tar éis duit turas fada a chaitheamh i gcriptea-chodladh, tá tú leaindeáilte ar an bpláinéad iargúlta seo. An mbeidh tú in ann an fód a sheasamh?</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>Taisceálaí saibhir, a tháinig ó phlainéad eile. An-deacair.</TheRichExplorer.scenario.summary>
   
   <!-- EN: tutorial -->
   <Tutorial.label>oiliúint</Tutorial.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Tutorial.description>
+  <Tutorial.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leaindeálann sibh ar an bplainéad iargúlta seo.</Tutorial.description>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
-  <Tutorial.scenario.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leandálann sibh ar an bplainéad iargúlta seo.</Tutorial.scenario.description>
+  <Tutorial.scenario.description>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leaindeálann sibh ar an bplainéad iargúlta seo.</Tutorial.scenario.description>
   <!-- EN: tutorial -->
   <Tutorial.scenario.name>oiliúint</Tutorial.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->

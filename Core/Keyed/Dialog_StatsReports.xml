@@ -163,11 +163,11 @@
   <StatsReport_SatisfiesTitle>Erfüllt Titelanforderungen des Benutzers</StatsReport_SatisfiesTitle>
 
   <!-- EN: Age -->
-  <Stat_Age_Label>TODO</Stat_Age_Label>
+  <Stat_Age_Label>Aois</Stat_Age_Label>
   <!-- EN: Different sources of recreation satisfy different recreation types. Colonists become bored of doing the same recreation type repeatedly, so it is important to provide a variety of recreation sources with different recreation types. -->
-  <Stat_RecreationType_Desc>Das Bedürfnis nach Entspannung kann auf verschiedene Weise gestillt werden. Kolonisten langweilen sich, wenn sie sich immer wieder auf dieselbe Weise entspannen, daher ist es wichtig, mehrere verschiedene Möglichkeiten zur Entspannung bereitzustellen.</Stat_RecreationType_Desc>
+  <Stat_RecreationType_Desc>Is féidir cineálacha éagsúla siamsaíochta a chomhlíonadh le gníomhaíochtaí éagsúla. Éiríonn coilínigh braon de na rudaí céanna a dhéanamh arís agus arís, mar sin is fiú roghanna difriúla siamsaíochta a chur ar fáil dóibh.</Stat_RecreationType_Desc>
   <!-- EN: All recreation types -->
-  <Stat_JoyKind_AllTypes>Alle Entspannungsarten</Stat_JoyKind_AllTypes>
+  <Stat_JoyKind_AllTypes>Gach cineál siamsaíochta</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
   <Stat_MineableThing_Name>Gesteinsabbauressource</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->

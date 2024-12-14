@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: category -->
-  <Category.label>TODO</Category.label>
+  <Category.label>catagóir</Category.label>
   
   <!-- EN: hit points percentage -->
-  <HitPointsPercentage.label>TODO</HitPointsPercentage.label>
+  <HitPointsPercentage.label>céatadán pointí beochta</HitPointsPercentage.label>
   
   <!-- EN: market value -->
-  <MarketValue.label>TODO</MarketValue.label>
+  <MarketValue.label>luach margaidh</MarketValue.label>
   
   <!-- EN: mass -->
-  <Mass.label>TODO</Mass.label>
+  <Mass.label>mais</Mass.label>
   
   <!-- EN: name -->
-  <Name.label>TODO</Name.label>
+  <Name.label>ainm</Name.label>
   
   <!-- EN: none -->
-  <None.label>TODO</None.label>
+  <None.label>faic</None.label>
   
   <!-- EN: quality -->
-  <Quality.label>TODO</Quality.label>
+  <Quality.label>cáilíocht</Quality.label>
   
 </LanguageData>

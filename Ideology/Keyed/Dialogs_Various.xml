@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- Misc -->
@@ -197,9 +197,9 @@
   <!-- EN: hair color -->
   <HairColor>Couleur des cheveux</HairColor>
   <!-- EN: Show headgear -->
-  <ShowHeadgear>Montrer le couvre-chef</ShowHeadgear>
+  <ShowHeadgear>Taispeáin hataí</ShowHeadgear>
   <!-- EN: Show apparel -->
-  <ShowApparel>Montrer les vêtements</ShowApparel>
+  <ShowApparel>Taispeáin éadaí</ShowApparel>
   <!-- EN: {PAWN_nameDef} will be unhappy with the following -->
   <PawnUnhappyWithStyleItems>{PAWN_nameDef} ne sera pas satisfait à cause de ce qui suit</PawnUnhappyWithStyleItems>
   <!-- EN: Style categories affect the appearance of some buildings, apparel and weapons made by {IDEO_memberNamePlural}. If more than one category affects the same thing, the left-most one applies. -->

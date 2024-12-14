@@ -208,7 +208,7 @@
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>táilliúireacht</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->
-  <Tailoring.verb>Déan táilliúireacht against</Tailoring.verb>
+  <Tailoring.verb>Déan táilliúireacht ag</Tailoring.verb>
   
   <!-- EN: Manage, feed, chat with, and recruit prisoners. -->
   <Warden.description>Pléifidh na daoine seo le príosúnaigh, tabhairfidh siad bia dóibh, déanfaidh siad iarracht iad a earcú, agus mar sin de.</Warden.description>
