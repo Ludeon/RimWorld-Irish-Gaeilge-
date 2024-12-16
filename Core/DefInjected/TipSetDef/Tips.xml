@@ -10,7 +10,7 @@
   <!-- EN: You can select the previous or next colonist with the , and . keys. -->
   <GameplayTips.SelectPrevNextColonist>Is féidir cóilínigh a roghnú leis na cnaipí , agus .</GameplayTips.SelectPrevNextColonist>
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
-  <GameplayTips.SettingPainting>Is féidir socruithe a chliceáil agus a tharraingt chun iad a 'pheinteáil' ar rudaí éagsúla. Oibríonn sé le rudaí ar nós éadaí nó roghanna bia. </GameplayTips.SettingPainting>
+  <GameplayTips.SettingPainting>Is féidir socruithe a chliceáil agus a tharraingt chun iad a 'pheinteáil' ar rudaí éagsúla. Oibríonn sé le rudaí ar nós éadaí nó roghanna bia.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
   <GameplayTips.ManualPriorities>Sa táb oibre, tugtar tosaíocht do rudaí a bhfuil uimhir a 1 leo, agus tugtar tosaíocht íseal do rudaí a bhfuil uimhir a 4 leo.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
@@ -60,7 +60,7 @@
   <!-- EN: During encounters away from home, you can place a caravan hitching spot to keep your animals from wandering. -->
   <GameplayTips.CaravanHitchingSpotRoamers>Nuair a bheidh tú i bhfad ón mbaile, is féidir posta ceangailte carbhán a chur síos ionas nach rachaidh do chuid ainmhithe ar strae.</GameplayTips.CaravanHitchingSpotRoamers>
   <!-- EN: Caravans move faster if they include rideable animals like horses, donkeys and dromedaries. -->
-  <GameplayTips.CaravanRideableAnimals>Beidh carbháin in ann gluaiseacht níos tapúla má tá siad déanta suas d'ainmhithe marcaíochta, ar nós capaill agus asail.</GameplayTips.CaravanRideableAnimals>
+  <GameplayTips.CaravanRideableAnimals>Bíonn carbháin in ann gluaiseacht níos tapúla má tá siad déanta suas d'ainmhithe marcaíochta, ar nós capaill nó asail.</GameplayTips.CaravanRideableAnimals>
   <!-- EN: Smaller caravans get attacked less often because they're less visible. -->
   <GameplayTips.CaravanSmallerLessVisible>Is lú an dóchúlacht go n-ionsófar carbháin bheaga, toisc nach bhfuil siad chomh feiceálacha le carbháin mhóra.</GameplayTips.CaravanSmallerLessVisible>
   <!-- EN: Before forming a caravan, collect the items you want to send in a stockpile near your caravan hitching spot. This will make packing much faster. -->

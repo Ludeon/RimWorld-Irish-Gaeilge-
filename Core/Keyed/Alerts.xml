@@ -54,14 +54,14 @@
   <LowFoodDesc>Tá líon bia an-íseal agat!\n\nLíon na mbarraí iomlán bia atá stóráilte agat: {0}    Coilínigh agus priosúnaigh atá ag fáil bia: {1}\n    Laethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a fhás, a aismiú nó a mharú. --></LowFoodDesc>
 
   <!-- EN: Low medicine -->
-  <LowMedicine>Leigheas íseal</LowMedicine>
+  <LowMedicine>Tá cógas de dhíth</LowMedicine>
   <!-- EN: You only have {0} medications left in storage.\n\nBuy more medicine from traders. -->
-  <LowMedicineDesc>Níl ach {0}x leigheas fágtha agat.\n\nIs féidir tuilleadh leighis a cheannach ó thrádálaithe.</LowMedicineDesc>
+  <LowMedicineDesc>Níl ach {0}x cógas fágtha agat.\n\nIs féidir tuilleadh cógais a cheannach ó thrádálaithe.</LowMedicineDesc>
   <!-- EN: You have no medicine left in storage.\n\nBuy more medicine from traders. -->
-  <NoMedicineDesc>Níl aon leigheas fágtha agat.\n\nIs féidir tuilleadh leighis a cheannach ó thrádálaithe.</NoMedicineDesc>
+  <NoMedicineDesc>Níl aon chógas fágtha agat.\n\nIs féidir tuilleadh cógais a cheannach ó thrádálaithe.</NoMedicineDesc>
   
   <!-- EN: Need colonist beds -->
-  <NeedColonistBeds>Leapacha de dhíth ó choilínigh</NeedColonistBeds>
+  <NeedColonistBeds>Tá leapacha de dhíth ó choilínigh</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
   <NeedColonistBedsDesc>Tá níos mó coilínigh ann ná mar atá leapacha ann. Beidh duine éigean gan spás codlata.\n\nTóg níos mó leapacha, nó athraigh leaba príosúnaigh chuig leaba coilínigh.\n\nMura bhfuil aon acmhainní agat, is féidir spás codlata a chur síos láithreach bonn.</NeedColonistBedsDesc>
   
@@ -71,7 +71,7 @@
   <AlertColonistLeftUnburiedDesc>Tá coilíneach le hadhlacadh.\n\nD'fhéadfadh sé go mbeidh drochthionchar ag seo ar ghiúmar na gcoilíneach.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks suitable weapon -->
-  <HunterLacksWeapon>Sealgaire gan arm fadraoin </HunterLacksWeapon>
+  <HunterLacksWeapon>Tá sealgaire gan arm fadraoin </HunterLacksWeapon>
   <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
   <HunterLacksWeaponDesc>Tá coilíneach atá sannta mar Shealgaire, ach níl arm fadraoin aige.\n\nNí bheidh sé in ann dul san fhiach go dtí go mbeidh arm fadraoin aige.\n\nTá na coilínigh seo a leanas sannta mar Shealgairí, agus tá airm fhadraoin de dhíth orthu</HunterLacksWeaponDesc>
 
@@ -209,10 +209,10 @@
   <!-- EN: Hunter has shield and ranged weapon -->
   <HunterHasShieldAndRangedWeapon>Tá sciath agus arm fadraoin ag sealgaire</HunterHasShieldAndRangedWeapon>
   <!-- EN: One of your hunters is using a ranged weapon and wearing a shield belt which prevents shooting at range.\n\nThey won't be able to hunt unless the shield is removed. -->
-  <HunterHasShieldAndRangedWeaponDesc>Tá shield belt á chaitheamh ag sealgaire a bhfuil arm fadraion aige, rud a chiallaíonn nach mbeidh sé in ann urchair a scaoileadh.\n\nNí bheidh an sealgaire in ann dul san fhiach go dtí go mbainfear an shield belt.</HunterHasShieldAndRangedWeaponDesc>
+  <HunterHasShieldAndRangedWeaponDesc>Tá crios cosanta á chaitheamh ag sealgaire a bhfuil arm fadraion aige, rud a chiallaíonn nach mbeidh sé in ann urchair a scaoileadh.\n\nNí bheidh an sealgaire in ann dul san fhiach go dtí go mbainfear an shield belt.</HunterHasShieldAndRangedWeaponDesc>
 
   <!-- EN: Need warm clothes -->
-  <NeedWarmClothes>Éadaí te de dhíth</NeedWarmClothes>
+  <NeedWarmClothes>Tá éadaí te de dhíth</NeedWarmClothes>
   <!-- EN: At least {0} of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1>Beidh éadaí te de dhíth ar {0} coilíneach ar a laghad nuair a thiocfaidh an aimsir fhuar.</NeedWarmClothesDesc1>
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->

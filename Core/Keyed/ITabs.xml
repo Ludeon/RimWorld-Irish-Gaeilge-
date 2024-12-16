@@ -3,61 +3,61 @@
 
   <!-- ITab titles -->
   <!-- EN: Bills -->
-  <TabBills>Aufgaben</TabBills>
+  <TabBills>Billí</TabBills>
   <!-- EN: Growing -->
-  <TabGrowing>Anbauen</TabGrowing>
+  <TabGrowing>Plandaí</TabGrowing>
   <!-- EN: Bio -->
-  <TabCharacter>Bio</TabCharacter>
+  <TabCharacter>Eolas</TabCharacter>
   <!-- EN: Training -->
-  <TabTraining>Training</TabTraining>
+  <TabTraining>Oiliúint</TabTraining>
   <!-- EN: Prisoner -->
-  <TabPrisoner>Gefängnis</TabPrisoner>
+  <TabPrisoner>Príosúnach</TabPrisoner>
   <!-- EN: Guest -->
-  <TabGuest>Gast</TabGuest>
+  <TabGuest>Cuairteoir</TabGuest>
   <!-- EN: Gear -->
-  <TabGear>Inventar</TabGear>
+  <TabGear>Trealamh</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>Bedürfnis</TabNeeds>
+  <TabNeeds>Riachtanais</TabNeeds>
   <!-- EN: Storage -->
-  <TabStorage>Lager</TabStorage>
+  <TabStorage>Stóras</TabStorage>
   <!-- EN: Shells -->
-  <TabShells>Granaten</TabShells>
+  <TabShells>Sliogáin</TabShells>
   <!-- EN: Health -->
-  <TabHealth>Körper</TabHealth>
+  <TabHealth>Sláinte</TabHealth>
   <!-- EN: Race -->
-  <TabRace>Rasse</TabRace>
+  <TabRace>Cine</TabRace>
   <!-- EN: Basics -->
-  <TabBasics>Grundl.</TabBasics>
+  <TabBasics>Bunúsach</TabBasics>
   <!-- EN: Stats -->
-  <TabStats>Status</TabStats>
+  <TabStats>Stádas</TabStats>
   <!-- EN: Records -->
-  <TabRecords>Aufzeichnung</TabRecords>
+  <TabRecords>Taifid</TabRecords>
   <!-- EN: Art -->
-  <TabArt>Kunst</TabArt>
+  <TabArt>Ealaíon</TabArt>
   <!-- EN: Social -->
-  <TabSocial>Sozial</TabSocial>
+  <TabSocial>Sóisialta</TabSocial>
   <!-- EN: Log -->
-  <TabLog>Logbuch</TabLog>
+  <TabLog>Loga</TabLog>
   <!-- EN: Animals -->
-  <TabPenAnimals>Tiere</TabPenAnimals>
+  <TabPenAnimals>Ainmhithe</TabPenAnimals>
   <!-- EN: Food -->
-  <TabPenFood>Futter</TabPenFood>
+  <TabPenFood>Bia</TabPenFood>
   <!-- EN: Auto-cut -->
-  <TabPenAutoCut>Auto-Entf.</TabPenAutoCut>
+  <TabPenAutoCut>Gearr go huath.</TabPenAutoCut>
   <!-- EN: Caravan -->
-  <TabFormingCaravan>Karawane</TabFormingCaravan>
+  <TabFormingCaravan>Carbhán</TabFormingCaravan>
   <!-- EN: Contents -->
-  <TabTransporterContents>Inhalt</TabTransporterContents>
+  <TabTransporterContents>Istigh</TabTransporterContents>
   <!-- EN: Travel -->
-  <TabMapPortalContents>TODO</TabMapPortalContents>
+  <TabMapPortalContents>Taisteal</TabMapPortalContents>
   <!-- EN: Contents -->
   <TabCasketContents>Inhalt</TabCasketContents>
   <!-- EN: Details -->
-  <TabBookContents>TODO</TabBookContents>
+  <TabBookContents>Sonraí</TabBookContents>
   <!-- EN: Study -->
-  <TabStudyNotesContents>TODO</TabStudyNotesContents>
+  <TabStudyNotesContents>Staidéar</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
-  <TabWindTurbineAutoCut>Auto-Entf.</TabWindTurbineAutoCut>
+  <TabWindTurbineAutoCut>Gearr go huath.</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -152,162 +152,162 @@
 
   <!-- Medical - general -->
   <!-- EN: Move speed -->
-  <MoveSpeed>Laufgeschwindigkeit</MoveSpeed>
+  <MoveSpeed>Luas gluaiseachta</MoveSpeed>
   <!-- EN: Efficiency -->
-  <Efficiency>Effizienz</Efficiency>
+  <Efficiency>Éifeachtúlacht</Efficiency>
   <!-- EN: Part efficiency -->
-  <PartEfficiency>Teileffizienz</PartEfficiency>
+  <PartEfficiency>Éifeachtúlacht</PartEfficiency>
   <!-- EN: Body part efficiency -->
-  <BodyPartEfficiency>Körperteileffizienz</BodyPartEfficiency>
+  <BodyPartEfficiency>Éifeachtúlacht</BodyPartEfficiency>
   <!-- EN: Gone -->
-  <MissingBodyPart>Verloren</MissingBodyPart>
+  <MissingBodyPart>Imithe</MissingBodyPart>
   <!-- EN: Destroyed -->
-  <DestroyedBodyPart>Zerstört</DestroyedBodyPart>
+  <DestroyedBodyPart>Scriosta</DestroyedBodyPart>
   <!-- EN: Shattered -->
-  <ShatteredBodyPart>Zertrümmert</ShatteredBodyPart>
+  <ShatteredBodyPart>Briste</ShatteredBodyPart>
   <!-- EN: Removed -->
-  <RemovedBodyPart>Entfernt</RemovedBodyPart>
+  <RemovedBodyPart>Bainte</RemovedBodyPart>
   <!-- EN: Healthy -->
-  <Healthy>Gesund</Healthy>
+  <Healthy>Sláintiúil</Healthy>
   <!-- EN: In pain -->
-  <InPain>Hat Schmerzen</InPain>
+  <InPain>I bpiain</InPain>
   <!-- EN: Pain -->
-  <PainLevel>Schmerzen</PainLevel>
+  <PainLevel>Pian</PainLevel>
   <!-- EN: Injured -->
-  <Injured>Verletzt</Injured>
+  <Injured>Gortaithe</Injured>
   <!-- EN: untended injury -->
-  <UntendedInjury>unbehandelte Verletzung</UntendedInjury>
+  <UntendedInjury>gortaithe</UntendedInjury>
   <!-- EN: no health conditions -->
-  <NoHealthConditions>keine Gesundheitszustände</NoHealthConditions>
+  <NoHealthConditions>níl aon ríocht sláinte ann</NoHealthConditions>
   <!-- EN: Whole body -->
-  <WholeBody>Ganzer Körper</WholeBody>
+  <WholeBody>Corp iomlán</WholeBody>
   <!-- EN: Data processing -->
-  <DataProcessing>Datenverarbeitung</DataProcessing>
+  <DataProcessing>próiseáil sonraí</DataProcessing>
   <!-- EN: Communication -->
-  <Communication>Kommunikation</Communication>
+  <Communication>Cumarsáid</Communication>
   <!-- EN: Affects -->
-  <Affects>Beeinflusst</Affects>
+  <Affects>Éifeachtaí</Affects>
   <!-- EN: Bleeding -->
-  <BleedingRate>Blutung</BleedingRate>
+  <BleedingRate>Ag cur fola</BleedingRate>
   <!-- EN: death in {0} -->
-  <TimeToDeath>Tod in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</TimeToDeath>
+  <TimeToDeath>Bás i gceann: {0}</TimeToDeath>
   <!-- EN: no immediate danger -->
-  <WontBleedOutSoon>Keine unmittelbare Gefahr</WontBleedOutSoon>
+  <WontBleedOutSoon>níl aon dáinséar práinneach ann</WontBleedOutSoon>
   <!-- EN: Overview -->
-  <HealthOverview>Übersicht</HealthOverview>
+  <HealthOverview>Léargas</HealthOverview>
   <!-- EN: Operations -->
-  <MedicalOperationsShort>Operationen</MedicalOperationsShort>
+  <MedicalOperationsShort>Obráidí</MedicalOperationsShort>
   <!-- EN: Modifications -->
-  <MedicalOperationsMechanoidsShort>Modifikationen</MedicalOperationsMechanoidsShort>
+  <MedicalOperationsMechanoidsShort>Modhnuithe</MedicalOperationsMechanoidsShort>
   <!-- EN: Medical operations -->
-  <MedicalOperations>Medizinische Operationen</MedicalOperations>
+  <MedicalOperations>Obráidí leighis</MedicalOperations>
   <!-- EN: amputate -->
-  <Amputate>Teil amputieren</Amputate>
+  <Amputate>bain</Amputate>
   <!-- EN: harvest -->
-  <HarvestOrgan>Organ entnehmen</HarvestOrgan>
+  <HarvestOrgan>bain</HarvestOrgan>
   <!-- EN: remove -->
-  <RemoveOrgan>Organ entfernen</RemoveOrgan>
+  <RemoveOrgan>bain orgán</RemoveOrgan>
   <!-- EN: memory -->
-  <MemoryLower>Erinnerung</MemoryLower>
+  <MemoryLower>cuimhne</MemoryLower>
   <!-- EN: social interactions -->
-  <SocialInteractionsLower>soziale Interaktion</SocialInteractionsLower>
+  <SocialInteractionsLower>sóisialta</SocialInteractionsLower>
   <!-- EN: Hunger rate -->
-  <HungerRate>Hungerrate</HungerRate>
+  <HungerRate>ráta ocrais</HungerRate>
   <!-- EN: Food consumption -->
-  <FoodConsumption>Lebensmittelkonsum</FoodConsumption>
+  <FoodConsumption>tomhaltas bia</FoodConsumption>
   <!-- EN: Tiredness -->
-  <Tiredness>Erschöpfung</Tiredness>
+  <Tiredness>Tuirse</Tiredness>
   <!-- EN: Pain -->
-  <PainFactor>Schmerz</PainFactor>
+  <PainFactor>Pian</PainFactor>
   <!-- EN: Prevents infection -->
-  <PreventsInfection>Verhindert Infektionen</PreventsInfection>
+  <PreventsInfection>Cuireann seo bac ar ionfhabhtú</PreventsInfection>
   <!-- EN: Allow self-tend -->
-  <AllowSelfTend>TODO</AllowSelfTend>
+  <AllowSelfTend>Féinchneasú ceadaithe</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <AllowSelfTendTip>TODO</AllowSelfTendTip>
+  <AllowSelfTendTip>Má cheadaítear féinchneasú, cuirfidh daoine cóireáil leighis orthu féin ar an bpointe, ach ní bheidh an chóireáil chomh éifeachtúlacht.</AllowSelfTendTip>
   <!-- EN: death in {0} -->
-  <DeathIn>Tod in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</DeathIn>
+  <DeathIn>Bás i gceann: {0}</DeathIn>
   <!-- EN: Allow medicine -->
-  <AllowMedicine>TODO</AllowMedicine>
+  <AllowMedicine>Bia ceadaithe</AllowMedicine>
   <!-- EN: What type of medicine can be given to this person. -->
-  <MedicineQualityDescription>TODO</MedicineQualityDescription>
+  <MedicineQualityDescription>Na cineálacha leighis a thabharfar don duine seo.</MedicineQualityDescription>
   <!-- EN: What type of food can be given to this person. -->
-  <FoodRestrictionDescription>TODO</FoodRestrictionDescription>
+  <FoodRestrictionDescription>Na cinéalacha bia a thabharfar don duine seo.</FoodRestrictionDescription>
 
   <!-- Medical - Body and activities condition -->
   <!-- EN: None -->
   <None>Faic</None>
   <!-- EN: Very poor -->
-  <VeryPoor>Kaum</VeryPoor>
+  <VeryPoor>An-olc</VeryPoor>
   <!-- EN: Poor -->
-  <Poor>Schlecht</Poor>
+  <Poor>Go holc</Poor>
   <!-- EN: Weakened -->
-  <Weakened>Reduziert</Weakened>
+  <Weakened>Sách olc</Weakened>
   <!-- EN: OK -->
-  <GoodCondition>Ok</GoodCondition>
+  <GoodCondition>Ceart go leor</GoodCondition>
   <!-- EN: Enhanced -->
-  <Enhanced>Verbessert</Enhanced>
+  <Enhanced>Treisithe</Enhanced>
   <!-- EN: Seriously impaired -->
-  <SeriouslyImpaired>Schwer verletzt</SeriouslyImpaired>
+  <SeriouslyImpaired>An-lag</SeriouslyImpaired>
   <!-- EN: Impaired -->
-  <Impaired>Verletzt</Impaired>
+  <Impaired>Lag</Impaired>
   <!-- EN: Slightly impaired -->
-  <SlightlyImpaired>Leicht verletzt</SlightlyImpaired>
+  <SlightlyImpaired>Sách lag</SlightlyImpaired>
   <!-- EN: None -->
-  <NoPain>Keine</NoPain>
+  <NoPain>Faic</NoPain>
   <!-- EN: Little -->
-  <LittlePain>Leicht</LittlePain>
+  <LittlePain>Beagán</LittlePain>
   <!-- EN: Medium -->
-  <MediumPain>Mittel</MediumPain>
+  <MediumPain>Meánach</MediumPain>
   <!-- EN: Severe -->
-  <SeverePain>Stark</SeverePain>
+  <SeverePain>Tromchúiseach</SeverePain>
   <!-- EN: Extreme -->
-  <ExtremePain>Extrem</ExtremePain>
+  <ExtremePain>An-tromchúiseach</ExtremePain>
 
   <!-- Training tab -->
   <!-- EN: Trainability -->
-  <Trainability>Trainierbarkeit</Trainability>
+  <Trainability>Inoiliúnacht</Trainability>
   <!-- EN: Requires {0} trainability. -->
-  <CannotTrainNotSmartEnough>Benötigte Trainierbarkeit: {0}.</CannotTrainNotSmartEnough>
+  <CannotTrainNotSmartEnough>Inoiliúnacht de dhíth: {0}.</CannotTrainNotSmartEnough>
   <!-- EN: {1_labelShort} is too small to train this. -->
-  <CannotTrainTooSmall>{1_labelShort} ist zu klein, um das zu lernen.</CannotTrainTooSmall>
+  <CannotTrainTooSmall>Tá {1_labelShort} ró-óg chun seo a fhoghlaim.</CannotTrainTooSmall>
 
   <!-- EN: Prerequisite needed: {0} -->
-  <TrainingNeedsPrerequisite>Benötigte Voraussetzung: {0}</TrainingNeedsPrerequisite>
+  <TrainingNeedsPrerequisite>De dhíth: {0}</TrainingNeedsPrerequisite>
   
   <!-- Social tab -->
   <!-- EN: Kidnapped -->
-  <Kidnapped>Entführt</Kidnapped>
+  <Kidnapped>Fuadaithe</Kidnapped>
   <!-- EN: Lent to {FACTION_name}, returns in {1} -->
-  <Lent>Ausgeliehen an die Fraktion '{FACTION_name}', Rückkehr in {replace: {1}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</Lent>
+  <Lent>Ar iasacht chuig {FACTION_name}, fillfidh {PAWN_pronoun} i gceann {1}</Lent>
   <!-- EN: Missing -->
-  <Missing>Vermisst</Missing>
+  <Missing>Ar strae</Missing>
   <!-- EN: slave -->
-  <Slave>Esclave</Slave>
+  <Slave>sclábhaí</Slave>
   <!-- EN: Faction leader -->
-  <FactionLeader>Fraktionsführer</FactionLeader>
+  <FactionLeader>Ceannaire</FactionLeader>
   <!-- EN: Opinion of {0} -->
-  <OpinionOf>Meinung von {0}</OpinionOf>
+  <OpinionOf>Tuairim maidir le {0}</OpinionOf>
   <!-- EN: {0}'s opinion of me -->
-  <SomeonesOpinionOfMe>{replace: {0}'s; "s's"-"s'"; "ß's"-"ß'"; "z's"-"z'"; "x's"-"x'"; "ce's"-"ce'"; "'s"-"s"} Meinung von mir</SomeonesOpinionOfMe>
+  <SomeonesOpinionOfMe>Tuairim {0} maidir liom</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
-  <IAmDead>Ich bin tot</IAmDead>
+  <IAmDead>Tá mé marbh</IAmDead>
   <!-- EN: I'm a psychopath -->
-  <IAmPsychopath>Ich bin ein Psychopath</IAmPsychopath>
+  <IAmPsychopath>Is síceapatach mé</IAmPsychopath>
   
   <!-- Gear tab -->
   <!-- EN: Overall armor -->
-  <OverallArmor>Gesamtrüstung</OverallArmor>
+  <OverallArmor>Armúr iomlán</OverallArmor>
   <!-- EN: Mass carried: {0} / {1} kg -->
-  <MassCarried>Gewicht: {0} / {1} kg</MassCarried>
+  <MassCarried>Meáchan: {0} / {1} kg</MassCarried>
   <!-- EN: Comfortable temperature range -->
-  <ComfyTemperatureRange>Wohlfühltemperaturbereich</ComfyTemperatureRange>
+  <ComfyTemperatureRange>Teocht compordach</ComfyTemperatureRange>
   <!-- EN: Blunt -->
-  <ArmorBlunt>Wucht</ArmorBlunt>
+  <ArmorBlunt>Maol</ArmorBlunt>
   <!-- EN: Sharp -->
-  <ArmorSharp>Stich</ArmorSharp>
+  <ArmorSharp>Biorach</ArmorSharp>
   <!-- EN: Heat -->
-  <ArmorHeat>Hitze</ArmorHeat>
+  <ArmorHeat>Teas</ArmorHeat>
   
   <!-- Log tab -->
   <!-- EN: Show all -->

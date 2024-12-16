@@ -2,51 +2,51 @@
 <LanguageData>
   
   <!-- EN: Animals will attack doors -->
-  <AnimalsDontAttackDoors.label>TODO</AnimalsDontAttackDoors.label>
+  <AnimalsDontAttackDoors.label>Ionsóidh ainmhithe doirse</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
-  <AnimalsDontAttackDoors.helpText>TODO</AnimalsDontAttackDoors.helpText>
+  <AnimalsDontAttackDoors.helpText>Ionsóidh ainmhithe doirse má fheiceann siad do choilínigh ag dul tríothu. Ionsóidh siad túiríní freisin.</AnimalsDontAttackDoors.helpText>
   
   <!-- EN: Bills tab -->
-  <BillsTab.label>TODO</BillsTab.label>
+  <BillsTab.label>Táb na mbillí</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
-  <BillsTab.helpText>TODO</BillsTab.helpText>
+  <BillsTab.helpText>Chun a rá le do choilínigh dul i mbun oibre ag bord, roghnaigh an bord agus oscail táb na mBillí. Anseo, is féidir orduithe a thabhairt maidir le rudaí atá le déanamh, béilí atá le réiteach agus ainmhithe atá le marú.</BillsTab.helpText>
   
   <!-- EN: books -->
-  <Books.label>TODO</Books.label>
+  <Books.label>Leabhair</Books.label>
   <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
-  <Books.helpText>TODO</Books.helpText>
+  <Books.helpText>Is maith le coilínigh leabhair a léamh, agus is féidir leo scileanna nua a fhoghlaim agus taighde nua a aimsiú i leabhair. Is féidir breathnú ar na héifeachtaí a bhaineann le leabhar ach cliceáil air agus an táb "Eolas" a roghnú.</Books.helpText>
   
   <!-- EN: Build orbital trade beacon -->
-  <BuildOrbitalTradeBeacon.label>TODO</BuildOrbitalTradeBeacon.label>
+  <BuildOrbitalTradeBeacon.label>Tóg aeróg trádála</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
-  <BuildOrbitalTradeBeacon.helpText>TODO</BuildOrbitalTradeBeacon.helpText>
+  <BuildOrbitalTradeBeacon.helpText>Ní mór AERÓG TRÁDÁLA a thógáil agus stoc-charn a chur taobh leis sula mbeidh tú in ann earraí nó airgead a sheoladh chuig spás-trádálaithe. </BuildOrbitalTradeBeacon.helpText>
   
   <!-- EN: Capturing -->
-  <Capturing.label>TODO</Capturing.label>
+  <Capturing.label>Príosúnaigh</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpText>TODO</Capturing.helpText>
+  <Capturing.helpText>Nuair atá duine leagtha (ach fós beo) féadfaidh tú iad a GHABHÁIL.\n\nChun duine a ghabháil, roghnaigh coilíneach, deaschliceáil ar naimhde leagtha, agus roghnaigh GABH.\n\nBeidh leaba príosúnaigh de dhíth ort.</Capturing.helpText>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
-  <Capturing.helpTextController>TODO</Capturing.helpTextController>
+  <Capturing.helpTextController>Nuair atá duine leagtha (ach fós beo) féadfaidh tú iad a GHABHÁIL.\n\nChun duine a ghabháil, roghnaigh coilíneach, cliceáil ar naimhde leagtha leis an truicear clé, agus roghnaigh GABH.\n\nBeidh leaba príosúnaigh de dhíth ort.</Capturing.helpTextController>
   
   <!-- EN: Door opening speeds -->
-  <DoorOpenSpeed.label>TODO</DoorOpenSpeed.label>
+  <DoorOpenSpeed.label>Oscail an doras!</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
-  <DoorOpenSpeed.helpText>TODO</DoorOpenSpeed.helpText>
+  <DoorOpenSpeed.helpText>Osclaíonn doirse áirithe níos tapúla ná doirse eile, ag brath ar an ábhar as a bhfuil siad déanta.\n\nBí cúramach: osclaíonn doirse cloiche go han-mhall.</DoorOpenSpeed.helpText>
   
   <!-- EN: Drafting for combat -->
-  <Drafting.label>TODO</Drafting.label>
+  <Drafting.label>Coinnigh ort ag saighdiúireacht</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
-  <Drafting.helpText>TODO</Drafting.helpText>
+  <Drafting.helpText>Is féidir ceannas díreach a ghlacadh ar choilínigh le linn troda, ach iad a DRÉACHTÚ.\n\nNí dhéanfaidh coilínigh dréachtaithe ach an méid a deir tú leo, agus an méid sin amháin. Má tá airm acu, bainfidh siad úsáid astu.\n\nNá coinnigh do choilínigh dreáchtaithe rófhada - tiocfaidh ocras orthu agus beidh siad míshásta.</Drafting.helpText>
   
   <!-- EN: Drug addiction -->
-  <DrugAddiction.label>TODO</DrugAddiction.label>
+  <DrugAddiction.label>Gafa le drugaí</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
-  <DrugAddiction.helpText>TODO</DrugAddiction.helpText>
+  <DrugAddiction.helpText>Uaireanta bíonn fonn ar do choilínigh drugaí a úsáid. Is féidir an stádas sin a sheiceáil ach cliceáil ar an táb "RIACHTANAIS".</DrugAddiction.helpText>
   
   <!-- EN: Drug burning -->
-  <DrugBurning.label>TODO</DrugBurning.label>
+  <DrugBurning.label>Drugaí a scrios</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
-  <DrugBurning.helpText>TODO</DrugBurning.helpText>
+  <DrugBurning.helpText>Bíonn drugaí úsáideach uaireanta, ach bíonn siad dáinséarach in amanna.\n\nMás maith leat fáil réidh le drugaí i do choilíneacht, is féidir iad a scrios i gcampa tine.</DrugBurning.helpText>
   
   <!-- EN: Drug policies -->
   <DrugPolicies.label>TODO</DrugPolicies.label>

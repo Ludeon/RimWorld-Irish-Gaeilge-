@@ -4,7 +4,7 @@
   <!-- EN: Alerts -->
   <Alerts.label>Meabhrúcháin</Alerts.label>
   <!-- EN: The alerts at the right edge of the screen tell you about issues that need your attention.\n\nKeep an eye on the alerts. -->
-  <Alerts.helpText>Tugann na meabhrúcháin ar thaobh an scáileáin eolas duit maidir le rudaí tábhachtacha.\n\nCoinnigh súil ar na meabhrúcháin.</Alerts.helpText>
+  <Alerts.helpText>Tugann na meabhrúcháin ar thaobh an scáileáin eolas duit maidir le rudaí tábhachtacha.\n\nCoinnigh súil orthu.</Alerts.helpText>
   
   <!-- EN: Allowed areas -->
   <AllowedAreas.label>Zón ceadaithe</AllowedAreas.label>

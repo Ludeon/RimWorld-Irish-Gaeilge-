@@ -76,9 +76,9 @@
     <li>creed(priority=1)->[memeCreed]</li>
     <li>creed->[genericCreed]</li>
     <li>genericCreed->mana</li>
-    <li>genericCreed->teagasc</li>
-    <li>genericCreed->bealach</li>
-    <li>genericCreed->cónair</li>
+    <li>genericCreed->teagasc </li>
+    <li>genericCreed->bealach </li>
+    <li>genericCreed->cónair </li>
     <li>hyphenPrefix->[globalHyphenPrefix]</li>
     <li>hyphenPrefix->[memeHyphenPrefix]</li>
     <li>globalHyphenPrefix(p=4)->nua</li>

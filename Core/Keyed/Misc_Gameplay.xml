@@ -57,13 +57,13 @@
   <!-- EN: developed immunity -->
   <DevelopedImmunityLower>imdhíonacht saothraithe</DevelopedImmunityLower>
   <!-- EN: Needs tending now -->
-  <NeedsTendingNow>Cóireáil de dhíth anois</NeedsTendingNow>
+  <NeedsTendingNow>Tá cóireáil de dhíth anois</NeedsTendingNow>
   <!-- EN: Can tend now -->
-  <CanTendNow>Cóireáil ar fáil anois</CanTendNow>
+  <CanTendNow>Ta cóireáil ar fáil anois</CanTendNow>
   <!-- EN: Tending expires in {0} -->
   <TreatmentExpiresIn>Rachaidh cóireáil in éag i gceann {0}</TreatmentExpiresIn>
   <!-- EN: Can be tended in {0} -->
-  <NextTendIn>Cóireáil ar fáil i gceann {0}</NextTendIn>
+  <NextTendIn>Beidh cóireáil ar fáil i gceann {0}</NextTendIn>
   <!-- EN: Tend quality -->
   <TendQuality>Cáilíochta cóireála</TendQuality>
   <!-- EN: Total tend quality -->
@@ -217,7 +217,7 @@
   <!-- EN: {0} animals -->
   <CaravanAnimalsCount>{0} ainmhí</CaravanAnimalsCount>
   <!-- EN: 1 prisoner -->
-  <CaravanPrisoner>1 príosúnach</CaravanPrisoner>
+  <CaravanPrisoner>1 phríosúnach</CaravanPrisoner>
   <!-- EN: {0} prisoners -->
   <CaravanPrisonersCount>{0} príosúnach</CaravanPrisonersCount>
   <!-- EN: {0} in mental state -->
@@ -289,7 +289,7 @@
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Réidh le leainseáil.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
-  <NotReadyForLaunch>Ní féidir leainseáil</NotReadyForLaunch>
+  <NotReadyForLaunch>Ní féidir seo a leainseáil</NotReadyForLaunch>
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>de dhíth: béalóg bhreosla</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
@@ -299,7 +299,7 @@
   <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>lasmuigh den uasraon</TransportPodDestinationBeyondMaximumRange>
   <!-- EN: Not enough fuel -->
-  <TransportPodNotEnoughFuel>Níl go leor breosla</TransportPodNotEnoughFuel>
+  <TransportPodNotEnoughFuel>Tá tuilleadh breosla de dhíth</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
   <SettlementTrader>{0} as {1}</SettlementTrader>
   <!-- EN: Surgery success chance multiplier from room -->
@@ -417,11 +417,11 @@
   <!-- EN: no active research project -->
   <NoActiveResearchProjectToFinish>Níl aon taighde ar siúl faoi láthair</NoActiveResearchProjectToFinish>
   <!-- EN: Current project -->
-  <CurrentProject>TODO</CurrentProject>
+  <CurrentProject>Tionscadal reatha</CurrentProject>
   <!-- EN: Research progress -->
-  <ResearchProgress>TODO</ResearchProgress>
+  <ResearchProgress>Dul chun cinn taighde</ResearchProgress>
   <!-- EN: already has {0} -->
-  <AlreadyHasHediff>TODO</AlreadyHasHediff>
+  <AlreadyHasHediff>tá {0} ann cheana</AlreadyHasHediff>
   <!-- EN: turret -->
   <Turret>túirín</Turret>
   <!-- EN: turrets -->
@@ -443,9 +443,9 @@
   <!-- EN: {0} of {1} x{2} -->
   <FilthLabelWithSource>{0} de {1} x{2}</FilthLabelWithSource>
   <!-- EN: Required -->
-  <Required>Requis</Required>
+  <Required>De dhíth</Required>
   <!-- EN: Warning: You cannot complete trade requests by using transport pods.\nIf you send the goods, the settlement will accept them as gifts but they will not reward you.\n\nFor trading, approach the settlement with a caravan!\n\nAre you sure you want to gift the loaded goods to the faction? -->
-  <GiveGiftViaTransportPodsTradeRequestWarning>Rabhadh: Ní féidir iarratas trádála a chomhlíonadh ag baint úsáide as podanna iompair.\nMá sheolann tú na hearraí, glacfar leo mar bhronntanas ach ní thabharfaidh siad aon rud duit.\n\nChun trádáil, ní mór cuairt a thabhairt ar an lonnaíocht le carbhán.!\n\nAn bhfuil tú cinnte gur mian leat na hearraí seo a thabhairt don fhaicsean mar bhronntanas?</GiveGiftViaTransportPodsTradeRequestWarning>
+  <GiveGiftViaTransportPodsTradeRequestWarning>Rabhadh: Ní féidir iarratais trádála a chomhlíonadh le podanna iompair.\nMá sheolann tú na hearraí, glacfar leo mar bhronntanas ach ní thabharfar aon íocaíocht duit.\n\nChun trádáil, ní mór cuairt a thabhairt ar an lonnaíocht le carbhán.!\n\nAn bhfuil tú cinnte gur mian leat na hearraí seo a sheoladh mar bhronntanas?</GiveGiftViaTransportPodsTradeRequestWarning>
   <!-- EN: prisoner -->
   <PrisonerLower>príosúnach</PrisonerLower>
   <!-- EN: prisoners -->
@@ -473,9 +473,9 @@
   <!-- EN: Spawning in {0} -->
   <SpawningNextPawnIn>Ag giniúint i gceann {0}</SpawningNextPawnIn>
   <!-- EN: {0} assembly completes in {1}. -->
-  <MechAssemblyCompleteIn>Críochnófar an tógáil i gceann {0}.</MechAssemblyCompleteIn>
+  <MechAssemblyCompleteIn>Críochnófar {0} i gceann {1}.</MechAssemblyCompleteIn>
   <!-- EN: Will assemble -->
-  <MechAssemblyNextType>Baut als Nächstes</MechAssemblyNextType>
+  <MechAssemblyNextType>Le tógáil</MechAssemblyNextType>
   <!-- EN: produced -->
   <ThingsProduced>cruthaithe</ThingsProduced>
   <!-- EN: harvested -->
@@ -609,43 +609,43 @@
   
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
-  <UserScanAbility>Benutzer-Scangeschwindigkeit</UserScanAbility>
+  <UserScanAbility>Luas scanála</UserScanAbility>
   <!-- EN: Random find interval -->
-  <ScanAverageInterval>Zufallsfund-Intervall</ScanAverageInterval>
+  <ScanAverageInterval>Aimseofar rud randamach gach:</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
-  <ScanningProgressToGuaranteedFind>Fortschritt bis zum garantierten Fund</ScanningProgressToGuaranteedFind>
+  <ScanningProgressToGuaranteedFind>Dul chun cinn sula n-aimseofar rud:</ScanningProgressToGuaranteedFind>
   
   <!-- Meditation -->
   <!-- EN: meditating at -->
-  <MeditatingAt>Meditiert bei</MeditatingAt>
+  <MeditatingAt>i mbun machnaimh ag</MeditatingAt>
 
   <!-- Fermentation barrel -->
   <!-- EN: Contains {0} / {1} wort. -->
-  <ContainsWort>Enthält {0} / {1} Bierwürze.</ContainsWort>
+  <ContainsWort>Braichlis: {0} as {1}.</ContainsWort>
   <!-- EN: Contains {0} / {1} beer. -->
-  <ContainsBeer>Enthält {0} / {1} Bier.</ContainsBeer>
+  <ContainsBeer>Beoir: {0} as {1}.</ContainsBeer>
   <!-- EN: Fermented -->
-  <Fermented>Gegoren</Fermented>
+  <Fermented>Coipthe</Fermented>
   <!-- EN: Progress: {0} ({1} left) -->
-  <FermentationProgress>Fortschritt: {0} (noch {1}).</FermentationProgress>
+  <FermentationProgress>Dul chun cinn: {0} ({1} fágtha).</FermentationProgress>
   <!-- EN: Non-ideal temperature. Fermentation speed: {0} -->
-  <FermentationBarrelOutOfIdealTemperature>Ungünstige Temperatur. Gärungsgeschwindigkeit: {0}</FermentationBarrelOutOfIdealTemperature>
+  <FermentationBarrelOutOfIdealTemperature>Teocht neamhoiriúnach. Luas coipthe: {0}</FermentationBarrelOutOfIdealTemperature>
 
   <!-- TextMotes -->
   <!-- EN: Headshot -->
-  <Headshot>Kopfschuss</Headshot>
+  <Headshot>Buille cloiginn</Headshot>
   <!-- EN: Treatment success!\n{0} chance -->
-  <TextMote_TreatSuccess>Behandlung erfolgreich!\n{0} Chance</TextMote_TreatSuccess>
+  <TextMote_TreatSuccess>D'éirigh leis an gcóiréail!\Seans n{0}</TextMote_TreatSuccess>
   <!-- EN: Treatment failed\n{0} chance -->
-  <TextMote_TreatFailed>Behandlung gescheitert\n{0} Chance</TextMote_TreatFailed>
+  <TextMote_TreatFailed>Theip ar an gcóireáil.\ Seans n{0}</TextMote_TreatFailed>
   <!-- EN: Harvest\nbotched -->
-  <TextMote_HarvestFailed>Ernte\nverbockt</TextMote_HarvestFailed>
+  <TextMote_HarvestFailed>Theip ar\nan asbhaint</TextMote_HarvestFailed>
   <!-- EN: Yield\nwasted -->
-  <TextMote_YieldWasted>Ertrag\nverloren</TextMote_YieldWasted>
+  <TextMote_YieldWasted>Cuireadh roinntg\nearraí amú</TextMote_YieldWasted>
   <!-- EN: Product\nwasted -->
-  <TextMote_ProductWasted>Produkt\nverloren</TextMote_ProductWasted>
+  <TextMote_ProductWasted>Cuireadh roinnt\ntairgí amú</TextMote_ProductWasted>
   <!-- EN: Recruit failed!\n{0} chance -->
-  <TextMote_RecruitFail>Rekrutierung gescheitert!\n{0} Chance</TextMote_RecruitFail>
+  <TextMote_RecruitFail>Theip ar an iarracht!\nSeans {0}</TextMote_RecruitFail>
   <!-- EN: Resistance\n{0} to {1} -->
   <TextMote_ResistanceReduced>Widerstand\n{0} auf {1} geändert</TextMote_ResistanceReduced>
   <!-- EN: Tame failed\n{0} chance -->
@@ -675,244 +675,244 @@
 
   <!-- Areas -->
   <!-- EN: Home -->
-  <Home>Heimat</Home>
+  <Home>Baile</Home>
   <!-- EN: Build roof -->
-  <BuildRoof>Dach bauen</BuildRoof>
+  <BuildRoof>Tóg díon</BuildRoof>
   <!-- EN: No roof -->
-  <NoRoof>Dach abreißen</NoRoof>
+  <NoRoof>Gan díon</NoRoof>
   <!-- EN: Snow clear -->
-  <SnowClear>Schnee räumen</SnowClear>
+  <SnowClear>Bain sneachta</SnowClear>
   <!-- EN: Area {0} -->
-  <AreaDefaultLabel>Gebiet {0}</AreaDefaultLabel>
+  <AreaDefaultLabel>Zón: {0}</AreaDefaultLabel>
   <!-- EN: Unrestricted -->
-  <NoAreaAllowed>Unbegrenzt</NoAreaAllowed>
+  <NoAreaAllowed>Neamhshrianta</NoAreaAllowed>
   <!-- EN: New area -->
-  <NewArea>Neues Gebiet</NewArea>
+  <NewArea>Zón nua</NewArea>
   <!-- EN: Invert -->
-  <InvertArea>Invertieren</InvertArea>
+  <InvertArea>Aisiompaigh</InvertArea>
   <!-- EN: Expand -->
-  <ExpandArea>TODO</ExpandArea>
+  <ExpandArea>Leathnaigh</ExpandArea>
   <!-- EN: Shrink -->
-  <ShrinkArea>TODO</ShrinkArea>
+  <ShrinkArea>Laghdaigh</ShrinkArea>
   <!-- EN: Maximum {0} areas allowed. -->
-  <MaxAreasReached>TODO</MaxAreasReached>
+  <MaxAreasReached>Ní cheadaítear aon zón {0} eile.</MaxAreasReached>
 
   <!-- Animal pens -->
   <!-- EN: Unenclosed -->
-  <PenUnenclosedLabel>Nicht umzäunt</PenUnenclosedLabel>
+  <PenUnenclosedLabel>Neamhthimpeallaithe</PenUnenclosedLabel>
   <!-- EN: open door -->
-  <PenOpenDoorLabel>offene Tür</PenOpenDoorLabel>
+  <PenOpenDoorLabel>doras oscailte</PenOpenDoorLabel>
   <!-- EN: Rename pen -->
-  <RenameAnimalPen>Gehege umbenennen</RenameAnimalPen>
+  <RenameAnimalPen>roghnaigh ainm</RenameAnimalPen>
   <!-- EN: Pen marker {0} -->
-  <AnimalPenMarkerDefaultLabel>Gehegemarkierung {0}</AnimalPenMarkerDefaultLabel>
+  <AnimalPenMarkerDefaultLabel>Marcóir clóis: {0}</AnimalPenMarkerDefaultLabel>
   <!-- EN: In pen -->
-  <InPen>Im Gehege</InPen>
+  <InPen>i gclós</InPen>
   <!-- EN: not in a pen -->
-  <Unpenned>nicht im Gehege</Unpenned>
+  <Unpenned>níl an t-ainmhí seo i gclós</Unpenned>
   <!-- EN: Animal pens can be created by building a pen marker inside an enclosed area. Your handlers will bring animals to an appropriate pen. Pens can be enclosed with fences, barricades, walls, and doors. -->
-  <UnpennedTooltip>Tiergehege können erstellt werden, indem man eine Gehegemarkierung innerhalb eines umzäunten Bereichs baut. Deine Tierpfleger bringen die Tiere in ihre jeweiligen Gehege. Gehege können mit Zäunen, Barrikaden, Wänden und Türen umschlossen werden.</UnpennedTooltip>
+  <UnpennedTooltip>Is féidir clós ainmhithe a thógáil ach marcóir clóis a thógáil laistigh de cheantar atá timpeallaithe ag sconsa nó ballaí. Tabharfaidh do chuid coilínigh ainmhithe chuig clós. Is féidir clós a dhéantar le sconsa, baracáidí nó ballaí.</UnpennedTooltip>
   <!-- EN: Roped by -->
-  <RopedByPawn>Angeleint von</RopedByPawn>
+  <RopedByPawn>Ceangailte ag</RopedByPawn>
   <!-- EN: Roped to -->
-  <RopedToThing>Angeleint an</RopedToThing>
+  <RopedToThing>Ceangailte le</RopedToThing>
   <!-- EN: Roped to spot. -->
-  <RopedToSpot>Am Platz angeleint.</RopedToSpot>
+  <RopedToSpot>Ceangailte le spota.</RopedToSpot>
   <!-- EN: Pen size -->
-  <PenSizeLabel>Gehegegröße</PenSizeLabel>
+  <PenSizeLabel>Méid an chlóis</PenSizeLabel>
   <!-- EN: Very small pen -->
-  <PenSizeDesc_VerySmall>Sehr kleines Gehege</PenSizeDesc_VerySmall>
+  <PenSizeDesc_VerySmall>Clós an-bheag</PenSizeDesc_VerySmall>
   <!-- EN: Small pen -->
-  <PenSizeDesc_Small>Kleines Gehege</PenSizeDesc_Small>
+  <PenSizeDesc_Small>Clós beag</PenSizeDesc_Small>
   <!-- EN: Medium-sized pen -->
-  <PenSizeDesc_Medium>Mittelgroßes Gehege</PenSizeDesc_Medium>
+  <PenSizeDesc_Medium>Clós meánach</PenSizeDesc_Medium>
   <!-- EN: Large pen -->
-  <PenSizeDesc_Large>Großes Gehege</PenSizeDesc_Large>
+  <PenSizeDesc_Large>Clós mór</PenSizeDesc_Large>
   <!-- EN: Not enclosed - build fences -->
-  <PenSizeDesc_Unenclosed>Nicht umzäunt - Baue Zäune</PenSizeDesc_Unenclosed>
+  <PenSizeDesc_Unenclosed>Níl an clós timpeallaithe - tóg sconsa</PenSizeDesc_Unenclosed>
   <!-- EN: {ANIMALDEF_label} capacity -->
-  <PenCapacityDesc>Kapazität {ANIMALDEF_label}</PenCapacityDesc>
+  <PenCapacityDesc>Tá spás do {ANIMALDEF_label}</PenCapacityDesc>
   <!-- EN: Example animals -->
-  <PenExampleAnimals>Beispieltiere</PenExampleAnimals>
+  <PenExampleAnimals>Ainmhithe samplacha</PenExampleAnimals>
   <!-- EN: No exterior access - Animals cannot be moved in or out. -->
-  <NoExteriorAccess>Kein Zauntor o.Ä. - Tiere können weder rein noch raus.</NoExteriorAccess>
+  <NoExteriorAccess>Ní aon bhealach isteach - ní féidir ainmhithe a thabhairt isteach nó amach.</NoExteriorAccess>
   
   <!-- EN: Must be connected to walls on both sides to function. -->
-  <DoorMustBeEnclosedByWalls>TODO</DoorMustBeEnclosedByWalls>
+  <DoorMustBeEnclosedByWalls>Ní mór é seo a cheangal le ballaí ar an dá thaobh sula n-oibreoidh sé i gceart.</DoorMustBeEnclosedByWalls>
 
   <!-- Cell Inspector -->
   <!-- EN: Beauty -->
-  <Beauty_Label>Attraktivität</Beauty_Label>
+  <Beauty_Label>Áilleacht</Beauty_Label>
   <!-- EN: Zone -->
-  <Zone_Label>Zone</Zone_Label>
+  <Zone_Label>Zón</Zone_Label>
   <!-- EN: Roof -->
-  <Roof_Label>Dach</Roof_Label>
+  <Roof_Label>Díon</Roof_Label>
   <!-- EN: Terrain -->
-  <Terrain_Label>Boden</Terrain_Label>
+  <Terrain_Label>Talamh</Terrain_Label>
   <!-- EN: Snow -->
-  <Snow_Label>Schnee</Snow_Label>
+  <Snow_Label>Sneachta</Snow_Label>
   <!-- EN: Walk speed -->
   <WalkSpeed_Label>Luas</WalkSpeed_Label>
   <!-- EN: Fertility -->
-  <Fertility_Label>Fruchtbarkeit</Fertility_Label>
+  <Fertility_Label>Torthúlacht</Fertility_Label>
   <!-- EN: Temperature -->
-  <Temperature_Label>Temperatur</Temperature_Label>
+  <Temperature_Label>Teocht</Temperature_Label>
   <!-- EN: Light level -->
-  <LightLevel_Label>Helligkeit</LightLevel_Label>
+  <LightLevel_Label>Solas</LightLevel_Label>
   <!-- EN: Biome -->
-  <Biome_Label>Biom</Biome_Label>
+  <Biome_Label>Bithóm</Biome_Label>
   <!-- EN: Hilliness -->
-  <Hilliness_Label>Hügeligkeit</Hilliness_Label>
+  <Hilliness_Label>Fána</Hilliness_Label>
   <!-- EN: Road -->
-  <Road_Label>Straße</Road_Label>
+  <Road_Label>Bóthar</Road_Label>
   <!-- EN: River -->
-  <River_Label>Fluss</River_Label> 
+  <River_Label>Abhainn</River_Label> 
   <!-- EN: Movement difficulty -->
-  <MovementDifficulty_Label>Unwegsamkeit</MovementDifficulty_Label>
+  <MovementDifficulty_Label>Deacracht gluaiseachta</MovementDifficulty_Label>
   <!-- EN: Pollution -->
-  <Pollution_Label>Verseuchung</Pollution_Label>
+  <Pollution_Label>Truailliú</Pollution_Label>
   <!-- EN: Filth -->
-  <Filth_Label>Schmutz</Filth_Label>
+  <Filth_Label>Salachar</Filth_Label>
   
   <!-- EN: Faction -->
-  <Faction_Label>Fraktion</Faction_Label>
+  <Faction_Label>Faicsean</Faction_Label>
   <!-- EN: Relationship -->
-  <Relationship_Label>Beziehung</Relationship_Label>
+  <Relationship_Label>Caidreamh</Relationship_Label>
   <!-- EN: Colonists -->
-  <CaravanColonists_Label>Kolonisten</CaravanColonists_Label>
+  <CaravanColonists_Label>Coilínigh</CaravanColonists_Label>
   <!-- EN: Status -->
-  <CaravanStatus_Label>Status</CaravanStatus_Label>
+  <CaravanStatus_Label>Stádas</CaravanStatus_Label>
   <!-- EN: Time to destination -->
-  <CaravanTTD_Label>Ankunftszeit</CaravanTTD_Label>
+  <CaravanTTD_Label>Am fágtha</CaravanTTD_Label>
   
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
-  <CannotOrderNonControlled>Fremde Charaktere können nicht befehligt werden.</CannotOrderNonControlled>
+  <CannotOrderNonControlled>Ní féidir orduithe a thabhairt do charachtair nach bhfuil smacht agat orthu.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>{1_labelShort} kann keine Gewalt anwenden.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>Ní féidir le {1_labelShort} aon fhoréigean a dhéanamh.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>kann keine Gewalt anwenden</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>ní féidir leis an duine seo aon fhoréigean a dhéanamh</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
-  <IsNotDrafted>{1_labelShort} ist nicht im Kampfmodus.</IsNotDrafted>
+  <IsNotDrafted>Níl {1_labelShort} dréachtaithe.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>{replace: {PAWN_nameDef}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {APPAREL_label} verhindert den Einsatz von Fernkampfwaffen.</ApparelPreventsShooting>
+  <ApparelPreventsShooting>Ní féidir le {PAWN_nameDef} airm fhadraoin a úsáid toisc go bhfuil {PAWN_pronon} ag caitheamh: {APPAREL_label}.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
-  <CannotUseReason_PocketMap>TODO</CannotUseReason_PocketMap>
+  <CannotUseReason_PocketMap>Ní féidir seo a úsáid i {0}.</CannotUseReason_PocketMap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
-  <Snow>Schnee</Snow>
+  <Snow>Sneachta</Snow>
   <!-- EN: No snow -->
-  <SnowNone>Kein Schnee</SnowNone>
+  <SnowNone>Gan sneachta</SnowNone>
   <!-- EN: dusting -->
-  <SnowDusting>staubig</SnowDusting>
+  <SnowDusting>brat éadrom</SnowDusting>
   <!-- EN: thin -->
-  <SnowThin>dünn</SnowThin>
+  <SnowThin>éadrom</SnowThin>
   <!-- EN: medium -->
-  <SnowMedium>mittel</SnowMedium>
+  <SnowMedium>measartha trom</SnowMedium>
   <!-- EN: thick -->
-  <SnowThick>dick</SnowThick>
+  <SnowThick>trom</SnowThick>
 
   <!-- Turrets -->
   <!-- EN: Installed -->
-  <GunInstalled>Montiert</GunInstalled>
+  <GunInstalled>Feistithe</GunInstalled>
   <!-- EN: Minimum range -->
-  <MinimumRange>Mindestreichweite</MinimumRange>
+  <MinimumRange>Íosraon</MinimumRange>
   <!-- EN: Can fire in -->
-  <CanFireIn>Kann schießen in</CanFireIn>
+  <CanFireIn>Réidh le scaoileadh i gceann: </CanFireIn>
   <!-- EN: Cannot fire -->
-  <CannotFire>Kann nicht schießen</CannotFire>
+  <CannotFire>Ní féidir leis seo scaoileadh</CannotFire>
   <!-- EN: roofed -->
-  <Roofed>überdacht</Roofed>
+  <Roofed>faoi dhíon</Roofed>
   <!-- EN: Shell loaded: {1_label} -->
-  <ShellLoaded>Granate geladen: {1_label}</ShellLoaded>
+  <ShellLoaded>Sliogán lódáilte: {1_label}</ShellLoaded>
   <!-- EN: Not loaded -->
-  <ShellNotLoaded>Nicht geladen</ShellNotLoaded>
+  <ShellNotLoaded>Neamhlódáilte</ShellNotLoaded>
   <!-- EN: Already active -->
-  <AlreadyActive>Bereits aktiv</AlreadyActive>
+  <AlreadyActive>Tá seo cumasaithe cheana féin</AlreadyActive>
   <!-- EN: Order activation -->
-  <OrderActivation>Aktivierung anordnen</OrderActivation>
+  <OrderActivation>Cumasaigh</OrderActivation>
   <!-- EN: Order a colonist to activate {THING_definite}. -->
-  <OrderActivationDesc>Befehlige einen Kolonisten, {THING_label} zu aktivieren.</OrderActivationDesc>
+  <OrderActivationDesc>Tabhair ordú do choilíneach {THING_label} a chumasú.</OrderActivationDesc>
   <!-- EN: Send a colonist to activate this. -->
-  <MustBeActivatedByColonist>Muss von einem Kolonisten aktiviert werden.</MustBeActivatedByColonist>
+  <MustBeActivatedByColonist>Seo coilíneach chun seo a chumasú.</MustBeActivatedByColonist>
   <!-- EN: No nearby fire -->
-  <NoNearbyFire>Kein Brand in der Nähe</NoNearbyFire>
+  <NoNearbyFire>Níl aon tine in aice láimhe</NoNearbyFire>
   <!-- EN: No nearby fire. No fuel was used. -->
-  <NoNearbyFireNoFuelUsed>Kein Brand in der Nähe. Nichts verbraucht.</NoNearbyFireNoFuelUsed>
+  <NoNearbyFireNoFuelUsed>Níl aon tine in aice láimhe. Níor úsáideadh aon bhreosla.</NoNearbyFireNoFuelUsed>
   <!-- EN: Choose who should activate this. -->
-  <ChooseWhoShouldActivate>Wähle aus, wer das aktivieren soll.</ChooseWhoShouldActivate>
+  <ChooseWhoShouldActivate>Roghnaigh duine chun seo a chumasú.</ChooseWhoShouldActivate>
   <!-- EN: No fuel -->
-  <NoFuel>Keine Munition mehr</NoFuel>
+  <NoFuel>Gan bhreosla</NoFuel>
 
   <!-- Job reports -->
   <!-- EN: hauling {THING_label} to {DESTINATION}. -->
-  <ReportHaulingTo>trägt {THING_label} zu {DESTINATION}.</ReportHaulingTo>
+  <ReportHaulingTo>ag iompar {THING_label} chuig {DESTINATION}.</ReportHaulingTo>
   <!-- EN: burying {THING_label} in {DESTINATION}. -->
-  <ReportHaulingToGrave>beerdigt {THING_label} in {DESTINATION}.</ReportHaulingToGrave>
+  <ReportHaulingToGrave>ag cur {THING_label} i {DESTINATION}.</ReportHaulingToGrave>
   <!-- EN: hauling {1_label}. -->
-  <ReportHauling>trägt {1_label}.</ReportHauling>
+  <ReportHauling>ag iompar {1_label}.</ReportHauling>
   <!-- EN: hauling. -->
-  <ReportHaulingUnknown>trägt etwas.</ReportHaulingUnknown>
+  <ReportHaulingUnknown>ag iompar.</ReportHaulingUnknown>
   <!-- EN: sleeping. -->
-  <ReportSleeping>schläft.</ReportSleeping>
+  <ReportSleeping>ag codladh.</ReportSleeping>
   <!-- EN: resting. -->
-  <ReportResting>ruht sich aus.</ReportResting>
+  <ReportResting>ag tógáil sosa.</ReportResting>
   <!-- EN: laying down. -->
-  <ReportLayingDown>hat sich hingelegt.</ReportLayingDown>
+  <ReportLayingDown>ag luí síos.</ReportLayingDown>
   <!-- EN: watching the sunrise. -->
-  <WatchingSunrise>beobachtet den Sonnenaufgang.</WatchingSunrise>
+  <WatchingSunrise>ag breathnú ar éirí na gréine.</WatchingSunrise>
   <!-- EN: cloudwatching. -->
-  <CloudWatching>schaut den Wolken zu.</CloudWatching>
+  <CloudWatching>ag breathnú ar na scamaill.</CloudWatching>
   <!-- EN: watching the sunset. -->
-  <WatchingSunset>beobachtet den Sonnenuntergang.</WatchingSunset>
+  <WatchingSunset>ag breathnú ar luí na gréine.</WatchingSunset>
   <!-- EN: stargazing. -->
-  <Stargazing>beobachtet den Sternenhimmel.</Stargazing>
+  <Stargazing>ag breathnú ar na réaltaí.</Stargazing>
   <!-- EN: watching the eclipse. -->
-  <WatchingEclipse>beobachtet die Sonnenfinsternis.</WatchingEclipse>
+  <WatchingEclipse>ag breathnú ar an urú.</WatchingEclipse>
   <!-- EN: watching the aurora. -->
-  <WatchingAurora>beobachtet das Polarlicht.</WatchingAurora>
+  <WatchingAurora>ag breathnú ar an aróir.</WatchingAurora>
   <!-- EN: using {0} on {1}. -->
-  <UsingVerb>benutzt {0} auf {1}.</UsingVerb>
+  <UsingVerb>ag úsáid: {0} ar: {1}.</UsingVerb>
   <!-- EN: using {0}. -->
-  <UsingVerbNoTarget>benutzt {0}.</UsingVerbNoTarget>
+  <UsingVerbNoTarget>ag úsáid: {0}.</UsingVerbNoTarget>
   <!-- EN: area -->
-  <AreaLower>Gebiet</AreaLower>
+  <AreaLower>achar</AreaLower>
   <!-- EN: cowering. -->
-  <ReportCowering>duckt sich.</ReportCowering>
+  <ReportCowering>i bhfolach.</ReportCowering>
   <!-- EN: standing. -->
-  <ReportStanding>steht.</ReportStanding>
+  <ReportStanding>seasta.</ReportStanding>
   <!-- EN: extinguishing fire. -->
-  <ReportExtinguishingFire>löscht Feuer.</ReportExtinguishingFire>
+  <ReportExtinguishingFire>ag múchadh tine.</ReportExtinguishingFire>
   <!-- EN: extinguishing fire on {TARGET_label}. -->
-  <ReportExtinguishingFireOn>löscht Feuer bei {TARGET_label}.</ReportExtinguishingFireOn>
+  <ReportExtinguishingFireOn>ag múchadh tine ar: {TARGET_label}.</ReportExtinguishingFireOn>
   <!-- EN: digging up corpse. -->
-  <ReportDiggingUpCorpse>gräbt Leiche aus.</ReportDiggingUpCorpse>
+  <ReportDiggingUpCorpse>ag tochailt amach corpáin.</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
-  <CarriedBy>wird von {0_labelShort} getragen.</CarriedBy> 
+  <CarriedBy>á iompar ag {0_labelShort}.</CarriedBy> 
   <!-- EN: inside {0_labelShort}. -->
-  <InContainer>befindet sich in {0_labelShort}.</InContainer> 
+  <InContainer>taobh istigh de {0_labelShort}.</InContainer> 
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>TODO</DownedCannotCrawl> 
+  <DownedCannotCrawl>leagtha</DownedCannotCrawl> 
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>TODO</DownedUnconscious> 
+  <DownedUnconscious>leagtha, neamhaireachtálach</DownedUnconscious> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
-  <LordReportAttendingMarriageCeremony>Nimmt an Hochzeitszeremonie teil</LordReportAttendingMarriageCeremony>
+  <LordReportAttendingMarriageCeremony>Ag freastal ar bhainis</LordReportAttendingMarriageCeremony>
   <!-- EN: Attending party -->
-  <LordReportAttendingParty>Nimmt an Party teil</LordReportAttendingParty>
+  <LordReportAttendingParty>Ag freastal ar chóisir</LordReportAttendingParty>
   <!-- EN: Attending concert -->
-  <LordReportAttendingConcert>Nimmt an Konzert teil</LordReportAttendingConcert>
+  <LordReportAttendingConcert>Ag freastal ar cheolchoirm</LordReportAttendingConcert>
   <!-- EN: Holding a concert -->
-  <LordReportHoldingConcert>Veranstaltet ein Konzert</LordReportHoldingConcert>
+  <LordReportHoldingConcert>Ag reáchtáil ceolchoirme</LordReportHoldingConcert>
   <!-- EN: Giving a speech -->
-  <LordReportGivingSpeech>Hält eine Rede</LordReportGivingSpeech>
+  <LordReportGivingSpeech>Ag tabhairt óráide</LordReportGivingSpeech>
   <!-- EN: Listening to {ORGANIZER_labelShort}'s speech -->
-  <LordReportListeningSpeech>Hört sich die Rede von {ORGANIZER_labelShort} an</LordReportListeningSpeech>
+  <LordReportListeningSpeech>Ag éisteacht le hóráid {ORGANIZER_labelShort}</LordReportListeningSpeech>
   <!-- EN: Forming caravan -->
-  <LordReportFormingCaravan>Formiert Karawane</LordReportFormingCaravan>
+  <LordReportFormingCaravan>Ag socrú carbháin</LordReportFormingCaravan>
 
   <!-- Shooting report -->
   <!-- EN: Weapon miss radius -->
@@ -940,29 +940,29 @@
 
   <!-- Generated recipes -->
   <!-- EN: make {0} -->
-  <RecipeMake>{0} herstellen</RecipeMake>
+  <RecipeMake> déan {0}</RecipeMake>
   <!-- EN: Make {0}. -->
-  <RecipeMakeDescription>Stelle {replace: ^{0}; "^ein "-"1x "; "^eine "-"1x "; ", ein "-", 1x "; ", eine "-", 1x "; " und ein "-" und 1x "; " und eine "-" und 1x "; "^"-""} her.</RecipeMakeDescription>
+  <RecipeMakeDescription>Déan {0}.</RecipeMakeDescription>
   <!-- EN: Making {0}. -->
-  <RecipeMakeJobString>Stellt {0} her.</RecipeMakeJobString>
+  <RecipeMakeJobString>Ag déanamh {0}.</RecipeMakeJobString>
   <!-- EN: administer {0} -->
-  <RecipeAdminister>{0} verabreichen</RecipeAdminister>
+  <RecipeAdminister>tabhair {0}</RecipeAdminister>
   <!-- EN: Administering {0}. -->
-  <RecipeAdministerJobString>Verabreicht {0}.</RecipeAdministerJobString>
+  <RecipeAdministerJobString>Ag tabhairt {0}.</RecipeAdministerJobString>
   <!-- EN: teetotaler will be unhappy -->
-  <TeetotalerUnhappy>Abstinenzler wird unglücklich sein</TeetotalerUnhappy>
+  <TeetotalerUnhappy>beidh staonaire míshásta</TeetotalerUnhappy>
   <!-- EN: body purist will be unhappy -->
-  <ProsthophobeUnhappy>Purist wird unglücklich sein</ProsthophobeUnhappy>
+  <ProsthophobeUnhappy>beidh íonóir coirp míshásta</ProsthophobeUnhappy>
 
   <!-- Thoughts -->
   <!-- EN: Expires in: {0} -->
-  <ThoughtExpiresIn>Läuft in (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) ab</ThoughtExpiresIn>
+  <ThoughtExpiresIn>Rachaidh seo in éag i gceann: {0}</ThoughtExpiresIn>
   <!-- EN: thought disabled by -->
-  <ThoughtNullifiedBy>blockiert durch</ThoughtNullifiedBy>
+  <ThoughtNullifiedBy>smaoineamh blocáilte ag</ThoughtNullifiedBy>
   <!-- EN: Starts expiring in: {0} -->
-  <ThoughtStartsExpiringIn>Beginnt in (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) abzulaufen</ThoughtStartsExpiringIn>
+  <ThoughtStartsExpiringIn>Tosóidh seo ag dul in éag i gceann: {0}</ThoughtStartsExpiringIn>
   <!-- EN: Finishes expiring in: {0} -->
-  <ThoughtFinishesExpiringIn>Läuft nach spätestens (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) ab</ThoughtFinishesExpiringIn>
+  <ThoughtFinishesExpiringIn>Beidh sé imithe in éag i gceann: {0}</ThoughtFinishesExpiringIn>
   <!-- EN: Extreme break threshold -->
   <MentalBreakThresholdExtreme>Extremer Zusammenbruch bei</MentalBreakThresholdExtreme>
   <!-- EN: Major break threshold -->
@@ -974,25 +974,25 @@
   <!-- EN: {PAWN_gender} {1} -->
   <PawnMainDescGendered>{1}, {PAWN_gender}</PawnMainDescGendered>
   <!-- EN: {0} of {1} -->
-  <PawnMainDescFactionedWrap>{replace: {0}; "Männchen "-"Männchen, "; "Weibchen "-"Weibchen, "}, {1}</PawnMainDescFactionedWrap>
+  <PawnMainDescFactionedWrap>{0} as {1}</PawnMainDescFactionedWrap>
   <!-- EN: {0} in {1} -->
-  <PawnTitleDescWrap>{0} in {1}</PawnTitleDescWrap>
+  <PawnTitleDescWrap>{0} i {1}</PawnTitleDescWrap>
   <!-- EN: {0} under {1} -->
-  <PawnMainDescUnderFactionedWrap>{0}, in Obhut von {1}</PawnMainDescUnderFactionedWrap>
+  <PawnMainDescUnderFactionedWrap>{0} faoi {1}</PawnMainDescUnderFactionedWrap>
   <!-- EN: {2_lifeStageAdjective} {0} -->
   <PawnMainDescLifestageWrap>{2_lifeStage}, {0}</PawnMainDescLifestageWrap>
   <!-- EN: Faction -->
-  <Faction>Fraktion</Faction>
+  <Faction>Faicsean</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
   <FactionDesc>Die Fraktion, der {PAWN_labelShort} derzeit angehört.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
   <ExtraFactionDesc>Die Fraktion, der {PAWN_nameDef} ursprünglich angehört.</ExtraFactionDesc>
   <!-- EN: Equipped -->
-  <Equipped>Waffe</Equipped>
+  <Equipped>Feistithe</Equipped>
   <!-- EN: nothing -->
-  <EquippedNothing>Nichts</EquippedNothing>
+  <EquippedNothing>faic</EquippedNothing>
   <!-- EN: Dead -->
-  <Dead>Tot</Dead>
+  <Dead>Marbh</Dead>
   <!-- EN: Unconscious -->
   <Unconscious>Bewusstlos</Unconscious>
   <!-- EN: In shock due to pain -->
