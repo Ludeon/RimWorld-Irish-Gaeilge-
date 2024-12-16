@@ -531,7 +531,7 @@
   <!-- EN: Select starting site -->
   <SelectStartingSite>Roghnaigh suíomh tosaigh</SelectStartingSite>
   <!-- EN: Select random site -->
-  <SelectRandomSite />
+  <SelectRandomSite>Suíomh randamach</SelectRandomSite>
   <!-- EN: Select site -->
   <SelectSite>Roghnaigh suíomh</SelectSite>
   <!-- EN: Please select a site. -->
