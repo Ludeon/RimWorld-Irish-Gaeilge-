@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] designed the construction of buildings. On [PAWN_possessive] glitterworld home, the technical aspect of architecture was handled by an AI, whilst the labour was done by robots. This freed [PAWN_objective] up to push the artistic limits of his craft, but also meant [PAWN_pronoun] never had to get [PAWN_possessive] hands dirty. -->
-  <Architect28.description>TODO</Architect28.description>
-  <Architect28.baseDesc>Bhí [PAWN_nameDef] freagrach as foirgnimh a dhearadh agus a thógáil. Ar an ngeal-phlainéad as a thagann [PAWN_nameDef], bíonn IS i gceannas ar na gnéithe teicniúla den ailtireacht. Dá bharr, bhí deis ag [PAWN_nameDef] díriú isteach ar an ealaín a bhaineann leis an gcéird, ach ní raibh air [PAWN_nameDef] dul i mbun oibre ar láthair tógála riamh</Architect28.baseDesc>
+  <Architect28.description>Bhí [PAWN_nameDef] freagrach as foirgnimh a dhearadh agus a thógáil. Ar an ngeal-phlainéad as a thagann [PAWN_nameDef], bíonn IS i gceannas ar na gnéithe teicniúla den ailtireacht. Dá bharr, bhí deis ag [PAWN_nameDef] díriú isteach ar an ealaín a bhaineann leis an gcéird, ach ní raibh air [PAWN_nameDef] dul i mbun oibre ar láthair tógála riamh.</Architect28.description>
+  <Architect28.baseDesc>Bhí [PAWN_nameDef] freagrach as foirgnimh a dhearadh agus a thógáil. Ar an ngeal-phlainéad as a thagann [PAWN_nameDef], bíonn IS i gceannas ar na gnéithe teicniúla den ailtireacht. Dá bharr, bhí deis ag [PAWN_nameDef] díriú isteach ar an ealaín a bhaineann leis an gcéird, ach ní raibh air [PAWN_nameDef] dul i mbun oibre ar láthair tógála riamh.</Architect28.baseDesc>
   <!-- EN: architect -->
   <Architect28.title>ailtire</Architect28.title>
   <!-- EN: architect -->
   <Architect28.titleShort>ailtire</Architect28.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots, while the people mostly devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire nature's beauty. -->
-  <BiosphereManager95.description>TODO</BiosphereManager95.description>
+  <BiosphereManager95.description>Bhí cónaí ar [PAWN_nameDef] ar gheal-phlainéad síochánta. Rinne róbait obair neamhoilte agus ní raibh le déanamh ag daoine ach a scíth a ligean. Bhí [PAWN_pronoun] i gceannas ar na plandaí agus ainmhíthe i bpáirc ollmhór, áit ar tháinig cuairteoirí le bhreathnú ar an nádúr.</BiosphereManager95.description>
   <BiosphereManager95.baseDesc>Bhí cónaí ar [PAWN_nameDef] ar gheal-phlainéad síochánta. Rinne róbait obair neamhoilte agus ní raibh le déanamh ag daoine ach a scíth a ligean. Bhí [PAWN_nameDef] i gceannas ar na plandaí agus ainmhíthe i bpáirc ollmhór, áit ar tháinig cuairteoirí le bhreathnú ar an nádúr.</BiosphereManager95.baseDesc>
   <!-- EN: biosphere manager -->
   <BiosphereManager95.title>bainsteoir bithsféir</BiosphereManager95.title>
@@ -18,15 +18,15 @@
   <BiosphereManager95.titleShort>luibheolaí</BiosphereManager95.titleShort>
   
   <!-- EN: Glitterworlds are havens of comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore the nearby trashworlds where the people suffered and starved. [PAWN_pronoun] spent [PAWN_possessive] life appealing for donations and supporting those in need. -->
-  <CharityWorker36.description>TODO</CharityWorker36.description>
-  <CharityWorker36.baseDesc>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_nameDef] go leor ama i mbun oibre ag lorg síntiús agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.baseDesc>
+  <CharityWorker36.description>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_pronoun] go leor ama i mbun oibre ag bailiú airgid agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.description>
+  <CharityWorker36.baseDesc>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_nameDef] go leor ama i mbun oibre ag bailiú airgid agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.baseDesc>
   <!-- EN: charity worker -->
   <CharityWorker36.title>oibrí deonach</CharityWorker36.title>
   <!-- EN: altruist -->
   <CharityWorker36.titleShort>altrúíoch</CharityWorker36.titleShort>
   
   <!-- EN: [PAWN_nameDef] found it easy to relate to others and mediate conflict. [PAWN_pronoun] was selected to train as an empath. The training intensified [PAWN_possessive] natural abilities, but [PAWN_pronoun] became unable to cause others pain. -->
-  <GlitterworldEmpath26.description>TODO</GlitterworldEmpath26.description>
+  <GlitterworldEmpath26.description>Bhí [PAWN_nameDef] in ann réiteach go maith le daoine agus coimhlintí a réiteach. Roghnaíodh [PAWN_pronoun] dul faoi oiliúint mar shíochánaí. Mar gheall ar an oiliúint seo, níl [PAWN_nameDef] in ann díobháil a dhéanamh do dhaoine eile.</GlitterworldEmpath26.description>
   <GlitterworldEmpath26.baseDesc>Bhí [PAWN_nameDef] in ann réiteach go maith le daoine agus coimhlintí a réiteach. Roghnaíodh [PAWN_pronoun] dul faoi oiliúint mar shíochánaí. Mar gheall ar an oiliúint seo, níl [PAWN_nameDef] in ann díobháil a dhéanamh do dhaoine eile.</GlitterworldEmpath26.baseDesc>
   <!-- EN: glitterworld empath -->
   <GlitterworldEmpath26.title>síochánaí geall-phlainéid</GlitterworldEmpath26.title>
@@ -34,7 +34,7 @@
   <GlitterworldEmpath26.titleShort>síochánaí</GlitterworldEmpath26.titleShort>
   
   <!-- EN: Though glitterworlds are peaceful places, they often remain prepared for war. [PAWN_nameDef]'s unit rarely saw any real action.\n\nThough [PAWN_pronoun] pursued [PAWN_possessive] artistic hobbies, [PAWN_possessive] subordinates preferred to entertain themselves by brawling, so [PAWN_nameDef] got good at breaking up fights. -->
-  <GlitterworldOfficer60.description>TODO</GlitterworldOfficer60.description>
+  <GlitterworldOfficer60.description>Cé gur áiteanna síochánta iad geal-phlainéid, is minic go mbíonn siad ullmhaithe dul i mbun cogaidh. Ní raibh aon bhaint ag aonad [PAWN_nameDef] le haon aicsean. Bhí sé de nós ag fo-oifigigh [PAWN_nameDef] siamsa a dhéanamh dóibh féin trí bheith ag bruíon, agus mar sin d'fhoghlaim [PAWN_nameDef] conas troideanna a bhriseadh suas.</GlitterworldOfficer60.description>
   <GlitterworldOfficer60.baseDesc>Cé gur áiteanna síochánta iad geal-phlainéid, is minic go mbíonn siad ullmhaithe dul i mbun cogaidh. Ní raibh aon bhaint ag aonad [PAWN_nameDef] le haon aicsean. Bhí sé de nós ag fo-oifigigh [PAWN_nameDef] siamsa a dhéanamh dóibh féin trí bheith ag bruíon, agus mar sin d'fhoghlaim [PAWN_nameDef] conas troideanna a bhriseadh suas.</GlitterworldOfficer60.baseDesc>
   <!-- EN: glitterworld officer -->
   <GlitterworldOfficer60.title>oifigeach geal-phlainéid</GlitterworldOfficer60.title>
@@ -42,7 +42,7 @@
   <GlitterworldOfficer60.titleShort>oifigeach</GlitterworldOfficer60.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a surgeon on a world mostly free of disease and human suffering, so [PAWN_possessive] job focused on elaborate and creative cosmetic surgeries. \n\n[PAWN_pronoun] understands human biology, deeply, but has never had to remove a tumour — or a bullet. -->
-  <GlitterworldSurgeon15.description>TODO</GlitterworldSurgeon15.description>
+  <GlitterworldSurgeon15.description>Máinlia ab ea [PAWN_nameDef], ar phlainéad a bhí saor ó ghalar agus  fulaingt daonna den chuid is mó. Máinliacht chosmaideach a bhí i gceist leis an ngairm sin den chuid is mó, agus ní raibh ar [PAWN_pronoun] plé le gortuithe tromchúiseacha nó ailse.</GlitterworldSurgeon15.description>
   <GlitterworldSurgeon15.baseDesc>Máinlia ab ea [PAWN_nameDef], ar phlainéad a bhí saor ó ghalar agus  fulaingt daonna den chuid is mó. Máinliacht chosmaideach a bhí i gceist leis an ngairm sin den chuid is mó, agus ní raibh ar [PAWN_pronoun] plé le gortuithe tromchúiseacha nó ailse.</GlitterworldSurgeon15.baseDesc>
   <!-- EN: glitterworld surgeon -->
   <GlitterworldSurgeon15.title>máinlia geal-phlainéid</GlitterworldSurgeon15.title>
@@ -50,7 +50,7 @@
   <GlitterworldSurgeon15.titleShort>máinlia</GlitterworldSurgeon15.titleShort>
   
   <!-- EN: Interstellar warfare is won by technology, so glitterworld navies are always at the peak of modern research. Even better, they occasionally find archotechnological artifacts floating in space.\n\n[PAWN_nameDef] worked in a navy lab. -->
-  <NavyScientist52.description>TODO</NavyScientist52.description>
+  <NavyScientist52.description>I gcogaí idir-réaltacha, bíonn an bua ag an té a bhfuil an teicneolaíocht is fearr aige. Bíonn cabhlaigh na ngeal-phlainéad i gcónaí ar thús cadhnaíochta maidir le taighde nua-aimseartha. Thairis sin, is minic go dtagann siad ar dhéantáin arcai-teicneolaíochta sa spás. \n\nD'oibrigh [PAWN_nameDef] i saotharlann cabhlaigh.</NavyScientist52.description>
   <NavyScientist52.baseDesc>I gcogaí idir-réaltacha, bíonn an bua ag an té a bhfuil an teicneolaíocht is fearr aige. Bíonn cabhlaigh na ngeal-phlainéad i gcónaí ar thús cadhnaíochta maidir le taighde nua-aimseartha. Thairis sin, is minic go dtagann siad ar dhéantáin arcai-teicneolaíochta sa spás. \n\nD'oibrigh [PAWN_nameDef] i saotharlann cabhlaigh.</NavyScientist52.baseDesc>
   <!-- EN: navy scientist -->
   <NavyScientist52.title>eolaí cabhlaigh</NavyScientist52.title>
@@ -58,7 +58,7 @@
   <NavyScientist52.titleShort>eolaí</NavyScientist52.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived on a glitterworld, penning wildly successful novels. [PAWN_pronoun] lived a carefree lifestyle, spending [PAWN_possessive] days writing and [PAWN_possessive] nights partying - and has never done a day's manual labour in [PAWN_possessive] life. -->
-  <Novelist7.description>TODO</Novelist7.description>
+  <Novelist7.description>Údar mór le rá ab ea [PAWN_nameDef] ar gheal-phlainéad. Mhair [PAWN_pronoun] gan bhuairt, ag cóisireacht istoíche agus ag scríobh le linn an lae. Ní dhearna [PAWN_possessive] obair láimhe riamh.</Novelist7.description>
   <Novelist7.baseDesc>Údar mór le rá ab ea [PAWN_nameDef] ar gheal-phlainéad. Mhair [PAWN_pronoun] gan bhuairt, ag cóisireacht istoíche agus ag scríobh le linn an lae. Ní dhearna [PAWN_possessive] obair láimhe riamh.</Novelist7.baseDesc>
   <!-- EN: novelist -->
   <Novelist7.title>úrscéalaí</Novelist7.title>
@@ -66,7 +66,7 @@
   <Novelist7.titleShort>úrscéalaí</Novelist7.titleShort>
   
   <!-- EN: [PAWN_nameDef] started off sculpting person-sized artworks, but [PAWN_pronoun] soon began to think bigger. With the help of mining robots, [PAWN_pronoun] learned how to carve huge monuments out of cliffsides. Soon the parks of the glitterworld where [PAWN_pronoun] lived were full of giant stone figures. -->
-  <Sculptor63.description>TODO</Sculptor63.description>
+  <Sculptor63.description>Dealbhóir ab ea [PAWN_nameDef], ach le cúnamh ó róbait mianadóireachta d'fhoghlaim [PAWN_nameDef] conas séadchomharthaí ollmhóra, buacacha a chruthú. Roimh i bhfad, bhí na leachtanna a bhí cruthaithe ag [PAWN_nameDef] le feiceáil i ngach páirc agus gairdín.</Sculptor63.description>
   <Sculptor63.baseDesc>Dealbhóir ab ea [PAWN_nameDef], ach le cúnamh ó róbait mianadóireachta d'fhoghlaim [PAWN_nameDef] conas séadchomharthaí ollmhóra, buacacha a chruthú. Roimh i bhfad, bhí na leachtanna a bhí cruthaithe ag [PAWN_nameDef] le feiceáil i ngach páirc agus gairdín.</Sculptor63.baseDesc>
   <!-- EN: sculptor -->
   <Sculptor63.title>dealbhóir</Sculptor63.title>
@@ -74,7 +74,7 @@
   <Sculptor63.titleShort>dealbhóir</Sculptor63.titleShort>
   
   <!-- EN: [PAWN_nameDef] designed virtual reality simulations for glitterworld citizens. [PAWN_pronoun] put great effort into the details of [PAWN_possessive] virtual worlds, learning all [PAWN_pronoun] could about plant life to make [PAWN_possessive] landscapes as realistic as possible. -->
-  <VRDesigner87.description>TODO</VRDesigner87.description>
+  <VRDesigner87.description>Bhí [PAWN_nameDef] freagrach as ionsamhlúcháin réaltachta fíorúla a dhearadh do shaoránaigh geal-phlainéid. Bhí [PAWN_pronoun] an-tugtha do na mionsonraí sna domhain bhréige sin, agus chuaigh [PAWN_pronoun] i mbun staidéir ar phlandaí chun na tírdhreacha fíorúla a dhéanamh níos réalaíche.</VRDesigner87.description>
   <VRDesigner87.baseDesc>Bhí [PAWN_nameDef] freagrach as ionsamhlúcháin réaltachta fíorúla a dhearadh do shaoránaigh geal-phlainéid. Bhí [PAWN_pronoun] an-tugtha do na mionsonraí sna domhain bhréige sin, agus chuaigh [PAWN_pronoun] i mbun staidéir ar phlandaí chun na tírdhreacha fíorúla a dhéanamh níos réalaíche.</VRDesigner87.baseDesc>
   <!-- EN: VR designer -->
   <VRDesigner87.title>dearthóir</VRDesigner87.title>

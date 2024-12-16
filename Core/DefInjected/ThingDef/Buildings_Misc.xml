@@ -2,120 +2,120 @@
 <LanguageData>
   
   <!-- EN: ancient cryptosleep casket -->
-  <AncientCryptosleepCasket.label>TODO</AncientCryptosleepCasket.label>
+  <AncientCryptosleepCasket.label>cónra criptea-chodlata ársa</AncientCryptosleepCasket.label>
   <!-- EN: This cryptosleep casket looks like it has been here for a very long time. Who knows what it might contain? -->
-  <AncientCryptosleepCasket.description>TODO</AncientCryptosleepCasket.description>
+  <AncientCryptosleepCasket.description>Tá cuma ar an gcónra criptea-chodlata seo go bhfuil sé anseo le tamall fada. Cá bhfios céard atá istigh?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan hitching spot -->
-  <CaravanPackingSpot.label>TODO</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>láthair ceangailte carbhán</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
-  <CaravanPackingSpot.description>TODO</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Cruthófar carbháin ag an spota seo. Ceanglóidh coilínigh ainmhithe anseo nuair atá carbhán á lódáil. Is féidir na spotaí seo a úsáid nuair atá tú i bhfad ón mbaile freisin, ionas nach rachaidh ainmhithe ar strae.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
-  <CommsConsole.label>TODO</CommsConsole.label>
+  <CommsConsole.label>consól cumarsáide</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
-  <CommsConsole.description>TODO</CommsConsole.description>
+  <CommsConsole.description>Is féidir teagmháil a dhéanamh le coilíneachtaí eile agus le spás-trádálaithe leis an gconsól seo.</CommsConsole.description>
   <!-- EN: Summon diabolus threat -->
-  <CommsConsole.comps.CompUsable.useLabel>TODO</CommsConsole.comps.CompUsable.useLabel>
+  <CommsConsole.comps.CompUsable.useLabel>Glao ar bhagairt diabhlaí</CommsConsole.comps.CompUsable.useLabel>
   
   <!-- EN: cryptosleep casket -->
-  <CryptosleepCasket.label>TODO</CryptosleepCasket.label>
+  <CryptosleepCasket.label>cónra criptea-chodlata</CryptosleepCasket.label>
   <!-- EN: A self-powered sarcophagus designed to keep a person in a state of suspended animation for many years. -->
-  <CryptosleepCasket.description>TODO</CryptosleepCasket.description>
+  <CryptosleepCasket.description>Is féidir duine a choinneáil beo sa sarcafagas féinchumhachtaithe seo go ceann blianta fada.</CryptosleepCasket.description>
   
   <!-- EN: delayed effecter spawner -->
   <DelayedEffecterSpawner.label>TODO</DelayedEffecterSpawner.label>
   
   <!-- EN: egg box -->
-  <EggBox.label>TODO</EggBox.label>
+  <EggBox.label>bosca uibheacha</EggBox.label>
   <!-- EN: A box with soft material made to hold eggs. Egg-laying animals will lay eggs in egg boxes if they can. Your haulers will take all the eggs out only when the box is full, to save time. The box also protects eggs from deteriorating outdoors, though it does not protect from temperature damage. -->
-  <EggBox.description>TODO</EggBox.description>
+  <EggBox.description>Bosca ina mbailítear uibheacha. Beirfidh ainmhithe a gcuid uibheacha sa bhosca seo, agus bainfidh do choilínigh amach iad. Ní rachaidh uibheacha in éag sa bhosca, ach ní thugann an bosca aon chosaint ar an teocht.</EggBox.description>
   
   <!-- EN: firefoam popper -->
-  <FirefoamPopper.label>TODO</FirefoamPopper.label>
+  <FirefoamPopper.label>spréire múctha tine</FirefoamPopper.label>
   <!-- EN: When it detects fire, this safety device pops and sprays a fire-retardant foam in a circular field around itself. Can also be triggered manually. -->
-  <FirefoamPopper.description>TODO</FirefoamPopper.description>
+  <FirefoamPopper.description>Gléas uathoibríoch atá lán le cúr dómhoillitheach. Nuair a bhraitheann an gléas go bhfuil tine in aice leis, pléascfaidh sé agus spraeálfar cúr múchta tine amach. Is féidir an gléas seo a úsáid de láimh freisin.</FirefoamPopper.description>
   <!-- EN: Trigger {0_label} -->
-  <FirefoamPopper.comps.CompUsable.useLabel>TODO</FirefoamPopper.comps.CompUsable.useLabel>
+  <FirefoamPopper.comps.CompUsable.useLabel>Úsáid {0_label}</FirefoamPopper.comps.CompUsable.useLabel>
   
   <!-- EN: grave -->
-  <Grave.label>TODO</Grave.label>
+  <Grave.label>uaigh</Grave.label>
   <!-- EN: A decent final resting place. Colonists will visit full graves to gain meditative joy. -->
-  <Grave.description>TODO</Grave.description>
+  <Grave.description>Is féidir le coilínigh cuairt a thabhairt ar uaigheanna chun machnamh a dhéanamh ar na daoine atá curtha iontu.</Grave.description>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>geo-scanóir</GroundPenetratingScanner.label>
   <!-- EN: A sensor unit used by researchers to search for buried resources. The chance to find a resource depends on the operator's research ability. It consumes a lot of electricity. If you find a buried resource, you'll need to use deep drills to extract it. It doesn't work under a roof. -->
-  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Úsáidtear an scanóir seo chun acmhainní faoin talamh a aimsiú. Braitheann a éifeachtúlacht ar scil taighde an úsáideora. Má aimsíonn tú acmhainní faoin talamh, beidh ort druilire domhain a úsáid chun iad a bhaint. Úsáideann an scanóir seo go leor leictrechais, agus ní mór é a chur amuigh faoin aer le go n-oibreoidh sé i gceart.</GroundPenetratingScanner.description>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>Scanóir fadraoin</LongRangeMineralScanner.label>
   <!-- EN: A lateral sensor unit used by researchers to detect a specific type of mineral across the planet. The chance to find a resource depends on the operator's research ability. This sensor can be tuned to target a specific resource type. It consumes a lot of electricity. If you find a resource, you'll need to travel to collect it. -->
-  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Úsáidtear an scanóir cliathánach seo chun acmhainní áirithe a aimsiú ar fud an phláinéid. Braitheann a éifeachtúlacht ar scil taighde an úsáideora. Is féidir acmhainn shonrach a lorg leis an scanóir. Úsáideann an scanóir seo go leor leictrechais, agus má aimsíonn tú acmhainní beidh ort taisteal lena mbailiú.</LongRangeMineralScanner.description>
   
   <!-- EN: marriage spot -->
-  <MarriageSpot.label>TODO</MarriageSpot.label>
+  <MarriageSpot.label>altóir pósta</MarriageSpot.label>
   <!-- EN: Designates a spot where marriage ceremonies will take place. Spectators can watch from either side. -->
-  <MarriageSpot.description>TODO</MarriageSpot.description>
+  <MarriageSpot.description>Déanfar searmanais pósta ar an spota seo. Baileoidh daoine eile timpeall ar an spota seo le breathnú ar an bpósadh.</MarriageSpot.description>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>TODO</MoisturePump.label>
+  <MoisturePump.label>pumpa taise</MoisturePump.label>
   <!-- EN: Very slowly equalizes moisture in nearby terrain, converting marshes or shallow water into dry ground, and soft sand into normal sand. Does not affect deep water. -->
-  <MoisturePump.description>TODO</MoisturePump.description>
+  <MoisturePump.description>Úsáidtear an pumpa seo chun uisce agus taise a bhaint ón talamh. Is féidir é a úsáid chun talamh riascach nó uisce éadomain a thiontú i dtalamh tirim. Ní oibríonn sé in uisce domhain.</MoisturePump.description>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
+  <MultiAnalyzer.label>il-anailíseoir</MultiAnalyzer.label>
   <!-- EN: Increases research speed when placed near hi-tech research bench and unlocks new research projects. Each research bench can only use one multi-analyzer. -->
-  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Cuireann an t-anailíseoir seo le luas taighde nuair a chuirtear é in aice le binse taighde ardteicneolaíochta. Ní féidir ach il-anailíseoir amháin a úsáid le gach binse taighde.</MultiAnalyzer.description>
   
   <!-- EN: orbital trade beacon -->
-  <OrbitalTradeBeacon.label>TODO</OrbitalTradeBeacon.label>
+  <OrbitalTradeBeacon.label>aintéine trádála</OrbitalTradeBeacon.label>
   <!-- EN: Required for orbital trading. You can only sell goods to orbital traders if they're near an orbital trade beacon. Can be placed indoors. -->
-  <OrbitalTradeBeacon.description>TODO</OrbitalTradeBeacon.description>
+  <OrbitalTradeBeacon.description>Tá an aeróg seo de dhíth chun rudaí a dhíol le spás-trádálaithe, agus chun rudaí a cheannach uathu. Ní mór earraí a chur taobh le haeróg trádála sula mbeidh tú in ann iad a dhíol. Is féidir iad a chur faoi dhíon.</OrbitalTradeBeacon.description>
   
   <!-- EN: party spot -->
-  <PartySpot.label>TODO</PartySpot.label>
+  <PartySpot.label>láthair cóisire</PartySpot.label>
   <!-- EN: Designates a spot for throwing parties. -->
-  <PartySpot.description>TODO</PartySpot.description>
+  <PartySpot.description>Cuirfear cóisirí ar siúl anseo.</PartySpot.description>
   
   <!-- EN: pen marker -->
-  <PenMarker.label>TODO</PenMarker.label>
+  <PenMarker.label>marcóir clóis</PenMarker.label>
   <!-- EN: A post with a sign designating an animal pen. It must be placed in an area enclosed by fences, barricades, walls, and doors. You can assign each pen marker a set of animals to accept, and handlers will bring animals to an appropriate pen. -->
-  <PenMarker.description>TODO</PenMarker.description>
+  <PenMarker.description>Úsáidtear an marcóir seo chun clós ainmhithe a leagan amach. Ní mór an marcóir a chur i gclós atá timpeallaithe le sconsa, ballaí nó doirse. Is féidir an marcóir seo a úsáid ainmhithe áirithe a shannadh le clós ar leith.</PenMarker.description>
   
   <!-- EN: pod launcher -->
-  <PodLauncher.label>TODO</PodLauncher.label>
+  <PodLauncher.label>lainseálaí podanna</PodLauncher.label>
   <!-- EN: A fueling port for launching one transport pod. Pod launchers can launch as a group - but the launchers must be placed adjacent to each other. -->
-  <PodLauncher.description>TODO</PodLauncher.description>
+  <PodLauncher.description>Is féidir pod iompair aonair a láinseáil ón ardán seo. Is feidir podanna éagúla a láinseáil le chéile in aon ghrúpa amháin, ach na lainseálaithe a chur taobh le taobh.</PodLauncher.description>
   
   <!-- EN: sarcophagus -->
-  <Sarcophagus.label>TODO</Sarcophagus.label>
+  <Sarcophagus.label>sarcafagas</Sarcophagus.label>
   <!-- EN: An ornamented burial receptacle for the honored dead. -->
-  <Sarcophagus.description>TODO</Sarcophagus.description>
+  <Sarcophagus.description>Sarcafagas ealaíonta, chun ómós a dhéanamh do na mairbh.</Sarcophagus.description>
   
   <!-- EN: grand stele -->
-  <SteleGrand.label>TODO</SteleGrand.label>
+  <SteleGrand.label>leacht cuimhneacháin ollmhór</SteleGrand.label>
   <!-- EN: A towering slab with extensive engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleGrand.description>TODO</SteleGrand.description>
+  <SteleGrand.description>Úsáidtear leachtanna den sórt seo i gcuimhe ar dhaoine, cathanna agus ócáidí stairiúla eile.</SteleGrand.description>
   
   <!-- EN: large stele -->
-  <SteleLarge.label>TODO</SteleLarge.label>
+  <SteleLarge.label>leacht cuimhneacháin ollmhór</SteleLarge.label>
   <!-- EN: A tall, thick slab with engravings on the sides. Steles have been used since ancient times to memorialize individuals, battles, and other important events. -->
-  <SteleLarge.description>TODO</SteleLarge.description>
+  <SteleLarge.description>Úsáidtear leachtanna den sórt seo i gcuimhe ar dhaoine, cathanna agus ócáidí stairiúla eile.</SteleLarge.description>
   
   <!-- EN: tool cabinet -->
-  <ToolCabinet.label>TODO</ToolCabinet.label>
+  <ToolCabinet.label>cófra uirlisí</ToolCabinet.label>
   <!-- EN: Increases work speed when placed near a workbench. One workbench can use up to two tool cabinets. -->
-  <ToolCabinet.description>TODO</ToolCabinet.description>
+  <ToolCabinet.description>Is féidir an cófra seo a chur taobh le binse oibre chun cur le luas na hoibre. Is féidirleat suas le dhá chófa uirlisí a úsáid le gach binse oibre.</ToolCabinet.description>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>TODO</TransportPod.label>
-  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
-  <TransportPod.description>TODO</TransportPod.description>
+  <TransportPod.label>pod iompair</TransportPod.label>
+  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing. -->
+  <TransportPod.description>Is féidir daoine, ainmhithe nó lastas a chur sa phod iompair fo-fhithiseach seo.</TransportPod.description>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>TODO</VitalsMonitor.label>
+  <VitalsMonitor.label>monatóir leighis</VitalsMonitor.label>
   <!-- EN: Increases medical tend quality, surgery success chance, and immunity gain speed when placed directly adjacent to a hospital bed. Only works for hospital beds - normal beds will not benefit. Attaching more than one vitals monitor to the same bed will have no effect. -->
-  <VitalsMonitor.description>TODO</VitalsMonitor.description>
+  <VitalsMonitor.description>Is féidir an monatóir seo a chur taobh le leaba ospidéil chun cáilíocht an chúraim leighis a fheabhsú. Ní féidir ach monatóir amháin a úsáid le gach leaba.</VitalsMonitor.description>
   
 </LanguageData>

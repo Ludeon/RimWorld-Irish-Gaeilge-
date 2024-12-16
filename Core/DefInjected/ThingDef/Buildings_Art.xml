@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: grand sculpture -->
-  <SculptureGrand.label>TODO</SculptureGrand.label>
+  <SculptureGrand.label>dealbh ollmhór</SculptureGrand.label>
   <!-- EN: A huge sculpture sized to dominate a room. -->
-  <SculptureGrand.description>TODO</SculptureGrand.description>
+  <SculptureGrand.description>Tá an dealbh ollmhór seo beagnach chomh mór le seomra.</SculptureGrand.description>
   
   <!-- EN: large sculpture -->
-  <SculptureLarge.label>TODO</SculptureLarge.label>
+  <SculptureLarge.label>dealbh mhór</SculptureLarge.label>
   <!-- EN: A person-sized piece of material sculpted into an artistic form. -->
-  <SculptureLarge.description>TODO</SculptureLarge.description>
+  <SculptureLarge.description>Tá an dealbh ealaíonta seo chomh mór le duine.</SculptureLarge.description>
   
   <!-- EN: small sculpture -->
-  <SculptureSmall.label>TODO</SculptureSmall.label>
+  <SculptureSmall.label>dealbh bheag</SculptureSmall.label>
   <!-- EN: A torso-sized piece of material sculpted into an artistic form. -->
-  <SculptureSmall.description>TODO</SculptureSmall.description>
+  <SculptureSmall.description>Dealbh bheag ealaíonta.</SculptureSmall.description>
   
   <!-- EN: snowman -->
-  <Snowman.label>TODO</Snowman.label>
+  <Snowman.label>fear sneachta</Snowman.label>
   <!-- EN: A set of large snowballs piled and shaped to resemble a person. People make these for the fun of it. -->
-  <Snowman.description>TODO</Snowman.description>
+  <Snowman.description>Fear sneachta. Spraoi gan dochar atá ann don choilíneacht ar fad.</Snowman.description>
   
 </LanguageData>

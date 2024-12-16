@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: amniotic fluid -->
-  <Filth_AmnioticFluid.label>TODO</Filth_AmnioticFluid.label>
+  <Filth_AmnioticFluid.label>sreabhán aimnianach</Filth_AmnioticFluid.label>
   
   <!-- EN: animal filth -->
-  <Filth_AnimalFilth.label>TODO</Filth_AnimalFilth.label>
+  <Filth_AnimalFilth.label>salachar ainmhí</Filth_AnimalFilth.label>
   
   <!-- EN: ash -->
-  <Filth_Ash.label>TODO</Filth_Ash.label>
+  <Filth_Ash.label>luaithreach</Filth_Ash.label>
   
   <!-- EN: blood -->
-  <Filth_Blood.label>TODO</Filth_Blood.label>
+  <Filth_Blood.label>fuil</Filth_Blood.label>
   
   <!-- EN: bugblood -->
-  <Filth_BloodInsect.label>TODO</Filth_BloodInsect.label>
+  <Filth_BloodInsect.label>fuil feithide</Filth_BloodInsect.label>
   
   <!-- EN: blood smear -->
-  <Filth_BloodSmear.label>TODO</Filth_BloodSmear.label>
+  <Filth_BloodSmear.label>smearadh fola</Filth_BloodSmear.label>
   
   <!-- EN: corpse bile -->
-  <Filth_CorpseBile.label>TODO</Filth_CorpseBile.label>
+  <Filth_CorpseBile.label>domlas</Filth_CorpseBile.label>
   
   <!-- EN: dirt -->
-  <Filth_Dirt.label>TODO</Filth_Dirt.label>
+  <Filth_Dirt.label>salachar</Filth_Dirt.label>
   
   <!-- EN: firefoam -->
-  <Filth_FireFoam.label>TODO</Filth_FireFoam.label>
+  <Filth_FireFoam.label>cúr múchta tine</Filth_FireFoam.label>
   
   <!-- EN: chemfuel puddle -->
-  <Filth_Fuel.label>TODO</Filth_Fuel.label>
+  <Filth_Fuel.label>lochán ceimi-pheitril</Filth_Fuel.label>
   <!-- EN: A puddle of flammable chemfuel. -->
-  <Filth_Fuel.description>TODO</Filth_Fuel.description>
+  <Filth_Fuel.description>Tá an lochán seo inlasta.</Filth_Fuel.description>
   
   <!-- EN: hair -->
   <Filth_Hair.label>TODO</Filth_Hair.label>
