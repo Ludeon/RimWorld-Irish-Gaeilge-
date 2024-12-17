@@ -11,24 +11,24 @@
   <DefiniteForm>an</DefiniteForm>
 
   <!-- EN: its -->
-  <Proits>a</Proits>
+  <Proits>h</Proits>
   <!-- EN: his -->
-  <Prohis>a</Prohis>
+  <Prohis>h</Prohis>
   <!-- EN: her -->
   <Proher>a</Proher>
   <!-- EN: Its -->
   <ProitsCap>A</ProitsCap>
   <!-- EN: His -->
-  <ProhisCap>A</ProhisCap>
+  <ProhisCap>h</ProhisCap>
   <!-- EN: Her -->
-  <ProherCap>A</ProherCap>
+  <ProherCap></ProherCap>
 
   <!-- EN: it -->
   <ProitObj>é</ProitObj>
   <!-- EN: him -->
   <ProhimObj>é</ProhimObj>
   <!-- EN: her -->
-  <ProherObj>í</ProherObj>
+  <ProherObj>a</ProherObj>
   <!-- EN: It -->
   <ProitObjCap>É</ProitObjCap>
   <!-- EN: Him -->
@@ -50,12 +50,12 @@
   <ProitCap>Sé</ProitCap>
 
   <!-- EN: man -->
-  <ProHeNoun>TODO</ProHeNoun>
+  <ProHeNoun>fear</ProHeNoun>
   <!-- EN: woman -->
-  <ProSheNoun>TODO</ProSheNoun>
+  <ProSheNoun>bean</ProSheNoun>
   <!-- EN: person -->
-  <ProItNoun>TODO</ProItNoun>
-  
+  <ProItNoun>duine</ProItNoun>
+
   <!-- EN: {0} and {1}. -->
   <ClauseSequence2>{0} agus {1}</ClauseSequence2>
   <!-- EN: {0}. Also, {1} and {2}. -->

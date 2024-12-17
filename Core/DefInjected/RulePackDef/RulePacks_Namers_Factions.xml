@@ -366,6 +366,8 @@
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
 
+<!-- INFO: Tribal words and place names are based on Scottish Gaelic. -->
+
    <rulesRaw>
     <li Class="Rule_File">
       <keyword>Placename_Village</keyword>

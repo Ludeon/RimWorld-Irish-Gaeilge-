@@ -1,3 +1,5 @@
+// Tribal words and names are based on Scottish Gaelic
+
 Coille nan Croitearan
 Cuairt a' Chùrra
 Cuairt-cheum an Achaidh Bhig
@@ -161,3 +163,80 @@ Tòrr Lundaidh
 Meadhan taobh Gàrradh Achadh an Todhair
 Achadh an Todhair Uarach
 Slighean na Bana-bhuidsich
+An t-Achadh Beag
+Achadh a’ Chanaich
+Achadh a’ Chrosain
+Achadh nam Breac
+Achadh nan Seileach
+Àth a’ Chrathaidh
+An t-Achadh Riabhach
+Achadh Glacach
+Abhainn Alltaidh
+An t-Àilean
+Allt a’ Mhuilinn
+Allt Broighleachan
+Allt Druidhe
+Allt Mhuic
+Allt na Blàthaich
+Allt na Cailliche
+Allt na Crìche
+An Cnap
+An t-Aoineadh Mòr - Baile Eachdraidheil
+An t-Eabar Mòr
+Àrdaraidh
+Àird nan Caisteal
+Àird an Teine
+Àird a’ Ghartain
+Àird Goill
+An Àird Mholach
+An Àird Mhòr
+Àrdairigh
+Àird Fhìn
+Earra-Ghàidheal
+Mòr-choille Earra-Ghàidheal
+Àirigh Fhionndail
+Pàirc Àrais
+Baile a' Bhlàir
+Am Baile Nodha
+Coille Choimhearsnachd Bhaile Gilleach
+Coille Bhaile Gilleach
+Baile Ceòg
+Am Bealach Geàrr
+Am Barra Calltainn
+Bàrr na Carraigh
+Bàrr an Àilein
+Bàrr an Loisgein
+Baran Mac an Tuairneir
+An Taigh-Feachd
+Bàrr an Daimh
+Na Barran & Caidirle
+Am Bealach
+Beinn Lagan
+Beinn Laoighre
+Am Binnein
+Beinn Dòmhnaich
+Beinn Ghuaillean
+A’ Bheinn Mheanbh
+A’ Bheinn Mhòr
+Na Geataichean Dubha
+Coille Dhubh Raineach
+A’ Chreag Dhubh
+Both a’ Chaisteil
+A’ Bhòrlainn
+Borgaidh
+Coille Bhorgaidh
+Gleann Bhorgaidh
+A’ Bhreac-Leitir
+Bràigh Fasaidh
+Bràigh a’ Bhaile
+Drochaid Urchaidh
+Bun Allt Eachainn
+Tèarmann na Coille Cailleannaich
+Creagan Chalasraid
+Callaird
+An Calpa
+Camas Tòrsa
+An Cadha Mòr
+Camas a’ Choirce
+Camas Eireachd
+Càrbasdal

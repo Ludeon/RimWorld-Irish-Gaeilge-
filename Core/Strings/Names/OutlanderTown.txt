@@ -1,10 +1,7 @@
 ﻿An Eatharla
-An Eatharla
-An Eatharla
 Aill an Bhlácaigh
 Aill an Phúca
 Aill an Chlogáis
-Aill na mBairneach
 Aill na mBairneach
 Teach an tSalainn
 An Aill Bhuí
@@ -415,8 +412,6 @@ Coilleach
 An Turlach
 Cill Éinne
 Ceathrú an Teampaill
-Ceathrú an Teampaill
-Ceathrú an Teampaill
 Eochaill
 Leitir Calaidh
 An Caorán Beag
@@ -547,7 +542,6 @@ An Léim Thiar
 Cluain Leannáin
 Carna
 Caladh an Chnoic
-An Bhánrainn Bhán Thuaidh
 Glinsce
 Both Bhrocháin
 An Turlach
@@ -558,5 +552,289 @@ Cnocán Raithní
 Doire Iorrais
 An Coillín
 Eoghanacht
-An Cheathrú Rua Thuaidh
-An Bhánrainn Bhán Thuaidh
+An Cheathrú Rua
+An Bhánrainn Bhán
+Achadh Gaibhle
+Achadh Glaislinne
+Achadh Caorach
+Achadh Loiscthe
+Áthán Beag
+Áthán Íochtarach
+Áthán Uachtarach
+An Eatharla Bheag
+An Eatharla Mhór
+Achadh Dalláin
+An Achaill Bheag
+An Achaill Mhór
+An Achaill Dóite
+An tAbhallort
+Na hAilichí
+Altamira
+An Altóir
+Áth na hArlaice
+Anngram
+Annabella
+Áth na Carraige
+Áth na gCeannaithe
+An tEanach Beag
+Portaigh an Eanaigh
+An tEanach Mór
+An tEanach Thuaidh
+An tEanach Theas
+Abhainn na gColúr
+Eanach Áille Thoir
+Eanach Áille Thiar
+Móin Eanach Áille
+Áth na Cise
+Áth na Cise Thuaidh
+Áth na Cise Theas
+Na hEanaigh
+Páirc Anna
+Garrán Anna
+Baile na Speire
+Baile an Ainéasaigh
+Ard an Chloiginn
+Ard an Chró
+Ard Adaim
+Ard an Ghainimh
+Ardach
+Ardach
+Ardach
+Ardach
+Ardach Thoir
+Ardach Thuaidh
+Ardach Theas
+Ardach Thiar
+Ard an Ghiolla
+Ard an Choill
+Ard Amadáin
+Ard na nIníon
+Ard an Aonaigh
+Ard an Phrióra
+Ard Rátha Thoir
+Ard Rátha Thiar
+Ard an Róistigh
+Ard an Rabhaidh
+Ard Dearg
+Ard an Turais Beag
+Ard an Turais Mór
+An tArd Breac
+Ard Ceachan
+Páirc an Fhionnáin
+Finnis
+Fionnúir
+Ard na Giúise
+Baile na Giúise Thoir
+Baile na Giúise Thiar
+Baile an Phléimeannaigh
+Fóite
+Fotharlach
+Faill an Deamhain
+Faill Choille
+An Fhaill Dearg
+Faill na Muc
+Faill Ó gCothaigh
+Fornocht
+Baile an Fhoiréastaigh
+Fornocht
+Ráth Bhreasail
+Cnoc an Daingin
+Fearann an Dúin
+An Daichead Acra
+Baile Mhontáin
+Baile Mhontáin Thuaidh
+Fuarchoill
+Clais an Ghuail
+Poll an tSionnaigh
+Frankfort
+An Fraoch agus Acra an Bhiocáire
+An Fraochán
+Cillín an Chrónáin
+An tAiteann Francach
+An Fhorrach
+An Fhoithir
+Forcaol
+An Fhorrach
+Oileán an Aitinn
+Géagánach
+An Gallán
+An Gallán
+Gathannaibh Beaga
+Gathannaibh Móra
+An Gairdín
+Garinis
+Garinis
+Baile an Gharda
+Garbhghort
+Garrán an Ghóilín
+Garrán an Ásaigh
+An Garrán Bán
+An Garrán Beag
+Garrán na Cluana
+An Garrán
+Garrán an Ridire
+An Garrán
+An Garrán
+An Garrán
+An Garrán
+An Garrán
+An Garrán Thuaidh
+An Garrán Theas
+An Garrán Thiar
+Garrán an Easaigh
+An Garrán Ard
+An Garrán Buí
+Garrán Cór
+Garrán Cór
+Garrán Darach
+An Garrán Dubh
+Garrán Finn
+An Garrán Íseal
+Garrán tSéamais
+Garrán an Chiniféicigh
+An Garrán Leathan
+An Garrán Liath
+Garrán na gCapall
+Garrán na gCiabhóg
+Garrán na mBodach
+An Garrán Riabhach
+An Garrán Riabhach
+Garrán Roibín
+Na Garráin
+Na Garráin
+Na Garráin
+An Garrán
+Na Garráin
+An Garrán
+An Garrán Thuaidh
+An Garrán Theas
+Garrán an Bháitéaraigh
+Garrán Uí Chearnaigh
+Garrán Mhic Gearóid
+Garrán Iúir
+An Garrán Thuaidh
+An Garrán Theas
+Garrán an Bharraigh Íochtarach
+Garrán an Bharraigh Uachtarach
+Garrán Ó gCianaigh
+Garrán Réamainn
+Garrán Tí Fínín
+Garbhachadh
+Garraí Féasóg
+Garraí Féasóg
+Baile Ghearóid
+An Garastún
+Garraí Aidín
+Com Fearna
+Com Ghadhra
+Com Caoin
+An Com Liath Thoir
+An Com Liath Thiar
+Com Logáin
+Com na Gaoithe
+An Com Rua
+Cuanán
+Cuar Uí Dheargáin
+Cuar Uí Dhúnaígh
+Cuar an Ghainimh
+Cuar an Ghrianáin
+Cuar an Ghoirtín
+Cuar Eanaigh
+Cúil Raithneach
+Cuar an Iolair
+Cuar Leaca
+An Cuar Lom Thiar
+Cuar na hAichle
+Cuar Níseal
+Cuar Rualach
+Cuar Uí Chomáin
+Cuar Uí Choileáin
+Cuar Uí Laoire
+An Cuasán
+An Cuasán
+Cuas Chróinín
+An Cuaisín
+Bóithrín an Chopair
+Acra an Choipinéaraigh
+Stanga an Choipinéaraigh
+Baile an Choipinéaraigh
+Gort an Rosáin
+Baile an Gharráin
+An Corrbhaile
+An Corrbhaile
+An Corrbhaile
+An Corrbhaile
+An Corrbhaile
+An Corrbhaile
+An Corrbhaile Thuaidh
+An Corrbhaile Thuaidh
+An Corrbhaile Theas
+An Corrbhaile Theas
+An Corrbhaile Bán
+Corcaigh Bheag
+Currach na hInse
+Cora na bhFiach
+Cora na bhFiach
+Carraig na gCruach
+Cora an Fhéich
+An Corrbhaile
+Currach an Chonnaidh
+An Carn
+An Carn Beag
+An Carn Meánach
+An Carn Mór
+An Carn Thuaidh
+An Carn Theas
+An Corrbhaile
+Cora Bhríde Thoir
+Snámh
+Seireal
+An Rinn Theas
+Oileán an tSabhrain
+Oileáin an tSabhrain
+Gleann an Spá
+Cuas na Spáinneach
+Sparra Uí Ghráda
+Inis Píc
+An Spideál
+Gort an Spidéil
+Fearann an Spidéil
+Fearann an Spidéil
+Garrán na Glaise
+Gort an Fhuaráin
+Ráth na Seangán
+An Móinéar
+Cnoc an Fhuaráin
+Cnoc na Tiobraide
+Móin Chrúbáin
+Baile an Tobair
+Sparraí Cloch
+An tSratharlach
+An Srath Liath
+Screathan na bhFeadóg
+Páirc na bhFianna
+Stiall an Eich
+An Stuaicín
+An Stuaic
+An Currach Mór
+Cnoc Sruthán Thoir
+Cnoc Sruthán Thiar
+An Téad
+Cnoc na Smután
+Sobaltair
+Gort an tSamhraidh
+Lios na Gréine
+Cúil an Bhodaigh
+An Gort Milis
+Teach na Seiceamar
+Baile Thancaird
+Teamhair Bheag
+Teamhair Mhór
+An Tamhnaigh Íochtarach
+An Tamhnaigh Uachtarach
+An Téad Bheag
+An Téad Mhór
+Na Téada Íochtaracha
+Na Téada Uachtaracha
+Téadach
+Toinneach
