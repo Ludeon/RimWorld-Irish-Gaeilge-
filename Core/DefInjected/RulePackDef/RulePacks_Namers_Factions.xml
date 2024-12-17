@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN:
     <li>r_name->[msyl][msyl] [mechhive]</li>
     <li>mechhive->mechhive</li>
@@ -39,7 +39,7 @@
     <li>msyl->na Giarsraithe</li>
     <li>msyl->an Mheicneitheora</li>
     </NamerFactionMechanoid.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>political_union_outlander->Words/Nouns/PoliticalUnions_Outlander</li>
     <li>political_adjective->Words/Adjectives/PoliticalUnions</li>
@@ -100,16 +100,16 @@
     <li>outlandergenitive->na hOibre</li>
     <li>outlandergenitive->an Chláir</li>
   </NamerFactionOutlander.rulePack.rulesStrings>
-   
+
     <!-- EN:
     <li>groupname->Words/Nouns/GroupNames</li>
   -->
-  
+
   <!-- <NamerFactionPirate.rulePack.rulesFiles>
    <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
    <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
   </NamerFactionPirate.rulePack.rulesFiles> -->
-  
+
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
     <li>r_name->The [AnimalBadass] Men</li>
@@ -140,19 +140,19 @@
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
   <NamerFactionPirate.rulePack.rulesStrings>
-    <li>r_name->[outlandersettlement] [pirategenitive]</li>
-    <li>outlandersettlement->Drong</li>
-    <li>outlandersettlement->Grúpa</li>
-    <li>outlandersettlement->Foireann</li>
-    <li>outlandersettlement->Craobh</li>
-    <li>outlandersettlement->Cumann</li>
-    <li>outlandersettlement->Aonad</li>
-    <li>outlandersettlement->Faicsean</li>
-    <li>outlandersettlement->Complacht</li>
-    <li>outlandersettlement->Pairtnéirí</li>
-    <li>outlandersettlement->Muintir</li>
-    <li>outlandersettlement->Complacht</li>
-    <li>outlandersettlement->Gasra</li>
+    <li>r_name->[pirate_word] [pirategenitive]</li>
+    <li>pirate_word->Drong</li>
+    <li>pirate_word->Grúpa</li>
+    <li>pirate_word->Foireann</li>
+    <li>pirate_word->Craobh</li>
+    <li>pirate_word->Cumann</li>
+    <li>pirate_word->Aonad</li>
+    <li>pirate_word->Faicsean</li>
+    <li>pirate_word->Complacht</li>
+    <li>pirate_word->Pairtnéirí</li>
+    <li>pirate_word->Muintir</li>
+    <li>pirate_word->Complacht</li>
+    <li>pirate_word->Gasra</li>
     <li>pirategenitive->an Bhua</li>
     <li>pirategenitive->na Fulaingthe</li>
     <li>pirategenitive->na Láidreachta</li>
@@ -180,14 +180,14 @@
     <li>pirategenitive->na hOibre</li>
     <li>pirategenitive->an Dorchadais</li>
   </NamerFactionPirate.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>political_union_tribal->Words/Nouns/PoliticalUnions_Tribal</li>
   -->
   <!-- <NamerFactionTribal.rulePack.rulesFiles>
    <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
    <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
-  </NamerFactionTribal.rulePack.rulesFiles> --> 
+  </NamerFactionTribal.rulePack.rulesFiles> -->
 
   <!-- EN:
     <li>r_name->[WordTribal] [political_union_tribal]</li>
@@ -203,85 +203,39 @@
     <li>tribalsettlement->Daoine</li>
     <li>tribalsettlement->Lucht</li>
     <li>tribalsettlement->Muintir</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
+    <li>outlander_genitive->an Dóchais</li>
+    <li>outlander_genitive->an Ghrá</li>
+    <li>outlander_genitive->na Láidreachta</li>
+    <li>outlander_genitive->na Deacrachta</li>
+    <li>outlander_genitive->na Clainne</li>
+    <li>outlander_genitive->na Dílseachta</li>
+    <li>outlander_genitive->na nDaoine</li>
+    <li>outlander_genitive->an Aoibhnis</li>
+    <li>outlander_genitive->an tSonais</li>
+    <li>outlander_genitive->an Fháis</li>
+    <li>outlander_genitive->an Bhealaigh</li>
+    <li>outlander_genitive->na gCeart</li>
+    <li>outlander_genitive->an Phobail</li>
+    <li>outlander_genitive->Dé</li>
+    <li>outlander_genitive->na n-Óg</li>
+    <li>outlander_genitive->na Diagachta</li>
+    <li>outlander_genitive->na hÉireann</li>
+    <li>outlander_genitive->na Dílseachta</li>
+    <li>outlander_genitive->an Tiomantais</li>
+    <li>outlander_genitive->an Mhuintearais</li>
+    <li>outlander_genitive->an Chairdis</li>
+    <li>outlander_genitive->na Dea-mhéine</li>
+    <li>outlander_genitive->na Síochána</li>
+    <li>outlander_genitive->an Chomhair</li>
+    <li>outlander_genitive->na hOibre</li>
+    <li>outlander_genitive->an Chláir</li>
   </NamerFactionTribal.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name->Colony</li>
   -->
   <NamerInitialSettlementColony.rulePack.rulesStrings>
-    <li>r_name->[community_noun] [outlandergenitive]</li>
-    <li>r_name->[naturalfeature] [outlandergenitive]</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Baile</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Dúiche</li>
-    <li>community_noun->Cathair</li>
-    <li>community_noun->Longfort</li>
-    <li>community_noun->Campa</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
-    <li>naturalfeature->Cloch</li>
-    <li>naturalfeature->Bollán</li>
-    <li>naturalfeature->Crann</li>
-    <li>naturalfeature->Scrobarnach</li>
-    <li>naturalfeature->Lochán</li>
-    <li>naturalfeature->Linn</li>
-    <li>naturalfeature->Adharc</li>
-    <li>naturalfeature->Cnoc</li>
-    <li>naturalfeature->Pluais</li>
-    <li>naturalfeature->Stumpa</li>
-    <li>naturalfeature->Blaosc</li>
-    <li>naturalfeature->Stoc</li>
+    <li>r_name->Coilíneacht</li>
   </NamerInitialSettlementColony.rulePack.rulesStrings>
 
 
@@ -289,107 +243,15 @@
     <li>r_name->Village</li>
   -->
   <NamerInitialSettlementTribe.rulePack.rulesStrings>
-    <li>r_name->[community_noun] [outlandergenitive]</li>
-    <li>r_name->[naturalfeature] [outlandergenitive]</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Baile</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Dúiche</li>
-    <li>community_noun->Cathair</li>
-    <li>community_noun->Longfort</li>
-    <li>community_noun->Campa</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
-    <li>naturalfeature->Cloch</li>
-    <li>naturalfeature->Bollán</li>
-    <li>naturalfeature->Crann</li>
-    <li>naturalfeature->Scrobarnach</li>
-    <li>naturalfeature->Lochán</li>
-    <li>naturalfeature->Linn</li>
-    <li>naturalfeature->Adharc</li>
-    <li>naturalfeature->Cnoc</li>
-    <li>naturalfeature->Pluais</li>
-    <li>naturalfeature->Stumpa</li>
-    <li>naturalfeature->Blaosc</li>
-    <li>naturalfeature->Stoc</li>
+    <li>r_name->Baile</li>
   </NamerInitialSettlementTribe.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>townname_fixed->Names/OutlanderTown</li>
     <li>concept_positive->Words/Nouns/Concepts_Positive</li>
   -->
   <NamerSettlementOutlander.rulePack.rulesFiles>
-    <li>r_name->[community_noun] [outlandergenitive]</li>
-    <li>r_name->[naturalfeature] [outlandergenitive]</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Baile</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Dúiche</li>
-    <li>community_noun->Cathair</li>
-    <li>community_noun->Longfort</li>
-    <li>community_noun->Campa</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
-    <li>naturalfeature->Cloch</li>
-    <li>naturalfeature->Bollán</li>
-    <li>naturalfeature->Crann</li>
-    <li>naturalfeature->Scrobarnach</li>
-    <li>naturalfeature->Lochán</li>
-    <li>naturalfeature->Linn</li>
-    <li>naturalfeature->Adharc</li>
-    <li>naturalfeature->Cnoc</li>
-    <li>naturalfeature->Pluais</li>
-    <li>naturalfeature->Stumpa</li>
-    <li>naturalfeature->Blaosc</li>
-    <li>naturalfeature->Stoc</li>
+    <li>townname_fixed->Names/OutlanderTown</li>
   </NamerSettlementOutlander.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>
@@ -444,55 +306,9 @@
     <li>townend->well</li>
   -->
   <NamerSettlementOutlander.rulePack.rulesStrings>
-    <li>r_name->[community_noun] [outlandergenitive]</li>
-    <li>r_name->[naturalfeature] [outlandergenitive]</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Baile</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Dúiche</li>
-    <li>community_noun->Cathair</li>
-    <li>community_noun->Longfort</li>
-    <li>community_noun->Campa</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
-    <li>naturalfeature->Cloch</li>
-    <li>naturalfeature->Bollán</li>
-    <li>naturalfeature->Crann</li>
-    <li>naturalfeature->Scrobarnach</li>
-    <li>naturalfeature->Lochán</li>
-    <li>naturalfeature->Linn</li>
-    <li>naturalfeature->Adharc</li>
-    <li>naturalfeature->Cnoc</li>
-    <li>naturalfeature->Pluais</li>
-    <li>naturalfeature->Stumpa</li>
-    <li>naturalfeature->Blaosc</li>
-    <li>naturalfeature->Stoc</li>
+    <li>r_name(p=6)->[townname_fixed]</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name(p=4)->[townname_combo]</li>
     <li>r_name->[townname_wordgen]</li>
@@ -536,55 +352,237 @@
     <li>townendevil->thad</li>
   -->
   <NamerSettlementPirate.rulePack.rulesStrings>
-    <li>r_name->[community_noun] [outlandergenitive]</li>
-    <li>r_name->[naturalfeature] [outlandergenitive]</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Baile</li>
-    <li>community_noun->Sráidbhaile</li>
-    <li>community_noun->Dúiche</li>
-    <li>community_noun->Cathair</li>
-    <li>community_noun->Longfort</li>
-    <li>community_noun->Campa</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
-    <li>naturalfeature->Cloch</li>
-    <li>naturalfeature->Bollán</li>
-    <li>naturalfeature->Crann</li>
-    <li>naturalfeature->Scrobarnach</li>
-    <li>naturalfeature->Lochán</li>
-    <li>naturalfeature->Linn</li>
-    <li>naturalfeature->Adharc</li>
-    <li>naturalfeature->Cnoc</li>
-    <li>naturalfeature->Pluais</li>
-    <li>naturalfeature->Stumpa</li>
-    <li>naturalfeature->Blaosc</li>
-    <li>naturalfeature->Stoc</li>
+    <li>r_name->[placename_proper]</li>
+    <li>placename_proper->An Eatharla</li>
+    <li>placename_proper->An Eatharla</li>
+    <li>placename_proper->An Eatharla</li>
+    <li>placename_proper->Aill an Bhlácaigh</li>
+    <li>placename_proper->Aill an Phúca</li>
+    <li>placename_proper->Aill an Chlogáis</li>
+    <li>placename_proper->Aill na mBairneach</li>
+    <li>placename_proper->Aill na mBairneach</li>
+    <li>placename_proper->Teach an tSalainn</li>
+    <li>placename_proper->An Aill Bhuí</li>
+    <li>placename_proper->An Aill Mhór</li>
+    <li>placename_proper->Aill an Fhéir</li>
+    <li>placename_proper->An Ceann</li>
+    <li>placename_proper->Aill an Ára Thoir</li>
+    <li>placename_proper->Baile an Tobair</li>
+    <li>placename_proper->Baile Mheiriceá</li>
+    <li>placename_proper->Carraig an Ancaire</li>
+    <li>placename_proper->Oileán Ghort an Chalaidh</li>
+    <li>placename_proper->Oileáin na hEanaí</li>
+    <li>placename_proper->Eanach Bhéal Abhna</li>
+    <li>placename_proper->Caisleán Eanach Dhúin</li>
+    <li>placename_proper->Oileáin Eanach Dhúin</li>
+    <li>placename_proper->Céibh Eanach Dhúin</li>
+    <li>placename_proper->Eanach Míonóige</li>
+    <li>placename_proper->Carraig na nÚll</li>
+    <li>placename_proper->Cuan na hAirde</li>
+    <li>placename_proper->Caisleán na hAirde</li>
+    <li>placename_proper->Carraig na hAirde</li>
+    <li>placename_proper->Loch na nArd-doiriú</li>
+    <li>placename_proper->Carraig Ardoileáin</li>
+    <li>placename_proper->Cora na hAirde Móire</li>
+    <li>placename_proper->Carraigeacha Chora na hAirde Móire</li>
+    <li>placename_proper->Caisleán Aircín</li>
+    <li>placename_proper->Áth an Chnoic Mhóir</li>
+    <li>placename_proper->Leac na gCarrachán</li>
+    <li>placename_proper->Loch an Átha Buí</li>
+    <li>placename_proper->Áit an Chnáimhín</li>
+    <li>placename_proper->Áit an Chuain</li>
+    <li>placename_proper->Cloch Abhach</li>
+    <li>placename_proper->An Baile Láir</li>
+    <li>placename_proper->An Baláiste</li>
+    <li>placename_proper->Oileán Bhéal an Átha Fada</li>
+    <li>placename_proper->Caisleán Bhaile Inneonach</li>
+    <li>placename_proper->Caisleán Bhaile an</li>
+    <li>placename_proper->Dúlaigh</li>
+    <li>placename_proper->Baile an Dúna</li>
+    <li>placename_proper->Baile an Dúin</li>
+    <li>placename_proper->Baile an Lisín</li>
+    <li>placename_proper->Baile an Logáin</li>
+    <li>placename_proper->Baile an tSagairt</li>
+    <li>placename_proper->Sruthán Bhaile an tSagairt</li>
+    <li>placename_proper->An Teach Mór</li>
+    <li>placename_proper->Baile an Teampaill</li>
+    <li>placename_proper->Baile an tSléibhe</li>
+    <li>placename_proper->Baile Chonamara</li>
+    <li>placename_proper->Loch Bhaile Uí Chuirc</li>
+    <li>placename_proper->Baile an Dónalláin</li>
+    <li>placename_proper->Loch Bhaile Dhúlocha</li>
+    <li>placename_proper->Baile Éamainn</li>
+    <li>placename_proper->An Baile Fánach</li>
+    <li>placename_proper->An Bhuaile Ghlas</li>
+    <li>placename_proper->An Baile Thíos</li>
+    <li>placename_proper->Carraigíní Bhaile Uí Chadhain</li>
+    <li>placename_proper->Baile Uí Luinneacháin</li>
+    <li>placename_proper->An Baile Láir</li>
+    <li>placename_proper->An Baile Láir</li>
+    <li>placename_proper->Sruthán Bhaile an</li>
+    <li>placename_proper->Mhóinín</li>
+    <li>placename_proper->Baile na Buaile Glaise</li>
+    <li>placename_proper->Baile na Creige</li>
+    <li>placename_proper->Loch Bhaile na hInse</li>
+    <li>placename_proper->Baile na hUamhnach</li>
+    <li>placename_proper->Baile na hAbhna</li>
+    <li>placename_proper->Loch Bhaile na Cille</li>
+    <li>placename_proper->An Baile Nua</li>
+    <li>placename_proper->Baile an Bhodaigh</li>
+    <li>placename_proper->Baile Liam</li>
+    <li>placename_proper->Barra Árann</li>
+    <li>placename_proper->Carraig an Bharra</li>
+    <li>placename_proper->Barr Aille</li>
+    <li>placename_proper->An tOileán Lom</li>
+    <li>placename_proper->An Charraig Lom</li>
+    <li>placename_proper->Barr an Phointe</li>
+    <li>placename_proper->Cnoc na hEorna</li>
+    <li>placename_proper->Carraig na hEorna</li>
+    <li>placename_proper->Caisleán Bhearna</li>
+    <li>placename_proper->Oileán an Bharra</li>
+    <li>placename_proper->Barr an Chrompáin</li>
+    <li>placename_proper->Barr Log Riabhach</li>
+    <li>placename_proper->An Chathair</li>
+    <li>placename_proper->An Chathair Ard</li>
+    <li>placename_proper->Cathair an tSúdaire</li>
+    <li>placename_proper->Cathair na mBan</li>
+    <li>placename_proper->An Caladh Mór</li>
+    <li>placename_proper->Oileán an Lao</li>
+    <li>placename_proper->Caladh na Feamainne</li>
+    <li>placename_proper->Loch Chaladh an Chnoic</li>
+    <li>placename_proper->Caladh Ainnse</li>
+    <li>placename_proper->An Caladh Mór</li>
+    <li>placename_proper->Caladh na Leice</li>
+    <li>placename_proper->Cuan Chamais</li>
+    <li>placename_proper->Cnoc Chamais</li>
+    <li>placename_proper->Droichead na Canálach</li>
+    <li>placename_proper->Carraig Cheanainne</li>
+    <li>placename_proper->Ceann an Bhroibh</li>
+    <li>placename_proper->Carn na Muimhneach</li>
+    <li>placename_proper->Carnán na bhFiach</li>
+    <li>placename_proper->Scroigín</li>
+    <li>placename_proper->Oileán na Cara</li>
+    <li>placename_proper->Cora Dá Chloch</li>
+    <li>placename_proper->Cara Fionnla</li>
+    <li>placename_proper->Cara na Láibe</li>
+    <li>placename_proper->Cuan Chara Bheag</li>
+    <li>placename_proper->Carraig an Bhranda</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->Carraig an Doireachta</li>
+    <li>placename_proper->Dúleac</li>
+    <li>placename_proper->Carraigeacha an tSín</li>
+    <li>placename_proper->Carraig na gCon</li>
+    <li>placename_proper->Carraig Uí Chaollaigh Bheag</li>
+    <li>placename_proper->Carraig Uí Chaollaigh Mhór</li>
+    <li>placename_proper->Carraig an Liagáin</li>
+    <li>placename_proper->Droichead Charraig an</li>
+    <li>placename_proper->Logáin</li>
+    <li>placename_proper->Carraig Uí Loinscigh</li>
+    <li>placename_proper->Cora na Creathnaí</li>
+    <li>placename_proper->Carraig an Óig</li>
+    <li>placename_proper->Carraig an Phíobaire</li>
+    <li>placename_proper->Carraig Tíre</li>
+    <li>placename_proper->Carraig an Bhaile</li>
+    <li>placename_proper->Carraig an Bhalláin</li>
+    <li>placename_proper->Carraig an Mhogaill</li>
+    <li>placename_proper->Carraig an Mhatail</li>
+    <li>placename_proper->Carraig Bhéal na hAbhann</li>
+    <li>placename_proper->Carraig Bhéal Nua</li>
+    <li>placename_proper->An Charraig Bhuí</li>
+    <li>placename_proper->Carraig Eilte</li>
+    <li>placename_proper->Carraig Eilte Thoir</li>
+    <li>placename_proper->Carraig Eilte Thuaidh</li>
+    <li>placename_proper->Carraig Éamainn Mhic</li>
+    <li>placename_proper->Dhonncha</li>
+    <li>placename_proper->Carraig Éamainn Rua</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->Carraig Oileán na Scailpe</li>
+    <li>placename_proper->Carraig Iacób</li>
+    <li>placename_proper->An Charraig Leathan</li>
+    <li>placename_proper->An Charraig Láir</li>
+    <li>placename_proper->An Charraig Liath</li>
+    <li>placename_proper->Carraig Chloiche Báite</li>
+    <li>placename_proper->Carraig Marian</li>
+    <li>placename_proper->Carraig Mháirtín</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->Carraig na bPiseog</li>
+    <li>placename_proper->Carraig na bPortán</li>
+    <li>placename_proper->Carraig na nGabhar</li>
+    <li>placename_proper->Carraig na hAille Buí</li>
+    <li>placename_proper->Carraig na Leac Bheag</li>
+    <li>placename_proper->Carraig na Leac Mhór</li>
+    <li>placename_proper->Carraig an Logáin</li>
+    <li>placename_proper->Carraig na Loinge</li>
+    <li>placename_proper->Carraig na mBan</li>
+    <li>placename_proper->Carraig na Murtharnaí</li>
+    <li>placename_proper->Carraig na nÉan</li>
+    <li>placename_proper->Carraig na Sruth</li>
+    <li>placename_proper->Carraig an tSnámha</li>
+    <li>placename_proper->Carraig an Ime</li>
+    <li>placename_proper->Carraigeacha Charraig an Ime</li>
+    <li>placename_proper->Carraig Fhuathach</li>
+    <li>placename_proper->Carraig Dhuáin</li>
+    <li>placename_proper->Carraig Ruairí</li>
+    <li>placename_proper->Carraig Ruaidí</li>
+    <li>placename_proper->Carraig Sín</li>
+    <li>placename_proper->Carraig an Bhrutha</li>
+    <li>placename_proper->Carraig an Mhiú</li>
+    <li>placename_proper->Carraig Bhriste</li>
+    <li>placename_proper->Carraig Liam Uí Dhónaill</li>
+    <li>placename_proper->Carraig Mhór Aill an Mhóta</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->Carraig Uí</li>
+    <li>placename_proper->Mhuimhneacháin</li>
+    <li>placename_proper->An Carraigín</li>
+    <li>placename_proper->Carraigín na Buinní</li>
+    <li>placename_proper->Carraigín na Muc</li>
+    <li>placename_proper-></li>
+    <li>placename_proper->Carraigín na Sceiche</li>
+    <li>placename_proper->Carraigín Leamhaigh</li>
+    <li>placename_proper->Ceathrú an Chaisleáin</li>
+    <li>placename_proper->Ceathrú Droim Arlamáin</li>
+    <li>placename_proper->An Cheathrú Chaol</li>
+    <li>placename_proper->Ceathrú an Locha</li>
+    <li>placename_proper->Ceathrú an Phoillín</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->An Cartúr Caol</li>
+    <li>placename_proper->Cuan Chaisín</li>
+    <li>placename_proper->An Caisleán</li>
+    <li>placename_proper->Casla</li>
+    <li>placename_proper->Droichead Chasla</li>
+    <li>placename_proper->Cuan Chasla</li>
+    <li>placename_proper->Cora Chasla</li>
+    <li>placename_proper->Abhainn Chasla</li>
+    <li>placename_proper->Loch an Charra</li>
+    <li>placename_proper->Caisleán Uí Bhriain</li>
+    <li>placename_proper->Cora an Chaisleáin</li>
+    <li>placename_proper->Reilig an Chaisleáin</li>
+    <li>placename_proper->Cloch an Róin</li>
+    <li>placename_proper->An Clochán</li>
+    <li>placename_proper->Droichead an Chlocháin</li>
+    <li>placename_proper->An Clochar</li>
+    <li>placename_proper->Clochar an Spiacáin</li>
+    <li>placename_proper->An Clochar Beag</li>
+    <li>placename_proper->Clochar an Bhranda</li>
+    <li>placename_proper->Clochar an Bhranda Theas</li>
+    <li>placename_proper->Loch Chlochar Cheann an Locha</li>
+    <li>placename_proper->An Loch Buí</li>
+    <li>placename_proper->Cloichrinn</li>
+    <li>placename_proper->An Chloch Mhaol</li>
+    <li>placename_proper->Cnoc na nIníonacha</li>
+    <li>placename_proper->An Chloch Scoilte</li>
+    <li>placename_proper->An Clochbhaile</li>
+    <li>placename_proper->Caisleán Chluain Bú</li>
+    <li>placename_proper->Carraig Chluain Brón</li>
+    <li>placename_proper->Abhainn Bhaile Uí</li>
+    <li>placename_proper->Chadhain</li>
+    <li>placename_proper->Loch Chúil na Ceártan</li>
+    <li>placename_proper->Droichead Chluain tSoipín</li>
   </NamerSettlementPirate.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>r_name(p=2)->[WordTribal]</li>
     <li>r_name->[Color] [WordTribal]</li>
@@ -592,53 +590,235 @@
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
   <NamerSettlementTribal.rulePack.rulesStrings>
-    <li>r_name->[community] [outlandergenitive]</li>
-    <li>r_name->[naturalfeature] [outlandergenitive]</li>
-    <li>community->Sráidbhaile</li>
-    <li>community->Baile</li>
-    <li>community->Sráidbhaile</li>
-    <li>community->Dúiche</li>
-    <li>community->Cathair</li>
-    <li>community->Longfort</li>
-    <li>community->Campa</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
-    <li>naturalfeature->Cloch</li>
-    <li>naturalfeature->Bollán</li>
-    <li>naturalfeature->Crann</li>
-    <li>naturalfeature->Scrobarnach</li>
-    <li>naturalfeature->Lochán</li>
-    <li>naturalfeature->Linn</li>
-    <li>naturalfeature->Adharc</li>
-    <li>naturalfeature->Cnoc</li>
-    <li>naturalfeature->Pluais</li>
-    <li>naturalfeature->Stumpa</li>
-    <li>naturalfeature->Blaosc</li>
-    <li>naturalfeature->Stoc</li>
+    <li>r_name->[placename_proper]</li>
+    <li>placename_proper->An Eatharla</li>
+    <li>placename_proper->An Eatharla</li>
+    <li>placename_proper->An Eatharla</li>
+    <li>placename_proper->Aill an Bhlácaigh</li>
+    <li>placename_proper->Aill an Phúca</li>
+    <li>placename_proper->Aill an Chlogáis</li>
+    <li>placename_proper->Aill na mBairneach</li>
+    <li>placename_proper->Aill na mBairneach</li>
+    <li>placename_proper->Teach an tSalainn</li>
+    <li>placename_proper->An Aill Bhuí</li>
+    <li>placename_proper->An Aill Mhór</li>
+    <li>placename_proper->Aill an Fhéir</li>
+    <li>placename_proper->An Ceann</li>
+    <li>placename_proper->Aill an Ára Thoir</li>
+    <li>placename_proper->Baile an Tobair</li>
+    <li>placename_proper->Baile Mheiriceá</li>
+    <li>placename_proper->Carraig an Ancaire</li>
+    <li>placename_proper->Oileán Ghort an Chalaidh</li>
+    <li>placename_proper->Oileáin na hEanaí</li>
+    <li>placename_proper->Eanach Bhéal Abhna</li>
+    <li>placename_proper->Caisleán Eanach Dhúin</li>
+    <li>placename_proper->Oileáin Eanach Dhúin</li>
+    <li>placename_proper->Céibh Eanach Dhúin</li>
+    <li>placename_proper->Eanach Míonóige</li>
+    <li>placename_proper->Carraig na nÚll</li>
+    <li>placename_proper->Cuan na hAirde</li>
+    <li>placename_proper->Caisleán na hAirde</li>
+    <li>placename_proper->Carraig na hAirde</li>
+    <li>placename_proper->Loch na nArd-doiriú</li>
+    <li>placename_proper->Carraig Ardoileáin</li>
+    <li>placename_proper->Cora na hAirde Móire</li>
+    <li>placename_proper->Carraigeacha Chora na hAirde Móire</li>
+    <li>placename_proper->Caisleán Aircín</li>
+    <li>placename_proper->Áth an Chnoic Mhóir</li>
+    <li>placename_proper->Leac na gCarrachán</li>
+    <li>placename_proper->Loch an Átha Buí</li>
+    <li>placename_proper->Áit an Chnáimhín</li>
+    <li>placename_proper->Áit an Chuain</li>
+    <li>placename_proper->Cloch Abhach</li>
+    <li>placename_proper->An Baile Láir</li>
+    <li>placename_proper->An Baláiste</li>
+    <li>placename_proper->Oileán Bhéal an Átha Fada</li>
+    <li>placename_proper->Caisleán Bhaile Inneonach</li>
+    <li>placename_proper->Caisleán Bhaile an</li>
+    <li>placename_proper->Dúlaigh</li>
+    <li>placename_proper->Baile an Dúna</li>
+    <li>placename_proper->Baile an Dúin</li>
+    <li>placename_proper->Baile an Lisín</li>
+    <li>placename_proper->Baile an Logáin</li>
+    <li>placename_proper->Baile an tSagairt</li>
+    <li>placename_proper->Sruthán Bhaile an tSagairt</li>
+    <li>placename_proper->An Teach Mór</li>
+    <li>placename_proper->Baile an Teampaill</li>
+    <li>placename_proper->Baile an tSléibhe</li>
+    <li>placename_proper->Baile Chonamara</li>
+    <li>placename_proper->Loch Bhaile Uí Chuirc</li>
+    <li>placename_proper->Baile an Dónalláin</li>
+    <li>placename_proper->Loch Bhaile Dhúlocha</li>
+    <li>placename_proper->Baile Éamainn</li>
+    <li>placename_proper->An Baile Fánach</li>
+    <li>placename_proper->An Bhuaile Ghlas</li>
+    <li>placename_proper->An Baile Thíos</li>
+    <li>placename_proper->Carraigíní Bhaile Uí Chadhain</li>
+    <li>placename_proper->Baile Uí Luinneacháin</li>
+    <li>placename_proper->An Baile Láir</li>
+    <li>placename_proper->An Baile Láir</li>
+    <li>placename_proper->Sruthán Bhaile an</li>
+    <li>placename_proper->Mhóinín</li>
+    <li>placename_proper->Baile na Buaile Glaise</li>
+    <li>placename_proper->Baile na Creige</li>
+    <li>placename_proper->Loch Bhaile na hInse</li>
+    <li>placename_proper->Baile na hUamhnach</li>
+    <li>placename_proper->Baile na hAbhna</li>
+    <li>placename_proper->Loch Bhaile na Cille</li>
+    <li>placename_proper->An Baile Nua</li>
+    <li>placename_proper->Baile an Bhodaigh</li>
+    <li>placename_proper->Baile Liam</li>
+    <li>placename_proper->Barra Árann</li>
+    <li>placename_proper->Carraig an Bharra</li>
+    <li>placename_proper->Barr Aille</li>
+    <li>placename_proper->An tOileán Lom</li>
+    <li>placename_proper->An Charraig Lom</li>
+    <li>placename_proper->Barr an Phointe</li>
+    <li>placename_proper->Cnoc na hEorna</li>
+    <li>placename_proper->Carraig na hEorna</li>
+    <li>placename_proper->Caisleán Bhearna</li>
+    <li>placename_proper->Oileán an Bharra</li>
+    <li>placename_proper->Barr an Chrompáin</li>
+    <li>placename_proper->Barr Log Riabhach</li>
+    <li>placename_proper->An Chathair</li>
+    <li>placename_proper->An Chathair Ard</li>
+    <li>placename_proper->Cathair an tSúdaire</li>
+    <li>placename_proper->Cathair na mBan</li>
+    <li>placename_proper->An Caladh Mór</li>
+    <li>placename_proper->Oileán an Lao</li>
+    <li>placename_proper->Caladh na Feamainne</li>
+    <li>placename_proper->Loch Chaladh an Chnoic</li>
+    <li>placename_proper->Caladh Ainnse</li>
+    <li>placename_proper->An Caladh Mór</li>
+    <li>placename_proper->Caladh na Leice</li>
+    <li>placename_proper->Cuan Chamais</li>
+    <li>placename_proper->Cnoc Chamais</li>
+    <li>placename_proper->Droichead na Canálach</li>
+    <li>placename_proper->Carraig Cheanainne</li>
+    <li>placename_proper->Ceann an Bhroibh</li>
+    <li>placename_proper->Carn na Muimhneach</li>
+    <li>placename_proper->Carnán na bhFiach</li>
+    <li>placename_proper->Scroigín</li>
+    <li>placename_proper->Oileán na Cara</li>
+    <li>placename_proper->Cora Dá Chloch</li>
+    <li>placename_proper->Cara Fionnla</li>
+    <li>placename_proper->Cara na Láibe</li>
+    <li>placename_proper->Cuan Chara Bheag</li>
+    <li>placename_proper->Carraig an Bhranda</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->Carraig an Doireachta</li>
+    <li>placename_proper->Dúleac</li>
+    <li>placename_proper->Carraigeacha an tSín</li>
+    <li>placename_proper->Carraig na gCon</li>
+    <li>placename_proper->Carraig Uí Chaollaigh Bheag</li>
+    <li>placename_proper->Carraig Uí Chaollaigh Mhór</li>
+    <li>placename_proper->Carraig an Liagáin</li>
+    <li>placename_proper->Droichead Charraig an</li>
+    <li>placename_proper->Logáin</li>
+    <li>placename_proper->Carraig Uí Loinscigh</li>
+    <li>placename_proper->Cora na Creathnaí</li>
+    <li>placename_proper->Carraig an Óig</li>
+    <li>placename_proper->Carraig an Phíobaire</li>
+    <li>placename_proper->Carraig Tíre</li>
+    <li>placename_proper->Carraig an Bhaile</li>
+    <li>placename_proper->Carraig an Bhalláin</li>
+    <li>placename_proper->Carraig an Mhogaill</li>
+    <li>placename_proper->Carraig an Mhatail</li>
+    <li>placename_proper->Carraig Bhéal na hAbhann</li>
+    <li>placename_proper->Carraig Bhéal Nua</li>
+    <li>placename_proper->An Charraig Bhuí</li>
+    <li>placename_proper->Carraig Eilte</li>
+    <li>placename_proper->Carraig Eilte Thoir</li>
+    <li>placename_proper->Carraig Eilte Thuaidh</li>
+    <li>placename_proper->Carraig Éamainn Mhic</li>
+    <li>placename_proper->Dhonncha</li>
+    <li>placename_proper->Carraig Éamainn Rua</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->Carraig Oileán na Scailpe</li>
+    <li>placename_proper->Carraig Iacób</li>
+    <li>placename_proper->An Charraig Leathan</li>
+    <li>placename_proper->An Charraig Láir</li>
+    <li>placename_proper->An Charraig Liath</li>
+    <li>placename_proper->Carraig Chloiche Báite</li>
+    <li>placename_proper->Carraig Marian</li>
+    <li>placename_proper->Carraig Mháirtín</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->Carraig na bPiseog</li>
+    <li>placename_proper->Carraig na bPortán</li>
+    <li>placename_proper->Carraig na nGabhar</li>
+    <li>placename_proper->Carraig na hAille Buí</li>
+    <li>placename_proper->Carraig na Leac Bheag</li>
+    <li>placename_proper->Carraig na Leac Mhór</li>
+    <li>placename_proper->Carraig an Logáin</li>
+    <li>placename_proper->Carraig na Loinge</li>
+    <li>placename_proper->Carraig na mBan</li>
+    <li>placename_proper->Carraig na Murtharnaí</li>
+    <li>placename_proper->Carraig na nÉan</li>
+    <li>placename_proper->Carraig na Sruth</li>
+    <li>placename_proper->Carraig an tSnámha</li>
+    <li>placename_proper->Carraig an Ime</li>
+    <li>placename_proper->Carraigeacha Charraig an Ime</li>
+    <li>placename_proper->Carraig Fhuathach</li>
+    <li>placename_proper->Carraig Dhuáin</li>
+    <li>placename_proper->Carraig Ruairí</li>
+    <li>placename_proper->Carraig Ruaidí</li>
+    <li>placename_proper->Carraig Sín</li>
+    <li>placename_proper->Carraig an Bhrutha</li>
+    <li>placename_proper->Carraig an Mhiú</li>
+    <li>placename_proper->Carraig Bhriste</li>
+    <li>placename_proper->Carraig Liam Uí Dhónaill</li>
+    <li>placename_proper->Carraig Mhór Aill an Mhóta</li>
+    <li>placename_proper->An Charraig Mhór</li>
+    <li>placename_proper->Carraig Uí</li>
+    <li>placename_proper->Mhuimhneacháin</li>
+    <li>placename_proper->An Carraigín</li>
+    <li>placename_proper->Carraigín na Buinní</li>
+    <li>placename_proper->Carraigín na Muc</li>
+    <li>placename_proper-></li>
+    <li>placename_proper->Carraigín na Sceiche</li>
+    <li>placename_proper->Carraigín Leamhaigh</li>
+    <li>placename_proper->Ceathrú an Chaisleáin</li>
+    <li>placename_proper->Ceathrú Droim Arlamáin</li>
+    <li>placename_proper->An Cheathrú Chaol</li>
+    <li>placename_proper->Ceathrú an Locha</li>
+    <li>placename_proper->Ceathrú an Phoillín</li>
+    <li>placename_proper->An Charraig Fhada</li>
+    <li>placename_proper->An Cartúr Caol</li>
+    <li>placename_proper->Cuan Chaisín</li>
+    <li>placename_proper->An Caisleán</li>
+    <li>placename_proper->Casla</li>
+    <li>placename_proper->Droichead Chasla</li>
+    <li>placename_proper->Cuan Chasla</li>
+    <li>placename_proper->Cora Chasla</li>
+    <li>placename_proper->Abhainn Chasla</li>
+    <li>placename_proper->Loch an Charra</li>
+    <li>placename_proper->Caisleán Uí Bhriain</li>
+    <li>placename_proper->Cora an Chaisleáin</li>
+    <li>placename_proper->Reilig an Chaisleáin</li>
+    <li>placename_proper->Cloch an Róin</li>
+    <li>placename_proper->An Clochán</li>
+    <li>placename_proper->Droichead an Chlocháin</li>
+    <li>placename_proper->An Clochar</li>
+    <li>placename_proper->Clochar an Spiacáin</li>
+    <li>placename_proper->An Clochar Beag</li>
+    <li>placename_proper->Clochar an Bhranda</li>
+    <li>placename_proper->Clochar an Bhranda Theas</li>
+    <li>placename_proper->Loch Chlochar Cheann an Locha</li>
+    <li>placename_proper->An Loch Buí</li>
+    <li>placename_proper->Cloichrinn</li>
+    <li>placename_proper->An Chloch Mhaol</li>
+    <li>placename_proper->Cnoc na nIníonacha</li>
+    <li>placename_proper->An Chloch Scoilte</li>
+    <li>placename_proper->An Clochbhaile</li>
+    <li>placename_proper->Caisleán Chluain Bú</li>
+    <li>placename_proper->Carraig Chluain Brón</li>
+    <li>placename_proper->Abhainn Bhaile Uí</li>
+    <li>placename_proper->Chadhain</li>
+    <li>placename_proper->Loch Chúil na Ceártan</li>
+    <li>placename_proper->Droichead Chluain tSoipín</li>
   </NamerSettlementTribal.rulePack.rulesStrings>
-  
+
 </LanguageData>

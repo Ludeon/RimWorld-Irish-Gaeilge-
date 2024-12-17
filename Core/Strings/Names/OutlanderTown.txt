@@ -1,138 +1,284 @@
-﻿Rimville
-Rimtown
-Jamestown
-Salvation
-Sleepville
-Microton
-Hurra
-Ellis
-Planeton
-Rimton
-Ludeon
-Banthos
-Parthos
-Lutin
-Shemston
-Craterton
-Wesselton
-Stonkley
-Flint
-Planeton
-Landfall
-Congers
-Colome
-Sparks
-Bedias
-Rhine
-Hialeah
-Qulin
-Crosbyton
-Mayaguez
-Seagraves
-Whitaker
-Welsh
-Braselton
-Colwyn
-Sparta
-La Minita
-Lepanto
-Graton
-Progreso
-Antioch
-Nemacolin
-Dannebrog
-Palo Pinto
-Breinigsville
-Alturas
-Pottstown
-Caro
-Sparland
-
-//Real Texas ghost towns
-Acala
-Adobes
-Angeles
-Arden
-Arno
-Badger
-Bakersfield
-Best
-Boquillas
-Boracho
-Culberson
-Buena Suerte
-Candelaria
-Casa Piedra
-Castolon
-Cedar Station
-Chispa
-Cheyenne
-Devil's River
-Dixieland
-Dryden
-Terrell
-Duval
-Winkler
-Edruvera
-Crockett
-Etholen
-Hudspeth
-Eureka
-Finlay
-Holland
-Presidio
-Terrett
-Sutton
-Frankel City
-Andrew
-Frijole
-Girvin
-Grube
-Hembrie
-Hovey
-Judkins
-Juno
-Kent
-Konohassett
-Hovey
-LaTuna
-Lajitas
-Langtry
-Lees
-Lindsey City
-Lobo
-Longfellow
-Mariscal Mine
-Mentone
-Orla
-Owenville
-Pandale
-Penwell
-Plata
-Plateau
-Porterville
-Pumpville
-Pyote
-Quito
-Royalty
-Ruidosa
-Salt Flat
-Saragosa
-Shafter
-Sherwood
-Shumla
-Sprayberry
-Stiles
-Study Butte
-Terlingua
-Tesnus
-Texon
-Theodore
-Tinaja
-Toyah
-Tulsa
-Upland
-Verhalen
-Vinegarroon
-Wentworth
-White Spu
+﻿An Eatharla
+An Eatharla
+An Eatharla
+Aill an Bhlácaigh
+Aill an Phúca
+Aill an Chlogáis
+Aill na mBairneach
+Aill na mBairneach
+Teach an tSalainn
+An Aill Bhuí
+An Aill Mhór
+Aill an Fhéir
+An Ceann
+Aill an Ára Thoir
+Baile an Tobair
+Baile Mheiriceá
+Carraig an Ancaire
+Oileán Ghort an Chalaidh
+Oileáin na hEanaí
+Eanach Bhéal Abhna
+Caisleán Eanach Dhúin
+Oileáin Eanach Dhúin
+Céibh Eanach Dhúin
+Eanach Míonóige
+Carraig na nÚll
+Cuan na hAirde
+Caisleán na hAirde
+Carraig na hAirde
+Loch na nArd-doiriú
+Carraig Ardoileáin
+Cora na hAirde Móire
+Carraigeacha Chora na hAirde Móire
+Caisleán Aircín
+Áth an Chnoic Mhóir
+Leac na gCarrachán
+Loch an Átha Buí
+Áit an Chnáimhín
+Áit an Chuain
+Cloch Abhach
+An Baile Láir
+An Baláiste
+Oileán Bhéal an Átha Fada
+Caisleán Bhaile Inneonach
+Caisleán Bhaile an
+Dúlaigh
+Baile an Dúna
+Baile an Dúin
+Baile an Lisín
+Baile an Logáin
+Baile an tSagairt
+Sruthán Bhaile an tSagairt
+An Teach Mór
+Baile an Teampaill
+Baile an tSléibhe
+Baile Chonamara
+Loch Bhaile Uí Chuirc
+Baile an Dónalláin
+Loch Bhaile Dhúlocha
+Baile Éamainn
+An Baile Fánach
+An Bhuaile Ghlas
+An Baile Thíos
+Carraigíní Bhaile Uí Chadhain
+Baile Uí Luinneacháin
+An Baile Láir
+An Baile Láir
+Sruthán Bhaile an
+Mhóinín
+Baile na Buaile Glaise
+Baile na Creige
+Loch Bhaile na hInse
+Baile na hUamhnach
+Baile na hAbhna
+Loch Bhaile na Cille
+An Baile Nua
+Baile an Bhodaigh
+Baile Liam
+Barra Árann
+Carraig an Bharra
+Barr Aille
+An tOileán Lom
+An Charraig Lom
+Barr an Phointe
+Cnoc na hEorna
+Carraig na hEorna
+Caisleán Bhearna
+Oileán an Bharra
+Barr an Chrompáin
+Barr Log Riabhach
+An Chathair
+An Chathair Ard
+Cathair an tSúdaire
+Cathair na mBan
+An Caladh Mór
+Oileán an Lao
+Caladh na Feamainne
+Loch Chaladh an Chnoic
+Caladh Ainnse
+An Caladh Mór
+Caladh na Leice
+Cuan Chamais
+Cnoc Chamais
+Droichead na Canálach
+Carraig Cheanainne
+Ceann an Bhroibh
+Carn na Muimhneach
+Carnán na bhFiach
+Scroigín
+Oileán na Cara
+Cora Dá Chloch
+Cara Fionnla
+Cara na Láibe
+Cuan Chara Bheag
+Carraig an Bhranda
+An Charraig Fhada
+An Charraig Fhada
+Carraig an Doireachta
+Dúleac
+Carraigeacha an tSín
+Carraig na gCon
+Carraig Uí Chaollaigh Bheag
+Carraig Uí Chaollaigh Mhór
+Carraig an Liagáin
+Droichead Charraig an
+Logáin
+Carraig Uí Loinscigh
+Cora na Creathnaí
+Carraig an Óig
+Carraig an Phíobaire
+Carraig Tíre
+Carraig an Bhaile
+Carraig an Bhalláin
+Carraig an Mhogaill
+Carraig an Mhatail
+Carraig Bhéal na hAbhann
+Carraig Bhéal Nua
+An Charraig Bhuí
+Carraig Eilte
+Carraig Eilte Thoir
+Carraig Eilte Thuaidh
+Carraig Éamainn Mhic
+Dhonncha
+Carraig Éamainn Rua
+An Charraig Fhada
+Carraig Oileán na Scailpe
+Carraig Iacób
+An Charraig Leathan
+An Charraig Láir
+An Charraig Liath
+Carraig Chloiche Báite
+Carraig Marian
+Carraig Mháirtín
+An Charraig Mhór
+An Charraig Mhór
+An Charraig Mhór
+Carraig na bPiseog
+Carraig na bPortán
+Carraig na nGabhar
+Carraig na hAille Buí
+Carraig na Leac Bheag
+Carraig na Leac Mhór
+Carraig an Logáin
+Carraig na Loinge
+Carraig na mBan
+Carraig na Murtharnaí
+Carraig na nÉan
+Carraig na Sruth
+Carraig an tSnámha
+Carraig an Ime
+Carraigeacha Charraig an Ime
+Carraig Fhuathach
+Carraig Dhuáin
+Carraig Ruairí
+Carraig Ruaidí
+Carraig Sín
+Carraig an Bhrutha
+Carraig an Mhiú
+Carraig Bhriste
+Carraig Liam Uí Dhónaill
+Carraig Mhór Aill an Mhóta
+An Charraig Mhór
+Carraig Uí
+Mhuimhneacháin
+An Carraigín
+Carraigín na Buinní
+Carraigín na Muc
+Carraigín na Sceiche
+Carraigín Leamhaigh
+Ceathrú an Chaisleáin
+Ceathrú Droim Arlamáin
+An Cheathrú Chaol
+Ceathrú an Locha
+Ceathrú an Phoillín
+An Charraig Fhada
+An Cartúr Caol
+Cuan Chaisín
+An Caisleán
+Casla
+Droichead Chasla
+Cuan Chasla
+Cora Chasla
+Abhainn Chasla
+Loch an Charra
+Caisleán Uí Bhriain
+Cora an Chaisleáin
+Reilig an Chaisleáin
+Cloch an Róin
+An Clochán
+Droichead an Chlocháin
+An Clochar
+Clochar an Spiacáin
+An Clochar Beag
+Clochar an Bhranda
+Clochar an Bhranda Theas
+Loch Chlochar Cheann an Locha
+An Loch Buí
+Cloichrinn
+An Chloch Mhaol
+Cnoc na nIníonacha
+An Chloch Scoilte
+An Clochbhaile
+Caisleán Chluain Bú
+Carraig Chluain Brón
+Abhainn Bhaile Uí
+Chadhain
+Loch Chúil na Ceártan
+Droichead Chluain tSoipín
+An Codú
+An Cuan Caol
+Cuan na Scolba
+Loch na Tulaí Buí
+Loch Chualainn
+An Chúltrá
+An Trá Bheag
+Cuan an Mhuilinn
+An Córa
+Corcóg
+An Corrthuar
+An Charcair
+Carraigeacha Chorcaí
+Tulach na Reilige
+Oileán an Choirce
+Oileán an Choirce
+Cor na dTráchta
+Abhainn Chorr na Móna
+Dumhaigh Léireabháin
+Log an Choire Bhig
+Corrghleann
+Cora na Céibhe
+Lochanna Chora Chinn Cnoic
+Abhainn Chora
+Saileach
+Corrán na Cloiche
+Coiscéim na gCailleach
+An Charraig Fhada
+Carraig na gCoileach
+Corrúch
+An Creachoileán
+An Creachoileán
+An Creachoileán
+Na Creaga Móra
+Creig na Leatan
+Carraigeacha an Chnapaigh
+An Chré Dhubh
+Loch an Chaolaigh
+Croiminne
+Loch na nÁthanna Móra
+An Chaonach
+Creig an Bhlaocháin
+Abhainn na Creige
+Creig an Chéirín
+Creagán Ard
+An Creagán Caol
+Dún an Chreagáin Chaoil
+Creig an Teampaill
+Na Creagáin
+Creig Dhúgáin
+Cnoc Lios Uachtair
+Cruachán Coilleán
+Carraig an Bharra Chaim
+Oileán an Phréacháin
+Cnoc Ballach
+Carraigeacha an Chrúisigh
+Droichead Chromghlinne
