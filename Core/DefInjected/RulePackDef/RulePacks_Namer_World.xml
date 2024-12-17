@@ -3,7 +3,7 @@
   
   <!-- EN:
     <li>r_name->[celestial_name]</li>
-    <li>r_name->[celestial_prefix] [celestial_name]</li>
+    <li>r_name->[celestial_prefix]-[celestial_name]</li>
     <li>r_name->[celestial_name] [celestial_suffix]</li>
     <li>r_name->[world_name_numeric]</li>
     <li>r_name->[world_name_numeric] [celestial_suffix]</li>
@@ -23,6 +23,12 @@
     <li>planet->World</li>
     <li>planet->Planet</li>
   -->
-  <NamerWorld.rulePack.rulesStrings>TODO</NamerWorld.rulePack.rulesStrings>
+  <NamerWorld.rulePack.rulesStrings>
+    <li>r_name->[celestial_name]</li>
+    <li>r_name->[celestial_name] [celestial_suffix]</li>
+    <li>r_name(p=0.5)->[celestial_name] [RomanNumeral]</li>
+    <li>r_name(p=0.5)->[celestial_name]-[RomanNumeral]</li>
+    <li>r_name(p=0.5)->[celestial_name]-[numbers]</li>
+  </NamerWorld.rulePack.rulesStrings>
   
 </LanguageData>

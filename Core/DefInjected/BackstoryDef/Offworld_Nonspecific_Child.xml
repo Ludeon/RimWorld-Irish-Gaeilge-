@@ -65,7 +65,7 @@
   <OrganFarm67.titleShort>feirm orgán</OrganFarm67.titleShort>
   
   <!-- EN: From an early age, [PAWN_nameDef] had an unhealthy fascination with fire. [PAWN_pronoun] would set refuse heaps ablaze and become so entranced by the flames [PAWN_pronoun] would absent-mindedly burn [PAWN_objective]self.\n\nOne day while playing with matches, [PAWN_pronoun] carelessly burned down [PAWN_possessive] home. -->
-  <Pyromaniac18.description>Tá [PAWN_nameDef] tógtha le tine ó bhí [PAWN_pronoun] óg. Bíonn sé de nós ag [PAWN_nameDef] rudaí a chur trí thine. </Pyromaniac18.description>
+  <Pyromaniac18.description>Tá [PAWN_nameDef] tógtha le tine ó bhí [PAWN_pronoun] óg. Bíonn sé de nós ag [PAWN_nameDef] rudaí a chur trí thine.</Pyromaniac18.description>
   <!-- EN: pyromaniac -->
   <Pyromaniac18.title>pireamáineach</Pyromaniac18.title>
   <!-- EN: pyro -->
@@ -100,7 +100,7 @@
   <VatgrownSoldier8.titleShort>saighidiúr saorga</VatgrownSoldier8.titleShort>
   
   <!-- EN: War broke out in [PAWN_nameDef]'s home when [PAWN_pronoun] was a baby. [PAWN_possessive] parents fled with [PAWN_objective], seeking safety wherever they could find it. [PAWN_nameDef]'s earliest memories are of being taught how to defend [PAWN_objective]self.\n\nThe violence and destruction [PAWN_pronoun] witnessed left [PAWN_objective] scarred for life. -->
-  <WarRefugee51.description>Bhris cogadh amach ar phláinéad [PAWN_nameDef] nuair a bhí [PAWN_pronoun] an-óg. D'éirigh le [PAWN_nameDef] éalú lena m[PAWN_possessive]uintir, ach d'fhág an cogadh a rian ar [PAWN_nameDef]. </WarRefugee51.description>
+  <WarRefugee51.description>Bhris cogadh amach ar phláinéad [PAWN_nameDef] nuair a bhí [PAWN_pronoun] an-óg. D'éirigh le [PAWN_nameDef] éalú lena m[PAWN_possessive]uintir, ach d'fhág an cogadh a rian ar [PAWN_nameDef].</WarRefugee51.description>
   <!-- EN: war refugee -->
   <WarRefugee51.title>teifeach</WarRefugee51.title>
   <!-- EN: refugee -->

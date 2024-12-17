@@ -99,7 +99,7 @@
   <!-- EN: masochist -->
   <Masochist.degreeDatas.masochist.label>masacach</Masochist.degreeDatas.masochist.label>
   <!-- EN: For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently. -->
-  <Masochist.degreeDatas.masochist.description>Taitníonn pian le {PAWN_nameDef}, cé nach dtuigeann {PAWN_pronoun} cén fáth. </Masochist.degreeDatas.masochist.description>
+  <Masochist.degreeDatas.masochist.description>Taitníonn pian le {PAWN_nameDef}, cé nach dtuigeann {PAWN_pronoun} cén fáth.</Masochist.degreeDatas.masochist.description>
   
   <!-- EN: night owl -->
   <NightOwl.degreeDatas.night_owl.label>airneánach</NightOwl.degreeDatas.night_owl.label>

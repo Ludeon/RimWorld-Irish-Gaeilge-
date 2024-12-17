@@ -39,7 +39,7 @@
   
   <!-- EN: [PAWN_nameDef] was a warrior in an Imperial navy. [PAWN_possessive] job was to punch into enemy starships, gun down the crew, and capture the ship intact. And [PAWN_pronoun] was good at it. -->
   <SpaceMarine16.description>Gaiscíoch ab ea [PAWN_nameDef] i gcabhla Impireachta. Bhí sé de dhualgas ar [PAWN_nameDef] briseadh isteach i spáslonga an namhad, an criú a mharú agus an spáslong a ghabháil. Bhí [PAWN_pronoun] go maith ag an obair sin.</SpaceMarine16.description>
-  <SpaceMarine16.baseDesc>Gaiscíoch ab ea [PAWN_nameDef] i gcabhla Impireachta. Bhí sé de dhualgas ar [PAWN_nameDef] briseadh isteach i spáslonga an namhad, an criú a mharú agus an spáslong a ghabháil. Bhí [PAWN_pronoun] go maith ag an obair sin. </SpaceMarine16.baseDesc>
+  <SpaceMarine16.baseDesc>Gaiscíoch ab ea [PAWN_nameDef] i gcabhla Impireachta. Bhí sé de dhualgas ar [PAWN_nameDef] briseadh isteach i spáslonga an namhad, an criú a mharú agus an spáslong a ghabháil. Bhí [PAWN_pronoun] go maith ag an obair sin.</SpaceMarine16.baseDesc>
   <!-- EN: space marine -->
   <SpaceMarine16.title>spás-shaighdiúir</SpaceMarine16.title>
   <!-- EN: marine -->

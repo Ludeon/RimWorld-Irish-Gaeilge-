@@ -34,7 +34,7 @@
   <!-- EN: Naked Brutality -->
   <NakedBrutality.scenario.name>Brúidiúlacht Nocht</NakedBrutality.scenario.name>
   <!-- EN: It was supposed to be a minor surgery. Just an hour under anesthetic. You felt totally safe.\n\nNow you've awoken inside a drop pod punching through the atmosphere of a distant rimworld.\n\nAside from a slick of mysterious goo all over your body, you are totally naked. With no preparation, no supplies, and no tools, can you survive? -->
-  <NakedBrutality.scenario.parts.GameStartDialog.text>Ní raibh i gceist ach obráid an-bheag. Uair an chloig faoi ainéistéiseach.\n\nDhúisigh tú i bpod éalaithe a bhí ag eitilt i dtreo pláinéad iargúlta.\n\nTá tú lomnocht, leat féin agus go hiomlán neamhullamh. </NakedBrutality.scenario.parts.GameStartDialog.text>
+  <NakedBrutality.scenario.parts.GameStartDialog.text>Ní raibh i gceist ach obráid an-bheag. Uair an chloig faoi ainéistéiseach.\n\nDhúisigh tú i bpod éalaithe a bhí ag eitilt i dtreo pláinéad iargúlta.\n\nTá tú lomnocht, leat féin agus go hiomlán neamhullamh.</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
   <NakedBrutality.scenario.summary>Lomnocht, leat féin agus iomlán neamhullamh. An éireoidh leat?</NakedBrutality.scenario.summary>
   

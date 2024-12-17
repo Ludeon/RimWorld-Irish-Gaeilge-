@@ -265,7 +265,7 @@
   <Paramedic45.titleShort>paraimhíochaineoir</Paramedic45.titleShort>
   
   <!-- EN: [PAWN_nameDef] kept the peace as a line officer in a municipal social enforcement unit.\n\n[PAWN_pronoun] was trained in de-escalation, physical control, shooting, and other police skills. -->
-  <Policeman45.description>D'oibrigh [PAWN_nameDef] mar gharda agus tá [PAWN_pronoun]oilte i ndíghéarú, smacht fisiciúil, lámhach agus scileanna póilíneachta eile. </Policeman45.description>
+  <Policeman45.description>D'oibrigh [PAWN_nameDef] mar gharda agus tá [PAWN_pronoun] oilte i ndíghéarú, smacht fisiciúil, lámhach agus scileanna póilíneachta eile.</Policeman45.description>
   <!-- EN: policeman -->
   <Policeman45.title>garda</Policeman45.title>
   <!-- EN: policewoman -->

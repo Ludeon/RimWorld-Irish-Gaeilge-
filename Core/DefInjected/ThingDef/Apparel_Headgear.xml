@@ -4,12 +4,12 @@
   <!-- EN: flak helmet -->
   <Apparel_AdvancedHelmet.label>clogad</Apparel_AdvancedHelmet.label>
   <!-- EN: A lightweight combat helmet with a complex design, reinforced with plasteel. Not effective against blunt weapons. -->
-  <Apparel_AdvancedHelmet.description>Clogadh comhraic éadrom, atá neartaithe le plaistea-mhiotal. Ní thugann sé cosaint rómhaith i gcoinne airm mhaola.</Apparel_AdvancedHelmet.description>
+  <Apparel_AdvancedHelmet.description>Clogadh comhraic éadrom, atá neartaithe le plaisti-mhiotal. Ní thugann sé cosaint rómhaith i gcoinne airm mhaola.</Apparel_AdvancedHelmet.description>
   
   <!-- EN: recon helmet -->
   <Apparel_ArmorHelmetRecon.label>clogad taiscéalaíochta</Apparel_ArmorHelmetRecon.label>
   <!-- EN: A high-tech armored helmet with a built-in status computer and a protective plasteel-weave plate.\n\nArmor like this is often used by imperial scout troops or glitterworld police forces. -->
-  <Apparel_ArmorHelmetRecon.description>Clogad ardteicneolaíochta daingnithe le plaistea-mhiotal, a bhfuil ríomhaire ionsuite ann.\n\nIs minic go n-úsáideann trúpaí na himpireachta nó fórsaí póilíneachta na clogaid seo.</Apparel_ArmorHelmetRecon.description>
+  <Apparel_ArmorHelmetRecon.description>Clogad ardteicneolaíochta daingnithe le plaisti-mhiotal, a bhfuil ríomhaire ionsuite ann.\n\nIs minic go n-úsáideann trúpaí na himpireachta nó fórsaí póilíneachta na clogaid seo.</Apparel_ArmorHelmetRecon.description>
   
   <!-- EN: bowler hat -->
   <Apparel_BowlerHat.label>babhlaer</Apparel_BowlerHat.label>
@@ -29,7 +29,7 @@
   <!-- EN: marine helmet -->
   <Apparel_PowerArmorHelmet.label>clogad saighdiúra</Apparel_PowerArmorHelmet.label>
   <!-- EN: A marine armor helmet, with a built-in status computer and layered plasteel-weave plates.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmorHelmet.description>Clogad saighdiúra daingnithe le plaistea-mhiotal, a bhfuil ríomhaire ionsuite ann.\n\nIs minic go n-úsáideann saighdiúirí agus muirshaighdiúirí an clogad seo.</Apparel_PowerArmorHelmet.description>
+  <Apparel_PowerArmorHelmet.description>Clogad saighdiúra daingnithe le plaisti-mhiotal, a bhfuil ríomhaire ionsuite ann.\n\nIs minic go n-úsáideann saighdiúirí agus muirshaighdiúirí an clogad seo.</Apparel_PowerArmorHelmet.description>
   
   <!-- EN: psychic foil helmet -->
   <Apparel_PsychicFoilHelmet.label>clogad síceach</Apparel_PsychicFoilHelmet.label>

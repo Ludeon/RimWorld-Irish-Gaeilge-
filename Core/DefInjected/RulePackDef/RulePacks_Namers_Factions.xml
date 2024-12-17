@@ -25,8 +25,31 @@
     <li>msyl->yoth</li>
     <li>msyl->lite</li>
   -->
-  <NamerFactionMechanoid.rulePack.rulesStrings>TODO</NamerFactionMechanoid.rulePack.rulesStrings>
+  <NamerFactionMechanoid.rulePack.rulesStrings>
+    <li>r_name->[mechhive] [msyl]</li>
+    <li>mechhive->Meicea-choirceog</li>
+    <li>mechhive->Coirceog</li>
+    <li>msyl->na bPionna</li>
+    <li>msyl->na n-Anscuithe</li>
+    <li>msyl->na gCrománach</li>
+    <li>msyl->an Chláir</li>
+    <li>msyl->na Talún</li>
+    <li>msyl->na dTrasdultach</li>
+    <li>msyl->na Meaisín</li>
+    <li>msyl->na Giarsraithe</li>
+    <li>msyl->an Mheicneitheora</li>
+    </NamerFactionMechanoid.rulePack.rulesStrings>
   
+  <!-- EN:
+    <li>political_union_outlander->Words/Nouns/PoliticalUnions_Outlander</li>
+    <li>political_adjective->Words/Adjectives/PoliticalUnions</li>
+  -->
+
+  <!-- <NamerFactionOutlander.rulePack.rulesFiles>
+    <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
+    <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
+  </NamerFactionOutlander.rulePack.rulesFiles> -->
+
   <!-- EN:
     <li>r_name(p=3)->[nearnameinitial]</li>
     <li>r_name->[nearnameinitial] [political_union_outlander]</li>
@@ -36,7 +59,56 @@
     <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
     <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
   -->
-  <NamerFactionOutlander.rulePack.rulesStrings>TODO</NamerFactionOutlander.rulePack.rulesStrings>
+  <NamerFactionOutlander.rulePack.rulesStrings>
+    <li>r_name->[outlandersettlement] [outlandergenitive]</li>
+    <li>outlandersettlement->Sochaí</li>
+    <li>outlandersettlement->Grúpa</li>
+    <li>outlandersettlement->Foireann</li>
+    <li>outlandersettlement->Craobh</li>
+    <li>outlandersettlement->Cumann</li>
+    <li>outlandersettlement->Aonad</li>
+    <li>outlandersettlement->Faicsean</li>
+    <li>outlandersettlement->Complacht</li>
+    <li>outlandersettlement->Pairtnéirí</li>
+    <li>outlandersettlement->Muintir</li>
+    <li>outlandersettlement->Complacht</li>
+    <li>outlandersettlement->Gasra</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+  </NamerFactionOutlander.rulePack.rulesStrings>
+   
+    <!-- EN:
+    <li>groupname->Words/Nouns/GroupNames</li>
+  -->
+  
+  <!-- <NamerFactionPirate.rulePack.rulesFiles>
+   <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
+   <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
+  </NamerFactionPirate.rulePack.rulesFiles> -->
   
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
@@ -67,8 +139,56 @@
     <li>r_name->[Weapon] [groupname]</li>
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
-  <NamerFactionPirate.rulePack.rulesStrings>TODO</NamerFactionPirate.rulePack.rulesStrings>
+  <NamerFactionPirate.rulePack.rulesStrings>
+    <li>r_name->[outlandersettlement] [pirategenitive]</li>
+    <li>outlandersettlement->Drong</li>
+    <li>outlandersettlement->Grúpa</li>
+    <li>outlandersettlement->Foireann</li>
+    <li>outlandersettlement->Craobh</li>
+    <li>outlandersettlement->Cumann</li>
+    <li>outlandersettlement->Aonad</li>
+    <li>outlandersettlement->Faicsean</li>
+    <li>outlandersettlement->Complacht</li>
+    <li>outlandersettlement->Pairtnéirí</li>
+    <li>outlandersettlement->Muintir</li>
+    <li>outlandersettlement->Complacht</li>
+    <li>outlandersettlement->Gasra</li>
+    <li>pirategenitive->an Bhua</li>
+    <li>pirategenitive->na Fulaingthe</li>
+    <li>pirategenitive->na Láidreachta</li>
+    <li>pirategenitive->na Deacrachta</li>
+    <li>pirategenitive->na Clainne</li>
+    <li>pirategenitive->na Dílseachta</li>
+    <li>pirategenitive->na nDaoine</li>
+    <li>pirategenitive->an Bháis</li>
+    <li>pirategenitive->na Cumhachta</li>
+    <li>pirategenitive->na nDéithe</li>
+    <li>pirategenitive->an Bhealaigh</li>
+    <li>pirategenitive->na gCeart</li>
+    <li>pirategenitive->an Phobail</li>
+    <li>pirategenitive->Dé</li>
+    <li>pirategenitive->na n-Óg</li>
+    <li>pirategenitive->an Díoltais</li>
+    <li>pirategenitive->na hOíche</li>
+    <li>pirategenitive->na Dílseachta</li>
+    <li>pirategenitive->an Airgid</li>
+    <li>pirategenitive->Antaine</li>
+    <li>pirategenitive->Abba</li>
+    <li>pirategenitive->Acháb</li>
+    <li>pirategenitive->Zarúá</li>
+    <li>pirategenitive->Zibeá</li>
+    <li>pirategenitive->na hOibre</li>
+    <li>pirategenitive->an Dorchadais</li>
+  </NamerFactionPirate.rulePack.rulesStrings>
   
+  <!-- EN:
+    <li>political_union_tribal->Words/Nouns/PoliticalUnions_Tribal</li>
+  -->
+  <!-- <NamerFactionTribal.rulePack.rulesFiles>
+   <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
+   <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
+  </NamerFactionTribal.rulePack.rulesFiles> --> 
+
   <!-- EN:
     <li>r_name->[WordTribal] [political_union_tribal]</li>
     <li>r_name->The [WordTribal] [political_union_tribal]</li>
@@ -77,18 +197,200 @@
     <li>r_name->The [Color] [Animal] [WordTribal]</li>
     <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
   -->
-  <NamerFactionTribal.rulePack.rulesStrings>TODO</NamerFactionTribal.rulePack.rulesStrings>
+  <NamerFactionTribal.rulePack.rulesStrings>
+    <li>r_name->[tribalsettlement] [outlander_genitive]</li>
+    <li>tribalsettlement->Treabh</li>
+    <li>tribalsettlement->Daoine</li>
+    <li>tribalsettlement->Lucht</li>
+    <li>tribalsettlement->Muintir</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+  </NamerFactionTribal.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->Colony</li>
   -->
-  <NamerInitialSettlementColony.rulePack.rulesStrings>TODO</NamerInitialSettlementColony.rulePack.rulesStrings>
-  
+  <NamerInitialSettlementColony.rulePack.rulesStrings>
+    <li>r_name->[community_noun] [outlandergenitive]</li>
+    <li>r_name->[naturalfeature] [outlandergenitive]</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Baile</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Dúiche</li>
+    <li>community_noun->Cathair</li>
+    <li>community_noun->Longfort</li>
+    <li>community_noun->Campa</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+    <li>naturalfeature->Cloch</li>
+    <li>naturalfeature->Bollán</li>
+    <li>naturalfeature->Crann</li>
+    <li>naturalfeature->Scrobarnach</li>
+    <li>naturalfeature->Lochán</li>
+    <li>naturalfeature->Linn</li>
+    <li>naturalfeature->Adharc</li>
+    <li>naturalfeature->Cnoc</li>
+    <li>naturalfeature->Pluais</li>
+    <li>naturalfeature->Stumpa</li>
+    <li>naturalfeature->Blaosc</li>
+    <li>naturalfeature->Stoc</li>
+  </NamerInitialSettlementColony.rulePack.rulesStrings>
+
+
   <!-- EN:
     <li>r_name->Village</li>
   -->
-  <NamerInitialSettlementTribe.rulePack.rulesStrings>TODO</NamerInitialSettlementTribe.rulePack.rulesStrings>
+  <NamerInitialSettlementTribe.rulePack.rulesStrings>
+    <li>r_name->[community_noun] [outlandergenitive]</li>
+    <li>r_name->[naturalfeature] [outlandergenitive]</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Baile</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Dúiche</li>
+    <li>community_noun->Cathair</li>
+    <li>community_noun->Longfort</li>
+    <li>community_noun->Campa</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+    <li>naturalfeature->Cloch</li>
+    <li>naturalfeature->Bollán</li>
+    <li>naturalfeature->Crann</li>
+    <li>naturalfeature->Scrobarnach</li>
+    <li>naturalfeature->Lochán</li>
+    <li>naturalfeature->Linn</li>
+    <li>naturalfeature->Adharc</li>
+    <li>naturalfeature->Cnoc</li>
+    <li>naturalfeature->Pluais</li>
+    <li>naturalfeature->Stumpa</li>
+    <li>naturalfeature->Blaosc</li>
+    <li>naturalfeature->Stoc</li>
+  </NamerInitialSettlementTribe.rulePack.rulesStrings>
   
+  <!-- EN:
+    <li>townname_fixed->Names/OutlanderTown</li>
+    <li>concept_positive->Words/Nouns/Concepts_Positive</li>
+  -->
+  <NamerSettlementOutlander.rulePack.rulesFiles>
+    <li>r_name->[community_noun] [outlandergenitive]</li>
+    <li>r_name->[naturalfeature] [outlandergenitive]</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Baile</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Dúiche</li>
+    <li>community_noun->Cathair</li>
+    <li>community_noun->Longfort</li>
+    <li>community_noun->Campa</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+    <li>naturalfeature->Cloch</li>
+    <li>naturalfeature->Bollán</li>
+    <li>naturalfeature->Crann</li>
+    <li>naturalfeature->Scrobarnach</li>
+    <li>naturalfeature->Lochán</li>
+    <li>naturalfeature->Linn</li>
+    <li>naturalfeature->Adharc</li>
+    <li>naturalfeature->Cnoc</li>
+    <li>naturalfeature->Pluais</li>
+    <li>naturalfeature->Stumpa</li>
+    <li>naturalfeature->Blaosc</li>
+    <li>naturalfeature->Stoc</li>
+  </NamerSettlementOutlander.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>
     <li>r_name(p=6)->[townname_fixed]</li>
@@ -142,56 +444,53 @@
     <li>townend->well</li>
   -->
   <NamerSettlementOutlander.rulePack.rulesStrings>
-    <li>r_name(p=12)->[townname_wordgen]</li>
-    <li>r_name(p=6)->[townname_fixed]</li>
-    <li>r_name(p=4)->[townname_combo]</li>
-    <li>r_name->[townname_near]</li>
-    <li>topicalnoun->[Vegetable]</li>
-    <li>topicalnoun->[Game]</li>
-    <li>topicalnoun->[BodyPart]</li>
-    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
-    <li>townname_combo->[topicalnoun] [Community]</li>
-    <li>townname_combo->[topicalnoun] [TerrainFeature]</li>
-    <li>townname_combo->[Community] [topicalnoun]</li>
-    <li>townname_combo(p=2)->[TerrainFeature] [concept_positive]</li>
-    <li>townname_combo(p=2)->[TerrainFeature] [concept_positive] </li>
-    <li>townname_combo(p=2)->[Community] [concept_positive]</li>
-    <li>townname_combo(p=3)->[TerrainFeature] [Character]</li>
-    <li>townname_combo(p=3)->[Community] [Character]</li>
-    <li>townname_near->[nearnameinitial] ag an [TerrainFeature]</li>
-    <li>townname_near->[nearnameinitial] ag an [TerrainFeature]</li>
-    <li>townname_near->[nearnameinitial] ar an [TerrainFeature]</li>
-    <li>nearnameinitial->[townname_wordgen]</li>
-    <li>nearnameinitial->[Community]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
-    <li>townname_wordgen(p=2)->[SylE][townend]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE][townend]</li>
-    <li>townname_wordgen->[TerrainFeature][townend]</li>
-    <li>townname_wordgen->[topicalnoun][townend]</li>
-    <li>townend->bhaile</li>
-    <li>townend->bhaile</li>
-    <li>townend->harts</li>
-    <li>townend->borna</li>
-    <li>townend->brad</li>
-    <li>townend->dála</li>
-    <li>townend->halla</li>
-    <li>townend->ach</li>
-    <li>townend->nach</li>
-    <li>townend->mara</li>
-    <li>townend->nan</li>
-    <li>townend->sa</li>
-    <li>townend->tan</li>
-    <li>townend->stan</li>
-    <li>townend->os</li>
-    <li>townend->dan</li>
-    <li>townend->tas</li>
-    <li>townend->vódan</li>
-    <li>townend->tír</li>
-    <li>townend->bhard</li>
-    <li>townend->talamh</li>
-    <li>townend->ran</li>
-    <li>townend->tobar</li>
+    <li>r_name->[community_noun] [outlandergenitive]</li>
+    <li>r_name->[naturalfeature] [outlandergenitive]</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Baile</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Dúiche</li>
+    <li>community_noun->Cathair</li>
+    <li>community_noun->Longfort</li>
+    <li>community_noun->Campa</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+    <li>naturalfeature->Cloch</li>
+    <li>naturalfeature->Bollán</li>
+    <li>naturalfeature->Crann</li>
+    <li>naturalfeature->Scrobarnach</li>
+    <li>naturalfeature->Lochán</li>
+    <li>naturalfeature->Linn</li>
+    <li>naturalfeature->Adharc</li>
+    <li>naturalfeature->Cnoc</li>
+    <li>naturalfeature->Pluais</li>
+    <li>naturalfeature->Stumpa</li>
+    <li>naturalfeature->Blaosc</li>
+    <li>naturalfeature->Stoc</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
   
   <!-- EN:
@@ -237,46 +536,53 @@
     <li>townendevil->thad</li>
   -->
   <NamerSettlementPirate.rulePack.rulesStrings>
-    <li>r_name(p=4)->[townname_combo]</li>
-    <li>r_name->[townname_wordgen]</li>
-    <li>townname_combo->[geography] [AnimalBadass]</li>
-    <li>townname_combo->[geography] [AnimalBadass]</li>
-    <li>townname_combo->[ConceptBadass] [geography]</li>
-    <li>townname_combo->[ConceptBadass] [geography]</li>
-    <li>townname_combo->[PersonBadass] [geography]</li>
-    <li>townname_combo->[geography] [PersonBadass] </li>
-    <li>townname_combo->[geography] [Enemy]</li>
-    <li>townname_combo->[geography] [Enemy] </li>
-    <li>townname_combo->[geography] [Weapon]</li>
-    <li>townname_combo->[Weapon] [geography]</li>
-    <li>townname_combo->[geography] [ColorBadass]</li>
-    <li>geography(p=2)->[TerrainFeature]</li>
-    <li>geography->[Community]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE][SylE]</li>
-    <li>townname_wordgen(p=2)->[SylE][townendevil]</li>
-    <li>townname_wordgen(p=2)->[SylE][SylE][townendevil]</li>
-    <li>townendevil->vas</li>
-    <li>townendevil->varg</li>
-    <li>townendevil->vax</li>
-    <li>townendevil->tar</li>
-    <li>townendevil->tar</li>
-    <li>townendevil->cat</li>
-    <li>townendevil->lap</li>
-    <li>townendevil->osa</li>
-    <li>townendevil->osal</li>
-    <li>townendevil->lat</li>
-    <li>townendevil->loch</li>
-    <li>townendevil->bharr</li>
-    <li>townendevil->sár</li>
-    <li>townendevil->sonc</li>
-    <li>townendevil->hart</li>
-    <li>townendevil->vás</li>
-    <li>townendevil->vár</li>
-    <li>townendevil->vag</li>
-    <li>townendevil->tat</li>
-    <li>townendevil->tad</li>
-    <li>townendevil->tad</li>
+    <li>r_name->[community_noun] [outlandergenitive]</li>
+    <li>r_name->[naturalfeature] [outlandergenitive]</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Baile</li>
+    <li>community_noun->Sráidbhaile</li>
+    <li>community_noun->Dúiche</li>
+    <li>community_noun->Cathair</li>
+    <li>community_noun->Longfort</li>
+    <li>community_noun->Campa</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+    <li>naturalfeature->Cloch</li>
+    <li>naturalfeature->Bollán</li>
+    <li>naturalfeature->Crann</li>
+    <li>naturalfeature->Scrobarnach</li>
+    <li>naturalfeature->Lochán</li>
+    <li>naturalfeature->Linn</li>
+    <li>naturalfeature->Adharc</li>
+    <li>naturalfeature->Cnoc</li>
+    <li>naturalfeature->Pluais</li>
+    <li>naturalfeature->Stumpa</li>
+    <li>naturalfeature->Blaosc</li>
+    <li>naturalfeature->Stoc</li>
   </NamerSettlementPirate.rulePack.rulesStrings>
   
   <!-- EN:
@@ -285,6 +591,54 @@
     <li>r_name->[Color] [TerrainFeature]</li>
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
-  <NamerSettlementTribal.rulePack.rulesStrings>TODO</NamerSettlementTribal.rulePack.rulesStrings>
+  <NamerSettlementTribal.rulePack.rulesStrings>
+    <li>r_name->[community] [outlandergenitive]</li>
+    <li>r_name->[naturalfeature] [outlandergenitive]</li>
+    <li>community->Sráidbhaile</li>
+    <li>community->Baile</li>
+    <li>community->Sráidbhaile</li>
+    <li>community->Dúiche</li>
+    <li>community->Cathair</li>
+    <li>community->Longfort</li>
+    <li>community->Campa</li>
+    <li>outlandergenitive->an Dóchais</li>
+    <li>outlandergenitive->an Ghrá</li>
+    <li>outlandergenitive->na Láidreachta</li>
+    <li>outlandergenitive->na Deacrachta</li>
+    <li>outlandergenitive->na Clainne</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->na nDaoine</li>
+    <li>outlandergenitive->an Aoibhnis</li>
+    <li>outlandergenitive->an tSonais</li>
+    <li>outlandergenitive->an Fháis</li>
+    <li>outlandergenitive->an Bhealaigh</li>
+    <li>outlandergenitive->na gCeart</li>
+    <li>outlandergenitive->an Phobail</li>
+    <li>outlandergenitive->Dé</li>
+    <li>outlandergenitive->na n-Óg</li>
+    <li>outlandergenitive->na Diagachta</li>
+    <li>outlandergenitive->na hÉireann</li>
+    <li>outlandergenitive->na Dílseachta</li>
+    <li>outlandergenitive->an Tiomantais</li>
+    <li>outlandergenitive->an Mhuintearais</li>
+    <li>outlandergenitive->an Chairdis</li>
+    <li>outlandergenitive->na Dea-mhéine</li>
+    <li>outlandergenitive->na Síochána</li>
+    <li>outlandergenitive->an Chomhair</li>
+    <li>outlandergenitive->na hOibre</li>
+    <li>outlandergenitive->an Chláir</li>
+    <li>naturalfeature->Cloch</li>
+    <li>naturalfeature->Bollán</li>
+    <li>naturalfeature->Crann</li>
+    <li>naturalfeature->Scrobarnach</li>
+    <li>naturalfeature->Lochán</li>
+    <li>naturalfeature->Linn</li>
+    <li>naturalfeature->Adharc</li>
+    <li>naturalfeature->Cnoc</li>
+    <li>naturalfeature->Pluais</li>
+    <li>naturalfeature->Stumpa</li>
+    <li>naturalfeature->Blaosc</li>
+    <li>naturalfeature->Stoc</li>
+  </NamerSettlementTribal.rulePack.rulesStrings>
   
 </LanguageData>
