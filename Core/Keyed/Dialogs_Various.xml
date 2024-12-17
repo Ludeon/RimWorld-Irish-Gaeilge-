@@ -82,7 +82,7 @@
   <!-- EN: Initializing interface -->
   <InitializingInterface>Comhéadan á thosnú</InitializingInterface>
   <!-- EN: Unloading unused assets -->
-  <UnloadingUnusedAssets>Acmhainní nár úsáideadh á lódáil</UnloadingUnusedAssets>
+  <UnloadingUnusedAssets>Acmhainní nár úsáideadh á dílódáil</UnloadingUnusedAssets>
   <!-- EN: Loading all active mods -->
   <LoadingAllActiveMods>Modanna á lódáil</LoadingAllActiveMods>
   <!-- EN: Loading defs -->
@@ -96,11 +96,11 @@
   <!-- EN: Loading map -->
   <LoadingMap>Tá an léarscáil á lódáil</LoadingMap>
   <!-- EN: Initializing game -->
-  <InitializingGame>Cluiche á thosú</InitializingGame>
+  <InitializingGame>Tá an cluiche á thosú</InitializingGame>
   <!-- EN: Spawning things -->
-  <SpawningAllThings>Earraí á sceitheadh</SpawningAllThings>
+  <SpawningAllThings>Tá rudaí á sceitheadh</SpawningAllThings>
   <!-- EN: Spawning colonists -->
-  <SpawningColonists>Coilínigh á sceitheadh</SpawningColonists>
+  <SpawningColonists>Tá coilínigh á sceitheadh</SpawningColonists>
   
   <!-- Save/load -->
   <!-- EN: Save -->

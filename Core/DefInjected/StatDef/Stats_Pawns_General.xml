@@ -57,9 +57,9 @@
   <ForagedNutritionPerDay.description>TODO</ForagedNutritionPerDay.description>
   
   <!-- EN: global learning factor -->
-  <GlobalLearningFactor.label>TODO</GlobalLearningFactor.label>
+  <GlobalLearningFactor.label>Luas foghlama</GlobalLearningFactor.label>
   <!-- EN: A multiplier on the learning rate for all skills. -->
-  <GlobalLearningFactor.description>TODO</GlobalLearningFactor.description>
+  <GlobalLearningFactor.description>Baineann an ráta seo le foghlaim scileanna.</GlobalLearningFactor.description>
   
   <!-- EN: immunity gain speed -->
   <ImmunityGainSpeed.label>TODO</ImmunityGainSpeed.label>
