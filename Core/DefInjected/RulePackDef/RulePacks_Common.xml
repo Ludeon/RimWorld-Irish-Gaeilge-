@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
+  <rulesRaw>
+    <li Class="Rule_File">
+      <keyword>Placename_Village</keyword>
+      <path>Strings/Names/TribalVillage</path>
+    </li>
+  </rulesRaw>
+
   <!-- EN:
     <li>PlaceOutlander->[SylE][place_end]</li>
     <li>PlaceOutlander->[SylE][place_end]</li>
@@ -10,7 +17,7 @@
     <li>PlaceOutlander->[SylE][SylE][SylE][place_end]</li>
   -->
   <OutlanderPlaceNameUtility.rulePack.rulesStrings>TODO</OutlanderPlaceNameUtility.rulePack.rulesStrings>
-  
+
   <!-- EN:
     <li>WordTribal(p=3)->[tribal_word_file]</li>
     <li>WordTribal(p=3)->[SylG][SylG]</li>
@@ -18,5 +25,7 @@
     <li>WordTribal->[SylG][SylG][SylG][SylG]</li>
   -->
   <TribalWordUtility.rulePack.rulesStrings>TODO</TribalWordUtility.rulePack.rulesStrings>
-  
+
+
+
 </LanguageData>

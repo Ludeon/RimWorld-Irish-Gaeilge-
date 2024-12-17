@@ -1,0 +1,6 @@
+/.vscode
+/.vs
+*.tar
+.project
+.kateconfig
+tags

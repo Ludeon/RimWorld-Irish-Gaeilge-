@@ -4,10 +4,11 @@
   <friendlyNameEnglish>Irish</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
   <languageWorkerClass>LanguageWorker_French</languageWorkerClass>
+
   <credits>
   	<li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
-	    <creditee></creditee>
+	    <creditee>Caoluisce</creditee>
     </li>
   </credits>
 </LanguageInfo>
