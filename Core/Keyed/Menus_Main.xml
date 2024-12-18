@@ -113,7 +113,7 @@
   <!-- EN: Randomize seed -->
   <RandomizeSeed>Síol randamach</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Bíonn an trasthomhas céanna ag an bplainéad i gcónaí, ach ní dhéantar an domhan iomlán a ghiniúint toisc go bhfuil sé i bhfad rómhór, agus tógann sé cuid mhór ama. Is ionann seo agus an ceatadán den domhan ar mhaith leat a ghiniúint.</PlanetCoverageTip>
+  <PlanetCoverageTip>Is ionann seo agus an ceatadán den phláinéad ar mhaith leat a ghiniúint ar an léarscáil. Bíonn níos mó acmhainní agus níos mó ama de dhíth chun pláinéad iomlán a ghiniúint.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Faicsin</WorldFactionsTab>
 
@@ -123,8 +123,8 @@
   <!-- EN: Select -->
   <WorldChooseButton>Roghnaigh</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
-  <NoWorldsFilesFound>Ní bhfuarthas aon chomhad. Cruthaigh domhan sula dtéann tú níos faide.</NoWorldsFilesFound>
-  
+  <NoWorldsFilesFound>Níor aimsíodh aon chomhaid. Cruthaigh domhan sula dtéann tú níos faide.</NoWorldsFilesFound>
+
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Tá Leagan {0} ar fáil anois. Féach Ludeon.com do thuilleadh eolais.</BuildNowAvailable>
@@ -304,7 +304,7 @@
   <ScenarioEditor>Eagarthóir</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>Scrios</Delete>
-  
+
   <!-- Scenario editor -->
   <!-- EN: seed -->
   <Seed>Síol</Seed>
@@ -332,7 +332,7 @@
   <CanBeUpdatedOnWorkshop>Is féidir é seo a uasdátú ar Workshop, ós rud é gur tusa an t-údar.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
   <ScenarioChangedSavePrompt>Athraíodh an scéal seo.\n\nAr mhaith leat é a shábháil sula leanfaidh tú ar aghaidh?</ScenarioChangedSavePrompt>
-  
+
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Roghnaigh Scéalaí IS</ChooseAIStoryteller>
@@ -360,7 +360,7 @@
   <DifficultyCustomSectionLabel>Socruithe imeartha sainoiriúnaithe</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
   <DifficultyReset>Roghnaigh an ghnáth-stíl imeartha...</DifficultyReset>
-  
+
   <!-- EN: Threats -->
   <DifficultyThreatSection>Bagairtí</DifficultyThreatSection>
   <!-- EN: Threat scale -->
@@ -500,7 +500,7 @@
   <Difficulty_ClassicMortars_Label>Moirtéir chlasaiceacha</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
   <Difficulty_ClassicMortars_Info>Ní bheidh gá bairillí treisithe a chur le moirtéir chun iad a thógáil nó a athlódáil, agus déanfar iad a choigeartú ar mhaithe le so-rochtaineacht.</Difficulty_ClassicMortars_Info>
-  
+
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>Oiriúnú</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
@@ -682,7 +682,7 @@
   <StartingPawnsLeftBehind>Neamhroghnaithe</StartingPawnsLeftBehind>
   <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
   <GuiltyDesc>Tá an coilíneach seo ciontach. Féadfaidh tú an duine seo a chur ar deoraíocht, a chur chun báis, nó a ghabháil, agus ní chuirfear isteach ar aon duine eile.\n\nRachaidh an ciontacht in éag i gceann</GuiltyDesc>
-  
+
   <!-- Misc -->
   <!-- EN: Start -->
   <Start>Tosaigh</Start>
@@ -706,7 +706,7 @@
   <Quit>Dún an cluiche</Quit>
   <!-- EN: Ignore -->
   <Ignore>Lean ar aghaidh</Ignore>
-  
+
   <!-- Progress bar -->
   <!-- EN: Generating world -->
   <GeneratingWorld>Domhan á ghiniúint</GeneratingWorld>

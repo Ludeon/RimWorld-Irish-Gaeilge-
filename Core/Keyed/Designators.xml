@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: Cancel -->
   <DesignatorCancel>Cealaigh</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
-  <DesignatorCancelDesc>Cuir orduithe tógála, miandóireachta, feirmeoireachta agus orduithe eile ar ceal.</DesignatorCancelDesc>
+  <DesignatorCancelDesc>Cuir orduithe ar ceal.</DesignatorCancelDesc>
 
   <!-- EN: Cut plants -->
   <DesignatorCutPlants>Gearr plandaí</DesignatorCutPlants>
@@ -14,7 +14,7 @@
   <!-- EN: Deconstruct -->
   <DesignatorDeconstruct>Scrios</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
-  <DesignatorDeconstructDesc>Scrios rud agus tóg ar ais cuid de na hacmhainní lenar tógadh é.</DesignatorDeconstructDesc>
+  <DesignatorDeconstructDesc>Scrios rud. Gheobhaidh tú roinnt acmhainní ar ais.</DesignatorDeconstructDesc>
 
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Bain</DesignatorUninstall>
@@ -34,7 +34,7 @@
   <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Gearr admhad</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>Marcáil na crainn atá le gearradh chun adhmad a bhaint.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Roghnaigh crainn atá le gearradh chun adhmad a bhaint.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
   <DesignatorHaulThings>Iompair</DesignatorHaulThings>
@@ -51,7 +51,7 @@
   <!-- EN: Mine -->
   <DesignatorMine>Miandóireacht</DesignatorMine>
   <!-- EN: Designate areas of rock to be mined out. -->
-  <DesignatorMineDesc>Marcáil clocha atá le baint.</DesignatorMineDesc>
+  <DesignatorMineDesc>Roghnaigh clocha atá le baint.</DesignatorMineDesc>
 
   <!-- EN: Mine vein -->
   <DesignatorMineVein>TODO</DesignatorMineVein>
@@ -74,12 +74,12 @@
   <!-- EN: Plan -->
   <DesignatorPlan>Pleanáil</DesignatorPlan>
   <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
-  <DesignatorPlanDesc>Cuir síos pleananna. Níl aon fheidhm ag na marcanna seo, ach cuidíonn siad leat na forbairtí a dhéanfaidh tú amach anseo a phleanáil amach.</DesignatorPlanDesc>
+  <DesignatorPlanDesc>Cuir síos pleananna. Níl aon fheidhm ag na marcanna seo, ach cuidíonn siad leat struchtúir a phleanáil amach sula dtógtar iad.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
   <DesignatorPlanRemove>Scrios pleananna</DesignatorPlanRemove>
   <!-- EN: Remove planning designations. -->
-  <DesignatorPlanRemoveDesc>Scrios na marcanna pleanála a chur tú síos.</DesignatorPlanRemoveDesc>
+  <DesignatorPlanRemoveDesc>Scrios pleananna.</DesignatorPlanRemoveDesc>
 
   <!-- EN: Forbid -->
   <DesignatorForbid>Dícheadaigh</DesignatorForbid>
@@ -155,7 +155,7 @@
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Leathnaigh zón</DesignatorZoneExpand>
-  
+
   <!-- EN: Claim -->
   <DesignatorClaim>Glac úinéireacht</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
@@ -180,16 +180,16 @@
   <DesignatorOpen>Oscail</DesignatorOpen>
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Oscail coimeádáin.</DesignatorOpenDesc>
-  
+
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Maraigh</DesignatorSlaughter>
   <!-- EN: Slaughter a tame animal. -->
-  <DesignatorSlaughterDesc>Maraigh ainmhí ceansa.</DesignatorSlaughterDesc>
+  <DesignatorSlaughterDesc>Roghnaigh ainmhithe lena marú.</DesignatorSlaughterDesc>
 
   <!-- EN: Tame -->
   <DesignatorTame>Ceansaigh</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
-  <DesignatorTameDesc>Déan ainmhí fián a cheansú.</DesignatorTameDesc>
+  <DesignatorTameDesc>Roghnaigh ainmhithe fiáine lena gceansú.</DesignatorTameDesc>
 
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Scaoil saor</DesignatorReleaseAnimalToWild>
@@ -204,20 +204,20 @@
   <!-- EN: Paint building... -->
   <DesignatorPaintBuilding>Péinteáil struchtúr...</DesignatorPaintBuilding>
   <!-- EN: Designate walls and buildings to be painted using dye from tinctoria plants, which you can grow. Only certain buildings can be painted. -->
-  <DesignatorPaintBuildingDesc>Marcáil ballaí agus foirgnimh atá le péinteáil ag baint úsáide as ruaim. Ní féidir ach foirgnimh áirithe a phéinteáil.</DesignatorPaintBuildingDesc>
+  <DesignatorPaintBuildingDesc>Marcáil ballaí agus foirgnimh atá le péinteáil. Ní féidir ach foirgnimh áirithe a phéinteáil. Beidh péint de dhíth ort.</DesignatorPaintBuildingDesc>
   <!-- EN: Paint floor... -->
   <DesignatorPaintFloor>Péinteáil urlár...</DesignatorPaintFloor>
   <!-- EN: Designate floors to be painted using dye from tinctoria plants, which you can grow. Only certain floors can be painted. -->
-  <DesignatorPaintFloorDesc>Marcáil urláir atá le péinteáil ag baint úsáide as ruaim. Ní féidir ach urláir áirithe a phéinteáil.</DesignatorPaintFloorDesc>
+  <DesignatorPaintFloorDesc>Marcáil urláir atá le péinteáil. Ní féidir ach urláir áirithe a phéinteáil. Beidh péint de dhíth ort.</DesignatorPaintFloorDesc>
 
   <!-- EN: Remove paint -->
   <DesignatorRemovePaint>Bain péint</DesignatorRemovePaint>
   <!-- EN: Remove paint from walls, buildings, and floors. -->
   <DesignatorRemovePaintDesc>Bain péint ó bhallaí, urláir, agus foirgnimh.</DesignatorRemovePaintDesc>
   <!-- EN: Remove floor paint -->
-  <DesignatorRemoveFloorPaint>Bain péint urláir</DesignatorRemoveFloorPaint> 
+  <DesignatorRemoveFloorPaint>Bain péint</DesignatorRemoveFloorPaint>
   <!-- EN: Remove paint from floors. -->
-  <DesignatorRemoveFloorPaintDesc>Bain péint ón urlár.</DesignatorRemoveFloorPaintDesc> 
+  <DesignatorRemoveFloorPaintDesc>Bain péint ón urlár.</DesignatorRemoveFloorPaintDesc>
   <!-- EN: Paint -->
   <Paint>Péinteáil</Paint>
   <!-- EN: Color -->
@@ -293,13 +293,13 @@
   <MonumentAdjacentToBuilding>Ní féidir séadchomhartha a chur taobh le '{0}'.</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
   <CannotBePlantedHere>Ní féidir é seo a chur anseo</CannotBePlantedHere>
-  
+
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Leathnaigh {0} nó\nCruthaigh {1} nua</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
   <CreateNewZone>Cruthaigh {0} nua</CreateNewZone>
-  
+
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
   <TransmitsPower>Tras-seoladh chumhachta</TransmitsPower>

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: neutral ancients -->
   <Ancients.label>seanóirí neodracha</Ancients.label>
   <!-- EN: Ancients -->
@@ -11,7 +11,7 @@
   <Ancients.pawnSingular>seanóir</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>seanóir</Ancients.pawnsPlural>
-  
+
   <!-- EN: hostile ancients -->
   <AncientsHostile.label>seanóirí naimhdeacha</AncientsHostile.label>
   <!-- EN: Ancients -->
@@ -22,11 +22,11 @@
   <AncientsHostile.pawnSingular>seanóir</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>seanóir</AncientsHostile.pawnsPlural>
-  
+
   <!-- EN: insect geneline -->
-  <Insect.label>géin-líne fheithideach</Insect.label>
+  <Insect.label>Ollphéisteanna</Insect.label>
   <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
-  <Insect.description>Cónaíonn na hollpheisteanna móra seo faoin talamh, agus tagann siad anuas nuair a mhealltar iad le toireann nó le fearamóin. Fadó, ar phláinéad eile, d'éirigh le fiontraithe innealtóireacht ghéiniteach a dhéanamh ar na feithidí seo lena n-úsáid mar shaighdiúirí. Ní fios cén chaoi ar tháinig siad chomh fada leis an bpláinéad iargúlta seo, ach tá siad anseo agus tá siad dáinséarach.</Insect.description>
+  <Insect.description>Cónaíonn na hollpheisteanna móra seo faoin talamh, agus tagann siad anuas nuair a mhealltar iad le toireann nó le fearamóin. Fadó, ar phláinéad eile, d'éirigh le fiontraithe na feithidí seo a chruthú le hinnealtóireacht ghéiniteach, lena n-úsáid mar shaighdiúirí. Ní fios cén chaoi ar tháinig siad chomh fada leis an bpláinéad iargúlta seo, ach tá siad anseo agus tá siad an-dáinséarach.</Insect.description>
   <!-- EN: Sorne Geneline -->
   <Insect.fixedName>géin-líne fheithideach</Insect.fixedName>
   <!-- EN: leader -->
@@ -35,16 +35,16 @@
   <Insect.pawnSingular>feithid</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>feithidí</Insect.pawnsPlural>
-  
+
   <!-- EN: mechanoid hive -->
-  <Mechanoid.label>meicea-róbait</Mechanoid.label>
+  <Mechanoid.label>Meicea-róbait</Mechanoid.label>
   <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
-  <Mechanoid.description>Ní fios cad as a tháinig na meaisíní marfacha seo. Bíonn siad i bhfolach i struchtúir ársa, faoin talamh, nó ar ghrinneall na farraige, féadfaidh siad fanacht ina gcodladh ar feadh na mílte bliain. Is cosúil go bhfuil an sprioc céanna ag an ngrúpla meicea-róbat seo. Creideann taighdeoirí gur cruthaíodh iad i gcogadh a tharla fadó, ach deir treabhanna na háite gur searbhóintí mallaithe iad oibríonn ar son dia neamhthrócaireach.</Mechanoid.description>
+  <Mechanoid.description>Ní fios cad as a tháinig na meaisíní marfacha seo. Bíonn siad i bhfolach i struchtúir ársa, faoin talamh, nó ar ghrinneall na farraige, agus féadfaidh siad fanacht ina gcodladh ar feadh na mílte bliain. Creideann taighdeoirí gur cruthaíodh na meicea-róbait mharfacha seo i gcogadh a tharla fadó, ach deir lucht na dtreabh gur searbhóintí mallaithe iad oibríonn ar son dia neamhthrócaireach éigean.</Mechanoid.description>
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>ceannaire</Mechanoid.leaderTitle>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>meicea-róbat</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>meicea-róbat</Mechanoid.pawnsPlural>
-  
+
 </LanguageData>

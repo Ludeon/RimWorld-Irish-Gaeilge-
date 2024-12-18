@@ -1,76 +1,76 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: son -->
-  <Child.label>TODO</Child.label>
+  <Child.label>mac</Child.label>
   <!-- EN: daughter -->
-  <Child.labelFemale>TODO</Child.labelFemale>
-  
+  <Child.labelFemale>iníon</Child.labelFemale>
+
   <!-- EN: cousin -->
-  <Cousin.label>TODO</Cousin.label>
-  
+  <Cousin.label>col ceathrar</Cousin.label>
+
   <!-- EN: cousin once removed -->
-  <CousinOnceRemoved.label>TODO</CousinOnceRemoved.label>
-  
+  <CousinOnceRemoved.label>col cúigir</CousinOnceRemoved.label>
+
   <!-- EN: grandson -->
-  <Grandchild.label>TODO</Grandchild.label>
+  <Grandchild.label>garmhac</Grandchild.label>
   <!-- EN: granddaughter -->
-  <Grandchild.labelFemale>TODO</Grandchild.labelFemale>
-  
+  <Grandchild.labelFemale>gariníon</Grandchild.labelFemale>
+
   <!-- EN: grandnephew -->
-  <GrandnephewOrGrandniece.label>TODO</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.label>garnia</GrandnephewOrGrandniece.label>
   <!-- EN: grandniece -->
-  <GrandnephewOrGrandniece.labelFemale>TODO</GrandnephewOrGrandniece.labelFemale>
-  
+  <GrandnephewOrGrandniece.labelFemale>garneach</GrandnephewOrGrandniece.labelFemale>
+
   <!-- EN: grandfather -->
-  <Grandparent.label>TODO</Grandparent.label>
+  <Grandparent.label>seanathair</Grandparent.label>
   <!-- EN: grandmother -->
-  <Grandparent.labelFemale>TODO</Grandparent.labelFemale>
-  
+  <Grandparent.labelFemale>seanmháthair</Grandparent.labelFemale>
+
   <!-- EN: granduncle -->
-  <GranduncleOrGrandaunt.label>TODO</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.label>seanuncail</GranduncleOrGrandaunt.label>
   <!-- EN: grandaunt -->
-  <GranduncleOrGrandaunt.labelFemale>TODO</GranduncleOrGrandaunt.labelFemale>
-  
+  <GranduncleOrGrandaunt.labelFemale>seanaintín</GranduncleOrGrandaunt.labelFemale>
+
   <!-- EN: great grandson -->
-  <GreatGrandchild.label>TODO</GreatGrandchild.label>
+  <GreatGrandchild.label>fionnó</GreatGrandchild.label>
   <!-- EN: great granddaughter -->
-  <GreatGrandchild.labelFemale>TODO</GreatGrandchild.labelFemale>
-  
+  <GreatGrandchild.labelFemale>fionnó</GreatGrandchild.labelFemale>
+
   <!-- EN: great grandfather -->
-  <GreatGrandparent.label>TODO</GreatGrandparent.label>
+  <GreatGrandparent.label>sin-seanathair</GreatGrandparent.label>
   <!-- EN: great grandmother -->
-  <GreatGrandparent.labelFemale>TODO</GreatGrandparent.labelFemale>
-  
+  <GreatGrandparent.labelFemale>sin-seanmháthair</GreatGrandparent.labelFemale>
+
   <!-- EN: brother -->
-  <HalfSibling.label>TODO</HalfSibling.label>
+  <HalfSibling.label>dearthair</HalfSibling.label>
   <!-- EN: sister -->
-  <HalfSibling.labelFemale>TODO</HalfSibling.labelFemale>
-  
+  <HalfSibling.labelFemale>deirfiúr</HalfSibling.labelFemale>
+
   <!-- EN: kin -->
-  <Kin.label>TODO</Kin.label>
-  
+  <Kin.label>muintir</Kin.label>
+
   <!-- EN: nephew -->
-  <NephewOrNiece.label>TODO</NephewOrNiece.label>
+  <NephewOrNiece.label>nia</NephewOrNiece.label>
   <!-- EN: niece -->
-  <NephewOrNiece.labelFemale>TODO</NephewOrNiece.labelFemale>
-  
+  <NephewOrNiece.labelFemale>neach</NephewOrNiece.labelFemale>
+
   <!-- EN: father -->
-  <Parent.label>TODO</Parent.label>
+  <Parent.label>athair</Parent.label>
   <!-- EN: mother -->
-  <Parent.labelFemale>TODO</Parent.labelFemale>
-  
+  <Parent.labelFemale>máthair</Parent.labelFemale>
+
   <!-- EN: second cousin -->
-  <SecondCousin.label>TODO</SecondCousin.label>
-  
+  <SecondCousin.label>col seisir</SecondCousin.label>
+
   <!-- EN: brother -->
-  <Sibling.label>TODO</Sibling.label>
+  <Sibling.label>deartháir</Sibling.label>
   <!-- EN: sister -->
-  <Sibling.labelFemale>TODO</Sibling.labelFemale>
-  
+  <Sibling.labelFemale>deirfiúr</Sibling.labelFemale>
+
   <!-- EN: uncle -->
-  <UncleOrAunt.label>TODO</UncleOrAunt.label>
+  <UncleOrAunt.label>uncail</UncleOrAunt.label>
   <!-- EN: aunt -->
-  <UncleOrAunt.labelFemale>TODO</UncleOrAunt.labelFemale>
-  
+  <UncleOrAunt.labelFemale>aintín</UncleOrAunt.labelFemale>
+
 </LanguageData>

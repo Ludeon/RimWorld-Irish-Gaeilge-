@@ -263,7 +263,7 @@
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>lasmuigh</DeterioratingOutdoors>
   <!-- EN: raining -->
-  <DeterioratingRaining>báisteach</DeterioratingRaining> 
+  <DeterioratingRaining>báisteach</DeterioratingRaining>
   <!-- EN: protected -->
   <Protected>cosanta</Protected>
   <!-- EN: Deteriorating -->
@@ -571,21 +571,21 @@
   <!-- EN: person -->
   <Person>duine</Person>
   <!-- EN: activated. -->
-  <Activated>cumasaithe</Activated> 
+  <Activated>cumasaithe</Activated>
   <!-- EN: Contains -->
   <Contains>Istigh:</Contains>
   <!-- EN: Hostiles -->
   <Hostiles>Naimhde</Hostiles>
   <!-- EN: Investigate -->
-  <Investigate>Fiosraigh</Investigate> 
+  <Investigate>Fiosraigh</Investigate>
   <!-- EN: Activate -->
-  <Activate>Cumasaigh</Activate> 
+  <Activate>Cumasaigh</Activate>
   <!-- EN: Activation -->
-  <Activation>Cumasú</Activation> 
+  <Activation>Cumasú</Activation>
   <!-- EN: complete -->
   <Complete>déanta</Complete>
   <!-- EN: Must be imprisoned. -->
-  <RequiresImprisonment>Ní mór an té seo a chur i bpríosún.</RequiresImprisonment> 
+  <RequiresImprisonment>Ní mór an té seo a chur i bpríosún.</RequiresImprisonment>
   <!-- EN: Prioritize hauling contents -->
   <HaulFromSource>TODO</HaulFromSource>
   <!-- EN: Use -->
@@ -606,7 +606,7 @@
   <ReportStringCrawlingToSafety>Ag lámhacán go háit shábháilte.</ReportStringCrawlingToSafety>
   <!-- EN: Crawling to bed. -->
   <ReportStringCrawlingToBed>Ag lámhacán chuig an leaba.</ReportStringCrawlingToBed>
-  
+
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
   <UserScanAbility>Luas scanála</UserScanAbility>
@@ -614,7 +614,7 @@
   <ScanAverageInterval>Aimseofar rud randamach gach:</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
   <ScanningProgressToGuaranteedFind>Dul chun cinn sula n-aimseofar rud:</ScanningProgressToGuaranteedFind>
-  
+
   <!-- Meditation -->
   <!-- EN: meditating at -->
   <MeditatingAt>i mbun machnaimh ag</MeditatingAt>
@@ -736,7 +736,7 @@
   <PenExampleAnimals>Ainmhithe samplacha</PenExampleAnimals>
   <!-- EN: No exterior access - Animals cannot be moved in or out. -->
   <NoExteriorAccess>Ní aon bhealach isteach - ní féidir ainmhithe a thabhairt isteach nó amach.</NoExteriorAccess>
-  
+
   <!-- EN: Must be connected to walls on both sides to function. -->
   <DoorMustBeEnclosedByWalls>Ní mór é seo a cheangal le ballaí ar an dá thaobh sula n-oibreoidh sé i gceart.</DoorMustBeEnclosedByWalls>
 
@@ -766,14 +766,14 @@
   <!-- EN: Road -->
   <Road_Label>Bóthar</Road_Label>
   <!-- EN: River -->
-  <River_Label>Abhainn</River_Label> 
+  <River_Label>Abhainn</River_Label>
   <!-- EN: Movement difficulty -->
   <MovementDifficulty_Label>Deacracht gluaiseachta</MovementDifficulty_Label>
   <!-- EN: Pollution -->
   <Pollution_Label>Truailliú</Pollution_Label>
   <!-- EN: Filth -->
   <Filth_Label>Salachar</Filth_Label>
-  
+
   <!-- EN: Faction -->
   <Faction_Label>Faicsean</Faction_Label>
   <!-- EN: Relationship -->
@@ -784,7 +784,7 @@
   <CaravanStatus_Label>Stádas</CaravanStatus_Label>
   <!-- EN: Time to destination -->
   <CaravanTTD_Label>Am fágtha</CaravanTTD_Label>
-  
+
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
@@ -890,13 +890,13 @@
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>ag tochailt amach corpáin.</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
-  <CarriedBy>á iompar ag {0_labelShort}.</CarriedBy> 
+  <CarriedBy>á iompar ag {0_labelShort}.</CarriedBy>
   <!-- EN: inside {0_labelShort}. -->
-  <InContainer>taobh istigh de {0_labelShort}.</InContainer> 
+  <InContainer>taobh istigh de {0_labelShort}.</InContainer>
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>leagtha</DownedCannotCrawl> 
+  <DownedCannotCrawl>leagtha</DownedCannotCrawl>
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>leagtha, neamhaireachtálach</DownedUnconscious> 
+  <DownedUnconscious>leagtha, neamhaireachtálach</DownedUnconscious>
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -1078,11 +1078,11 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>Skelettiert</RotStateDessicated>
   <!-- EN: Frozen -->
-  <CurrentlyFrozen>Tiefgekühlt (verdirbt nicht)</CurrentlyFrozen> 
+  <CurrentlyFrozen>Tiefgekühlt (verdirbt nicht)</CurrentlyFrozen>
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>Gekühlt (verdirbt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"})</CurrentlyRefrigerated> 
+  <CurrentlyRefrigerated>Gekühlt (verdirbt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"})</CurrentlyRefrigerated>
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>Ungekühlt (verdirbt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"})</NotRefrigerated> 
+  <NotRefrigerated>Ungekühlt (verdirbt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"})</NotRefrigerated>
   <!-- EN: over a decade -->
   <OverADecade>über ein Jahrzehnt</OverADecade>
   <!-- EN: less than a day -->
@@ -1160,23 +1160,23 @@
   <!-- EN: Zone -->
   <Zone>Zone</Zone>
   <!-- EN: Growing zone -->
-  <GrowingZone>Anbauzone</GrowingZone>
+  <GrowingZone>Zón plandaí</GrowingZone>
   <!-- EN: Stockpile zone -->
-  <Stockpile>Lagerzone</Stockpile>
+  <Stockpile>Stoc-charn</Stockpile>
   <!-- EN: Dumping stockpile zone -->
-  <DumpingStockpile>Abfallzone</DumpingStockpile>
+  <DumpingStockpile>Zón dumpála</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
-  <CorpseStockpile>TODO</CorpseStockpile>
+  <CorpseStockpile>Zón dumpála</CorpseStockpile>
   <!-- EN: Priority -->
-  <Priority>Priorität</Priority>
+  <Priority>Tosaíocht</Priority>
   <!-- EN: Clear all -->
-  <ClearAll>Alles verbieten</ClearAll>
+  <ClearAll>Scrios cách</ClearAll>
   <!-- EN: Allow all -->
-  <AllowAll>Alles erlauben</AllowAll>
-  
+  <AllowAll>Ceadaigh cách</AllowAll>
+
   <!-- Storage Groups -->
   <!-- EN: Group -->
-  <StorageGroup>TODO</StorageGroup>
+  <StorageGroup>Grúpa</StorageGroup>
   <!-- EN: Name -->
   <StorageLabel>TODO</StorageLabel>
   <!-- EN: Storage group -->
@@ -1193,7 +1193,7 @@
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
   <Undiscovered>Unentdeckt</Undiscovered>
-  
+
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
   <AnimalSterilizeConfirm>TODO</AnimalSterilizeConfirm>
@@ -1243,7 +1243,7 @@
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
   <HotKeyTip>TODO</HotKeyTip>
-  
+
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
   <FireOn>Feuer bei {1_label}</FireOn>
@@ -1338,7 +1338,7 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Komponente noch nicht bereit</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>Keine Siedlung für die Rückkehr vorhanden. Gründe zuerst eine neue Siedlung.</ShipNoSettlementToReturnTo> 
+  <ShipNoSettlementToReturnTo>Keine Siedlung für die Rückkehr vorhanden. Gründe zuerst eine neue Siedlung.</ShipNoSettlementToReturnTo>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>(*Name)Charlon Whitestone(/Name) ist bereit, die Sequenz zum Hochfahren des Reaktors einzuleiten.\n\nEr warnt dich, dass das Hochfahren etwa 15 Tage in Anspruch nimmt und die Energiesignatur schon aus großer Entfernung messbar sein wird.\n\nDiese Art von Energiesignatur deutet auf interstellare Flugtauglichkeit hin und wird sowohl verzweifelte Raider als auch tödliche Mechanoiden anlocken.\n\nDu wirst mit einer noch nie dagewesenen Intensität angegriffen werden. Sorge zuerst dafür, dass deine Verteidigung steht.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
@@ -1519,7 +1519,7 @@
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
   <ChargesRemaining>Verbleibende Ladungen</ChargesRemaining>
-  
+
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Nodanna</LearningHelper>
@@ -1591,7 +1591,7 @@
   <ClickToSeeAvailableOrders_WorldObject>{0}: Zeige verfügbare Befehle...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Zeige verfügbare Befehle...</ClickToSeeAvailableOrders_Empty>
-  
+
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
   <PawnTooltipWithDescAndPrimaryEquip>{0}\n{1}\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
@@ -1611,7 +1611,7 @@
   <PawnTooltipPsychicEntropyLimit>Schalte den Neuralhitzebegrenzer ein/aus.\n\nDas Überschreiten des Hitzelimits kann zu einem mentalen Zusammenbruch führen, der mehrere Tage anhält, aber keine bleibenden Schäden hinterlässt.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>Psyfokus: {0}</PawnTooltipPsyfocus>
-  
+
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
   <PawnTooltipGenderAndKindLabel>{0}, {1}</PawnTooltipGenderAndKindLabel>
@@ -1640,9 +1640,9 @@
   <!-- EN: Camp loot -->
   <Reward_CampLoot_Label>Beute des Lagers</Reward_CampLoot_Label>
   <!-- EN: It is unclear what will happen if you accept this quest -->
-  <Reward_Unknown>TODO</Reward_Unknown> 
+  <Reward_Unknown>TODO</Reward_Unknown>
   <!-- EN: Unknown -->
-  <Reward_Unknown_Label>TODO</Reward_Unknown_Label> 
+  <Reward_Unknown_Label>TODO</Reward_Unknown_Label>
   <!-- EN: the visitors will work and fight for you -->
   <Reward_VisitorsHelp>die Besucher werden für dich arbeiten und kämpfen</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
@@ -1665,7 +1665,7 @@
   <Reward_Title>{PAWNNAME} erhält den {TITLE}-Titel von der Fraktion '{FACTION}'</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>Wert {0}</TotalValue>
-  
+
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
   <BondedWith>Gebunden an: {0}</BondedWith>
@@ -1705,14 +1705,14 @@
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>Verursacht durch: {0}</CausedByHediff>
-  
+
   <!-- EN: {DAMAGE_label} weakness -->
   <DamageFactorWeakness>TODO</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
   <DamageFactorResistance>TODO</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
   <DamageFactor>TODO</DamageFactor>
-  
+
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
   <HealingHealHediff>TODO</HealingHealHediff>
@@ -1874,7 +1874,7 @@
   <!-- EN: rot stink -->
   <RotStink>Verwesungsgeruch</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>TODO</DeadlifeDust> 
+  <DeadlifeDust>TODO</DeadlifeDust>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
@@ -1939,7 +1939,7 @@
   <AbilitySpeechCooldown>Nächste Rede möglich in</AbilitySpeechCooldown>
   <!-- EN: Initiated at -->
   <AbilitySpeechTargetsLabel>Mögliche Veranstaltungsorte</AbilitySpeechTargetsLabel>
-  
+
   <!-- Books -->
 
   <!-- EN: Benefits -->
@@ -1950,17 +1950,17 @@
   <AlreadyUnlocked>TODO</AlreadyUnlocked>
   <!-- EN: when discovered -->
   <WhenDiscovered>TODO</WhenDiscovered>
-  
+
   <!-- EN: Was driven into a mental break after reading {0}. -->
   <BookMentalBreakMessage>TODO</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
   <BookReadProgress>TODO</BookReadProgress>
-  
+
   <!-- EN: learning speed -->
   <BookLearningModifier>TODO</BookLearningModifier>
   <!-- EN: Mental break chance -->
   <BookMentalBreak>TODO</BookMentalBreak>
-  
+
   <!-- EN: {BOOK_labelShort} is not readable -->
   <BookNotReadable>TODO</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
@@ -1969,13 +1969,13 @@
   <BookCantBeStage>TODO</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
   <BookBlind>TODO</BookBlind>
-  
+
   <!-- EN: max level {0} -->
   <BookMaxLevel>TODO</BookMaxLevel>
-  
+
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
   <ReadingReportHeader>TODO</ReadingReportHeader>
-  
+
   <!-- EN: Assign reading -->
   <ReadingDialogTitle>TODO</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
@@ -1985,7 +1985,7 @@
 
   <!-- EN: The books currently on this bookshelf. -->
   <ContainedBooksDesc>TODO</ContainedBooksDesc>
-  
+
   <!-- EN: Books stored -->
   <BookshelfStoredInspect>TODO</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
@@ -1993,13 +1993,13 @@
 
   <!-- EN: Remove this book from the bookshelf. -->
   <EjectBookTooltip>TODO</EjectBookTooltip>
-  
+
   <!-- Pushing -->
   <!-- EN: Push to... -->
   <CommandPushTo>TODO</CommandPushTo>
   <!-- EN: requires {0} -->
   <RequiredCapacity>TODO</RequiredCapacity>
-  
+
   <!-- EN: Unable to enter {0}, destination is blocked -->
   <UnableToEnterPortal>TODO</UnableToEnterPortal>
 
@@ -2008,7 +2008,7 @@
 
   <!-- EN: Emergence -->
   <Emergence>TODO</Emergence>
-  
+
   <!-- EN: remove {0} -->
   <RemovePart>TODO</RemovePart>
 
@@ -2016,10 +2016,10 @@
   <DoWorkAtThing>TODO</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
   <CanBeStudiedInDuration>TODO</CanBeStudiedInDuration>
-  
+
   <!-- EN: About to explode -->
   <AboutToExplode>TODO</AboutToExplode>
-  
+
   <!-- EN: New Anomaly expansion available now! -->
   <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
 
@@ -2028,7 +2028,7 @@
 
   <!-- EN: blocked by roof -->
   <BlockedByRoof>bloqué par un toit</BlockedByRoof>
-  
+
   <!-- UNUSED -->
   <RadiusExpandRate>Ráta leathnaithe an gha</RadiusExpandRate>
   <GameOverKeepPlaying>Weiterspielen</GameOverKeepPlaying>

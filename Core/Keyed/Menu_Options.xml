@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
   <Audiovisuals>Fuaim/Fís</Audiovisuals>
@@ -107,7 +107,7 @@
   <!-- EN: Show realtime clock -->
   <ShowRealtimeClock>Taispeáin clog fíor-ama</ShowRealtimeClock>
   <!-- EN: Use 12 hour clock -->
-  <TwelveHourClockMode>TODO</TwelveHourClockMode>
+  <TwelveHourClockMode>Am an chloig 12 uair</TwelveHourClockMode>
   <!-- EN: Disable tiny font -->
   <DisableTinyText>Múch clófhoireann an-bheag</DisableTinyText>
   <!-- EN: Maximum number of colonies: {0} -->
@@ -150,7 +150,7 @@
   <SelectMod>Roghnaigh mod...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Níl aon mhod inchumraithe lódáilte.</NoConfigurableMods>
-  
+
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
   <RestoreToDefaultSettingsLabel>Gabh ar ais chuig na réamhshocruithe </RestoreToDefaultSettingsLabel>
@@ -162,7 +162,7 @@
   <ResetAndRestartConfirmationDialog>Glanfar gach socrú agus cuirfear na réamhshocruithe i bhfeidhm arís. Caillfear aon dul chun cinn nár sábháladh.\n\nAn bhfuil tú cinnte gur mhaith leat leanúint ar aghaidh?</ResetAndRestartConfirmationDialog>
   <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
   <ChangedTextureCompressionRestart>Ní mór an cluiche a atosú nuair a athraítear na socruithe comhbhrúite. Caillfear aon dul chun cinn nár sábháladh,\n\nAn bhfuil tú cinnte gur mhaith leat leanúint ar aghaidh?</ChangedTextureCompressionRestart>
-  
+
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Ealaín chúlra</SetBackgroundImage>
