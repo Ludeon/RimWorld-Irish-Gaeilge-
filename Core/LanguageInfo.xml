@@ -3,20 +3,12 @@
   <friendlyNameNative>Gaeilge</friendlyNameNative>
   <friendlyNameEnglish>Irish</friendlyNameEnglish>
   <canBeTiny>true</canBeTiny>
-<<<<<<< Updated upstream
-  <languageWorkerClass>LanguageWorker_French</languageWorkerClass>
+  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
 
   <credits>
   	<li Class="CreditRecord_Role">
       <roleKey>Credit_Translator</roleKey>
 	    <creditee>Caoluisce</creditee>
-=======
-  <languageWorkerClass>LanguageWorker_English</languageWorkerClass>
-  <credits>
-  	<li Class="CreditRecord_Role">
-      <roleKey>Credit_Translator</roleKey>
-	    <creditee>caoluisce</creditee>
->>>>>>> Stashed changes
     </li>
   </credits>
 </LanguageInfo>
