@@ -6,25 +6,25 @@
   <!-- EN: Carriers can have fat bodies. A person can have more than one body type gene; one body type will be chosen among those that are allowed. -->
   <Body_Fat.description>Bíonn iompróirí na géine seo ramhar. Má tá níos mó ná géin amháin ag duine a bhfuil tionchar aici ar an gcumraíocht coirp, roghnófar corp an iompróra go randamach as na géinte sin.</Body_Fat.description>
   <!-- EN: fat -->
-  <Body_Fat.symbolPack.prefixSymbols.0.symbol>Fett</Body_Fat.symbolPack.prefixSymbols.0.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.0.symbol>ramhar</Body_Fat.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: blub -->
-  <Body_Fat.symbolPack.prefixSymbols.1.symbol>Blob</Body_Fat.symbolPack.prefixSymbols.1.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.1.symbol>blob</Body_Fat.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: heavy -->
-  <Body_Fat.symbolPack.prefixSymbols.2.symbol>Schwer</Body_Fat.symbolPack.prefixSymbols.2.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.2.symbol>trom</Body_Fat.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: stomp -->
-  <Body_Fat.symbolPack.prefixSymbols.3.symbol>Stomp</Body_Fat.symbolPack.prefixSymbols.3.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.3.symbol>stumpa</Body_Fat.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: flub -->
-  <Body_Fat.symbolPack.prefixSymbols.4.symbol>Dick</Body_Fat.symbolPack.prefixSymbols.4.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.4.symbol>flab</Body_Fat.symbolPack.prefixSymbols.4.symbol>
   <!-- EN: grease -->
-  <Body_Fat.symbolPack.prefixSymbols.5.symbol>Prall</Body_Fat.symbolPack.prefixSymbols.5.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.5.symbol>ramhar</Body_Fat.symbolPack.prefixSymbols.5.symbol>
   <!-- EN: bulk -->
-  <Body_Fat.symbolPack.prefixSymbols.6.symbol>Massen</Body_Fat.symbolPack.prefixSymbols.6.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.6.symbol>mór</Body_Fat.symbolPack.prefixSymbols.6.symbol>
   <!-- EN: flab -->
-  <Body_Fat.symbolPack.prefixSymbols.7.symbol>Speck</Body_Fat.symbolPack.prefixSymbols.7.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.7.symbol>ramhar</Body_Fat.symbolPack.prefixSymbols.7.symbol>
   <!-- EN: lard -->
-  <Body_Fat.symbolPack.prefixSymbols.8.symbol>Schmalz</Body_Fat.symbolPack.prefixSymbols.8.symbol>
+  <Body_Fat.symbolPack.prefixSymbols.8.symbol>ramhar</Body_Fat.symbolPack.prefixSymbols.8.symbol>
   <!-- EN: lard -->
-  <Body_Fat.symbolPack.suffixSymbols.0.symbol>schmalz</Body_Fat.symbolPack.suffixSymbols.0.symbol>
+  <Body_Fat.symbolPack.suffixSymbols.0.symbol>ramhar</Body_Fat.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: blub -->
   <Body_Fat.symbolPack.suffixSymbols.1.symbol>blob</Body_Fat.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: stomp -->

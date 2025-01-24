@@ -44,7 +44,7 @@
   <!-- EN: waterproof conduit -->
   <WaterproofConduit.label>sreang uiscedhíonach</WaterproofConduit.label>
   <!-- EN: Insulated electrical cables for transmitting power under shallow water. -->
-  <WaterproofConduit.description>Is féidir an tsreang leictreach inslithe seo a chur in uisce éadomhain.</WaterproofConduit.description>
+  <WaterproofConduit.description>Is féidir an tsreang inslithe seo a chur in uisce éadomhain.</WaterproofConduit.description>
   
   <!-- EN: wind turbine -->
   <WindTurbine.label>tuirbín gaoithe</WindTurbine.label>

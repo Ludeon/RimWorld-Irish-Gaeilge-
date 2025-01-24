@@ -10,7 +10,7 @@
   <Architect28.titleShort>ailtire</Architect28.titleShort>
   
   <!-- EN: [PAWN_nameDef] lived on a peaceful glitterworld where all menial work was done by robots, while the people mostly devoted themselves to leisure. [PAWN_pronoun] managed the plant and animal life of a sprawling park, where citizens came to admire nature's beauty. -->
-  <BiosphereManager95.description>Bhí cónaí ar [PAWN_nameDef] ar gheal-phlainéad síochánta. Rinne róbait obair neamhoilte agus ní raibh le déanamh ag daoine ach a scíth a ligean. Bhí [PAWN_pronoun] i gceannas ar na plandaí agus ainmhíthe i bpáirc ollmhór, áit ar tháinig cuairteoirí le bhreathnú ar an nádúr.</BiosphereManager95.description>
+  <BiosphereManager95.description>Bhí cónaí ar [PAWN_nameDef] ar gheal-phlainéad síochánta. Rinne róbait obair neamhoilte agus ní raibh le déanamh ag daoine ach a scíth a ligean. Bhí [PAWN_nameDef] i gceannas ar na plandaí agus ainmhíthe i bpáirc ollmhór, áit ar tháinig cuairteoirí le bhreathnú ar an nádúr.</BiosphereManager95.description>
   <BiosphereManager95.baseDesc>Bhí cónaí ar [PAWN_nameDef] ar gheal-phlainéad síochánta. Rinne róbait obair neamhoilte agus ní raibh le déanamh ag daoine ach a scíth a ligean. Bhí [PAWN_nameDef] i gceannas ar na plandaí agus ainmhíthe i bpáirc ollmhór, áit ar tháinig cuairteoirí le bhreathnú ar an nádúr.</BiosphereManager95.baseDesc>
   <!-- EN: biosphere manager -->
   <BiosphereManager95.title>bainsteoir bithsféir</BiosphereManager95.title>
@@ -18,8 +18,8 @@
   <BiosphereManager95.titleShort>luibheolaí</BiosphereManager95.titleShort>
   
   <!-- EN: Glitterworlds are havens of comfort for those lucky enough to live there, but [PAWN_nameDef] could not ignore the nearby trashworlds where the people suffered and starved. [PAWN_pronoun] spent [PAWN_possessive] life appealing for donations and supporting those in need. -->
-  <CharityWorker36.description>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_pronoun] go leor ama i mbun oibre ag bailiú airgid agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.description>
-  <CharityWorker36.baseDesc>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_nameDef] go leor ama i mbun oibre ag bailiú airgid agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.baseDesc>
+  <CharityWorker36.description>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_nameDef] go leor ama i mbun oibre ag lorg síntiús agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.description>
+  <CharityWorker36.baseDesc>Is tearmann sábháilteacht agus compoird iad geall-phlainéid, ach bhí [PAWN_nameDef] dírithe ar na plainéid eile in aice láimhe a raibh buailte leis an mbochtanas. Chaith [PAWN_nameDef] go leor ama i mbun oibre ag lorg síntiús agus ag tacú le daoine a bhí ar an ngannchuid.</CharityWorker36.baseDesc>
   <!-- EN: charity worker -->
   <CharityWorker36.title>oibrí deonach</CharityWorker36.title>
   <!-- EN: altruist -->
