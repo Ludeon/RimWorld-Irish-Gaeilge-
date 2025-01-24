@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: ambush -->
-  <Ambush.label>TODO</Ambush.label>
+  <Ambush.label>luíochán</Ambush.label>
   <!-- EN: Caravan ambushed -->
-  <Ambush.letterLabel>TODO</Ambush.letterLabel>
+  <Ambush.letterLabel>Ionsaíodh carbhán!</Ambush.letterLabel>
   <!-- EN: {0} has been ambushed by {1} from {2}! -->
-  <Ambush.letterText>TODO</Ambush.letterText>
+  <Ambush.letterText>Tá {1} ó {2} tar éis ionsaí a dhéanamh ar {0}!</Ambush.letterText>
   
   <!-- EN: payment demand -->
-  <CaravanDemand.label>TODO</CaravanDemand.label>
+  <CaravanDemand.label>iarratas íocaíochta</CaravanDemand.label>
   
   <!-- EN: caravan meeting -->
-  <CaravanMeeting.label>TODO</CaravanMeeting.label>
+  <CaravanMeeting.label>cruinniú carbháin</CaravanMeeting.label>
   
   <!-- EN: manhunter ambush -->
-  <ManhunterAmbush.label>TODO</ManhunterAmbush.label>
+  <ManhunterAmbush.label>Luíochán ainmhithe!</ManhunterAmbush.label>
   <!-- EN: Caravan ambushed (manhunters) -->
-  <ManhunterAmbush.letterLabel>TODO</ManhunterAmbush.letterLabel>
+  <ManhunterAmbush.letterLabel>Ionsaíodh carbhán (ainmhithe)</ManhunterAmbush.letterLabel>
   <!-- EN: {0} has been ambushed by scaria-infected manhunting {1}! -->
-  <ManhunterAmbush.letterText>TODO</ManhunterAmbush.letterText>
+  <ManhunterAmbush.letterText>Tá {1} tar éis {0} a ionsú!</ManhunterAmbush.letterText>
   
 </LanguageData>

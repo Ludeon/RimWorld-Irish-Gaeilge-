@@ -2,72 +2,72 @@
 <LanguageData>
   
   <!-- EN: alphabeavers -->
-  <Alphabeavers.label>TODO</Alphabeavers.label>
+  <Alphabeavers.label>alfabhéabhair</Alphabeavers.label>
   
   <!-- EN: ambrosia sprout -->
-  <AmbrosiaSprout.label>TODO</AmbrosiaSprout.label>
+  <AmbrosiaSprout.label>planda ambróise</AmbrosiaSprout.label>
   <!-- EN: Ambrosia sprout -->
-  <AmbrosiaSprout.letterLabel>TODO</AmbrosiaSprout.letterLabel>
+  <AmbrosiaSprout.letterLabel>Planda ambróise</AmbrosiaSprout.letterLabel>
   <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
-  <AmbrosiaSprout.letterText>TODO</AmbrosiaSprout.letterText>
+  <AmbrosiaSprout.letterText>Tá planda ambróise ag fás in aice láimhe! Má fhánann tú go dtí gó bhfásann an planda, beidh tú in ann ambróise a bhaint.</AmbrosiaSprout.letterText>
   
   <!-- EN: cold snap -->
-  <ColdSnap.label>TODO</ColdSnap.label>
+  <ColdSnap.label>tréimhse fhuar</ColdSnap.label>
   <!-- EN: Cold snap -->
-  <ColdSnap.letterLabel>TODO</ColdSnap.letterLabel>
+  <ColdSnap.letterLabel>Tréimhse fhuar</ColdSnap.letterLabel>
   
   <!-- EN: crop blight -->
-  <CropBlight.label>TODO</CropBlight.label>
+  <CropBlight.label>smol</CropBlight.label>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>TODO</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>ainmhithe feirme</FarmAnimalsWanderIn.label>
   
   <!-- EN: flashstorm -->
-  <Flashstorm.label>TODO</Flashstorm.label>
+  <Flashstorm.label>stoirm</Flashstorm.label>
   <!-- EN: Flashstorm -->
-  <Flashstorm.letterLabel>TODO</Flashstorm.letterLabel>
+  <Flashstorm.letterLabel>Stoirm</Flashstorm.letterLabel>
   
   <!-- EN: heat wave -->
-  <HeatWave.label>TODO</HeatWave.label>
+  <HeatWave.label>tonn teasa</HeatWave.label>
   <!-- EN: Heat wave -->
-  <HeatWave.letterLabel>TODO</HeatWave.letterLabel>
+  <HeatWave.letterLabel>Tonn teasa</HeatWave.letterLabel>
   
   <!-- EN: herd migration -->
-  <HerdMigration.label>TODO</HerdMigration.label>
+  <HerdMigration.label>imirce ainmhithe</HerdMigration.label>
   <!-- EN: Animal migration: {0} -->
-  <HerdMigration.letterLabel>TODO</HerdMigration.letterLabel>
+  <HerdMigration.letterLabel>Imirce ainmhithe: {0}</HerdMigration.letterLabel>
   <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
-  <HerdMigration.letterText>TODO</HerdMigration.letterText>
+  <HerdMigration.letterText>Tá {0} ag dul thar bhráid.\n\nNí ionsóidh siad thú mura gcuireann tú isteach orthu.</HerdMigration.letterText>
   
   <!-- EN: meteorite impact -->
-  <MeteoriteImpact.label>TODO</MeteoriteImpact.label>
+  <MeteoriteImpact.label>dreigít</MeteoriteImpact.label>
   <!-- EN: Meteorite -->
-  <MeteoriteImpact.letterLabel>TODO</MeteoriteImpact.letterLabel>
+  <MeteoriteImpact.letterLabel>Dreigít</MeteoriteImpact.letterLabel>
   <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
-  <MeteoriteImpact.letterText>TODO</MeteoriteImpact.letterText>
+  <MeteoriteImpact.letterText>Bhuail dreigít mhór an talamh sa cheantar. Tá meall mór {0} fágtha ina diaidh.</MeteoriteImpact.letterText>
   
   <!-- EN: psychic drone -->
-  <PsychicDrone.label>TODO</PsychicDrone.label>
+  <PsychicDrone.label>dordán síceach</PsychicDrone.label>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>TODO</PsychicSoothe.label>
+  <PsychicSoothe.label>suaimhneas síceach</PsychicSoothe.label>
   
   <!-- EN: ransom demand -->
-  <RansomDemand.label>TODO</RansomDemand.label>
+  <RansomDemand.label>fuascailt</RansomDemand.label>
   <!-- EN: Ransom demand -->
-  <RansomDemand.letterLabel>TODO</RansomDemand.letterLabel>
+  <RansomDemand.letterLabel>Fuascailt</RansomDemand.letterLabel>
   
   <!-- EN: transport pod crash -->
-  <RefugeePodCrash.label>TODO</RefugeePodCrash.label>
+  <RefugeePodCrash.label>pod iompair tuairteáilte</RefugeePodCrash.label>
   
   <!-- EN: resource pod crash -->
-  <ResourcePodCrash.label>TODO</ResourcePodCrash.label>
+  <ResourcePodCrash.label>pod tuairteáilte</ResourcePodCrash.label>
   
   <!-- EN: self-tame -->
-  <SelfTame.label>TODO</SelfTame.label>
+  <SelfTame.label>ainmhithe ceansaithe</SelfTame.label>
   
   <!-- EN: short circuit -->
-  <ShortCircuit.label>TODO</ShortCircuit.label>
+  <ShortCircuit.label>gearrchiorcad</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
   <ThrumboPasses.label>TODO</ThrumboPasses.label>

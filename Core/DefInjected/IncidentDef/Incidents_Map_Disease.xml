@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: flu (animals) -->
-  <Disease_AnimalFlu.label>TODO</Disease_AnimalFlu.label>
+  <Disease_AnimalFlu.label>fliú (ainmhithe)</Disease_AnimalFlu.label>
   <!-- EN: Animal disease: Flu -->
-  <Disease_AnimalFlu.letterLabel>TODO</Disease_AnimalFlu.letterLabel>
+  <Disease_AnimalFlu.letterLabel>Galar ainmhithe: fliú</Disease_AnimalFlu.letterLabel>
   <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick -->
-  <Disease_AnimalFlu.letterText>TODO</Disease_AnimalFlu.letterText>
+  <Disease_AnimalFlu.letterText>Tá {0} ainmhí tinn.\n\nBí cinnte go gcuirtear cúram leighis orthu.\n\nTá na hainmhithe seo a leanas tinn</Disease_AnimalFlu.letterText>
   
   <!-- EN: plague (animals) -->
-  <Disease_AnimalPlague.label>TODO</Disease_AnimalPlague.label>
+  <Disease_AnimalPlague.label>plá (ainmhithe)</Disease_AnimalPlague.label>
   <!-- EN: Animal disease: Plague -->
-  <Disease_AnimalPlague.letterLabel>TODO</Disease_AnimalPlague.letterLabel>
+  <Disease_AnimalPlague.letterLabel>Galar ainmhithe: Plá</Disease_AnimalPlague.letterLabel>
   <!-- EN: {0} of your animals have gotten sick from {2}.\n\nMake sure that they get proper treatment and rest as much as possible.\n\nThe following animals have gotten sick -->
-  <Disease_AnimalPlague.letterText>TODO</Disease_AnimalPlague.letterText>
+  <Disease_AnimalPlague.letterText>Tá {0} tinn.\n\nBí cinnte go gcuirtear cúram leighis orthu.\n\nTá na hainmhithe seo a leanas tinn</Disease_AnimalPlague.letterText>
   
   <!-- EN: fibrous mechanites -->
   <Disease_FibrousMechanites.label>TODO</Disease_FibrousMechanites.label>

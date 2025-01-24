@@ -49,73 +49,73 @@
   <DrugBurning.helpText>Bíonn drugaí úsáideach uaireanta, ach bíonn siad dáinséarach in amanna.\n\nMás maith leat fáil réidh le drugaí i do choilíneacht, is féidir iad a scrios i gcampa tine.</DrugBurning.helpText>
 
   <!-- EN: Drug policies -->
-  <DrugPolicies.label>TODO</DrugPolicies.label>
+  <DrugPolicies.label>Drugaí</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
-  <DrugPolicies.helpText>TODO</DrugPolicies.helpText>
+  <DrugPolicies.helpText>Is féidir orduithe a thabhairt do choilínigh drugaí áirithe a thógáil ar sceideal. Mar shampla, féadfaidh tú a rá leo drugaí imdhíonachta a thógáil go rialta, nó beoir amháin a ól in aghaidh an lae chun iad a choinneáil sásta.\n\nOscail an táb dar teideal "SANN" agus cruthaigh polasaí nua. Beidh tú in ann an polasaí sin a shannadh ar choilínigh ansin.\n\nIs féidir le coilínigh drugaí eile nach luaitear sa pholasaí a úsáid - féadfaidh tú orduithe a thabhairt dóibh, ach ní ionann sin agus a rá go n-éistfidh siad leat i gcónaí!</DrugPolicies.helpText>
 
   <!-- EN: Positioning fighters -->
-  <GroupGotoHereDragging.label>TODO</GroupGotoHereDragging.label>
+  <GroupGotoHereDragging.label>Comhrac</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpText>TODO</GroupGotoHereDragging.helpText>
+  <GroupGotoHereDragging.helpText>Deaschliceáil agus tarraing chun orduithe a thabhairt do do choilínigh dhréachtaithe.\n\nScaipigí amach - tá sé níos éasca targaidí atá taobh le chéile a bhaint amach.</GroupGotoHereDragging.helpText>
   <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
-  <GroupGotoHereDragging.helpTextController>TODO</GroupGotoHereDragging.helpTextController>
+  <GroupGotoHereDragging.helpTextController>Brúigh agus tarraing an truicear clé chun orduithe a thabhairt do do choilínigh dhréachtaithe.\n\nScaipigí amach - tá sé níos éasca targaidí atá taobh le chéile a bhaint amach.</GroupGotoHereDragging.helpTextController>
 
   <!-- EN: Interacting with traders -->
-  <InteractingWithTraders.label>TODO</InteractingWithTraders.label>
+  <InteractingWithTraders.label>Trádálaithe</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
-  <InteractingWithTraders.helpText>TODO</InteractingWithTraders.helpText>
+  <InteractingWithTraders.helpText>Is féidir leat labhairt le daoine atá marcáilte le "?".\n\nRoghnaigh coilíneach agus deaschliceáil ar an gcarachtar atá marcáilte le "?".</InteractingWithTraders.helpText>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
-  <InteractingWithTraders.helpTextController>TODO</InteractingWithTraders.helpTextController>
+  <InteractingWithTraders.helpTextController>Is féidir leat labhairt le daoine atá marcáilte le "?".\n\nRoghnaigh coilíneach agus cliceáil ar an gcarachtar atá marcáilte le "?" leis an truicear clé.</InteractingWithTraders.helpTextController>
 
   <!-- EN: Using the comms console -->
-  <OpeningComms.label>TODO</OpeningComms.label>
+  <OpeningComms.label>Cúrsaí cumarsáide</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
-  <OpeningComms.helpText>TODO</OpeningComms.helpText>
+  <OpeningComms.helpText>Chun cumarsáid a dhéanamh le grúpaí eile, roghnaigh coilíneach agus deaschliceáil ar an gconsól cumarsáide.</OpeningComms.helpText>
   <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
-  <OpeningComms.helpTextController>TODO</OpeningComms.helpTextController>
+  <OpeningComms.helpTextController>Chun cumarsáid a dhéanamh le grúpaí eile, roghnaigh coilíneach agus cliceáil ar an gconsól cumarsáide leis an truicear clé.</OpeningComms.helpTextController>
 
   <!-- EN: Prisoner tab -->
-  <PrisonerTab.label>TODO</PrisonerTab.label>
+  <PrisonerTab.label>Príosúnaigh</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
-  <PrisonerTab.helpText>TODO</PrisonerTab.helpText>
+  <PrisonerTab.helpText>Is féidir breathnú ar an táb dar teideal "Príosúnach" chun tuilleadh eolais a fháil faoi do phríosúnaigh.\n\nIs féidir príosúnaigh a earcú, a mharú nó neamhaird a thabhairt orthu. Is féidir roghnú freisin an gcuirfear cúram leighis orthu.</PrisonerTab.helpText>
 
   <!-- EN: Order queueing -->
-  <QueueOrders.label>TODO</QueueOrders.label>
+  <QueueOrders.label>Orduithe a chiúáil</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpText>TODO</QueueOrders.helpText>
+  <QueueOrders.helpText>Is féidir orduithe difriúla a chiúáil ach SHIFT a bhrú agus orduithe á dtabhairt. Is féidir an rud céanna a dhéanamh le gnáthjabanna.</QueueOrders.helpText>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
-  <QueueOrders.helpTextController>TODO</QueueOrders.helpTextController>
+  <QueueOrders.helpTextController>Is féidir orduithe difriúla a chiúáil ach {Key:QueueOrder} a bhrú agus orduithe á dtabhairt. Is féidir an rud céanna a dhéanamh le gnáthjabanna.</QueueOrders.helpTextController>
 
   <!-- EN: Reforming caravans -->
-  <ReformCaravan.label>TODO</ReformCaravan.label>
+  <ReformCaravan.label>Carbháin a athbhunú</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
-  <ReformCaravan.helpText>TODO</ReformCaravan.helpText>
+  <ReformCaravan.helpText>Is féidir carbháin a athbhunú go héasca ach an cnaipe "ATHBHUNAIGH CARBHÁN" a úsáid ar an léarscáil.</ReformCaravan.helpText>
 
   <!-- EN: Rescuing -->
-  <Rescuing.label>TODO</Rescuing.label>
+  <Rescuing.label>Tarrtháil</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpText>TODO</Rescuing.helpText>
+  <Rescuing.helpText>Chun duine gortaithe a tharrtháil, roghnaigh coilíneach sláintiúil agus deaschlicéail ar an duine gortaithe.\n\nMá thagann tú i dtarrtháil ar dhuine a bhaineann le faicsean eile, ní ionann sin agus a rá go rachaidh an duine sin le do choilíneacht. D'fhéadfadh sé go n-imeoidh siad nuair a bheidh siad sláintiúil. Mar rogha eile, is féidir daoine gortuithe a ghabháil agus a earcú.</Rescuing.helpText>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
-  <Rescuing.helpTextController>TODO</Rescuing.helpTextController>
+  <Rescuing.helpTextController>Chun duine gortaithe a tharrtháil, roghnaigh coilíneach sláintiúil agus cliceáil ar an duine gortaithe leis an truicear clé.\n\nMá thagann tú i dtarrtháil ar dhuine a bhaineann le faicsean eile, ní ionann sin agus a rá go rachaidh an duine sin le do choilíneacht. D'fhéadfadh sé go n-imeoidh siad nuair a bheidh siad sláintiúil. Mar rogha eile, is féidir daoine gortuithe a ghabháil agus a earcú.</Rescuing.helpTextController>
 
   <!-- EN: Set what plant to grow -->
-  <SetGrowingZonePlant.label>TODO</SetGrowingZonePlant.label>
+  <SetGrowingZonePlant.label>Gairneoireacht</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
-  <SetGrowingZonePlant.helpText>TODO</SetGrowingZonePlant.helpText>
+  <SetGrowingZonePlant.helpText>Is féidir plandaí nó crainn dhifriúla a chur i ngach zón.\n\nRoghnaigh an zón, oscail an táb dar teideal "Fás" agus roghnaigh planda.</SetGrowingZonePlant.helpText>
 
   <!-- EN: Shelves -->
-  <Shelves.label>TODO</Shelves.label>
+  <Shelves.label>Seilfeanna</Shelves.label>
   <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
-  <Shelves.helpText>TODO</Shelves.helpText>
+  <Shelves.helpText>Is féidir níos mó rudaí a choinneáil ar sheilfeanna. Chomh maith leis sin, ní rachaidh rudaí a choinnítear ar sheilfeanna in éag agus ní bheidh aon éifeacht acu ar áilleacht an tseomra.\n\nIs féidir seilfeanna difriúla a ghrúpáil agus na socruithe céanna a chur i bhfeidhm orthu.</Shelves.helpText>
 
   <!-- EN: Shield belts -->
-  <ShieldBelts.label>TODO</ShieldBelts.label>
+  <ShieldBelts.label>Crios costanta</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
-  <ShieldBelts.helpText>TODO</ShieldBelts.helpText>
+  <ShieldBelts.helpText>Cuireann an crios cosanta bac ar diúracáin. Ní bhíonn aon éifeacht acu ar ionsuithe melee.\n\nChun an lámh in uachtar a fháil ar naimhde a bhfuil crios cosanta aige, beidh ort do lámhach a dhíriú ar an duine sin nó dul i mbun troda lámh le lámh.</ShieldBelts.helpText>
 
   <!-- EN: TV for sick people -->
-  <TVForSickPeople.label>TODO</TVForSickPeople.label>
+  <TVForSickPeople.label>Tá tú róthínn le breathnú ar an teilifís!</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
-  <TVForSickPeople.helpText>TODO</TVForSickPeople.helpText>
+  <TVForSickPeople.helpText>Is féidir le daoine gortuithe nó a bhfuil tinneas orthu breathnú ar an teilifís agus iad sa leaba.</TVForSickPeople.helpText>
 
 </LanguageData>

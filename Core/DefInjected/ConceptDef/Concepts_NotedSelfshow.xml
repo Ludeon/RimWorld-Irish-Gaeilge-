@@ -60,12 +60,12 @@
   <!-- EN: Fire preparation -->
   <FirePreparation.label>comhrac dóiteáin</FirePreparation.label>
   <!-- EN: Fires can easily burn down a colony. To defeat them, you must prepare before they happen.\n\nThese design elements can help reduce the damage from fires:\n\n1. Instead of constructing one super-building, build separate buildings with spaces in between.\n\n2. Use less flammable materials. Wood is cheap and fast - but very flammable.\n\n3. Build firebreaks to stop wildfires approaching your base. A strip of concrete floor 3 or 4 cells wide will generally stop an advancing fire. -->
-  <FirePreparation.helpText>TODO</FirePreparation.helpText>
+  <FirePreparation.helpText>Scriosann tinte coilíneachtaí, agus ní mór ullmhú go cúramach chun tinte a sheachtaint.\n\nSeo roinnt nodanna chun an damáiste ó thinte a sheachtaint:\n\n1. Tóg foirgnimh bheaga a bhfuil spásanna eatartha, in áit foirgneamh mór a thógáil.\n\n2. Bain úsáid as ábhar dómhoillitheach. Tá adhmad ar fáil go forleathan, ach tá sé an-inlasta.\n\n3. Tóg bearnaí tine chun cosc a chur ar fhalscaithe. Go ginearálta, cuirfidh urlár coincréite bac ar thine.</FirePreparation.helpText>
   
   <!-- EN: Forbid and allow -->
-  <Forbidding.label>TODO</Forbidding.label>
+  <Forbidding.label>Earraí a cheadú agus a dícheadú</Forbidding.label>
   <!-- EN: Colonists will not interact with items marked FORBIDDEN.\n\nForbidden items have a small red X attached. Select a forbidden item and use the controls at the bottom to ALLOW it. -->
-  <Forbidding.helpText>TODO</Forbidding.helpText>
+  <Forbidding.helpText>Tabharfaidh coilínigh neamhaird ar rudaí atá DÍCHEADAITHE.\n\nBíonn "X" dearg le feiceáil ar rudaí dícheadaithe. Is féidir rud a cheadú ach é a roghnú agus "CEADAIGH" a chliceáil.</Forbidding.helpText>
   
   <!-- EN: Forbidding doors -->
   <ForbiddingDoors.label>TODO</ForbiddingDoors.label>

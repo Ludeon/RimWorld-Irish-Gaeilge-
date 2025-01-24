@@ -2,51 +2,51 @@
 <LanguageData>
   
   <!-- EN: alcohol addiction -->
-  <AlcoholAddiction.label>TODO</AlcoholAddiction.label>
+  <AlcoholAddiction.label>andúil: alcól</AlcoholAddiction.label>
   <!-- EN: A chemical addiction to alcohol. Long-term presence of alcohol has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of alcohol, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <AlcoholAddiction.description>TODO</AlcoholAddiction.description>
+  <AlcoholAddiction.description>Tá andúil ag an duine seo san alcól. Ní féidir leis feidhmiú i gceart gan an druga.\n\nMura mbeidh alcól ag an duine seo ar bhonn rialta, tiocfaidh siomptóim éirí as air. Má éiríonn leis an duine seo staon ón alcól ar feadh tamall, tiocfaidh deireadh leis an andúil.</AlcoholAddiction.description>
   <!-- EN: withdrawal -->
-  <AlcoholAddiction.stages.withdrawal.label>TODO</AlcoholAddiction.stages.withdrawal.label>
+  <AlcoholAddiction.stages.withdrawal.label>éirí as</AlcoholAddiction.stages.withdrawal.label>
   
   <!-- EN: alcohol -->
-  <AlcoholHigh.label>TODO</AlcoholHigh.label>
+  <AlcoholHigh.label>alcól</AlcoholHigh.label>
   <!-- EN: Alcohol in the bloodstream. It makes people happy, but reduces capacities. -->
-  <AlcoholHigh.description>TODO</AlcoholHigh.description>
+  <AlcoholHigh.description>Bíonn daoine sásta nuair a ólann siad alcól, ach laghdaítear a gcuid inniúlachtaí.</AlcoholHigh.description>
   <!-- EN: drunkenness -->
-  <AlcoholHigh.labelNoun>TODO</AlcoholHigh.labelNoun>
+  <AlcoholHigh.labelNoun>ar meisce</AlcoholHigh.labelNoun>
   <!-- EN: warm -->
-  <AlcoholHigh.stages.warm.label>TODO</AlcoholHigh.stages.warm.label>
+  <AlcoholHigh.stages.warm.label>te</AlcoholHigh.stages.warm.label>
   <!-- EN: tipsy -->
-  <AlcoholHigh.stages.tipsy.label>TODO</AlcoholHigh.stages.tipsy.label>
+  <AlcoholHigh.stages.tipsy.label>ar bogmheisce</AlcoholHigh.stages.tipsy.label>
   <!-- EN: drunk -->
-  <AlcoholHigh.stages.drunk.label>TODO</AlcoholHigh.stages.drunk.label>
+  <AlcoholHigh.stages.drunk.label>ar meisce</AlcoholHigh.stages.drunk.label>
   <!-- EN: hammered -->
-  <AlcoholHigh.stages.hammered.label>TODO</AlcoholHigh.stages.hammered.label>
+  <AlcoholHigh.stages.hammered.label>ólta</AlcoholHigh.stages.hammered.label>
   <!-- EN: blackout -->
-  <AlcoholHigh.stages.blackout.label>TODO</AlcoholHigh.stages.blackout.label>
+  <AlcoholHigh.stages.blackout.label>ólta</AlcoholHigh.stages.blackout.label>
   
   <!-- EN: alcohol tolerance -->
-  <AlcoholTolerance.label>TODO</AlcoholTolerance.label>
+  <AlcoholTolerance.label>fulaingt: alcól</AlcoholTolerance.label>
   <!-- EN: A built-up tolerance to alcohol. The more severe this tolerance is, the more alcohol it takes to get the same effect. -->
-  <AlcoholTolerance.description>TODO</AlcoholTolerance.description>
+  <AlcoholTolerance.description>Dá láidre an fhulaingt alcóil, dá mhéad alcóil a bheidh de dhíth chun an éifeacht chéanna a bhaint amach.</AlcoholTolerance.description>
   <!-- EN: small -->
-  <AlcoholTolerance.stages.small.label>TODO</AlcoholTolerance.stages.small.label>
+  <AlcoholTolerance.stages.small.label>lag</AlcoholTolerance.stages.small.label>
   <!-- EN: large -->
-  <AlcoholTolerance.stages.large.label>TODO</AlcoholTolerance.stages.large.label>
+  <AlcoholTolerance.stages.large.label>láidir</AlcoholTolerance.stages.large.label>
   <!-- EN: massive -->
-  <AlcoholTolerance.stages.massive.label>TODO</AlcoholTolerance.stages.massive.label>
+  <AlcoholTolerance.stages.massive.label>an-láidir</AlcoholTolerance.stages.massive.label>
   
   <!-- EN: hangover -->
-  <Hangover.label>TODO</Hangover.label>
+  <Hangover.label>tinneas póite</Hangover.label>
   <!-- EN: An unpleasant delayed after-effect of alcohol intoxication. -->
-  <Hangover.description>TODO</Hangover.description>
+  <Hangover.description>Is iondúil go mbíonn tinneas póite ar an té a ólann go meisce. Níl sé taitneamhach.</Hangover.description>
   <!-- EN: a hangover -->
-  <Hangover.labelNoun>TODO</Hangover.labelNoun>
+  <Hangover.labelNoun>tinneas póite</Hangover.labelNoun>
   <!-- EN: slight -->
-  <Hangover.stages.slight.label>TODO</Hangover.stages.slight.label>
+  <Hangover.stages.slight.label>beag</Hangover.stages.slight.label>
   <!-- EN: strong -->
-  <Hangover.stages.strong.label>TODO</Hangover.stages.strong.label>
+  <Hangover.stages.strong.label>láidir</Hangover.stages.strong.label>
   <!-- EN: pounding -->
-  <Hangover.stages.pounding.label>TODO</Hangover.stages.pounding.label>
+  <Hangover.stages.pounding.label>uafásach</Hangover.stages.pounding.label>
   
 </LanguageData>

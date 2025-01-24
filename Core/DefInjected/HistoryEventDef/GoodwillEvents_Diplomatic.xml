@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: gave gift -->
-  <GaveGift.label>thug mé brontannas</GaveGift.label>
+  <GaveGift.label>brontannas</GaveGift.label>
   
   <!-- EN: peace talks backfired -->
   <PeaceTalksBackfire.label>chuaigh cainteanna síochána chun donais</PeaceTalksBackfire.label>
@@ -23,6 +23,6 @@
   <RequestedTrader.label>iarradh trádálaí</RequestedTrader.label>
   
   <!-- EN: traded -->
-  <Traded.label>rinneadh trádáil</Traded.label>
+  <Traded.label>trádáil</Traded.label>
   
 </LanguageData>

@@ -58,7 +58,7 @@
   <!-- EN: planetkiller -->
   <Planetkiller.label>astaróideach marfach</Planetkiller.label>
   <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
-  <Planetkiller.description>Tá astaróideach marfach ag druidim leis an pláinéad. Déanfaidh sé   smidiríní den phláinéad, agus marófar gach ní beo.</Planetkiller.description>
+  <Planetkiller.description>Tá astaróideach marfach ag druidim leis an pláinéad. Déanfaidh sé smidiríní den phláinéad, agus marófar gach ní beo.</Planetkiller.description>
   
   <!-- EN: psychic drone -->
   <PsychicDrone.label>dordán síceach</PsychicDrone.label>
@@ -72,43 +72,43 @@
   <PsychicDrone.letterText>Tagann imní agus fearg ar gach coilíneach {0}!\n\nTá radathonnta síceacha á gcraoladh tríd aimplitheoir ag arcai-teicneoir i bhfad i gcéin. Tá radathonna síceacha á gcraoladh i dtreo an cheantair seo tríd aimplitheoir, agus tá sé calabraithe cur isteach ar choilínigh {0}. Beidh droch-ghiúmar ar roinnt daoine ar feadh cúpla lá.\n\nTá an dordán {1}</PsychicDrone.letterText>
   
   <!-- EN: psychic soothe -->
-  <PsychicSoothe.label>TODO</PsychicSoothe.label>
+  <PsychicSoothe.label>suaimhneas síceach</PsychicSoothe.label>
   <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
-  <PsychicSoothe.description>TODO</PsychicSoothe.description>
+  <PsychicSoothe.description>Tá radathonnta síceacha á gcraoladh tríd aimplitheoir ag arcai-teicneoir i bhfad i gcéin. Tá suaimhneas ar dhaoine nuair a chloiseann siad na radathonnta réchúiseacha seo.</PsychicSoothe.description>
   <!-- EN: The psychic soothe is ending. -->
-  <PsychicSoothe.endMessage>TODO</PsychicSoothe.endMessage>
+  <PsychicSoothe.endMessage>Tá deireadh ag teacht leis an dordán síceach.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
   <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
-  <SolarFlare.label>TODO</SolarFlare.label>
+  <SolarFlare.label>brúchtadh gréine</SolarFlare.label>
   <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
-  <SolarFlare.description>TODO</SolarFlare.description>
+  <SolarFlare.description>Tá an pláinéad buailte le brúchtadh gréine. Ní fheidhmeoidh earraí leictreonacha mar gheall ar na tonnta leictreamaighnéadacha.</SolarFlare.description>
   <!-- EN: The solar flare is ending. -->
-  <SolarFlare.endMessage>TODO</SolarFlare.endMessage>
+  <SolarFlare.endMessage>Tá deireadh ag teacht leis an mbrúchtadh gréine.</SolarFlare.endMessage>
   <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
-  <SolarFlare.letterText>TODO</SolarFlare.letterText>
+  <SolarFlare.letterText>Tá brúchtadh gréine ann.\n\nCuirfidh na tonnta leictreamaighnéadacha isteach ar earraí leictreonacha.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>TODO</ToxicFallout.label>
   <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>TODO</ToxicFallout.description>
+  <ToxicFallout.description>scamall tocsach</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
-  <ToxicFallout.descriptionFuture>TODO</ToxicFallout.descriptionFuture>
+  <ToxicFallout.descriptionFuture>Beidh an ceantar timpeall ar [gameConditionDuration_duration] buailte le scamall tocsach ar feadh [gameConditionDuration_duration]. Marófar plandaí agus ainmhithe má tá siad lasmuigh.</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->
-  <ToxicFallout.endMessage>TODO</ToxicFallout.endMessage>
+  <ToxicFallout.endMessage>Tá scamall toscach ann.</ToxicFallout.endMessage>
   <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to nearly a quadrum. -->
-  <ToxicFallout.letterText>TODO</ToxicFallout.letterText>
+  <ToxicFallout.letterText>Tá deatach marfach ag brúchtadh ó thine mór i bhfad i gcéin, agus tá scamall toscach ag teacht anuas ar an réigiún.\n\nMarófar plandaí agus ainmhithe má choinnítear lasmuigh iad, agus tiocfaidh tinneas ar dhaoine má análann siad an t-aer.\n\nD'fhéadfadh an scamall toscach maireachtáil cúpla lá nó cúpla seachtain.</ToxicFallout.letterText>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>geimhreadh bolcánach</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
-  <VolcanicWinter.description>TODO</VolcanicWinter.description>
+  <VolcanicWinter.description>Tá bolcán i bhfad i gcéin ag pléascadh, agus tá luaithreamhán bolcánach á chaitheamh aníos san atmaisféar. Tá solas na gréine blocáilte, rud a chiallaíonn go mbeidh teocht níos ísle ann.</VolcanicWinter.description>
   <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
-  <VolcanicWinter.descriptionFuture>TODO</VolcanicWinter.descriptionFuture>
+  <VolcanicWinter.descriptionFuture>Tá luaithreamhán ón mbolcán san atmaisféar, agus beidh solas na gréine blocáilte timpeall ar [map_definite] ar feadh [gameConditionDuration_duration]. Cuirfear isteach go mór ar an eiceachóras áitiúil.</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicWinter.endMessage>TODO</VolcanicWinter.endMessage>
+  <VolcanicWinter.endMessage>Tá an chuid is mó den luaithreamhán bolcánach san atmaisféar anois.</VolcanicWinter.endMessage>
   <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
-  <VolcanicWinter.letterText>TODO</VolcanicWinter.letterText>
+  <VolcanicWinter.letterText>Tá bolcán i bhfad i gcéin ag pléascadh, agus tá luaithreamhán bolcánach á chaitheamh aníos san atmaisféar. Tá solas na gréine blocáilte, rud a chiallaíonn go mbeidh teocht níos ísle ann. D'fhéadfadh an geimhreadh bolcánach maireachtáil cúpla seachtain, nó roinnt míonna.</VolcanicWinter.letterText>
   
 </LanguageData>
