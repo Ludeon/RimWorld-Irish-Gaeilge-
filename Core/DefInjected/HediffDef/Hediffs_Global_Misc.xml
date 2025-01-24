@@ -110,57 +110,57 @@
   <Pregnant.stages.latestage.label>an tríú ráithe</Pregnant.stages.latestage.label>
   
   <!-- EN: psychic coma -->
-  <PsychicComa.label>TODO</PsychicComa.label>
+  <PsychicComa.label>cóma síceach</PsychicComa.label>
   <!-- EN: A form of benign coma during which the brain recovers from a psychic overload. -->
-  <PsychicComa.description>TODO</PsychicComa.description>
+  <PsychicComa.description>Tarlaíonn an cóma neamhurchóideach seo nuair a thagann ró-ualach síceach ar an inchinn.</PsychicComa.description>
   <!-- EN: a psychic coma -->
-  <PsychicComa.labelNoun>TODO</PsychicComa.labelNoun>
+  <PsychicComa.labelNoun>cóma síceach</PsychicComa.labelNoun>
   
   <!-- EN: psychic hangover -->
-  <PsychicHangover.label>TODO</PsychicHangover.label>
+  <PsychicHangover.label>póit shíceach</PsychicHangover.label>
   <!-- EN: An after-effect of neural heat. Psychic hangover is bothersome, but not dangerous. -->
-  <PsychicHangover.description>TODO</PsychicHangover.description>
+  <PsychicHangover.description>Tarlaíonn póit shíceach nuair a bhíonn cuid mhór fuinnimh síceach san inchinn. Tá sé míchompordach, ach níl sé dáinséarach.</PsychicHangover.description>
   <!-- EN: a psychic hangover -->
-  <PsychicHangover.labelNoun>TODO</PsychicHangover.labelNoun>
+  <PsychicHangover.labelNoun>póit shíceach</PsychicHangover.labelNoun>
   <!-- EN: forming -->
-  <PsychicHangover.stages.forming.label>TODO</PsychicHangover.stages.forming.label>
+  <PsychicHangover.stages.forming.label>ag forbairt</PsychicHangover.stages.forming.label>
   <!-- EN: buzzing -->
-  <PsychicHangover.stages.buzzing.label>TODO</PsychicHangover.stages.buzzing.label>
+  <PsychicHangover.stages.buzzing.label>ag dordán</PsychicHangover.stages.buzzing.label>
   
   <!-- EN: psychic invisibility -->
-  <PsychicInvisibility.label>invisibilité psychique</PsychicInvisibility.label>
+  <PsychicInvisibility.label>dofheictheacht shíceach</PsychicInvisibility.label>
   <!-- EN: Psychically-induced invisibility. This actually affects others nearby, making their brains unable to perceive the sight of this individual, even if the eyes are unaffected. -->
-  <PsychicInvisibility.description>Invisibilité induite psychiquement. Dans la pratique cela affecte les personnes se trouvant à proximité, ce qui rend leur cerveau incapable de percevoir cet individu, même si les yeux ne sont pas affectés.</PsychicInvisibility.description>
+  <PsychicInvisibility.description>Dofheictheacht ar cumhachtaí síceacha is cúis léi. Níl daoine eile in ann an duine seo a fheiceáil.</PsychicInvisibility.description>
   
   <!-- EN: psychic shock -->
-  <PsychicShock.label>TODO</PsychicShock.label>
+  <PsychicShock.label>suaitheadh síceach</PsychicShock.label>
   <!-- EN: A state of psychic chaos in the brain and mind. Caused by psychic attacks or critical level of neural heat, this effect is debilitating until it wears off. -->
-  <PsychicShock.description>TODO</PsychicShock.description>
+  <PsychicShock.description>Suaitheadh inchinne ar ionsuithe síceacha is cúis leis. Beidh an t-othar iomlán éagumasaithe go dtí go dtiocfaidh deireadh leis an suaitheadh.</PsychicShock.description>
   <!-- EN: a psychic shock -->
-  <PsychicShock.labelNoun>TODO</PsychicShock.labelNoun>
+  <PsychicShock.labelNoun>suaitheadh síceach</PsychicShock.labelNoun>
   
   <!-- EN: resurrection sickness -->
-  <ResurrectionSickness.label>TODO</ResurrectionSickness.label>
+  <ResurrectionSickness.label>tinneas aiséirithe</ResurrectionSickness.label>
   <!-- EN: After-effects of resurrection. Artificially-restarted body processes take time to rebalance themselves. -->
-  <ResurrectionSickness.description>TODO</ResurrectionSickness.description>
+  <ResurrectionSickness.description>Tógann sé tamall ar phróisis an choirp atosú nuair a chuirtear tús leo arís go saorga.</ResurrectionSickness.description>
   
   <!-- EN: toxic buildup -->
-  <ToxicBuildup.label>TODO</ToxicBuildup.label>
+  <ToxicBuildup.label>tinneas tocsaineach</ToxicBuildup.label>
   <!-- EN: Poison in the bloodstream. This can come from various sources, including environmental toxins, venomous bites, or poisoned weapons.\n\nAt high doses, toxic buildup is lethal. Even at low doses, it can generate cancers.\n\nIf a creature dies with toxic buildup, there's a chance that they cannot be eaten. The higher the toxic buildup, the higher the chance. -->
-  <ToxicBuildup.description>TODO</ToxicBuildup.description>
+  <ToxicBuildup.description>Nimh san fhuil. Bíonn go leor cúiseanna le tinneas tocsaineach, ar nós tocsainií san atmaisféar, ainmhithe nimhe nó airm nimhithe.\n\nBíonn tinneas tocsaineach marfach, agus uaireanta bíonn sé ina chúis le hailte nó tinnis eile.\n\nMá fhaigheann ainmhí bás ón tinneas tocsaineach, b'fhearr gan é a ithe.</ToxicBuildup.description>
   <!-- EN: {PAWN_nameDef} is showing early signs of toxic buildup. Keep {PAWN_objective} away from sources of toxins. -->
-  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>Tá siomptóim an tinnis thocsainigh ag teacht ar {PAWN_nameDef}. B'fhearr {PAWN_nameDef} a choinneáil amach ó aon tocsainí.</ToxicBuildup.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-0.label>TODO</ToxicBuildup.stages.initial-0.label>
+  <ToxicBuildup.stages.initial-0.label>ag tosú</ToxicBuildup.stages.initial-0.label>
   <!-- EN: initial -->
-  <ToxicBuildup.stages.initial-1.label>TODO</ToxicBuildup.stages.initial-1.label>
+  <ToxicBuildup.stages.initial-1.label>ag tosú</ToxicBuildup.stages.initial-1.label>
   <!-- EN: minor -->
-  <ToxicBuildup.stages.minor.label>TODO</ToxicBuildup.stages.minor.label>
+  <ToxicBuildup.stages.minor.label>íseal</ToxicBuildup.stages.minor.label>
   <!-- EN: moderate -->
-  <ToxicBuildup.stages.moderate.label>TODO</ToxicBuildup.stages.moderate.label>
+  <ToxicBuildup.stages.moderate.label>meánach</ToxicBuildup.stages.moderate.label>
   <!-- EN: serious -->
-  <ToxicBuildup.stages.serious.label>TODO</ToxicBuildup.stages.serious.label>
+  <ToxicBuildup.stages.serious.label>ard</ToxicBuildup.stages.serious.label>
   <!-- EN: extreme -->
-  <ToxicBuildup.stages.extreme.label>TODO</ToxicBuildup.stages.extreme.label>
+  <ToxicBuildup.stages.extreme.label>tromchúiseach</ToxicBuildup.stages.extreme.label>
   
 </LanguageData>
