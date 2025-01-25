@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: heatstroke -->
-  <Heatstroke.label>TODO</Heatstroke.label>
+  <Heatstroke.label>stróc teasa</Heatstroke.label>
   <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
-  <Heatstroke.description>TODO</Heatstroke.description>
+  <Heatstroke.description>Tagann stróc teasa ar an gcorp mar gheall ar neamhchosaint ar theocht an-ard nó ar an ngrian ar feadh tamall fada. Tagann mearbhall agus laige ar an othar. Gheobhaidh an t-othar bás má leantar leis an neamhchosaint ar an teas.</Heatstroke.description>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-0.label>TODO</Heatstroke.stages.initial-0.label>
+  <Heatstroke.stages.initial-0.label>tús</Heatstroke.stages.initial-0.label>
   <!-- EN: initial -->
-  <Heatstroke.stages.initial-1.label>TODO</Heatstroke.stages.initial-1.label>
+  <Heatstroke.stages.initial-1.label>tús</Heatstroke.stages.initial-1.label>
   <!-- EN: minor -->
-  <Heatstroke.stages.minor.label>TODO</Heatstroke.stages.minor.label>
+  <Heatstroke.stages.minor.label>íseal</Heatstroke.stages.minor.label>
   <!-- EN: serious -->
-  <Heatstroke.stages.serious.label>TODO</Heatstroke.stages.serious.label>
+  <Heatstroke.stages.serious.label>láidir</Heatstroke.stages.serious.label>
   <!-- EN: extreme -->
-  <Heatstroke.stages.extreme.label>TODO</Heatstroke.stages.extreme.label>
+  <Heatstroke.stages.extreme.label>tromchúiseach</Heatstroke.stages.extreme.label>
   
   <!-- EN: hypothermia -->
-  <Hypothermia.label>TODO</Hypothermia.label>
+  <Hypothermia.label>hipiteirme</Hypothermia.label>
   <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
-  <Hypothermia.description>TODO</Hypothermia.description>
+  <Hypothermia.description>Tagann hipiteirme ar an gcorp mar gheall ar nochtadh ar an bhfuacht. Gheobhaidh an t-othar bás mura gcoinnítear sa teas é. Is féidir hipiteirme a sheachaint le héadaí te.</Hypothermia.description>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-0.label>TODO</Hypothermia.stages.shivering-0.label>
+  <Hypothermia.stages.shivering-0.label>ag crith</Hypothermia.stages.shivering-0.label>
   <!-- EN: shivering -->
-  <Hypothermia.stages.shivering-1.label>TODO</Hypothermia.stages.shivering-1.label>
+  <Hypothermia.stages.shivering-1.label>ag crith</Hypothermia.stages.shivering-1.label>
   <!-- EN: minor -->
-  <Hypothermia.stages.minor.label>TODO</Hypothermia.stages.minor.label>
+  <Hypothermia.stages.minor.label>íseal</Hypothermia.stages.minor.label>
   <!-- EN: serious -->
-  <Hypothermia.stages.serious.label>TODO</Hypothermia.stages.serious.label>
+  <Hypothermia.stages.serious.label>láidir</Hypothermia.stages.serious.label>
   <!-- EN: extreme -->
-  <Hypothermia.stages.extreme.label>TODO</Hypothermia.stages.extreme.label>
+  <Hypothermia.stages.extreme.label>tromchúiseach</Hypothermia.stages.extreme.label>
   
   <!-- EN: hypothermic slowdown -->
-  <HypothermicSlowdown.label>TODO</HypothermicSlowdown.label>
+  <HypothermicSlowdown.label>moill hipiteirmeach</HypothermicSlowdown.label>
   <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
-  <HypothermicSlowdown.description>TODO</HypothermicSlowdown.description>
+  <HypothermicSlowdown.description>Staid bitheolaíoch speisialta a úsáideann ainmhithe áirithe chun maireachtáil i dteocht an-íseal. Cuirtear moill ar fheidhmeanna an choirp, ach ní dhéanann an fuacht aon damáiste. Deir eolaithe gurb ionann an mhoill hipiteirmeach agus geimhriúchán gan chodladh.</HypothermicSlowdown.description>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-0.label>TODO</HypothermicSlowdown.stages.minor-0.label>
+  <HypothermicSlowdown.stages.minor-0.label>íseal</HypothermicSlowdown.stages.minor-0.label>
   <!-- EN: minor -->
-  <HypothermicSlowdown.stages.minor-1.label>TODO</HypothermicSlowdown.stages.minor-1.label>
+  <HypothermicSlowdown.stages.minor-1.label>íseal</HypothermicSlowdown.stages.minor-1.label>
   <!-- EN: moderate -->
-  <HypothermicSlowdown.stages.moderate.label>TODO</HypothermicSlowdown.stages.moderate.label>
+  <HypothermicSlowdown.stages.moderate.label>meánach</HypothermicSlowdown.stages.moderate.label>
   <!-- EN: serious -->
-  <HypothermicSlowdown.stages.serious.label>TODO</HypothermicSlowdown.stages.serious.label>
+  <HypothermicSlowdown.stages.serious.label>ard</HypothermicSlowdown.stages.serious.label>
   <!-- EN: extreme -->
-  <HypothermicSlowdown.stages.extreme.label>TODO</HypothermicSlowdown.stages.extreme.label>
+  <HypothermicSlowdown.stages.extreme.label>tromchúiseach</HypothermicSlowdown.stages.extreme.label>
   
 </LanguageData>

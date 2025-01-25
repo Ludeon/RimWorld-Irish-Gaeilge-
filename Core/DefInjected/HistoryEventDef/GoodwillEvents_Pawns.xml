@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: attacked member -->
-  <AttackedMember.label>ionsaíodh duine</AttackedMember.label>
+  <AttackedMember.label>ionsaíodh duine ónár bhfaicsean</AttackedMember.label>
   
   <!-- EN: tended to member -->
-  <FriendlyExitedMapTended.label>TODO</FriendlyExitedMapTended.label>
+  <FriendlyExitedMapTended.label>tugadh cúram leighis do dhuine ónár bhfaicsean</FriendlyExitedMapTended.label>
   
   <!-- EN: guilty prisoner died -->
-  <GuiltyPrisonerDied.label>básaíodh príosúnach ciontach</GuiltyPrisonerDied.label>
+  <GuiltyPrisonerDied.label>maraíodh príosúnach ciontach ónár bhfaicsean</GuiltyPrisonerDied.label>
   
   <!-- EN: innocent prisoner died -->
-  <InnocentPrisonerDied.label>básaíodh príosúnach neamhchiontach</InnocentPrisonerDied.label>
+  <InnocentPrisonerDied.label>maraíodh príosúnach neamhchiontach ónár bhfaicsean</InnocentPrisonerDied.label>
   
   <!-- EN: member captured -->
-  <MemberCaptured.label>gabhadh coilíneach</MemberCaptured.label>
+  <MemberCaptured.label>gabhadh duine ónár bhfaicsean</MemberCaptured.label>
   
   <!-- EN: member crushed -->
-  <MemberCrushed.label>brúisceadh coilíneach</MemberCrushed.label>
+  <MemberCrushed.label>brúisceadh duine ónár bhfaicsean</MemberCrushed.label>
   
   <!-- EN: member exited map healthy -->
-  <MemberExitedMapHealthy.label>d'imigh coilíneach ón mapa gan ghortú</MemberExitedMapHealthy.label>
+  <MemberExitedMapHealthy.label>d'imigh duine ónár bhfaicsean ón léarscáil gan ghortú</MemberExitedMapHealthy.label>
   
   <!-- EN: member killed -->
-  <MemberKilled.label>maraíodh coilíneach</MemberKilled.label>
+  <MemberKilled.label>maraíodh duine ónár bhfaicsean</MemberKilled.label>
   
   <!-- EN: member died -->
-  <MemberNeutrallyDied.label>básaíodh coilíneach</MemberNeutrallyDied.label>
+  <MemberNeutrallyDied.label>maraíodh duine ónár bhfaicsean</MemberNeutrallyDied.label>
   
   <!-- EN: member sold -->
-  <MemberSold.label>díoladh coilíneach</MemberSold.label>
+  <MemberSold.label>díoladh duine ónár bhfaicsean</MemberSold.label>
   
   <!-- EN: member stripped -->
-  <MemberStripped.label>baineadh éadaí de choilíneach</MemberStripped.label>
+  <MemberStripped.label>baineadh éadaí de dhuine ónár bhfaicsean</MemberStripped.label>
   
   <!-- EN: harmful surgery on member -->
-  <PerformedHarmfulSurgery.label>rinneadh obráid dhíobhálach ar choilíneach</PerformedHarmfulSurgery.label>
+  <PerformedHarmfulSurgery.label>rinneadh obráid dhíobhálach ar dhuine ónár bhfaicsean</PerformedHarmfulSurgery.label>
   
   <!-- EN: prisoner died -->
-  <PrisonerDied.label>básaíodh príosúnach</PrisonerDied.label>
+  <PrisonerDied.label>maraíodh príosúnach ónár bhfaicsean</PrisonerDied.label>
   
   <!-- EN: harmed member -->
-  <UsedHarmfulItem.label>gortaíodh coilíneach</UsedHarmfulItem.label>
+  <UsedHarmfulItem.label>gortaíodh duine ónár bhfaicsean</UsedHarmfulItem.label>
   
   <!-- EN: member's xenogerm absorbed -->
-  <XenogermAbsorbed.label>ionsúdh xéini-geirm coilíneach eile</XenogermAbsorbed.label>
+  <XenogermAbsorbed.label>ionsúdh xéini-geirm duine ónár bhfaicsean</XenogermAbsorbed.label>
   
 </LanguageData>

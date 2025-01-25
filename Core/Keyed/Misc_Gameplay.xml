@@ -379,7 +379,7 @@
   <!-- EN: {0} in winter -->
   <MovementDifficultyOffsetInWinter>{0} sa Gheimhreadh</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
-  <RangeTo>chun</RangeTo>
+  <RangeTo>go</RangeTo>
   <!-- EN: No letter -->
   <NoDietCategoryLetter>gan litir</NoDietCategoryLetter>
   <!-- EN: expires in -->

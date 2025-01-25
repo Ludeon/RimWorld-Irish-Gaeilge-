@@ -2,7 +2,40 @@
 <LanguageData>
   
   <!-- EN: try to get to know -->
-  <BuildRapport.label>TODO</BuildRapport.label>
+  <BuildRapport.label><li>r_logentry->D'inis [INITIATOR_nameDef] [toldastoryabout] [subject] le [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Labhair [INITIATOR_nameDef] le [RECIPIENT_nameDef] [subject].</li>
+    <li>r_logentry->Bhí díospóireacht ag [INITIATOR_nameDef] [subject] le [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Mhol [INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->scéal</li>
+    <li>toldastoryabout->scéal greannmhar</li>
+    <li>toldastoryabout->scéal brónach</li>
+    <li>toldastoryabout->seanscéal</li>
+    <li>toldastoryabout->an seanscéal céanna</li>
+    <li>toldastoryabout->scéal do leanaí</li>
+    <li>toldastoryabout->scéilín</li>
+    <li>talkabout->labhairt</li>
+    <li>talkabout->caint</li>
+    <li>talkabout->smaoineamh</li>
+    <li>talkabout->labhairt</li>
+    <li>talkabout->caint</li>
+    <li>talkabout->labhairt</li>
+    <li>subject->faoin gcoilíneacht</li>
+    <li>subject->faoin bpobal</li>
+    <li>subject->maidir le dul leis an gcoilíneacht</li>
+    <li>subject->maidir le dul le foireann eile</li>
+    <li>subject->faoi chairde nua</li>
+    <li>subject->faoi bhualadh le daoine eile</li>
+    <li>subject->maidir le glacadh le smaointe nua</li>
+    <li>subject->maidir le machnamh a dhéanamh</li>
+    <li>subject->faoi chúrsaí sláinte</li>
+    <li>subject->faoin todhchaí</li>
+    <li>subject->maidir le scaoileadh leis an seansaol</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li></BuildRapport.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>

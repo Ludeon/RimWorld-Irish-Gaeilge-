@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: colonist mood -->
-  <ColonistMood.label>TODO</ColonistMood.label>
+  <ColonistMood.label>giúmar</ColonistMood.label>
   
   <!-- EN: debug -->
-  <Debug.label>TODO</Debug.label>
+  <Debug.label>debug</Debug.label>
   
   <!-- EN: population -->
-  <Population.label>TODO</Population.label>
+  <Population.label>daonra</Population.label>
   
   <!-- EN: wealth -->
-  <Wealth.label>TODO</Wealth.label>
+  <Wealth.label>saibhreas</Wealth.label>
   
 </LanguageData>

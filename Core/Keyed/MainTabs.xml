@@ -93,31 +93,31 @@
   
   <!-- Factions tab -->
   <!-- EN: Hostile -->
-  <Hostile>Feindlich</Hostile>
+  <Hostile>Naimhdeach</Hostile>
   <!-- EN: Ally -->
-  <Ally>Verbündet</Ally>
+  <Ally>Cairdiúil</Ally>
   <!-- EN: hostile -->
-  <HostileLower>feindlich</HostileLower>
+  <HostileLower>naimhdeach</HostileLower>
   <!-- EN: ally -->
-  <AllyLower>verbündet</AllyLower>
+  <AllyLower>cairdiúil</AllyLower>
   <!-- EN: defeated -->
-  <DefeatedLower>besiegt</DefeatedLower>
+  <DefeatedLower>scriosta</DefeatedLower>
   <!-- EN: Enemy of {0} -->
-  <HostileTo>Feindlich zu {0}</HostileTo>
+  <HostileTo>Naimhde: {0}</HostileTo>
   <!-- EN: Enemy of:  -->
-  <EnemyOf>Feind von:</EnemyOf>
+  <EnemyOf>Naimhde:</EnemyOf>
   <!-- EN: Recent events -->
-  <RecentEvents>Kürzliche Ereignisse</RecentEvents>
+  <RecentEvents>Eachtraí le déanaí:</RecentEvents>
   <!-- EN: Ongoing events -->
-  <OngoingEvents>Laufende Ereignisse</OngoingEvents>
+  <OngoingEvents>Eachtraí faoi láthair:</OngoingEvents>
   <!-- EN: This faction is permanently hostile. They will raid your settlements and caravans. Relations with them will never improve for any reason. -->
-  <CurrentGoodwillTip_PermanentEnemy>Diese Fraktion ist permanent feindlich. Sie wird deine Siedlungen und Karawanen überfallen. Dein Ruf bei ihr wird sich nie verbessern.</CurrentGoodwillTip_PermanentEnemy>
+  <CurrentGoodwillTip_PermanentEnemy>Beidh an faicsean seo naimhdeach i gcónaí. Ionsóidh siad do choilíneacht agus do charbháin, agus ní thiocfaidh feabhas ar do chaidreamh leo riamh.</CurrentGoodwillTip_PermanentEnemy>
   <!-- EN: This faction is allied. They will send fighters to help you when they can. If relations fall below {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Ally>Diese Fraktion ist ein Verbündeter. Wenn sie kann, entsendet sie Kämpfer, um dich im Kampf zu unterstützen. Fällt der Ruf unter {0}, wird sie neutral.</CurrentGoodwillTip_Ally>
+  <CurrentGoodwillTip_Ally>Tá an faicsean seo cairdiúil. Cuirfidh siad trodaithe chugat le cuidiú leat, nuair is féidir. Má thiteann an caidreamh faoi {0}, beidh siad neodrach.</CurrentGoodwillTip_Ally>
   <!-- EN: This faction is neutral. They will trade and talk with you freely. If relations fall below {0}, they will become hostile. If relations rise above {1}, they will become allied and start actively working to help you. -->
-  <CurrentGoodwillTip_Neutral>Diese Fraktion ist neutral. Sie ist offen für Handel und Gespräche. Fällt der Ruf unter {0}, wird sie feindlich. Steigt der Ruf über {1}, wird sie zum Verbündeten und versucht, dir aktiv zu helfen.</CurrentGoodwillTip_Neutral>
+  <CurrentGoodwillTip_Neutral>Tá an faicsean seo neodrach. Beidh siad sásta trádáil leat nó labhairt leat. Má thiteann an caidreamh faoi {0}, beidh siad naimhdeach. Má ardaíonn an caidreamh os cionn {1}, beidh siad cairdiúil agus cuideoidh siad leat.</CurrentGoodwillTip_Neutral>
   <!-- EN: This faction is hostile. They will raid your settlements and caravans. If relations rise above {0}, they will become neutral. -->
-  <CurrentGoodwillTip_Hostile>Diese Fraktion ist feindlich. Sie wird deine Siedlungen und Karawanen überfallen. Steigt der Ruf über {0}, wird sie neutral.</CurrentGoodwillTip_Hostile>
+  <CurrentGoodwillTip_Hostile>Tá an faicsean seo naimhdeach. Ionsóidh siad do choilíneacht agus do charbháin. Má ardaíonn an caidreamh os cionn {0}, beidh siad neodrach.</CurrentGoodwillTip_Hostile>
 
   <!-- Social tab -->
   <!-- EN: Friend -->

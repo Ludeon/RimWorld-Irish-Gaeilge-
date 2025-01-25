@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: recovery -->
-  <Adaptation.label>TODO</Adaptation.label>
+  <Adaptation.label>téarnamh</Adaptation.label>
   <!-- EN: {0} days -->
-  <Adaptation.valueFormat>TODO</Adaptation.valueFormat>
+  <Adaptation.valueFormat>{0} lá</Adaptation.valueFormat>
   
   <!-- EN: mood -->
-  <ColonistMood.label>TODO</ColonistMood.label>
+  <ColonistMood.label>giúmar</ColonistMood.label>
   
   <!-- EN: free colonists -->
-  <FreeColonists.label>TODO</FreeColonists.label>
+  <FreeColonists.label>coilínigh dímhaoin</FreeColonists.label>
   
   <!-- EN: pop recovery -->
   <PopAdaptation.label>TODO</PopAdaptation.label>
@@ -23,23 +23,23 @@
   <PopIntent.valueFormat>TODO</PopIntent.valueFormat>
   
   <!-- EN: prisoners -->
-  <Prisoners.label>TODO</Prisoners.label>
+  <Prisoners.label>príosúnaigh</Prisoners.label>
   
   <!-- EN: fun points /10 -->
-  <ThreatPoints.label>TODO</ThreatPoints.label>
+  <ThreatPoints.label>pointí siamsaíochta /10</ThreatPoints.label>
   <!-- EN: {0} points -->
-  <ThreatPoints.valueFormat>TODO</ThreatPoints.valueFormat>
+  <ThreatPoints.valueFormat>{0} pointe</ThreatPoints.valueFormat>
   
   <!-- EN: wealth (buildings) -->
-  <Wealth_Buildings.label>TODO</Wealth_Buildings.label>
+  <Wealth_Buildings.label>saibhreas (foirgnimh)</Wealth_Buildings.label>
   
   <!-- EN: wealth (items) -->
-  <Wealth_Items.label>TODO</Wealth_Items.label>
+  <Wealth_Items.label>saibhreas (earraí)</Wealth_Items.label>
   
   <!-- EN: wealth (creatures) -->
-  <Wealth_Pawns.label>TODO</Wealth_Pawns.label>
+  <Wealth_Pawns.label>saibhreas (ainmhithe)</Wealth_Pawns.label>
   
   <!-- EN: wealth (total) -->
-  <Wealth_Total.label>TODO</Wealth_Total.label>
+  <Wealth_Total.label>saibhreas (iomlán)</Wealth_Total.label>
   
 </LanguageData>

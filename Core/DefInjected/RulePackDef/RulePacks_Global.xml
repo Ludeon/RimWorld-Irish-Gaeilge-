@@ -59,18 +59,18 @@
     <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
-    <li>TalkTopicLight->[Vegetable]s</li>
-    <li>TalkTopicLight->eating [Vegetable]s</li>
-    <li>TalkTopicLight->cooking with [Vegetable]s</li>
-    <li>TalkTopicLight->[Game]</li>
-    <li>TalkTopicLight->playing [Game]</li>
-    <li>TalkTopicLight->practicing [Game]</li>
-    <li>TalkTopicLight->learning [Game]</li>
-    <li>TalkTopicLight->[Animal]s</li>
-    <li>TalkTopicLight->training [Animal]s</li>
-    <li>TalkTopicLight->taming [Animal]s</li>
-    <li>TalkTopicLight->fighting [Animal]s</li>
-    <li>TalkTopicLight->crazy [Animal]s</li>
+    <li>TalkTopicLight->faoi ghlasraí</li>
+    <li>TalkTopicLight->faoi ghlasraí a ithe</li>
+    <li>TalkTopicLight->faoin gcócaireacht</li>
+    <li>TalkTopicLight->faoi [Game]</li>
+    <li>TalkTopicLight->faoi [Game] a imirt</li>
+    <li>TalkTopicLight->faoi [Game] a chleachtadh</li>
+    <li>TalkTopicLight->faoi [Game] a fhoghlaim</li>
+    <li>TalkTopicLight->faoi ainmhithe</li>
+    <li>TalkTopicLight->faoi ainmhithe a thraenáil</li>
+    <li>TalkTopicLight->faoi ainmhithe cheansú</li>
+    <li>TalkTopicLight->faoi throid le hainmhithe</li>
+    <li>TalkTopicLight->faoi ainmhithe dáinséaracha</li>
     <li>TalkTopicLight->[Weapon]s</li>
     <li>TalkTopicLight->using [Weapon]s</li>
     <li>TalkTopicLight->practicing with [Weapon]s</li>
@@ -85,10 +85,10 @@
     <li>TalkTopicLight->[Apparel]s</li>
     <li>TalkTopicLight->wearing [Apparel]s</li>
     <li>TalkTopicLight->making [Apparel]s</li>
-    <li>talktopicheavyfile(p=0.15)->sex</li>
-    <li>talktopicheavyfile(p=0.15)->seduction</li>
-    <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
-    <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
+    <li>talktopicheavyfile(p=0.15)->faoi chúrsaí collaigh</li>
+    <li>talktopicheavyfile(p=0.15)->faoin gcliúsaíocht</li>
+    <li>talktopicheavyfile(p=0.15)->faoin gcollaíocht</li>
+    <li>talktopicheavyfile(p=0.15)->faoin drúisiúlacht</li>
     </GlobalUtility.rulePack.rulesStrings>
 
   <!-- EN:
