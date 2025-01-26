@@ -56,7 +56,7 @@
   <BookEffects.label>TODO</BookEffects.label>
   
   <!-- EN: books -->
-  <Books.label>TODO</Books.label>
+  <Books.label>leabhair</Books.label>
   
   <!-- EN: buildings -->
   <Buildings.label>foirgnimh</Buildings.label>
@@ -77,147 +77,147 @@
   <BuildingsPower.label>cumhacht</BuildingsPower.label>
   
   <!-- EN: production -->
-  <BuildingsProduction.label>TODO</BuildingsProduction.label>
+  <BuildingsProduction.label>déantúsaíocht</BuildingsProduction.label>
   
   <!-- EN: security -->
-  <BuildingsSecurity.label>TODO</BuildingsSecurity.label>
+  <BuildingsSecurity.label>slándáil</BuildingsSecurity.label>
   
   <!-- EN: special -->
-  <BuildingsSpecial.label>TODO</BuildingsSpecial.label>
+  <BuildingsSpecial.label>speisialta</BuildingsSpecial.label>
   
   <!-- EN: temperature -->
-  <BuildingsTemperature.label>TODO</BuildingsTemperature.label>
+  <BuildingsTemperature.label>teocht</BuildingsTemperature.label>
   
   <!-- EN: chunks -->
-  <Chunks.label>TODO</Chunks.label>
+  <Chunks.label>leadhbanna</Chunks.label>
   
   <!-- EN: corpses -->
-  <Corpses.label>TODO</Corpses.label>
+  <Corpses.label>corpáin</Corpses.label>
   
   <!-- EN: animal corpses -->
-  <CorpsesAnimal.label>TODO</CorpsesAnimal.label>
+  <CorpsesAnimal.label>corpáin ainmhithe</CorpsesAnimal.label>
   
   <!-- EN: humanlike corpses -->
-  <CorpsesHumanlike.label>TODO</CorpsesHumanlike.label>
+  <CorpsesHumanlike.label>corpáin dhaonna</CorpsesHumanlike.label>
   
   <!-- EN: insect corpses -->
-  <CorpsesInsect.label>TODO</CorpsesInsect.label>
+  <CorpsesInsect.label>corpáin feithidí</CorpsesInsect.label>
   
   <!-- EN: mechanoid corpses -->
-  <CorpsesMechanoid.label>TODO</CorpsesMechanoid.label>
+  <CorpsesMechanoid.label>corpáin meicea-róbat</CorpsesMechanoid.label>
   
   <!-- EN: drugs -->
-  <Drugs.label>TODO</Drugs.label>
+  <Drugs.label>drugaí</Drugs.label>
   
   <!-- EN: eggs (fert.) -->
-  <EggsFertilized.label>TODO</EggsFertilized.label>
+  <EggsFertilized.label>uibheacha (toirch.)</EggsFertilized.label>
   
   <!-- EN: eggs (unfert.) -->
-  <EggsUnfertilized.label>TODO</EggsUnfertilized.label>
+  <EggsUnfertilized.label>uibheacha (neamh-thoirch.)</EggsUnfertilized.label>
   
   <!-- EN: meals -->
-  <FoodMeals.label>TODO</FoodMeals.label>
+  <FoodMeals.label>béilí</FoodMeals.label>
   
   <!-- EN: raw food -->
-  <FoodRaw.label>TODO</FoodRaw.label>
+  <FoodRaw.label>bia amh</FoodRaw.label>
   
   <!-- EN: foods -->
-  <Foods.label>TODO</Foods.label>
+  <Foods.label>bia</Foods.label>
   
   <!-- EN: grenades -->
-  <Grenades.label>TODO</Grenades.label>
+  <Grenades.label>gránáidí</Grenades.label>
   
   <!-- EN: headgear -->
-  <Headgear.label>TODO</Headgear.label>
+  <Headgear.label>ceannbheart</Headgear.label>
   
   <!-- EN: headgear -->
-  <HeadgearNoble.label>TODO</HeadgearNoble.label>
+  <HeadgearNoble.label>ceannbheart</HeadgearNoble.label>
   
   <!-- EN: inert relics -->
-  <InertRelics.label>TODO</InertRelics.label>
+  <InertRelics.label>seaniarsmaí</InertRelics.label>
   
   <!-- EN: items -->
-  <Items.label>TODO</Items.label>
+  <Items.label>earraí</Items.label>
   
   <!-- EN: misc -->
-  <ItemsMisc.label>TODO</ItemsMisc.label>
+  <ItemsMisc.label>eile</ItemsMisc.label>
   
   <!-- EN: leathers -->
-  <Leathers.label>TODO</Leathers.label>
+  <Leathers.label>leathar</Leathers.label>
   
   <!-- EN: manufactured -->
-  <Manufactured.label>TODO</Manufactured.label>
+  <Manufactured.label>déantúsaíocht</Manufactured.label>
   
   <!-- EN: meat -->
-  <MeatRaw.label>TODO</MeatRaw.label>
+  <MeatRaw.label>feoil</MeatRaw.label>
   
   <!-- EN: medicine -->
-  <Medicine.label>TODO</Medicine.label>
+  <Medicine.label>leigheas</Medicine.label>
   
   <!-- EN: mortar shells -->
-  <MortarShells.label>TODO</MortarShells.label>
+  <MortarShells.label>sliogáin</MortarShells.label>
   
   <!-- EN: neurotrainers -->
-  <Neurotrainers.label>TODO</Neurotrainers.label>
+  <Neurotrainers.label>néaratraenálaithe</Neurotrainers.label>
   
   <!-- EN: psytrainers -->
-  <NeurotrainersPsycast.label>TODO</NeurotrainersPsycast.label>
+  <NeurotrainersPsycast.label>síceatraenálaithe</NeurotrainersPsycast.label>
   
   <!-- EN: skilltrainers -->
-  <NeurotrainersSkill.label>TODO</NeurotrainersSkill.label>
+  <NeurotrainersSkill.label>sciltraenálaithe</NeurotrainersSkill.label>
   
   <!-- EN: vegetarian -->
-  <PlantFoodRaw.label>TODO</PlantFoodRaw.label>
+  <PlantFoodRaw.label>feoilséantach</PlantFoodRaw.label>
   
   <!-- EN: plant matter -->
-  <PlantMatter.label>TODO</PlantMatter.label>
+  <PlantMatter.label>ábhar plandaí</PlantMatter.label>
   
   <!-- EN: plants -->
-  <Plants.label>TODO</Plants.label>
+  <Plants.label>plandaí</Plants.label>
   
   <!-- EN: research -->
-  <ResearchGain.label>TODO</ResearchGain.label>
+  <ResearchGain.label>taighde</ResearchGain.label>
   
   <!-- EN: raw resources -->
-  <ResourcesRaw.label>TODO</ResourcesRaw.label>
+  <ResourcesRaw.label>amhábhar</ResourcesRaw.label>
   
   <!-- EN: root -->
-  <Root.label>TODO</Root.label>
+  <Root.label>fréamh</Root.label>
   
   <!-- EN: skill gain -->
-  <SkillGain.label>TODO</SkillGain.label>
+  <SkillGain.label>scileanna</SkillGain.label>
   
   <!-- EN: stone blocks -->
-  <StoneBlocks.label>TODO</StoneBlocks.label>
+  <StoneBlocks.label>bloic chloiche</StoneBlocks.label>
   
   <!-- EN: stone chunks -->
-  <StoneChunks.label>TODO</StoneChunks.label>
+  <StoneChunks.label>leadhbanna cloiche</StoneChunks.label>
   
   <!-- EN: stumps -->
-  <Stumps.label>TODO</Stumps.label>
+  <Stumps.label>stumpaí</Stumps.label>
   
   <!-- EN: techprints -->
-  <Techprints.label>TODO</Techprints.label>
+  <Techprints.label>teic-phriontaí</Techprints.label>
   
   <!-- EN: textiles -->
-  <Textiles.label>TODO</Textiles.label>
+  <Textiles.label>teicstílí</Textiles.label>
   
   <!-- EN: unfinished -->
-  <Unfinished.label>TODO</Unfinished.label>
+  <Unfinished.label>neamhchríochnaithe</Unfinished.label>
   
   <!-- EN: weapons -->
-  <Weapons.label>TODO</Weapons.label>
+  <Weapons.label>airm</Weapons.label>
   
   <!-- EN: melee weapons -->
-  <WeaponsMelee.label>TODO</WeaponsMelee.label>
+  <WeaponsMelee.label>airm melee</WeaponsMelee.label>
   
   <!-- EN: persona weapons -->
-  <WeaponsMeleeBladelink.label>TODO</WeaponsMeleeBladelink.label>
+  <WeaponsMeleeBladelink.label>airm IS</WeaponsMeleeBladelink.label>
   
   <!-- EN: ranged weapons -->
-  <WeaponsRanged.label>TODO</WeaponsRanged.label>
+  <WeaponsRanged.label>airm fadraoin</WeaponsRanged.label>
   
   <!-- EN: wools -->
-  <Wools.label>TODO</Wools.label>
+  <Wools.label>olann</Wools.label>
   
 </LanguageData>

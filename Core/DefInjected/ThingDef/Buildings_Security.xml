@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: barricade -->
-  <Barricade.label>TODO</Barricade.label>
+  <Barricade.label>baracáid</Barricade.label>
   <!-- EN: A waist-high barrier for use as cover from incoming shots. Barricades are ugly, but provide better cover than other low objects. Barricades will block certain kinds of animals the same way that fences do. -->
-  <Barricade.description>TODO</Barricade.description>
+  <Barricade.description>Baracáid ar airde na coime. Is féidir í a úsáid mar chosaint ar urchair. Níl cuma ródheas ar bharacáidí, ach tugann siad cosaint mhaith i gcomparáid le struchtúir eile. Cuirfidh baracáidí cosc ar ainmhithe áirithe, mar a dhéanann sconsaí.</Barricade.description>
   
   <!-- EN: sandbags -->
-  <Sandbags.label>TODO</Sandbags.label>
+  <Sandbags.label>málaí gainimh</Sandbags.label>
   <!-- EN: Bags of locally-sourced dirt or sand, stacked for use as cover. Sandbags are ugly, but provide better cover than other low objects. -->
-  <Sandbags.description>TODO</Sandbags.description>
+  <Sandbags.description>Níl cuma ródheas ar mhálaí gainimh, ach tugann siad cosaint mhaith i gcomparáid le struchtúir eile.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
   <TrapIED_AntigrainWarhead.label>TODO</TrapIED_AntigrainWarhead.label>

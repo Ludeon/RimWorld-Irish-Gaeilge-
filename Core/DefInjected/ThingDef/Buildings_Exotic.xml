@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: ship part (defoliator) -->
-  <DefoliatorShipPart.label>TODO</DefoliatorShipPart.label>
+  <DefoliatorShipPart.label>comhpháirt spásloinge (dífhoraoiseoir)</DefoliatorShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a device which annihilates plant life near itself without directly affecting flesh creatures. These kinds of weapons are sometimes scattered across farmlands or forests to remove the enemy's food supply and hiding places without permanently ruining the territory. They're usually associated with orbital-drop mechanoid armies. -->
-  <DefoliatorShipPart.description>TODO</DefoliatorShipPart.description>
+  <DefoliatorShipPart.description>Baineadh an chomhpháirt ársa seo de spáslong.\n\nMaraíonn an gaireas seo plandaí agus crainn in aice láimhe, ach ní bhíonn aon tionchar aige ar ainmhithe ná ar dhaoine. Is minic go n-úsáidtear uirlisí den sórt seo i bhforaoisí nó ar fheirmeacha chun cur isteach ar an soláthar bia gan an ceantar iomlán a scriosadh.</DefoliatorShipPart.description>
   
   <!-- EN: ship part (psychic droner) -->
-  <PsychicDronerShipPart.label>TODO</PsychicDronerShipPart.label>
+  <PsychicDronerShipPart.label>comhpháirt spásloinge (bonnán síceach)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>TODO</PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>Baineadh an chomhpháirt ársa seo de spáslong.\n\nCruthaíonn an uirlis seo dordán síceach, a chuireann isteach ar ainmhithe agus daoine sa cheantar maguaird. </PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
-  <ShipChunk.label>TODO</ShipChunk.label>
+  <ShipChunk.label>leadhb spásloinge</ShipChunk.label>
   <!-- EN: A chunk of a spacecraft. It seems to have been torn off either by uncontrolled re-entry forces or some kind of weapon.\n\nHaving landed not long ago, it still contains useful resources which you can acquire by deconstructing it. -->
-  <ShipChunk.description>TODO</ShipChunk.description>
+  <ShipChunk.description>Stróiceadh an leadhb seo ó spáslong éigean.\n\nIs féidir an leadhb seo a bhriseadh síos chun acmhainní úsáideacha a fháil.</ShipChunk.description>
   
   <!-- EN: shuttle -->
-  <Shuttle.label>TODO</Shuttle.label>
+  <Shuttle.label>spástointealaí</Shuttle.label>
   <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <Shuttle.description>TODO</Shuttle.description>
+  <Shuttle.description>Spástointealaí nua-aimseartha a úsáidtear chun daoine agus rudaí a chur ar fithis.</Shuttle.description>
   
   <!-- EN: crashed shuttle -->
-  <ShuttleCrashed.label>TODO</ShuttleCrashed.label>
+  <ShuttleCrashed.label>spástointealaí craiseáilte</ShuttleCrashed.label>
   <!-- EN: A spacer-tech shuttle designed for transit between surface and orbit, or between moons of a planetary system. -->
-  <ShuttleCrashed.description>TODO</ShuttleCrashed.description>
+  <ShuttleCrashed.description>Spástointealaí nua-aimseartha a úsáidtear chun daoine agus rudaí a chur ar fithis.</ShuttleCrashed.description>
   
 </LanguageData>
