@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: high on go-juice -->
-  <GoJuiceHigh.stages.high_on_gojuice.label>TODO</GoJuiceHigh.stages.high_on_gojuice.label>
+  <GoJuiceHigh.stages.high_on_gojuice.label>ar siabhrán: sú fuinnimh</GoJuiceHigh.stages.high_on_gojuice.label>
   <!-- EN: I feel pumped but steady. I am the bullet in flight, ready to cut through you. -->
-  <GoJuiceHigh.stages.high_on_gojuice.description>TODO</GoJuiceHigh.stages.high_on_gojuice.description>
+  <GoJuiceHigh.stages.high_on_gojuice.description>Tá fuinnimh agam ach tá mé socair. Tá mé réidh le gluaiseacht ar nós na gaoithe.</GoJuiceHigh.stages.high_on_gojuice.description>
   
   <!-- EN: go-juice withdrawal -->
-  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>TODO</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.label>éirí as: sú fuinnimh</GoJuiceWithdrawal.stages.gojuice_withdrawal.label>
   <!-- EN: I'm all fuzzy and can't think straight. My limbs feel heavy, I'm tired and hungry, everything hurts. And why won't my eyes focus properly? -->
-  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>TODO</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
+  <GoJuiceWithdrawal.stages.gojuice_withdrawal.description>Tá mearbhall orm agus tá mo chuid smaointe ar fud na háite. Tá tuirse agus ocras orm, agus níl mé in ann díriú ar aon rud.</GoJuiceWithdrawal.stages.gojuice_withdrawal.description>
   
 </LanguageData>

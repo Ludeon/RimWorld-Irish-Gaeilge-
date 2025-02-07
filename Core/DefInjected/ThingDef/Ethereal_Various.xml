@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: blight -->
-  <Blight.label>TODO</Blight.label>
+  <Blight.label>smol</Blight.label>
   
   <!-- EN: explosion -->
-  <Explosion.label>TODO</Explosion.label>
+  <Explosion.label>pléascadh</Explosion.label>
   
   <!-- EN: flying -->
-  <PawnFlyer.label>TODO</PawnFlyer.label>
+  <PawnFlyer.label>ag eitilt</PawnFlyer.label>
   
   <!-- EN: disrupted soil -->
-  <PawnGroundSpawner.label>TODO</PawnGroundSpawner.label>
+  <PawnGroundSpawner.label>ithir scaoilte</PawnGroundSpawner.label>
   
   <!-- EN: proximity trigger -->
-  <RadialTrigger.label>TODO</RadialTrigger.label>
+  <RadialTrigger.label>braiteoir cóngarachta</RadialTrigger.label>
   
   <!-- EN: rect trigger -->
   <RectTrigger.label>TODO</RectTrigger.label>
   
   <!-- EN: tornado -->
-  <Tornado.label>TODO</Tornado.label>
+  <Tornado.label>tornádó</Tornado.label>
   
   <!-- EN: trigger container emptied -->
   <TriggerContainerEmptied.label>TODO</TriggerContainerEmptied.label>
@@ -29,6 +29,6 @@
   <TriggerUnfogged.label>TODO</TriggerUnfogged.label>
   
   <!-- EN: tunnel -->
-  <TunnelHiveSpawner.label>TODO</TunnelHiveSpawner.label>
+  <TunnelHiveSpawner.label>tollán</TunnelHiveSpawner.label>
   
 </LanguageData>
