@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: bridge -->
-  <Bridge.label>TODO</Bridge.label>
+  <Bridge.label>droichead</Bridge.label>
   <!-- EN: A flat wooden surface on supportive beams which can be built over water. You can build light structures on bridges, but be careful - bridges are fragile. If a bridge falls, buildings on top of it fall as well. -->
-  <Bridge.description>TODO</Bridge.description>
+  <Bridge.description>Is féidir an droichead seo a thógáil thar uisce, agus is féidir struchtúir éadroma a thógáil air. Bí cúramach - má scriostar droichead, scriosfar gach struchtúr atá tógtha air.</Bridge.description>
   
   <!-- EN: underwall -->
   <Underwall.label>TODO</Underwall.label>

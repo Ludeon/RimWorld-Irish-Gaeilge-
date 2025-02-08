@@ -4,7 +4,7 @@
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
   -->
-  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings><li>sent->Ghéill [RECIPIENT_nameDef] agus tá [RECIPIENT_nameDef] tar éis dul le pobal [INITIATOR_nameDef].</li></Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings><li>sent->Ghéill [RECIPIENT_nameDef] agus tá [RECIPIENT_nameDef] tar éis dul le coilíneacht [INITIATOR_nameDef].</li></Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] refused.</li>

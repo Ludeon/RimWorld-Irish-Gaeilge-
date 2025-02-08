@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: bridgeable -->
-  <Bridgeable.label>TODO</Bridgeable.label>
+  <Bridgeable.label>is féidir droichead a chur anseo</Bridgeable.label>
   
   <!-- EN: diggable -->
-  <Diggable.label>TODO</Diggable.label>
+  <Diggable.label>is féidir tochailt anseo</Diggable.label>
   
   <!-- EN: growable -->
-  <GrowSoil.label>TODO</GrowSoil.label>
+  <GrowSoil.label>is féidir plandaí a fhás anseo</GrowSoil.label>
   
   <!-- EN: heavy -->
-  <Heavy.label>TODO</Heavy.label>
+  <Heavy.label>trom</Heavy.label>
   
   <!-- EN: light -->
-  <Light.label>TODO</Light.label>
+  <Light.label>éadrom</Light.label>
   
   <!-- EN: medium -->
-  <Medium.label>TODO</Medium.label>
+  <Medium.label>meánach</Medium.label>
   
   <!-- EN: moving water -->
-  <MovingFluid.label>TODO</MovingFluid.label>
+  <MovingFluid.label>uisce atá ag gluaiseacht</MovingFluid.label>
   
   <!-- EN: shallow water -->
-  <ShallowWater.label>TODO</ShallowWater.label>
+  <ShallowWater.label>uisce éadhomhain</ShallowWater.label>
   
   <!-- EN: smoothable -->
-  <SmoothableStone.label>TODO</SmoothableStone.label>
+  <SmoothableStone.label>is féidir seo a dhéanamh mín</SmoothableStone.label>
   
 </LanguageData>

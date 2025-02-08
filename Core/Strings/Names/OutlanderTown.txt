@@ -60,7 +60,6 @@ An Baile Thíos
 Carraigíní Bhaile Uí Chadhain
 Baile Uí Luinneacháin
 An Baile Láir
-An Baile Láir
 Sruthán Bhaile an
 Mhóinín
 Baile na Buaile Glaise
@@ -110,7 +109,6 @@ Cara na Láibe
 Cuan Chara Bheag
 Carraig an Bhranda
 An Charraig Fhada
-An Charraig Fhada
 Carraig an Doireachta
 Dúleac
 Carraigeacha an tSín
@@ -147,8 +145,6 @@ An Charraig Liath
 Carraig Chloiche Báite
 Carraig Marian
 Carraig Mháirtín
-An Charraig Mhór
-An Charraig Mhór
 An Charraig Mhór
 Carraig na bPiseog
 Carraig na bPortán
@@ -237,7 +233,6 @@ An Charcair
 Carraigeacha Chorcaí
 Tulach na Reilige
 Oileán an Choirce
-Oileán an Choirce
 Cor na dTráchta
 Abhainn Chorr na Móna
 Dumhaigh Léireabháin
@@ -252,8 +247,6 @@ Coiscéim na gCailleach
 An Charraig Fhada
 Carraig na gCoileach
 Corrúch
-An Creachoileán
-An Creachoileán
 An Creachoileán
 Na Creaga Móra
 Creig na Leatan
@@ -308,7 +301,6 @@ Ceathrú an Lisín
 Glinn Chatha
 Na Doiriú Thuaidh
 Cluain Brón
-Cluain Brón
 Gleann Chóchan
 Doire Chrith
 An Léim Thiar
@@ -336,7 +328,6 @@ An Charraig Thoir
 Dúros
 Leitir Calaidh
 Leitir Móir
-Leitir Móir
 Fionasclainn
 Oileán an Aoil
 Tom na Sraithe
@@ -344,7 +335,6 @@ Cladhnach
 An Spidéal Thoir
 Doire Bhanbh
 An Cheathrú Gharbh
-Cluain Brón
 Cluain Brón
 Caladh an Chnoic
 Leitir Móir
@@ -354,23 +344,17 @@ An Cheathrú Gharbh
 Claídeach
 An Uillinn Thoir
 Doire na bhFlann
-Doire na bhFlann
-Doire na bhFlann
 Inis an Ghainimh
 Leitir Deiscirt
 An tArdán Thiar
 Fínis
 Inis Srathair
 An Turlach
-An Turlach
 Doire Iorrais
 An Turlach
 Maínis
 Oileán Máisean
 Eoghanacht
-Eoghanacht
-Eoghanacht
-Oileán Dá Bhranóg
 Oileán Dá Bhranóg
 Doire Bhanbh
 Both Loiscthe Íochtair
@@ -387,12 +371,9 @@ Leitir Mucú
 An Cartúr Leathan
 An Cheathrú Rua Thuaidh
 Leitir Mucú
-Leitir Mucú
 Leitir Péic
 Gleannán [T: Sailearna]
 Gleann Mhac Muirinn
-Seanadh Gharráin
-Seanadh Gharráin
 Seanadh Gharráin
 Caorán na gCearc Theas
 Barr an Doire
@@ -437,8 +418,6 @@ Camas Uachtair
 An Cheathrú Chaol
 Muiceanach Choille
 An Turlach
-Cnocán Raithní
-Cnocán Raithní
 Cnocán Raithní
 Cladhnach
 An tOileán Iarthach
@@ -489,7 +468,6 @@ Log an Tairbh
 Leitheanach Theas
 Inis Oírr
 Leamhchoill
-Leamhchoill
 Cill Mhuirbhigh
 Ceapach na gCapall
 Eochaill
@@ -498,7 +476,6 @@ Ceapach Chorcóige Thoir
 An Chloch Bhreac Uachtair
 Loch Conaortha
 Cruach na Cara
-Leitheanach Thuaidh
 Leitheanach Thuaidh
 Inis Treabhair
 Eoghanacht
@@ -545,7 +522,6 @@ Caladh an Chnoic
 Glinsce
 Both Bhrocháin
 An Turlach
-Barr an Doire
 Barr an Doire
 Loch Conaortha
 Cnocán Raithní
@@ -597,9 +573,6 @@ Ard an Chloiginn
 Ard an Chró
 Ard Adaim
 Ard an Ghainimh
-Ardach
-Ardach
-Ardach
 Ardach
 Ardach Thoir
 Ardach Thuaidh
@@ -658,11 +631,9 @@ An Fhorrach
 Oileán an Aitinn
 Géagánach
 An Gallán
-An Gallán
 Gathannaibh Beaga
 Gathannaibh Móra
 An Gairdín
-Garinis
 Garinis
 Baile an Gharda
 Garbhghort
@@ -674,17 +645,12 @@ Garrán na Cluana
 An Garrán
 Garrán an Ridire
 An Garrán
-An Garrán
-An Garrán
-An Garrán
-An Garrán
 An Garrán Thuaidh
 An Garrán Theas
 An Garrán Thiar
 Garrán an Easaigh
 An Garrán Ard
 An Garrán Buí
-Garrán Cór
 Garrán Cór
 Garrán Darach
 An Garrán Dubh
@@ -698,12 +664,7 @@ Garrán na gCapall
 Garrán na gCiabhóg
 Garrán na mBodach
 An Garrán Riabhach
-An Garrán Riabhach
 Garrán Roibín
-Na Garráin
-Na Garráin
-Na Garráin
-An Garrán
 Na Garráin
 An Garrán
 An Garrán Thuaidh
@@ -720,7 +681,6 @@ Garrán Ó gCianaigh
 Garrán Réamainn
 Garrán Tí Fínín
 Garbhachadh
-Garraí Féasóg
 Garraí Féasóg
 Baile Ghearóid
 An Garastún
@@ -751,7 +711,6 @@ Cuar Uí Chomáin
 Cuar Uí Choileáin
 Cuar Uí Laoire
 An Cuasán
-An Cuasán
 Cuas Chróinín
 An Cuaisín
 Bóithrín an Chopair
@@ -761,19 +720,11 @@ Baile an Choipinéaraigh
 Gort an Rosáin
 Baile an Gharráin
 An Corrbhaile
-An Corrbhaile
-An Corrbhaile
-An Corrbhaile
-An Corrbhaile
-An Corrbhaile
 An Corrbhaile Thuaidh
-An Corrbhaile Thuaidh
-An Corrbhaile Theas
 An Corrbhaile Theas
 An Corrbhaile Bán
 Corcaigh Bheag
 Currach na hInse
-Cora na bhFiach
 Cora na bhFiach
 Carraig na gCruach
 Cora an Fhéich
@@ -798,7 +749,6 @@ Sparra Uí Ghráda
 Inis Píc
 An Spideál
 Gort an Spidéil
-Fearann an Spidéil
 Fearann an Spidéil
 Garrán na Glaise
 Gort an Fhuaráin
@@ -838,3 +788,63 @@ Na Téada Íochtaracha
 Na Téada Uachtaracha
 Téadach
 Toinneach
+Camas Àird an t-Sabhail 
+Rathad na h-Àirde Fhric 
+Baile a' Bhràghaid 
+Beàrnasdal 
+Cuairt-cheum Bhuirbh 
+Bracadal 
+Cidhe an Àth Leathainn 
+Taobh an Uillt 
+A' Chlach Àrd 
+An Clachan 
+Dail a' Bhil 
+An t-Aodann Bàn 
+Na Fangan 
+An Fheòirlig 
+Camas Fhiosgabhaig 
+Ceann Rathad Ghrìsinis 
+Inbhir Arais 
+Ceann Sàil Eighre 
+Lothairgil 
+Rathad na Muilne 
+A' Mhaoile 
+Gob na h-Èist 
+An Seann Mhuileann 
+Cuairt-cheum Ploc a' Chaoil 
+Cidhe Phort nan Long 
+Ceann Rathad Phraboist 
+Rubha Hùinis 
+Camas Shanndaig 
+Drochaid Sgeitheaboist 
+Rathad Stafainn 
+An t-Aodann Bàn 
+Baile a' Bhràghaid 
+Beàrnasdal 
+Bhatan 
+Bracadal 
+Camas Àird an t-Sabhail 
+Camas Fhiosgabhaig 
+Camas Shanndaig 
+Cidhe an Àth Leathainn 
+Cidhe Phort nan Long 
+An Clachan 
+Cuairt-cheum Bhuirbh 
+Cuairt-cheum Ploc a' Chaoil 
+Dail a' Bhil 
+Drochaid Sgeitheaboist 
+Na Fangan 
+An Fheòirlig 
+Na Gilean 
+Gleann an Dubh Lochain 
+Gob na h-Èist 
+Inbhir Arais 
+Lothairgil 
+A' Mhaoile 
+Rathad a' Ghlìob 
+Ceann Rathad Ghrìsinis 
+Ceann Rathad Phraboist 
+Ceann Sàil Eighre 
+A' Chlach Àrd 
+Rathad na h-Àirde Fhric 
+Rathad na Muilne 

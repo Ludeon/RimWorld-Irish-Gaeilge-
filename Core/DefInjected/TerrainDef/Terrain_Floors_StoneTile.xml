@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: granite flagstone -->
-  <FlagstoneGranite.label>TODO</FlagstoneGranite.label>
+  <FlagstoneGranite.label>leac eibhir</FlagstoneGranite.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneGranite.description>TODO</FlagstoneGranite.description>
+  <FlagstoneGranite.description>Tá na leaca seo gearrtha go garbh. Níl cuma álainn ar na leaca eibhir seo, ach is féidir cosáin nó bóithre a dhéanamh astu.</FlagstoneGranite.description>
   
   <!-- EN: limestone flagstone -->
-  <FlagstoneLimestone.label>TODO</FlagstoneLimestone.label>
+  <FlagstoneLimestone.label>leac aolchloiche</FlagstoneLimestone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneLimestone.description>TODO</FlagstoneLimestone.description>
+  <FlagstoneLimestone.description>Tá na leaca seo gearrtha go garbh. Níl cuma álainn ar na leaca aolchloiche seo, ach is féidir cosáin nó bóithre a dhéanamh astu.</FlagstoneLimestone.description>
   
   <!-- EN: marble flagstone -->
-  <FlagstoneMarble.label>TODO</FlagstoneMarble.label>
+  <FlagstoneMarble.label>leac marmair</FlagstoneMarble.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneMarble.description>TODO</FlagstoneMarble.description>
+  <FlagstoneMarble.description>Tá na leaca seo gearrtha go garbh. Níl cuma álainn ar na leaca marmair seo, ach is féidir cosáin nó bóithre a dhéanamh astu.</FlagstoneMarble.description>
   
   <!-- EN: sandstone flagstone -->
-  <FlagstoneSandstone.label>TODO</FlagstoneSandstone.label>
+  <FlagstoneSandstone.label>leac gaineamhchloiche</FlagstoneSandstone.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSandstone.description>TODO</FlagstoneSandstone.description>
+  <FlagstoneSandstone.description>Tá na leaca seo gearrtha go garbh. Níl cuma álainn ar na leaca gaineamhchloiche seo, ach is féidir cosáin nó bóithre a dhéanamh astu.</FlagstoneSandstone.description>
   
   <!-- EN: slate flagstone -->
-  <FlagstoneSlate.label>TODO</FlagstoneSlate.label>
+  <FlagstoneSlate.label>leac scláta</FlagstoneSlate.label>
   <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
-  <FlagstoneSlate.description>TODO</FlagstoneSlate.description>
+  <FlagstoneSlate.description>Tá na leaca seo gearrtha go garbh. Níl cuma álainn ar na leaca scláta seo, ach is féidir cosáin nó bóithre a dhéanamh astu.</FlagstoneSlate.description>
   
   <!-- EN: granite tile -->
-  <TileGranite.label>TODO</TileGranite.label>
+  <TileGranite.label>tíl eibhir</TileGranite.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileGranite.description>TODO</TileGranite.description>
+  <TileGranite.description>Gearradh na tílí seo go cúramach, agus tá cuma deas orthu.</TileGranite.description>
   
   <!-- EN: limestone tile -->
-  <TileLimestone.label>TODO</TileLimestone.label>
+  <TileLimestone.label>tíl aolchloiche</TileLimestone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileLimestone.description>TODO</TileLimestone.description>
+  <TileLimestone.description>Gearradh na tílí seo go cúramach, agus tá cuma deas orthu.</TileLimestone.description>
   
   <!-- EN: marble tile -->
-  <TileMarble.label>TODO</TileMarble.label>
+  <TileMarble.label>tíl mharmair</TileMarble.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileMarble.description>TODO</TileMarble.description>
+  <TileMarble.description>Gearradh na tílí seo go cúramach, agus tá cuma deas orthu.</TileMarble.description>
   
   <!-- EN: sandstone tile -->
-  <TileSandstone.label>TODO</TileSandstone.label>
+  <TileSandstone.label>tíl ghaineamhchloiche</TileSandstone.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSandstone.description>TODO</TileSandstone.description>
+  <TileSandstone.description>Gearradh na tílí seo go cúramach, agus tá cuma deas orthu.</TileSandstone.description>
   
   <!-- EN: slate tile -->
-  <TileSlate.label>TODO</TileSlate.label>
+  <TileSlate.label>tíl scláta</TileSlate.label>
   <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
-  <TileSlate.description>TODO</TileSlate.description>
+  <TileSlate.description>Gearradh na tílí seo go cúramach, agus tá cuma deas orthu.</TileSlate.description>
   
 </LanguageData>

@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: burned carpet -->
-  <BurnedCarpet.label>TODO</BurnedCarpet.label>
+  <BurnedCarpet.label>cairpéad dóite</BurnedCarpet.label>
   <!-- EN: Burned-out carpet. -->
-  <BurnedCarpet.description>TODO</BurnedCarpet.description>
+  <BurnedCarpet.description>Cairpéad dóite.</BurnedCarpet.description>
   
   <!-- EN: burned straw matting -->
-  <BurnedStrawMatting.label>TODO</BurnedStrawMatting.label>
+  <BurnedStrawMatting.label>tuí dhóite</BurnedStrawMatting.label>
   <!-- EN: Straw matting that has been burned in a fire. -->
-  <BurnedStrawMatting.description>TODO</BurnedStrawMatting.description>
+  <BurnedStrawMatting.description>Tuí a dódh i dtine.</BurnedStrawMatting.description>
   
   <!-- EN: burned wood floor -->
-  <BurnedWoodPlankFloor.label>TODO</BurnedWoodPlankFloor.label>
+  <BurnedWoodPlankFloor.label>urlár adhmaid dóite</BurnedWoodPlankFloor.label>
   <!-- EN: Burned-out wood plank flooring. -->
-  <BurnedWoodPlankFloor.description>TODO</BurnedWoodPlankFloor.description>
+  <BurnedWoodPlankFloor.description>Urlár adhmaid a dódh i dtine.</BurnedWoodPlankFloor.description>
   
 </LanguageData>

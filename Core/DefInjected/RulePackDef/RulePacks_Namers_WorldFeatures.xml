@@ -292,7 +292,8 @@
     <li>ice_sheet_noun->An Stráice</li>
     <li>ice_sheet_noun->An Deireadh</li>
     <li>ice_sheet_noun->An Chlúid</li>
-    <li>ice_sheet_noun->An Oighearchlúid</li>
+    <li>ice_sheet_noun->An tOighear Mór</li>    <li>ice_sheet_noun->An Chlúid Mhór</li>
+    <li>ice_sheet_noun->An Steip</li>
   </NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
@@ -394,10 +395,10 @@
     <li>world_gentive->na Dílseachta</li>
     <li>world_gentive->an Airgid</li>
     <li>world_gentive->Antaine</li>
-    <li>world_gentive->Abba</li>
-    <li>world_gentive->Acháb</li>
-    <li>world_gentive->Zarúá</li>
-    <li>world_gentive->Zibeá</li>
+    <li>world_gentive->Sheáin</li>
+    <li>world_gentive->Ruaidhrí</li>
+    <li>world_gentive->Phádraig</li>
+    <li>world_gentive->Bhríde</li>
     <li>world_gentive->na hOibre</li>
     <li>world_gentive->an Dorchadais</li>
   </NamerLake.rulePack.rulesStrings>
@@ -420,7 +421,9 @@
     <li>mountain_noun_ganalt->Carn</li>
     <li>mountain_noun_ganalt->Ualach</li>
     <li>mountain_noun_ganalt->Tulach</li>
-    <li>world_genitive->na hOíche</li>
+    <li>mountain_noun_ganalt->Radharc</li>
+    <li>mountain_noun_ganalt->Airde</li>
+    <li>mountain_noun_ganalt->Barr</li>
     <li>world_gentive->an Bhua</li>
     <li>world_gentive->na Fulaingthe</li>
     <li>world_gentive->na Láidreachta</li>
@@ -429,6 +432,10 @@
     <li>world_gentive->na Dílseachta</li>
     <li>world_gentive->na nDaoine</li>
     <li>world_gentive->an Bháis</li>
+    <li>world_gentive->na Cruite</li>
+    <li>world_gentive->an Chasáin</li>
+    <li>world_gentive->an Choire</li>
+    <li>world_gentive->na Cruite</li>
     <li>world_gentive->na Cumhachta</li>
     <li>world_gentive->na nDéithe</li>
     <li>world_gentive->an Bhealaigh</li>
@@ -440,6 +447,11 @@
     <li>world_gentive->na hOíche</li>
     <li>world_gentive->na Dílseachta</li>
     <li>world_gentive->an Airgid</li>
+    <li>world_gentive->Antaine</li>
+    <li>world_gentive->Abba</li>
+    <li>world_gentive->Acháb</li>
+    <li>world_gentive->Zarúá</li>
+    <li>world_gentive->Zibeá</li>
     <li>world_gentive->na hOibre</li>
     <li>world_gentive->an Dorchadais</li>
     <li>placename_proper->Machaire Solas</li>
@@ -480,6 +492,7 @@
     <li>adjective_fir->Gorm</li>
     <li>adjective_fir->Bán</li>
     <li>adjective_fir->Mór</li>
+    <li>adjective_fir->Leathan</li>
     <li>adjective_fir->Ciúin</li>
     <li>adjective_fir->Gaofar</li>
     <li>adjective_fir->Dorcha</li>
@@ -491,13 +504,25 @@
     <li>adjective_bain->Ghaofar</li>
     <li>adjective_bain->Dhorcha</li>
     <li>adjective_bain->Bheag</li>
+    <li>adjective_bain->Leathan</li>
+    <li>adjective_bain->Ghlas</li>
+    <li>adjective_bain->Dhubh</li>
+    <li>adjective_bain->Chaoch</li>
+    <li>adjective_bain->Uachtarach</li>
     <li>ocean_noun_fir->An t-Aigéan</li>
+    <li>ocean_noun_fir->An Bealach</li>
+    <li>ocean_noun_fir->An Ród</li>
     <li>ocean_noun_bain->An Fharraige</li>
     <li>ocean_noun_bain->An Mhuir</li>
     <li>ocean_noun_bain->An Fhairsinge</li>
     <li>ocean_noun_ganalt->Aigéan</li>
     <li>ocean_noun_ganalt->Farraige</li>
     <li>ocean_noun_ganalt->Muir</li>
+    <li>ocean_noun_ganalt->Uisce</li>
+    <li>ocean_noun_ganalt->Gob</li>
+    <li>ocean_noun_ganalt->Ród</li>
+    <li>ocean_noun_ganalt->Bealach</li>
+    <li>ocean_noun_ganalt->Béal</li>
     <li>ocean_noun_ganalt->Fairsinge</li>
     <li>world_gentive->an Bhua</li>
     <li>world_gentive->na Fulaingthe</li>
@@ -507,6 +532,10 @@
     <li>world_gentive->na Dílseachta</li>
     <li>world_gentive->na nDaoine</li>
     <li>world_gentive->an Bháis</li>
+    <li>world_gentive->na Cruite</li>
+    <li>world_gentive->an Chasáin</li>
+    <li>world_gentive->an Choire</li>
+    <li>world_gentive->na Cruite</li>
     <li>world_gentive->na Cumhachta</li>
     <li>world_gentive->na nDéithe</li>
     <li>world_gentive->an Bhealaigh</li>
@@ -554,7 +583,7 @@
     <li>world_gentive->an Phobail</li>
     <li>world_gentive->Dé</li>
     <li>world_gentive->na n-Óg</li>
-    <li>world_gentive->an Díoltais</li>
+    <li>world_gentive->na Gaeilge</li>
     <li>world_gentive->na hOíche</li>
     <li>world_gentive->na Dílseachta</li>
     <li>world_gentive->an Airgid</li>
@@ -603,6 +632,7 @@
     <li>water_noun_fir->An Lochán</li>
     <li>water_noun_ganalt->Loch</li>
     <li>water_noun_ganalt->Uiscí</li>
+    <li>water_noun_ganalt->Uisce</li>
     <li>water_noun_ganalt->Lochán</li>
     <li>water_noun_ganalt->Lochóg</li>
     <li>world_gentive->an Bhua</li>
@@ -625,11 +655,11 @@
     <li>world_gentive->na Dílseachta</li>
     <li>world_gentive->an Airgid</li>
     <li>world_gentive->Antaine</li>
-    <li>world_gentive->Abba</li>
-    <li>world_gentive->Acháb</li>
-    <li>world_gentive->Zarúá</li>
-    <li>world_gentive->Zibeá</li>
-    <li>world_gentive->na hOibre</li>
+    <li>world_gentive->Uí Dhomhnaill</li>
+    <li>world_gentive->Uí Laoghaire</li>
+    <li>world_gentive->an Bhreathnaigh</li>
+    <li>world_gentive->Uí Ógáin</li>
+    <li>world_gentive->na nDaoine</li>
     <li>world_gentive->an Dorchadais</li>
   </NamerSea.rulePack.rulesStrings>
   
@@ -662,6 +692,11 @@
     <li>swamp_word_ganalt->Port</li>
     <li>swamp_word_ganalt->Bogach</li>
     <li>swamp_word_ganalt->Seascann</li>
+    <li>swamp_word_ganalt->Uiscí</li>
+    <li>swamp_word_ganalt->Uiscí</li>
+    <li>swamp_word_ganalt->Móin</li>
+    <li>swamp_word_ganalt->Achadh</li>
+    <li>swamp_word_ganalt->Currach</li>
     <li>world_genitive->na hOíche</li>
     <li>world_gentive->an Bhua</li>
     <li>world_gentive->na Fulaingthe</li>
@@ -710,6 +745,10 @@
     <li>rainforest_word_ganalt->Teochrios</li>
     <li>rainforest_word_ganalt->Tropaic</li>
     <li>rainforest_word_ganalt->Tropaicí</li>
+    <li>rainforest_word_ganalt->Láthair</li>
+    <li>rainforest_word_ganalt->Fásach</li>  
+    <li>rainforest_word_ganalt->Seisceann</li>  
+    <li>rainforest_word_ganalt->Coill</li>  
     <li>world_genitive->na hOíche</li>
     <li>world_gentive->an Bhua</li>
     <li>world_gentive->na Fulaingthe</li>
@@ -752,6 +791,7 @@
     <li>r_name->[tundra_word_fir] [adjective_fir]</li>
     <li>r_name->[tundra_word_bain] [adjective_bain]</li>
     <li>tundra_word_fir->An Tundra</li>
+    <li>tundra_word_fir->An Talamh</li>
     <li>tundra_word_bain->An Scrobarnach</li>
     <li>tundra_word_bain->An Scrob</li>
     <li>tundra_word_bain->An Díthreabh</li>

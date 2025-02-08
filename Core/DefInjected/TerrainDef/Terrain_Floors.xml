@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: concrete -->
-  <Concrete.label>TODO</Concrete.label>
+  <Concrete.label>coincréit</Concrete.label>
   <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
-  <Concrete.description>TODO</Concrete.description>
+  <Concrete.description>Coincréit chrua. Tá sí saor agus tapa le tógáil, ach tá sí gránna.</Concrete.description>
   
   <!-- EN: gold tile -->
-  <GoldTile.label>TODO</GoldTile.label>
+  <GoldTile.label>tíl óir</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>TODO</GoldTile.description>
+  <GoldTile.description>Tá na tílí seo iontach daor, tá siad iontach álainn, agus ceapfaidh daoine go bhfuil tú iontach saibhir má chónaíonn tú orthu.</GoldTile.description>
   
   <!-- EN: steel tile -->
-  <MetalTile.label>TODO</MetalTile.label>
+  <MetalTile.label>tíl chruach</MetalTile.label>
   <!-- EN: Steel tiles, for that spaceship look. They are quick to clean and get a bonus to cleanliness for use in medical settings. -->
-  <MetalTile.description>TODO</MetalTile.description>
+  <MetalTile.description>Tá tílí cruach éasca le tógáil, agus tá sé éasca iad a ghlanadh freisin.</MetalTile.description>
   
   <!-- EN: paved tile -->
-  <PavedTile.label>TODO</PavedTile.label>
+  <PavedTile.label>cloch phábhála</PavedTile.label>
   <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
-  <PavedTile.description>TODO</PavedTile.description>
+  <PavedTile.description>Tá na clocha pábhála seo déanta as coincréit.</PavedTile.description>
   
   <!-- EN: silver tile -->
-  <SilverTile.label>TODO</SilverTile.label>
+  <SilverTile.label>tíl airgid</SilverTile.label>
   <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They are quick to clean and get a bonus to cleanliness. -->
-  <SilverTile.description>TODO</SilverTile.description>
+  <SilverTile.description>Tá cuma todhchaíoch nó ríoga ar na tílí airgid seo, agus tá sé éasca iad a ghlanadh.</SilverTile.description>
   
   <!-- EN: sterile tile -->
-  <SterileTile.label>TODO</SterileTile.label>
+  <SterileTile.label>tíl steiriúil</SterileTile.label>
   <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build, but quick to clean. -->
-  <SterileTile.description>TODO</SterileTile.description>
+  <SterileTile.description>Tá tílí steiriúla saor ó mhiocrorgánaigh. Feidhmíonn ospidéil agus saotharlannaí níos fearr nuair a bhíonn tílí steiriúla iontu.</SterileTile.description>
   
   <!-- EN: straw matting -->
-  <StrawMatting.label>TODO</StrawMatting.label>
+  <StrawMatting.label>urlár tuí</StrawMatting.label>
   <!-- EN: Rough straw matting for use in animal barns. It is cheap and accepts very little filth. -->
-  <StrawMatting.description>TODO</StrawMatting.description>
+  <StrawMatting.description>Úsáidtear urlár tuí le haghaidh ainmhithe, de ghnáth. Tá sé saor agus bíonn sé salach.</StrawMatting.description>
   
   <!-- EN: wood floor -->
-  <WoodPlankFloor.label>TODO</WoodPlankFloor.label>
+  <WoodPlankFloor.label>urlár adhmaid</WoodPlankFloor.label>
   <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
-  <WoodPlankFloor.description>TODO</WoodPlankFloor.description>
+  <WoodPlankFloor.description>Tá urlárach admhaid saor le tógáil, ach téann sé trí thine go héasca.</WoodPlankFloor.description>
   
 </LanguageData>
