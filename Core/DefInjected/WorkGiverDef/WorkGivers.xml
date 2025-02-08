@@ -65,60 +65,60 @@
   <ConstructRemoveFloors.verb>bain urlár</ConstructRemoveFloors.verb>
   
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>TODO</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.label>líomh úrlár</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothFloors.gerund>TODO</ConstructSmoothFloors.gerund>
+  <ConstructSmoothFloors.gerund>ag líomhadh</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothFloors.verb>TODO</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.verb>líomh</ConstructSmoothFloors.verb>
   
   <!-- EN: smooth walls -->
-  <ConstructSmoothWalls.label>TODO</ConstructSmoothWalls.label>
+  <ConstructSmoothWalls.label>líomh ballaí</ConstructSmoothWalls.label>
   <!-- EN: smoothing -->
-  <ConstructSmoothWalls.gerund>TODO</ConstructSmoothWalls.gerund>
+  <ConstructSmoothWalls.gerund>ag líomhadh</ConstructSmoothWalls.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothWalls.verb>TODO</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.verb>líomh</ConstructSmoothWalls.verb>
   
   <!-- EN: fill food hoppers -->
-  <CookFillHopper.label>TODO</CookFillHopper.label>
+  <CookFillHopper.label>líon crannóga bia</CookFillHopper.label>
   <!-- EN: filling -->
-  <CookFillHopper.gerund>TODO</CookFillHopper.gerund>
+  <CookFillHopper.gerund>ag líonadh</CookFillHopper.gerund>
   <!-- EN: fill -->
-  <CookFillHopper.verb>TODO</CookFillHopper.verb>
+  <CookFillHopper.verb>líon</CookFillHopper.verb>
   
   <!-- EN: deconstruct structures -->
-  <Deconstruct.label>TODO</Deconstruct.label>
+  <Deconstruct.label>scrios struchtúir</Deconstruct.label>
   <!-- EN: deconstructing -->
-  <Deconstruct.gerund>TODO</Deconstruct.gerund>
+  <Deconstruct.gerund>ag sriosadh</Deconstruct.gerund>
   <!-- EN: deconstruct -->
-  <Deconstruct.verb>TODO</Deconstruct.verb>
+  <Deconstruct.verb>scrios</Deconstruct.verb>
   
   <!-- EN: deliver food to prisoners -->
-  <DeliverFoodToPrisoner.label>TODO</DeliverFoodToPrisoner.label>
+  <DeliverFoodToPrisoner.label>tabhair bia do phríosúnaigh</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>TODO</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>ag tabhairt bia do:</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
-  <DeliverFoodToPrisoner.verb>TODO</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.verb>tabhair bia do:</DeliverFoodToPrisoner.verb>
   
   <!-- EN: deliver resources to blueprints -->
-  <DeliverResourcesToBlueprints.label>TODO</DeliverResourcesToBlueprints.label>
+  <DeliverResourcesToBlueprints.label>tóg acmhainní chuig pleananna</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToBlueprints.gerund>TODO</DeliverResourcesToBlueprints.gerund>
+  <DeliverResourcesToBlueprints.gerund>ag tógáil chuig</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToBlueprints.verb>TODO</DeliverResourcesToBlueprints.verb>
+  <DeliverResourcesToBlueprints.verb>tóg chuig:</DeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
-  <DeliverResourcesToFrames.label>TODO</DeliverResourcesToFrames.label>
+  <DeliverResourcesToFrames.label>tóg acmhainní chuig frámaí</DeliverResourcesToFrames.label>
   <!-- EN: delivering to -->
-  <DeliverResourcesToFrames.gerund>TODO</DeliverResourcesToFrames.gerund>
+  <DeliverResourcesToFrames.gerund>ag tógáil chuig</DeliverResourcesToFrames.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToFrames.verb>TODO</DeliverResourcesToFrames.verb>
+  <DeliverResourcesToFrames.verb>tóg chuig</DeliverResourcesToFrames.verb>
   
   <!-- EN: brew liquors -->
-  <DoBillsBrew.label>TODO</DoBillsBrew.label>
+  <DoBillsBrew.label>déan alcóil</DoBillsBrew.label>
   <!-- EN: brewing at -->
-  <DoBillsBrew.gerund>TODO</DoBillsBrew.gerund>
+  <DoBillsBrew.gerund>ag grúdú</DoBillsBrew.gerund>
   <!-- EN: brew -->
-  <DoBillsBrew.verb>TODO</DoBillsBrew.verb>
+  <DoBillsBrew.verb>grúdaigh</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>TODO</DoBillsButcherFlesh.label>

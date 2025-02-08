@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: bite -->
-  <Bite.label>TODO</Bite.label>
+  <Bite.label>plaic</Bite.label>
   
   <!-- EN: blunt -->
-  <Blunt.label>TODO</Blunt.label>
+  <Blunt.label>maol</Blunt.label>
   
   <!-- EN: cut -->
-  <Cut.label>TODO</Cut.label>
+  <Cut.label>gearr</Cut.label>
   
   <!-- EN: demolish -->
-  <Demolish.label>TODO</Demolish.label>
+  <Demolish.label>scrios</Demolish.label>
   
   <!-- EN: kick material in eyes -->
-  <KickMaterialInEyes.label>TODO</KickMaterialInEyes.label>
+  <KickMaterialInEyes.label>caith ábhar sna súile</KickMaterialInEyes.label>
   
   <!-- EN: poke -->
-  <Poke.label>TODO</Poke.label>
+  <Poke.label>sonc</Poke.label>
   
   <!-- EN: scratch -->
-  <Scratch.label>TODO</Scratch.label>
+  <Scratch.label>scríobh</Scratch.label>
   
   <!-- EN: toxic scratch -->
-  <ScratchToxic.label>TODO</ScratchToxic.label>
+  <ScratchToxic.label>scríob thocsaineach</ScratchToxic.label>
   
   <!-- EN: stab -->
-  <Stab.label>TODO</Stab.label>
+  <Stab.label>rop</Stab.label>
   
   <!-- EN: toxic bite -->
-  <ToxicBite.label>TODO</ToxicBite.label>
+  <ToxicBite.label>plaic thocsaineach</ToxicBite.label>
   
 </LanguageData>

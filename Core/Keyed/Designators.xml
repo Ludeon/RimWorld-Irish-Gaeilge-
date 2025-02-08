@@ -315,8 +315,8 @@
   <AllColonistsWithSkillHaveDisabledConstructingTip>Níl aon duine de na {0} a bhfuil an scil chuí acu sannta mar {1}.</AllColonistsWithSkillHaveDisabledConstructingTip>
 
   <!-- EN: Extract skull -->
-  <DesignatorExtractSkull>Extraire le crâne</DesignatorExtractSkull>
+  <DesignatorExtractSkull>Bain blaosc</DesignatorExtractSkull>
   <!-- EN: Extract the skull from a corpse. -->
-  <DesignatorExtractSkullDesc>Extraire le crâne d'un cadavre.</DesignatorExtractSkullDesc>
+  <DesignatorExtractSkullDesc>Bain an bhlaosc ó chorpán.</DesignatorExtractSkullDesc>
 
 </LanguageData>

@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: ate without table -->
-  <AteWithoutTable.stages.ate_without_table.label>TODO</AteWithoutTable.stages.ate_without_table.label>
+  <AteWithoutTable.stages.ate_without_table.label>d'ith mé gan bhord</AteWithoutTable.stages.ate_without_table.label>
   <!-- EN: I had to eat a meal off the ground. Can't we get a table around here? -->
-  <AteWithoutTable.stages.ate_without_table.description>TODO</AteWithoutTable.stages.ate_without_table.description>
+  <AteWithoutTable.stages.ate_without_table.description>D'ith mé béile gan aon troscán. Ba cheart go mbeidh bord againn.</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- EN: bonded animal {0} banished -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>TODO</BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>ruaigeadh m'ainmhí, {0} </BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.description>TODO</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>Ruaigeadh m'ainmhí!</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
   <!-- EN: I butchered humanlike -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>TODO</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>rinne mé búistéireacht ar dhuine</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
   <!-- EN: I butchered someone up like an animal. -->
-  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>TODO</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
+  <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>Rinne mé bhúistéireacht ar dhuine, mar a dhéanfaí le hainmhí...</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.description>
   
   <!-- EN: butchered humanlike corpse -->
-  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>TODO</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
+  <ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>rinne mé búistéireacht ar dhuine</ButcheredHumanlikeCorpseOpinion.stages.butchered_humanlike_corpse.label>
   
   <!-- EN: catharsis -->
-  <Catharsis.stages.catharsis.label>TODO</Catharsis.stages.catharsis.label>
+  <Catharsis.stages.catharsis.label>catairsis</Catharsis.stages.catharsis.label>
   <!-- EN: It felt good to finally unbottle my feelings. -->
-  <Catharsis.stages.catharsis.description>TODO</Catharsis.stages.catharsis.description>
+  <Catharsis.stages.catharsis.description>Ba dheas an rud é mo chuid mothúchán a ligean amach.</Catharsis.stages.catharsis.description>
   
   <!-- EN: colonist banished -->
-  <ColonistBanished.stages.colonist_banished.label>TODO</ColonistBanished.stages.colonist_banished.label>
+  <ColonistBanished.stages.colonist_banished.label>ruaigeadh coilíneach</ColonistBanished.stages.colonist_banished.label>
   <!-- EN: We just banished someone. I hope they make it, but I'm worried. -->
-  <ColonistBanished.stages.colonist_banished.description>TODO</ColonistBanished.stages.colonist_banished.description>
+  <ColonistBanished.stages.colonist_banished.description>Chaith muid duine amach ón gcoilíneacht. Tá súil agam go n-éireoidh leis, ach tá mé buartha.</ColonistBanished.stages.colonist_banished.description>
   
   <!-- EN: colonist banished to death -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.label>ruaigeadh coilíneach</ColonistBanishedToDie.stages.colonist_banished_to_death.label>
   <!-- EN: We banished someone in such a way that there's almost no way they'll survive. -->
-  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>TODO</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
+  <ColonistBanishedToDie.stages.colonist_banished_to_death.description>Chaith muid duine amach ón gcoilíneacht, agus is beag seans go mairfidh sé.</ColonistBanishedToDie.stages.colonist_banished_to_death.description>
   
   <!-- EN: Colonist prisoner escaped -->
-  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>TODO</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>d'éalaigh coilíneach ón bpríosún</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.label>
   <!-- EN: Can't we keep control of our own people? I feel like anything could happen to me here. -->
-  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>TODO</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
+  <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Níl muid in ann smacht a choinneáil ar ár ndaoine fein, fiú. D'fhéadfadh rud ar bith tarlú dom san áit seo.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>mharaigh mé ceannaire naimhdeach, {0} </DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>TODO</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Chuir mé deireadh le ceannaire ár naimhde!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   
   <!-- EN: defeated hostile leader -->
-  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>TODO</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>mharaigh mé ceannaire naimhdeach</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- EN: defeated insect hive -->
-  <DefeatedInsectHive.stages.defeated_insect_hive.label>TODO</DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>scriosadh </DefeatedInsectHive.stages.defeated_insect_hive.label>
   <!-- EN: The only good bug is a dead bug! -->
   <DefeatedInsectHive.stages.defeated_insect_hive.description>TODO</DefeatedInsectHive.stages.defeated_insect_hive.description>
   

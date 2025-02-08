@@ -1,4 +1,4 @@
-// Tribal words and names are based on Scottish Gaelic
+// Tribal words and names are based on Scottish Gaelic place names
 
 Coille nan Croitearan
 Cuairt a' Chùrra
