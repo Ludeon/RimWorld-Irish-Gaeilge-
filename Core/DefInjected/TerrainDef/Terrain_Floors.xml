@@ -9,7 +9,7 @@
   <!-- EN: gold tile -->
   <GoldTile.label>tíl óir</GoldTile.label>
   <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
-  <GoldTile.description>Tá na tílí seo iontach daor, tá siad iontach álainn, agus ceapfaidh daoine go bhfuil tú iontach saibhir má chónaíonn tú orthu.</GoldTile.description>
+  <GoldTile.description>Tá na tílí seo iontach daor, tá siad iontach álainn, agus ceapfaidh daoine go bhfuil tú iontach saibhir má bhaineann tú úsáid astu.</GoldTile.description>
   
   <!-- EN: steel tile -->
   <MetalTile.label>tíl chruach</MetalTile.label>
