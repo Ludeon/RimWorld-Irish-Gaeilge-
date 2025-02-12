@@ -2,7 +2,7 @@
 <LanguageData>
   
   <  <!-- EN: beer brewing -->
-  <Brewing.label>déantús alcóil</Brewing.label>
+  <Brewing.label>grúdaireacht</Brewing.label>
   <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
   <Brewing.description>Tóg grúdlann agus damhcha coipthe chun beoir a dhéanamh as leannlusanna.</Brewing.description>
   <!-- EN:
@@ -44,7 +44,7 @@
   <Cocoa.generalRules.rulesStrings>TODO</Cocoa.generalRules.rulesStrings>
   
   <!-- EN: complex clothing -->
-  <ComplexClothing.label>éadaí casta</ComplexClothing.label>
+  <ComplexClothing.label>táilliúireacht</ComplexClothing.label>
   <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
   <ComplexClothing.description>Déan éadaí casta, ar nós bríste, dustair agus hataí.</ComplexClothing.description>
   <!-- EN:
@@ -98,7 +98,7 @@
   <DrugProduction.generalRules.rulesStrings>TODO</DrugProduction.generalRules.rulesStrings>
   
   <!-- EN: go-juice production -->
-  <GoJuiceProduction.label>déantús sú-fhuinnimh</GoJuiceProduction.label>
+  <GoJuiceProduction.label>sú fuinnimh</GoJuiceProduction.label>
   <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
   <GoJuiceProduction.description>Druga sintéiseach a chuireann leis an bhfeidhmiú is ea sú fuinnimh. Cuireann sé le scileanna troda agus gluaiseachta, agus cuireann sé cosc ar an bpian.</GoJuiceProduction.description>
   <!-- EN:
@@ -164,7 +164,7 @@
   <Pemmican.generalRules.rulesStrings>TODO</Pemmican.generalRules.rulesStrings>
   
   <!-- EN: penoxycyline production -->
-  <PenoxycylineProduction.label>déantús peanocsaicílíne</PenoxycylineProduction.label>
+  <PenoxycylineProduction.label>peanocsaicílín</PenoxycylineProduction.label>
   <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
   <PenoxycylineProduction.description>Déan peanocsaicílín. Cuireann an druga seo cosc ar an bplá, ar maláire agus ar go leor galair eile.</PenoxycylineProduction.description>
   <!-- EN:
@@ -177,9 +177,9 @@
   <PenoxycylineProduction.generalRules.rulesStrings>TODO</PenoxycylineProduction.generalRules.rulesStrings>
   
   <!-- EN: plate armor -->
-  <PlateArmor.label>caithéide</PlateArmor.label>
+  <PlateArmor.label>armúr</PlateArmor.label>
   <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
-  <PlateArmor.description>Déan caithéide as miotal nó admhad. Tá cosaint mhaith ag an gcathéide seo, ach bíonn ar an té a chaitheann bogadh go mall.</PlateArmor.description>
+  <PlateArmor.description>Déan armúr as miotal nó admhad. Tugann an t-armúr seo cosaint mhaith, ach cuireann sé moill ar an ngluaiseacht.</PlateArmor.description>
   <!-- EN:
     <li>subject->plate armor</li>
     <li>subject_story->crafted armor from scrap, when the authorities surrounded [ANYPAWN_possessive] family's shack</li>
@@ -190,7 +190,7 @@
   <PlateArmor.generalRules.rulesStrings>TODO</PlateArmor.generalRules.rulesStrings>
   
   <!-- EN: psychite refining -->
-  <PsychiteRefining.label>scagadh sícíte</PsychiteRefining.label>
+  <PsychiteRefining.label>sícít</PsychiteRefining.label>
   <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
   <PsychiteRefining.description>Bain úsáid as scagairí chun foirmeacha éagsúla den druga sícít a chruthú, ar nós scealp agus yáyó.</PsychiteRefining.description>
   <!-- EN:
@@ -256,7 +256,7 @@
   <Stonecutting.generalRules.rulesStrings>TODO</Stonecutting.generalRules.rulesStrings>
   
   <!-- EN: tree sowing -->
-  <TreeSowing.label>síolú crann</TreeSowing.label>
+  <TreeSowing.label>gairneoireacht</TreeSowing.label>
   <!-- EN: Sow the local biome's natural trees in your fields. -->
   <TreeSowing.description>Cuir crainn áitiúla an cheantair i do pháirceanna.</TreeSowing.description>
   <!-- EN:
@@ -269,7 +269,7 @@
   <TreeSowing.generalRules.rulesStrings>TODO</TreeSowing.generalRules.rulesStrings>
   
   <!-- EN: wake-up production -->
-  <WakeUpProduction.label>déantús sú múscailte</WakeUpProduction.label>
+  <WakeUpProduction.label>sú múscailte</WakeUpProduction.label>
   <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
   <WakeUpProduction.description>Déan sú múscailte, druga a chuireann leis an ráta oibre agus a chuireann cosc ar an gcodladh.</WakeUpProduction.description>
   <!-- EN:
