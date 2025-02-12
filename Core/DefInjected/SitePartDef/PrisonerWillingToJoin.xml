@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: prisoner camp -->
-  <PrisonerWillingToJoin.label>TODO</PrisonerWillingToJoin.label>
+  <PrisonerWillingToJoin.label>campa príosúnach</PrisonerWillingToJoin.label>
   <!-- EN: A prisoner being held by enemies. Rescue them and they will join you. -->
-  <PrisonerWillingToJoin.description>TODO</PrisonerWillingToJoin.description>
+  <PrisonerWillingToJoin.description>Tá príosúnach á choinneáil anseo. Rachaidh siad le do choilíneacht má éiríonn leat iad a tharrtháil.</PrisonerWillingToJoin.description>
   
 </LanguageData>

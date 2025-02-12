@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: air conditioning -->
-  <AirConditioning.label>TODO</AirConditioning.label>
+  <AirConditioning.label>aerchóiriú</AirConditioning.label>
   <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
-  <AirConditioning.description>TODO</AirConditioning.description>
+  <AirConditioning.description>Tóg fuaraitheoirí agus reoiteoirí chun smacht a choinneáil ar an teocht.</AirConditioning.description>
   <!-- EN:
     <li>subject->air conditioning</li>
     <li>subject_story->visited the hottest town on the planet</li>
@@ -15,9 +15,9 @@
   <AirConditioning.generalRules.rulesStrings>TODO</AirConditioning.generalRules.rulesStrings>
   
   <!-- EN: autodoor -->
-  <Autodoors.label>TODO</Autodoors.label>
+  <Autodoors.label>uathdhoras</Autodoors.label>
   <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
-  <Autodoors.description>TODO</Autodoors.description>
+  <Autodoors.description>Osclaíonn uathdhoirse go huathoibríoch nuair a théann duine in aice leo.</Autodoors.description>
   <!-- EN:
     <li>subject->autodoors</li>
     <li>subject->automatic doors</li>
@@ -29,9 +29,9 @@
   <Autodoors.generalRules.rulesStrings>TODO</Autodoors.generalRules.rulesStrings>
   
   <!-- EN: battery -->
-  <Batteries.label>TODO</Batteries.label>
+  <Batteries.label>ceallra</Batteries.label>
   <!-- EN: Build batteries for storing electricity. -->
-  <Batteries.description>TODO</Batteries.description>
+  <Batteries.description>Tóg ceallraí chun cumhacht a stóráil.</Batteries.description>
   <!-- EN:
     <li>subject->batteries</li>
     <li>subject_story->discovered that an acid lake on the leaden shores of a deathworld worked as a natural battery</li>
@@ -42,9 +42,9 @@
   <Batteries.generalRules.rulesStrings>TODO</Batteries.generalRules.rulesStrings>
   
   <!-- EN: biofuel refining -->
-  <BiofuelRefining.label>TODO</BiofuelRefining.label>
+  <BiofuelRefining.label>gineadóir bithbhreosla</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>TODO</BiofuelRefining.description>
+  <BiofuelRefining.description>Tóg gineadóirí bithbhreosla chun ceimi-pheitreal a tháirgeadh ó acmhainní nádúrtha ar nós adhmad nó bia.</BiofuelRefining.description>
   <!-- EN:
     <li>subject->biofuel</li>
     <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
@@ -55,9 +55,9 @@
   <BiofuelRefining.generalRules.rulesStrings>TODO</BiofuelRefining.generalRules.rulesStrings>
   
   <!-- EN: blowback operation -->
-  <BlowbackOperation.label>TODO</BlowbackOperation.label>
+  <BlowbackOperation.label>gunnaí ais-séidte</BlowbackOperation.label>
   <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
-  <BlowbackOperation.description>TODO</BlowbackOperation.description>
+  <BlowbackOperation.description>Tóg gunnaí ais-séidte simplí, ar nós uathphiostail agus meaisínphiostail.</BlowbackOperation.description>
   <!-- EN:
     <li>subject->pistols</li>
     <li>subject->blowback firearms</li>
@@ -69,9 +69,9 @@
   <BlowbackOperation.generalRules.rulesStrings>TODO</BlowbackOperation.generalRules.rulesStrings>
   
   <!-- EN: advanced lights -->
-  <ColoredLights.label>TODO</ColoredLights.label>
+  <ColoredLights.label>soilse ardchumhachta</ColoredLights.label>
   <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
-  <ColoredLights.description>TODO</ColoredLights.description>
+  <ColoredLights.description>Tóg soilse ardchumhachta ar féidir iad a úsáid lasmuigh. Chomh maith leis sin, beidh tú in ann dathanna soilse a athrú agus laghdófar an cumhacht a úsáideann soilse. Ní bhíonn aon éifeacht ag an taighde seo ar lampaí gréine.</ColoredLights.description>
   <!-- EN:
     <li>subject->advanced lighting</li>
     <li>subject_story->installed floodlights all around the prison world's many security perimeters</li>
@@ -82,13 +82,13 @@
   <ColoredLights.generalRules.rulesStrings>TODO</ColoredLights.generalRules.rulesStrings>
   
   <!-- EN: electricity -->
-  <Electricity.label>TODO</Electricity.label>
+  <Electricity.label>leictreachas</Electricity.label>
   <!-- EN: Harness the power of electricity for a hundred different tasks. -->
-  <Electricity.description>TODO</Electricity.description>
+  <Electricity.description>Bain leas as an leictreachas.</Electricity.description>
   <!-- EN: Your colony has harnessed the power which outsiders call "electricity". It has the potential to transform every aspect of your people's way of life.\n\nYou have now unlocked the Power tab in the Architect menu from which you may build electric generators, power conduits, and other mechanisms to control this new force. The Power tab also displays the electric grid which connects electric generators and appliances. -->
-  <Electricity.discoveredLetterText>TODO</Electricity.discoveredLetterText>
+  <Electricity.discoveredLetterText>Tá do choilíneacht tar éis foghlaim faoin gcumhacht ar a dtugtar "leictreachas". D'fhéadfadh an t-eolas seo modh maireachtála do choilíneach a athrú go deo.\n\nTá an táb Cumhachta ar fáil duit anois sa roghchlár Ailtireachta. Is féidir leat gineadóirí, sreanganna agus leictreonaic eile a thógáil anois.</Electricity.discoveredLetterText>
   <!-- EN: About: Electricity -->
-  <Electricity.discoveredLetterTitle>TODO</Electricity.discoveredLetterTitle>
+  <Electricity.discoveredLetterTitle>Maidir le: Leictreachas</Electricity.discoveredLetterTitle>
   <!-- EN:
     <li>subject->electricity</li>
     <li>subject_story->was struck by lighting and became determined to harness it</li>
@@ -99,7 +99,7 @@
   <Electricity.generalRules.rulesStrings>TODO</Electricity.generalRules.rulesStrings>
   
   <!-- EN: firefoam -->
-  <Firefoam.label>TODO</Firefoam.label>
+  <Firefoam.label>cúr múchta tine</Firefoam.label>
   <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
   <Firefoam.description>TODO</Firefoam.description>
   <!-- EN:

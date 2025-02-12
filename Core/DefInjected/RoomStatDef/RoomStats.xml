@@ -2,78 +2,78 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>TODO</Beauty.label>
+  <Beauty.label>áilleacht</Beauty.label>
   <!-- EN: very beautiful -->
-  <Beauty.scoreStages.very_beautiful.label>TODO</Beauty.scoreStages.very_beautiful.label>
+  <Beauty.scoreStages.very_beautiful.label>go hálainn</Beauty.scoreStages.very_beautiful.label>
   <!-- EN: extremely beautiful -->
-  <Beauty.scoreStages.extremely_beautiful.label>TODO</Beauty.scoreStages.extremely_beautiful.label>
+  <Beauty.scoreStages.extremely_beautiful.label>an-álainn</Beauty.scoreStages.extremely_beautiful.label>
   <!-- EN: unbelievably beautiful -->
-  <Beauty.scoreStages.unbelievably_beautiful.label>TODO</Beauty.scoreStages.unbelievably_beautiful.label>
+  <Beauty.scoreStages.unbelievably_beautiful.label>iontach álainn</Beauty.scoreStages.unbelievably_beautiful.label>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>TODO</Cleanliness.label>
+  <Cleanliness.label>glaineacht</Cleanliness.label>
   <!-- EN: very dirty -->
-  <Cleanliness.scoreStages.very_dirty.label>TODO</Cleanliness.scoreStages.very_dirty.label>
+  <Cleanliness.scoreStages.very_dirty.label>an-salach</Cleanliness.scoreStages.very_dirty.label>
   <!-- EN: slightly dirty -->
-  <Cleanliness.scoreStages.slightly_dirty.label>TODO</Cleanliness.scoreStages.slightly_dirty.label>
+  <Cleanliness.scoreStages.slightly_dirty.label>beagán salach</Cleanliness.scoreStages.slightly_dirty.label>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChance.label>TODO</FoodPoisonChance.label>
+  <FoodPoisonChance.label>seans go dtarlóidh bia-nimhiú</FoodPoisonChance.label>
   
   <!-- EN: grave visiting recreation factor -->
   <GraveVisitingJoyGainFactor.label>TODO</GraveVisitingJoyGainFactor.label>
   
   <!-- EN: impressiveness -->
-  <Impressiveness.label>TODO</Impressiveness.label>
+  <Impressiveness.label>galántacht</Impressiveness.label>
   <!-- EN: slightly impressive -->
-  <Impressiveness.scoreStages.slightly_impressive.label>TODO</Impressiveness.scoreStages.slightly_impressive.label>
+  <Impressiveness.scoreStages.slightly_impressive.label>beagán galánta</Impressiveness.scoreStages.slightly_impressive.label>
   <!-- EN: somewhat impressive -->
-  <Impressiveness.scoreStages.somewhat_impressive.label>TODO</Impressiveness.scoreStages.somewhat_impressive.label>
+  <Impressiveness.scoreStages.somewhat_impressive.label>sách galánta</Impressiveness.scoreStages.somewhat_impressive.label>
   <!-- EN: very impressive -->
-  <Impressiveness.scoreStages.very_impressive.label>TODO</Impressiveness.scoreStages.very_impressive.label>
+  <Impressiveness.scoreStages.very_impressive.label>galánta</Impressiveness.scoreStages.very_impressive.label>
   <!-- EN: extremely impressive -->
-  <Impressiveness.scoreStages.extremely_impressive.label>TODO</Impressiveness.scoreStages.extremely_impressive.label>
+  <Impressiveness.scoreStages.extremely_impressive.label>an-ghalánta</Impressiveness.scoreStages.extremely_impressive.label>
   <!-- EN: unbelievably impressive -->
-  <Impressiveness.scoreStages.unbelievably_impressive.label>TODO</Impressiveness.scoreStages.unbelievably_impressive.label>
+  <Impressiveness.scoreStages.unbelievably_impressive.label>iontach galánta</Impressiveness.scoreStages.unbelievably_impressive.label>
   <!-- EN: wondrously impressive -->
-  <Impressiveness.scoreStages.wondrously_impressive.label>TODO</Impressiveness.scoreStages.wondrously_impressive.label>
+  <Impressiveness.scoreStages.wondrously_impressive.label>thar a bheith galánta</Impressiveness.scoreStages.wondrously_impressive.label>
   
   <!-- EN: infection chance factor -->
-  <InfectionChanceFactor.label>TODO</InfectionChanceFactor.label>
+  <InfectionChanceFactor.label>seans ionfhabhtaithe</InfectionChanceFactor.label>
   
   <!-- EN: reading bonus -->
-  <ReadingBonus.label>TODO</ReadingBonus.label>
+  <ReadingBonus.label>bónas léitheoireachta</ReadingBonus.label>
   
   <!-- EN: research speed factor -->
-  <ResearchSpeedFactor.label>TODO</ResearchSpeedFactor.label>
+  <ResearchSpeedFactor.label>luas taighde</ResearchSpeedFactor.label>
   
   <!-- EN: space -->
-  <Space.label>TODO</Space.label>
+  <Space.label>spás</Space.label>
   <!-- EN: rather tight -->
-  <Space.scoreStages.rather_tight.label>TODO</Space.scoreStages.rather_tight.label>
+  <Space.scoreStages.rather_tight.label>cúng</Space.scoreStages.rather_tight.label>
   <!-- EN: somewhat spacious -->
-  <Space.scoreStages.somewhat_spacious.label>TODO</Space.scoreStages.somewhat_spacious.label>
+  <Space.scoreStages.somewhat_spacious.label>sách mór</Space.scoreStages.somewhat_spacious.label>
   <!-- EN: quite spacious -->
-  <Space.scoreStages.quite_spacious.label>TODO</Space.scoreStages.quite_spacious.label>
+  <Space.scoreStages.quite_spacious.label>mór</Space.scoreStages.quite_spacious.label>
   <!-- EN: very spacious -->
-  <Space.scoreStages.very_spacious.label>TODO</Space.scoreStages.very_spacious.label>
+  <Space.scoreStages.very_spacious.label>an-mhór</Space.scoreStages.very_spacious.label>
   <!-- EN: extremely spacious -->
-  <Space.scoreStages.extremely_spacious.label>TODO</Space.scoreStages.extremely_spacious.label>
+  <Space.scoreStages.extremely_spacious.label>iontach mór</Space.scoreStages.extremely_spacious.label>
   
   <!-- EN: surgery success chance cleanliness factor -->
   <SurgerySuccessChanceCleanlinessFactor.label>TODO</SurgerySuccessChanceCleanlinessFactor.label>
   
   <!-- EN: wealth -->
-  <Wealth.label>TODO</Wealth.label>
+  <Wealth.label>saibhreas</Wealth.label>
   <!-- EN: somewhat poor -->
-  <Wealth.scoreStages.somewhat_poor.label>TODO</Wealth.scoreStages.somewhat_poor.label>
+  <Wealth.scoreStages.somewhat_poor.label>sách bocht</Wealth.scoreStages.somewhat_poor.label>
   <!-- EN: somewhat rich -->
-  <Wealth.scoreStages.somewhat_rich.label>TODO</Wealth.scoreStages.somewhat_rich.label>
+  <Wealth.scoreStages.somewhat_rich.label>sách saibhir</Wealth.scoreStages.somewhat_rich.label>
   <!-- EN: very luxurious -->
-  <Wealth.scoreStages.very_luxurious.label>TODO</Wealth.scoreStages.very_luxurious.label>
+  <Wealth.scoreStages.very_luxurious.label>an-saibhir</Wealth.scoreStages.very_luxurious.label>
   <!-- EN: extremely luxurious -->
-  <Wealth.scoreStages.extremely_luxurious.label>TODO</Wealth.scoreStages.extremely_luxurious.label>
+  <Wealth.scoreStages.extremely_luxurious.label>iontach saibhir</Wealth.scoreStages.extremely_luxurious.label>
   <!-- EN: unbelievably luxurious -->
-  <Wealth.scoreStages.unbelievably_luxurious.label>TODO</Wealth.scoreStages.unbelievably_luxurious.label>
+  <Wealth.scoreStages.unbelievably_luxurious.label>thar a bheith saibhir</Wealth.scoreStages.unbelievably_luxurious.label>
   
 </LanguageData>

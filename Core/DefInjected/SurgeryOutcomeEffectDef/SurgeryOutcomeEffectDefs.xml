@@ -27,8 +27,8 @@
   <SurgeryOutcomeBase.outcomes.6.letterText>Níor eirigh le{SURGEON_labelShort} le linn na hobráide ar {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeBase.outcomes.6.letterText>
   
   <!-- EN: Surgery failed on {PATIENT_labelShort} -->
-  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>TODO</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>Theip ar an obráid a rinneadh ar {PATIENT_labelShort}</SurgeryOutcomeMinorFailure.outcomes.1.letterLabel>
   <!-- EN: {SURGEON_labelShort} has failed in a minor way while operating on {PATIENT_labelShort} ({RECIPE_label}). -->
-  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>TODO</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
+  <SurgeryOutcomeMinorFailure.outcomes.1.letterText>Níor eirigh le{SURGEON_labelShort} le linn na hobráide ar {PATIENT_labelShort} ({RECIPE_label}).</SurgeryOutcomeMinorFailure.outcomes.1.letterText>
   
 </LanguageData>

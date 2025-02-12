@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: constructed roof -->
-  <RoofConstructed.label>TODO</RoofConstructed.label>
+  <RoofConstructed.label>díon foirgnithe</RoofConstructed.label>
   
   <!-- EN: overhead mountain -->
-  <RoofRockThick.label>TODO</RoofRockThick.label>
+  <RoofRockThick.label>sliabh</RoofRockThick.label>
   
   <!-- EN: rock roof (thin) -->
-  <RoofRockThin.label>TODO</RoofRockThin.label>
+  <RoofRockThin.label>díon cloiche</RoofRockThin.label>
   
 </LanguageData>

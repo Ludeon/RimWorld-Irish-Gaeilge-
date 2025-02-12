@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: deep drilling -->
-  <DeepDrilling.label>TODO</DeepDrilling.label>
+  <DeepDrilling.label>domhandruileáil</DeepDrilling.label>
   <!-- EN: Build deep drills for extracting resources from underground. You'll need a ground-penetrating scanner to find the resources. -->
-  <DeepDrilling.description>TODO</DeepDrilling.description>
+  <DeepDrilling.description>Tóg domhandruileanna chun acmhainní a bhaint ón talamh. Beidh geo-scanóir de dhíth ort chun na hacmhainní a aimsiú roimh ré.</DeepDrilling.description>
   <!-- EN:
     <li>subject->deep mining</li>
     <li>subject_story->moved in with a dirtmole-led corp, studying its deepest excavations</li>
@@ -15,9 +15,9 @@
   <DeepDrilling.generalRules.rulesStrings>TODO</DeepDrilling.generalRules.rulesStrings>
   
   <!-- EN: flatscreen television -->
-  <FlatscreenTelevision.label>TODO</FlatscreenTelevision.label>
+  <FlatscreenTelevision.label>teilifís réscáileáin</FlatscreenTelevision.label>
   <!-- EN: Produce high-resolution flatscreen televisions for greater enjoyment. -->
-  <FlatscreenTelevision.description>TODO</FlatscreenTelevision.description>
+  <FlatscreenTelevision.description>Tóg teilifíseáin réscáileáin. Is maith le daoine breatnú ar an teilifís.</FlatscreenTelevision.description>
   <!-- EN:
     <li>subject->flatscreen televisions</li>
     <li>subject_story->experimented with removing tubes from televisions</li>
@@ -33,9 +33,9 @@
   <FlatscreenTelevision.generalRules.rulesStrings>TODO</FlatscreenTelevision.generalRules.rulesStrings>
   
   <!-- EN: ground-penetrating scanner -->
-  <GroundPenetratingScanner.label>TODO</GroundPenetratingScanner.label>
+  <GroundPenetratingScanner.label>geo-scanóir</GroundPenetratingScanner.label>
   <!-- EN: Build ground-penetrating scanners that can detect drillable resources under the surface. Requires an advanced component to construct. -->
-  <GroundPenetratingScanner.description>TODO</GroundPenetratingScanner.description>
+  <GroundPenetratingScanner.description>Is féidir geo-scanóirí a úsáid chun acmhainní a aimsiú faoin talamh. Tá comhpháirt ardleibhéil ag teastáil chun geo-scanóir a thógáil.</GroundPenetratingScanner.description>
   <!-- EN:
     <li>subject->geophysics</li>
     <li>subject->ground-penetrating scanners</li>
@@ -47,9 +47,9 @@
   <GroundPenetratingScanner.generalRules.rulesStrings>TODO</GroundPenetratingScanner.generalRules.rulesStrings>
   
   <!-- EN: autocannon turret -->
-  <HeavyTurrets.label>TODO</HeavyTurrets.label>
+  <HeavyTurrets.label>túirín uathghunna</HeavyTurrets.label>
   <!-- EN: Produce the heavy autocannon turret. -->
-  <HeavyTurrets.description>TODO</HeavyTurrets.description>
+  <HeavyTurrets.description>Tóg an túirín uathghunna.</HeavyTurrets.description>
   <!-- EN:
     <li>subject->autocannon turrets</li>
     <li>subject_story->held off a cultist assault alone, hiding behind a wall of turrets</li>
@@ -60,9 +60,9 @@
   <HeavyTurrets.generalRules.rulesStrings>TODO</HeavyTurrets.generalRules.rulesStrings>
   
   <!-- EN: hospital bed -->
-  <HospitalBed.label>TODO</HospitalBed.label>
+  <HospitalBed.label>leaba ospidéil</HospitalBed.label>
   <!-- EN: Construct hospital beds which improve medical outcomes. -->
-  <HospitalBed.description>TODO</HospitalBed.description>
+  <HospitalBed.description>Tóg leapacha ospidéil. Cuireann leapacha ospidéil le torthaí leighis.</HospitalBed.description>
   <!-- EN:
     <li>subject->hospitalization</li>
     <li>subject_story->oversaw a revolution in the standards of medical care</li>
@@ -73,9 +73,9 @@
   <HospitalBed.generalRules.rulesStrings>TODO</HospitalBed.generalRules.rulesStrings>
   
   <!-- EN: long-range mineral scanner -->
-  <LongRangeMineralScanner.label>TODO</LongRangeMineralScanner.label>
+  <LongRangeMineralScanner.label>geo-scanóir fadraoin</LongRangeMineralScanner.label>
   <!-- EN: Construct long-range mineral scanners your researchers can use to detect precious minerals across the planet. Can be tuned to find a specific mineral. Requires advanced components to construct. -->
-  <LongRangeMineralScanner.description>TODO</LongRangeMineralScanner.description>
+  <LongRangeMineralScanner.description>Is féidir geo-scanóirí fadraoin a úsáid chun mianraí luachmhara a aimsiú ar fud an phláinéid. Is féidir acmhainní ar leith a churdach leo. Tá comhpháirteanna ardleibhéil ag teastáil chun an scanóir seo a thógáil.</LongRangeMineralScanner.description>
   <!-- EN:
     <li>subject->long-range mineral detection</li>
     <li>subject_story->built so many scanners that the planet's entire geology was revealed</li>
@@ -86,9 +86,9 @@
   <LongRangeMineralScanner.generalRules.rulesStrings>TODO</LongRangeMineralScanner.generalRules.rulesStrings>
   
   <!-- EN: medicine production -->
-  <MedicineProduction.label>TODO</MedicineProduction.label>
+  <MedicineProduction.label>táirgeadh leighis</MedicineProduction.label>
   <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
-  <MedicineProduction.description>TODO</MedicineProduction.description>
+  <MedicineProduction.description>Déan leigheas a tháirgeadh go tionsclaíoch ag baint úsáid as acmhainní éagsúla.</MedicineProduction.description>
   <!-- EN:
     <li>subject->medical synthesis</li>
     <li>subject->medicine production</li>
@@ -100,9 +100,9 @@
   <MedicineProduction.generalRules.rulesStrings>TODO</MedicineProduction.generalRules.rulesStrings>
   
   <!-- EN: microelectronics -->
-  <MicroelectronicsBasics.label>TODO</MicroelectronicsBasics.label>
+  <MicroelectronicsBasics.label>micrileictreonaic</MicroelectronicsBasics.label>
   <!-- EN: Work with complex microelectronics. This unlocks the hi-tech research bench and comms console. -->
-  <MicroelectronicsBasics.description>TODO</MicroelectronicsBasics.description>
+  <MicroelectronicsBasics.description>Téigh i mbun oibre le micrileictreonaic chasta. Leis an tionscadal seo, beidh tú in ann an binse taighde ardteicneolaíochta agus an consól cumarsáide a thógáil.</MicroelectronicsBasics.description>
   <!-- EN:
     <li>subject->microelectronics</li>
     <li>subject_story->moved into the development of microelectronics</li>
@@ -113,9 +113,9 @@
   <MicroelectronicsBasics.generalRules.rulesStrings>TODO</MicroelectronicsBasics.generalRules.rulesStrings>
   
   <!-- EN: moisture pump -->
-  <MoisturePump.label>TODO</MoisturePump.label>
+  <MoisturePump.label>caidéal taise</MoisturePump.label>
   <!-- EN: Construct moisture pumps, which very slowly normalize the moisture in the ground around them. They can turn wet ground dry and convert soft sand into normal sand. -->
-  <MoisturePump.description>TODO</MoisturePump.description>
+  <MoisturePump.description>Is féidir caidéal taise a úsáidtear chun uisce agus taisleach a bhaint ón talamh.</MoisturePump.description>
   <!-- EN:
     <li>subject->moisture pumps</li>
     <li>subject_story->studied the ancient windmill moisture pumps of Earth</li>
@@ -126,9 +126,9 @@
   <MoisturePump.generalRules.rulesStrings>TODO</MoisturePump.generalRules.rulesStrings>
   
   <!-- EN: multibarrel weapons -->
-  <MultibarrelWeapons.label>TODO</MultibarrelWeapons.label>
+  <MultibarrelWeapons.label>gunnaí ilbairille</MultibarrelWeapons.label>
   <!-- EN: Assemble miniguns. -->
-  <MultibarrelWeapons.description>TODO</MultibarrelWeapons.description>
+  <MultibarrelWeapons.description>Tóg gunnaí móra ilbairille.</MultibarrelWeapons.description>
   <!-- EN:
     <li>subject->miniguns</li>
     <li>subject_story->constructed a unique portable minigun, which was the only thing found after the squad's disappearance</li>
@@ -139,9 +139,9 @@
   <MultibarrelWeapons.generalRules.rulesStrings>TODO</MultibarrelWeapons.generalRules.rulesStrings>
   
   <!-- EN: precision rifling -->
-  <PrecisionRifling.label>TODO</PrecisionRifling.label>
+  <PrecisionRifling.label>raidhfilí</PrecisionRifling.label>
   <!-- EN: Craft precisely-machined guns like assault rifles and sniper rifles. -->
-  <PrecisionRifling.description>TODO</PrecisionRifling.description>
+  <PrecisionRifling.description>Tóg raidhfilí, ar nós raidhfilí ionsaithe agus raidhfilí snípéara.</PrecisionRifling.description>
   <!-- EN:
     <li>subject->rifles</li>
     <li>subject_story->improved the tolerances of a foundry's processes, enabling the production of quality rifling</li>
@@ -152,9 +152,9 @@
   <PrecisionRifling.generalRules.rulesStrings>TODO</PrecisionRifling.generalRules.rulesStrings>
   
   <!-- EN: shields -->
-  <ShieldBelt.label>TODO</ShieldBelt.label>
+  <ShieldBelt.label>cosantóirí</ShieldBelt.label>
   <!-- EN: Build wearable shield gear. Shields use momentum-repulsion technology to prevent projectiles from traversing the field boundary. -->
-  <ShieldBelt.description>TODO</ShieldBelt.description>
+  <ShieldBelt.description>Tóg cosantóirí inchaite. Úsáideann cosanteoirí teicneolaíocht éartha chun cosaint a thabhairt don chaiteoir ó theilgeáin agus diúracáin.</ShieldBelt.description>
   <!-- EN:
     <li>subject->personal shielding</li>
     <li>subject_story->survived an assassination attempt, thanks to a prototype shield</li>
@@ -165,9 +165,9 @@
   <ShieldBelt.generalRules.rulesStrings>TODO</ShieldBelt.generalRules.rulesStrings>
   
   <!-- EN: transport pod -->
-  <TransportPod.label>TODO</TransportPod.label>
+  <TransportPod.label>pod iompair</TransportPod.label>
   <!-- EN: Construct launchable transport pods that you can use to send people and supplies long distances across the planet's surface. Can be used for raiding, travel, sending gifts, and more. -->
-  <TransportPod.description>TODO</TransportPod.description>
+  <TransportPod.description>Is féidir podanna iompair a lainseáil chun daoine agus earraí a sheoladh i bhfad i gcéin. Is féidir podanna iompair a úsáid le haghaidh ruathar, chun brontannas a sheoladh nó chun daoine a bhogadh ó áit go háit.</TransportPod.description>
   <!-- EN:
     <li>subject->transport pods</li>
     <li>subject_story->landed a pod in the middle of a feral tribe and barely escaped alive</li>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: starflight basics -->
-  <ShipBasics.label>TODO</ShipBasics.label>
+  <ShipBasics.label>buncoincheapa na spáseitilte</ShipBasics.label>
   <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
-  <ShipBasics.description>TODO</ShipBasics.description>
+  <ShipBasics.description>Tóg comhpháirteannta struchtúrtha agus tacaíochta spásloinge. Is é seo an chéad chéim i dtreo spáslong a thógáil chun éalú ón bpláinéad seo.</ShipBasics.description>
   <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nA new Ship category is available in the Architect menu from which you may build ship parts once the appropriate technology is researched. Ships require several different parts in order to launch, including a ship reactor.\n\nShip reactors take 15 days to charge up and many desperate souls want off this planet. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
-  <ShipBasics.discoveredLetterText>TODO</ShipBasics.discoveredLetterText>
+  <ShipBasics.discoveredLetterText>Tá deis agat anois éalú ón bpláinéad, agus filleadh abhaile...\n\nBheadh an turas sin an-dáinséarach, áfach.\n\nTá catagóir nua, Spáslong, ar fáil anois sa roghchlár Ailtireachta. Féadfaidh tú comhpháirteanna spásloinge a thógáil anois, nuair a bheidh an taighde ceart déanta agat. Beidh roinnt comhpháirteanna difriúla ag teastáil sula mbeidh spáslong in ann éirí de thalamh, imoibreoir spásloinge ina measc.\n\nTógann sé 15 lá ar imoibreoir spásloinge luchtú go hiomlán, agus tá go leor daoine atá ag iarraidh éalú ón bplániéad seo. A luaithe is a chuirfidh tú tús leis an bpróiseas sin, cuirfear amach comhartha agus beidh muintir an phláinéid ar an eolas go bhfuil tú ar tí imeacht. Tiocfaidh naimhde chuig do choilíneacht ina ráigeanna, agus beidh siad níos déine agus níos tréine ná aon rud atá feicthe agat roimhe seo. Mealltar meicea-róbait chuig comharthaí den sórt sin freisin.\n\nNí thiocfaidh  na ráigeanna go dtí go gcuirfidh tú tús leis an imoibreoir, ach bí cinnte go bhfuil tú iomlán réidh sula gcuirfidh tú tus leis an ruathar.</ShipBasics.discoveredLetterText>
   <!-- EN: About: Launching the ship -->
-  <ShipBasics.discoveredLetterTitle>TODO</ShipBasics.discoveredLetterTitle>
+  <ShipBasics.discoveredLetterTitle>Tá an spáslong á lainseáil</ShipBasics.discoveredLetterTitle>
   <!-- EN:
     <li>subject->starship structural engineering</li>
     <li>subject_story->recruited starship engineers for a glitterworld fleet</li>
@@ -19,9 +19,9 @@
   <ShipBasics.generalRules.rulesStrings>TODO</ShipBasics.generalRules.rulesStrings>
   
   <!-- EN: machine persuasion -->
-  <ShipComputerCore.label>TODO</ShipComputerCore.label>
+  <ShipComputerCore.label>intleacht shaorga</ShipComputerCore.label>
   <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
-  <ShipComputerCore.description>TODO</ShipComputerCore.description>
+  <ShipComputerCore.description>Tóg intleacht shaorga chun do spáslong a stiúradh. Is fearr captaen digiteach a bheith agat, toisc go mbíonn daoine i gcriptea-chodladh le linn an aistir idir na réalta.</ShipComputerCore.description>
   <!-- EN:
     <li>subject->persona core incentivization</li>
     <li>subject->starship AI sanity maintenance</li>
@@ -35,9 +35,9 @@
   <ShipComputerCore.generalRules.rulesStrings>TODO</ShipComputerCore.generalRules.rulesStrings>
   
   <!-- EN: vacuum cryptosleep casket -->
-  <ShipCryptosleep.label>TODO</ShipCryptosleep.label>
+  <ShipCryptosleep.label>pod criptea-chodlata spásloinge</ShipCryptosleep.label>
   <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
-  <ShipCryptosleep.description>TODO</ShipCryptosleep.description>
+  <ShipCryptosleep.description>Tóg pod criptea-chodlata spásloinge. Feidhmíonn an pod i bhfolús, rud a chiallaíonn go n-oibreoidh sé le linn an aistir fhada idir na réalta.</ShipCryptosleep.description>
   <!-- EN:
     <li>subject->starship-grade cryptosleep caskets</li>
     <li>subject_story->replaced the failed cryptosleep caskets on the CMC Celeste, so the old generation ship could be used again</li>
@@ -48,9 +48,9 @@
   <ShipCryptosleep.generalRules.rulesStrings>TODO</ShipCryptosleep.generalRules.rulesStrings>
   
   <!-- EN: Johnson-Tanaka drive -->
-  <ShipEngine.label>TODO</ShipEngine.label>
+  <ShipEngine.label>inneall Johnson-Tanaka </ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
-  <ShipEngine.description>TODO</ShipEngine.description>
+  <ShipEngine.description>Tóg inneall Johnson-Tanaka le haghaidh do spásloinge. Úsáideann an t-inneall seo teicneolaíocht ar an leibhéal candamach chun spáslong a choinneáil ag gluaiseacht tríd an spás. Níl sé chomh tapa le luas an tsolais, áfach - mar sin tógfaidh sé na blianta ort pláinéid eile a bhaint amach.</ShipEngine.description>
   <!-- EN:
     <li>subject->Johnson-Tanaka theory</li>
     <li>subject->exotic momentum transfer</li>
@@ -62,9 +62,9 @@
   <ShipEngine.generalRules.rulesStrings>TODO</ShipEngine.generalRules.rulesStrings>
   
   <!-- EN: starship reactor -->
-  <ShipReactor.label>TODO</ShipReactor.label>
+  <ShipReactor.label>imoibreoir spásloinge</ShipReactor.label>
   <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
-  <ShipReactor.description>TODO</ShipReactor.description>
+  <ShipReactor.description>Tóg imoibreoir núicléach chun do spáslong a chumachtú. Mar eolas, tógann sé cuid mhór ama an t-imoibreoir a thosú, agus meallfar naimhde chuig do choilíneacht ina ráigeanna.</ShipReactor.description>
   <!-- EN:
     <li>subject->starship nuclear reactor</li>
     <li>subject_story->constructed a new reactor for a colony ship, but never lived to see it lift off</li>
@@ -75,9 +75,9 @@
   <ShipReactor.generalRules.rulesStrings>TODO</ShipReactor.generalRules.rulesStrings>
   
   <!-- EN: starflight sensors -->
-  <ShipSensorCluster.label>TODO</ShipSensorCluster.label>
+  <ShipSensorCluster.label>braiteoirí spásloinge</ShipSensorCluster.label>
   <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
-  <ShipSensorCluster.description>TODO</ShipSensorCluster.description>
+  <ShipSensorCluster.description>Tóg braiteoirí fadraoin le haghaidh spásloinge. Tá ná braiteoirí seo ríthábhachtach don loingseoireacht, don chumarsáid agus chun bagairtí a aimsiú sa spás.</ShipSensorCluster.description>
   <!-- EN:
     <li>subject->interstellar navigation</li>
     <li>subject_story->used prototype starship sensors to detect an incoming extinction-level asteroid and evacuate the planet</li>

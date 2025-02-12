@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: fabric -->
-  <Fabric.label>TODO</Fabric.label>
+  <Fabric.label>fabraic</Fabric.label>
   <!-- EN: fabric -->
-  <Fabric.noun>TODO</Fabric.noun>
+  <Fabric.noun>fabraic</Fabric.noun>
   
   <!-- EN: leathery -->
-  <Leathery.label>TODO</Leathery.label>
+  <Leathery.label>leathair</Leathery.label>
   <!-- EN: leather -->
-  <Leathery.noun>TODO</Leathery.noun>
+  <Leathery.noun>leathar</Leathery.noun>
   
   <!-- EN: metallic -->
-  <Metallic.label>TODO</Metallic.label>
+  <Metallic.label>miotailleach</Metallic.label>
   <!-- EN: metal -->
-  <Metallic.noun>TODO</Metallic.noun>
+  <Metallic.noun>miotal</Metallic.noun>
   
   <!-- EN: stony -->
-  <Stony.label>TODO</Stony.label>
+  <Stony.label>cloiche</Stony.label>
   <!-- EN: stone -->
-  <Stony.noun>TODO</Stony.noun>
+  <Stony.noun>cloch</Stony.noun>
   
   <!-- EN: woody -->
-  <Woody.label>TODO</Woody.label>
+  <Woody.label>admhad</Woody.label>
   <!-- EN: wood -->
-  <Woody.noun>TODO</Woody.noun>
+  <Woody.noun>adhmad</Woody.noun>
   
 </LanguageData>

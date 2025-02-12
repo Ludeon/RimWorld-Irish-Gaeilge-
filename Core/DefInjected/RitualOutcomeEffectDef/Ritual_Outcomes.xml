@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: Depending on ritual quality, participants will get between {MINMOOD} and {MAXMOOD} mood for {MOODDAYS} days. -->
-  <AttendedSpeech.description>TODO</AttendedSpeech.description>
+  <AttendedSpeech.description>Ag brath ar cháilíocht an deasghnátha, beidh giúmar idir {MINMOOD} agus {MAXMOOD} ar do choilínigh ar feadh {MOODDAYS} lá.</AttendedSpeech.description>
   <!-- EN: {PAWN_labelShort}'s social impact -->
-  <AttendedSpeech.comps.0.label>TODO</AttendedSpeech.comps.0.label>
+  <AttendedSpeech.comps.0.label>tionchar sóisialta {PAWN_labelShort}</AttendedSpeech.comps.0.label>
   <!-- EN: speaker's social impact -->
-  <AttendedSpeech.comps.0.labelAbstract>TODO</AttendedSpeech.comps.0.labelAbstract>
+  <AttendedSpeech.comps.0.labelAbstract>tionchar sóisialta an chainteora</AttendedSpeech.comps.0.labelAbstract>
   <!-- EN: participant count -->
-  <AttendedSpeech.comps.1.label>TODO</AttendedSpeech.comps.1.label>
+  <AttendedSpeech.comps.1.label>líon na rannpháirtithe</AttendedSpeech.comps.1.label>
   <!-- EN: room impressiveness -->
-  <AttendedSpeech.comps.2.label>TODO</AttendedSpeech.comps.2.label>
+  <AttendedSpeech.comps.2.label>galántacht an tseomra</AttendedSpeech.comps.2.label>
   <!-- EN: Terrible -->
-  <AttendedSpeech.outcomeChances.0.label>TODO</AttendedSpeech.outcomeChances.0.label>
+  <AttendedSpeech.outcomeChances.0.label>Uafásach</AttendedSpeech.outcomeChances.0.label>
   <!-- EN: Uninspiring -->
-  <AttendedSpeech.outcomeChances.1.label>TODO</AttendedSpeech.outcomeChances.1.label>
+  <AttendedSpeech.outcomeChances.1.label>Tuirsiúil</AttendedSpeech.outcomeChances.1.label>
   <!-- EN: Encouraging -->
-  <AttendedSpeech.outcomeChances.2.label>TODO</AttendedSpeech.outcomeChances.2.label>
+  <AttendedSpeech.outcomeChances.2.label>Misniúil</AttendedSpeech.outcomeChances.2.label>
   <!-- EN: Inspirational -->
-  <AttendedSpeech.outcomeChances.3.label>TODO</AttendedSpeech.outcomeChances.3.label>
+  <AttendedSpeech.outcomeChances.3.label>Inspioráideach</AttendedSpeech.outcomeChances.3.label>
   
 </LanguageData>

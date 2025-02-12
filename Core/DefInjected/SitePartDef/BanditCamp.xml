@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: bandit camp -->
-  <BanditCamp.label>TODO</BanditCamp.label>
+  <BanditCamp.label>campa meirleach</BanditCamp.label>
   <!-- EN: A bandit camp. -->
-  <BanditCamp.description>TODO</BanditCamp.description>
+  <BanditCamp.description>Campla meirleach.</BanditCamp.description>
   <!-- EN: Attacking {0} -->
-  <BanditCamp.approachingReportString>TODO</BanditCamp.approachingReportString>
+  <BanditCamp.approachingReportString>Ag ionsaí {0}</BanditCamp.approachingReportString>
   <!-- EN: Attack {0} -->
-  <BanditCamp.approachOrderString>TODO</BanditCamp.approachOrderString>
+  <BanditCamp.approachOrderString>Ionsaigh {0}</BanditCamp.approachOrderString>
   <!-- EN: There is an enemy outpost in this area. -->
-  <BanditCamp.arrivedLetter>TODO</BanditCamp.arrivedLetter>
+  <BanditCamp.arrivedLetter>Tá campa meirleach sa cheantar seo.</BanditCamp.arrivedLetter>
   
 </LanguageData>

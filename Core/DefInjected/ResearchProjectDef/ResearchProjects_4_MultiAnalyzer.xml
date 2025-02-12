@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: advanced fabrication -->
-  <AdvancedFabrication.label>TODO</AdvancedFabrication.label>
+  <AdvancedFabrication.label>déantúsaíocht ardleibhéil</AdvancedFabrication.label>
   <!-- EN: Fabricate advanced components from standard components and other materials. -->
-  <AdvancedFabrication.description>TODO</AdvancedFabrication.description>
+  <AdvancedFabrication.description>Tóg comhpháirteanna ardlebhéil as gnáth-chomhpháirteanna agus ábhair eile.</AdvancedFabrication.description>
   <!-- EN:
     <li>subject->advanced component fabrication</li>
     <li>subject_story->traded advanced components to desperate rimworlders</li>
@@ -15,9 +15,9 @@
   <AdvancedFabrication.generalRules.rulesStrings>TODO</AdvancedFabrication.generalRules.rulesStrings>
   
   <!-- EN: bionic replacements -->
-  <Bionics.label>TODO</Bionics.label>
+  <Bionics.label>bitheonaic</Bionics.label>
   <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
-  <Bionics.description>TODO</Bionics.description>
+  <Bionics.description>Tóg bitheonaic ardleibhéil, ar nós lámh agus súile saorga. Tá dochtúir oilte ag teastáil chun na bitheonaic seo a úsáid.</Bionics.description>
   <!-- EN:
     <li>subject->bionic prosthesis</li>
     <li>subject_story->worked primarily with disfigured soldiers, crafting bespoke bionic facial elements so they could return to their loved ones</li>
@@ -29,9 +29,9 @@
   <Bionics.generalRules.rulesStrings>TODO</Bionics.generalRules.rulesStrings>
   
   <!-- EN: pulse-charged munitions -->
-  <ChargedShot.label>TODO</ChargedShot.label>
+  <ChargedShot.label>muinisin bíog-bhunaithe</ChargedShot.label>
   <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
-  <ChargedShot.description>TODO</ChargedShot.description>
+  <ChargedShot.description>Tóg airm ina n-úsáidtear teicneolaíocht bíog-bhunaithe, rud a chiallaíonn go ndéanann siad níos mó damáiste. Tá comhpháirteanna ardleibhéil ag taisteáil chun na hairm seo a thógáil.</ChargedShot.description>
   <!-- EN:
     <li>subject->pulse munitions</li>
     <li>subject_story->studied glitterworld monorails and modified the tech for weapons</li>
@@ -43,9 +43,9 @@
   <ChargedShot.generalRules.rulesStrings>TODO</ChargedShot.generalRules.rulesStrings>
   
   <!-- EN: cryptosleep casket -->
-  <Cryptosleep.label>TODO</Cryptosleep.label>
+  <Cryptosleep.label>pod criptea-chodlata</Cryptosleep.label>
   <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
-  <Cryptosleep.description>TODO</Cryptosleep.description>
+  <Cryptosleep.description>Tóg podanna criptea-chodlata, inar féidir nithe beo a chur i bhfionraí beochana.</Cryptosleep.description>
   <!-- EN:
     <li>subject->cryptosleep</li>
     <li>subject_story->intended to test a prototype cryptosleep casket and woke a generation later, alone</li>
@@ -57,13 +57,13 @@
   <Cryptosleep.generalRules.rulesStrings>TODO</Cryptosleep.generalRules.rulesStrings>
   
   <!-- EN: fabrication -->
-  <Fabrication.label>TODO</Fabrication.label>
+  <Fabrication.label>déantúsaíocht</Fabrication.label>
   <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
-  <Fabrication.description>TODO</Fabrication.description>
+  <Fabrication.description>Tóg binsí déantúsaíochta, lena bhfeadfaidh tú tionscadail ardleibhéil a dhéanamh - mar shampla, comhpháirteanna agus cumhachtarmúr a thógáil.</Fabrication.description>
   <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
-  <Fabrication.discoveredLetterText>TODO</Fabrication.discoveredLetterText>
+  <Fabrication.discoveredLetterText>Tá an teicneolaíocht agat anois binse déantúsaíochta a thógáil - ach tá cúpla comhpháirt ardleibhéil de dhíth ort freisin. Tá roinnt bealaí ann comhpháirteanna ardleibhéil a aimsiú:\n\n  -Díoltar comhpháirteanna ardleibhéil i lonnaíochtaí eile.\n  -Uaireanta bíonn comhpháirteanna ardleibhéil ag trádálaithe.\n  -Bíonn compháirteanna ardleibhéil ar fáil i roinnt misean.</Fabrication.discoveredLetterText>
   <!-- EN: About: Getting advanced components -->
-  <Fabrication.discoveredLetterTitle>TODO</Fabrication.discoveredLetterTitle>
+  <Fabrication.discoveredLetterTitle>Comhpháirteanna ardleibhéil a aimsiú</Fabrication.discoveredLetterTitle>
   <!-- EN:
     <li>subject->high-tech fabrication benches</li>
     <li>subject_story->spent many years crafting advanced components, to make fabrication benches to make more advanced components</li>
@@ -75,9 +75,9 @@
   <Fabrication.generalRules.rulesStrings>TODO</Fabrication.generalRules.rulesStrings>
   
   <!-- EN: multi-analyzer -->
-  <MultiAnalyzer.label>TODO</MultiAnalyzer.label>
+  <MultiAnalyzer.label>il-anailíseoir</MultiAnalyzer.label>
   <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
-  <MultiAnalyzer.description>TODO</MultiAnalyzer.description>
+  <MultiAnalyzer.description>Tóg il-anailíseoir, gléas a chuireann leis an luas taighde agus a ligeann duit taighde ardleibhéil a dhéanamh.</MultiAnalyzer.description>
   <!-- EN:
     <li>subject->multi-analysis</li>
     <li>subject_story->automated a research laboratory</li>
@@ -88,9 +88,9 @@
   <MultiAnalyzer.generalRules.rulesStrings>TODO</MultiAnalyzer.generalRules.rulesStrings>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>TODO</PoweredArmor.label>
+  <PoweredArmor.label>cumhachtarmúr saighdiúra</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
-  <PoweredArmor.description>TODO</PoweredArmor.description>
+  <PoweredArmor.description>Tóg cumhachtarmúr saighdiúra. Bíonn an t-armúr seo in úsáid go forleathan ag saighdiúirí agus trúpaí. Tá comhpháirteanna ardleihbéil ag teastáil chun an t-armúr seo a thógáil.</PoweredArmor.description>
   <!-- EN:
     <li>subject->marine armor</li>
     <li>subject_story->was employed by the shock troops to maintain their armor</li>
@@ -103,9 +103,9 @@
   <PoweredArmor.generalRules.rulesStrings>TODO</PoweredArmor.generalRules.rulesStrings>
   
   <!-- EN: recon armor -->
-  <ReconArmor.label>TODO</ReconArmor.label>
+  <ReconArmor.label>cumhachtarmúr éadrom</ReconArmor.label>
   <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
-  <ReconArmor.description>TODO</ReconArmor.description>
+  <ReconArmor.description>Tóg cumhachtarmúr éadrom. Bíonn an t-armúr seo in úsáid go minic ag spiairí agus scabhtaí. Tá comhpháirteanna ardleihbéil ag teastáil chun an t-armúr seo a thógáil.</ReconArmor.description>
   <!-- EN:
     <li>subject->recon armor</li>
     <li>subject_story->led the rebel scouts against the Imperial forces, until captured</li>
@@ -117,9 +117,9 @@
   <ReconArmor.generalRules.rulesStrings>TODO</ReconArmor.generalRules.rulesStrings>
   
   <!-- EN: rocketswarm launcher -->
-  <RocketswarmLauncher.label>TODO</RocketswarmLauncher.label>
+  <RocketswarmLauncher.label>teilgeoir roicéad</RocketswarmLauncher.label>
   <!-- EN: Produce rocketswarm launchers, single-burst turrets which can devastate a wide area at a key moment in battle. -->
-  <RocketswarmLauncher.description>TODO</RocketswarmLauncher.description>
+  <RocketswarmLauncher.description>Tóg teilgeoirí roicéad, túiríní beaga a úsáidtear chun damáiste ar scála mór a dhéanamh.</RocketswarmLauncher.description>
   <!-- EN:
     <li>subject->rocket turrets</li>
     <li>subject_story->testified about the use of rocketswarm launchers against civilian targets</li>
@@ -130,9 +130,9 @@
   <RocketswarmLauncher.generalRules.rulesStrings>TODO</RocketswarmLauncher.generalRules.rulesStrings>
   
   <!-- EN: uranium slug turret -->
-  <SniperTurret.label>TODO</SniperTurret.label>
+  <SniperTurret.label>túirín slugaí úráiniam</SniperTurret.label>
   <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
-  <SniperTurret.description>TODO</SniperTurret.description>
+  <SniperTurret.description>Tóg túirín slugaí úráiniam. Is féidir slugaí úráiniam a scaoileadh uaidh, lenar féidir armúr agus plaisti-mhiotal a scriosadh go héasca.</SniperTurret.description>
   <!-- EN:
     <li>subject->sniper turrets</li>
     <li>subject_story->led the clean-up after the war, collecting spent radioactive uranium slugs from the front line</li>
@@ -143,9 +143,9 @@
   <SniperTurret.generalRules.rulesStrings>TODO</SniperTurret.generalRules.rulesStrings>
   
   <!-- EN: vitals monitor -->
-  <VitalsMonitor.label>TODO</VitalsMonitor.label>
+  <VitalsMonitor.label>monatóir beatha</VitalsMonitor.label>
   <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
-  <VitalsMonitor.description>TODO</VitalsMonitor.description>
+  <VitalsMonitor.description>Tóg monatóirí chun comharthaí beatha a rianú. Cuireann na gléasanna seo le torthaí leighis nuair a chuirtear iad taobh le leapacha ospidéil.</VitalsMonitor.description>
   <!-- EN:
     <li>subject->vital signs monitoring</li>
     <li>subject_story->struggled in an overcrowded hospital and vowed to work for change</li>

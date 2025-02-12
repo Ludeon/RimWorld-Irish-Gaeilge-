@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: ancient asphalt highway -->
-  <AncientAsphaltHighway.label>TODO</AncientAsphaltHighway.label>
+  <AncientAsphaltHighway.label>sean-mhótharbhealach asfailt</AncientAsphaltHighway.label>
   
   <!-- EN: ancient asphalt road -->
-  <AncientAsphaltRoad.label>TODO</AncientAsphaltRoad.label>
+  <AncientAsphaltRoad.label>seanbhóthar asfailt</AncientAsphaltRoad.label>
   
   <!-- EN: dirt path -->
-  <DirtPath.label>TODO</DirtPath.label>
+  <DirtPath.label>cosán cré</DirtPath.label>
   
   <!-- EN: dirt road -->
-  <DirtRoad.label>TODO</DirtRoad.label>
+  <DirtRoad.label>bóthar cré</DirtRoad.label>
   
   <!-- EN: stone road -->
-  <StoneRoad.label>TODO</StoneRoad.label>
+  <StoneRoad.label>bóthar cloiche</StoneRoad.label>
   
 </LanguageData>

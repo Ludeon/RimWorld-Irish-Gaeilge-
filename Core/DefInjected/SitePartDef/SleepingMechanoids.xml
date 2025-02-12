@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: sleeping mechanoids -->
-  <SleepingMechanoids.label>TODO</SleepingMechanoids.label>
+  <SleepingMechanoids.label>meicea-róbait díghníomhachtaithe</SleepingMechanoids.label>
   <!-- EN: A group of sleeping mechanoids. -->
-  <SleepingMechanoids.description>TODO</SleepingMechanoids.description>
+  <SleepingMechanoids.description>Tá grúpa meicea-róbat díghníomhachtaithe anseo.</SleepingMechanoids.description>
   <!-- EN: There are a few sleeping hostile mechanoids in this area.\n\nThe mechanoids may or may not wake up when you approach them, so beware. -->
-  <SleepingMechanoids.arrivedLetter>TODO</SleepingMechanoids.arrivedLetter>
+  <SleepingMechanoids.arrivedLetter>Tá meicea-róbait díghníomhachtaithe sa cheantar seo.\n\nBí cúramach - tá seans ann go ndúiseoidh siad má théann tú in aice leo.</SleepingMechanoids.arrivedLetter>
   
 </LanguageData>
