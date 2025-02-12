@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: Anomaly -->
-  <Anomaly.label>TODO</Anomaly.label>
+  <Anomaly.label>Anomaly</Anomaly.label>
   <!-- EN: Awaken the monolith and provoke the insane machine-mind. Anomaly is a horror-themed expansion that adds diverse and twisted threats and lets you build containment facilities for dark entities.\n\nTrack down an invisible hunter that steals people’s souls. Test and interrogate your people to find out who is infested with a mind-controlling parasite. Destroy a fleshmass infestation before it grows over the whole map and consumes everything. Tamper with obelisks that duplicate, mutate, and abduct your colonists. Venture into underground caverns and kill the momma beast below.\n\nBuild a grand containment facility for capturing and studying monsters. Use the power of captured creatures against your enemies. Harvest them for resources to craft void-powered weapons, equipment, apparel, and serums.\n\nFight macabre cultists to stop them from kidnapping your people with their psychic rituals. Use those same rituals for your own purposes and summon the massed dead, rain rage-filled blood, or steal the minds and health of your foes.\n\nChoose your fate in the new endgame as an abyssal void swallows the world.\n\nThis expansion includes a new album of music by Alistair Lindsay. -->
   <Anomaly.description>TODO</Anomaly.description>
   
@@ -14,12 +14,12 @@
   <!-- EN: Core -->
   <Core.label>Core</Core.label>
   <!-- EN: Core RimWorld content. -->
-  <Core.description>Bunábhar Rimworld.</Core.description>
+  <Core.description>Bunchluiche Rimworld.</Core.description>
   
   <!-- EN: Ideology -->
   <Ideology.label>Ideology</Ideology.label>
   <!-- EN: Create your own belief system with fine control over behaviors, preferences, rituals, symbols, and more. Play as pirate nudist cannibals, blind undergrounder mole people, charitable ranching cowboys, machine-obsessed transhumanists, and more.\n\nAssign social roles like leader, moral guide, and specialist to your colonists.\n\nHold unforgettable rituals: Dance parties, cannibal feasts, burn and smoke circles, skylantern festivals, sacrifices, gladiator duels, blindings, scarifications, funerals, and more.\n\nConnect with Gauranlen trees and command the dryads that live inside them.\n\nHunt for ancient relics. Explore long-forgotten ruins, hack downed spacedrones, and infiltrate tribal villages. Attract wealthy pilgrims by presenting your relics in reliquaries. Plunder ancient complexes for treasure. Raid temporary encampments. Help beggars in need, or betray them.\n\nEnslave prisoners to perform work or fight for you.\n\nPlace many new buildings linked to belief systems, and see the many visual styles of different beliefs.\n\nUse new apparel, tattoos, and hairstyles desired by believers.\n\nSeek transcendence through a machine god in the new archonexus endgame. -->
-  <Ideology.description>TODO</Ideology.description>
+  <Ideology.description>Cruthaigh do chreideamh féin, agus tóg smacht ar iompar, tosaíochtaí, deasghnátha agus siombailí do chuid coilíneach. Déan grúpaí éagsúla agus leag amach na rialacha a bhaineann lena stíl maireachtála - mar shampla, féadfaidh tú imirt mar chanablaigh nach bhfuil tointe éadaigh orthu, daoine a chónaíonn faoin talamh idir dall agus dorchadas, nó buachaillí bó trócaireacha.\n\nTabhair róil shoisialta do dhaoine, agus roghnaigh ceannairí, sagairtí agus speisialtóirí as measc do choilíneach.\n\nBeidh áit lárnach ag deasghnátha agus nósanna nua i do choilíneacht - mar shampla, féastaí, cóisírí, troideanna, féiltí, íobairtí agus níos mó.\n\nBeidh tú in ann an crann Garanlach a aimsiú, agus nascadh leis na </Ideology.description>
   
   <!-- EN: Royalty -->
   <Royalty.label>TODO</Royalty.label>

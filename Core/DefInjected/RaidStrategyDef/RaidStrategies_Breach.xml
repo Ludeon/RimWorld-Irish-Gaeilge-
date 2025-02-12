@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
-  <ImmediateAttackBreaching.arrivalTextEnemy>TODO</ImmediateAttackBreaching.arrivalTextEnemy>
+  <ImmediateAttackBreaching.arrivalTextEnemy>Tá siad ag ionsaí anois.\n\nTá sé i gceist ag na ruathairí seo do bhallaí a bhriseadh síos. Déanfaidh siad a mbealach féin isteach i do choilíneacht agus scriosfaidh siad aon rud atá sa bhealach.</ImmediateAttackBreaching.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackBreaching.arrivalTextFriendly>TODO</ImmediateAttackBreaching.arrivalTextFriendly>
+  <ImmediateAttackBreaching.arrivalTextFriendly>Tá siad ag teacht le cuidiú leat anois.</ImmediateAttackBreaching.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackBreaching.letterLabelEnemy>TODO</ImmediateAttackBreaching.letterLabelEnemy>
+  <ImmediateAttackBreaching.letterLabelEnemy>Ionsaí</ImmediateAttackBreaching.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackBreaching.letterLabelFriendly>TODO</ImmediateAttackBreaching.letterLabelFriendly>
+  <ImmediateAttackBreaching.letterLabelFriendly>Cairde</ImmediateAttackBreaching.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackBreachingSmart.arrivalTextEnemy>TODO</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>Tá siad ag ionsaí anois.\n\nTá sé i gceist ag na ruathairí seo do bhallaí a bhriseadh síos. Déanfaidh siad a mbealach féin isteach i do choilíneacht agus scriosfaidh siad aon rud atá sa bhealach.\n\nBí cúramach - is cosúil go bhfuil siad cliste. Déanfaidh siad iarracht do thúiríní agus do ghaistí a sheachaint.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackBreachingSmart.arrivalTextFriendly>TODO</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>Tá siad ag teacht le cuidiú leat anois.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackBreachingSmart.letterLabelEnemy>TODO</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>Ionsaí</ImmediateAttackBreachingSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackBreachingSmart.letterLabelFriendly>TODO</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>Cairde</ImmediateAttackBreachingSmart.letterLabelFriendly>
   
 </LanguageData>

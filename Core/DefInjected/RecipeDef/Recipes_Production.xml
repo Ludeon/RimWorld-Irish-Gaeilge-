@@ -32,58 +32,58 @@
   <Make_ChemfuelFromOrganics.jobString>Ag déanamh ceimi-pheitril as amhábhar.</Make_ChemfuelFromOrganics.jobString>
   
   <!-- EN: make chemfuel from wood -->
-  <Make_ChemfuelFromWood.label>TODO</Make_ChemfuelFromWood.label>
+  <Make_ChemfuelFromWood.label>déan ceimi-pheitril as admhad</Make_ChemfuelFromWood.label>
   <!-- EN: Make a batch of chemfuel by extracting and condensing wood gas from logs. -->
-  <Make_ChemfuelFromWood.description>TODO</Make_ChemfuelFromWood.description>
+  <Make_ChemfuelFromWood.description>Déan ceimi-pheitril trí adhmad a dhó.</Make_ChemfuelFromWood.description>
   <!-- EN: Refining chemfuel from wood. -->
-  <Make_ChemfuelFromWood.jobString>TODO</Make_ChemfuelFromWood.jobString>
+  <Make_ChemfuelFromWood.jobString>Ag déanamh ceimi-pheitril as adhmad.</Make_ChemfuelFromWood.jobString>
   
   <!-- EN: make component -->
-  <Make_ComponentIndustrial.label>TODO</Make_ComponentIndustrial.label>
+  <Make_ComponentIndustrial.label>déan comhpháirt</Make_ComponentIndustrial.label>
   <!-- EN: Make a component. -->
-  <Make_ComponentIndustrial.description>TODO</Make_ComponentIndustrial.description>
+  <Make_ComponentIndustrial.description>Déan comhpháirt.</Make_ComponentIndustrial.description>
   <!-- EN: Making component. -->
-  <Make_ComponentIndustrial.jobString>TODO</Make_ComponentIndustrial.jobString>
+  <Make_ComponentIndustrial.jobString>Ag déanamh comhpháirte.</Make_ComponentIndustrial.jobString>
   
   <!-- EN: make advanced component -->
-  <Make_ComponentSpacer.label>TODO</Make_ComponentSpacer.label>
+  <Make_ComponentSpacer.label>déan comhpháirt ardleibhéil</Make_ComponentSpacer.label>
   <!-- EN: Make an advanced component. -->
-  <Make_ComponentSpacer.description>TODO</Make_ComponentSpacer.description>
+  <Make_ComponentSpacer.description>Déan comhpháirt ardleibhéil.</Make_ComponentSpacer.description>
   <!-- EN: Making advanced component. -->
-  <Make_ComponentSpacer.jobString>TODO</Make_ComponentSpacer.jobString>
+  <Make_ComponentSpacer.jobString>Ag déanamh comhpháirt ardleibhéil.</Make_ComponentSpacer.jobString>
   
   <!-- EN: make patchleather -->
-  <Make_Patchleather.label>TODO</Make_Patchleather.label>
+  <Make_Patchleather.label>déan leathar paistithe</Make_Patchleather.label>
   <!-- EN: Combine various types of leather to create weak patchleather. -->
-  <Make_Patchleather.description>TODO</Make_Patchleather.description>
+  <Make_Patchleather.description>Cur cineálacha éagsúla leathair le chéile chun leathar paistithe a dhéanamh.</Make_Patchleather.description>
   <!-- EN: Making patchleather. -->
-  <Make_Patchleather.jobString>TODO</Make_Patchleather.jobString>
+  <Make_Patchleather.jobString>Ag déanamh leathair paistithe.</Make_Patchleather.jobString>
   
   <!-- EN: make any stone blocks -->
-  <Make_StoneBlocksAny.label>TODO</Make_StoneBlocksAny.label>
+  <Make_StoneBlocksAny.label>déan bloic cloiche (aon chineál)</Make_StoneBlocksAny.label>
   <!-- EN: Cut rock chunks into usable stone blocks. -->
-  <Make_StoneBlocksAny.description>TODO</Make_StoneBlocksAny.description>
+  <Make_StoneBlocksAny.description>Déan leadhbanna cloiche a ghearradh ina mbloic.</Make_StoneBlocksAny.description>
   <!-- EN: Cutting stone blocks from chunk. -->
-  <Make_StoneBlocksAny.jobString>TODO</Make_StoneBlocksAny.jobString>
+  <Make_StoneBlocksAny.jobString>Ag gearradh bloc ó leadhbanna.</Make_StoneBlocksAny.jobString>
   
   <!-- EN: smelt apparel -->
-  <SmeltApparel.label>TODO</SmeltApparel.label>
+  <SmeltApparel.label>bruithnigh éadaí</SmeltApparel.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic apparel like armor into useful resources. -->
-  <SmeltApparel.description>TODO</SmeltApparel.description>
+  <SmeltApparel.description>Bain úsáid as teas agus forsaí leictreamaighnéadacha chun éadaí déanta as miotal a bhruithniú agus a bhriseadh síos in acmhainní úsáideacha.</SmeltApparel.description>
   <!-- EN: Smelting apparel. -->
-  <SmeltApparel.jobString>TODO</SmeltApparel.jobString>
+  <SmeltApparel.jobString>Ag bruithniú éadaí.</SmeltApparel.jobString>
   
   <!-- EN: smelt or destroy thing -->
-  <SmeltOrDestroyThing.label>TODO</SmeltOrDestroyThing.label>
+  <SmeltOrDestroyThing.label>bruithnigh/scrios rud</SmeltOrDestroyThing.label>
   <!-- EN: Use heat and strong electromagnets to break down metallic things like weapons and armor into useful resources, or destroy them if they are not smeltable. -->
-  <SmeltOrDestroyThing.description>TODO</SmeltOrDestroyThing.description>
+  <SmeltOrDestroyThing.description>Bain úsáid as teas agus forsaí leictreamaighnéadacha chun rudaí déanta as miotal a bhruithniú agus a bhriseadh síos in acmhainní úsáideacha, nó iad a scriosadh murar féidir iad a bhruithniú.</SmeltOrDestroyThing.description>
   <!-- EN: Smelting/destroying things. -->
-  <SmeltOrDestroyThing.jobString>TODO</SmeltOrDestroyThing.jobString>
+  <SmeltOrDestroyThing.jobString>Ag bruithniú/ag scriosadh rudaí.</SmeltOrDestroyThing.jobString>
   
   <!-- EN: smelt weapon -->
-  <SmeltWeapon.label>TODO</SmeltWeapon.label>
+  <SmeltWeapon.label>bruithnigh airm</SmeltWeapon.label>
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
-  <SmeltWeapon.description>TODO</SmeltWeapon.description>
+  <SmeltWeapon.description>Bain úsáid as teas agus forsaí leictreamaighnéadacha chun airm a bhruithniú agus a bhriseadh síos in acmhainní úsáideacha.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
   <SmeltWeapon.jobString>TODO</SmeltWeapon.jobString>
   

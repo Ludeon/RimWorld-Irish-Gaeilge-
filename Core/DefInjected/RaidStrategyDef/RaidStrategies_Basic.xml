@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: They are attacking immediately. -->
-  <EmergeFromWater.arrivalTextEnemy>TODO</EmergeFromWater.arrivalTextEnemy>
+  <EmergeFromWater.arrivalTextEnemy>Tá siad ag ionsaí anois.</EmergeFromWater.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <EmergeFromWater.arrivalTextFriendly>TODO</EmergeFromWater.arrivalTextFriendly>
+  <EmergeFromWater.arrivalTextFriendly>Tá siad ag teacht le cuidiú leat anois.</EmergeFromWater.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <EmergeFromWater.letterLabelEnemy>TODO</EmergeFromWater.letterLabelEnemy>
+  <EmergeFromWater.letterLabelEnemy>Ionsaí</EmergeFromWater.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <EmergeFromWater.letterLabelFriendly>TODO</EmergeFromWater.letterLabelFriendly>
+  <EmergeFromWater.letterLabelFriendly>Cairde</EmergeFromWater.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttack.arrivalTextEnemy>TODO</ImmediateAttack.arrivalTextEnemy>
+  <ImmediateAttack.arrivalTextEnemy>Tá siad ag ionsaí anois.</ImmediateAttack.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttack.arrivalTextFriendly>TODO</ImmediateAttack.arrivalTextFriendly>
+  <ImmediateAttack.arrivalTextFriendly>Tá siad ag teacht le cuidiú leat anois.</ImmediateAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttack.letterLabelEnemy>TODO</ImmediateAttack.letterLabelEnemy>
+  <ImmediateAttack.letterLabelEnemy>Ionsaí</ImmediateAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttack.letterLabelFriendly>TODO</ImmediateAttack.letterLabelFriendly>
+  <ImmediateAttack.letterLabelFriendly>Cairde</ImmediateAttack.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately. -->
-  <ImmediateAttackFriendly.arrivalTextEnemy>TODO</ImmediateAttackFriendly.arrivalTextEnemy>
+  <ImmediateAttackFriendly.arrivalTextEnemy>Tá siad ag ionsaí anois.</ImmediateAttackFriendly.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackFriendly.arrivalTextFriendly>TODO</ImmediateAttackFriendly.arrivalTextFriendly>
+  <ImmediateAttackFriendly.arrivalTextFriendly>Tá siad ag teacht le cuidiú leat anois.</ImmediateAttackFriendly.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackFriendly.letterLabelEnemy>TODO</ImmediateAttackFriendly.letterLabelEnemy>
+  <ImmediateAttackFriendly.letterLabelEnemy>Ionsaí</ImmediateAttackFriendly.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackFriendly.letterLabelFriendly>TODO</ImmediateAttackFriendly.letterLabelFriendly>
+  <ImmediateAttackFriendly.letterLabelFriendly>Cairde</ImmediateAttackFriendly.letterLabelFriendly>
   
   <!-- EN: They are attacking immediately.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
-  <ImmediateAttackSmart.arrivalTextEnemy>TODO</ImmediateAttackSmart.arrivalTextEnemy>
+  <ImmediateAttackSmart.arrivalTextEnemy>Tá siad ag ionsaí anois.\n\nBí cúramach - is cosúil go bhfuil siad cliste. Déanfaidh siad iarracht do thúiríní agus do ghaistí a sheachaint..</ImmediateAttackSmart.arrivalTextEnemy>
   <!-- EN: They are moving in to help you immediately. -->
-  <ImmediateAttackSmart.arrivalTextFriendly>TODO</ImmediateAttackSmart.arrivalTextFriendly>
+  <ImmediateAttackSmart.arrivalTextFriendly>Tá siad ag teacht le cuidiú leat anois.</ImmediateAttackSmart.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <ImmediateAttackSmart.letterLabelEnemy>TODO</ImmediateAttackSmart.letterLabelEnemy>
+  <ImmediateAttackSmart.letterLabelEnemy>Ionsaí</ImmediateAttackSmart.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <ImmediateAttackSmart.letterLabelFriendly>TODO</ImmediateAttackSmart.letterLabelFriendly>
+  <ImmediateAttackSmart.letterLabelFriendly>Cairde</ImmediateAttackSmart.letterLabelFriendly>
   
   <!-- EN: They will prepare for a while, then attack.\n\nPrepare a defense or attack them pre-emptively. -->
-  <StageThenAttack.arrivalTextEnemy>TODO</StageThenAttack.arrivalTextEnemy>
+  <StageThenAttack.arrivalTextEnemy>Ullmhóidh siad ar feadh tamaill, agus ansin cuirfidh siad tús leis an ionsaí.\n\nIs féidir leat fanacht orthu nó an chéad bhuille a bhualadh orthu.</StageThenAttack.arrivalTextEnemy>
   <!-- EN: They will prepare for a while before moving in to help you. -->
-  <StageThenAttack.arrivalTextFriendly>TODO</StageThenAttack.arrivalTextFriendly>
+  <StageThenAttack.arrivalTextFriendly>Ullmhóidh siad ar feadh tamaill, agus ansin tiocfaidh sé le cuidiú leat.</StageThenAttack.arrivalTextFriendly>
   <!-- EN: Raid -->
-  <StageThenAttack.letterLabelEnemy>TODO</StageThenAttack.letterLabelEnemy>
+  <StageThenAttack.letterLabelEnemy>Ionsaí</StageThenAttack.letterLabelEnemy>
   <!-- EN: Friendlies -->
-  <StageThenAttack.letterLabelFriendly>TODO</StageThenAttack.letterLabelFriendly>
+  <StageThenAttack.letterLabelFriendly>Cairde</StageThenAttack.letterLabelFriendly>
   
 </LanguageData>
