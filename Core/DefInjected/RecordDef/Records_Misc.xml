@@ -2,218 +2,218 @@
 <LanguageData>
   
   <!-- EN: animals slaughtered -->
-  <AnimalsSlaughtered.label>TODO</AnimalsSlaughtered.label>
+  <AnimalsSlaughtered.label>ainmhithe maraithe</AnimalsSlaughtered.label>
   <!-- EN: The number of animals I have slaughtered. -->
-  <AnimalsSlaughtered.description>TODO</AnimalsSlaughtered.description>
+  <AnimalsSlaughtered.description>Líon na n-ainmhithe a mharaigh mé.</AnimalsSlaughtered.description>
   
   <!-- EN: animals tamed -->
-  <AnimalsTamed.label>TODO</AnimalsTamed.label>
+  <AnimalsTamed.label>ainmhithe ceansaithe</AnimalsTamed.label>
   <!-- EN: The number of animals I have tamed. -->
-  <AnimalsTamed.description>TODO</AnimalsTamed.description>
+  <AnimalsTamed.description>Líon na n-ainmhithe atá cheansaigh mé.</AnimalsTamed.description>
   
   <!-- EN: artifacts activated -->
-  <ArtifactsActivated.label>TODO</ArtifactsActivated.label>
+  <ArtifactsActivated.label>seaniarsmaí curtha ar siúl</ArtifactsActivated.label>
   <!-- EN: The number of artifacts I have activated. -->
-  <ArtifactsActivated.description>TODO</ArtifactsActivated.description>
+  <ArtifactsActivated.description>Líon na seaniarsmaí a chuir mé ar siúl.</ArtifactsActivated.description>
   
   <!-- EN: bodies stripped -->
-  <BodiesStripped.label>TODO</BodiesStripped.label>
+  <BodiesStripped.label>corpáin struipeáilte</BodiesStripped.label>
   <!-- EN: The number of bodies I have stripped. -->
-  <BodiesStripped.description>TODO</BodiesStripped.description>
+  <BodiesStripped.description>Líon na gcorpán a bhaint mé na héadaí díobh.</BodiesStripped.description>
   
   <!-- EN: cells mined -->
-  <CellsMined.label>TODO</CellsMined.label>
+  <CellsMined.label>ceallra a rinne mé mianadóireacht orthu</CellsMined.label>
   <!-- EN: The number of cells I have mined out. -->
-  <CellsMined.description>TODO</CellsMined.description>
+  <CellsMined.description>Líon na gceall a rinne mé mianadóireacht orthu.</CellsMined.description>
   
   <!-- EN: containers opened -->
-  <ContainersOpened.label>TODO</ContainersOpened.label>
+  <ContainersOpened.label>coimeádáin oscailte</ContainersOpened.label>
   <!-- EN: The number of containers I have opened. -->
-  <ContainersOpened.description>TODO</ContainersOpened.description>
+  <ContainersOpened.description>Líon na gcoimeádán a d'oscail mé.</ContainersOpened.description>
   
   <!-- EN: corpses buried -->
-  <CorpsesBuried.label>TODO</CorpsesBuried.label>
+  <CorpsesBuried.label>corpáin adhlactha</CorpsesBuried.label>
   <!-- EN: The number of corpses I have buried. -->
-  <CorpsesBuried.description>TODO</CorpsesBuried.description>
+  <CorpsesBuried.description>Líon na gcorpán atá adhlactha agam.</CorpsesBuried.description>
   
   <!-- EN: damage dealt -->
-  <DamageDealt.label>TODO</DamageDealt.label>
+  <DamageDealt.label>damáiste déanta</DamageDealt.label>
   <!-- EN: The amount of damage I have dealt. -->
-  <DamageDealt.description>TODO</DamageDealt.description>
+  <DamageDealt.description>An damáiste iomlán atá déanta agam.</DamageDealt.description>
   
   <!-- EN: damage taken -->
-  <DamageTaken.label>TODO</DamageTaken.label>
+  <DamageTaken.label>damáiste tógtha</DamageTaken.label>
   <!-- EN: The amount of damage I have taken. -->
-  <DamageTaken.description>TODO</DamageTaken.description>
+  <DamageTaken.description>An damáiste iomlán atá tógtha agam.</DamageTaken.description>
   
   <!-- EN: fires extinguished -->
-  <FiresExtinguished.label>TODO</FiresExtinguished.label>
+  <FiresExtinguished.label>tinte múchta</FiresExtinguished.label>
   <!-- EN: The number of fires I have extinguished. -->
-  <FiresExtinguished.description>TODO</FiresExtinguished.description>
+  <FiresExtinguished.description>Líon na dtinte atá múchta agam.</FiresExtinguished.description>
   
   <!-- EN: headshots -->
-  <Headshots.label>TODO</Headshots.label>
+  <Headshots.label>buillí cloiginn</Headshots.label>
   <!-- EN: The number of headshots I have made. -->
-  <Headshots.description>TODO</Headshots.description>
+  <Headshots.description>Líon na mbuillí cloiginn atá bainte amach agam.</Headshots.description>
   
   <!-- EN: kills -->
-  <Kills.label>TODO</Kills.label>
+  <Kills.label>maruithe</Kills.label>
   <!-- EN: The number of creatures I have killed. -->
-  <Kills.description>TODO</Kills.description>
+  <Kills.description>Líon iomlán na gcréatúr atá maraithe agam.</Kills.description>
   
   <!-- EN: kills (animals) -->
-  <KillsAnimals.label>TODO</KillsAnimals.label>
+  <KillsAnimals.label>maruithe (ainmhithe)</KillsAnimals.label>
   <!-- EN: The number of animals I have killed. -->
-  <KillsAnimals.description>TODO</KillsAnimals.description>
+  <KillsAnimals.description>Líon iomlán na n-ainmhithe atá maraithe agam.</KillsAnimals.description>
   
   <!-- EN: kills (humanlikes) -->
-  <KillsHumanlikes.label>TODO</KillsHumanlikes.label>
+  <KillsHumanlikes.label>maruithe (daoine)</KillsHumanlikes.label>
   <!-- EN: The number of humanlike characters I have killed. -->
-  <KillsHumanlikes.description>TODO</KillsHumanlikes.description>
+  <KillsHumanlikes.description>Líon iomlán na ndaoine atá maraithe agam.</KillsHumanlikes.description>
   
   <!-- EN: kills (mechanoids) -->
-  <KillsMechanoids.label>TODO</KillsMechanoids.label>
+  <KillsMechanoids.label>maruithe (meicea-róbait)</KillsMechanoids.label>
   <!-- EN: The number of mechanoids I have killed. -->
-  <KillsMechanoids.description>TODO</KillsMechanoids.description>
+  <KillsMechanoids.description>Líon iomlán na meicea-róbat atá maraithe agam.</KillsMechanoids.description>
   
   <!-- EN: meals cooked -->
-  <MealsCooked.label>TODO</MealsCooked.label>
+  <MealsCooked.label>béilí réitithe</MealsCooked.label>
   <!-- EN: The number of meals I have cooked. -->
-  <MealsCooked.description>TODO</MealsCooked.description>
+  <MealsCooked.description>Líon iomlán na mbéilí atá déanta agam.</MealsCooked.description>
   
   <!-- EN: messes cleaned -->
-  <MessesCleaned.label>TODO</MessesCleaned.label>
+  <MessesCleaned.label>bruscar glanta</MessesCleaned.label>
   <!-- EN: The number of messes I have cleaned up. -->
-  <MessesCleaned.description>TODO</MessesCleaned.description>
+  <MessesCleaned.description>Líon na bpíosaí bruscair a ghlan mé.</MessesCleaned.description>
   
   <!-- EN: nutrition eaten -->
-  <NutritionEaten.label>TODO</NutritionEaten.label>
+  <NutritionEaten.label>bia ite</NutritionEaten.label>
   <!-- EN: The amount of nutrition I have eaten. -->
-  <NutritionEaten.description>TODO</NutritionEaten.description>
+  <NutritionEaten.description>An méid bia atá ite agam.</NutritionEaten.description>
   
   <!-- EN: operations performed -->
-  <OperationsPerformed.label>TODO</OperationsPerformed.label>
+  <OperationsPerformed.label>obráidí a rinne mé</OperationsPerformed.label>
   <!-- EN: How many medical operations I have performed. -->
-  <OperationsPerformed.description>TODO</OperationsPerformed.description>
+  <OperationsPerformed.description>An líon daoine atá curtha faoi scian agam.</OperationsPerformed.description>
   
   <!-- EN: operations received -->
-  <OperationsReceived.label>TODO</OperationsReceived.label>
+  <OperationsReceived.label>obráidí a rinneadh orm</OperationsReceived.label>
   <!-- EN: How many times I have been medically operated on. -->
-  <OperationsReceived.description>TODO</OperationsReceived.description>
+  <OperationsReceived.description>An líon obraidí a rinneadh orm.</OperationsReceived.description>
   
   <!-- EN: enemies downed -->
-  <PawnsDowned.label>TODO</PawnsDowned.label>
+  <PawnsDowned.label>naimhde leagtha</PawnsDowned.label>
   <!-- EN: The number of creatures I have downed. -->
-  <PawnsDowned.description>TODO</PawnsDowned.description>
+  <PawnsDowned.description>Líon na gcréatúr atá leagtha agam.</PawnsDowned.description>
   
   <!-- EN: enemies downed (animals) -->
-  <PawnsDownedAnimals.label>TODO</PawnsDownedAnimals.label>
+  <PawnsDownedAnimals.label>naimhde leagtha (ainmhithe)</PawnsDownedAnimals.label>
   <!-- EN: The number of animals I have downed, whether hunting or in combat. -->
-  <PawnsDownedAnimals.description>TODO</PawnsDownedAnimals.description>
+  <PawnsDownedAnimals.description>Líon na n-ainmhithe atá leagtha agam, agus mé i mbun sealgaireachta nó i mbun troda.</PawnsDownedAnimals.description>
   
   <!-- EN: enemies downed (humanlikes) -->
-  <PawnsDownedHumanlikes.label>TODO</PawnsDownedHumanlikes.label>
+  <PawnsDownedHumanlikes.label>naimhde leagtha (daoine)</PawnsDownedHumanlikes.label>
   <!-- EN: The number of humanlike creatures I have downed. -->
-  <PawnsDownedHumanlikes.description>TODO</PawnsDownedHumanlikes.description>
+  <PawnsDownedHumanlikes.description>Líon na ndaoine atá leagtha agam.</PawnsDownedHumanlikes.description>
   
   <!-- EN: enemies downed (mechanoids) -->
-  <PawnsDownedMechanoids.label>TODO</PawnsDownedMechanoids.label>
+  <PawnsDownedMechanoids.label>naimhde leagtha (meicea-róbait)</PawnsDownedMechanoids.label>
   <!-- EN: The number of mechanoids I have downed. -->
-  <PawnsDownedMechanoids.description>TODO</PawnsDownedMechanoids.description>
+  <PawnsDownedMechanoids.description>Líon na meicea-róbat atá leagtha agam.</PawnsDownedMechanoids.description>
   
   <!-- EN: people captured -->
-  <PeopleCaptured.label>TODO</PeopleCaptured.label>
+  <PeopleCaptured.label>daoine gafa</PeopleCaptured.label>
   <!-- EN: The number of people I have captured. -->
-  <PeopleCaptured.description>TODO</PeopleCaptured.description>
+  <PeopleCaptured.description>An líon daoine a ghabh mé.</PeopleCaptured.description>
   
   <!-- EN: plants harvested -->
-  <PlantsHarvested.label>TODO</PlantsHarvested.label>
+  <PlantsHarvested.label>plandaí bainte</PlantsHarvested.label>
   <!-- EN: The number of plants I have harvested. -->
-  <PlantsHarvested.description>TODO</PlantsHarvested.description>
+  <PlantsHarvested.description>An líon plandaí atá bainte agam.</PlantsHarvested.description>
   
   <!-- EN: plants sown -->
-  <PlantsSown.label>TODO</PlantsSown.label>
+  <PlantsSown.label>plandaí curtha</PlantsSown.label>
   <!-- EN: The number of plants I have sown. -->
-  <PlantsSown.description>TODO</PlantsSown.description>
+  <PlantsSown.description>An líon plandaí atá curtha agam.</PlantsSown.description>
   
   <!-- EN: prisoners chatted -->
-  <PrisonersChatted.label>TODO</PrisonersChatted.label>
+  <PrisonersChatted.label>príosúnaigh ar labhair mé leo</PrisonersChatted.label>
   <!-- EN: How many times I have chatted with prisoners. -->
-  <PrisonersChatted.description>TODO</PrisonersChatted.description>
+  <PrisonersChatted.description>An méid uaireanta ar labhair mé le príosúnaigh.</PrisonersChatted.description>
   
   <!-- EN: prisoners recruited -->
-  <PrisonersRecruited.label>TODO</PrisonersRecruited.label>
+  <PrisonersRecruited.label>príosúnaigh earcaithe</PrisonersRecruited.label>
   <!-- EN: The number of prisoners I have recruited. -->
-  <PrisonersRecruited.description>TODO</PrisonersRecruited.description>
+  <PrisonersRecruited.description>An méid uaireanta ar éirigh liom príosúnaigh a earcú.</PrisonersRecruited.description>
   
   <!-- EN: research points researched -->
-  <ResearchPointsResearched.label>TODO</ResearchPointsResearched.label>
+  <ResearchPointsResearched.label>pointe taighde baint amach</ResearchPointsResearched.label>
   <!-- EN: The number of research points I have researched. -->
-  <ResearchPointsResearched.description>TODO</ResearchPointsResearched.description>
+  <ResearchPointsResearched.description>Líon na bpointí taighde atá bainte amach agam.</ResearchPointsResearched.description>
   
   <!-- EN: shots fired -->
-  <ShotsFired.label>TODO</ShotsFired.label>
+  <ShotsFired.label>piléir scaoilte</ShotsFired.label>
   <!-- EN: The number of shots I have fired. -->
-  <ShotsFired.description>TODO</ShotsFired.description>
+  <ShotsFired.description>Líon na bpiléar atá scaoilte agam.</ShotsFired.description>
   
   <!-- EN: switches flicked -->
-  <SwitchesFlicked.label>TODO</SwitchesFlicked.label>
+  <SwitchesFlicked.label>lasca brúite</SwitchesFlicked.label>
   <!-- EN: The number of switches I have flicked. -->
-  <SwitchesFlicked.description>TODO</SwitchesFlicked.description>
+  <SwitchesFlicked.description>An líon lasc atá brúite agam.</SwitchesFlicked.description>
   
   <!-- EN: things constructed -->
-  <ThingsConstructed.label>TODO</ThingsConstructed.label>
+  <ThingsConstructed.label>rudaí tógtha</ThingsConstructed.label>
   <!-- EN: The number of things I have constructed. -->
-  <ThingsConstructed.description>TODO</ThingsConstructed.description>
+  <ThingsConstructed.description>An líon rudaí atá tógtha agam.</ThingsConstructed.description>
   
   <!-- EN: things crafted -->
-  <ThingsCrafted.label>TODO</ThingsCrafted.label>
+  <ThingsCrafted.label>rudaí cruthaithe</ThingsCrafted.label>
   <!-- EN: The number of things I have crafted. -->
-  <ThingsCrafted.description>TODO</ThingsCrafted.description>
+  <ThingsCrafted.description>An líon rudaí atá cruthaithe agam agus mé i mbun ceardaíochta.</ThingsCrafted.description>
   
   <!-- EN: things deconstructed -->
-  <ThingsDeconstructed.label>TODO</ThingsDeconstructed.label>
+  <ThingsDeconstructed.label>rudaí scriosta</ThingsDeconstructed.label>
   <!-- EN: The number of things I have deconstructed. -->
-  <ThingsDeconstructed.description>TODO</ThingsDeconstructed.description>
+  <ThingsDeconstructed.description>An líon rudaí atá scriosta agam.</ThingsDeconstructed.description>
   
   <!-- EN: things hauled -->
-  <ThingsHauled.label>TODO</ThingsHauled.label>
+  <ThingsHauled.label>rudaí iompartha</ThingsHauled.label>
   <!-- EN: The number of things I have hauled. -->
-  <ThingsHauled.description>TODO</ThingsHauled.description>
+  <ThingsHauled.description>An líon rudaí atá iompartha agam.</ThingsHauled.description>
   
   <!-- EN: things installed -->
-  <ThingsInstalled.label>TODO</ThingsInstalled.label>
+  <ThingsInstalled.label>rudaí feistithe</ThingsInstalled.label>
   <!-- EN: The number of things I have installed. -->
-  <ThingsInstalled.description>TODO</ThingsInstalled.description>
+  <ThingsInstalled.description>An líon rudaí atá feistithe agam.</ThingsInstalled.description>
   
   <!-- EN: things repaired -->
-  <ThingsRepaired.label>TODO</ThingsRepaired.label>
+  <ThingsRepaired.label>rudaí deisithe</ThingsRepaired.label>
   <!-- EN: The number of things I have repaired. -->
-  <ThingsRepaired.description>TODO</ThingsRepaired.description>
+  <ThingsRepaired.description>An líon rudaí atá deisithe agam.</ThingsRepaired.description>
   
   <!-- EN: things uninstalled -->
-  <ThingsUninstalled.label>TODO</ThingsUninstalled.label>
+  <ThingsUninstalled.label>rudaí dífheistithe</ThingsUninstalled.label>
   <!-- EN: The number of things I have uninstalled. -->
-  <ThingsUninstalled.description>TODO</ThingsUninstalled.description>
+  <ThingsUninstalled.description>An líon rudaí atá dífheistithe agam.</ThingsUninstalled.description>
   
   <!-- EN: times in mental state -->
-  <TimesInMentalState.label>TODO</TimesInMentalState.label>
+  <TimesInMentalState.label>clistí néarógacha</TimesInMentalState.label>
   <!-- EN: How many times I have suffered a mental break. -->
-  <TimesInMentalState.description>TODO</TimesInMentalState.description>
+  <TimesInMentalState.description>An méid uaireanta a raibh cliseadh néarógach orm.</TimesInMentalState.description>
   
   <!-- EN: times on fire -->
-  <TimesOnFire.label>TODO</TimesOnFire.label>
+  <TimesOnFire.label>trí thine</TimesOnFire.label>
   <!-- EN: How many times I have been on fire. -->
-  <TimesOnFire.description>TODO</TimesOnFire.description>
+  <TimesOnFire.description>An méid uaireanta a raibh mé trí thine.</TimesOnFire.description>
   
   <!-- EN: tends given -->
-  <TimesTendedOther.label>TODO</TimesTendedOther.label>
+  <TimesTendedOther.label>cóireáil leighis tugtha</TimesTendedOther.label>
   <!-- EN: How many times I have tended to others' medical conditions. -->
-  <TimesTendedOther.description>TODO</TimesTendedOther.description>
+  <TimesTendedOther.description>An méid uaireanta a thug mé cóiréail leighis do dhaoine eile.</TimesTendedOther.description>
   
   <!-- EN: tends received -->
-  <TimesTendedTo.label>TODO</TimesTendedTo.label>
+  <TimesTendedTo.label>cóireáil leighis faighte</TimesTendedTo.label>
   <!-- EN: How many times I have had my medical conditions tended. -->
-  <TimesTendedTo.description>TODO</TimesTendedTo.description>
+  <TimesTendedTo.description>An méid uaireanta a bhfuair mé cóireáil leighis ó dhaoine eile.</TimesTendedTo.description>
   
 </LanguageData>
