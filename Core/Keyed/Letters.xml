@@ -3,128 +3,128 @@
 
   <!-- Misc -->
   <!-- EN: Jump to location -->
-  <JumpToLocation>Zum Ort springen</JumpToLocation>
+  <JumpToLocation>Téigh chuig an suíomh</JumpToLocation>
   <!-- EN: Postpone -->
-  <PostponeLetter>Aufschieben</PostponeLetter>
+  <PostponeLetter>Cuir ar athló</PostponeLetter>
   <!-- EN: Reject -->
-  <RejectLetter>Ablehnen</RejectLetter>
+  <RejectLetter>Diúltaigh</RejectLetter>
   <!-- EN: Read more -->
-  <ReadMore>Weiterlesen</ReadMore>
+  <ReadMore>Tuilladh eolais</ReadMore>
   <!-- EN: You have {0} more letters -->
-  <MoreLetters>Du hast {0} weitere Briefe</MoreLetters>
+  <MoreLetters>Tá {0} litir agat</MoreLetters>
 
   <!-- EN: Summer -->
-  <LetterLabelFirstSummerWarning>Sommer</LetterLabelFirstSummerWarning>
+  <LetterLabelFirstSummerWarning>Samhradh</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Der Sommer hat begonnen! Aber der Winter naht.\n\nDeine Ernte wird der Winterkälte nicht lange standhalten können. Stelle sicher, dass du genug Nahrungsmittel hast.\n\nDu kannst einen begehbaren Kühlraum bauen, um die Haltbarkeit der Nahrung zu erhöhen.\n\nFür deine Kolonisten kannst du dicke Kleidung, wie z.B. Parkas, kaufen, stehlen oder herstellen, um sie vor der Kälte zu schützen.</FirstSummerWarning>
+  <FirstSummerWarning>Tá an samhradh tagtha! Tá an geimhreadh ag druidim linn, áfach.\n\nNí bheidh tú in ann bia a fhás le linn an gheimhridh. Is féidir leat reoteoir a thógáil chun bia a choinneáil.\n\nIs féidir leat éadaí té a dhéanamh freisin (nó iad a cheannach nó a ghoid) chun do choilínigh a choinneáil te.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
-  <LetterRelationsChange_Hostile>Die Beziehung zur Fraktion {0} ist komplett zusammengebrochen. Sie ist jetzt dein Feind.</LetterRelationsChange_Hostile>  
+  <LetterRelationsChange_Hostile>Tá do chaidreamh le {0} tar éis briseadh síos. Caithfidh siad go naimhdeach leat as seo amach.</LetterRelationsChange_Hostile>  
   <!-- EN: They will conduct periodic raids on your colony and caravans, and refuse to trade with you. If you want to improve relations, you can still offer them gifts using caravans or transport pods.\n\nThis happened because goodwill ({0}) has fallen below {1}. In order to restore neutral relations, goodwill must reach {2} again. -->
-  <LetterRelationsChange_HostileGoodwillDescription>Sie wird deine Kolonie und deine Karawanen regelmäßig angreifen und sich weigern, mit dir Handel zu treiben. Wenn du die Beziehungen verbessern willst, kannst du ihr immer noch Geschenke mit einer Karawane oder Transportkapsel schicken.\n\nDas ist passiert, weil dein Ruf ({0}) unter {1} gefallen ist. Um wieder neutral zu werden, muss dein Ruf auf {2} ansteigen.</LetterRelationsChange_HostileGoodwillDescription>  
+  <LetterRelationsChange_HostileGoodwillDescription>Ionsóidh siad do choilíneacht agus do charbháin ó am go chéile, agus ní bheidh siad sásta trádáil leat. Más maith leat feabhas ar chur ar an gcaidreamh arís, féadfaidh tú bronntanais a thabhairt dóibh.\n\nTharla an méid seo toisc gur thit an leibhéal dea-mhéine ({0}) faoi bhun {1}. Chun caidreamh neodrach a chruthú leo arís, beidh ort leibhéal déa-mhéine {2} a bhaint amach.</LetterRelationsChange_HostileGoodwillDescription>  
 
   <!-- EN: Relations with {0} have warmed. They now consider you neutral and will no longer attack you. -->
-  <LetterRelationsChange_NeutralFromHostile>Die Beziehung zur Fraktion {0} hat sich verbessert. Sie betrachtet dich nun als neutrale Fraktion und wird dich nicht mehr angreifen.</LetterRelationsChange_NeutralFromHostile>
+  <LetterRelationsChange_NeutralFromHostile>Tá feabhas tagtha ar do chaidreamh le {0}. Caithfidh leat go neodrach as seo amach, agus ní ionsóidh siad do choilíneacht a thuilleadh.</LetterRelationsChange_NeutralFromHostile>
   <!-- EN: This happened because goodwill ({1}) has risen past {2}. If goodwill falls below {3}, {0} will become hostile again. If goodwill rises above {4}, they will become your ally and fight for you. -->
-  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Das ist passiert, weil dein Ruf ({1}) über {2} gestiegen ist. Fällt dein Ruf unter {3}, wird die Fraktion {0} wieder feindlich. Steigt dein Ruf über {4}, wird sie zu deinem Verbündeten und kämpft für dich.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
+  <LetterRelationsChange_NeutralFromHostileGoodwillDescription>Tharla an méid seo toisc gur thit an leibhéal dea-mhéine ({1}) faoi bhun {2}. Ma thiteann an leibhéal déa-mhéine faoi bhun {3}, éireoidh {0} naimhdeach arís. Má ardaíonn an leibhéal déa-mhéine os cionn {4}, caithfidh siad leat go cairdiúil agus beidh siad sásta troid ar do shon.</LetterRelationsChange_NeutralFromHostileGoodwillDescription>
   
   <!-- EN: Relations with {0} have cooled. They now consider you neutral instead of allied. -->
-  <LetterRelationsChange_NeutralFromAlly>Die Beziehung zur Fraktion {0} hat sich verschlechtert. Sie betrachtet dich nur noch als neutrale Fraktion, nicht mehr als Verbündeten.</LetterRelationsChange_NeutralFromAlly>
+  <LetterRelationsChange_NeutralFromAlly>Tá do chaidreamh le {0} tar éis dul in olcas. Caithfidh siad leat go neodrach as seo amach.</LetterRelationsChange_NeutralFromAlly>
   <!-- EN: While they will still interact peacefully with you, they will no longer send fighters to help you when you are under threat.\n\nThis happened because goodwill ({1}) has fallen below {2}. If goodwill falls below {3}, {0} will become hostile. If goodwill rises above {4}, they will become allied once again. -->
-  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Sie wird zwar weiterhin friedlich mit dir interagieren, aber keine Kämpfer mehr zu deiner Unterstützung schicken.\n\nDas ist passiert, weil dein Ruf ({1}) unter {2} gefallen ist. Fällt dein Ruf unter {3}, wird die Fraktion {0} feindlich. Steigt dein Ruf über {4}, betrachtet sie dich wieder als Verbündeten.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
+  <LetterRelationsChange_NeutralFromAllyGoodwillDescription>Beidh siad sásta caitheamh leat go síochánta, ach ní chuirfidh siad cúnamh míleata chugat níos mó.\n\nTharla an méid seo toisc gur thit an leibhéal dea-mhéine ({1}) faoi bhun {2}. Ma thiteann an leibhéal déa-mhéine faoi bhun {3}, éireoidh {0} naimhdeach arís. Má ardaíonn an leibhéal déa-mhéine os cionn {4}, caithfidh siad leat go cairdiúil agus beidh siad sásta troid ar do shon.</LetterRelationsChange_NeutralFromAllyGoodwillDescription>
   
   <!-- EN: Relations with {0} have become very close. They now consider you an ally. -->
-  <LetterRelationsChange_Ally>Die Beziehung zur Fraktion {0} ist sehr eng geworden. Sie betrachtet dich jetzt als Verbündeten.</LetterRelationsChange_Ally>
+  <LetterRelationsChange_Ally>Tá do chaidreamh le {0} feabhsaithe go mór. Caithfidh siad leat go cairdiúil as seo amach.</LetterRelationsChange_Ally>
   <!-- EN: Allies will sometimes arrive to help fight your enemies when you are under attack. You can also call them for help at any time, at a cost of goodwill.\n\nYou've become allies because your goodwill ({0}) has risen past {1}. If goodwill falls below {2}, relations will return to neutral. -->
-  <LetterRelationsChange_AllyGoodwillDescription>Verbündete kommen dir manchmal zu Hilfe, wenn du angegriffen wirst. Du kannst sie auch jederzeit um Hilfe bitten, aber das kostet dich Ruf.\n\nIhr seid Verbündete geworden, weil dein Ruf ({0}) über {1} gestiegen ist. Fällt dein Ruf unter {2}, werden die Beziehungen wieder neutral.</LetterRelationsChange_AllyGoodwillDescription>
+  <LetterRelationsChange_AllyGoodwillDescription>Cuirfidh faicsin chairdiúla cúnamh míleata chugat má bhíonn tú i dtríoblóid. Is féidir cúnamh a iarradh uathu ag am ar bith, ach pointí dea-mhéine a íoc.\n\nIs comhghuallaithe sibh anois toisc gur ardaigh an leibhéal dea-mhéine ({0}) os cionn {1}. Má thiteann an leibhéal dea-mhéine faoi bhun {2}, caithfidh siad leat go neodrach arís.</LetterRelationsChange_AllyGoodwillDescription>
 
   <!-- EN: goodwill -->
-  <goodwill>Ruf</goodwill>
+  <goodwill>dea-mhéin</goodwill>
   <!-- EN: Neutral -->
-  <Neutral>Neutral</Neutral>
+  <Neutral>neodrach</Neutral>
   <!-- EN: neutral -->
-  <NeutralLower>neutral</NeutralLower>
+  <NeutralLower>neodrach</NeutralLower>
   <!-- EN: Death -->
-  <Death>Tod</Death>
+  <Death>bás</Death>
 
   <!-- EN: A {1_label} has short-circuited due to precipitation and started a fire. -->
-  <ShortCircuitRain>Der Niederschlag hat bei '{1_label}' einen Kurzschluss verursacht und einen Brand ausgelöst.</ShortCircuitRain>
+  <ShortCircuitRain>Tá '{1_label}' tar éis gearrchiorcadadh, agus tá sé trí thine.</ShortCircuitRain>
 
   <!-- EN: Area revealed -->
-  <LetterLabelAreaRevealed>Gebiet freigelegt</LetterLabelAreaRevealed>
+  <LetterLabelAreaRevealed>Láthair aimsithe</LetterLabelAreaRevealed>
   <!-- EN: A new area has been revealed. -->
-  <AreaRevealed>Ein neues Gebiet wurde freigelegt.</AreaRevealed>
+  <AreaRevealed>Aimsíodh láthair nua.</AreaRevealed>
   <!-- EN: A new area has been revealed. It contains ancient, hostile mechanoids. -->
-  <AreaRevealedWithMechanoids>Ein neues Gebiet wurde freigelegt. Es enthält antike, feindliche Mechanoiden.</AreaRevealedWithMechanoids>
+  <AreaRevealedWithMechanoids>Aimsíodh láthair nua. Tá meicea-róbait ársa ann - bí cúramach, tá siad an-dáinséarach.</AreaRevealedWithMechanoids>
 
   <!-- EN: A roof has collapsed because it was too far from any support. -->
-  <RoofCollapsed>Ein Dach ist eingestürzt, weil es nicht mehr gestützt werden konnte.</RoofCollapsed>
+  <RoofCollapsed>Thit díon, toisc nach raibh aon strúchtúr tacaíochta aige.</RoofCollapsed>
   <!-- EN: These things were crushed: -->
-  <TheseThingsCrushed>Folgende Dinge wurden von herabfallenden Trümmern erfasst:</TheseThingsCrushed>
+  <TheseThingsCrushed>Brúisceadh na rudaí seo a leanas:</TheseThingsCrushed>
   <!-- EN: Nothing was crushed. -->
-  <NothingCrushed>Nichts wurde von herabfallenden Trümmern erfasst.</NothingCrushed>
+  <NothingCrushed>Níor brúisceadh aon rud.</NothingCrushed>
   <!-- EN: Roof collapse -->
-  <LetterLabelRoofCollapsed>Dacheinsturz</LetterLabelRoofCollapsed>
+  <LetterLabelRoofCollapsed>Thit díon</LetterLabelRoofCollapsed>
 
   <!-- EN: {0} successfully recruited {1} ({2} chance). -->
-  <RecruitSuccess>{0} konnte {1} erfolgreich rekrutieren ({2} Chance).</RecruitSuccess>
+  <RecruitSuccess>D'éirigh le {0} {1} a earcú (seans: {2}).</RecruitSuccess>
   <!-- EN: {0} failed to recruit {1} ({2} chance). -->
-  <RecruitFail>{0} konnte {1} nicht rekrutieren ({2} Chance).</RecruitFail>
+  <RecruitFail>Níor éirigh le {0} {1} a earcú (seans: {2}).</RecruitFail>
 
   <!-- EN: {PAWN_nameDef} is {RELATIVE_labelShort}'s {1}. If {PAWN_nameDef} dies, {RELATIVE_labelShort} will suffer from long-lasting grief. However, if you manage to rescue {PAWN_nameDef}, {RELATIVE_labelShort} will be very happy for a long time. -->
-  <RelatedPawnInvolvedInQuest>{PAWN_nameDef} ist {replace: {RELATIVE_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1}. Wenn {PAWN_nameDef} stirbt, wird {RELATIVE_labelShort} sehr lange um {PAWN_objective} trauern. Wenn du es aber schaffst, {PAWN_nameDef} zu retten, wird {RELATIVE_labelShort} sehr lange sehr glücklich sein.</RelatedPawnInvolvedInQuest>
+  <RelatedPawnInvolvedInQuest>Tá {PAWN_nameDef} gaolta le {RELATIVE_labelShort} ({1}). Má chailltear {PAWN_nameDef}, beidh cumha agus briseadh croí ar {RELATIVE_labelShort}. Má éiríonn leat {PAWN_nameDef}  a tharrtháil, áfach, beidh lúchair ar {RELATIVE_labelShort}.</RelatedPawnInvolvedInQuest>
 
   <!-- EN: Birthday -->
-  <LetterLabelBirthday>Geburtstag</LetterLabelBirthday>
+  <LetterLabelBirthday>Breithlá</LetterLabelBirthday>
   <!-- EN: It's {0}'s chronological birthday today! Biologically, {1} is {3} years old.\n\nChronologically, {1} just turned {2}.\n\nNote that since people don't age while in cryptosleep, chronological birthday is separate from biological birthday. -->
-  <BirthdayChronological>Chronologisch hat {0} heute Geburtstag! Biologisch ist {1} {3} Jahre alt. Chronologisch wurde {1} {2}.\n\nHinweis: Da Menschen im Kryptoschlaf nicht altern, ist der chronologische Geburtstag vom biologischen Geburtstag getrennt.</BirthdayChronological>
+  <BirthdayChronological>Is é inniu breithlá croneolaíoch {0}! Go bitheolaíoch, tá {1} {3} bliain d'aois. Go croneolaíoch, tá {1} {2} bliain d'aois.\n\nMar eolas: ní théann daoine áirithe in aois fad is atá siad i gcriptea-chodladh, mar sin bíonn aois bhitheolaíoch agus aois chroneolaíoch difriúla acu.</BirthdayChronological>
   <!-- EN: {0_nameFull} has reached the biological age of {1}. -->
-  <LetterBirthdayBiological>{0_nameFull} hat das biologische Alter von (*DateTime){1} Jahren(/DateTime) erreicht.</LetterBirthdayBiological>
+  <LetterBirthdayBiological>Tá aois bhitheolaíoch {1} bliain d'aois baint amach ag {0_nameFull}.</LetterBirthdayBiological>
   <!-- EN: Unfortunately, {0_nameFull} has gained the following diseases due to aging -->
-  <BirthdayBiologicalAgeInjuries>Leider wurden bei {0_gender ? ihm : ihr} die folgenden altersbedingten Krankheiten festgestellt</BirthdayBiologicalAgeInjuries>
+  <BirthdayBiologicalAgeInjuries>Faraor, tá na galair seo a leanas ar {0_nameFull} anois</BirthdayBiologicalAgeInjuries>
 
   <!-- EN: Disease -->
-  <LetterLabelNewDisease>Krankheit</LetterLabelNewDisease>
+  <LetterLabelNewDisease>Galar</LetterLabelNewDisease>
   <!-- EN: {PAWN} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewDisease>{PAWN} ist an {1} erkrankt.\n\nStelle sicher, dass du ein Krankenbett und einen Arzt hast. Sorge dafür, dass {PAWN_definite} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, um schnell wieder gesund zu werden.</NewDisease>
+  <NewDisease>Tá {1} ar {PAWN}.\n\nBí cinnte go bhfuil leapa ospidéil agus dochtúir ar fáil, agus go gcaitheann {PAWN_definite} go leor ama sa leaba.</NewDisease>
   <!-- EN: {PAWN} has gotten sick from {3}. The infection is in {PAWN_possessive} {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment and spends as much time in bed as possible. -->
-  <NewPartDisease>{PAWN} ist an {3} erkrankt. Betroffener Körperteil: {1}.\n\nStelle sicher, dass du ein Krankenbett und einen Arzt hast. Sorge dafür, dass {PAWN_definite} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, um schnell wieder gesund zu werden.</NewPartDisease>
+  <NewPartDisease>Tá {3} ar {PAWN}. Tá an t-orgán seo ionfhabhtaithe: {1}.\n\nBí cinnte go bhfuil leapa ospidéil agus dochtúir ar fáil, agus go gcaitheann {PAWN_definite} go leor ama sa leaba.</NewPartDisease>
   <!-- EN: {PAWN_labelShort} has developed an illness: {1} -->
-  <NewDiseaseAnimal>{PAWN_labelShort} ist an {1} erkrankt.</NewDiseaseAnimal>
+  <NewDiseaseAnimal>Tá {PAWN_labelShort} tinn: {1}</NewDiseaseAnimal>
   <!-- EN: {PAWN_labelShort} has developed an illness: {3} in {PAWN_possessive} {1} -->
-  <NewPartDiseaseAnimal>{PAWN_labelShort} ist an {3} erkrankt. Körperteil: {1}</NewPartDiseaseAnimal>
+  <NewPartDiseaseAnimal>Tá {PAWN_labelShort} tinn: {3} ({1})</NewPartDiseaseAnimal>
 
   <!-- EN: {0} was formerly part of your faction. -->
-  <PawnWasFormerlyColonist>{0} ist ein ehemaliges Mitglied deiner Fraktion.</PawnWasFormerlyColonist>
+  <PawnWasFormerlyColonist>Bhí {0} ina bhall de d'fhaicsean roimhe seo.</PawnWasFormerlyColonist>
   <!-- EN: You previously hosted {0}. -->
-  <PawnWasFormerlyLodger>Du warst zuvor Gastgeber von {0}.</PawnWasFormerlyLodger>
+  <PawnWasFormerlyLodger>Thug {0} cuairt ar do choilíneacht roimhe seo.</PawnWasFormerlyLodger>
   <!-- EN: {1_labelShort} has these relationships with your colonists: -->
-  <PawnHasTheseRelationshipsWithColonists>{1_labelShort} hat folgende Beziehungen zu deinen Kolonisten:</PawnHasTheseRelationshipsWithColonists>
+  <PawnHasTheseRelationshipsWithColonists>Tá an gaolta seo a leanas ag {1_labelShort} le do choilínigh:</PawnHasTheseRelationshipsWithColonists>
 
   <!-- EN: Ancient danger -->
-  <LetterLabelAncientShrineWarning>Antike Gefahr</LetterLabelAncientShrineWarning>
+  <LetterLabelAncientShrineWarning>Dáinséar ársa</LetterLabelAncientShrineWarning>
   <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>Als {PAWN_nameDef} sich der antiken Wand nähert, überkommt {PAWN_objective} eine unheilvolle Vorahnung. {PAWN_pronoun} ist sich nicht sicher, warum, aber {PAWN_pronoun} spürt, dass in dieser verstaubten Ruine eine große Gefahr lauern könnte.</AncientShrineWarning>
+  <AncientShrineWarning>Mar a théann {PAWN_nameDef} in aice leis an seanbhalla, tagann míshuaimhneas {PAWN_objective}. Níl {PAWN_pronoun} cinnte cén fáth, ach braitheann {PAWN_pronoun} go bhfuil dáinséar taobh thiar den bhalla ársa seo.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
-  <StruckMineable>Wir sind auf {0} gestoßen!</StruckMineable>
+  <StruckMineable>Tá {0} aimsithe againn!</StruckMineable>
 
   <!-- EN: {0} revenge -->
-  <LetterLabelAnimalManhunterRevenge>{0} rächt sich</LetterLabelAnimalManhunterRevenge>
+  <LetterLabelAnimalManhunterRevenge>díoltas: {0}</LetterLabelAnimalManhunterRevenge>
   <!-- EN: {1_indefinite} is attacking after being harmed!\n\nIt will hunt any humanoid it can reach. It will calm down when it goes to sleep. -->
-  <AnimalManhunterFromDamage>{1_kindBaseIndef} wurde verletzt und greift sofort an!\n\nDie Kreatur wird jeden Menschen in Sichtweite jagen. Sie wird sich erst beruhigen, wenn sie schlafen geht.</AnimalManhunterFromDamage>
+  <AnimalManhunterFromDamage>Tá díoltas á lorg ag {1_indefinite}!\n\nIonsóidh sé aon duine a aimsíonn sé. Socróidh sé síos nuair a théann sé ina chodladh.</AnimalManhunterFromDamage>
   <!-- EN: {1_indefinite} is attacking due to a botched taming attempt! -->
-  <AnimalManhunterFromTaming>{1_kindBaseIndef} greift wegen eines verbockten Zähmversuchs an!</AnimalManhunterFromTaming>
+  <AnimalManhunterFromTaming>Ní rabhthas in ann {1_indefinite} a cheansú, agus tá sé ag ionsaí anois!</AnimalManhunterFromTaming>
   <!-- EN: Other {1_kindBasePlural} nearby have also become enraged! -->
-  <AnimalManhunterOthers>Andere nahe {1_kindBasePlural} sind auch aggressiv geworden!</AnimalManhunterOthers>
+  <AnimalManhunterOthers>Tá racht feirge taghta ar na hainmhithe eile sa cheantar freisin!!</AnimalManhunterOthers>
 
   <!-- EN: {1_labelShort} hit trap -->
-  <LetterFriendlyTrapSprungLabel>{1_labelShort} hat Falle ausgelöst</LetterFriendlyTrapSprungLabel>
+  <LetterFriendlyTrapSprungLabel>Sheas {1_labelShort} ar ghaiste</LetterFriendlyTrapSprungLabel>
   <!-- EN: {1_labelShort} has accidentally sprung a trap and taken damage from it. -->
-  <LetterFriendlyTrapSprung>{1_labelShort} hat versehentlich eine Falle ausgelöst und wurde verletzt.</LetterFriendlyTrapSprung>
+  <LetterFriendlyTrapSprung>Sheas {1_labelShort} ar ghaiste trí thimpiste. Tá{1_labelShort} gortaithe.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>{PAWN_labelShort} hat einen neuen Gesundheitszustand:\n\n  {1}\n\nDie Ursache dafür war:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>Ta {PAWN_labelShort} hat einen neuen Gesundheitszustand:\n\n  {1}\n\nDie Ursache dafür war:\n\n  {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
