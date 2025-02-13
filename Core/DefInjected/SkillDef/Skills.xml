@@ -67,7 +67,7 @@
   <!-- EN: cooking -->
   <Cooking.label>cócaireacht</Cooking.label>
   <!-- EN: Creating meals from raw ingredients quickly and without accidental food poisoning. -->
-  <Cooking.description>Úsáidtear an scil seo chun béilí a dhéanamh as amhábhair, gan nimhiú bia.</Cooking.description>
+  <Cooking.description>Úsáidtear an scil seo chun béilí a dhéanamh as amhábhair.</Cooking.description>
   <!-- EN:
     <li>subject->cooking</li>
     <li>subject->food</li>
@@ -218,7 +218,7 @@
   <!-- EN: plants -->
   <Plants.label>plandaí</Plants.label>
   <!-- EN: Sowing, caring for and harvesting crops, and foraging for food while traveling. -->
-  <Plants.description>Úsáidtear an scil seo chun plandaí a chur, a fhás agus a bhaint, agus chun plandaí fiáine a bhaint mar bhia.</Plants.description>
+  <Plants.description>Úsáidtear an scil seo chun plandaí a chur, a fhás agus a bhaint.</Plants.description>
   <!-- EN:
     <li>subject->plants</li>
     <li>subject->herbs</li>
@@ -245,7 +245,7 @@
   <!-- EN: shooting -->
   <Shooting.label>lámhach</Shooting.label>
   <!-- EN: Ranged combat, with both high-tech and low-tech weapons. -->
-  <Shooting.description>Úsaidtear an scil seo le haghaidh comhrac fadraoin, agus baint úsáid as airm shimplí agus ardteicneolaíochta.</Shooting.description>
+  <Shooting.description>Úsaidtear an scil seo le haghaidh comhrac fadraoin, agus chun airm éagsúla a úsáid.</Shooting.description>
   <!-- EN:
     <li>subject->guns</li>
     <li>subject->weapons</li>

@@ -1390,25 +1390,25 @@
 
   <!-- Mood descriptions -->
   <!-- EN: mental state -->
-  <Mood_MentalState>übergeschnappt</Mood_MentalState>
+  <Mood_MentalState>cliseadh néarógach</Mood_MentalState>
   <!-- EN: about to break -->
-  <Mood_AboutToBreak>nahe Kollaps</Mood_AboutToBreak>
+  <Mood_AboutToBreak>ar tí briseadh síos</Mood_AboutToBreak>
   <!-- EN: on edge -->
-  <Mood_OnEdge>gereizt</Mood_OnEdge>
+  <Mood_OnEdge>ar tinneall</Mood_OnEdge>
   <!-- EN: stressed -->
-  <Mood_Stressed>gestresst</Mood_Stressed>
+  <Mood_Stressed>faoi strus</Mood_Stressed>
   <!-- EN: neutral -->
-  <Mood_Neutral>neutral</Mood_Neutral>
+  <Mood_Neutral>neodrach</Mood_Neutral>
   <!-- EN: content -->
-  <Mood_Content>zufrieden</Mood_Content>
+  <Mood_Content>sásta</Mood_Content>
   <!-- EN: happy -->
-  <Mood_Happy>glücklich</Mood_Happy>
+  <Mood_Happy>sona</Mood_Happy>
 
   <!-- Game over -->
   <!-- EN: Game Over -->
-  <GameOver>TODO</GameOver>
+  <GameOver>Tá an cluiche thart.</GameOver>
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
-  <GameOverEveryoneDead>Alle sind tot oder fort. Diese Geschichte ist zu Ende.\n\nVielleicht findet jemand anderes einen Nutzen für die noch stehenden Ruinen.</GameOverEveryoneDead>
+  <GameOverEveryoneDead>Tá gach duine marbh nó imithe. Tá deireadh leis an scéal seo.\n\nTá seans ann go n-aimseoidh daoine eile a bhfuil fágtha den áit seo, agus go gcuirfear tús le scéal nua.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
   <GameOverPlanetkillerImpact>Mit nahezu Lichtgeschwindigkeit schlug der Planetenkiller in die Oberfläche ein und entwickelte dabei eine Sprengkraft, die mehreren Billionen Wasserstoffbomben entspricht. Wie ein Wasserballon, der von einer Gewehrkugel durchschlagen wird, verflüssigte sich diese Welt durch den Aufprall und spritzte ihre geschmolzenen Innereien in den Kosmos.\n\nEin Teil von {0} ist jetzt ein kleiner Asteroidengürtel. Der Rest ist eine geschmolzene, radioaktive Höllenlandschaft, die ständig von kilometerhohen Erdbebenwellen erschüttert wird.\n\nDu hast nicht überlebt.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->

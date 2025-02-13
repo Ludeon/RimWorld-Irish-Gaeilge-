@@ -104,7 +104,7 @@
   <!-- EN: Ancient danger -->
   <LetterLabelAncientShrineWarning>Dáinséar ársa</LetterLabelAncientShrineWarning>
   <!-- EN: As {PAWN_nameDef} draws near the ancient wall, a sense of foreboding overcomes {PAWN_objective}. {PAWN_pronoun} isn't sure why, but {PAWN_pronoun} feels that this dusty structure may contain great danger. -->
-  <AncientShrineWarning>Mar a théann {PAWN_nameDef} in aice leis an seanbhalla, tagann míshuaimhneas {PAWN_objective}. Níl {PAWN_pronoun} cinnte cén fáth, ach braitheann {PAWN_pronoun} go bhfuil dáinséar taobh thiar den bhalla ársa seo.</AncientShrineWarning>
+  <AncientShrineWarning>Tagann míshuaimhneas ar {PAWN_nameDef} mar a théann {PAWN_pronoun} in aice leis an seanbhalla. Níl {PAWN_pronoun} cinnte cén fáth, ach braitheann {PAWN_pronoun} go bhfuil dáinséar taobh thiar den bhalla ársa seo.</AncientShrineWarning>
 
   <!-- EN: We have struck {0}! -->
   <StruckMineable>Tá {0} aimsithe againn!</StruckMineable>

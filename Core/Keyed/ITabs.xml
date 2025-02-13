@@ -17,7 +17,7 @@
   <!-- EN: Gear -->
   <TabGear>Trealamh</TabGear>
   <!-- EN: Needs -->
-  <TabNeeds>Riachtanais</TabNeeds>
+  <TabNeeds>Riacht.</TabNeeds>
   <!-- EN: Storage -->
   <TabStorage>Stóras</TabStorage>
   <!-- EN: Shells -->
@@ -287,7 +287,7 @@
   <!-- EN: Faction leader -->
   <FactionLeader>Ceannaire</FactionLeader>
   <!-- EN: Opinion of {0} -->
-  <OpinionOf>Tuairim maidir le {0}</OpinionOf>
+  <OpinionOf>Mo thairim maidir le {0}</OpinionOf>
   <!-- EN: {0}'s opinion of me -->
   <SomeonesOpinionOfMe>Tuairim {0} maidir liom</SomeonesOpinionOfMe>
   <!-- EN: I'm dead -->
