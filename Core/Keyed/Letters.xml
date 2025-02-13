@@ -124,47 +124,47 @@
   <LetterFriendlyTrapSprung>Sheas {1_labelShort} ar ghaiste trí thimpiste. Tá{1_labelShort} gortaithe.</LetterFriendlyTrapSprung>
 
   <!-- EN: {PAWN_labelShort} has developed a health condition:\n\n  {1}\n\nThis was caused by:\n\n  {2} -->
-  <LetterHealthComplications>Ta {PAWN_labelShort} hat einen neuen Gesundheitszustand:\n\n  {1}\n\nDie Ursache dafür war:\n\n  {2}</LetterHealthComplications>
+  <LetterHealthComplications>Tá ríocht sláinte ar {PAWN_labelShort}:\n\n  {1}\n\nTharla seo seo mar gheall ar:\n\n  {2}</LetterHealthComplications>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHealthComplicationsLabel>{PAWN_labelShort}: {1}</LetterHealthComplicationsLabel>
   
   <!-- EN: {PAWN_labelShort} has developed a health condition: {1}. -->
-  <LetterHediffFromRandomHediffGiver>{PAWN_labelShort} hat einen neuen Gesundheitszustand: {1}.</LetterHediffFromRandomHediffGiver>
+  <LetterHediffFromRandomHediffGiver>Tá ríocht sláinte ar {PAWN_labelShort}: {1}.</LetterHediffFromRandomHediffGiver>
   <!-- EN: {PAWN_labelShort}: {1} -->
   <LetterHediffFromRandomHediffGiverLabel>{PAWN_labelShort}: {1}</LetterHediffFromRandomHediffGiverLabel>
 
   <!-- EN: {1} died: {0} -->
-  <LetterLeadersDeathLabel>Fraktionsführer gestorben: {0}</LetterLeadersDeathLabel>
+  <LetterLeadersDeathLabel>Cailleadh {0}</LetterLeadersDeathLabel>
   <!-- EN: {OLDLEADER_nameFull}, {1} of {0}, has died. -->
-  <LetterLeadersDeath>{OLDLEADER_nameFull}, {1} der Fraktion {0}, ist gestorben.</LetterLeadersDeath>
+  <LetterLeadersDeath>Cailleadh {OLDLEADER_nameFull}, {1} {0}.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>Neuer Fraktionsführer: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChangedLabel>Ceannaire nua: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>{OLDLEADER_nameFull} ist nicht länger {1} der Fraktion {0}.</LetterLeaderChanged>
+  <LetterLeaderChanged>Tá ceannaire nua ag {0}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
-  <LetterNewLeader>Ihr neuer Anführer heißt {NEWLEADER_nameFull}.</LetterNewLeader>
+  <LetterNewLeader>{NEWLEADER_nameFull} is ainm don cheannaire nua.</LetterNewLeader>
 
   <!-- EN: The final straw was: {0} -->
-  <FinalStraw>Der auslösende Faktor war: {0}</FinalStraw>
+  <FinalStraw>Buille na tubaiste: {0}</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateReason_Mood>Dies geschah aufgrund von schlechter Laune.</MentalStateReason_Mood>
+  <MentalStateReason_Mood>Tharlá sin mar gheall ar ghiúmar íseal.</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
-  <MentalStateReason_Trait>Dies geschah aufgrund des Merkmals '{0}'.</MentalStateReason_Trait>
+  <MentalStateReason_Trait>Tharla sin mar gheall ar an tréith '{0}'.</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
-  <MentalStateReason_Hediff>Dies geschah aufgrund von: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_Hediff>Tharla sin mar gheall ar: {0}.</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>Dies geschah, weil {0_definite} gestorben ist.</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>Tharla sin mar gheall ar bhás {0_definite}.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
-  <LastFactionRelationsEvent>Das letzte Ereignis war</LastFactionRelationsEvent>
+  <LastFactionRelationsEvent>An imeacht deireanach</LastFactionRelationsEvent>
 
   <!-- EN: View related quest -->
-  <ViewRelatedQuest>Zeige zugehörige Quest</ViewRelatedQuest>
+  <ViewRelatedQuest>Féach ar an misean</ViewRelatedQuest>
   <!-- EN: View quest -->
-  <ViewQuest>Zeige Quest</ViewQuest>
+  <ViewQuest>Féach ar an misean</ViewQuest>
   <!-- EN: The last events in {PAWN_definite}'s life -->
-  <LastEventsInLife>Die letzten Ereignisse im Leben von {PAWN_definite}</LastEventsInLife>
+  <LastEventsInLife>An rud deireanach a tharla i saol {PAWN_definite}</LastEventsInLife>
 
   <!-- EN: Thanks to high mood, [PAWN_nameIndef] has experienced an inspiration! -->
   <LetterInspirationBeginThanksToHighMoodPart>Dank [PAWN_possessive]es hohen Stimmungswertes hat [PAWN_nameDef] eine Inspiration erfahren!</LetterInspirationBeginThanksToHighMoodPart>

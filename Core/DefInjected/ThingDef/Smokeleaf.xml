@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: smokeleaf joint -->
-  <SmokeleafJoint.label>TODO</SmokeleafJoint.label>
+  <SmokeleafJoint.label>toitín raithní</SmokeleafJoint.label>
   <!-- EN: Smokeleaf leaves prepared in small rolls for smoking. The drug improves mood, but also increases appetite, reduces focus and slows movement. Smokeleaf use can produce a dependency.\n\nJoints can be produced at a crafting spot without equipment, and are a fixture in many traditional low-industriousness cultures. -->
-  <SmokeleafJoint.description>TODO</SmokeleafJoint.description>
+  <SmokeleafJoint.description>Toitín raithní. Cruthaíonn an tsubsaint seo siabhrán deas, ach cuireann sé leis an ocras agus cuireann sé isteach ar an gcumas díriú ar rudaí. Is féidir le daoine andúil i raithneach a fhorbairt.\n\nIs féidir toitíní raithní a dhéanamh gan aon trealamh, agus bíonn siad in úsáid go minic in go leor sochaithe</SmokeleafJoint.description>
   <!-- EN: Smoke {0} -->
-  <SmokeleafJoint.ingestible.ingestCommandString>TODO</SmokeleafJoint.ingestible.ingestCommandString>
+  <SmokeleafJoint.ingestible.ingestCommandString>Caith {0}</SmokeleafJoint.ingestible.ingestCommandString>
   <!-- EN: Smoking {0}. -->
-  <SmokeleafJoint.ingestible.ingestReportString>TODO</SmokeleafJoint.ingestible.ingestReportString>
+  <SmokeleafJoint.ingestible.ingestReportString>Ag caitheamh {0}</SmokeleafJoint.ingestible.ingestReportString>
   <!-- EN: Consuming {0}. -->
-  <SmokeleafJoint.ingestible.ingestReportStringEat>TODO</SmokeleafJoint.ingestible.ingestReportStringEat>
+  <SmokeleafJoint.ingestible.ingestReportStringEat>Ag úsáid {0}</SmokeleafJoint.ingestible.ingestReportStringEat>
   
 </LanguageData>
