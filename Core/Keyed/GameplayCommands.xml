@@ -52,14 +52,14 @@
   <CommandFireAtWillDesc>Má mhúchtar an socrú seo, ní scaoilfidh an carachtar seo ar thargaidí go huathoibríoch.</CommandFireAtWillDesc>
   
   <!-- EN: Clear prioritized work -->
-  <CommandClearPrioritizedWork>Athshocraigh obair thosaíochta</CommandClearPrioritizedWork>
+  <CommandClearPrioritizedWork>Scrios obair sa chiú</CommandClearPrioritizedWork>
   <!-- EN: Clear any prioritized work you assigned. The character will go back to their usual self-directed activities. -->
-  <CommandClearPrioritizedWorkDesc>Glan aon obair thosaíochta a sannadh roimhe seo. Rachaidh an carachtar seo i mbun gníomhaíochtaí féinstiúrtha arís.</CommandClearPrioritizedWorkDesc>
+  <CommandClearPrioritizedWorkDesc>Glan aon obair a sannadh roimhe seo. Fillfidh an carachtar ar a ghníomhaíochtaí féinstiúrtha arís.</CommandClearPrioritizedWorkDesc>
   
   <!-- EN: Cancel -->
   <CommandCancelConstructionLabel>Cealaigh</CommandCancelConstructionLabel>
   <!-- EN: Cancel this construction. -->
-  <CommandCancelConstructionDesc>Cealaigh an tógáil seo.</CommandCancelConstructionDesc>
+  <CommandCancelConstructionDesc>Cuir seo ar ceal.</CommandCancelConstructionDesc>
 
   <!-- EN: Get out of bed -->
   <CommandGetOutOfBedLabel>Éirí</CommandGetOutOfBedLabel>
@@ -139,7 +139,7 @@
   <!-- EN: Allow cutting -->
   <CommandAllowCut>Gearradh ceadaithe</CommandAllowCut>
   <!-- EN: When disabled, colonists will never cut plants in this zone. They will still sow new plants in spaces that are already empty, and harvest plants matching the growing zone plant type. -->
-  <CommandAllowCutDesc>Má mhúchtar an socru seo, ní ghearrfaidh cóilínigh aon phlandaí sa zón seo. Cuirfidh siad plandaí nua i spásanna atá ann cheana.</CommandAllowCutDesc>
+  <CommandAllowCutDesc>Má mhúchtar an socrú seo, ní ghearrfaidh cóilínigh aon phlandaí sa zón seo.</CommandAllowCutDesc>
   
   <!-- EN: Select {0_label} -->
   <CommandSelectStoredThing>Roghnaigh {0_label}</CommandSelectStoredThing>
@@ -148,397 +148,397 @@
 
   <!-- Artillery -->
   <!-- EN: Set forced target -->
-  <CommandSetForceAttackTarget>Ziel angreifen</CommandSetForceAttackTarget>
+  <CommandSetForceAttackTarget>Roghnaigh targaid tosaíochta</CommandSetForceAttackTarget>
   <!-- EN: Sets a target that this turret must attack continuously as long as it can. -->
-  <CommandSetForceAttackTargetDesc>Bestimme ein Ziel, das dieser Turm so lange wie möglich angreifen soll.</CommandSetForceAttackTargetDesc>
+  <CommandSetForceAttackTargetDesc>Roghnaigh targaid. Déanfaidh an túirín seo iarracht tús áite a thabhairt don targaid sin.</CommandSetForceAttackTargetDesc>
   <!-- EN: Stop forced attack -->
-  <CommandStopForceAttack>Erzw. Angriff stoppen</CommandStopForceAttack>
+  <CommandStopForceAttack>Díroghnaigh targaid tosaíochta</CommandStopForceAttack>
   <!-- EN: Stops force-attacking and allows the turret to fire as it wishes. -->
-  <CommandStopForceAttackDesc>Stoppe den erzwungenen Angriff und erlaube dem Turm, Ziele nach eigenem Ermessen anzugreifen.</CommandStopForceAttackDesc>
+  <CommandStopForceAttackDesc>Díroghnófar an targaid tosaíochta, agus beidh an túirín in ann aon tairgaid a ionsaí.</CommandStopForceAttackDesc>
   <!-- EN: Not currently force-attacking. -->
-  <CommandStopAttackFailNotForceAttacking>Aktuell kein erzwungener Angriff aktiv.</CommandStopAttackFailNotForceAttacking>
+  <CommandStopAttackFailNotForceAttacking>Níl aon targaid tosaíochta ann.</CommandStopAttackFailNotForceAttacking>
   <!-- EN: Extract shell -->
-  <CommandExtractShell>Granate entnehmen</CommandExtractShell>
+  <CommandExtractShell>Bain sliogán</CommandExtractShell>
   <!-- EN: Unloads the current shell so it can be replaced with different ammunition. -->
-  <CommandExtractShellDesc>Nimm die aktuelle Granate heraus, um ggf. eine andere hineinzutun.</CommandExtractShellDesc>
+  <CommandExtractShellDesc>Bain an sliogán atá lódáilte faoi láthair. Beidh tú in ann sliogán eile a chur ina áit.</CommandExtractShellDesc>
   <!-- EN: Target beyond maximum range. -->
-  <MessageTargetBeyondMaximumRange>Ziel ist zu weit weg.</MessageTargetBeyondMaximumRange>
+  <MessageTargetBeyondMaximumRange>Tá an targaid rófhada.</MessageTargetBeyondMaximumRange>
   <!-- EN: Target below minimum range. -->
-  <MessageTargetBelowMinimumRange>Ziel ist zu nah.</MessageTargetBelowMinimumRange>
+  <MessageTargetBelowMinimumRange>Tá an targaid róchóngarach.</MessageTargetBelowMinimumRange>
   <!-- EN: Warning: The mortar won't fire because it's set to "Hold fire". -->
-  <MessageTurretWontFireBecauseHoldFire>Warnung: Der Mörser wird nicht schießen, da 'Nicht schießen' aktiviert ist.</MessageTurretWontFireBecauseHoldFire>
+  <MessageTurretWontFireBecauseHoldFire>Rabhadh: ní ionsóidh an moirtéir toisc go bhfuil "fóill lámhaigh" roghnaite.</MessageTurretWontFireBecauseHoldFire>
   
   <!-- Ship computer core -->
   <!-- EN: Launch ship -->
-  <CommandShipLaunch>Schiff starten</CommandShipLaunch>
+  <CommandShipLaunch>Lainseáil</CommandShipLaunch>
   <!-- EN: Start the ship launch sequence with the current configuration. -->
-  <CommandShipLaunchDesc>Beginne die Startsequenz des Raumschiffes mit der aktuellen Konfiguration.</CommandShipLaunchDesc>
+  <CommandShipLaunchDesc>Cuir tús leis an bpróiseas lainseála.</CommandShipLaunchDesc>
   <!-- EN: Show launch report -->
-  <CommandShipLaunchReport>Statusbericht anzeigen</CommandShipLaunchReport>
+  <CommandShipLaunchReport>Taispeáin an tuairascáil lainseála</CommandShipLaunchReport>
   <!-- EN: Show a readiness report about the ship's launch capability. -->
-  <CommandShipLaunchReportDesc>Zeige den Statusbericht des Raumschiffes an, um zu prüfen, ob das Schiff startfähig ist.</CommandShipLaunchReportDesc>
+  <CommandShipLaunchReportDesc>Taispeáin tuarascáil leainseála, ina bhfuil eolas maidir le hullmhacht na spásloinge.</CommandShipLaunchReportDesc>
   <!-- EN: Start ship -->
-  <CommandShipStartup>Schiff hochfahren</CommandShipStartup>
+  <CommandShipStartup>Tosaigh spáslong</CommandShipStartup>
   <!-- EN: Wake up hibernating ship components. -->
-  <CommandShipStartupDesc>Aktiviere im Ruhezustand befindliche Raumschiffskomponenten.</CommandShipStartupDesc>
+  <CommandShipStartupDesc>Cuir tús le comhpháirteanna spásloinge atá i staid ísealchumhachta.</CommandShipStartupDesc>
 
   <!-- Pod -->
   <!-- EN: Eject sleeper -->
-  <CommandPodEject>Schläfer rauswerfen</CommandPodEject>
+  <CommandPodEject>Cuir amach</CommandPodEject>
   <!-- EN: Wake up the cryptosleeper and eject them. -->
-  <CommandPodEjectDesc>Wecke den Kryptoschläfer auf und werfe ihn raus.</CommandPodEjectDesc>
+  <CommandPodEjectDesc>Déan an duine atá i gcriptea-chodladh a mhúscailt agus caith amach as an bpod é.</CommandPodEjectDesc>
   <!-- EN: Contains nobody. -->
-  <CommandPodEjectFailEmpty>Enthält niemanden.</CommandPodEjectFailEmpty>
+  <CommandPodEjectFailEmpty>Níl duine ar bith sa phod.</CommandPodEjectFailEmpty>
 
   <!-- Door -->
   <!-- EN: Passage forbidden -->
-  <CommandToggleDoorForbid>Durchgang verboten</CommandToggleDoorForbid>
+  <CommandToggleDoorForbid>Dícheadaithe</CommandToggleDoorForbid>
   <!-- EN: When a door is forbidden, colonists and allies will not go through it. This doesn't affect how enemies or animals interact with the door. -->
-  <CommandToggleDoorForbidDesc>Wenn das Benutzen einer Tür verboten ist, werden deine Kolonisten und Verbündete nicht durch sie hindurch gehen. Gegner und Tiere ignorieren diesen Befehl.</CommandToggleDoorForbidDesc>
+  <CommandToggleDoorForbidDesc>Ní bhainfidh coilínigh ná comhghuallaithe úsáid as doirse atá neamhcheadaithe. Ní bhíonn aon éifeacht ag an socrú seo ar an gcaoi a n-úsáideann naimhde nó ainmhithe an doras.</CommandToggleDoorForbidDesc>
   <!-- EN: Hold open -->
-  <CommandToggleDoorHoldOpen>Offen halten</CommandToggleDoorHoldOpen>
+  <CommandToggleDoorHoldOpen>Coinnigh ar oscailt</CommandToggleDoorHoldOpen>
   <!-- EN: When active, your colonists will not close the door after passing through. -->
-  <CommandToggleDoorHoldOpenDesc>Wenn aktiv, werden deine Kolonisten die Tür nicht schließen, nachdem sie hindurchgegangen sind.</CommandToggleDoorHoldOpenDesc>
+  <CommandToggleDoorHoldOpenDesc>Má roghnaítear seo, coinneofar an doras ar oscailt i gcónaí.</CommandToggleDoorHoldOpenDesc>
 
   <!-- Temperature control -->
   <!-- EN: Reset -->
-  <CommandResetTemp>Zurücksetzen</CommandResetTemp>
+  <CommandResetTemp>Athshocraigh</CommandResetTemp>
   <!-- EN: Reset the target temperature to room temperature. -->
-  <CommandResetTempDesc>Setze die Zieltemperatur auf Raumtemperatur zurück.</CommandResetTempDesc>
+  <CommandResetTempDesc>Déan an sprioctheocht a athshocrú chuig teocht an tseomra.</CommandResetTempDesc>
   <!-- EN: Raise the target temperature. -->
-  <CommandRaiseTempDesc>Erhöhe die Zieltemperatur.</CommandRaiseTempDesc>
+  <CommandRaiseTempDesc>Ardaigh an sprioctheocht.</CommandRaiseTempDesc>
   <!-- EN: Lower the target temperature. -->
-  <CommandLowerTempDesc>Verringere die Zieltemperatur.</CommandLowerTempDesc>
+  <CommandLowerTempDesc>Ísligh an sprioctheocht.</CommandLowerTempDesc>
 
   <!-- Install/reinstall -->
   <!-- EN: Install -->
-  <CommandInstall>Montieren</CommandInstall>
+  <CommandInstall>Feistigh</CommandInstall>
   <!-- EN: This item is currently packaged up for storage and transport. Use this command to install this item in a final location. -->
-  <CommandInstallDesc>Dieses Objekt ist derzeit für Lagerung und Transport verpackt. Benutze diesen Befehl, um es woanders wieder zu montieren.</CommandInstallDesc>
+  <CommandInstallDesc>Tá an rud seo pacáilte agus réidh le stóráil nó le hiompar. Úsáid an t-ordú seo chun é a fheistiú in áit nua.</CommandInstallDesc>
   <!-- EN: Reinstall at... -->
-  <CommandReinstall>Versetzen...</CommandReinstall>
+  <CommandReinstall>Bog chuig...</CommandReinstall>
   <!-- EN: Designate this item to be uninstalled and reinstalled somewhere else. -->
-  <CommandReinstallDesc>Ordne an, dass dieses Objekt demontiert und woanders wieder montiert werden soll.</CommandReinstallDesc>
+  <CommandReinstallDesc>Déan an rud seo a bhogadh agus a athfheistiú in áit eile.</CommandReinstallDesc>
   <!-- EN: Replant -->
-  <CommandReplant>Umpflanzen</CommandReplant>
+  <CommandReplant>Athchur</CommandReplant>
   <!-- EN: This tree is currently packaged up for storage and transport. Use this command to replant it in a new location. -->
-  <CommandReplantDesc>Dieser Baum ist derzeit für Lagerung und Transport verpackt. Benutze diesen Befehl, um ihn woanders wieder einzupflanzen.</CommandReplantDesc>
+  <CommandReplantDesc>Tá an crann seo pacáilte agus réidh le stóráil nó le hiompar. Úsáid an t-ordú seo chun é a athchur in áit nua.</CommandReplantDesc>
   
   <!-- Trade beacon -->
   <!-- EN: Create a stockpile around this building exactly matching the shape of the beacon's launch radius. -->
-  <CommandMakeBeaconStockpileDesc>Erstellt um dieses Bauwerk herum eine Lagerzone, deren Größe genau dem Erfassungsradius der Bake entspricht.</CommandMakeBeaconStockpileDesc>
+  <CommandMakeBeaconStockpileDesc>Cruthaigh stoc-charn timpeall ar an aeróg seo atá laistigh de raon na haeróga trála.</CommandMakeBeaconStockpileDesc>
   <!-- EN: Create stockpile -->
-  <CommandMakeBeaconStockpileLabel>Lagerzone erstellen</CommandMakeBeaconStockpileLabel>
+  <CommandMakeBeaconStockpileLabel>Cruthaigh stoc-charn</CommandMakeBeaconStockpileLabel>
 
   <!-- Sun lamp -->
   <!-- EN: Create a growing zone around this building exactly matching the shape of the lamp's light radius. -->
-  <CommandSunLampMakeGrowingZoneDesc>Erstellt um dieses Bauwerk herum eine Anbauzone, deren Größe genau dem Lichtradius der Lampe entspricht.</CommandSunLampMakeGrowingZoneDesc>
+  <CommandSunLampMakeGrowingZoneDesc>Cruthaigh zón fáis timpeall ar an lampa seo atá laistigh de raon an tsolais gréine.</CommandSunLampMakeGrowingZoneDesc>
   <!-- EN: Create growing zone -->
-  <CommandSunLampMakeGrowingZoneLabel>Anbauzone erstellen</CommandSunLampMakeGrowingZoneLabel>
+  <CommandSunLampMakeGrowingZoneLabel>Cruthaigh zón fáis</CommandSunLampMakeGrowingZoneLabel>
 
   <!-- Trap -->
   <!-- EN: Auto rearm -->
-  <CommandAutoRearm>Autom. Reaktivieren</CommandAutoRearm>
+  <CommandAutoRearm>atharmáil (uathoibríoch)</CommandAutoRearm>
   <!-- EN: If this is on, this trap will automatically be replaced after it springs. -->
-  <CommandAutoRearmDesc>Bei Aktivierung wird die Falle nach dem Auslösen automatisch wieder scharf gemacht.</CommandAutoRearmDesc>
+  <CommandAutoRearmDesc>Má roghnaítear é seo, déanfar an gaiste seo a atharmáil go huathoibríoch má úsáidtear é.</CommandAutoRearmDesc>
   
   <!-- Firefoam popper -->
   <!-- EN: Auto rebuild -->
-  <CommandAutoRebuild_Building>TODO</CommandAutoRebuild_Building>
+  <CommandAutoRebuild_Building>Atóg (uathoibríoch)</CommandAutoRebuild_Building>
   <!-- EN: If this is on, {BUILDING_definite} will automatically be replaced after it detonates. -->
-  <CommandAutoRebuild_BuildingDesc>TODO</CommandAutoRebuild_BuildingDesc>
+  <CommandAutoRebuild_BuildingDesc>Má roghnaítear é seo, déanfar {BUILDING_definite} a atógáil go huathoibríoch má scriostar é.</CommandAutoRebuild_BuildingDesc>
   
   <!-- Animal control -->
   <!-- EN: Animals attack -->
-  <CommandReleaseAnimalsLabel>Tiere vorschicken</CommandReleaseAnimalsLabel>
+  <CommandReleaseAnimalsLabel>Ionsaithe ainmhithe</CommandReleaseAnimalsLabel>
   <!-- EN: While this is on, mastered animals are sent forth to attack distant targets. While it is off, they remain near and guard the master. -->
-  <CommandReleaseAnimalsDesc>Bei Aktivierung werden kampffähige Tiere vorgeschickt, um ferne Ziele anzugreifen. Bei Deaktivierung bleiben sie in der Nähe und verteidigen ihre Bezugsperson.</CommandReleaseAnimalsDesc>
+  <CommandReleaseAnimalsDesc>Má roghnaítear é seo, seolfar ainmhithe ceansaithe amach chun targaidí a ionsú. Mura roghnaítear é, fanfaidh na hainmhithe taobh lena máistir.</CommandReleaseAnimalsDesc>
   <!-- EN: No animals available. -->
-  <CommandReleaseAnimalsFail_NoAnimals>Keine Tiere verfügbar.</CommandReleaseAnimalsFail_NoAnimals>
+  <CommandReleaseAnimalsFail_NoAnimals>Níl aon ainmhithe ar fáil.</CommandReleaseAnimalsFail_NoAnimals>
   
   <!-- Squad attack -->
   <!-- EN: Attack -->
-  <CommandSquadAttack>Angreifen</CommandSquadAttack>
+  <CommandSquadAttack>Ionsaigh</CommandSquadAttack>
   <!-- EN: Order selected colonists to attack designated target. -->
-  <CommandSquadAttackDesc>Befiehl den ausgewählten Kolonisten, ein bestimmtes Ziel anzugreifen.</CommandSquadAttackDesc>
+  <CommandSquadAttackDesc>Tabhair ordú do na coilínigh roghnaithe an targaid a ionsaí.</CommandSquadAttackDesc>
   
   <!-- Melee attack -->
   <!-- EN: Melee attack -->
-  <CommandMeleeAttack>Nahkampf</CommandMeleeAttack>
+  <CommandMeleeAttack>Ionsaí melee</CommandMeleeAttack>
   <!-- EN: Order selected colonists to attack designated target using only fists and melee weapons. -->
-  <CommandMeleeAttackDesc>Befiehl den ausgewählten Kolonisten, ein bestimmtes Ziel nur mit Fäusten und Nahkampfwaffen anzugreifen.</CommandMeleeAttackDesc>
+  <CommandMeleeAttackDesc>Tabhair ordú do na coilínigh roghnaithe ionsaí melee a dhéanamh ar an targaid.</CommandMeleeAttackDesc>
 
   <!-- Hold fire -->
   <!-- EN: Hold fire -->
-  <CommandHoldFire>Nicht schießen</CommandHoldFire>
+  <CommandHoldFire>Cealaigh an lámhach</CommandHoldFire>
   <!-- EN: End any ongoing attacks. -->
-  <CommandHoldFireDesc>Beende alle laufenden Angriffe.</CommandHoldFireDesc>
+  <CommandHoldFireDesc>Cuir stop le haon ionsaí reatha.</CommandHoldFireDesc>
   
   <!-- reload -->
   <!-- EN: No {CHARGENOUN_plural} left. -->
-  <CommandReload_NoCharges>Keine {CHARGENOUN_plural} mehr.</CommandReload_NoCharges>
+  <CommandReload_NoCharges>Níl aon {CHARGENOUN_plural} fágtha.</CommandReload_NoCharges>
   <!-- EN: {COOLDOWNGERUND} for {TIME}. -->
-  <CommandReload_Cooldown>{COOLDOWNGERUND} (noch {TIME}).</CommandReload_Cooldown>
+  <CommandReload_Cooldown>{COOLDOWNGERUND} le haghaidh {TIME}.</CommandReload_Cooldown>
   <!-- EN: Needs to be reloaded with {COUNT} {AMMO_label}. -->
-  <CommandReload_NoAmmo>Muss mit {COUNT} {AMMO_label} nachgeladen werden.</CommandReload_NoAmmo>
+  <CommandReload_NoAmmo>Tá {COUNT} {AMMO_label} de dhíth.</CommandReload_NoAmmo>
   
   <!-- Select plant to grow -->
   <!-- EN: Select plant to grow -->
-  <CommandSelectPlantToGrowMulti>Pflanze zum Anbauen wählen</CommandSelectPlantToGrowMulti>
+  <CommandSelectPlantToGrowMulti>Roghnaigh plandaí</CommandSelectPlantToGrowMulti>
   <!-- EN: Plant: {0} -->
-  <CommandSelectPlantToGrow>Pflanze: {0}</CommandSelectPlantToGrow>
+  <CommandSelectPlantToGrow>Cuir: {0}</CommandSelectPlantToGrow>
   <!-- EN: Determine which plant should be sown here. -->
-  <CommandSelectPlantToGrowDesc>Bestimme, welche Pflanze hier angebaut werden soll.</CommandSelectPlantToGrowDesc>
+  <CommandSelectPlantToGrowDesc>Roghnaigh planda le cur anseo.</CommandSelectPlantToGrowDesc>
   
   <!-- Select mineral to scan for (long-range mineral scanner) -->
   <!-- EN: Tuned to -->
-  <CommandSelectMineralToScanFor>Eingestellt auf</CommandSelectMineralToScanFor>
+  <CommandSelectMineralToScanFor>Aimsigh</CommandSelectMineralToScanFor>
   <!-- EN: Select the mineral type to scan for. -->
-  <CommandSelectMineralToScanForDesc>Wähle ein bestimmtes Mineral aus, nach dem gesucht werden soll.</CommandSelectMineralToScanForDesc>
+  <CommandSelectMineralToScanForDesc>Roghnaigh mianra le cuardach leis an scanóir.</CommandSelectMineralToScanForDesc>
 
   <!-- Build copy -->
   <!-- EN: Build copy -->
-  <CommandBuildCopy>Kopie bauen</CommandBuildCopy>
+  <CommandBuildCopy>Cóipeáil</CommandBuildCopy>
   <!-- EN: Build a copy of this building. -->
-  <CommandBuildCopyDesc>Baue eine Kopie von diesem Bauwerk.</CommandBuildCopyDesc>
+  <CommandBuildCopyDesc>Tóg cóip den rud seo.</CommandBuildCopyDesc>
 
   <!-- Form caravan -->
   <!-- EN: Form caravan -->
-  <CommandFormCaravan>Karawane formieren</CommandFormCaravan>
+  <CommandFormCaravan>Cruthaigh carbhán</CommandFormCaravan>
   <!-- EN: Form a group of colonists able to travel to new areas. The colonists will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders. -->
-  <CommandFormCaravanDesc>Formiere eine Gruppe von Kolonisten, die in neue Gebiete reisen sollen. Die Kolonisten werden die zugewiesenen Vorräte und Begleittiere einsammeln, ihr aktuelles Gebiet verlassen und auf weitere Befehle warten.</CommandFormCaravanDesc>
+  <CommandFormCaravanDesc>Roghnaigh grúpa coilíneach agus cruthaigh carbhán le taisteál chuig áiteanna nua. Baileoidh na coilínigh na hearraí, na hacmhainní agus na hainmhithe ar fad atá ag teastáil, agus ansin imeoidh siad ón gceantar agus fanfaidh siad ar thuilleadh orduithe.</CommandFormCaravanDesc>
   <!-- EN: This spot will be used as a meeting point for the caravan. All goods and animals will be brought here before leaving. -->
-  <CommandFormCaravanDescAtSpot>Dieser Platz wird als Treffpunkt für die Karawane genutzt. Alle Waren und Tiere werden vor der Abreise hierher gebracht.</CommandFormCaravanDescAtSpot>
+  <CommandFormCaravanDescAtSpot>Úsáidfear an spota seo chun an carbhán a ullmhú. Tógfar na hearráí agus na hainmhithe ar fad anseo sula n-imeoidh an carbhán.</CommandFormCaravanDescAtSpot>
   
   <!-- Reform caravan -->
   <!-- EN: Reform caravan -->
-  <CommandReformCaravan>Karawane neu formieren</CommandReformCaravan>
+  <CommandReformCaravan>Athchruthaigh carbhán</CommandReformCaravan>
   <!-- EN: Reform a group of colonists. The colonists will leave their current area and await further orders. -->
-  <CommandReformCaravanDesc>Formiere eine Gruppe von Kolonisten neu. Die Kolonisten werden ihr aktuelles Gebiet verlassen und auf weitere Befehle warten.</CommandReformCaravanDesc>
+  <CommandReformCaravanDesc>Déan carbhán a athchruthú. Imeoidh coilínigh ón gceantar ina bhfuil siad agus fanfaidh siad ar thuilleadh orduithe.</CommandReformCaravanDesc>
   <!-- EN: There are still some enemies in this area. -->
   <CommandReformCaravanFailHostilePawns>Es sind immer noch Gegner in diesem Gebiet.</CommandReformCaravanFailHostilePawns>
 
   <!-- Send caravan -->
   <!-- EN: Send caravan -->
-  <CommandSendCaravan>TODO</CommandSendCaravan>
+  <CommandSendCaravan>Seol carbhán</CommandSendCaravan>
   <!-- EN: Send caravan... -->
-  <CommandSendCaravanMultiple>TODO</CommandSendCaravanMultiple>
+  <CommandSendCaravanMultiple>Seol carbhán...</CommandSendCaravanMultiple>
   <!-- EN: Send a caravan to this destination from a selected colony which can reach this location. -->
-  <CommandSendCaravanDesc>TODO</CommandSendCaravanDesc>
+  <CommandSendCaravanDesc>Seol carbhán chuig an cean scríbe seo</CommandSendCaravanDesc>
   <!-- EN: Your settlements have no path to this location. -->
-  <CommandSendCaravanCantReach>TODO</CommandSendCaravanCantReach>
+  <CommandSendCaravanCantReach>Níl aon rochtain ag do choilíneachtaí ar an suíomh seo.</CommandSendCaravanCantReach>
 
   <!-- Split caravan -->
   <!-- EN: Split -->
-  <CommandSplitCaravan>Teilen</CommandSplitCaravan>
+  <CommandSplitCaravan>Roinn carbhán</CommandSplitCaravan>
   <!-- EN: Split this caravan into two. The caravans can be later merged back into one as long as they are close to each other. -->
-  <CommandSplitCaravanDesc>Teile diese Karawane in zwei Karawanen auf. Die Karawanen können später wieder zu einer großen Karawane zusammengefügt werden, solange sie nahe beieinander sind.</CommandSplitCaravanDesc>
+  <CommandSplitCaravanDesc>Roinn an carbhán seo ina dhá leath. Beidh tú in ann na carbháin a chomhcheangail arís má tá siad in aice le chéile.</CommandSplitCaravanDesc>
   
   <!-- Merge caravan -->
   <!-- EN: Merge -->
-  <CommandMergeCaravans>Vereinen</CommandMergeCaravans>
+  <CommandMergeCaravans>Comhcheangail</CommandMergeCaravans>
   <!-- EN: Merge selected caravans. -->
-  <CommandMergeCaravansDesc>Füge die ausgewählten Karawanen zusammen.</CommandMergeCaravansDesc>
+  <CommandMergeCaravansDesc>Déan na carbháin roghnaithe a chomhcheangail.</CommandMergeCaravansDesc>
   <!-- EN: Select all caravans which should be merged. The caravans must be close to each other. -->
-  <CommandMergeCaravansFailCaravansNotSelected>Wähle alle Karawanen aus, die zusammengeführt werden sollen. Die Karawanen müssen nahe beieinander sein.</CommandMergeCaravansFailCaravansNotSelected>
+  <CommandMergeCaravansFailCaravansNotSelected>Roghnaigh na carbháin ar fad atá le comhcheangail. Ní mór go mbeidh siad taobh le chéile.</CommandMergeCaravansFailCaravansNotSelected>
   <!-- EN: Join -->
-  <CommandJoinCaravan>Anschließen</CommandJoinCaravan>
+  <CommandJoinCaravan>Comhcheangail</CommandJoinCaravan>
   
   <!-- Settle -->
   <!-- EN: Settle -->
-  <CommandSettle>Besiedeln</CommandSettle>
+  <CommandSettle>Lonnaigh</CommandSettle>
   <!-- EN: Settle in this area. Your colonists will enter this area and you will be able to start building a new home. -->
-  <CommandSettleDesc>Besiedle dieses Gebiet. Deine Kolonisten werden das Gebiet betreten, damit du hier eine neue Kolonie aufbauen kannst.</CommandSettleDesc>
+  <CommandSettleDesc>Lonnaigh sa cheantar seo. Tosóidh do choilínigh ag cur fúthu anseo agus beidh tú in ann baile nua a thógáil.</CommandSettleDesc>
   <!-- EN: Your faction can only have one base. -->
-  <CommandSettleFailAlreadyHaveBase>Deine Fraktion darf nur eine Basis besitzen.</CommandSettleFailAlreadyHaveBase>
+  <CommandSettleFailAlreadyHaveBase>Níl cead ach lonnaíocht amháin a bheith agat.</CommandSettleFailAlreadyHaveBase>
   <!-- EN: Reached maximum number of colonies. -->
-  <CommandSettleFailReachedMaximumNumberOfBases>Maximale Anzahl an Kolonien erreicht.</CommandSettleFailReachedMaximumNumberOfBases>
+  <CommandSettleFailReachedMaximumNumberOfBases>Tá líon uasta na lonnaíochtaí bainte amach agat.</CommandSettleFailReachedMaximumNumberOfBases>
   <!-- EN: There isn't anybody there to claim the area. -->
-  <CommandSettleFailNoColonists>Es ist niemand hier, der das Gebiet beanspruchen kann.</CommandSettleFailNoColonists>
+  <CommandSettleFailNoColonists>Níl aon duine ann chun seilbh a ghlacadh ar an gceantar.</CommandSettleFailNoColonists>
   <!-- EN: There are enemies in this area. -->
-  <CommandSettleFailEnemies>Es sind Gegner im Gebiet.</CommandSettleFailEnemies>
+  <CommandSettleFailEnemies>Tá naimhde sa cheantar seo.</CommandSettleFailEnemies>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
-  <CommandAbandonHome>Aufgeben</CommandAbandonHome>
+  <CommandAbandonHome>Imigh ón gceantar</CommandAbandonHome>
   <!-- EN: Abandon this area. The area will become inaccessible and you will not be able to return here ever again. After abandoning your home, you will be able to order one of your caravans to settle in a new area. -->
-  <CommandAbandonHomeDesc>Gib dieses Gebiet endgültig auf. Du wirst nie wieder hierher zurückkehren können. Nachdem du deine Heimatbasis aufgegeben hast, kannst du eine deiner Karawanen ein neues Gebiet besiedeln lassen.</CommandAbandonHomeDesc>
+  <CommandAbandonHomeDesc>Imigh ón gceantar seo. Ní bheidh tú in ann filleadh ar an áit seo riamh arís. Má thréigeann tú do cheantar baile, beidh tú in ann áit nua a roghnú agus carbhán a sheoladh ann.</CommandAbandonHomeDesc>
   <!-- EN: All of your colonists are there. -->
   <CommandAbandonHomeFailAllColonistsThere>All deine Kolonisten sind dort.</CommandAbandonHomeFailAllColonistsThere>
   
   <!-- Cancel forming caravan -->
   <!-- EN: Cancel forming caravan -->
-  <CommandCancelFormingCaravan>Formieren abbrechen</CommandCancelFormingCaravan>
+  <CommandCancelFormingCaravan>Cealaigh: carbhán</CommandCancelFormingCaravan>
   <!-- EN: Terminate the caravan formation process. -->
-  <CommandCancelFormingCaravanDesc>Brich das Formieren der Karawane ab.</CommandCancelFormingCaravanDesc>
+  <CommandCancelFormingCaravanDesc>Cuir stop leis an gcarbhán atá á chur le chéile faoi láthair.</CommandCancelFormingCaravanDesc>
 
   <!-- Remove from caravan -->
   <!-- EN: Remove from caravan -->
-  <CommandRemoveFromCaravan>Aus Karawane entfernen</CommandRemoveFromCaravan>
+  <CommandRemoveFromCaravan>Bain ón gcarbhán</CommandRemoveFromCaravan>
   <!-- EN: Remove this person or animal from the caravan. -->
-  <CommandRemoveFromCaravanDesc>Entferne die Person oder das Tier aus der Karawane.</CommandRemoveFromCaravanDesc>
+  <CommandRemoveFromCaravanDesc>Bain an duine nó an t-ainmhí seo ón gcarbhán.</CommandRemoveFromCaravanDesc>
   
   <!-- Add to caravan -->
   <!-- EN: Add to caravan -->
-  <CommandAddToCaravan>Zur Karawane hinzufügen</CommandAddToCaravan>
+  <CommandAddToCaravan>Cuir leis an gcarbhán</CommandAddToCaravan>
   <!-- EN: Add this person or animal to the forming caravan. -->
-  <CommandAddToCaravanDesc>Füge die Person oder das Tier zur Karawane hinzu.</CommandAddToCaravanDesc>
+  <CommandAddToCaravanDesc>Cuir an duine nó an t-ainmhí seo leis an gcarbhán.</CommandAddToCaravanDesc>
   
   <!-- Show map -->
   <!-- EN: Zoom in -->
-  <CommandShowMap>Reinzoomen</CommandShowMap>
+  <CommandShowMap>Zúmáil isteach</CommandShowMap>
   <!-- EN: Zoom in on this area. -->
-  <CommandShowMapDesc>In das Gebiet reinzoomen.</CommandShowMapDesc>
+  <CommandShowMapDesc>Zúmáil isteach ar an gceantar seo.</CommandShowMapDesc>
   
   <!-- Trade -->
   <!-- EN: Trade -->
-  <CommandTrade>Handeln</CommandTrade>
+  <CommandTrade>Trádáil</CommandTrade>
   <!-- EN: Trade with this faction. -->
-  <CommandTradeDesc>Handle mit dieser Fraktion.</CommandTradeDesc>
+  <CommandTradeDesc>Trádáil leis an bhfaicsean seo.</CommandTradeDesc>
   <!-- EN: There isn't any conscious and capable negotiator. -->
-  <CommandTradeFailNoNegotiator>Es ist niemand da, der bei Bewusstsein ist und verhandeln kann.</CommandTradeFailNoNegotiator>
+  <CommandTradeFailNoNegotiator>Níl aon duine atá in ann trádáil ar fáil.</CommandTradeFailNoNegotiator>
   <!-- EN: None of your people have the required faction permission: {0} -->
-  <CommandTradeFailNeedPermit>Keiner deiner Leute hat die erforderliche Fraktionserlaubnis: {0}</CommandTradeFailNeedPermit>
+  <CommandTradeFailNeedPermit>Níl na ceaduithe atá ag teastáil ag aon duine i do choilíneacht: {0}</CommandTradeFailNeedPermit>
 
   <!-- Offer gifts -->
   <!-- EN: Offer gifts -->
-  <CommandOfferGifts>Geschenke anbieten</CommandOfferGifts>
+  <CommandOfferGifts>Tabhair bronntanas</CommandOfferGifts>
   <!-- EN: Offer gifts to this faction. -->
-  <CommandOfferGiftsDesc>Biete dieser Fraktion Geschenke an.</CommandOfferGiftsDesc>
+  <CommandOfferGiftsDesc>Tabhair bronntanas don fhaicsean seo.</CommandOfferGiftsDesc>
 
   <!-- Fulfill request -->
   <!-- EN: Fulfill trade offer -->
-  <CommandFulfillTradeOffer>Handelsangebot erfüllen</CommandFulfillTradeOffer>
+  <CommandFulfillTradeOffer>Glac leis an iarratas trádála</CommandFulfillTradeOffer>
   <!-- EN: Fulfill the settlement's request for goods and claim your reward. -->
-  <CommandFulfillTradeOfferDesc>Erfülle die Warenanfrage der Siedlung und erhalte deine Belohnung.</CommandFulfillTradeOfferDesc>
+  <CommandFulfillTradeOfferDesc>Déan iarratas trádála an fhaicsin seo a chomhlíonadh.</CommandFulfillTradeOfferDesc>
   <!-- EN: Your caravan must have {0} to fulfill this trade offer. -->
-  <CommandFulfillTradeOfferFailInsufficient>Deine Karawane benötigt {0}, um dieses Handelsangebot zu erfüllen.</CommandFulfillTradeOfferFailInsufficient>
+  <CommandFulfillTradeOfferFailInsufficient>Ní mór go mbeidh {0} ag do charbhán chun an t-iarratas trádála seo a chomhlíonadh.</CommandFulfillTradeOfferFailInsufficient>
   <!-- EN: Give {0}? -->
   <CommandFulfillTradeOfferConfirm>{0} geben?</CommandFulfillTradeOfferConfirm>
   
   <!-- Take off -->
   <!-- EN: Take off -->
-  <CommandTakeOff>Abheben</CommandTakeOff>
+  <CommandTakeOff>Lainseáil</CommandTakeOff>
   <!-- EN: Get on board the ship and escape the planet. -->
-  <CommandTakeOffDesc>Gehe an Bord des Schiffes und fliehe vom Planeten.</CommandTakeOffDesc>
+  <CommandTakeOffDesc>Téigh ar bord na spásloinge agus éalaigh ón bpláinéad.</CommandTakeOffDesc>
   <!-- EN: Are you sure you want to launch the ship?\n\nEveryone in this area will escape the planet. Everyone else will be left behind. -->
-  <CommandTakeOffConfirmation>Bist du sicher, dass du das Raumschiff starten willst?\n\nAlle in diesem Gebiet werden vom Planeten fliehen. Der Rest wird zurückgelassen.</CommandTakeOffConfirmation>
+  <CommandTakeOffConfirmation>An bhfuil tú cinnte go bhfuil tú réidh le lainseáil?\n\nÉalóidh gach duine sa cheantar seo ón bplainéad ar an spáslong. Fágfar duine ar bith eile anseo.</CommandTakeOffConfirmation>
 
   <!-- Set target fuel level -->
   <!-- EN: Set target fuel level -->
-  <CommandSetTargetFuelLevel>Max Brennstoff setzen</CommandSetTargetFuelLevel>
+  <CommandSetTargetFuelLevel>Spriocleibhéal breosla</CommandSetTargetFuelLevel>
   <!-- EN: Set the target fuel level. Colonists will attempt to fill this up to the target fuel level. -->
-  <CommandSetTargetFuelLevelDesc>Setze die maximale Brennstoffmenge. Kolonisten werden versuchen, dieses Objekt mit Brennstoff zu füllen, bis die maximal gesetzte Menge erreicht ist.</CommandSetTargetFuelLevelDesc>
+  <CommandSetTargetFuelLevelDesc>Roghnaig an spriocleihbéal breosla. Déanfaidh coilínigh iarracht an pod a líonadh suas chuig an leibhéal sin.</CommandSetTargetFuelLevelDesc>
 
   <!-- Refueling -->
   <!-- EN: Toggle automatic refuel -->
-  <CommandToggleAllowAutoRefuel>Automatisch Brennstoff auffüllen</CommandToggleAllowAutoRefuel>
+  <CommandToggleAllowAutoRefuel>Athbhreoslú uathoibríoch</CommandToggleAllowAutoRefuel>
   <!-- EN: Sets whether or not automatic refueling is allowed. -->
-  <CommandToggleAllowAutoRefuelDesc>Bei Aktivierung wird das Objekt automatisch mit Brennstoff gefüllt.</CommandToggleAllowAutoRefuelDesc>
+  <CommandToggleAllowAutoRefuelDesc>Roghnaigh an ndéanfar nó nach ndéanfar an pod seo a athbhreoslú go huathoibríoch.</CommandToggleAllowAutoRefuelDesc>
   
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
-  <CommandCancelLoad>Beladung abbrechen</CommandCancelLoad>
+  <CommandCancelLoad>Dílódáil</CommandCancelLoad>
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
-  <CommandCancelLoadDesc>Brich den Beladevorgang ab und wirf die aktuelle Ladung aus.</CommandCancelLoadDesc>
+  <CommandCancelLoadDesc>Cuir stop leis an lódáil agus déan na daoine nó na hearraí atá lódáilte cheana a bhaint.</CommandCancelLoadDesc>
   
   <!-- Launch group -->
   <!-- EN: Launch -->
-  <CommandLaunchGroup>Starten</CommandLaunchGroup>
+  <CommandLaunchGroup>Lainseáil</CommandLaunchGroup>
   <!-- EN: Take off and fly to a destination. -->
-  <CommandLaunchGroupDesc>Hebe ab und fliege zu einem Zielort.</CommandLaunchGroupDesc>
+  <CommandLaunchGroupDesc>Éirí de thalamh agus eitil chuig an gceann scríbe.</CommandLaunchGroupDesc>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
-  <CommandLaunchGroupFailNotConnectedToFuelingPort>Einige Transportkapseln in dieser Gruppe sind nicht an einer Startrampe angeschlossen.</CommandLaunchGroupFailNotConnectedToFuelingPort>
+  <CommandLaunchGroupFailNotConnectedToFuelingPort>Tá roinnt podanna iompair sa ghrúpa seo nach bhfuil ceangailte le foinse breosla.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Some pod launchers in this group have no fuel. -->
-  <CommandLaunchGroupFailNoFuel>Einige Startrampen in dieser Gruppe haben keinen Brennstoff.</CommandLaunchGroupFailNoFuel>
+  <CommandLaunchGroupFailNoFuel>Tá roinnt podanna iompair sa ghrúpa seo nach bhfuil aon bhreosla iontu.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Some pod launchers are under a roof. -->
-  <CommandLaunchGroupFailUnderRoof>Einige Startrampen sind überdacht.</CommandLaunchGroupFailUnderRoof>
+  <CommandLaunchGroupFailUnderRoof>Tá roinnt podanna iompair sa ghrúpa seo faoi dhíon.</CommandLaunchGroupFailUnderRoof>
   
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
-  <CommandLoadTransporter>Erstelle {0}er Startgruppe</CommandLoadTransporter>
+  <CommandLoadTransporter>Cruthaigh grúpa podanna ({0})</CommandLoadTransporter>
   <!-- EN: Defines the selected transporter(s) as a launch group. Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterDesc>Definiert die ausgewählten Transportkapseln als Startgruppe und öffnet das Beladungsfenster, um zu bestimmen, wer und/oder was geladen werden soll.</CommandLoadTransporterDesc>
+  <CommandLoadTransporterDesc>Cuirfear na podanna roghnaithe i ngrúpa lainseála, agus osclófar an roghchlár lódála chun go mbeidh tú in ann na rudaí, na hacmhainní nó na daoine atá le lódáil a roghnú.</CommandLoadTransporterDesc>
   <!-- EN: The transport pod is not connected to a fueling port. -->
-  <CommandLoadTransporterFailNotConnectedToFuelingPort>Die Transportkapsel ist nicht an einer Startrampe angeschlossen.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+  <CommandLoadTransporterFailNotConnectedToFuelingPort>Níl an pod iompair seo ceangailte le foinse breosla.</CommandLoadTransporterFailNotConnectedToFuelingPort>
   <!-- EN: The pod launcher has no fuel. -->
-  <CommandLoadTransporterFailNoFuel>Die Startrampe hat keinen Brennstoff.</CommandLoadTransporterFailNoFuel>
+  <CommandLoadTransporterFailNoFuel>Níl aon bhreosla sa phod iompair seo.</CommandLoadTransporterFailNoFuel>
   
   <!-- Load transporter (single) -->
   <!-- EN: Load -->
-  <CommandLoadTransporterSingle>Beladen</CommandLoadTransporterSingle>
+  <CommandLoadTransporterSingle>Lódáil</CommandLoadTransporterSingle>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandLoadTransporterSingleDesc>Öffnet das Beladungsfenster, um zu bestimmen, wer und/oder was geladen werden soll.</CommandLoadTransporterSingleDesc>
+  <CommandLoadTransporterSingleDesc>Oscail an roghchlár lódála, agus roghnaigh na rudaí, na hacmhainní nó na daoine atá le lódáil.</CommandLoadTransporterSingleDesc>
   
   <!-- Transporters set to load -->
   <!-- EN: Set to load -->
-  <CommandSetToLoadTransporter>Beladung festlegen</CommandSetToLoadTransporter>
+  <CommandSetToLoadTransporter>Lódáil</CommandSetToLoadTransporter>
   <!-- EN: Opens the loading dialog so you can decide who and what should be loaded inside. -->
-  <CommandSetToLoadTransporterDesc>Öffnet das Beladungsfenster, um zu bestimmen, wer und/oder was geladen werden soll.</CommandSetToLoadTransporterDesc>
+  <CommandSetToLoadTransporterDesc>Oscail an roghchlár lódála, agus roghnaigh na rudaí, na hacmhainní nó na daoine atá le lódáil.</CommandSetToLoadTransporterDesc>
   
   <!-- Autoload transporters -->
   <!-- EN: Autoload -->
-  <CommandAutoloadTransporters>Auto-Beladen</CommandAutoloadTransporters>
+  <CommandAutoloadTransporters>Uathlódáil</CommandAutoloadTransporters>
   <!-- EN: Toggle loading all required cargo automatically as soon as they become available. -->
-  <CommandAutoloadTransportersDesc>Bei Aktivierung werden alle erforderlichen Waren oder Personen automatisch geladen, sobald sie verfügbar sind.</CommandAutoloadTransportersDesc>
+  <CommandAutoloadTransportersDesc>Déan na hearraí atá de dhíth a lódáil go huathoibríoch a luaithe is a bheidh siad ar fáil.</CommandAutoloadTransportersDesc>
   
   <!-- Select previous transporter -->
   <!-- EN: Select previous in launch group -->
-  <CommandSelectPreviousTransporter>Wähle vorherige in Startgruppe</CommandSelectPreviousTransporter>
+  <CommandSelectPreviousTransporter>Roghnaigh an pod roimhe sa ghrúpa</CommandSelectPreviousTransporter>
   <!-- EN: Select previous transport pod in this launch group. -->
-  <CommandSelectPreviousTransporterDesc>Wähle vorherige Transportkapsel in dieser Startgruppe.</CommandSelectPreviousTransporterDesc>
+  <CommandSelectPreviousTransporterDesc>Roghnaigh an pod iompair roimhe seo sa ghrúpa.</CommandSelectPreviousTransporterDesc>
   
   <!-- Select all transporters -->
   <!-- EN: Select launch group -->
-  <CommandSelectAllTransporters>Wähle Startgruppe</CommandSelectAllTransporters>
+  <CommandSelectAllTransporters>Roghnaigh grúpa</CommandSelectAllTransporters>
   <!-- EN: Select all transport pods in this launch group. -->
-  <CommandSelectAllTransportersDesc>Wähle alle Transportkapseln dieser Startgruppe.</CommandSelectAllTransportersDesc>
+  <CommandSelectAllTransportersDesc>Roghnaigh na podanna iompair uile sa ghrúpa seo.</CommandSelectAllTransportersDesc>
   
   <!-- Select next transporter -->
   <!-- EN: Select next in launch group -->
-  <CommandSelectNextTransporter>Wähle nächste in Startgruppe</CommandSelectNextTransporter>
+  <CommandSelectNextTransporter>Roghnaigh an chéad phod eile sa ghrúpa</CommandSelectNextTransporter>
   <!-- EN: Select next transport pod in this launch group. -->
-  <CommandSelectNextTransporterDesc>Wähle nächste Transportkapsel in dieser Startgruppe.</CommandSelectNextTransporterDesc>
+  <CommandSelectNextTransporterDesc>Roghnaigh an chéad phod iompair eile sa ghrúpa seo.</CommandSelectNextTransporterDesc>
   
   <!-- Vent -->
   <!-- EN: Designate open/close -->
-  <CommandDesignateOpenCloseVentLabel>Öffnen oder schließen</CommandDesignateOpenCloseVentLabel>
+  <CommandDesignateOpenCloseVentLabel>Oscail/dún</CommandDesignateOpenCloseVentLabel>
   <!-- EN: Designate this vent to be opened or closed. A colonist will come soon to perform the task. -->
-  <CommandDesignateOpenCloseVentDesc>Ordne an, dass diese Lüftung geöffnet oder geschlossen werden soll. Ein Kolonist wird so bald wie möglich kommen und den Befehl ausführen.</CommandDesignateOpenCloseVentDesc>
+  <CommandDesignateOpenCloseVentDesc>Tiocfaidh coilíneacht chun an gaothaire seo a oscailt/a dhúnadh.</CommandDesignateOpenCloseVentDesc>
   
   <!-- Remove waypoint -->
   <!-- EN: Remove -->
-  <CommandRemoveWaypointLabel>Entfernen</CommandRemoveWaypointLabel>
+  <CommandRemoveWaypointLabel>Bain</CommandRemoveWaypointLabel>
   <!-- EN: Remove this waypoint. -->
-  <CommandRemoveWaypointDesc>Entferne diesen Wegpunkt.</CommandRemoveWaypointDesc>
+  <CommandRemoveWaypointDesc>Bain an treoirphointe seo.</CommandRemoveWaypointDesc>
 
   <!-- Pause caravan -->
   <!-- EN: Rest -->
-  <CommandPauseCaravan>Rasten</CommandPauseCaravan>
+  <CommandPauseCaravan>Tóg sos</CommandPauseCaravan>
   <!-- EN: Start resting. This has the following benefits:\n\n  - People can interact socially\n  - Forage for food {0} times faster\n  - Visibility multiplied by {1} -->
-  <CommandToggleCaravanPauseDesc>Lass die Karawane hier rasten. Dies hat folgende Vorteile:\n\n  - Leute können sozial interagieren\n  - Nahrungssuche ist {0}-mal schneller\n  - Sichtbarkeit multipliziert mit {1}</CommandToggleCaravanPauseDesc>
+  <CommandToggleCaravanPauseDesc>Tóg sos. Nuair a thógtar sos:\n\n  - bíonn daoine in ann labhairt\n  - is féidir dul ar thóir bia {0}uair níos tapúla\n  - feabhsaítear an radharc faoi {1}</CommandToggleCaravanPauseDesc>
   
   <!-- Show sellable items -->
   <!-- EN: Show what will buy -->
-  <CommandShowSellableItems>Zeige was gekauft wird</CommandShowSellableItems>
+  <CommandShowSellableItems>Taispeáin earraí a cheannóidh an duine seo</CommandShowSellableItems>
   <!-- EN: Show everything this trader wants to buy. -->
-  <CommandShowSellableItemsDesc>Zeige, was dieser Händler alles kaufen würde.</CommandShowSellableItemsDesc>
+  <CommandShowSellableItemsDesc>Taispeáin na hearraí uile atá an trádálaí seo sásta a cheannach.</CommandShowSellableItemsDesc>
 
   <!-- Attack settlement -->
   <!-- EN: Attack -->
-  <CommandAttackSettlement>Angreifen</CommandAttackSettlement>
+  <CommandAttackSettlement>Ionsaigh lonnaíocht</CommandAttackSettlement>
   <!-- EN: Attack this settlement. -->
-  <CommandAttackSettlementDesc>Greife diese Siedlung an.</CommandAttackSettlementDesc>
+  <CommandAttackSettlementDesc>Ionsaigh an lonnaíocht seo.</CommandAttackSettlementDesc>
 
   <!-- Send shuttle -->
   <!-- EN: Send -->
-  <CommandSendShuttle>Entsenden</CommandSendShuttle>
+  <CommandSendShuttle>Seol</CommandSendShuttle>
   <!-- EN: Initiate takeoff and have the shuttle fly to its destination. -->
-  <CommandSendShuttleDesc>Leite den Start ein und lass das Shuttle zu seinem Zielort fliegen.</CommandSendShuttleDesc>
+  <CommandSendShuttleDesc>Cuir tús leis an éirí de thalamh, agus seol an tointeálaí chuig a cheann scríbe.</CommandSendShuttleDesc>
   <!-- EN: The shuttle is under a roof. -->
-  <CommandSendShuttleFailUnderRoof>Das Shuttle befindet sich unter einem Dach.</CommandSendShuttleFailUnderRoof>
+  <CommandSendShuttleFailUnderRoof>Tá an tointeálaí faoi dhíon.</CommandSendShuttleFailUnderRoof>
   <!-- EN: Some of the required items or people are missing. -->
-  <CommandSendShuttleFailMissingRequiredThing>Einige der erforderlichen Waren oder Personen fehlen.</CommandSendShuttleFailMissingRequiredThing>
+  <CommandSendShuttleFailMissingRequiredThing>Tá cuid de na rudaí nó na daoine atá de dhíth ar lár.</CommandSendShuttleFailMissingRequiredThing>
   
   <!-- Dismiss shuttle -->
   <!-- EN: Dismiss -->
@@ -558,19 +558,19 @@
 
   <!-- Cancel monument marker -->
   <!-- EN: Cancel -->
-  <CommandCancelMonumentMarker>Abbrechen</CommandCancelMonumentMarker>
+  <CommandCancelMonumentMarker>Cealaigh</CommandCancelMonumentMarker>
   <!-- EN: Permanently remove this monument marker. -->
   <CommandCancelMonumentMarkerDesc>Entferne unwiderruflich diese Denkmalmarkierung.</CommandCancelMonumentMarkerDesc>
 
   <!-- View quest -->
   <!-- EN: View quest: {0} -->
-  <CommandViewQuest>Zeige Quest: {0}</CommandViewQuest>
+  <CommandViewQuest>Féach ar an misean: {0}</CommandViewQuest>
   <!-- EN: View this quest in quests tab. -->
-  <CommandViewQuestDesc>Zeige diese Quest im Quests-Tab.</CommandViewQuestDesc>
+  <CommandViewQuestDesc>Féach ar an misean seo i dtáb na Misean.</CommandViewQuestDesc>
   <!-- EN: Open linked quest -->
-  <CommandOpenLinkedQuest>Zugehörige Quest öffnen</CommandOpenLinkedQuest>
+  <CommandOpenLinkedQuest>Oscail an misean nasctha</CommandOpenLinkedQuest>
   <!-- EN: Open linked quest in the quests tab. -->
-  <CommandOpenLinkedQuestDesc>Öffne zugehörige Quest im Quests-Tab.</CommandOpenLinkedQuestDesc>
+  <CommandOpenLinkedQuestDesc>Oscail gach misean nasctha i dtáb na Misean.</CommandOpenLinkedQuestDesc>
 
   <!-- Carry -->
   <!-- EN: Drop {0_nameDef} -->
@@ -604,67 +604,67 @@
 
   <!-- Take a drug -->
   <!-- EN: Take drug... -->
-  <TakeDrug>Droge einnehmen...</TakeDrug>
+  <TakeDrug>Tóg druga...</TakeDrug>
   <!-- EN: Choose a drug from inventory to ingest immediately. -->
-  <TakeDrugDesc>Wähle eine Droge aus dem Inventar, die sofort eingenommen werden soll.</TakeDrugDesc>
+  <TakeDrugDesc>Roghnaigh druga ó d'fhairdeal le húsáid.</TakeDrugDesc>
 
   <!-- Build X -->
   <!-- EN: Build {0} -->
-  <BuildThing>Baue {0}</BuildThing>
+  <BuildThing>Tóg {0}</BuildThing>
 
   <!-- Rituals -->
   <!-- EN: Leave {RITUAL_label} -->
-  <CommandLeaveRitual>{RITUAL_label} verlassen</CommandLeaveRitual>
+  <CommandLeaveRitual>Imigh ó '{RITUAL_label}'</CommandLeaveRitual>
   <!-- EN: Stop participating in the {RITUAL_labelDef}. The ritual will continue as long as it has at least one participant. -->
-  <CommandLeaveRitualDesc>Beende die Teilnahme am Ritual '{RITUAL_label}'. Das Ritual läuft weiter, solange noch mindestens ein Teilnehmer anwesend ist.</CommandLeaveRitualDesc>
+  <CommandLeaveRitualDesc>Stop ag glacadh páirte i '{RITUAL_label}'. Leanfaidh sé ar aghaidh, fad is a bhfuil ar a laghad rannpháirtí amháin ann.</CommandLeaveRitualDesc>
   <!-- EN: This is the last participant in the {RITUAL_labelDef}. -->
-  <CommandLeaveLastParticipant>Diese Person ist der letzte Teilnehmer von '{RITUAL_label}'.</CommandLeaveLastParticipant>
+  <CommandLeaveLastParticipant>Seo an rannpháirtí deireanach i '{RITUAL_label}'.</CommandLeaveLastParticipant>
 
   <!-- EN: Cancel {RITUAL_label} -->
-  <CommandCancelRitual>{RITUAL_label} abbrechen</CommandCancelRitual>
+  <CommandCancelRitual>Cuir '{RITUAL_label}'' ar ceal</CommandCancelRitual>
   <!-- EN: End the {RITUAL_labelDef} immediately. Ritual obligation will remain. You can restart the ritual later. -->
-  <CommandCancelRitualDesc>Beende '{RITUAL_label}' sofort. Die rituelle Verpflichtung bleibt bestehen. Du kannst das Ritual später erneut starten.</CommandCancelRitualDesc>
+  <CommandCancelRitualDesc>Cuir deireadh le '{RITUAL_label}' ar an bpointe. Beidh tú in ann tús a chur leis arís níos déanaí.</CommandCancelRitualDesc>
   <!-- EN: Are you sure you want to cancel {RITUAL_labelDef}? -->
   <CommandCancelRitualConfirm>Bist du dir sicher, dass du '{RITUAL_label}' abbrechen willst?</CommandCancelRitualConfirm>
 
   <!-- Storage linking -->
   <!-- EN: Link settings -->
-  <LinkStorageSettings>Einstellung verknüpfen</LinkStorageSettings>
+  <LinkStorageSettings>Nasc socruithe</LinkStorageSettings>
   <!-- EN: Link storage settings for multiple selected buildings so that they share storage settings.\n\nThe group will start with the settings of whatever you selected first. -->
-  <LinkStorageSettingsDesc>Verknüpfe die Lagereinstellungen von zwei oder mehr selektierten Bauwerken. Dadurch teilen sie sich die gleichen Lagereinstellungen.\n\nDie Gruppe wird mit den Lagereinstellungen des zuerst selektierten Bauwerks erstellt.</LinkStorageSettingsDesc>
+  <LinkStorageSettingsDesc>Déan na socruithe stórála le haghaidh foirgneamh éagsúla a nascadh le chéile, chun go mbeidh na socruithe stórála céanna acu ar fad.\n\nCuirfear na socruithe ón gcéad fhoirgneamh a roghnaíonn tú i bhfeidhm ar na cinn eile a roghnaíonn tú ina dhiadh sin.</LinkStorageSettingsDesc>
   <!-- EN: You must select two or more buildings to link their storage settings. -->
-  <LinkStorageDisabledSelectTwo>Du musst zum Verknüpfen von Lagereinstellungen zwei oder mehr Bauwerke selektieren.</LinkStorageDisabledSelectTwo>
+  <LinkStorageDisabledSelectTwo>Ní mór 2 fhoirgneamh nó níos mó a roghnú chun a socruithe stórála a nascadh.</LinkStorageDisabledSelectTwo>
   <!-- EN: Already linked. -->
-  <AlreadyLinked>Bereits verknüpft.</AlreadyLinked>
+  <AlreadyLinked>Tá na rudaí seo nasctha cheana féin.</AlreadyLinked>
   <!-- EN: Unlink settings -->
-  <UnlinkStorageSettings>Einstellung trennen</UnlinkStorageSettings>
+  <UnlinkStorageSettings>Dínasc socruithe</UnlinkStorageSettings>
   <!-- EN: Unlink this from other buildings' storage settings so its settings can be set independently. -->
-  <UnlinkStorageSettingsDesc>Trenne dieses Bauwerk von den Lagereinstellungen anderer Bauwerke, damit dessen Einstellungen separat festgelegt werden können.</UnlinkStorageSettingsDesc>
+  <UnlinkStorageSettingsDesc>Déan an rud seo a dhínascadh le stórais eile, chun go mbeidh tú in ann a shocruithe stórála a athrú.</UnlinkStorageSettingsDesc>
   <!-- EN: Linked storage settings -->
-  <LinkedStorageSettings>Verknüpfte Lagereinstellungen</LinkedStorageSettings>
+  <LinkedStorageSettings>Socruithe stórála</LinkedStorageSettings>
   <!-- EN: 1 building -->
-  <OneBuilding>TODO</OneBuilding>
+  <OneBuilding>foirgneamh amháin</OneBuilding>
   <!-- EN: {0} buildings -->
-  <NumBuildings>{0} Bauwerke</NumBuildings>
+  <NumBuildings>{0} foirgneamh</NumBuildings>
   <!-- EN: Stores -->
-  <StoresThings>Lagert</StoresThings>
+  <StoresThings>Stóras</StoresThings>
   <!-- EN: Select all linked -->
-  <SelectAllLinked>Alle verknüpften selektieren</SelectAllLinked>
+  <SelectAllLinked>Roghnaigh gach rud atá ceangailte leis seo</SelectAllLinked>
   <!-- EN: Select all storage buildings linked to this. -->
-  <SelectAllLinkedDesc>Selektiere alle Bauwerke, die mit diesem verknüpft sind.</SelectAllLinkedDesc>
+  <SelectAllLinkedDesc>Roghnaigh gach stóras atá ceangailte leis seo.</SelectAllLinkedDesc>
 
   <!-- EN: {0_labelShort} is unconscious. -->
-  <CommandDisabledUnconscious>{0_labelShort} ist bewusstlos.</CommandDisabledUnconscious>
+  <CommandDisabledUnconscious>Tá {0_labelShort} gan mhothú.</CommandDisabledUnconscious>
 
   <!-- Study -->
   <!-- EN: Toggle study -->
-  <CommandToggleStudy>TODO</CommandToggleStudy>
+  <CommandToggleStudy>Staidéar</CommandToggleStudy>
   <!-- EN: Determines whether or not wardens will automatically study this. Forbidden things will never be studied. -->
-  <CommandToggleStudyDesc>TODO</CommandToggleStudyDesc>
+  <CommandToggleStudyDesc>Roghnaigh an ndéanfaidh nó nach ndéanfaidh maoir staidéar air seo. Ní dhéanfar staidéar ar rudaí neamhcheadaithe riamh.</CommandToggleStudyDesc>
 
   <!-- Limited use count action -->
   <!-- EN: No uses left. -->
-  <CommandNoUsesLeft>TODO</CommandNoUsesLeft>
+  <CommandNoUsesLeft>Níl aon úsáidí fágtha.</CommandNoUsesLeft>
   
   <!-- UNUSED -->
   <CommandRenameZoneLabel>Athainmnigh</CommandRenameZoneLabel>
