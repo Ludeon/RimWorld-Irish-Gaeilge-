@@ -2,42 +2,42 @@
 <LanguageData>
   
   <!-- EN: accepted deserter -->
-  <AcceptedDeserter.label>TODO</AcceptedDeserter.label>
+  <AcceptedDeserter.label>glacadh le tréighteoir</AcceptedDeserter.label>
   
   <!-- EN: failed to keep guests happy -->
-  <FailedToKeepLodgersHappy.label>TODO</FailedToKeepLodgersHappy.label>
+  <FailedToKeepLodgersHappy.label>bhí cuairteoirí ónár bhfaicsean míshásta</FailedToKeepLodgersHappy.label>
   
   <!-- EN: member missed shuttle -->
-  <MemberMissedShuttle.label>TODO</MemberMissedShuttle.label>
+  <MemberMissedShuttle.label>chaill duine ónár bhfaicsean an spáslong</MemberMissedShuttle.label>
   
   <!-- EN: monument construction expired -->
-  <MonumentConstructionExpired.label>TODO</MonumentConstructionExpired.label>
+  <MonumentConstructionExpired.label>chuaigh séadchomhartha in éag</MonumentConstructionExpired.label>
   
   <!-- EN: monument construction abandoned -->
-  <MonumentConstructionMapRemoved.label>TODO</MonumentConstructionMapRemoved.label>
+  <MonumentConstructionMapRemoved.label>tréigeadh séadchomhartha</MonumentConstructionMapRemoved.label>
   
   <!-- EN: destroyed monument -->
-  <MonumentDestroyed.label>TODO</MonumentDestroyed.label>
+  <MonumentDestroyed.label>scriosadh séadchomhartha</MonumentDestroyed.label>
   
   <!-- EN: quest completed -->
-  <QuestGoodwillReward.label>TODO</QuestGoodwillReward.label>
+  <QuestGoodwillReward.label>críochnaíodh misean</QuestGoodwillReward.label>
   
   <!-- EN: member arrested -->
-  <QuestPawnArrested.label>TODO</QuestPawnArrested.label>
+  <QuestPawnArrested.label>gabhadh duine ónár bhfaicsean</QuestPawnArrested.label>
   
   <!-- EN: member lost at colony -->
-  <QuestPawnLost.label>TODO</QuestPawnLost.label>
+  <QuestPawnLost.label>cailleadh duine ónár bhfaicsean</QuestPawnLost.label>
   
   <!-- EN: enslaved lent prisoner -->
-  <QuestPrisonerEnslaved.label>TODO</QuestPrisonerEnslaved.label>
+  <QuestPrisonerEnslaved.label>rinneadh sclábhaí de phríosúnach a tugadh ar iasacht</QuestPrisonerEnslaved.label>
   
   <!-- EN: recruited lent prisoner -->
-  <QuestPrisonerRecruited.label>TODO</QuestPrisonerRecruited.label>
+  <QuestPrisonerRecruited.label>earcaíodh príosúnach a tugadh ar iasacht</QuestPrisonerRecruited.label>
   
   <!-- EN: shuttle commander missed shuttle -->
-  <ShuttleCommanderMissedShuttle.label>TODO</ShuttleCommanderMissedShuttle.label>
+  <ShuttleCommanderMissedShuttle.label>chaill píolóta tointeálaí an tointeálaí</ShuttleCommanderMissedShuttle.label>
   
   <!-- EN: shuttle guards missed shuttle -->
-  <ShuttleGuardsMissedShuttle.label>TODO</ShuttleGuardsMissedShuttle.label>
+  <ShuttleGuardsMissedShuttle.label>chaill gardaí tointeálaí an tointeálaí</ShuttleGuardsMissedShuttle.label>
   
 </LanguageData>

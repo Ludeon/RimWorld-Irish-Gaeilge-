@@ -70,26 +70,26 @@
   <ShortCircuit.label>gearrchiorcad</ShortCircuit.label>
   
   <!-- EN: thrumbos pass -->
-  <ThrumboPasses.label>TODO</ThrumboPasses.label>
+  <ThrumboPasses.label>tá trombónna ag dul thar bhráid</ThrumboPasses.label>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>radachur tocsaineach</ToxicFallout.label>
   <!-- EN: Toxic fallout -->
-  <ToxicFallout.letterLabel>TODO</ToxicFallout.letterLabel>
+  <ToxicFallout.letterLabel>Radachur tocsaineach</ToxicFallout.letterLabel>
   
   <!-- EN: volcanic winter -->
-  <VolcanicWinter.label>TODO</VolcanicWinter.label>
+  <VolcanicWinter.label>geimhreadh bolcánach</VolcanicWinter.label>
   <!-- EN: Volcanic winter -->
-  <VolcanicWinter.letterLabel>TODO</VolcanicWinter.letterLabel>
+  <VolcanicWinter.letterLabel>Geimhreadh bolcánach</VolcanicWinter.letterLabel>
   
   <!-- EN: wanderer join -->
-  <WandererJoin.label>TODO</WandererJoin.label>
+  <WandererJoin.label>tá fánaí tagtha</WandererJoin.label>
   
   <!-- EN: wild man wanders in -->
-  <WildManWandersIn.label>TODO</WildManWandersIn.label>
+  <WildManWandersIn.label>fear fiáin</WildManWandersIn.label>
   <!-- EN: {0} wanders in -->
-  <WildManWandersIn.letterLabel>TODO</WildManWandersIn.letterLabel>
+  <WildManWandersIn.letterLabel>Tá {0} tagtha</WildManWandersIn.letterLabel>
   <!-- EN: A {1} living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame {PAWN_objective}. -->
-  <WildManWandersIn.letterText>TODO</WildManWandersIn.letterText>
+  <WildManWandersIn.letterText>Tá {1} a raibh cónaí air i measc ainmhithe fiáine tagtha isteach sa cheantar.</WildManWandersIn.letterText>
   
 </LanguageData>

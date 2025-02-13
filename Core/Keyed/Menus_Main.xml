@@ -71,7 +71,7 @@
 
   <!-- Main menu dev build -->
   <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
-  <DevBuildWarning>Rabhadh: tá leagan forbartha den chluiche in úsáid agat, rud a chiallaíonn go bhfuil sé fós a dhearadh againn go fóill.\n\nBeidh socruithe áirithe as alt dá bharr. Is minic go dtéann muid thar fóir le hathruithe tásála chuin tuiscint a fháil ar na sriantaí a bhaineann leis na gnéithe úra a chuirtear lesi an gcluiche. Ansin, bainimid úsáid an an eolas sinn chun cothromaíocht a aimsiú sa leagan deiridh.\n\nBeidh fabhtanna ann, agus beidh drochthionchar acu ar an gcluiche. D'fhéadfadh sé nach n-oibreoidh do chuid sábhálacha amach anseo.\n\nMá tá tú sásta leanúint ar aghaidh, gabhaimid buíochas leat as an leagan seo a thástáil! Mura bhfuil tú ag iarraidh páirt a ghlacadh sa tástáil, moltar duit an leagan reatha is déanaí den chluiche a imirt.</DevBuildWarning>
+  <DevBuildWarning>Rabhadh: tá leagan tástála den chluiche in úsáid agat, rud a chiallaíonn go bhfuil sé fós á dhearadh againn go fóill.\n\nBeidh socruithe áirithe as alt dá bharr. Is minic go dtéann muid thar fóir le hathruithe tásála chuin tuiscint a fháil ar na sriantaí a bhaineann leis na gnéithe úra a chuirtear lesi an gcluiche. Ansin, bainimid úsáid an an eolas sinn chun cothromaíocht a aimsiú sa leagan deiridh.\n\nBeidh fabhtanna ann, agus beidh drochthionchar acu ar an gcluiche. D'fhéadfadh sé nach n-oibreoidh do chuid sábhálacha amach anseo.\n\nMá tá tú sásta leanúint ar aghaidh, gabhaimid buíochas leat as an leagan seo a thástáil! Mura bhfuil tú ag iarraidh páirt a ghlacadh sa tástáil, moltar duit an leagan reatha is déanaí den chluiche a imirt.</DevBuildWarning>
 
   <!-- Create/review world -->
   <!-- EN: Review world -->
@@ -491,7 +491,7 @@
   <!-- EN: Player can build turrets -->
   <Difficulty_AllowTurrets_Label>Féadfaidh an t-imreoir túiríní a thógáil</Difficulty_AllowTurrets_Label>
   <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
-  <Difficulty_AllowTurrets_Info>Féadfaidh an t-imreoir túiríní gunna a thógáil, amhail túiríní beaga agus túiríní uath-ghunna. .</Difficulty_AllowTurrets_Info>
+  <Difficulty_AllowTurrets_Info>Féadfaidh an t-imreoir túiríní gunna a thógáil, amhail túiríní beaga agus túiríní uath-ghunna.</Difficulty_AllowTurrets_Info>
   <!-- EN: Player can build mortars -->
   <Difficulty_AllowMortars_Label>Féadfaidh an t-imreoir moirtéir a thógail</Difficulty_AllowMortars_Label>
   <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->

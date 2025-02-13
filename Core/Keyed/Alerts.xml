@@ -298,7 +298,7 @@
   <AlertPredatorInAnimalPenDesc>Tá ({ANIMAL_labelShort}) i bpionna ainmhithe.\n\nD'fhéadfadh sé díobháil a dhéanamh do d'ainmhithe.\n\nFéadfaidh tú é a mharú, nó fanacht sa tsúil go n-imeoidh sé.</AlertPredatorInAnimalPenDesc>
 
   <!-- EN: Animal wandering away -->
-  <AlertAnimalIsRoaming>Ainmhí ag dul ar strae</AlertAnimalIsRoaming>
+  <AlertAnimalIsRoaming>Tá ainmhí ag dul ar strae</AlertAnimalIsRoaming>
   <!-- EN: Some of your tame animals are roamers and have started to wander. If they reach the edge of the map, they will eventually leave.\n\nIf you have an enclosed animal pen, your animal handlers can bring the animal back. Animals in an animal pen will not roam.\n\nThe following animals are roaming:\n{0} -->
   <AlertAnimalIsRoamingDesc>Tá roinnt ainmhithe múinte ag fánaíocht agus tá siad ag dul ar strae. Beidh siad caillte má shroiceann siad imeall na léarscála.\n\nMá tá pionna ainmhithe timpeallaithe agat, féadfaidh do láimhseálaithe na hainmhithe a thahbairt abhaile. Ní rachaidh ainmhithe atá i bpionna ar strae.\n\nTá na hainmhithe seo a leanas ag fánaíocht:\n\n{0}</AlertAnimalIsRoamingDesc>
 
@@ -308,12 +308,12 @@
   <AlertPennedAnimalHungryDesc>Tá ocras ar roinnt de d'ainmhithe.\n\nRoghnaigh marcóir pionna agus úsáid an táb 'Bia' chun tuilleadh eolais a fháil.\n\nD'fhéadfadh sé go mbeidh pionna níos mó de dhíth ar ainmhithe féaraigh chun tuilleadh féar a chur ar fáil dóibh. I gcás ainmhithe eile, beidh gá féar tirim a chur ar fáil dóibh le stoc-charn.\n\nTá ocras ar na hainmhithe seo a leanas:\n\n{0}</AlertPennedAnimalHungryDesc>
 
   <!-- EN: Hungry hitched animal -->
-  <AlertHitchedAnimalHungryNoFood>Tá ocras ar ainmhí ceangailte</AlertHitchedAnimalHungryNoFood>
+  <AlertHitchedAnimalHungryNoFood>Tá ocras ar ainmhithe</AlertHitchedAnimalHungryNoFood>
   <!-- EN: Some animals tied to hitching spots are hungry. There may not be any suitable food within their reach.\n\nBring them food, or remove the hitching spot so they can find food on their own.\n\nThe following hitched animals are hungry:\n{0} -->
   <AlertHitchedAnimalHungryNoFoodDesc>Tá ocras ar roinnt ainmhithe atá ceangailte le bacáin téide. D'fhéadfadh sé nach bhfuil aon bhia taobh leo.\n\nTabhair bia dóibh, nó bain ón bacán téide iad chun go mbeidh siad in ann bia a aimsiú.\n\nTá ocras ar na hainmhithe seo a leanas:\n\n{0}</AlertHitchedAnimalHungryNoFoodDesc>
 
   <!-- EN: Raids arriving in {0} -->
-  <AlertTimedRaidsArrivingIn>Ionsaithe ag teacht i gceann {0}</AlertTimedRaidsArrivingIn>
+  <AlertTimedRaidsArrivingIn>Tá ionsaithe ag teacht i gceann {0}</AlertTimedRaidsArrivingIn>
   <!-- EN: Enemies have been attracted to the following sites and will start arriving in force soon.\n\n{0} -->
   <AlertTimedRaidsArrivingInDesc>Mealladh naimhde chuig na háiteanna seo a leanas, agus cuirfidh siad tús lena n-ionsaí go luath.\n\n{0}</AlertTimedRaidsArrivingInDesc>
   <!-- EN: Arriving at {0} in {1} -->
@@ -325,7 +325,7 @@
   <FactionWillBecomeHostileIfNotLeavingWithinDesc>Éireoidh na faicsin seo a leanas naimhdeach má fhanann tú níos faide ag a lonnaíocht nó ag a n-urphost:\n\n{0}</FactionWillBecomeHostileIfNotLeavingWithinDesc>
 
   <!-- EN: {0} trees dying -->
-  <AlertMinifiedTreeAboutToDie>{0} crann ag fáil báis</AlertMinifiedTreeAboutToDie>
+  <AlertMinifiedTreeAboutToDie>Tá crainn ag fáil báis</AlertMinifiedTreeAboutToDie>
   <!-- EN: {0} extracted trees are going to die is less than a day. This will make some colonists unhappy because of their beliefs.\n\nYou can prevent this by replanting these trees. -->
   <AlertMinifiedTreeAboutToDieDesc>Tá {0} crann a baineadh ón talamh dul bás a fháil laistigh de lá. Ní bheidh coilínigh sásta leis sin, mar gheall ar a gcreideamh.\n\nIs féidir na crinn a athchur chun sin a sheachaint.</AlertMinifiedTreeAboutToDieDesc>
 

@@ -2,67 +2,67 @@
 <LanguageData>
 
   <!-- EN: {0} hurls some epithets into the microphone and disconnects. -->
-  <FactionGreetingHostile>{0} schreit ein paar Beleidigungen ins Mikrofon und trennt die Verbindung.</FactionGreetingHostile>
+  <FactionGreetingHostile>Deir {0} cúpla rud maslach sa mhicreafón, agus ansin téann an líne ciúin.</FactionGreetingHostile>
   <!-- EN: {0} demands that you make a gesture of goodwill, like bringing gifts to one of {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} is unwilling to talk.\n\nMuttering an insult, {0_pronoun} disconnects. -->
-  <FactionGreetingHostileAppreciative>{0} verlangt zunächst ein Zeichen deines guten Willens, z.B. indem du Geschenke in eine {0_possessive}er Siedlungen bringst oder Gefangene {0_possessive}er Fraktion unversehrt freilässt. Erst dann ist {0_pronoun} zu einem Gespräch bereit.\n\nEine Beleidigung murmelnd, beendet {0_pronoun} die Verbindung.</FactionGreetingHostileAppreciative>
+  <FactionGreetingHostileAppreciative>Tá {0} ag impí ort comhartha déa-mhéine a dhéanamh - mar shampla, bronntanas a thabhairt nó príosúnaigh a scaoileadh saor. Go dtí sin, níl {0_pronoun} sásta labhairt leat.\n\nDeir {0} cúpla rud maslach, téann an líne ciúin.</FactionGreetingHostileAppreciative>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} and asks what business you want to handle. -->
-  <FactionGreetingWary>{0} begrüßt {NEGOTIATOR_labelShort} und fragt, was du willst.</FactionGreetingWary>
+  <FactionGreetingWary>Beannaíonn {0} do {NEGOTIATOR_labelShort}, agus fiafraíonn {0_pronoun} céard atá uait.</FactionGreetingWary>
   <!-- EN: {0} greets {NEGOTIATOR_labelShort} warmly and asks what {LEADER_pronoun} can do to help you. -->
-  <FactionGreetingWarm>{0} begrüßt {NEGOTIATOR_labelShort} herzlich und fragt, wie {LEADER_pronoun} dir helfen kann.</FactionGreetingWarm>
+  <FactionGreetingWarm>Beannaíonn {0} go cairidiúil do {NEGOTIATOR_labelShort}, agus fiafraíonn {0_pronoun} céard atá uait.</FactionGreetingWarm>
 
   <!-- EN: won't do {0} -->
-  <WorkTypeDisablesOption>verweigert {0}</WorkTypeDisablesOption>
+  <WorkTypeDisablesOption>Níl an dúine seo sásta {0} a dhéanamh</WorkTypeDisablesOption>
   <!-- EN: Disconnect -->
-  <Disconnect>Verbindung trennen</Disconnect>
+  <Disconnect>Dícheangail</Disconnect>
 
   <!-- Gift offer -->
   <!-- EN: Offer gift -->
-  <OfferGift>Geschenk anbieten</OfferGift>
+  <OfferGift>Tabhair bronntanas</OfferGift>
   <!-- EN: must be ally -->
-  <MustBeAlly>muss verbündet sein</MustBeAlly>
+  <MustBeAlly>ní mór go mbeidh sibh cairdiúil</MustBeAlly>
   <!-- EN: need {0} goodwill -->
-  <NeedGoodwill>benötigt {0} Ruf</NeedGoodwill>
+  <NeedGoodwill>tá {0} pointe dea-mhéin de dhíth</NeedGoodwill>
   <!-- EN: need {0} silver near trade beacons -->
-  <NeedSilverLaunchable>benötigt {0} Silber nahe Handelsbaken</NeedSilverLaunchable>
+  <NeedSilverLaunchable>tá {0} airgead de dhíth in aice le haeróga trádála.</NeedSilverLaunchable>
   <!-- EN: not enough silver -->
-  <NotEnoughSilver>nicht genug Silber</NotEnoughSilver>
+  <NotEnoughSilver>níl go leor airgid agat</NotEnoughSilver>
   <!-- EN: {0} silver for {1} goodwill -->
-  <SilverForGoodwill>{0} Silber für {1} Ruf</SilverForGoodwill>
+  <SilverForGoodwill>{0} airgead le haghaidh {1} pointe dea-mhéine</SilverForGoodwill>
   <!-- EN: {0} thanks you.\n\n(Goodwill improved by {1}) -->
-  <SilverGiftSent>Der Sprecher von '{0}' bedankt sich.\n\n(Ruf um {1} verbessert)</SilverGiftSent>
+  <SilverGiftSent>Gabhann {0} buíochas leat.\n\n(Ardaíodh an leibhéal déa-mhéine le {1})</SilverGiftSent>
 
   <!-- Trade caravan request -->
   <!-- EN: Request a trade caravan (cost: {0} goodwill) -->
-  <RequestTrader>Fordere eine Handelskarawane an (kostet {0} Ruf)</RequestTrader>
+  <RequestTrader>Iarr carbhán trádála (costas {0} pointe dea-mhéine)</RequestTrader>
   <!-- EN: {0} asks what kind of trade caravan you want. -->
-  <ChooseTraderKind>{0} fragt, welche Art von Handelskarawane du wünschst.</ChooseTraderKind>
+  <ChooseTraderKind>Fiafraíonn {0} díot, cén chineál carbhán trádála atá uait.</ChooseTraderKind>
   <!-- EN: {0} agrees to send you a trade caravan. It will arrive within a few days. -->
-  <TraderSent>{0} ist einverstanden und schickt eine Handelskarawane vorbei. Sie wird in ein paar Tagen eintreffen.</TraderSent>
+  <TraderSent>Tá {0} sásta carbhán trádála a sheoladh chugat. Tiocaidh sé i gceann cúpla lá.</TraderSent>
   <!-- EN: wait {0} -->
-  <WaitTime>warte {0}</WaitTime>
+  <WaitTime>fán {0}</WaitTime>
   
   <!-- AI core request -->
   <!-- EN: Request the location of a {0} (cost: {1} silver) -->
-  <RequestAICoreInformation>Erfrage den Ort {0_gender ? eines : einer : eines} {lookup: {0}; decline; 1} (kostet {1} Silber)</RequestAICoreInformation>
+  <RequestAICoreInformation>Iarr orthú cá bhféadfaidh tú {0} a aimsiú (costas: {1} airgead)</RequestAICoreInformation>
   <!-- EN: {0} sends the requested information and wishes you good luck. -->
-  <RequestAICoreInformationResult>{0} sendet dir die entsprechenden Informationen und wünscht dir viel Glück.</RequestAICoreInformationResult>
+  <RequestAICoreInformationResult>Cuireann {0} an t-eolas chugat, agus guíonn {0_pronoun} gach rath ort.</RequestAICoreInformationResult>
   <!-- EN: no more locations known -->
-  <NoKnownAICore>keine weiteren Orte bekannt</NoKnownAICore>  
+  <NoKnownAICore>níl aon suíomh eile ar fáil</NoKnownAICore>  
   
   <!-- Military aid request -->
   <!-- EN: Request immediate military aid (cost: {0} goodwill) -->
-  <RequestMilitaryAid>Bitte um sofortige militärische Hilfe (kostet {0} Ruf)</RequestMilitaryAid>
+  <RequestMilitaryAid>Iarr cúnamh míleata (costas {0} dea-mhéin)</RequestMilitaryAid>
   <!-- EN: {0} will not help you fight other factions who are not their enemies. This includes some who are currently threatening you, {1}. Do you still want to call for aid? -->
-  <MilitaryAidConfirmMutualEnemy>Die Fraktion '{0}' hilft dir nicht im Kampf gegen andere Fraktionen, mit denen sie selbst verbündet ist. Darunter sind auch einige, die dich gerade bedrohen: {1}. Willst du sie trotzdem um Hilfe bitten?</MilitaryAidConfirmMutualEnemy>
+  <MilitaryAidConfirmMutualEnemy>Ní chuideoidh {0} leat troid i gcoinne faicsean eile nach bhfuil siad naimhdeach ina gcoinne. Tá cúpla faicsean atá do d'ionsaí san áireamh leis sin, : {1}. An bhfuil tú ag iarraidh cúnamh míleata a iarradh ar aon nós?</MilitaryAidConfirmMutualEnemy>
   <!-- EN: Yes, call them anyway. -->
-  <CallConfirm>Ja, rufe sie trotzdem.</CallConfirm>
+  <CallConfirm>Tá, iarr orthu ar aon nós.</CallConfirm>
   <!-- EN: No, never mind. -->
-  <CallCancel>Nein, lieber nicht.</CallCancel>
+  <CallCancel>Níl.</CallCancel>
   <!-- EN: {0} agrees to send fighters to help you. -->
-  <MilitaryAidSent>{0} ist einverstanden und entsendet Kämpfer, um dir zu helfen.</MilitaryAidSent>
+  <MilitaryAidSent>Tá {0} sásta saighdiúirí a sheoladh le cuidiú leat.</MilitaryAidSent>
   <!-- EN: {0} apologizes and says they won't be able to arrive in time.\n\n(This faction's technology level is too low for transport pods) -->
-  <CantSendMilitaryAidInTime>{0} entschuldigt sich und sagt, dass sie es nicht rechtzeitig schaffen werden.\n\n(Die Techstufe dieser Fraktion ist zu niedrig für Transportkapseln)</CantSendMilitaryAidInTime>
+  <CantSendMilitaryAidInTime>Gabhann {0} leithscéal, agus deir {0_pronoun} nach dtiocfaidh na saighdiúirí in am.\n\n(Tá leibhéal teicneolaíochta an fhaicsin seo ró-íseal chun podanna iompair a úsáid)</CantSendMilitaryAidInTime>
   <!-- EN: hostile visitors present -->
-  <HostileVisitorsPresent>feindliche Besucher anwesend</HostileVisitorsPresent>
+  <HostileVisitorsPresent>tá cuairteoirí naimhdeacha sa cheantar</HostileVisitorsPresent>
 
 </LanguageData>

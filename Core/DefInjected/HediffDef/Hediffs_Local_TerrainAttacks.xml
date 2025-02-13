@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: dirt -->
-  <DirtInEyes.label>TODO</DirtInEyes.label>
+  <DirtInEyes.label>cré</DirtInEyes.label>
   <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <DirtInEyes.description>TODO</DirtInEyes.description>
+  <DirtInEyes.description>Cré sna súile. Cuireann sé isteach ar an radharc, ach ní mhaireann sé ach cúpla nóiméad.</DirtInEyes.description>
   <!-- EN: blind -->
-  <DirtInEyes.battleStateLabel>TODO</DirtInEyes.battleStateLabel>
+  <DirtInEyes.battleStateLabel>dall</DirtInEyes.battleStateLabel>
   <!-- EN: dirt -->
-  <DirtInEyes.labelNoun>TODO</DirtInEyes.labelNoun>
+  <DirtInEyes.labelNoun>cré</DirtInEyes.labelNoun>
   
   <!-- EN: gravel -->
-  <GravelInEyes.label>TODO</GravelInEyes.label>
+  <GravelInEyes.label>gairbhéal</GravelInEyes.label>
   <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <GravelInEyes.description>TODO</GravelInEyes.description>
+  <GravelInEyes.description>Gairbhéal sna súile. Cuireann sé isteach ar an radharc, ach ní mhaireann sé ach cúpla nóiméad.</GravelInEyes.description>
   <!-- EN: blind -->
-  <GravelInEyes.battleStateLabel>TODO</GravelInEyes.battleStateLabel>
+  <GravelInEyes.battleStateLabel>dall</GravelInEyes.battleStateLabel>
   <!-- EN: gravel -->
-  <GravelInEyes.labelNoun>TODO</GravelInEyes.labelNoun>
+  <GravelInEyes.labelNoun>gairbhéal</GravelInEyes.labelNoun>
   
   <!-- EN: mud -->
-  <MudInEyes.label>TODO</MudInEyes.label>
+  <MudInEyes.label>puiteach</MudInEyes.label>
   <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <MudInEyes.description>TODO</MudInEyes.description>
+  <MudInEyes.description>Puiteach sna súile. Cuireann sé isteach ar an radharc, ach ní mhaireann sé ach cúpla nóiméad.</MudInEyes.description>
   <!-- EN: blind -->
-  <MudInEyes.battleStateLabel>TODO</MudInEyes.battleStateLabel>
+  <MudInEyes.battleStateLabel>dall</MudInEyes.battleStateLabel>
   <!-- EN: mud -->
-  <MudInEyes.labelNoun>TODO</MudInEyes.labelNoun>
+  <MudInEyes.labelNoun>puiteach</MudInEyes.labelNoun>
   
   <!-- EN: sand -->
-  <SandInEyes.label>TODO</SandInEyes.label>
+  <SandInEyes.label>gaineamh</SandInEyes.label>
   <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
-  <SandInEyes.description>TODO</SandInEyes.description>
+  <SandInEyes.description>Gaineamh sna súile. Cuireann sé isteach ar an radharc, ach ní mhaireann sé ach cúpla nóiméad.</SandInEyes.description>
   <!-- EN: blind -->
-  <SandInEyes.battleStateLabel>TODO</SandInEyes.battleStateLabel>
+  <SandInEyes.battleStateLabel>dall</SandInEyes.battleStateLabel>
   <!-- EN: sand -->
-  <SandInEyes.labelNoun>TODO</SandInEyes.labelNoun>
+  <SandInEyes.labelNoun>gaineamh</SandInEyes.labelNoun>
   
   <!-- EN: water -->
-  <WaterInEyes.label>TODO</WaterInEyes.label>
+  <WaterInEyes.label>uisce</WaterInEyes.label>
   <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
-  <WaterInEyes.description>TODO</WaterInEyes.description>
+  <WaterInEyes.description>Uisce sna súile. Cuireann sé isteach ar an radharc, ach ní mhaireann sé ach cúpla nóiméad.</WaterInEyes.description>
   <!-- EN: blind -->
-  <WaterInEyes.battleStateLabel>TODO</WaterInEyes.battleStateLabel>
+  <WaterInEyes.battleStateLabel>dall</WaterInEyes.battleStateLabel>
   <!-- EN: water -->
-  <WaterInEyes.labelNoun>TODO</WaterInEyes.labelNoun>
+  <WaterInEyes.labelNoun>uisce</WaterInEyes.labelNoun>
   
 </LanguageData>

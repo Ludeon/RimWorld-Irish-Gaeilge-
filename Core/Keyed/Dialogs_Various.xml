@@ -322,13 +322,13 @@
   <BillRepeatTargetCountShort>Go dtí {0}</BillRepeatTargetCountShort>
 
   <!-- EN: Pause when satisfied -->
-  <PauseWhenSatisfied>Pause, wenn Bedingung erfüllt</PauseWhenSatisfied>
+  <PauseWhenSatisfied>Stop an cluiche nuair a bheidh seo bainte amach</PauseWhenSatisfied>
   <!-- EN: Unpause at -->
-  <UnpauseWhenYouHave>Pause aufheben bei</UnpauseWhenYouHave>
+  <UnpauseWhenYouHave>Cur tús leis an gcluiche arís ag</UnpauseWhenYouHave>
   <!-- EN: paused -->
-  <Paused>Pausiert</Paused>
+  <Paused>stoptha</Paused>
   <!-- EN: Unpause -->
-  <Unpause>Pause aufheben</Unpause>
+  <Unpause>Atosaigh an cluiche</Unpause>
 
   <!-- EN: Count equipped -->
   <IncludeEquipped>Rudaí feistithe san áireamh</IncludeEquipped>

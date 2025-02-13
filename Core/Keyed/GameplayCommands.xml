@@ -40,7 +40,7 @@
   <!-- EN: Undraft -->
   <CommandUndraftLabel>Dídhréachtaigh</CommandUndraftLabel>
   <!-- EN: Toggle military draft.\n\nDrafted people take orders and fight. They will not work, eat, or rest. -->
-  <CommandToggleDraftDesc>Roghnaidh daoine le dréáchtú.\n\nLeanfaidh cóilínigh dhréachtaithe orduithe agus rachaidh siad i mbun troda. Ní dhéanfaidh siad aon obair, ní ithfidh siad, agus ní thógfaidh siad sos.</CommandToggleDraftDesc>
+  <CommandToggleDraftDesc>Roghnaidh daoine le dréachtú.\n\nLeanfaidh cóilínigh dhréachtaithe orduithe agus rachaidh siad i mbun troda. Ní dhéanfaidh siad aon obair eile, ní ithfidh siad, agus ní thógfaidh siad sos - ní dhéanfaidh ach amháin an rud a deirtear leo agus iad dréachtaithe.</CommandToggleDraftDesc>
   <!-- EN: {1_labelShort} cannot walk. -->
   <IsIncapped>Ní féidir le {1_labelShort} siúl.</IsIncapped>
   <!-- EN: {0_labelShort} is participating in {1}. -->

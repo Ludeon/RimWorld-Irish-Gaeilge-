@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: penoxycyline -->
-  <PenoxycylineHigh.label>TODO</PenoxycylineHigh.label>
+  <PenoxycylineHigh.label>peanocsaicílín</PenoxycylineHigh.label>
   <!-- EN: Penoxycyline-induced immunity to certain illnesses. This only blocks new infections; it does nothing for those who are already infected, even if their infection is dormant. -->
-  <PenoxycylineHigh.description>TODO</PenoxycylineHigh.description>
+  <PenoxycylineHigh.description>Imdhíonacht peanocsaicílíne ar ghalair áirithe. Ní chuireann peanocsaicílín cosc ach amháin ar ghalair úra - ní oibríonn sé ar ghalair atá ag daoine cheana, fiú má bhíonn an galar sin faoi shuan.</PenoxycylineHigh.description>
   
 </LanguageData>

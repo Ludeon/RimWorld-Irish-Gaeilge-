@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: psychite addiction -->
-  <PsychiteAddiction.label>TODO</PsychiteAddiction.label>
+  <PsychiteAddiction.label>andúil: sícít</PsychiteAddiction.label>
   <!-- EN: A chemical addiction to psychite. Long-term presence of psychite has caused neurological adaptations at the cellular level, so the brain can no longer function properly without the drug.\n\nWithout regular doses of psychite from drugs like flake or yayo, withdrawal symptoms will begin. However, extended abstinence will force the brain to adapt back to its normal state, resolving the addiction. -->
-  <PsychiteAddiction.description>TODO</PsychiteAddiction.description>
+  <PsychiteAddiction.description>Tá andúil ag an duine seo i sícít.\n\nMura mbeidh substaintí sícíte, ar nós scleap nó yáyó, ag an duine seo ar bhonn rialta, tiocfaidh siomptóim éirí as air. Má éiríonn leis an duine seo staon ón sícít ar feadh tamall, tiocfaidh deireadh leis an andúil.</PsychiteAddiction.description>
   <!-- EN: withdrawal -->
-  <PsychiteAddiction.stages.withdrawal.label>TODO</PsychiteAddiction.stages.withdrawal.label>
+  <PsychiteAddiction.stages.withdrawal.label>éirí as</PsychiteAddiction.stages.withdrawal.label>
   
   <!-- EN: psychite tolerance -->
-  <PsychiteTolerance.label>TODO</PsychiteTolerance.label>
+  <PsychiteTolerance.label>fulaingt: sícít</PsychiteTolerance.label>
   <!-- EN: A built-up tolerance to psychite. The more severe this tolerance is, the more psychite-based drugs like yayo or flake it takes to get the same effect. -->
-  <PsychiteTolerance.description>TODO</PsychiteTolerance.description>
+  <PsychiteTolerance.description>Dá láidre an fhulaingt sícíte, dá mhéad sícíte a bheidh de dhíth chun an éifeacht chéanna a bhaint amach.</PsychiteTolerance.description>
   <!-- EN: small -->
-  <PsychiteTolerance.stages.small.label>TODO</PsychiteTolerance.stages.small.label>
+  <PsychiteTolerance.stages.small.label>lag</PsychiteTolerance.stages.small.label>
   <!-- EN: large -->
-  <PsychiteTolerance.stages.large.label>TODO</PsychiteTolerance.stages.large.label>
+  <PsychiteTolerance.stages.large.label>meánach</PsychiteTolerance.stages.large.label>
   <!-- EN: massive -->
-  <PsychiteTolerance.stages.massive.label>TODO</PsychiteTolerance.stages.massive.label>
+  <PsychiteTolerance.stages.massive.label>láidir</PsychiteTolerance.stages.massive.label>
   
   <!-- EN: high on yayo -->
-  <YayoHigh.label>TODO</YayoHigh.label>
+  <YayoHigh.label>siabhrán: yáyó</YayoHigh.label>
   <!-- EN: Active yayo in the bloodstream. Generates an intense euphoric high. -->
-  <YayoHigh.description>TODO</YayoHigh.description>
+  <YayoHigh.description>Tá yáyó san fhuil. Cruthaíonn an tsubstaint seo siabhrán láidir.</YayoHigh.description>
   <!-- EN: a yayo high -->
-  <YayoHigh.labelNoun>TODO</YayoHigh.labelNoun>
+  <YayoHigh.labelNoun>siabhrán: yayó</YayoHigh.labelNoun>
   
 </LanguageData>

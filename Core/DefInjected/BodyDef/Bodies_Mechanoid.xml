@@ -24,128 +24,128 @@
   <!-- EN: left index finger -->
   <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>príomhmhéar clé</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ordóg chlé</Lancer.corePart.parts.left_mechanical_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right mechanical shoulder -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.customLabel>gualainn dheas</Lancer.corePart.parts.right_mechanical_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>lámh dheas</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.customLabel>
   <!-- EN: right hand -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>lámh dheas</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>méar deas</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>méar láir deas</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>príomhmhéar deas</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ordóg dheas</Lancer.corePart.parts.right_mechanical_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Lancer.corePart.parts.left_leg.customLabel>TODO</Lancer.corePart.parts.left_leg.customLabel>
+  <Lancer.corePart.parts.left_leg.customLabel>cos chlé</Lancer.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>cos chlé</Lancer.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Lancer.corePart.parts.right_leg.customLabel>TODO</Lancer.corePart.parts.right_leg.customLabel>
+  <Lancer.corePart.parts.right_leg.customLabel>cos dheas</Lancer.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>cos dheas</Lancer.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- EN: mechanical centipede -->
-  <MechanicalCentipede.label>TODO</MechanicalCentipede.label>
+  <MechanicalCentipede.label>céadchosach meicniúil</MechanicalCentipede.label>
   <!-- EN: left sight sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>braiteoir clé</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>braiteoir deas</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>fuaimbhraiteoir clé</MechanicalCentipede.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>fuaimbhraiteoir deas</MechanicalCentipede.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   
   <!-- EN: mechanical termite -->
-  <MechanicalTermite.label>TODO</MechanicalTermite.label>
+  <MechanicalTermite.label>teirmít mheicniúil</MechanicalTermite.label>
   <!-- EN: left sight sensor -->
-  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>braiteoir clé</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>braiteoir deas</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>fuaimbhraiteoir clé</MechanicalTermite.corePart.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>fuaimbhraiteoir deas</MechanicalTermite.corePart.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   
   <!-- EN: pikeman -->
-  <Pikeman.label>TODO</Pikeman.label>
+  <Pikeman.label>pícróbat</Pikeman.label>
   <!-- EN: left sight sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>braiteoir clé</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>braiteoir deas</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>fuaimbhraiteoir clé</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>fuaimbhraiteoir deas</Pikeman.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: front left leg -->
-  <Pikeman.corePart.parts.front_left_leg.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.customLabel>cos thosaigh chlé</Pikeman.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left foot -->
-  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>TODO</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>cos thosaigh chlé</Pikeman.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
   <!-- EN: front right leg -->
-  <Pikeman.corePart.parts.front_right_leg.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.customLabel>cos thosaigh dheas</Pikeman.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right foot -->
-  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>TODO</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>cos thosaigh dheas</Pikeman.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
   <!-- EN: rear left leg -->
-  <Pikeman.corePart.parts.rear_left_leg.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.customLabel>cos chúil chlé</Pikeman.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left foot -->
-  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>TODO</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>cos chúil chlé</Pikeman.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
   <!-- EN: rear right leg -->
-  <Pikeman.corePart.parts.rear_right_leg.customLabel>TODO</Pikeman.corePart.parts.rear_right_leg.customLabel>
+  <Pikeman.corePart.parts.rear_right_leg.customLabel>cos chúil dheas</Pikeman.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
-  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>TODO</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  <Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>cos chúil dheas</Pikeman.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
   
   <!-- EN: scyther -->
-  <Scyther.label>TODO</Scyther.label>
+  <Scyther.label>spealadóir</Scyther.label>
   <!-- EN: left sight sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>braiteoir clé</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>braiteior deas</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>fuaimbhraiteoir clé</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>fuaimbhraiteoir deas</Scyther.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: left shoulder -->
-  <Scyther.corePart.parts.left_shoulder.customLabel>TODO</Scyther.corePart.parts.left_shoulder.customLabel>
+  <Scyther.corePart.parts.left_shoulder.customLabel>gualainn chlé</Scyther.corePart.parts.left_shoulder.customLabel>
   <!-- EN: left arm -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>lámh chlé</Scyther.corePart.parts.left_shoulder.parts.left_arm.customLabel>
   <!-- EN: left blade -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>lann chlé</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_blade.customLabel>
   <!-- EN: left hand -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>lámh chlé</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.customLabel>
   <!-- EN: left pinky -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>méar clé</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_pinky.customLabel>
   <!-- EN: left middle finger -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>méar láir clé</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_middle_finger.customLabel>
   <!-- EN: left index finger -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>príomhmhéar clé</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_index_finger.customLabel>
   <!-- EN: left thumb -->
-  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>TODO</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
+  <Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>ordóg chlé</Scyther.corePart.parts.left_shoulder.parts.left_arm.parts.left_hand.parts.left_thumb.customLabel>
   <!-- EN: right shoulder -->
-  <Scyther.corePart.parts.right_shoulder.customLabel>TODO</Scyther.corePart.parts.right_shoulder.customLabel>
+  <Scyther.corePart.parts.right_shoulder.customLabel>gualainn dheas</Scyther.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>lámh dheas</Scyther.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right blade -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>lann dheas</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
   <!-- EN: right hand -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>lámh dheas</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.customLabel>
   <!-- EN: right pinky -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>méar deas</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_pinky.customLabel>
   <!-- EN: right middle finger -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>méar láir deas</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_middle_finger.customLabel>
   <!-- EN: right index finger -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>príomhmhéar deas</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_index_finger.customLabel>
   <!-- EN: right thumb -->
-  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>TODO</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
+  <Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>ordóg dheas</Scyther.corePart.parts.right_shoulder.parts.right_arm.parts.right_hand.parts.right_thumb.customLabel>
   <!-- EN: left leg -->
-  <Scyther.corePart.parts.left_leg.customLabel>TODO</Scyther.corePart.parts.left_leg.customLabel>
+  <Scyther.corePart.parts.left_leg.customLabel>cos chlé</Scyther.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>TODO</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>cos chlé</Scyther.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Scyther.corePart.parts.right_leg.customLabel>TODO</Scyther.corePart.parts.right_leg.customLabel>
+  <Scyther.corePart.parts.right_leg.customLabel>cos dheas</Scyther.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>TODO</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>cos dheas</Scyther.corePart.parts.right_leg.parts.right_foot.customLabel>
   
 </LanguageData>

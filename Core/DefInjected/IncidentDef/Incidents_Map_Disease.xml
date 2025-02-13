@@ -16,68 +16,68 @@
   <Disease_AnimalPlague.letterText>Tá {0} tinn.\n\nBí cinnte go gcuirtear cúram leighis orthu.\n\nTá na hainmhithe seo a leanas tinn</Disease_AnimalPlague.letterText>
   
   <!-- EN: fibrous mechanites -->
-  <Disease_FibrousMechanites.label>TODO</Disease_FibrousMechanites.label>
+  <Disease_FibrousMechanites.label>meicnítí snáithíneacha</Disease_FibrousMechanites.label>
   <!-- EN: Disease: Fibrous mechanites -->
-  <Disease_FibrousMechanites.letterLabel>TODO</Disease_FibrousMechanites.letterLabel>
+  <Disease_FibrousMechanites.letterLabel>Galar: Meicnítí snáithíneacha</Disease_FibrousMechanites.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_FibrousMechanites.letterText>TODO</Disease_FibrousMechanites.letterText>
+  <Disease_FibrousMechanites.letterText>Tá {0} {1} tinn le meicnítí snáithíneacha. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_FibrousMechanites.letterText>
   
   <!-- EN: flu -->
-  <Disease_Flu.label>TODO</Disease_Flu.label>
+  <Disease_Flu.label>fliú</Disease_Flu.label>
   <!-- EN: Disease: Flu -->
-  <Disease_Flu.letterLabel>TODO</Disease_Flu.letterLabel>
+  <Disease_Flu.letterLabel>Galar: Fliú</Disease_Flu.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_Flu.letterText>TODO</Disease_Flu.letterText>
+  <Disease_Flu.letterText>Tá {0} {1} tinn leis an bhfliú. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_Flu.letterText>
   
   <!-- EN: gut worms -->
-  <Disease_GutWorms.label>TODO</Disease_GutWorms.label>
+  <Disease_GutWorms.label>péisteanna putóige</Disease_GutWorms.label>
   <!-- EN: Disease: Gut worms -->
-  <Disease_GutWorms.letterLabel>TODO</Disease_GutWorms.letterLabel>
+  <Disease_GutWorms.letterLabel>Galar: Péisteanna putóige</Disease_GutWorms.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_GutWorms.letterText>TODO</Disease_GutWorms.letterText>
+  <Disease_GutWorms.letterText>Tá {0} {1} tinn le péisteanna putóige. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_GutWorms.letterText>
   
   <!-- EN: malaria -->
-  <Disease_Malaria.label>TODO</Disease_Malaria.label>
+  <Disease_Malaria.label>maláire</Disease_Malaria.label>
   <!-- EN: Disease: Malaria -->
-  <Disease_Malaria.letterLabel>TODO</Disease_Malaria.letterLabel>
+  <Disease_Malaria.letterLabel>Galar: Maláire</Disease_Malaria.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_Malaria.letterText>TODO</Disease_Malaria.letterText>
+  <Disease_Malaria.letterText>Tá {0} {1} tinn le maláire. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_Malaria.letterText>
   
   <!-- EN: muscle parasites -->
-  <Disease_MuscleParasites.label>TODO</Disease_MuscleParasites.label>
+  <Disease_MuscleParasites.label>seadáin mhatáin</Disease_MuscleParasites.label>
   <!-- EN: Disease: Muscle parasites -->
-  <Disease_MuscleParasites.letterLabel>TODO</Disease_MuscleParasites.letterLabel>
+  <Disease_MuscleParasites.letterLabel>Galar: Seadáin mhatáin</Disease_MuscleParasites.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_MuscleParasites.letterText>TODO</Disease_MuscleParasites.letterText>
+  <Disease_MuscleParasites.letterText>Tá {0} {1} tinn le seadáin mhatáin. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_MuscleParasites.letterText>
   
   <!-- EN: organ decay -->
-  <Disease_OrganDecay.label>TODO</Disease_OrganDecay.label>
+  <Disease_OrganDecay.label>meathlú orgán</Disease_OrganDecay.label>
   <!-- EN: Without a cure or replacement of some kind, {PAWN_labelShort} will die. -->
-  <Disease_OrganDecay.diseaseLethalLetterText>TODO</Disease_OrganDecay.diseaseLethalLetterText>
+  <Disease_OrganDecay.diseaseLethalLetterText>Gan chóireáil leighis nó gan orgán nua, gheobhaidh {PAWN_labelShort} bás.</Disease_OrganDecay.diseaseLethalLetterText>
   <!-- EN: Organ decay: {PAWN_labelShort} -->
-  <Disease_OrganDecay.letterLabel>TODO</Disease_OrganDecay.letterLabel>
+  <Disease_OrganDecay.letterLabel>Meathlú orgán: {PAWN_labelShort}</Disease_OrganDecay.letterLabel>
   <!-- EN: {PAWN_labelShort} has developed a flesh-eating infection known as organ decay in {PAWN_possessive} {2}!\n\nThe affected organ will slowly lose function over the next {3} days, before dying completely.\n\nIf you want {PAWN_labelShort} to stay healthy, install a replacement {2}. This could be a bionic, or a natural organ taken from a donor. -->
-  <Disease_OrganDecay.letterText>TODO</Disease_OrganDecay.letterText>
+  <Disease_OrganDecay.letterText>Tá meathlú orgán ar {PAWN_labelShort} ({PAWN_possessive})!\n\nStopfaidh an t-orgán ag feidhmiú i gceart sna laethanta amach romhainn.\n\nBeidh ort orgán nua a thabhairt do {PAWN_labelShort} - d'fhéadfá bitheonaic nó orgán deonaithe a úsáid..</Disease_OrganDecay.letterText>
   
   <!-- EN: plague -->
-  <Disease_Plague.label>TODO</Disease_Plague.label>
+  <Disease_Plague.label>plá</Disease_Plague.label>
   <!-- EN: Disease: Plague -->
-  <Disease_Plague.letterLabel>TODO</Disease_Plague.letterLabel>
+  <Disease_Plague.letterLabel>Galar: Plá</Disease_Plague.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_Plague.letterText>TODO</Disease_Plague.letterText>
+  <Disease_Plague.letterText>Tá {0} {1} tinn leis an bplá. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_Plague.letterText>
   
   <!-- EN: sensory mechanites -->
-  <Disease_SensoryMechanites.label>TODO</Disease_SensoryMechanites.label>
+  <Disease_SensoryMechanites.label>meicnítí céadfacha</Disease_SensoryMechanites.label>
   <!-- EN: Disease: Sensory mechanites -->
-  <Disease_SensoryMechanites.letterLabel>TODO</Disease_SensoryMechanites.letterLabel>
+  <Disease_SensoryMechanites.letterLabel>Galar: Meicnítí céadfacha</Disease_SensoryMechanites.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_SensoryMechanites.letterText>TODO</Disease_SensoryMechanites.letterText>
+  <Disease_SensoryMechanites.letterText>Tá {0} {1} tinn le meicnítí céadfacha. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_SensoryMechanites.letterText>
   
   <!-- EN: sleeping sickness -->
-  <Disease_SleepingSickness.label>TODO</Disease_SleepingSickness.label>
+  <Disease_SleepingSickness.label>tinneas codlata</Disease_SleepingSickness.label>
   <!-- EN: Disease: Sleeping sickness -->
-  <Disease_SleepingSickness.letterLabel>TODO</Disease_SleepingSickness.letterLabel>
+  <Disease_SleepingSickness.letterLabel>Galar: Tinneas codlata</Disease_SleepingSickness.letterLabel>
   <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick -->
-  <Disease_SleepingSickness.letterText>TODO</Disease_SleepingSickness.letterText>
+  <Disease_SleepingSickness.letterText>Tá {0} {1} tinn le tinneas codlata. Bí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil. Bí cinnte go bhfaigheann siad an cóireáil leighis is gá.\n\nTá tinneas ar</Disease_SleepingSickness.letterText>
   
 </LanguageData>

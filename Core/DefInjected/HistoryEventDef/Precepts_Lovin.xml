@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: got some lovin' -->
-  <GotLovin.label>caidreamh collaí</GotLovin.label>
+  <GotLovin.label>bhí caidreamh collaí agam</GotLovin.label>
   
   <!-- EN: lovin' outside marriage -->
-  <GotLovin_NonSpouse.label>caidreamh collaí lasmuigh den phósadh</GotLovin_NonSpouse.label>
+  <GotLovin_NonSpouse.label>bhí caidreamh collaí agam lasmuigh den phósadh</GotLovin_NonSpouse.label>
   
   <!-- EN: lovin' with spouse -->
-  <GotLovin_Spouse.label>caidreamh collaí le páirtí</GotLovin_Spouse.label>
+  <GotLovin_Spouse.label>bhí caidreamh collaí agam le páirtí</GotLovin_Spouse.label>
   
   <!-- EN: initiated lovin' -->
   <InitiatedLovin.label>chuir mé tús le caidreamh collaí</InitiatedLovin.label>
   
   <!-- EN: shared bed -->
-  <SharedBed.label>roinneadh leaba</SharedBed.label>
+  <SharedBed.label>roinn mé leaba</SharedBed.label>
   
   <!-- EN: shared bed outside marriage -->
-  <SharedBed_NonSpouse.label>roinneadh leaba lasmuigh den phósadh</SharedBed_NonSpouse.label>
+  <SharedBed_NonSpouse.label>roinn mé leaba lasmuigh den phósadh</SharedBed_NonSpouse.label>
   
   <!-- EN: shared bed with spouse -->
-  <SharedBed_Spouse.label>roinneadh leaba le páirtí</SharedBed_Spouse.label>
+  <SharedBed_Spouse.label>roinn mé leaba le páirtí</SharedBed_Spouse.label>
   
 </LanguageData>
