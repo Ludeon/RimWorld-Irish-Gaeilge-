@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: [PAWN_nameDef] spent almost all of [PAWN_possessive] time indoors, away from other humans. To survive, [PAWN_pronoun] trained and sold messenger rats. -->
-  <CynapseCustomAdulthood.description>TODO</CynapseCustomAdulthood.description>
+  <CynapseCustomAdulthood.description>Chaith [PAWN_nameDef] a c[PAWN_possessive]uid ama ar fad laistigh, scoite amach ó dhaoine eile. Chun maireachtáil, d'fhoghlaim conas colúir frithinge a thraenáil agus a úsáid.</CynapseCustomAdulthood.description>
   <!-- EN: hermit -->
-  <CynapseCustomAdulthood.title>TODO</CynapseCustomAdulthood.title>
+  <CynapseCustomAdulthood.title>aonarán</CynapseCustomAdulthood.title>
   <!-- EN: hermit -->
-  <CynapseCustomAdulthood.titleShort>TODO</CynapseCustomAdulthood.titleShort>
+  <CynapseCustomAdulthood.titleShort>aonarán</CynapseCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] time disassembling and reassembling electronic devices in order to figure out how they function. [PAWN_nameDef] became so preoccupied with [PAWN_possessive] tinkering that [PAWN_pronoun] forgot to develop social relationships with other humans. -->
-  <CynapseCustomChildhood.description>TODO</CynapseCustomChildhood.description>
+  <CynapseCustomChildhood.description>D'fhoghlaim [PAWN_nameDef] conas gléasanna leictreonacha a dhíchoimeáil agus a dheisiú. Bhí [PAWN_pronoun] chomh tugtha sin don tincéireacht go ndearna [PAWN_pronoun] dearmad conas labhairt le daoine eile.</CynapseCustomChildhood.description>
   <!-- EN: tinkerer -->
-  <CynapseCustomChildhood.title>TODO</CynapseCustomChildhood.title>
+  <CynapseCustomChildhood.title>deaslámhach</CynapseCustomChildhood.title>
   <!-- EN: tinkerer -->
-  <CynapseCustomChildhood.titleShort>TODO</CynapseCustomChildhood.titleShort>
+  <CynapseCustomChildhood.titleShort>deaslámhach</CynapseCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time running tabletop role-playing games as a way to connect socially with others. The game changed every year, and other players always loved [PAWN_possessive] worldbuilding and stories. -->
-  <FeyCustomAdulthood.description>TODO</FeyCustomAdulthood.description>
+  <FeyCustomAdulthood.description>Bhí an spéis ag [PAWN_nameDef] i gcluicí boird, agus bhí [PAWN_pronoun] i gceannas ar chluichí a reáchtáil do dhaoine eile. D'athraigh an cluiche gach bliain, agus is breá le [PAWN_possessive] domhain fhicsiniúla a thógáil agus scéalta a insint.</FeyCustomAdulthood.description>
   <!-- EN: game master -->
-  <FeyCustomAdulthood.title>TODO</FeyCustomAdulthood.title>
+  <FeyCustomAdulthood.title>máistír na na ndoinsiún</FeyCustomAdulthood.title>
   <!-- EN: game master -->
-  <FeyCustomAdulthood.titleShort>TODO</FeyCustomAdulthood.titleShort>
+  <FeyCustomAdulthood.titleShort>máistír na na ndoinsiún</FeyCustomAdulthood.titleShort>
   
   <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
   <FeyCustomChildhood.description>TODO</FeyCustomChildhood.description>

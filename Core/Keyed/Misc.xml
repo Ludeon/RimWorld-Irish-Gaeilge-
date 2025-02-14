@@ -4,7 +4,7 @@
   <!-- EN: Autosaving -->
   <Autosaving>Ag uathshábháil</Autosaving>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart.\n\nSome time later, you land on this unknown rimworld.\n\nAs pieces of the shredded starship fall around you, you start making plans to survive. -->
-  <GameStartDialog>Dúisíonn an triúir agaibh in bhur bpodanna criptea-chodlata, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leaindeálann sibh ar an bplainéad iargúlta seo.\n\nTiteann smionagar na spásloinge anuas thart timpeall oraibh. Beidh oraibh pleanáil don am atá le teacht má tá sé i gceist agaibh an fód a sheasamh...</GameStartDialog>
+  <GameStartDialog>Dúisíonn an triúir agaibh ón gcriptea-chodladh de phreab, agus cloiseann sibh bonnán ag séideadh agus miotal ag greadadh. Is ar éigean go sroicheann sibh na podanna éalaithe sula scriostar an spáslong.\n\nTamall ina dhiaidh sin, leaindeálann sibh ar an bplainéad iargúlta seo.\n\nTiteann smionagar na spásloinge anuas thart timpeall oraibh. Beidh oraibh pleanáil go cúramach don am atá le teacht má tá sé i gceist agaibh an fód a sheasamh...</GameStartDialog>
   <!-- EN: Colony -->
   <Colony>Coilíneacht</Colony>
   <!-- EN: You can only change language from the options screen on the main menu. -->

@@ -4,7 +4,7 @@
   <!-- EN: Confirm -->
   <Confirm>Dearbhaigh</Confirm>
   <!-- EN: Go back -->
-  <GoBack>Gabh siar</GoBack>
+  <GoBack>Cealaigh</GoBack>
   <!-- EN: Do you want to continue? -->
   <WantToContinue>Ar mhaith leat leanúint ar aghaidh?</WantToContinue>
   <!-- EN: OK -->
@@ -228,9 +228,9 @@
   <!-- EN: You've changed your screen settings. Do the new ones work okay?\n\nAuto-reverting in {0}... -->
   <ConfirmResolutionChange>D'athraigh tú do shocruithe scáileáin. Ar mhaith leat na socruithe seo a chonneáil?\n\nAg dul siar go huathoibríoch i gceann {0}...</ConfirmResolutionChange>
   <!-- EN: Keep -->
-  <ResolutionKeep>Coinnigh</ResolutionKeep>
+  <ResolutionKeep>Lean ar aghaidh</ResolutionKeep>
   <!-- EN: Revert -->
-  <ResolutionRevert>Gabh siar</ResolutionRevert>
+  <ResolutionRevert>Cealaigh</ResolutionRevert>
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
