@@ -338,60 +338,60 @@
   <ClanChief14.titleShort>ceannasaí</ClanChief14.titleShort>
 
   <!-- EN: Harvesting the products of clone farms is mostly done by the clones themselves - particularly to those whose sims tended towards the social. This clone was one such, who escaped from the farms and headed out to the stars. -->
-  <CloneFarmer58.description>TODO</CloneFarmer58.description>
+  <CloneFarmer58.description>Tá pláinéid iargula ann ar a mbíonn clóin in úsáid chun obair a dhéanamh agus rudaí a chionneáil ar bun. Tá an coilíneach seo ar cheann de na clóin sin.</CloneFarmer58.description>
   <!-- EN: clone farmer -->
-  <CloneFarmer58.title>TODO</CloneFarmer58.title>
+  <CloneFarmer58.title>clón</CloneFarmer58.title>
   <!-- EN: cloner -->
-  <CloneFarmer58.titleShort>TODO</CloneFarmer58.titleShort>
+  <CloneFarmer58.titleShort>clón</CloneFarmer58.titleShort>
 
   <!-- EN: Applying the knowledge that [PAWN_pronoun] gained from years around fighters, [PAWN_pronoun] became a successful gladiator in the coliseum that [PAWN_pronoun] once cleaned. -->
-  <ColiseumFighter22.description>TODO</ColiseumFighter22.description>
+  <ColiseumFighter22.description>Trodaí colasaeim mor le rá ab ea [PAWN_nameDef].</ColiseumFighter22.description>
   <!-- EN: coliseum fighter -->
-  <ColiseumFighter22.title>TODO</ColiseumFighter22.title>
+  <ColiseumFighter22.title>trodaí colasaeim</ColiseumFighter22.title>
   <!-- EN: fighter -->
-  <ColiseumFighter22.titleShort>TODO</ColiseumFighter22.titleShort>
+  <ColiseumFighter22.titleShort>trodaí</ColiseumFighter22.titleShort>
 
   <!-- EN: Disillusioned by rampant government corruption, [PAWN_nameDef] ran for governor and won. However, the local gangs and their pet officials soon forced [PAWN_objective] out of power.\n\n[PAWN_pronoun] left the community to return to [PAWN_possessive] life as a marshal. -->
-  <ColonialGovernor78.description>TODO</ColonialGovernor78.description>
+  <ColonialGovernor78.description>Bhí [PAWN_nameDef] i gceannas ar choilíneacht, ach níor thaitin an t-éilliú agus an chaimiléireacht i saol na polaitíochta le  [PAWN_nameDef], agus sheas [PAWN_pronoun] siar ón ról sa deireadh.</ColonialGovernor78.description>
   <!-- EN: colonial governor -->
-  <ColonialGovernor78.title>TODO</ColonialGovernor78.title>
+  <ColonialGovernor78.title>gobharnóir coilíneachta</ColonialGovernor78.title>
   <!-- EN: governor -->
-  <ColonialGovernor78.titleShort>TODO</ColonialGovernor78.titleShort>
+  <ColonialGovernor78.titleShort>gobharnóir</ColonialGovernor78.titleShort>
 
   <!-- EN: The children took over the facility, and they declared independence from the corporation.\n\n[PAWN_nameDef] had used the VR system to become a master engineer, and [PAWN_pronoun] worked diligently to prepare the colony for the corporation's inevitable return. -->
-  <ColonyEngineer7.description>TODO</ColonyEngineer7.description>
+  <ColonyEngineer7.description>D'oibrigh [PAWN_nameDef] mar innealltóir i gcoilíneacht mhór, ach bhí éirí amach ann i measc na sclábhaithe agus ní raibh aon rogha ag [PAWN_nameDef] ach teitheadh.</ColonyEngineer7.description>
   <!-- EN: colony engineer -->
-  <ColonyEngineer7.title>TODO</ColonyEngineer7.title>
+  <ColonyEngineer7.title>innealltóir coilíneachta</ColonyEngineer7.title>
   <!-- EN: engineer -->
-  <ColonyEngineer7.titleShort>TODO</ColonyEngineer7.titleShort>
+  <ColonyEngineer7.titleShort>innealltóir</ColonyEngineer7.titleShort>
 
   <!-- EN: [PAWN_nameDef] was recruited by the military as an engineer and set to work improving the navy's space shuttles. The harsh training taught [PAWN_objective] how to build and repair military vehicles and structures.\n\nOne mission left [PAWN_nameDef] with pyrophobia and a strong desire to avoid plants. -->
-  <CombatEngineer30.description>TODO</CombatEngineer30.description>
+  <CombatEngineer30.description>Innealltóir míleata ab ea [PAWN_nameDef], agus bhí [PAWN_pronoun] i gceannas ar spáslonga an airm a fheabhsú. Tuigeann [PAWN_pronoun] conas feithiclí míleata a dheisiú agus a chur le chéile. Chuaigh misean amháin amú, áfach, agus tá pireafóibe ar [PAWN_nameDef] mar thoradh.</CombatEngineer30.description>
   <!-- EN: combat engineer -->
-  <CombatEngineer30.title>TODO</CombatEngineer30.title>
+  <CombatEngineer30.title>innealltóir cogaidh</CombatEngineer30.title>
   <!-- EN: engineer -->
-  <CombatEngineer30.titleShort>TODO</CombatEngineer30.titleShort>
+  <CombatEngineer30.titleShort>innealltóir</CombatEngineer30.titleShort>
 
   <!-- EN: [PAWN_nameDef] became a combat engineer. [PAWN_pronoun] built bases, fixed guns, and repaired vehicles for the army - when [PAWN_pronoun] wasn't shooting at people, that is. -->
-  <CombatEngineer4.description>TODO</CombatEngineer4.description>
+  <CombatEngineer4.description>Innealltóir cogaidh ab ea [PAWN_nameDef]. Thóg [PAWN_pronoun] bunáiteanna, foirgnimh agus gunnaí don arm. Tá traenáil míleata ag [PAWN_nameDef].</CombatEngineer4.description>
   <!-- EN: combat engineer -->
-  <CombatEngineer4.title>TODO</CombatEngineer4.title>
+  <CombatEngineer4.title>innealltóir cogaidh</CombatEngineer4.title>
   <!-- EN: engineer -->
-  <CombatEngineer4.titleShort>TODO</CombatEngineer4.titleShort>
+  <CombatEngineer4.titleShort>innealltóir</CombatEngineer4.titleShort>
 
   <!-- EN: After [PAWN_possessive] home country entered a large-scale war, [PAWN_nameDef] was drafted into the army as a combat medic.\n\n[PAWN_possessive] few years in the trenches trying to keep [PAWN_possessive] fellow soldiers alive gave [PAWN_objective] an acute sense for first aid. Losing many friend has made [PAWN_objective] stoic and reserved. -->
-  <CombatMedic82.description>TODO</CombatMedic82.description>
+  <CombatMedic82.description>Thosaigh cogaidh i dtír bhaile [PAWN_nameDef], agus chuaigh [PAWN_pronoun] leis an arm mar dhochtúir. Chaith [PAWN_pronoun] na blianta sna trinsí i mbun cogaidh, agus tá scileanna céadchabhracha den chéad scoth ag [PAWN_nameDef] mar thoradh ar an taithí sin. Chaill [PAWN_nameDef] go leor cairde ar an láthair catha, mar sin tá [PAWN_pronoun] ciúin agus stóchúil.</CombatMedic82.description>
   <!-- EN: combat medic -->
-  <CombatMedic82.title>TODO</CombatMedic82.title>
+  <CombatMedic82.title>dochtúir míleata</CombatMedic82.title>
   <!-- EN: medic -->
-  <CombatMedic82.titleShort>TODO</CombatMedic82.titleShort>
+  <CombatMedic82.titleShort>dochtúir</CombatMedic82.titleShort>
 
   <!-- EN: As a military medtech, [PAWN_nameDef]'s job was to fix and build anything [PAWN_pronoun] could get [PAWN_possessive] hands on, from living people to machines and mechs.\n\nSent into dangerous areas, [PAWN_pronoun] never had a problem saving soldiers' lives and building the technology and machines needed to win. -->
-  <CombatMedtech59.description>TODO</CombatMedtech59.description>
+  <CombatMedtech59.description>Teicneoir míleata ab ea [PAWN_nameDef], agus bhí [PAWN_pronoun] in ann rud ar bith a dheisiú ar an láthair chatha - feithiclí, meicea-róbait agus daoine san áireamh.</CombatMedtech59.description>
   <!-- EN: combat medtech -->
-  <CombatMedtech59.title>TODO</CombatMedtech59.title>
+  <CombatMedtech59.title>teicneoir míleata</CombatMedtech59.title>
   <!-- EN: medic -->
-  <CombatMedtech59.titleShort>TODO</CombatMedtech59.titleShort>
+  <CombatMedtech59.titleShort>teicneoir</CombatMedtech59.titleShort>
 
   <!-- EN: After escaping [PAWN_possessive] homeworld, [PAWN_nameDef] took [PAWN_possessive] skills to the stars.\n\n[PAWN_pronoun] chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. [PAWN_possessive] specialty was negotiation in combat situations. -->
   <CombatNegotiator31.description>TODO</CombatNegotiator31.description>
@@ -2088,17 +2088,17 @@
   <WarshipCaptain67.titleShort>TODO</WarshipCaptain67.titleShort>
 
   <!-- EN: From [PAWN_possessive] computer, [PAWN_nameDef] helped rid the online world of bad people. -->
-  <WhiteHatHacker82.description>TODO</WhiteHatHacker82.description>
+  <WhiteHatHacker82.description>Haiceálaí ab ea [PAWN_nameDef]. Bhí [PAWN_pronoun] tiomanta ar an idirlíon a choinneáil slán ó dhaoine dáinséaracha.</WhiteHatHacker82.description>
   <!-- EN: white-hat hacker -->
-  <WhiteHatHacker82.title>TODO</WhiteHatHacker82.title>
+  <WhiteHatHacker82.title>haiceálaí</WhiteHatHacker82.title>
   <!-- EN: hacker -->
-  <WhiteHatHacker82.titleShort>TODO</WhiteHatHacker82.titleShort>
+  <WhiteHatHacker82.titleShort>haiceálaí</WhiteHatHacker82.titleShort>
 
   <!-- EN: Dismayed at the poachers driving several animal species to near-extinction, [PAWN_nameDef] became a wildlife ranger. [PAWN_pronoun] cared for and protect the animals - by force if necessary.\n\n[PAWN_pronoun] grew to hate people slaughtering animals for luxury and profit. -->
-  <WildlifeRanger99.description>TODO</WildlifeRanger99.description>
+  <WildlifeRanger99.description>Maor ab ea [PAWN_nameDef], agus bhí [PAWN_pronoun] freagrach as stop a chur le póitseálaithe. Ní raibh eagla ar [PAWN_nameDef] foréigean a úsáid chun na hainmhithe a chosaint. Is fua le [PAWN_nameDef] nuair a mharaítear ainmhithe, le haghaidh bia nó le haghaidh brábúis.</WildlifeRanger99.description>
   <!-- EN: wildlife ranger -->
-  <WildlifeRanger99.title>TODO</WildlifeRanger99.title>
+  <WildlifeRanger99.title>maor fiadhúlra</WildlifeRanger99.title>
   <!-- EN: ranger -->
-  <WildlifeRanger99.titleShort>TODO</WildlifeRanger99.titleShort>
+  <WildlifeRanger99.titleShort>maor</WildlifeRanger99.titleShort>
 
 </LanguageData>
