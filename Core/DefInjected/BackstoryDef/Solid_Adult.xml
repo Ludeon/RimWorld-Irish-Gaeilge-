@@ -394,60 +394,60 @@
   <CombatMedtech59.titleShort>teicneoir</CombatMedtech59.titleShort>
 
   <!-- EN: After escaping [PAWN_possessive] homeworld, [PAWN_nameDef] took [PAWN_possessive] skills to the stars.\n\n[PAWN_pronoun] chose to operate as a hired gun, working for various rebel organizations, enslaved groups, and merchant enclaves. [PAWN_possessive] specialty was negotiation in combat situations. -->
-  <CombatNegotiator31.description>TODO</CombatNegotiator31.description>
+  <CombatNegotiator31.description>D'oibrigh [PAWN_nameDef] mar idirbheartaí leis an tseirbhís phoilíneachta ar a p[PAWN_possessive]láinéad baile, agus chuaigh [PAWN_pronoun] i mbun cainte sé dronganna agus coirpigh chun an teannas a mhaolú i gcásanna dáinséaracha.</CombatNegotiator31.description>
   <!-- EN: combat negotiator -->
-  <CombatNegotiator31.title>TODO</CombatNegotiator31.title>
+  <CombatNegotiator31.title>idirbheartaí</CombatNegotiator31.title>
   <!-- EN: negotiator -->
-  <CombatNegotiator31.titleShort>TODO</CombatNegotiator31.titleShort>
+  <CombatNegotiator31.titleShort>idirbheartaí</CombatNegotiator31.titleShort>
 
   <!-- EN: After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective]. -->
-  <CommonerLord45.description>TODO</CommonerLord45.description>
+  <CommonerLord45.description>Uasal [PAWN_nameDef] ab ea ar a p[PAWN_possessive]láinéad baile. Bhí a cuid searbhóintí agus géillsineach féin ag [PAWN_nameDef], agus bhí [PAWN_pronoun] dílis don impire.</CommonerLord45.description>
   <!-- EN: commoner lord -->
-  <CommonerLord45.title>TODO</CommonerLord45.title>
+  <CommonerLord45.title>uasal</CommonerLord45.title>
   <!-- EN: lord -->
-  <CommonerLord45.titleShort>TODO</CommonerLord45.titleShort>
+  <CommonerLord45.titleShort>uasal</CommonerLord45.titleShort>
 
   <!-- EN: Bored of [PAWN_possessive] code-monkey office job and missing the glory days of the Academy, [PAWN_nameDef] saw a commercial about the frontier where "only the strong survive".\n\nWith [PAWN_possessive] wife Morgan, [PAWN_nameDef] undertook a journey into the unknown. -->
-  <ComputerEngineer10.description>TODO</ComputerEngineer10.description>
+  <ComputerEngineer10.description>D'oibrigh [PAWN_nameDef] mar innealltóir ríomhaireachta in oifig, ach d'éirigh [PAWN_pronoun] braon den chódáil agus chinn [PAWN_pronoun] dul i mbun taisceálaíochta i measc na réalt.</ComputerEngineer10.description>
   <!-- EN: computer engineer -->
-  <ComputerEngineer10.title>TODO</ComputerEngineer10.title>
+  <ComputerEngineer10.title>innealltóir ríomhaireachta</ComputerEngineer10.title>
   <!-- EN: tech head -->
-  <ComputerEngineer10.titleShort>TODO</ComputerEngineer10.titleShort>
+  <ComputerEngineer10.titleShort>innealltóir</ComputerEngineer10.titleShort>
 
   <!-- EN: Leveraging [PAWN_possessive] childhood experience, [PAWN_nameDef] became a computer engineer. [PAWN_pronoun] also learned to craft delicate sculptures and random electronics for fun.\n\n[PAWN_nameDef] became fond of technology and mostly gave up on talking to people. Using computers as friends has left [PAWN_nameDef] unable to care for others. -->
-  <ComputerEngineer36.description>TODO</ComputerEngineer36.description>
+  <ComputerEngineer36.description>Innealltóir ríomhaireachta ab ea [PAWN_nameDef]. Tá [PAWN_pronoun] in ann ríomhairí agus meaisíní a dheisiú agus a chruthú, agus bhí [PAWN_pronoun] chomh tugtha don teicneolaíocht nach raibh an t-am ag [PAWN_nameDef] chun labhairt le daoine eile. Is beag scileanna sóisialta atá ag [PAWN_nameDef].</ComputerEngineer36.description>
   <!-- EN: computer engineer -->
-  <ComputerEngineer36.title>TODO</ComputerEngineer36.title>
+  <ComputerEngineer36.title>innealltóir ríomhaireachta</ComputerEngineer36.title>
   <!-- EN: engineer -->
-  <ComputerEngineer36.titleShort>TODO</ComputerEngineer36.titleShort>
+  <ComputerEngineer36.titleShort>innealltóir</ComputerEngineer36.titleShort>
 
   <!-- EN: After [PAWN_nameDef] had completed all of [PAWN_possessive] surgeries, [PAWN_pronoun] found that [PAWN_pronoun] had a lot of time and energy to dedicate to [PAWN_possessive] passion: trinket crafting. [PAWN_pronoun] spent years perfecting [PAWN_possessive] art as a jeweler, then left [PAWN_possessive] home world to sell [PAWN_possessive] wares across the galaxy. -->
-  <CoreworldJeweler19.description>TODO</CoreworldJeweler19.description>
+  <CoreworldJeweler19.description>D'oibrigh [PAWN_nameDef] mar sheodóir ar a p[PAWN_possessive]láinéad baile, agus dhíol [PAWN_pronoun] a c[PAWN_possessive]uid earraí ar fud na cruinne.</CoreworldJeweler19.description>
   <!-- EN: coreworld jeweler -->
-  <CoreworldJeweler19.title>TODO</CoreworldJeweler19.title>
+  <CoreworldJeweler19.title>seodóir</CoreworldJeweler19.title>
   <!-- EN: jeweler -->
-  <CoreworldJeweler19.titleShort>TODO</CoreworldJeweler19.titleShort>
+  <CoreworldJeweler19.titleShort>seodóir</CoreworldJeweler19.titleShort>
 
   <!-- EN: Even as [PAWN_pronoun] stewed in [PAWN_possessive] own wasted potential, [PAWN_nameDef] found [PAWN_pronoun] had a knack for moving objects quickly. It was just what the planetary mega-corps wanted in their construction divisions.\n\nUnfortunately, the monotonous work erased [PAWN_possessive] remaining creative impulses. -->
-  <CorporateBuilder58.description>TODO</CorporateBuilder58.description>
+  <CorporateBuilder58.description>D'oibrigh [PAWN_nameDef] mar thógálaí le hollchuideachta corparáideach. Is beag taithí atá ag [PAWN_nameDef] le hobair chruthaitheach, áfach.</CorporateBuilder58.description>
   <!-- EN: corporate builder -->
-  <CorporateBuilder58.title>TODO</CorporateBuilder58.title>
+  <CorporateBuilder58.title>tógálaí corparáideach</CorporateBuilder58.title>
   <!-- EN: builder -->
-  <CorporateBuilder58.titleShort>TODO</CorporateBuilder58.titleShort>
+  <CorporateBuilder58.titleShort>tógálaí</CorporateBuilder58.titleShort>
 
   <!-- EN: [PAWN_nameDef] was sold to a corporation and put to work as a corporate slave doing scientific research.\n\nUnable to adapt to the social politics of [PAWN_possessive] workplace, [PAWN_pronoun] buried [PAWN_objective]self in [PAWN_possessive] work and failed to progress up the corporate ladder. Every day, [PAWN_pronoun] yearned to be left alone. -->
-  <CorpResearcher71.description>TODO</CorpResearcher71.description>
+  <CorpResearcher71.description>Cuireadh [PAWN_nameDef] i mbun oibre mar thaighdeoir mar sclábhaí corparáideach. Níor éirigh le [PAWN_nameDef] aon dul chun cinn a dhéanamh ar an dréimire corparáideach, agus chaith [PAWN_pronoun] a c[PAWN_possessive]uid ama i mbun taighde ar thopaicí neamhshuimiúla.</CorpResearcher71.description>
   <!-- EN: corp researcher -->
-  <CorpResearcher71.title>TODO</CorpResearcher71.title>
+  <CorpResearcher71.title>taighdeoir corparáideach</CorpResearcher71.title>
   <!-- EN: researcher -->
-  <CorpResearcher71.titleShort>TODO</CorpResearcher71.titleShort>
+  <CorpResearcher71.titleShort>taighdeoir</CorpResearcher71.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a leading researcher for a massive space exploration corporation. -->
-  <CorpResearcher93.description>TODO</CorpResearcher93.description>
+  <CorpResearcher93.description>Taighdeoir mór le rá ab ea [PAWN_nameDef] i gcomhlacht taisceálaíochta spáis.</CorpResearcher93.description>
   <!-- EN: corp researcher -->
-  <CorpResearcher93.title>TODO</CorpResearcher93.title>
+  <CorpResearcher93.title>taighdeoir corparáideach</CorpResearcher93.title>
   <!-- EN: researcher -->
-  <CorpResearcher93.titleShort>TODO</CorpResearcher93.titleShort>
+  <CorpResearcher93.titleShort>taighdeoir</CorpResearcher93.titleShort>
 
   <!-- EN: Living on the streets, [PAWN_nameDef] submitted [PAWN_objective]self to an unethical cosmetics lab in exchange for food and shelter.\n\nAfter some painful cosmetic modification, [PAWN_nameDef] barely resembles [PAWN_possessive] former self. Having been forced to work for the lab until [PAWN_pronoun] was rescued, [PAWN_nameDef] is now too afraid to lash out at anyone. -->
   <CosmeticReject64.description>TODO</CosmeticReject64.description>
