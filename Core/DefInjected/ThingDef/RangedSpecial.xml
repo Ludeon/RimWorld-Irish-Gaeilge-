@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.label>TODO</OrbitalTargeterBombardment.label>
+  <OrbitalTargeterBombardment.label>cruinnaimsitheoir: bombardú fithiseach</OrbitalTargeterBombardment.label>
   <!-- EN: An ancient targeting apparatus for an orbital bombardment system. This unit designates a target and transmits the coordinates to a network of satellites, which then bombard the target area with kinetic impactors. This unit has been reprogrammed to accept unauthorized users, but once it is used, the network will detect the incursion and cut off the link permanently. -->
-  <OrbitalTargeterBombardment.description>TODO</OrbitalTargeterBombardment.description>
+  <OrbitalTargeterBombardment.description>Is cuid de chóras bombardaithe fhithisigh é an gléas ársa seo. Tá an t-aonad seo ceangailte le líonra satailití, a dhéanann bombardú ar shuíomh roghnaithe le buamaí cinéiteacha. Ní féidir an t-aonad seo a úsáid ach uair amháin.</OrbitalTargeterBombardment.description>
   <!-- EN: charge -->
-  <OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>TODO</OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>
+  <OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>luchtaigh</OrbitalTargeterBombardment.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>TODO</OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>
+  <OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>ar feitheamh</OrbitalTargeterBombardment.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: orbital bombardment targeter -->
-  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>TODO</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
+  <OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>cruinnaimsitheoir: bombardú fithiseach</OrbitalTargeterBombardment.verbs.Verb_Bombardment.label>
   
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.label>TODO</OrbitalTargeterPowerBeam.label>
+  <OrbitalTargeterPowerBeam.label>cruinnaimsitheoir: léasar fithiseach</OrbitalTargeterPowerBeam.label>
   <!-- EN: An ancient targeting unit for a network of power-collection satellites. Once aimed at a target, it directs ancient satellites to begin beaming power down in a massive column of electromagnetic energy. This power can safely be collected in a giant absorption dish. Since you have no absorption dish, you'll be aiming it at enemies, at which point the power column will turn the area into a thousand-degree inferno. This will last until the satellites detect the unsafe targeting, shut themselves down, and permanently deactivate the targeter. -->
-  <OrbitalTargeterPowerBeam.description>TODO</OrbitalTargeterPowerBeam.description>
+  <OrbitalTargeterPowerBeam.description>Tá an t-aonad seo ceangailte le líonra satailití, a dhéanann cumhacht a dhíriú ar shuíomh roghnaithe le léasair. Is féidir an cumhacht sin a bhailiú go sábháilte ag baint úsáid as aeróg bailithe. Ós rud é nach bhfuil aeróg agat, beidh an cumhacht dírithe ar do naimhde, agus marófar iad le léasair ollmhóra. Ní féidir an t-aonad seo a úsáid ach uair amháin.</OrbitalTargeterPowerBeam.description>
   <!-- EN: charge -->
-  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>TODO</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>
+  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>luchtaigh</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>TODO</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>
+  <OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>ar feitheamh</OrbitalTargeterPowerBeam.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: orbital power beam targeter -->
-  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>TODO</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
+  <OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>cruinnaimsitheoir: léasar fithiseach</OrbitalTargeterPowerBeam.verbs.Verb_PowerBeam.label>
   
   <!-- EN: tornado generator -->
-  <TornadoGenerator.label>TODO</TornadoGenerator.label>
+  <TornadoGenerator.label>gineadóir tornádó</TornadoGenerator.label>
   <!-- EN: An ancient control unit for a network of weather-control satellites. This device has had certain failsafes bypassed; it is capable of causing a massive air current disturbance, which will generate a tornado at a chosen location. The weather network will detect this unauthorized intrusion and lock out the device after use, but the tornado will be left to spend its energy normally. -->
-  <TornadoGenerator.description>TODO</TornadoGenerator.description>
+  <TornadoGenerator.description>Tá an gléas ársa seo ceangailte le satailítí aimsire. Is féidir an t-aonad seo a úsáid chun tornádó a chruthú. Ní féidir an gléas seo a úsáid ach uair amháin.</TornadoGenerator.description>
   <!-- EN: charge -->
-  <TornadoGenerator.comps.CompApparelReloadable.chargeNoun>TODO</TornadoGenerator.comps.CompApparelReloadable.chargeNoun>
+  <TornadoGenerator.comps.CompApparelReloadable.chargeNoun>luchtaigh</TornadoGenerator.comps.CompApparelReloadable.chargeNoun>
   <!-- EN: on cooldown -->
-  <TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>TODO</TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>
+  <TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>ar feitheamh</TornadoGenerator.comps.CompApparelReloadable.cooldownGerund>
   <!-- EN: tornado generator -->
-  <TornadoGenerator.verbs.Verb_Spawn.label>TODO</TornadoGenerator.verbs.Verb_Spawn.label>
+  <TornadoGenerator.verbs.Verb_Spawn.label>gineadóir tornádó</TornadoGenerator.verbs.Verb_Spawn.label>
   
 </LanguageData>

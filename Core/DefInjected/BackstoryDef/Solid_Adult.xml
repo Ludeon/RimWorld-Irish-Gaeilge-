@@ -450,39 +450,39 @@
   <CorpResearcher93.titleShort>taighdeoir</CorpResearcher93.titleShort>
 
   <!-- EN: Living on the streets, [PAWN_nameDef] submitted [PAWN_objective]self to an unethical cosmetics lab in exchange for food and shelter.\n\nAfter some painful cosmetic modification, [PAWN_nameDef] barely resembles [PAWN_possessive] former self. Having been forced to work for the lab until [PAWN_pronoun] was rescued, [PAWN_nameDef] is now too afraid to lash out at anyone. -->
-  <CosmeticReject64.description>TODO</CosmeticReject64.description>
+  <CosmeticReject64.description>D'oibrigh [PAWN_pronoun] i saotharlann, agus rinneadh turgnaimh agus tástálacha ar [PAWN_nameDef] i gcomhair airgid. Bhí na tástálacha sin go hainnis.</CosmeticReject64.description>
   <!-- EN: cosmetic reject -->
-  <CosmeticReject64.title>TODO</CosmeticReject64.title>
+  <CosmeticReject64.title>díbeartach cosmaideach</CosmeticReject64.title>
   <!-- EN: reject -->
-  <CosmeticReject64.titleShort>TODO</CosmeticReject64.titleShort>
+  <CosmeticReject64.titleShort>díbeartach</CosmeticReject64.titleShort>
 
   <!-- EN: [PAWN_nameDef] had a terrible bedside manner due to [PAWN_possessive] abrasiveness. [PAWN_pronoun] often bullied [PAWN_possessive] patients into getting cosmetic surgery. [PAWN_pronoun] made a lot of money this way.\n\nWhile very studious and careful in [PAWN_possessive] work, [PAWN_pronoun] never had to lift a finger doing domestic chores. -->
-  <CosmeticSurgeon36.description>TODO</CosmeticSurgeon36.description>
+  <CosmeticSurgeon36.description>Ní raibh bealach maith ag [PAWN_nameDef] le hothair, agus bhí [PAWN_pronoun] an-drochbheasach. Rinne [PAWN_pronoun] go leor airgid ag déanamh obraidí cosmaideacha ar dhaoine, ach ní dhearna [PAWN_nameDef] aon obair chrua riamh.</CosmeticSurgeon36.description>
   <!-- EN: cosmetic surgeon -->
-  <CosmeticSurgeon36.title>TODO</CosmeticSurgeon36.title>
+  <CosmeticSurgeon36.title>máinlia cosmaideach</CosmeticSurgeon36.title>
   <!-- EN: surgeon -->
-  <CosmeticSurgeon36.titleShort>TODO</CosmeticSurgeon36.titleShort>
+  <CosmeticSurgeon36.titleShort>máinlia</CosmeticSurgeon36.titleShort>
 
   <!-- EN: By day, [PAWN_nameDef] was an office worker on a midworld. At night, [PAWN_pronoun] designed and built elaborate monster costumes for science fiction conventions.\n\n[PAWN_pronoun] learned a great deal about sewing. Unfortunately this came at the cost of being able to cook anything more complex than an instant meal. -->
-  <CostumeCrafter41.description>TODO</CostumeCrafter41.description>
+  <CostumeCrafter41.description>Táilliúir ab ea [PAWN_nameDef] ar phláinéad ciúin. Tá go leor eolas ag [PAWN_nameDef] maidir le cúrsaí táilliúireachta, ach níl [PAWN_pronoun] in ann mórán eile a dhéanamh.</CostumeCrafter41.description>
   <!-- EN: costume crafter -->
-  <CostumeCrafter41.title>TODO</CostumeCrafter41.title>
+  <CostumeCrafter41.title>táilliúir</CostumeCrafter41.title>
   <!-- EN: costumer -->
-  <CostumeCrafter41.titleShort>TODO</CostumeCrafter41.titleShort>
+  <CostumeCrafter41.titleShort>táilliúir</CostumeCrafter41.titleShort>
 
   <!-- EN: [PAWN_nameDef] locked [PAWN_objective]self in [PAWN_possessive] studio for years, ordering delivery food to save time on cooking.\n\nEventually, [PAWN_possessive] creations brought [PAWN_objective] the highest honor on Semantic World: Permission to materialize any design in minutes using the most advanced technologies. -->
-  <CraftShaper37.description>TODO</CraftShaper37.description>
+  <CraftShaper37.description>D'oibrigh i stúideo, ag cruthú meaisíní agus pleananna éagsúla le haghaidh cliaint.</CraftShaper37.description>
   <!-- EN: craft shaper -->
-  <CraftShaper37.title>TODO</CraftShaper37.title>
+  <CraftShaper37.title>cruthaitheoir</CraftShaper37.title>
   <!-- EN: shaper -->
-  <CraftShaper37.titleShort>TODO</CraftShaper37.titleShort>
+  <CraftShaper37.titleShort>cruthaitheoir</CraftShaper37.titleShort>
 
   <!-- EN: Through brutality and cruelty, [PAWN_nameDef] rose to become a crime lord.\n\n[PAWN_pronoun] relied less on [PAWN_possessive] fists and more on [PAWN_possessive] guns. [PAWN_possessive] reputation spread quickly due to [PAWN_possessive] cold-bloodedness and ruthless methods. -->
-  <CrimeLord10.description>TODO</CrimeLord10.description>
+  <CrimeLord10.description>Ceann feadhna cruálach agus brúidiúil ab ea [PAWN_nameDef]. D'oibrigh [PAWN_pronoun] go foréigneach, agus bhí clú ar [PAWN_nameDef] mar choirpeach neamhthrócaireach i ndomhan na coireachta.</CrimeLord10.description>
   <!-- EN: crime lord -->
-  <CrimeLord10.title>TODO</CrimeLord10.title>
+  <CrimeLord10.title>ceann feadhna</CrimeLord10.title>
   <!-- EN: crime lord -->
-  <CrimeLord10.titleShort>TODO</CrimeLord10.titleShort>
+  <CrimeLord10.titleShort>ceann feadhna</CrimeLord10.titleShort>
 
   <!-- EN: [PAWN_nameDef] discovered [PAWN_possessive] gift - people did what [PAWN_pronoun] said, when [PAWN_pronoun] said it. Taking advantage of this, [PAWN_pronoun] set off for the rimworlds to make a name for [PAWN_objective]self in the criminal underworld.\n\nHaving people do things for [PAWN_objective] taught [PAWN_objective] to avoid manual labor at all costs. -->
   <CriminalKingpin36.description>TODO</CriminalKingpin36.description>

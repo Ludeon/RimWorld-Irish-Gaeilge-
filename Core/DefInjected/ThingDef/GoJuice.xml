@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: go-juice -->
-  <GoJuice.label>TODO</GoJuice.label>
+  <GoJuice.label>sú fuinnimh</GoJuice.label>
   <!-- EN: A synthetic performance-enhancing drug developed for space marines during the early days of interplanetary warfare. Go-juice blocks pain, increases movement speed, and improves the user's melee and shooting abilities. For psycasters, the drug also instantly increases psyfocus without meditation.\n\nThe military chemists who created it were never able to remove its addictiveness. Some saw this as a downside; others saw it as a benefit. -->
-  <GoJuice.description>TODO</GoJuice.description>
+  <GoJuice.description>Druga sintéiseach a chuireann leis an bhfeidhmiú. Cuireann sú fuinnimh cosc ar an bpian, ardaíonn sé an luas gluaiseachta agus cuireann sé le scileanna comhraic. Cuireann sé le cumhachtaí síceacha freisin.\n\nTá an druga seo an-andúile, áfach.</GoJuice.description>
   <!-- EN: Inject {0} -->
-  <GoJuice.ingestible.ingestCommandString>TODO</GoJuice.ingestible.ingestCommandString>
+  <GoJuice.ingestible.ingestCommandString>Insteall {0}</GoJuice.ingestible.ingestCommandString>
   <!-- EN: Injecting {0}. -->
-  <GoJuice.ingestible.ingestReportString>TODO</GoJuice.ingestible.ingestReportString>
+  <GoJuice.ingestible.ingestReportString>Ag instealladh: {0}.</GoJuice.ingestible.ingestReportString>
   
 </LanguageData>
