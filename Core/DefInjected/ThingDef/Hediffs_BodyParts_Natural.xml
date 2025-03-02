@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: heart -->
-  <Heart.label>TODO</Heart.label>
+  <Heart.label>croí</Heart.label>
   <!-- EN: A biological human heart. Pumps blood around the body. -->
-  <Heart.description>TODO</Heart.description>
+  <Heart.description>Pumpálann an croí fuil timpeall an choirp.</Heart.description>
   
   <!-- EN: kidney -->
-  <Kidney.label>TODO</Kidney.label>
+  <Kidney.label>duán</Kidney.label>
   <!-- EN: A biological human kidney. Filters and removes waste products from the blood. -->
-  <Kidney.description>TODO</Kidney.description>
+  <Kidney.description>Baineann na duáin tocsainí agus fuíolltáirgí ón gcorp.</Kidney.description>
   
   <!-- EN: liver -->
-  <Liver.label>TODO</Liver.label>
+  <Liver.label>ae</Liver.label>
   <!-- EN: A biological human liver. Plays an important role in metabolism. -->
-  <Liver.description>TODO</Liver.description>
+  <Liver.description>Tá ról tábhachtach ag an ae i bpróisis meitibileacha.</Liver.description>
   
   <!-- EN: lung -->
-  <Lung.label>TODO</Lung.label>
+  <Lung.label>scamhóg</Lung.label>
   <!-- EN: A biological human lung. A pair of these form the core of the human respiratory system. -->
-  <Lung.description>TODO</Lung.description>
+  <Lung.description>Tá an córas riospráide déanta suas de na scamhóga.</Lung.description>
   
 </LanguageData>

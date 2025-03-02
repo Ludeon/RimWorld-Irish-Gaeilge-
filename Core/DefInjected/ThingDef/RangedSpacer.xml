@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: charge lance shot -->
-  <Bullet_ChargeLance.label>TODO</Bullet_ChargeLance.label>
+  <Bullet_ChargeLance.label>urchar (lansa pléascach)</Bullet_ChargeLance.label>
   
   <!-- EN: charge shot -->
-  <Bullet_ChargeRifle.label>TODO</Bullet_ChargeRifle.label>
+  <Bullet_ChargeRifle.label>urchar (raidhfil pléascach)</Bullet_ChargeRifle.label>
   
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.label>TODO</Gun_ChargeLance.label>
+  <Gun_ChargeLance.label>lansa pléascach</Gun_ChargeLance.label>
   <!-- EN: A pulse-charged rail-assisted lance weapon. It fires a single shot at high velocity, charging it with unstable energy as it leaves the acceleration rail. -->
-  <Gun_ChargeLance.description>TODO</Gun_ChargeLance.description>
+  <Gun_ChargeLance.description>Tá an lansa seo luchtaithe le cumhacht pléascach. Scaoileann sé urchar aonair ar ardluas.</Gun_ChargeLance.description>
   <!-- EN: barrel -->
-  <Gun_ChargeLance.tools.barrel.label>TODO</Gun_ChargeLance.tools.barrel.label>
+  <Gun_ChargeLance.tools.barrel.label>bairille</Gun_ChargeLance.tools.barrel.label>
   <!-- EN: charge lance -->
-  <Gun_ChargeLance.verbs.Verb_Shoot.label>TODO</Gun_ChargeLance.verbs.Verb_Shoot.label>
+  <Gun_ChargeLance.verbs.Verb_Shoot.label>lansa pléascach</Gun_ChargeLance.verbs.Verb_Shoot.label>
   
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle.label>TODO</Gun_ChargeRifle.label>
+  <Gun_ChargeRifle.label>raidhfil pléascach</Gun_ChargeRifle.label>
   <!-- EN: A charged-shot assault rifle. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
-  <Gun_ChargeRifle.description>TODO</Gun_ChargeRifle.description>
+  <Gun_ChargeRifle.description>Tá an raidhfil seo luchtaithe le cumhacht pléascach. Bíonn gach urchar a scaoileann sé cumhachtaithe le fuinneamh pléascach, rud a chuireann go mór leis an damáiste a dhéanann an t-arm seo.</Gun_ChargeRifle.description>
   <!-- EN: stock -->
-  <Gun_ChargeRifle.tools.stock.label>TODO</Gun_ChargeRifle.tools.stock.label>
+  <Gun_ChargeRifle.tools.stock.label>stoc</Gun_ChargeRifle.tools.stock.label>
   <!-- EN: barrel -->
-  <Gun_ChargeRifle.tools.barrel.label>TODO</Gun_ChargeRifle.tools.barrel.label>
+  <Gun_ChargeRifle.tools.barrel.label>bairille</Gun_ChargeRifle.tools.barrel.label>
   <!-- EN: charge rifle -->
-  <Gun_ChargeRifle.verbs.Verb_Shoot.label>TODO</Gun_ChargeRifle.verbs.Verb_Shoot.label>
+  <Gun_ChargeRifle.verbs.Verb_Shoot.label>raidhfil pléascach</Gun_ChargeRifle.verbs.Verb_Shoot.label>
   
 </LanguageData>
