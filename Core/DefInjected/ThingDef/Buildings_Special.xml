@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: infinite chemreactor -->
-  <InfiniteChemreactor.label>TODO</InfiniteChemreactor.label>
+  <InfiniteChemreactor.label>Imibreoir ceimiceach infinideach</InfiniteChemreactor.label>
   <!-- EN: Slowly generates chemfuel by a complex series of chemical reactions, using atoms extracted from the air. -->
-  <InfiniteChemreactor.description>TODO</InfiniteChemreactor.description>
+  <InfiniteChemreactor.description>Úsáideann an gaireas seo adaimh a bhaintear ón aer chun ceimi-peitreal a ghiniúint go mall.</InfiniteChemreactor.description>
   
   <!-- EN: psychic emanator -->
-  <PsychicEmanator.label>TODO</PsychicEmanator.label>
+  <PsychicEmanator.label>gineadóir síceach</PsychicEmanator.label>
   <!-- EN: An ancient device that projects a soothing psychic field around itself. This improves the mood of anyone nearby. Works through walls. -->
-  <PsychicEmanator.description>TODO</PsychicEmanator.description>
+  <PsychicEmanator.description>Gléas ársa a chruthaíonn réimse síceach. Cuireann an réimse síceach dea-ghiúmar ar dhuine ar bith atá in aice láimhe.</PsychicEmanator.description>
   
   <!-- EN: vanometric power cell -->
-  <VanometricPowerCell.label>TODO</VanometricPowerCell.label>
+  <VanometricPowerCell.label>Ceallra vanaiméadreach</VanometricPowerCell.label>
   <!-- EN: Generates free energy, forever, without using fuel. This technology is developed by archotechs, and is beyond even most glitterworld societies. While nobody knows exactly how it works, scholars believe it somehow extracts energy directly from fluctuations in the quantum foam. -->
-  <VanometricPowerCell.description>TODO</VanometricPowerCell.description>
+  <VanometricPowerCell.description>Cruthaíonn an ceallra seo fuinneamh saor in aisce. Ní fios ag duine ar bith cén chaoi a bhfeidhmíonn an gléas seo, ach creidtear go n-úsáideann sé arcai-teicneolaíochta chun fuinneamh a tharraingt ón diminsean candamach.</VanometricPowerCell.description>
   
 </LanguageData>

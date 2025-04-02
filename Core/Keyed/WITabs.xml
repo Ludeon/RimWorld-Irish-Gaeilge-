@@ -35,7 +35,7 @@
   <!-- EN: Abandoned items vanish and can never be recovered. -->
   <AbandonItemTipExtraText>Ní bheidh tú in ann aon earraí a chaitear amach a fháil ar ais.</AbandonItemTipExtraText>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <BanishTipWillDie>Tá an cuma ar an scéal go bhfuil {1_labelShort} dul bás a fháil.</BanishTipWillDie>
+  <BanishTipWillDie>Tá an cuma ar an scéal go gheobhaidh {1_labelShort} bás.</BanishTipWillDie>
   
   <!-- Caravan inspect -->
   <!-- EN: Colonists -->

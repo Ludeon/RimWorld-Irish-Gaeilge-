@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: gladius -->
-  <MeleeWeapon_Gladius.label>TODO</MeleeWeapon_Gladius.label>
+  <MeleeWeapon_Gladius.label>claíomh gearr</MeleeWeapon_Gladius.label>
   <!-- EN: A short sword of ancient design. Good for stabbing or slashing. It's light and nimble, which sometimes lets it beat bigger, heavier weapons. -->
-  <MeleeWeapon_Gladius.description>TODO</MeleeWeapon_Gladius.description>
+  <MeleeWeapon_Gladius.description>Claíomh gearr, éadrom. Is féidir é a luascadh go tapa.</MeleeWeapon_Gladius.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Gladius.tools.handle.label>TODO</MeleeWeapon_Gladius.tools.handle.label>
+  <MeleeWeapon_Gladius.tools.handle.label>lámh</MeleeWeapon_Gladius.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_Gladius.tools.point.label>TODO</MeleeWeapon_Gladius.tools.point.label>
+  <MeleeWeapon_Gladius.tools.point.label>pointe</MeleeWeapon_Gladius.tools.point.label>
   <!-- EN: edge -->
-  <MeleeWeapon_Gladius.tools.edge.label>TODO</MeleeWeapon_Gladius.tools.edge.label>
+  <MeleeWeapon_Gladius.tools.edge.label>lann</MeleeWeapon_Gladius.tools.edge.label>
   
   <!-- EN: longsword -->
-  <MeleeWeapon_LongSword.label>TODO</MeleeWeapon_LongSword.label>
+  <MeleeWeapon_LongSword.label>claíomh fada</MeleeWeapon_LongSword.label>
   <!-- EN: The ancient weapon of kings, the longsword can be used for slashing or stabbing. -->
-  <MeleeWeapon_LongSword.description>TODO</MeleeWeapon_LongSword.description>
+  <MeleeWeapon_LongSword.description>Seanarm ríoga, tá an claíomh fada trom agus cumhachtach.</MeleeWeapon_LongSword.description>
   <!-- EN: handle -->
-  <MeleeWeapon_LongSword.tools.handle.label>TODO</MeleeWeapon_LongSword.tools.handle.label>
+  <MeleeWeapon_LongSword.tools.handle.label>lámh</MeleeWeapon_LongSword.tools.handle.label>
   <!-- EN: point -->
-  <MeleeWeapon_LongSword.tools.point.label>TODO</MeleeWeapon_LongSword.tools.point.label>
+  <MeleeWeapon_LongSword.tools.point.label>pointe</MeleeWeapon_LongSword.tools.point.label>
   <!-- EN: edge -->
-  <MeleeWeapon_LongSword.tools.edge.label>TODO</MeleeWeapon_LongSword.tools.edge.label>
+  <MeleeWeapon_LongSword.tools.edge.label>lann</MeleeWeapon_LongSword.tools.edge.label>
   
   <!-- EN: mace -->
-  <MeleeWeapon_Mace.label>TODO</MeleeWeapon_Mace.label>
+  <MeleeWeapon_Mace.label>más</MeleeWeapon_Mace.label>
   <!-- EN: A refined club, engineered for efficient swinging and deadly impacts. -->
-  <MeleeWeapon_Mace.description>TODO</MeleeWeapon_Mace.description>
+  <MeleeWeapon_Mace.description>Tá an t-arm seo éifeachtach agus trom.</MeleeWeapon_Mace.description>
   <!-- EN: handle -->
-  <MeleeWeapon_Mace.tools.handle.label>TODO</MeleeWeapon_Mace.tools.handle.label>
+  <MeleeWeapon_Mace.tools.handle.label>lámh</MeleeWeapon_Mace.tools.handle.label>
   <!-- EN: head -->
-  <MeleeWeapon_Mace.tools.head.label>TODO</MeleeWeapon_Mace.tools.head.label>
+  <MeleeWeapon_Mace.tools.head.label>barr</MeleeWeapon_Mace.tools.head.label>
   
 </LanguageData>

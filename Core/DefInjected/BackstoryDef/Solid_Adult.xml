@@ -487,44 +487,44 @@
   <!-- EN: [PAWN_nameDef] discovered [PAWN_possessive] gift - people did what [PAWN_pronoun] said, when [PAWN_pronoun] said it. Taking advantage of this, [PAWN_pronoun] set off for the rimworlds to make a name for [PAWN_objective]self in the criminal underworld.\n\nHaving people do things for [PAWN_objective] taught [PAWN_objective] to avoid manual labor at all costs. -->
   <CriminalKingpin36.description>TODO</CriminalKingpin36.description>
   <!-- EN: criminal kingpin -->
-  <CriminalKingpin36.title>TODO</CriminalKingpin36.title>
+  <CriminalKingpin36.title>barún drugaí</CriminalKingpin36.title>
   <!-- EN: kingpin -->
-  <CriminalKingpin36.titleShort>TODO</CriminalKingpin36.titleShort>
+  <CriminalKingpin36.titleShort>barún</CriminalKingpin36.titleShort>
 
   <!-- EN: Being near many injured fellow criminals, [PAWN_nameDef] took it upon [PAWN_objective]self to work on them. Although many people died, [PAWN_pronoun] did get better at using knives. -->
-  <CriminalSurgeon99.description>TODO</CriminalSurgeon99.description>
+  <CriminalSurgeon99.description>D'oibrigh [PAWN_nameDef] mar mháinlia i ndrong coirpeach. Cailleadh go leor daoine, ach scileanna maithe leighis ag [PAWN_nameDef]. </CriminalSurgeon99.description>
   <!-- EN: criminal surgeon -->
-  <CriminalSurgeon99.title>TODO</CriminalSurgeon99.title>
+  <CriminalSurgeon99.title>máinlia coiriúil</CriminalSurgeon99.title>
   <!-- EN: surgeon -->
-  <CriminalSurgeon99.titleShort>TODO</CriminalSurgeon99.titleShort>
+  <CriminalSurgeon99.titleShort>máinlia</CriminalSurgeon99.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a deep space surveyor. [PAWN_pronoun] studied which worlds were the most suitable for colonization.\n\n[PAWN_possessive] expeditions were met by hostile natives, green-painted space-women, and wannabe Greek gods. Surviving many firefights, [PAWN_pronoun] learned to build rudimentary lathes and rock cannons to fend off enemies. -->
-  <DeepSpaceSurveyor1.description>TODO</DeepSpaceSurveyor1.description>
+  <DeepSpaceSurveyor1.description>Suirbheir cianspáis ab ea [PAWN_nameDef]. Rinne [PAWN_pronoun] staidéar ar phláinéid úra chun suíomhanna do choilíneachtaí nua a aimsiú. Chaith [PAWN_nameDef] go leor ama amuigh sa spás, mar sin d'fhorbair [PAWN_pronoun] scileanna maithe marthanachta.</DeepSpaceSurveyor1.description>
   <!-- EN: deep space surveyor -->
-  <DeepSpaceSurveyor1.title>TODO</DeepSpaceSurveyor1.title>
+  <DeepSpaceSurveyor1.title>suirbhéir cianspáis</DeepSpaceSurveyor1.title>
   <!-- EN: surveyor -->
-  <DeepSpaceSurveyor1.titleShort>TODO</DeepSpaceSurveyor1.titleShort>
+  <DeepSpaceSurveyor1.titleShort>suirbhéir</DeepSpaceSurveyor1.titleShort>
 
   <!-- EN: [PAWN_nameDef] decided to leave the oppressive dictatorship where [PAWN_pronoun] lived. [PAWN_possessive] defection was not well-received, and agents were sent after [PAWN_objective].\n\n[PAWN_pronoun] spent years on the run. Since [PAWN_pronoun] could trust no doctor, [PAWN_pronoun] treated [PAWN_possessive] own wounds. The ordeal made [PAWN_objective] bitter and untrusting. -->
-  <Defector95.description>TODO</Defector95.description>
+  <Defector95.description>Chinn [PAWN_nameDef] éalú ón deachtóirecht ina raibh [PAWN_pronoun] ina c[PAWN_possessive]ónaí. Chaith [PAWN_pronoun] na blianta ar a t[PAWN_possessive]eitheadh ó na póilíní rúnda, agus tá deacrachtaí ag [PAWN_nameDef] muinín a chur i ndaoine eile mar thoradh.</Defector95.description>
   <!-- EN: defector -->
-  <Defector95.title>TODO</Defector95.title>
+  <Defector95.title>tréigtheoir</Defector95.title>
   <!-- EN: defector -->
-  <Defector95.titleShort>TODO</Defector95.titleShort>
+  <Defector95.titleShort>tréigtheoir</Defector95.titleShort>
 
   <!-- EN: [PAWN_nameDef] found that [PAWN_pronoun] could make more money with a quick word than a blaster. Seeking a job where [PAWN_possessive] silver tongue could be useful, [PAWN_pronoun] turned to the law.\n\n[PAWN_pronoun] often defended the illegal speeder racers [PAWN_pronoun] grew up with. -->
-  <DefenseLawyer71.description>TODO</DefenseLawyer71.description>
+  <DefenseLawyer71.description>D'oibrigh [PAWN_nameDef] mar dhlíodóir ar phlainéad ar a raibh go leor dronganna. Tá scileanna idirbheartaíochta den chéad scoth ag [PAWN_nameDef] mar gheall ar an taithí sin.</DefenseLawyer71.description>
   <!-- EN: defense lawyer -->
-  <DefenseLawyer71.title>TODO</DefenseLawyer71.title>
+  <DefenseLawyer71.title>dlíodóir</DefenseLawyer71.title>
   <!-- EN: lawyer -->
-  <DefenseLawyer71.titleShort>TODO</DefenseLawyer71.titleShort>
+  <DefenseLawyer71.titleShort>dlíodóir</DefenseLawyer71.titleShort>
 
   <!-- EN: [PAWN_nameDef] held the rank of Destroyer-General in a powerful midworld military.\n\n[PAWN_pronoun] was known for [PAWN_possessive] mastery of weapons, and was also a good ship pilot. -->
-  <DestroyerGeneral26.description>TODO</DestroyerGeneral26.description>
+  <DestroyerGeneral26.description>Ginearál de chuid an airm ar phláinéad mhíleata ab ea [PAWN_nameDef]. Tá taithí iontach ag [PAWN_nameDef] le hairm, agus bhí [PAWN_pronoun] ina p[PAWN_possessive]íolóta maith freisin.</DestroyerGeneral26.description>
   <!-- EN: destroyer-general -->
-  <DestroyerGeneral26.title>TODO</DestroyerGeneral26.title>
+  <DestroyerGeneral26.title>ginearál</DestroyerGeneral26.title>
   <!-- EN: general -->
-  <DestroyerGeneral26.titleShort>TODO</DestroyerGeneral26.titleShort>
+  <DestroyerGeneral26.titleShort>ginearál</DestroyerGeneral26.titleShort>
 
   <!-- EN: [PAWN_nameDef] prostituted [PAWN_objective]self to fund [PAWN_possessive] drug habits. As an escape, [PAWN_pronoun] joined the military and learned to fight.\n\nToo smart for the army, [PAWN_pronoun] questioned and often disagreed with [PAWN_possessive] superiors' decisions. This eventually led to [PAWN_possessive] dishonorable discharge and left [PAWN_objective] with a chip on [PAWN_possessive] shoulder. -->
   <DischargedSoldier53.description>TODO</DischargedSoldier53.description>

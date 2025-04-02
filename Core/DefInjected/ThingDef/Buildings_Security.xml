@@ -12,38 +12,38 @@
   <Sandbags.description>Níl cuma ródheas ar mhálaí gainimh, ach tugann siad cosaint mhaith i gcomparáid le struchtúir eile.</Sandbags.description>
   
   <!-- EN: IED antigrain warhead trap -->
-  <TrapIED_AntigrainWarhead.label>TODO</TrapIED_AntigrainWarhead.label>
+  <TrapIED_AntigrainWarhead.label>mianach frithdhamhna</TrapIED_AntigrainWarhead.label>
   <!-- EN: An antimatter-powered antigrain warhead connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_AntigrainWarhead.description>TODO</TrapIED_AntigrainWarhead.description>
+  <TrapIED_AntigrainWarhead.description>Mianach atá ceangailte le buama frithdhamhna. Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapIED_AntigrainWarhead.description>
   
   <!-- EN: IED EMP trap -->
-  <TrapIED_EMP.label>TODO</TrapIED_EMP.label>
+  <TrapIED_EMP.label>mianach leictreamaighnéadach</TrapIED_EMP.label>
   <!-- EN: A pair of EMP shells connected to a trigger which detonates on touch or bullet impact. The explosion can paralyze mechanoids for a few seconds. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_EMP.description>TODO</TrapIED_EMP.description>
+  <TrapIED_EMP.description>Mianach atá ceangailte le buama leictreamaighnéadach. Cuirfidh an phléasc parailis ar mheicea-róbait ar feadh tamaill. Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapIED_EMP.description>
   
   <!-- EN: IED firefoam trap -->
-  <TrapIED_Firefoam.label>TODO</TrapIED_Firefoam.label>
+  <TrapIED_Firefoam.label>mianach múchta tine</TrapIED_Firefoam.label>
   <!-- EN: A pair of firefoam shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Firefoam.description>TODO</TrapIED_Firefoam.description>
+  <TrapIED_Firefoam.description>Mianach atá ceangailte le sliogáin ina bhfuil cúr múctha tine. Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapIED_Firefoam.description>
   
   <!-- EN: IED trap -->
-  <TrapIED_HighExplosive.label>TODO</TrapIED_HighExplosive.label>
+  <TrapIED_HighExplosive.label>mianach pléascach</TrapIED_HighExplosive.label>
   <!-- EN: A pair of high-explosive shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_HighExplosive.description>TODO</TrapIED_HighExplosive.description>
+  <TrapIED_HighExplosive.description>Mianach atá ceangailte le sliogáin phléascacha.Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapIED_HighExplosive.description>
   
   <!-- EN: IED incendiary trap -->
-  <TrapIED_Incendiary.label>TODO</TrapIED_Incendiary.label>
+  <TrapIED_Incendiary.label>mianach loiscneach</TrapIED_Incendiary.label>
   <!-- EN: A pair of incendiary shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Incendiary.description>TODO</TrapIED_Incendiary.description>
+  <TrapIED_Incendiary.description>Mianach atá ceangailte le buamaí loiscneacha. Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapIED_Incendiary.description>
   
   <!-- EN: IED smoke trap -->
-  <TrapIED_Smoke.label>TODO</TrapIED_Smoke.label>
+  <TrapIED_Smoke.label>mianach deataigh</TrapIED_Smoke.label>
   <!-- EN: A pair of smoke shells connected to a trigger which detonates on touch or bullet impact. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapIED_Smoke.description>TODO</TrapIED_Smoke.description>
+  <TrapIED_Smoke.description>Mianach atá ceangailte le buama deataigh. Pléascfaidh sé má dhéantar teagmháil leis nó má scaoiltear urchar air. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapIED_Smoke.description>
   
   <!-- EN: spike trap -->
-  <TrapSpike.label>TODO</TrapSpike.label>
+  <TrapSpike.label>gaiste spící</TrapSpike.label>
   <!-- EN: Five spikes under tension, connected to a touch-activated trigger. When the victim disturbs the trigger, the spikes spring forth and strike the victim. Since it is hidden in the surrounding terrain, it cannot be placed adjacent to other traps. Animals can sense these when calm. -->
-  <TrapSpike.description>TODO</TrapSpike.description>
+  <TrapSpike.description>Gaiste déanta as spící, ceangailte le truicear. Má dhéantar teagmháil leis an truicear, leimfidh na spící amach. Toisc go bhfuil sé i bhfolach sa talamh, ní féidir é a chur taobh le mianaigh eile. Bíonn ainmhithe in ann gaistí a fheiceáil sa talamh.</TrapSpike.description>
   
 </LanguageData>
