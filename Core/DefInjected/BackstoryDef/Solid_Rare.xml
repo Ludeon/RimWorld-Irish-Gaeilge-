@@ -18,44 +18,44 @@
   <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time running tabletop role-playing games as a way to connect socially with others. The game changed every year, and other players always loved [PAWN_possessive] worldbuilding and stories. -->
   <FeyCustomAdulthood.description>Bhí an spéis ag [PAWN_nameDef] i gcluicí boird, agus bhí [PAWN_pronoun] i gceannas ar chluichí a reáchtáil do dhaoine eile. D'athraigh an cluiche gach bliain, agus is breá le [PAWN_possessive] domhain fhicsiniúla a thógáil agus scéalta a insint.</FeyCustomAdulthood.description>
   <!-- EN: game master -->
-  <FeyCustomAdulthood.title>máistír na na ndoinsiún</FeyCustomAdulthood.title>
+  <FeyCustomAdulthood.title>máistír na ndoinsiún</FeyCustomAdulthood.title>
   <!-- EN: game master -->
-  <FeyCustomAdulthood.titleShort>máistír na na ndoinsiún</FeyCustomAdulthood.titleShort>
+  <FeyCustomAdulthood.titleShort>máistír na ndoinsiún</FeyCustomAdulthood.titleShort>
   
   <!-- EN: Growing up sheltered in an urbworld archology, [PAWN_nameDef] distracted [PAWN_objective]self by playing wargames and painting miniatures. While [PAWN_pronoun] was never very good at the game itself, it helped to connect [PAWN_objective] with others. -->
-  <FeyCustomChildhood.description>TODO</FeyCustomChildhood.description>
+  <FeyCustomChildhood.description>Thosaigh [PAWN_nameDef] ag foghlaim na Gaeilge ar scoil, ach bhí drochmhúinteoir ag [PAWN_nameDef] agus níor fhoghlaim [PAWN_pronoun] mórán.</FeyCustomChildhood.description>
   <!-- EN: wargame fanatic -->
-  <FeyCustomChildhood.title>TODO</FeyCustomChildhood.title>
+  <FeyCustomChildhood.title>foghlaimeoir Gaeilge</FeyCustomChildhood.title>
   <!-- EN: wargame fanatic -->
-  <FeyCustomChildhood.titleShort>TODO</FeyCustomChildhood.titleShort>
+  <FeyCustomChildhood.titleShort>Gaeilgeoir</FeyCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was a hobbyist game developer who lived in an endless cycle of unfinished projects and lofty ideas. -->
-  <JoeCustomAdulthood.description>TODO</JoeCustomAdulthood.description>
+  <JoeCustomAdulthood.description>Forbróir cluichí ríomhaire ab ea [PAWN_nameDef]. Níor dhíol [PAWN_pronoun] cluiche riamh, áfach.</JoeCustomAdulthood.description>
   <!-- EN: game developer -->
-  <JoeCustomAdulthood.title>TODO</JoeCustomAdulthood.title>
+  <JoeCustomAdulthood.title>forbróir cluichí ríomhaire</JoeCustomAdulthood.title>
   <!-- EN: game dev -->
-  <JoeCustomAdulthood.titleShort>TODO</JoeCustomAdulthood.titleShort>
+  <JoeCustomAdulthood.titleShort>forbróir</JoeCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born into a family of musicians. When hard times came, [PAWN_pronoun] was forced to play the drum in a traveling band. -->
-  <JoeCustomChildhood.description>TODO</JoeCustomChildhood.description>
+  <JoeCustomChildhood.description>Drumadóir ab ea [PAWN_nameDef]. Sheinn sé i gceolchorm sráide le linn an tsamhraidh uair sa bhliain.</JoeCustomChildhood.description>
   <!-- EN: drummer -->
-  <JoeCustomChildhood.title>TODO</JoeCustomChildhood.title>
+  <JoeCustomChildhood.title>drumadóir</JoeCustomChildhood.title>
   <!-- EN: drummer -->
-  <JoeCustomChildhood.titleShort>TODO</JoeCustomChildhood.titleShort>
+  <JoeCustomChildhood.titleShort>drumadóir</JoeCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked on a peaceful glitterworld developing hyper-realistic war crime simulation software. -->
-  <LiamCustomAdulthood.description>TODO</LiamCustomAdulthood.description>
+  <LiamCustomAdulthood.description>D'oibrigh [PAWN_nameDef] i saotharlann ar pháinéad shíochánta. D'fhorbair [PAWN_pronoun] teicneolaíocht réaltachta fíorúla.</LiamCustomAdulthood.description>
   <!-- EN: simulation developer -->
-  <LiamCustomAdulthood.title>TODO</LiamCustomAdulthood.title>
+  <LiamCustomAdulthood.title>forbróir réaltachta fíorúla</LiamCustomAdulthood.title>
   <!-- EN: sim dev -->
-  <LiamCustomAdulthood.titleShort>TODO</LiamCustomAdulthood.titleShort>
+  <LiamCustomAdulthood.titleShort>forbróir</LiamCustomAdulthood.titleShort>
   
   <!-- EN: Born and raised on a glitterworld, [PAWN_nameDef] was obsessed with simulation software. [PAWN_pronoun] spent far too much time plugged in. -->
-  <LiamCustomChildhood.description>TODO</LiamCustomChildhood.description>
+  <LiamCustomChildhood.description>Tógadh [PAWN_nameDef] ar phláinéad Ghaeltachta, ach d'imigh [PAWN_pronoun] chun tús a chur le saol nua i measc na réaltaí.</LiamCustomChildhood.description>
   <!-- EN: sim addict -->
-  <LiamCustomChildhood.title>TODO</LiamCustomChildhood.title>
+  <LiamCustomChildhood.title>Gaeilgeoir</LiamCustomChildhood.title>
   <!-- EN: sim addict -->
-  <LiamCustomChildhood.titleShort>TODO</LiamCustomChildhood.titleShort>
+  <LiamCustomChildhood.titleShort>Gaeilgeoir</LiamCustomChildhood.titleShort>
   
   <!-- EN: After being laid off by an interplanetary megacorp, [PAWN_nameDef] spent several years disillusioned and fighting alcohol addiction.\n\n[PAWN_pronoun] ended up busking aboard a space freighter, playing a beaten-up guitar and entertaining the crew with blues and folk songs from the distant past. -->
   <MateCustomAdulthood.description>TODO</MateCustomAdulthood.description>
@@ -121,10 +121,10 @@
   <WillCustomAdulthood.titleShort>TODO</WillCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
-  <WillCustomChildhood.description>TODO</WillCustomChildhood.description>
+  <WillCustomChildhood.description>Tógadh  [PAWN_nameDef] i saotharlann taighde ar phláinéad mharbh. Taighdeoirí ab ea tuismitheoirí  [PAWN_nameDef], agus bhí siad i mbun taighde ar struchtúir chasta agus lúbraí faoin talamh. Chaith  [PAWN_nameDef] go leor ama sna tolláin sin nuair a bhí [PAWN_pronoun] óg.</WillCustomChildhood.description>
   <!-- EN: maze child -->
-  <WillCustomChildhood.title>TODO</WillCustomChildhood.title>
+  <WillCustomChildhood.title>leanbh gríobháin</WillCustomChildhood.title>
   <!-- EN: maze child -->
-  <WillCustomChildhood.titleShort>TODO</WillCustomChildhood.titleShort>
+  <WillCustomChildhood.titleShort>leanbh gríobháin</WillCustomChildhood.titleShort>
   
 </LanguageData>
