@@ -527,193 +527,193 @@
   <DestroyerGeneral26.titleShort>ginearál</DestroyerGeneral26.titleShort>
 
   <!-- EN: [PAWN_nameDef] prostituted [PAWN_objective]self to fund [PAWN_possessive] drug habits. As an escape, [PAWN_pronoun] joined the military and learned to fight.\n\nToo smart for the army, [PAWN_pronoun] questioned and often disagreed with [PAWN_possessive] superiors' decisions. This eventually led to [PAWN_possessive] dishonorable discharge and left [PAWN_objective] with a chip on [PAWN_possessive] shoulder. -->
-  <DischargedSoldier53.description>TODO</DischargedSoldier53.description>
+  <DischargedSoldier53.description>Saighdiúir san arm ab ea [PAWN_nameDef], ach cuireadh [PAWN_nameDef] amach as an ról sin toisc nach raibh [PAWN_pronoun] sásta orduithe a leanúint.</DischargedSoldier53.description>
   <!-- EN: discharged soldier -->
-  <DischargedSoldier53.title>TODO</DischargedSoldier53.title>
+  <DischargedSoldier53.title>saighdiúir</DischargedSoldier53.title>
   <!-- EN: soldier -->
-  <DischargedSoldier53.titleShort>TODO</DischargedSoldier53.titleShort>
+  <DischargedSoldier53.titleShort>saighdiúir</DischargedSoldier53.titleShort>
 
   <!-- EN: [PAWN_nameDef] managed to open a vault of otherworldly technology while scavenging a dig site. [PAWN_pronoun] unwittingly triggered a doomsday device that cleansed the planet of all life. More interested in the tech than human life, [PAWN_pronoun] boarded the vault's spacecraft and departed to find more relics to abuse. -->
-  <DoomsdayPariah18.description>TODO</DoomsdayPariah18.description>
+  <DoomsdayPariah18.description>D'aimsigh [PAWN_nameDef] teicneolaíocht ársa ar phláinéad eile, agus d'úsáid [PAWN_pronoun] an teicneolaíocht sin chun gach ní beo ar an domhan sin a mharú. Is mó spéise atá ag [PAWN_nameDef] sa teicneolaíocht ná i ndaoine.</DoomsdayPariah18.description>
   <!-- EN: doomsday pariah -->
-  <DoomsdayPariah18.title>TODO</DoomsdayPariah18.title>
+  <DoomsdayPariah18.title>díbeartach</DoomsdayPariah18.title>
   <!-- EN: pariah -->
-  <DoomsdayPariah18.titleShort>TODO</DoomsdayPariah18.titleShort>
+  <DoomsdayPariah18.titleShort>díbeartach</DoomsdayPariah18.titleShort>
 
   <!-- EN: Some followers say that [PAWN_nameDef] and [PAWN_possessive] crew of misfits found the fountain of youth, many, many centuries ago, and that they caused the extinction of the dinosaurs on many planets.\n\nThere's even a religion about them, somewhere, involving noodles and meatballs. -->
-  <DreadedDude58.description>TODO</DreadedDude58.description>
+  <DreadedDude58.description>Níl móran ar eolas maidir le [PAWN_nameDef].</DreadedDude58.description>
   <!-- EN: dreaded dude -->
-  <DreadedDude58.title>TODO</DreadedDude58.title>
+  <DreadedDude58.title>boc</DreadedDude58.title>
   <!-- EN: dude -->
-  <DreadedDude58.titleShort>TODO</DreadedDude58.titleShort>
+  <DreadedDude58.titleShort>boc</DreadedDude58.titleShort>
 
   <!-- EN: Having caught the eye of [PAWN_possessive] people's Sand King, [PAWN_nameDef] was trained in the Sandy Boomrat fighting technique.\n\nAlways with a camel to carry [PAWN_possessive] things, [PAWN_pronoun] served [PAWN_possessive] sand people faithfully. -->
-  <DromedaryKnight37.description>TODO</DromedaryKnight37.description>
+  <DromedaryKnight37.description>Ridire ar phláinéad iargúlta ab ea [PAWN_nameDef], i seirbhís Rí an Ghainimh. Is saineolaí é [PAWN_nameDef] le claíomh, agus tá [PAWN_pronoun] an-oilte i gcúrsaí comhraic. Lean [PAWN_pronoun] an rí go díograiseach.</DromedaryKnight37.description>
   <!-- EN: dromedary knight -->
-  <DromedaryKnight37.title>TODO</DromedaryKnight37.title>
+  <DromedaryKnight37.title>ridire</DromedaryKnight37.title>
   <!-- EN: knight -->
-  <DromedaryKnight37.titleShort>TODO</DromedaryKnight37.titleShort>
+  <DromedaryKnight37.titleShort>ridire</DromedaryKnight37.titleShort>
 
   <!-- EN: [PAWN_nameDef] worked the drug trade under kingpin Grady Loughman. [PAWN_pronoun] had [PAWN_possessive] men sell drugs when it was profitable, and fight the other cartels when the government came around.\n\n[PAWN_possessive] social skills kept [PAWN_objective] on top of the political game, and [PAWN_pronoun] always had servants to cook and clean. -->
-  <DrugLieutenant98.description>TODO</DrugLieutenant98.description>
+  <DrugLieutenant98.description>D'oibrigh [PAWN_nameDef] in earnáil na ndrugaí i ndrong coirpeach mór le rá. Dhíol [PAWN_pronoun] drugaí agus throid [PAWN_pronoun] i gcoinna na cairtéil eile nuair ba ghá sin. Tá scileanna sóisialta maithe ag [PAWN_nameDef].</DrugLieutenant98.description>
   <!-- EN: drug lieutenant -->
-  <DrugLieutenant98.title>TODO</DrugLieutenant98.title>
+  <DrugLieutenant98.title>coirpeach cairtéil</DrugLieutenant98.title>
   <!-- EN: drugman -->
-  <DrugLieutenant98.titleShort>TODO</DrugLieutenant98.titleShort>
+  <DrugLieutenant98.titleShort>coirpeach</DrugLieutenant98.titleShort>
 
   <!-- EN: [PAWN_nameDef] was working on an idea for rapid communication over long distances. [PAWN_pronoun] made an error which destroyed [PAWN_possessive] lab and several nearby buildings. [PAWN_pronoun] fled the planet to escape the authorities. -->
-  <EnergyResearcher89.description>TODO</EnergyResearcher89.description>
+  <EnergyResearcher89.description>Bhí [PAWN_nameDef] i mbun taighde maidir le teicneolaíocht nua chun cumarsáid a dhéanamh thar achar fada. Rinne [PAWN_pronoun] botún áfach, agus scriosadh an tsaotharlann agus maraíodh roinnt daoine. Theith [PAWN_nameDef] ón bpláinéad chun na húdaráis a sheachaint.</EnergyResearcher89.description>
   <!-- EN: energy researcher -->
-  <EnergyResearcher89.title>TODO</EnergyResearcher89.title>
+  <EnergyResearcher89.title>taighdeoir fuinnimh</EnergyResearcher89.title>
   <!-- EN: researcher -->
-  <EnergyResearcher89.titleShort>TODO</EnergyResearcher89.titleShort>
+  <EnergyResearcher89.titleShort>taighdeoir</EnergyResearcher89.titleShort>
 
   <!-- EN: [PAWN_nameDef] found a job as a tinkering engineer on the trading hub planet Irithir. Tough local traders forced [PAWN_objective] to learn negotiation skills, and [PAWN_pronoun] made good profits selling refurbished weapons and tools. -->
-  <Engineer40.description>TODO</Engineer40.description>
+  <Engineer40.description>D'oibrigh [PAWN_nameDef] mar innealltóir ar an bpláinéad Iritear. D'fhoghlaim [PAWN_pronoun] scileanna idirbheartaíochta ó na díoltóirí áitiúla.</Engineer40.description>
   <!-- EN: engineer -->
-  <Engineer40.title>TODO</Engineer40.title>
+  <Engineer40.title>innealltóir</Engineer40.title>
   <!-- EN: engineer -->
-  <Engineer40.titleShort>TODO</Engineer40.titleShort>
+  <Engineer40.titleShort>innealltóir</Engineer40.titleShort>
 
   <!-- EN: After [PAWN_possessive] province was besieged by one of its neighbors, [PAWN_nameDef] volunteered for a generic modification program that created pilots for the very fighter craft that [PAWN_pronoun] had helped develop. The modifications allowed [PAWN_objective] to pilot the ship, but also made [PAWN_objective] less able to focus on the people around him.\n\nBy this time, people were calling [PAWN_objective] "Squirrel." -->
-  <EngineeredPilot75.description>TODO</EngineeredPilot75.description>
+  <EngineeredPilot75.description>Scriosadh pláinéad bhaile [PAWN_nameDef] i gcogadh, agus chuaigh [PAWN_pronoun] le clár míleata rúnda a raibh sé d'aidhm aige saighdiúirí géinmhodnaithe a chruthú. Leis na hathruithe a rinneadh ar [PAWN_nameDef], bhí [PAWN_pronoun] in ann aon spáslong a eitilt, ach cuireadh isteach ar a scileanna sóisialta.</EngineeredPilot75.description>
   <!-- EN: engineered pilot -->
-  <EngineeredPilot75.title>TODO</EngineeredPilot75.title>
+  <EngineeredPilot75.title>píolóta géinmhodhnaithe</EngineeredPilot75.title>
   <!-- EN: pilot -->
-  <EngineeredPilot75.titleShort>TODO</EngineeredPilot75.titleShort>
+  <EngineeredPilot75.titleShort>píolóta</EngineeredPilot75.titleShort>
 
   <!-- EN: [PAWN_nameDef] entered the diplomatic corps. Honor and tradition were the values [PAWN_pronoun] took with [PAWN_objective] on every mission.\n\n[PAWN_possessive] prestigious position distanced [PAWN_objective] from backbreaking manual labor, allowing [PAWN_objective] to focus on [PAWN_possessive] wordsmithing abilities. [PAWN_pronoun] left the blacksmithing to others. -->
-  <EnvoyOfTheStars19.description>TODO</EnvoyOfTheStars19.description>
+  <EnvoyOfTheStars19.description>D'oibrigh [PAWN_nameDef]  leis an tseirbhís taidhleoireachta, agus chuaigh [PAWN_pronoun] ó phláinéad go pláinéad ar son an rialtais. Tá scileanna sóisialta láidre ag [PAWN_nameDef], ach is beag scileanna praiticiúla atá ag [PAWN_nameDef].</EnvoyOfTheStars19.description>
   <!-- EN: envoy of the stars -->
-  <EnvoyOfTheStars19.title>TODO</EnvoyOfTheStars19.title>
+  <EnvoyOfTheStars19.title>toscaire</EnvoyOfTheStars19.title>
   <!-- EN: envoy -->
-  <EnvoyOfTheStars19.titleShort>TODO</EnvoyOfTheStars19.titleShort>
+  <EnvoyOfTheStars19.titleShort>toscaire</EnvoyOfTheStars19.titleShort>
 
   <!-- EN: [PAWN_nameDef] was an executive officer for a large space trading corporation. After a failed attempt at manipulating [PAWN_possessive] way up the corporate ladder, [PAWN_pronoun] was framed for the rape and murder of another executive and [PAWN_possessive] family.\n\n[PAWN_pronoun] was found guilty. However, because of [PAWN_possessive] family's influence, [PAWN_pronoun] was exiled instead of put to death. -->
-  <ExecutiveOfficer5.description>TODO</ExecutiveOfficer5.description>
+  <ExecutiveOfficer5.description>D'oibrigh [PAWN_nameDef] mar oifigeach feidhmiúcháin le comhlacht trádála mór le rá. Rinne [PAWN_pronoun] iarracht dul chun cinn a dhéanamh sa chomhlacht, ach cuireadh i leith [PAWN_nameDef] go raibh [PAWN_pronoun] páirteach i spiaireacht chorparáideach. Cuireadh [PAWN_nameDef] ar deoraíocht ón bpláinéad ansin.</ExecutiveOfficer5.description>
   <!-- EN: executive officer -->
-  <ExecutiveOfficer5.title>TODO</ExecutiveOfficer5.title>
+  <ExecutiveOfficer5.title>oifigeach feidhmiúcháin</ExecutiveOfficer5.title>
   <!-- EN: executive -->
-  <ExecutiveOfficer5.titleShort>TODO</ExecutiveOfficer5.titleShort>
+  <ExecutiveOfficer5.titleShort>feidhmeannach</ExecutiveOfficer5.titleShort>
 
   <!-- EN: [PAWN_nameDef]'s love of robotics was not appreciated in [PAWN_possessive] technophobic empire. The High Cardinal of the system excommunicated her, and [PAWN_pronoun] was never allowed to return. -->
-  <ExiledResearcher44.description>TODO</ExiledResearcher44.description>
+  <ExiledResearcher44.description>Bhí an spéis ag [PAWN_nameDef] i róbataic, ach ní raibh sin ceadaithe ar an bpláinéad teicneafóbach, áit a raibh cónaí ar [PAWN_nameDef]. Cuireadh [PAWN_nameDef] ón bpláinéad.</ExiledResearcher44.description>
   <!-- EN: exiled researcher -->
-  <ExiledResearcher44.title>TODO</ExiledResearcher44.title>
+  <ExiledResearcher44.title>taighdeoir ar deoraíocht</ExiledResearcher44.title>
   <!-- EN: exile -->
-  <ExiledResearcher44.titleShort>TODO</ExiledResearcher44.titleShort>
+  <ExiledResearcher44.titleShort>deoraí</ExiledResearcher44.titleShort>
 
   <!-- EN: [PAWN_nameDef] has always gone overboard when it comes to food. [PAWN_pronoun] is always seeking new and exotic ingredients.\n\n[PAWN_possessive] quest for ingredients has brought [PAWN_objective] into some close calls with local flora and fauna. -->
-  <ExoticChef96.description>TODO</ExoticChef96.description>
+  <ExoticChef96.description>Cócaire is ea [PAWN_nameDef], agus bíonn [PAWN_pronoun] sa tóir ar na comhábhair is aistí atá ar fáil.</ExoticChef96.description>
   <!-- EN: exotic chef -->
-  <ExoticChef96.title>TODO</ExoticChef96.title>
+  <ExoticChef96.title>cócaire aisteach</ExoticChef96.title>
   <!-- EN: chef -->
-  <ExoticChef96.titleShort>TODO</ExoticChef96.titleShort>
+  <ExoticChef96.titleShort>cócaire</ExoticChef96.titleShort>
 
   <!-- EN: [PAWN_nameDef] worked as a traveling engineer. [PAWN_pronoun] fixed things ranging from a simple communications array to the intricate software harness enveloping [PAWN_possessive] ship's AI persona. Nothing is beyond repair for [PAWN_objective]. -->
-  <ExpertHandyman8.description>TODO</ExpertHandyman8.description>
+  <ExpertHandyman8.description>Innealltóir is ea [PAWN_nameDef], agus d'aimsigh [PAWN_pronoun] obair ar spásloing éagsúla ar fud an ghrianchórais. Is féidir le [PAWN_nameDef] rud ar bith a dheisú.</ExpertHandyman8.description>
   <!-- EN: expert handyman -->
-  <ExpertHandyman8.title>TODO</ExpertHandyman8.title>
+  <ExpertHandyman8.title>deaslámhach</ExpertHandyman8.title>
   <!-- EN: handyman -->
-  <ExpertHandyman8.titleShort>TODO</ExpertHandyman8.titleShort>
+  <ExpertHandyman8.titleShort>deaslámhach</ExpertHandyman8.titleShort>
 
   <!-- EN: [PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research. [PAWN_pronoun] hoped one day to compile a record of every animal, plant, mineral, and machine and device in known space: The Complete Traveler's Guide to the RimWorlds. -->
-  <Explorer49.description>TODO</Explorer49.description>
+  <Explorer49.description>Chuaigh [PAWN_nameDef] ó phláinéad go pláinéad, i mbun taiscéalaíochta agus tagihde. Bhí sé i gceist ag [PAWN_nameDef] cnuasach a scríobh ina mbeadh taifead de gach ainmhí, planda agus speiceas sa spás.</Explorer49.description>
   <!-- EN: explorer -->
-  <Explorer49.title>TODO</Explorer49.title>
+  <Explorer49.title>taisceálaí</Explorer49.title>
   <!-- EN: explorer -->
-  <Explorer49.titleShort>TODO</Explorer49.titleShort>
+  <Explorer49.titleShort>taiscéalaí</Explorer49.titleShort>
 
   <!-- EN: [PAWN_nameDef] traveled from planet to planet, gathering samples, stories, and research.\n\n[PAWN_possessive] goal was to bring together enough knowledge to make a survival guide for future generations. -->
-  <ExplorerWriter10.description>TODO</ExplorerWriter10.description>
+  <ExplorerWriter10.description>Chuaigh [PAWN_nameDef] ó phláinéad go pláinéad, i mbun taiscéalaíochta agus tagihde. Bhí sé i gceist ag [PAWN_nameDef] leabhar a scríobh maidir le conas maireachtáil sa spás.</ExplorerWriter10.description>
   <!-- EN: explorer-writer -->
-  <ExplorerWriter10.title>TODO</ExplorerWriter10.title>
+  <ExplorerWriter10.title>taiscéalaí</ExplorerWriter10.title>
   <!-- EN: explorer -->
-  <ExplorerWriter10.titleShort>TODO</ExplorerWriter10.titleShort>
+  <ExplorerWriter10.titleShort>taiscéalaí</ExplorerWriter10.titleShort>
 
   <!-- EN: Early in [PAWN_possessive] adulthood, [PAWN_nameDef] found [PAWN_objective]self surrounded by a gaggle of low-lifes.\n\nFor fun, [PAWN_pronoun] gathered them and lead them to a certain death. [PAWN_pronoun] knew then that [PAWN_pronoun] had the talent to realize [PAWN_possessive] ambitions of leadership. -->
-  <FactionLeader74.description>TODO</FactionLeader74.description>
+  <FactionLeader74.description>Ceannaire ab ea [PAWN_possessive] ar fhaicsean, ach maraíodh na daoine ina g[PAWN_possessive]rúpa i gcogadh fíochmhar. Tá scileanna ceannaireachta iontacha ag [PAWN_nameDef].</FactionLeader74.description>
   <!-- EN: faction leader -->
-  <FactionLeader74.title>TODO</FactionLeader74.title>
+  <FactionLeader74.title>ceannaire</FactionLeader74.title>
   <!-- EN: leader -->
-  <FactionLeader74.titleShort>TODO</FactionLeader74.titleShort>
+  <FactionLeader74.titleShort>ceannaire</FactionLeader74.titleShort>
 
   <!-- EN: [PAWN_nameDef] was an official for an autocratic government. When [PAWN_possessive] superiors demanded [PAWN_pronoun] participate in atrocities, [PAWN_nameDef] resigned and escaped from [PAWN_possessive] homeworld with nothing but the clothes on [PAWN_possessive] back. -->
-  <FallenOfficial12.description>TODO</FallenOfficial12.description>
+  <FallenOfficial12.description>D'oibrigh [PAWN_nameDef] mar oifigeach sa státseirbhís, i rialtas uathlathach. Fuair [PAWN_pronoun] orduithe óna c[PAWN_possessive]eannairí páirt a ghlacadh in ainghníomhartha i gcoinne grúpaí mionlaigh, ach dhiúltaigh [PAWN_pronoun]. D'éirigh [PAWN_pronoun] as an bpost agus d'imigh [PAWN_pronoun] ón bpláinéad.</FallenOfficial12.description>
   <!-- EN: fallen official -->
-  <FallenOfficial12.title>TODO</FallenOfficial12.title>
+  <FallenOfficial12.title>oifigeach</FallenOfficial12.title>
   <!-- EN: official -->
-  <FallenOfficial12.titleShort>TODO</FallenOfficial12.titleShort>
+  <FallenOfficial12.titleShort>oifigeach</FallenOfficial12.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a excellent chef who worked in a high-end restaurant.\n\nOne day, [PAWN_pronoun] left the stove on, and accidentally burned down the whole building. This event shook [PAWN_objective] so much that [PAWN_pronoun] swore to never touch a stove again. -->
-  <FearfulChef49.description>TODO</FearfulChef49.description>
+  <FearfulChef49.description>D'oibrigh [PAWN_nameDef] mar chócaire i mbialann mór le rá. D'fhág [PAWN_pronoun] an t-oigheann ar siúl oíche amháin trí thimpiste, agus scriosadh an bhialann i dtine agus maraíodh cúpla dosaen custaiméar. Chuir an eachtra sin isteach go mór ar [PAWN_nameDef], agus gheall [PAWN_pronoun] nach leagfadh [PAWN_pronoun] lámh ar oighean riamh arís.</FearfulChef49.description>
   <!-- EN: fearful chef -->
-  <FearfulChef49.title>TODO</FearfulChef49.title>
+  <FearfulChef49.title>cócaire scanraithe</FearfulChef49.title>
   <!-- EN: chef -->
-  <FearfulChef49.titleShort>TODO</FearfulChef49.titleShort>
+  <FearfulChef49.titleShort>cócaire</FearfulChef49.titleShort>
 
   <!-- EN: [PAWN_nameDef] became a renowned scientist in the field of felines. Wanting the best for [PAWN_possessive] animals and specializing in selective breeding, [PAWN_pronoun] set out on a journey to find the perfect breeding grounds for [PAWN_possessive] cats. -->
-  <FelineScientist76.description>TODO</FelineScientist76.description>
+  <FelineScientist76.description>Eolaí cáiliúil ab ea [PAWN_nameDef] i réimse na bhféilíneach. Chuaigh [PAWN_pronoun] ó phláinéad go pláinéad, i mbun taighde maidir le cait.</FelineScientist76.description>
   <!-- EN: feline scientist -->
-  <FelineScientist76.title>TODO</FelineScientist76.title>
+  <FelineScientist76.title>eolaí féilíneach</FelineScientist76.title>
   <!-- EN: scientist -->
-  <FelineScientist76.titleShort>TODO</FelineScientist76.titleShort>
+  <FelineScientist76.titleShort>eolaí</FelineScientist76.titleShort>
 
   <!-- EN: As a young adult, [PAWN_nameDef] was sure that [PAWN_possessive] planet and its people were nearing their time of transcendence.\n\nA firm belief that [PAWN_possessive] research would be the catalyst drove [PAWN_objective] to increasingly alarming acts as bureaucrats and bioethics committees worked to stall [PAWN_possessive] progress. -->
-  <FerventResearcher72.description>TODO</FerventResearcher72.description>
+  <FerventResearcher72.description>Taighdeoir ab ea [PAWN_nameDef] , agus bhí [PAWN_pronoun] tógtha lá na cinniúna a thuar. Níor tharla rud ar bith riamh, áfach, agus d'éirigh [PAWN_pronoun] paranóideach agus ábhairín craiceáilte le himeacht ama.</FerventResearcher72.description>
   <!-- EN: fervent researcher -->
-  <FerventResearcher72.title>TODO</FerventResearcher72.title>
+  <FerventResearcher72.title>taighdeoir cráifeach</FerventResearcher72.title>
   <!-- EN: researcher -->
-  <FerventResearcher72.titleShort>TODO</FerventResearcher72.titleShort>
+  <FerventResearcher72.titleShort>taighdeoir</FerventResearcher72.titleShort>
 
   <!-- EN: During the Zartha crisis, [PAWN_nameDef] fought across many worlds, providing the vital link between the ground and the air as a fighter controller. During the campaign, [PAWN_pronoun] saw friends injured and killed. This mental trauma haunts [PAWN_possessive] dreams to this day, but [PAWN_possessive] aim remains sharp. -->
-  <FighterController67.description>TODO</FighterController67.description>
+  <FighterController67.description>Saighdiúir ab ea [PAWN_nameDef]. Throid [PAWN_pronoun] le linn Chogadh Zárta. Gortaíodh agus maraíodh cairde agus comhghuallaithe [PAWN_nameDef] le linn an chogaidh sin, agus tá tráma ar [PAWN_nameDef] go fóill - ach níor tháinig meirg ar a scileanna riamh.</FighterController67.description>
   <!-- EN: fighter controller -->
-  <FighterController67.title>TODO</FighterController67.title>
+  <FighterController67.title>saighdiúir</FighterController67.title>
   <!-- EN: controller -->
-  <FighterController67.titleShort>TODO</FighterController67.titleShort>
+  <FighterController67.titleShort>saighdiúir</FighterController67.titleShort>
 
   <!-- EN: [PAWN_nameDef] strolled and sipped [PAWN_possessive] way through the streets and cafes of [PAWN_possessive] world, pursuing freedom at every turn, never becoming attached.\n\nThrough all this time, [PAWN_pronoun] remained distrustful of others. And never took an order from anyone. -->
-  <Flaneur30.description>TODO</Flaneur30.description>
+  <Flaneur30.description>Chaith [PAWN_nameDef] a c[PAWN_possessive]uid ama ag spaisteoireacht timpeall na sráideanna, chomh aerach le meannán. Is é an saoire an rud is tábhachtaí do [PAWN_nameDef] - níor ghlac [PAWN_pronoun] le hordú riamh ó dhuine eile agus tá [PAWN_pronoun] go mór in amhras faoi dhaoine eile.</Flaneur30.description>
   <!-- EN: flaneur -->
-  <Flaneur30.title>TODO</Flaneur30.title>
+  <Flaneur30.title>sráidí</Flaneur30.title>
   <!-- EN: flaneur -->
-  <Flaneur30.titleShort>TODO</Flaneur30.titleShort>
+  <Flaneur30.titleShort>sráidí</Flaneur30.titleShort>
 
   <!-- EN: [PAWN_nameDef] led a band of wild men in the forest. They foraged for food, hunted, and sometimes murdered more civilized people to steal their shiny objects. -->
-  <ForestProwler15.description>TODO</ForestProwler15.description>
+  <ForestProwler15.description>Bhí [PAWN_nameDef] i gceannas ar ghrúpa daoine a raibh cónaí orthu san fhoraois. Uaireanta, mharaigh siad daoine sibhialta chun a gcuid bia agus a gcuid rudaí a ghoid.</ForestProwler15.description>
   <!-- EN: forest prowler -->
-  <ForestProwler15.title>TODO</ForestProwler15.title>
+  <ForestProwler15.title>sirtheoir foraoise</ForestProwler15.title>
   <!-- EN: prowler -->
-  <ForestProwler15.titleShort>TODO</ForestProwler15.titleShort>
+  <ForestProwler15.titleShort>sirtheoir</ForestProwler15.titleShort>
 
   <!-- EN: [PAWN_nameDef] was the marshal of [PAWN_possessive] colony. [PAWN_pronoun] tried to honorably uphold the law, but the corrupt local mayor killed [PAWN_possessive] family and left [PAWN_objective] for dead.\n\nAfter regaining [PAWN_possessive] health, [PAWN_nameDef] arrested the mayor. [PAWN_pronoun] left [PAWN_possessive] homeworld and started a new life working to make a difference in the universe. -->
-  <FrontierMarshal27.description>TODO</FrontierMarshal27.description>
+  <FrontierMarshal27.description>Bhí [PAWN_nameDef] ina m[PAWN_possessive]arascal ar choilíneacht. Rinne iarracht an dlí a chur i bhfeidhm, ach bhí daoine éillitheacha sa choilíneacht agus maraíodh muintir [PAWN_nameDef]. Ina dhiaidh sin, d'imigh [PAWN_nameDef] chun tús a chur le saol núa i measc na réaltaí.</FrontierMarshal27.description>
   <!-- EN: frontier marshal -->
-  <FrontierMarshal27.title>TODO</FrontierMarshal27.title>
+  <FrontierMarshal27.title>marascal</FrontierMarshal27.title>
   <!-- EN: marshal -->
-  <FrontierMarshal27.titleShort>TODO</FrontierMarshal27.titleShort>
+  <FrontierMarshal27.titleShort>marascal</FrontierMarshal27.titleShort>
 
   <!-- EN: [PAWN_nameDef] rebelled against the corporation [PAWN_pronoun] worked for. [PAWN_pronoun] failed, and was forced [PAWN_objective] to go on the run.\n\n[PAWN_pronoun] was always on the move, always leaving everything behind. [PAWN_pronoun] tried to gain supporters for [PAWN_possessive] cause, but failed due to [PAWN_possessive] poor social skills. -->
-  <Fugitive4.description>TODO</Fugitive4.description>
+  <Fugitive4.description>Bhí corparáid mhór i gceannas ar phláinéad bhaile [PAWN_nameDef], agus rinne [PAWN_pronoun] iarracht éirí as ina coinne. Níor éirigh leis an iarracht sin, agus ní raibh aon rogha ag [PAWN_nameDef] seachas dul ar a s[PAWN_possessive]eachaint.</Fugitive4.description>
   <!-- EN: fugitive -->
-  <Fugitive4.title>TODO</Fugitive4.title>
+  <Fugitive4.title>éalaitheach</Fugitive4.title>
   <!-- EN: fugitive -->
-  <Fugitive4.titleShort>TODO</Fugitive4.titleShort>
+  <Fugitive4.titleShort>éalaitheach</Fugitive4.titleShort>
 
   <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
-  <GameDeveloper95.description>TODO</GameDeveloper95.description>
+  <GameDeveloper95.description>Forbróir cluichí ríomhaíre ab ea [PAWN_nameDef] . Níor éirigh le [PAWN_nameDef] cluiche a dhíol riamh, áfach.</GameDeveloper95.description>
   <!-- EN: game developer -->
-  <GameDeveloper95.title>TODO</GameDeveloper95.title>
+  <GameDeveloper95.title>forbróir cluichí ríomhaire</GameDeveloper95.title>
   <!-- EN: game dev -->
-  <GameDeveloper95.titleShort>TODO</GameDeveloper95.titleShort>
+  <GameDeveloper95.titleShort>forbróir</GameDeveloper95.titleShort>
 
   <!-- EN: Making a new life on a barely-livable planet after nuclear war, [PAWN_nameDef] was able to fulfill [PAWN_possessive] desires with money borrowed from [PAWN_possessive] father.\n\n[PAWN_pronoun] loved playing a particular colony simulator. [PAWN_possessive] favorite thing to do in the game was to build elaborate hospitals. Spending most of [PAWN_possessive] time playing, [PAWN_pronoun] forgot horrors of war and [PAWN_possessive] need for revenge. -->
-  <GameTester77.description>TODO</GameTester77.description>
+  <GameTester77.description>D'oibrigh [PAWN_nameDef] mar thástálaí cluiche ríomhaire. Bhí [PAWN_pronoun] an-togtha le cluichí coilíneachta.</GameTester77.description>
   <!-- EN: game tester -->
-  <GameTester77.title>TODO</GameTester77.title>
+  <GameTester77.title>tástálaí cluichí ríomhaire</GameTester77.title>
   <!-- EN: tester -->
-  <GameTester77.titleShort>TODO</GameTester77.titleShort>
+  <GameTester77.titleShort>tástálaí cluichí ríomhaire</GameTester77.titleShort>
 
   <!-- EN: To survive, [PAWN_nameDef]'s gang often had to rob trade ships for food and supplies. Sometimes [PAWN_pronoun] had to kill the guards. Sometimes [PAWN_pronoun] had to kill the police who arrived to stop him.\n\nAfter years of this, [PAWN_pronoun] became one of the most-wanted criminals in the local empire. -->
   <GangBoss49.description>TODO</GangBoss49.description>
