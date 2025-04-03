@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: EMP grenade -->
-  <Proj_GrenadeEMP.label>TODO</Proj_GrenadeEMP.label>
+  <Proj_GrenadeEMP.label>gránáid leictreamaighnéadach</Proj_GrenadeEMP.label>
   
   <!-- EN: frag grenade -->
-  <Proj_GrenadeFrag.label>TODO</Proj_GrenadeFrag.label>
+  <Proj_GrenadeFrag.label>gránáid</Proj_GrenadeFrag.label>
   
   <!-- EN: molotov cocktail -->
-  <Proj_GrenadeMolotov.label>TODO</Proj_GrenadeMolotov.label>
+  <Proj_GrenadeMolotov.label>molotov</Proj_GrenadeMolotov.label>
   
   <!-- EN: EMP grenades -->
-  <Weapon_GrenadeEMP.label>TODO</Weapon_GrenadeEMP.label>
+  <Weapon_GrenadeEMP.label>gránáidí leictreamaighnéadacha</Weapon_GrenadeEMP.label>
   <!-- EN: Electromagnetic pulse grenades damaging to electronic equipment. -->
-  <Weapon_GrenadeEMP.description>TODO</Weapon_GrenadeEMP.description>
+  <Weapon_GrenadeEMP.description>Úsáidtear na gránáidí seo chun trealamh leictreonach a chur as feidhm.</Weapon_GrenadeEMP.description>
   <!-- EN: throw EMP grenade -->
-  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>TODO</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
+  <Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>caith gránáid leictreamaighnéadach</Weapon_GrenadeEMP.verbs.throw_EMP_grenade.label>
   
   <!-- EN: frag grenades -->
-  <Weapon_GrenadeFrag.label>TODO</Weapon_GrenadeFrag.label>
+  <Weapon_GrenadeFrag.label>gránáid</Weapon_GrenadeFrag.label>
   <!-- EN: Old-school fragmentation grenades. They can be thrown a short distance, where they'll explode, damaging anything and anyone nearby. -->
-  <Weapon_GrenadeFrag.description>TODO</Weapon_GrenadeFrag.description>
+  <Weapon_GrenadeFrag.description>Gránáidí pléascacha. Is féidir iad a chaitheamh, agus scriosfaidh siad rud ar bith atá in aice láimhe.</Weapon_GrenadeFrag.description>
   <!-- EN: throw frag grenade -->
-  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>TODO</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
+  <Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>caith gránáid</Weapon_GrenadeFrag.verbs.throw_frag_grenade.label>
   
   <!-- EN: molotov cocktails -->
-  <Weapon_GrenadeMolotov.label>TODO</Weapon_GrenadeMolotov.label>
+  <Weapon_GrenadeMolotov.label>molotov</Weapon_GrenadeMolotov.label>
   <!-- EN: Glass bottles filled with flammable liquid, with a burning cloth in the neck. A favorite weapon of hooligans and desperate warriors from rim to rim. -->
-  <Weapon_GrenadeMolotov.description>TODO</Weapon_GrenadeMolotov.description>
+  <Weapon_GrenadeMolotov.description>Tá na buidéil seo lán le leacht inlasta, agus pléascfaidh siad nuair a chaitear iad.</Weapon_GrenadeMolotov.description>
   <!-- EN: throw molotov -->
-  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>TODO</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
+  <Weapon_GrenadeMolotov.verbs.throw_molotov.label>caith molotov</Weapon_GrenadeMolotov.verbs.throw_molotov.label>
   
 </LanguageData>

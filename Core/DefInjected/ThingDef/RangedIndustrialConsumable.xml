@@ -2,27 +2,27 @@
 <LanguageData>
   
   <!-- EN: doomsday rocket -->
-  <Bullet_DoomsdayRocket.label>TODO</Bullet_DoomsdayRocket.label>
+  <Bullet_DoomsdayRocket.label>roicéad ollmhór</Bullet_DoomsdayRocket.label>
   
   <!-- EN: rocket -->
-  <Bullet_Rocket.label>TODO</Bullet_Rocket.label>
+  <Bullet_Rocket.label>roicéad</Bullet_Rocket.label>
   
   <!-- EN: doomsday rocket launcher -->
-  <Gun_DoomsdayRocket.label>TODO</Gun_DoomsdayRocket.label>
+  <Gun_DoomsdayRocket.label>lainseálaí roicéad ollmhór</Gun_DoomsdayRocket.label>
   <!-- EN: A single-use rocket launcher that fires a massive explosive projectile. Good against large groups of soft targets. Starts fires.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
-  <Gun_DoomsdayRocket.description>TODO</Gun_DoomsdayRocket.description>
+  <Gun_DoomsdayRocket.description>Lainseálaí roicéad aonúsáide, a scaoileann diúracán pléascach ollmhór. Tá an gléas seo úsaídeach i gcoinne grúpaí móra.\n\nTá an gléas seo ciotach, agus tá baol ann go ndéanfaidh sé cuid mhór damáiste.</Gun_DoomsdayRocket.description>
   <!-- EN: barrel -->
-  <Gun_DoomsdayRocket.tools.barrel.label>TODO</Gun_DoomsdayRocket.tools.barrel.label>
+  <Gun_DoomsdayRocket.tools.barrel.label>bairille</Gun_DoomsdayRocket.tools.barrel.label>
   <!-- EN: doomsday rocket launcher -->
-  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>TODO</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
+  <Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>lainseálaí roicéad ollmhór</Gun_DoomsdayRocket.verbs.Verb_ShootOneUse.label>
   
   <!-- EN: triple rocket launcher -->
-  <Gun_TripleRocket.label>TODO</Gun_TripleRocket.label>
+  <Gun_TripleRocket.label>lainseálaí roicéad triarach</Gun_TripleRocket.label>
   <!-- EN: A single-use rocket launcher that fires three large-bore explosive rockets. Good against small groups of tough targets.\n\nBecause of its unwieldiness, single-use limitation, and the massive destruction it causes, it's said that one must be slightly crazy to use this weapon. -->
-  <Gun_TripleRocket.description>TODO</Gun_TripleRocket.description>
+  <Gun_TripleRocket.description>Lainseálaí roicéad aonúsáide, a scaoileann trí roicéad. Tá an gléas seo úsaídeach i gcoinne grúpaí móra.\n\nTá an gléas seo ciotach, agus tá baol ann go ndéanfaidh sé cuid mhór damáiste.</Gun_TripleRocket.description>
   <!-- EN: barrel -->
-  <Gun_TripleRocket.tools.barrel.label>TODO</Gun_TripleRocket.tools.barrel.label>
+  <Gun_TripleRocket.tools.barrel.label>bairille</Gun_TripleRocket.tools.barrel.label>
   <!-- EN: triple rocket launcher -->
-  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>TODO</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
+  <Gun_TripleRocket.verbs.Verb_ShootOneUse.label>lainseálaí roicéad triarach</Gun_TripleRocket.verbs.Verb_ShootOneUse.label>
   
 </LanguageData>

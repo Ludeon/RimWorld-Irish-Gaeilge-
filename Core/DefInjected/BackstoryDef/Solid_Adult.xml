@@ -716,172 +716,172 @@
   <GameTester77.titleShort>tástálaí cluichí ríomhaire</GameTester77.titleShort>
 
   <!-- EN: To survive, [PAWN_nameDef]'s gang often had to rob trade ships for food and supplies. Sometimes [PAWN_pronoun] had to kill the guards. Sometimes [PAWN_pronoun] had to kill the police who arrived to stop him.\n\nAfter years of this, [PAWN_pronoun] became one of the most-wanted criminals in the local empire. -->
-  <GangBoss49.description>TODO</GangBoss49.description>
+  <GangBoss49.description>D'fhás [PAWN_nameDef] suas le drong coirpeach, agus bhí [PAWN_pronoun] sásta spásloing a robáil agus daoine a mharú chun maireachtáil.\n\nTar éis na blianta a chaitheamh mar choirpeach, toghadh [PAWN_nameDef] ina c[PAWN_possessive]eannaire ar an ndrong sin.</GangBoss49.description>
   <!-- EN: gang boss -->
-  <GangBoss49.title>TODO</GangBoss49.title>
+  <GangBoss49.title>saoiste</GangBoss49.title>
   <!-- EN: boss -->
-  <GangBoss49.titleShort>TODO</GangBoss49.titleShort>
+  <GangBoss49.titleShort>saoiste</GangBoss49.titleShort>
 
   <!-- EN: Living for many years between three raider settlements, [PAWN_nameDef] persevered through many challenges: a spacecraft implosion, cryptostasis, crashlanding on a miserable dustball of a planet, and nursing an old man back to health, and many of battles.\n\n[PAWN_pronoun] eventually took control of a violent gang. -->
-  <GangSoldier39.description>TODO</GangSoldier39.description>
+  <GangSoldier39.description>D'fheidhmigh [PAWN_nameDef] mar shaighdiúir coise i ndrong coirpeach. Rinne [PAWN_pronoun] rudaí uafásacha, foréigneacha le linn na tréimhse sin.</GangSoldier39.description>
   <!-- EN: gang soldier -->
-  <GangSoldier39.title>TODO</GangSoldier39.title>
+  <GangSoldier39.title>saighdiúir coise</GangSoldier39.title>
   <!-- EN: soldier -->
-  <GangSoldier39.titleShort>TODO</GangSoldier39.titleShort>
+  <GangSoldier39.titleShort>saighdiúir</GangSoldier39.titleShort>
 
   <!-- EN: [PAWN_nameDef] carried out [PAWN_possessive] first genetic experiments on farm animals. [PAWN_pronoun] soon grew to become quite skilled in all forms of genetic engineering.\n\nA horrifying lab accident left [PAWN_objective] with a mortal fear of rodents. -->
-  <GeneticEngineer89.description>TODO</GeneticEngineer89.description>
+  <GeneticEngineer89.description>Ar dtús, rinne [PAWN_nameDef] turgnaimh ghéiniteacha ar ainmhithe feirme. Le cleachtadh, d'éirigh [PAWN_pronoun] go maith ag an innealtóireacht ghéiniteach.</GeneticEngineer89.description>
   <!-- EN: genetic engineer -->
-  <GeneticEngineer89.title>TODO</GeneticEngineer89.title>
+  <GeneticEngineer89.title>géineolaí</GeneticEngineer89.title>
   <!-- EN: geneticist -->
-  <GeneticEngineer89.titleShort>TODO</GeneticEngineer89.titleShort>
+  <GeneticEngineer89.titleShort>géineolaí</GeneticEngineer89.titleShort>
 
   <!-- EN: After the war [PAWN_pronoun] joined a genetic engineering firm. [PAWN_pronoun] worked on enhancements for humans and livestock. [PAWN_possessive] experience in inflicting and healing wounds was very beneficial to [PAWN_possessive] work, but [PAWN_pronoun] developed a black sense of humor. This made social gatherings awkward. -->
-  <GeneticScientist66.description>TODO</GeneticScientist66.description>
+  <GeneticScientist66.description>Tar éis an chogaidh, chuaigh [PAWN_nameDef] le saotharlann ghéiniteach. D'oibrigh [PAWN_pronoun] ar mhodhnuithe do dhaoine agus ainmhithe feirme. Is beag scileanna sóisialta atá ag [PAWN_nameDef].</GeneticScientist66.description>
   <!-- EN: genetic scientist -->
-  <GeneticScientist66.title>TODO</GeneticScientist66.title>
+  <GeneticScientist66.title>géineolaí</GeneticScientist66.title>
   <!-- EN: geneticist -->
-  <GeneticScientist66.titleShort>TODO</GeneticScientist66.titleShort>
+  <GeneticScientist66.titleShort>géineolaí</GeneticScientist66.titleShort>
 
   <!-- EN: [PAWN_nameDef] sold [PAWN_objective]self into slavery for money to purchase boomrat pizza. [PAWN_pronoun] was then traded to the Zeglar colonies, where [PAWN_pronoun] worked as a male prostitute.\n\nIn a fluke event, [PAWN_pronoun] managed to join other escaping slaves as they hijacked a ship. After fighting with the captain of the slave crew over the last piece of boomrat pizza, [PAWN_nameDef] was sent off the ship in an escape pod. -->
-  <Gigolo68.description>TODO</Gigolo68.description>
+  <Gigolo68.description>Sclabhaí [PAWN_nameDef] ab ea ar dtús, agus ansin cuireadh [PAWN_nameDef] i mbun oibre sna coilíneachtaí mar stripach. D'éalaigh [PAWN_pronoun] ón saol uafásach sin nuair a d'éirigh le grúpa striapach spáslong a ghoid agus éalú ón ngrianchóras.</Gigolo68.description>
   <!-- EN: gigolo -->
-  <Gigolo68.title>TODO</Gigolo68.title>
+  <Gigolo68.title>striapach</Gigolo68.title>
   <!-- EN: gigolo -->
-  <Gigolo68.titleShort>TODO</Gigolo68.titleShort>
+  <Gigolo68.titleShort>striapach</Gigolo68.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a xenobiology professor in a glitterworld university. [PAWN_pronoun] went to conferences and managed an art gallery.\n\nHowever, [PAWN_pronoun] never stopped sculpting yard gnomes, and considers this to be [PAWN_possessive] true profession. -->
-  <Gnomebiologist96.description>TODO</Gnomebiologist96.description>
+  <Gnomebiologist96.description>Ina ról mar eisbhitheolaí, d'fhreastail [PAWN_nameDef] ar chomhdhálacha taighde agus bhí [PAWN_pronoun] ina léachtóir ollscoile ar phláinéad shibhialta.</Gnomebiologist96.description>
   <!-- EN: gnomebiologist -->
-  <Gnomebiologist96.title>TODO</Gnomebiologist96.title>
+  <Gnomebiologist96.title>eisbhitheolaí</Gnomebiologist96.title>
   <!-- EN: biologist -->
-  <Gnomebiologist96.titleShort>TODO</Gnomebiologist96.titleShort>
+  <Gnomebiologist96.titleShort>eisbhitheolaí</Gnomebiologist96.titleShort>
 
   <!-- EN: [PAWN_nameDef] worked for the government against rebel groups and excelled in this capacity. During [PAWN_possessive] training [PAWN_pronoun] was taught firearms, melee combat and medical skills.\n\nHaving grown up in a war-ravaged city, dirt, blood and dead bodies don't bother [PAWN_objective] and [PAWN_pronoun] sees no reason to clean them up. -->
-  <GovernmentAgent61.description>TODO</GovernmentAgent61.description>
+  <GovernmentAgent61.description>D'oibrigh [PAWN_nameDef] le haonad frithsceimhlitheoireachta an rialtais. Tá scileanna lámhaigh agus leighis ag [PAWN_nameDef] mar gheall ar an taithí sin. Chaith [PAWN_pronoun] roinnt blianta a chaitheamh ag obair i zóin cogaidh, ní chuireann salachar, pian ná marbháin isteach ar [PAWN_nameDef].</GovernmentAgent61.description>
   <!-- EN: government agent -->
-  <GovernmentAgent61.title>TODO</GovernmentAgent61.title>
+  <GovernmentAgent61.title>gníomhaire rialtais</GovernmentAgent61.title>
   <!-- EN: agent -->
-  <GovernmentAgent61.titleShort>TODO</GovernmentAgent61.titleShort>
+  <GovernmentAgent61.titleShort>gníomhaire</GovernmentAgent61.titleShort>
 
   <!-- EN: [PAWN_nameDef]' interest in artistic expression led [PAWN_objective] to become a designer. [PAWN_possessive] eye for detail made [PAWN_objective] a reasonably well-known artist on [PAWN_possessive] planet, though [PAWN_possessive] meticulousness often led [PAWN_objective] to spend too much time perfecting a single project. -->
-  <GraphicDesigner33.description>TODO</GraphicDesigner33.description>
+  <GraphicDesigner33.description>Bhí bua na healaíne ag [PAWN_nameDef], agus chuaigh [PAWN_pronoun] i mbun oibre mar dhearthóir grafaicí.</GraphicDesigner33.description>
   <!-- EN: graphic designer -->
-  <GraphicDesigner33.title>TODO</GraphicDesigner33.title>
+  <GraphicDesigner33.title>dearthóir grafaicí</GraphicDesigner33.title>
   <!-- EN: designer -->
-  <GraphicDesigner33.titleShort>TODO</GraphicDesigner33.titleShort>
+  <GraphicDesigner33.titleShort>dearthóir</GraphicDesigner33.titleShort>
 
   <!-- EN: After [PAWN_pronoun] learned what truly matters in life, [PAWN_nameDef] changed for the better. [PAWN_pronoun] learned to work hard and protect the things that matter - not money or material things, but friends and loved ones.\n\n[PAWN_pronoun] became a professional guardian. -->
-  <Guardian55.description>TODO</Guardian55.description>
+  <Guardian55.description>Is cuma le [PAWN_nameDef] faoin airgead agus faoi nithe saolta. Tugann [PAWN_pronoun] aire do na rudaí is tábhachtaí sa saol seo - daoine eile, agus cairde.</Guardian55.description>
   <!-- EN: guardian -->
-  <Guardian55.title>TODO</Guardian55.title>
+  <Guardian55.title>cosantóir</Guardian55.title>
   <!-- EN: guardian -->
-  <Guardian55.titleShort>TODO</Guardian55.titleShort>
+  <Guardian55.titleShort>cosantóir</Guardian55.titleShort>
 
   <!-- EN: [PAWN_nameDef] traded high-tech firearms between warring factions.\n\nOver time, [PAWN_pronoun] became very skilled at conducting product demonstrations and negotiating profitable deals. -->
-  <GunDealer14.description>TODO</GunDealer14.description>
+  <GunDealer14.description>Dhíol [PAWN_nameDef] gunnaí agus airm le faicsin, grúpaí cogaidh agus dronganna.</GunDealer14.description>
   <!-- EN: gun dealer -->
-  <GunDealer14.title>TODO</GunDealer14.title>
+  <GunDealer14.title>díoltóir arm</GunDealer14.title>
   <!-- EN: gun dealer -->
-  <GunDealer14.titleShort>TODO</GunDealer14.titleShort>
+  <GunDealer14.titleShort>díoltóir arm</GunDealer14.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a deadly shot. Peace wasn't for him. [PAWN_pronoun] found [PAWN_possessive] family among the brothers and sisters that [PAWN_pronoun] spent years fighting alongside.\n\nAfter most of those close to [PAWN_objective] died, [PAWN_pronoun] once again set off to lend [PAWN_possessive] gun to those who needed it - or those who could pay. -->
-  <Gunfighter51.description>TODO</Gunfighter51.description>
+  <Gunfighter51.description>Tá scileanna lámhaigh den chéad scoth ag [PAWN_nameDef]. Bhí [PAWN_pronoun] sásta duine ar bith a mharú ar an bpraghas ceart.</Gunfighter51.description>
   <!-- EN: gunfighter -->
-  <Gunfighter51.title>TODO</Gunfighter51.title>
+  <Gunfighter51.title>feallmharfóir</Gunfighter51.title>
   <!-- EN: gunfighter -->
-  <Gunfighter51.titleShort>TODO</Gunfighter51.titleShort>
+  <Gunfighter51.titleShort>feallmharfóir</Gunfighter51.titleShort>
 
   <!-- EN: [PAWN_nameDef] took the time to admire the beauty of the world.\n\n[PAWN_possessive] passive-aggressiveness surfaced once in a while, but [PAWN_pronoun] tried to adapt to [PAWN_possessive] changing life. -->
-  <Healer35.description>TODO</Healer35.description>
+  <Healer35.description>Tuigeann [PAWN_nameDef] áilleacht an tsaoil seo, agus úsáideann [PAWN_pronoun] an tuiscint sin chun daoine eile a chneasú.</Healer35.description>
   <!-- EN: healer -->
-  <Healer35.title>TODO</Healer35.title>
+  <Healer35.title>cneasaí</Healer35.title>
   <!-- EN: healer -->
-  <Healer35.titleShort>TODO</Healer35.titleShort>
+  <Healer35.titleShort>cneasaí</Healer35.titleShort>
 
   <!-- EN: A top hedge fund manager on a teeming urbworld, [PAWN_nameDef]'s portfolio grew rapidly as [PAWN_pronoun] charmed clients with a sweet voice and devious intent. When the deal turned out too good to be true, [PAWN_pronoun] was forced to flee the planet with a bounty on [PAWN_possessive] head.\n\nAs [PAWN_pronoun] traveled the stars [PAWN_pronoun] found a passion in the arts, making masterpieces fit for high society customers. -->
-  <HedgeFundManager54.description>TODO</HedgeFundManager54.description>
+  <HedgeFundManager54.description>D'oibrigh [PAWN_nameDef] mar bhaincéir infheistíocht ar phláinéad uirbeach. D'fhás a p[PAWN_possessive]unann go tapa, ach chaill [PAWN_pronoun] a c[PAWN_possessive]uid airgid ar fad nuair a rinne sé beart le drong coirpeach.</HedgeFundManager54.description>
   <!-- EN: hedge fund manager -->
-  <HedgeFundManager54.title>TODO</HedgeFundManager54.title>
+  <HedgeFundManager54.title>baincéir infheistíochta</HedgeFundManager54.title>
   <!-- EN: banker -->
-  <HedgeFundManager54.titleShort>TODO</HedgeFundManager54.titleShort>
+  <HedgeFundManager54.titleShort>baincéir</HedgeFundManager54.titleShort>
 
   <!-- EN: After a terrible mining accident, [PAWN_nameDef] set off into space in search of exotic new animal species.\n\n[PAWN_pronoun] hoped to leave [PAWN_possessive] past behind and find long-lived companions. [PAWN_pronoun] knew the pain of loss too well. -->
-  <Herpetologist3.description>TODO</Herpetologist3.description>
+  <Herpetologist3.description>Thaistail [PAWN_nameDef] ó phláinéad go pláinéad i mbun taighde maidir le hainmhithe úra, go háirithe reiptílí.</Herpetologist3.description>
   <!-- EN: herpetologist -->
-  <Herpetologist3.title>TODO</Herpetologist3.title>
+  <Herpetologist3.title>bitheolaí</Herpetologist3.title>
   <!-- EN: herper -->
-  <Herpetologist3.titleShort>TODO</Herpetologist3.titleShort>
+  <Herpetologist3.titleShort>bitheolaí</Herpetologist3.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a master thief, working mostly for organized crime. Over time, [PAWN_pronoun] made a name for [PAWN_objective]self and shifted [PAWN_possessive] business into the paid "removal" of human threats. -->
-  <HiredAssassin37.description>TODO</HiredAssassin37.description>
+  <HiredAssassin37.description>Ar dtús, d'oibrigh [PAWN_nameDef] mar ghadaí - ach le himeacht ama, thosaigh [PAWN_pronoun] ag obair in earnáil an fheallmharfa. Bhí sé sásta fáil réidh le duine ar bith do chliant ar bith, ar an bpraghas ceart.</HiredAssassin37.description>
   <!-- EN: hired assassin -->
-  <HiredAssassin37.title>TODO</HiredAssassin37.title>
+  <HiredAssassin37.title>dúnmharfóir</HiredAssassin37.title>
   <!-- EN: assassin -->
-  <HiredAssassin37.titleShort>TODO</HiredAssassin37.titleShort>
+  <HiredAssassin37.titleShort>dúnmharfóir</HiredAssassin37.titleShort>
 
   <!-- EN: [PAWN_nameDef] always wanted to prove [PAWN_pronoun] could make a living without [PAWN_possessive] parents' help. [PAWN_pronoun] did shady jobs that often involved pointing guns at innocent people.\n\n[PAWN_pronoun] eventually made enough money to board a cheap freighter. [PAWN_pronoun] discovered why it was so cheap when it crashed. -->
-  <HiredGun70.description>TODO</HiredGun70.description>
+  <HiredGun70.description>Rinne [PAWN_pronoun jabanna amhrasacha le dronganna coirpeach, agus is minic go raibh ar [PAWN_nameDef] gunnaí a dhíriú ar dhaoine neamhchiontacha. Ar deireadh, sábháil go leor airgid chun spáslong a cheannach.</HiredGun70.description>
   <!-- EN: hired gun -->
-  <HiredGun70.title>TODO</HiredGun70.title>
+  <HiredGun70.title>fear gunna</HiredGun70.title>
   <!-- EN: hired gun -->
-  <HiredGun70.titleShort>TODO</HiredGun70.titleShort>
+  <HiredGun70.titleShort>fear gunna</HiredGun70.titleShort>
 
   <!-- EN: Knowing what life on the streets was truly like, [PAWN_nameDef] slipped into police work. However, a particularly disturbing case ended with [PAWN_objective] beating the perpetrator to death.\n\nDishonorably discharged from [PAWN_possessive] duties, [PAWN_pronoun] used [PAWN_possessive] contacts and skills to find work as a thug for hire. -->
-  <HiredMuscle5.description>TODO</HiredMuscle5.description>
+  <HiredMuscle5.description>D'fhás [PAWN_nameDef] suas ar na sráideanna, agus chuaigh [PAWN_pronoun] leis na póilíní ar dtús. I gcás amháin, áfach, tháinig racht feirge ar [PAWN_nameDef] agus mharaigh [PAWN_pronoun] an duine ciontach. Cuireadh [PAWN_nameDef] amach as na póilíní ar an bpointe, agus chuaigh [PAWN_pronoun] le domhan na coireachta ina dhiaidh sin.</HiredMuscle5.description>
   <!-- EN: hired muscle -->
-  <HiredMuscle5.title>TODO</HiredMuscle5.title>
+  <HiredMuscle5.title>amhas</HiredMuscle5.title>
   <!-- EN: hired thug -->
-  <HiredMuscle5.titleShort>TODO</HiredMuscle5.titleShort>
+  <HiredMuscle5.titleShort>amhas</HiredMuscle5.titleShort>
 
   <!-- EN: [PAWN_nameDef] stole children from their homes to sell them to interested buyers.\n\nOver time, [PAWN_pronoun] lost what little moral sense [PAWN_pronoun] had left. -->
-  <HumanTrafficker35.description>TODO</HumanTrafficker35.description>
+  <HumanTrafficker35.description>Ghoid [PAWN_nameDef] leanaí agus dhíol  [PAWN_pronoun] le sclábhathóirí iad. Is mar a chéile le [PAWN_nameDef] ceart nó mícheart.</HumanTrafficker35.description>
   <!-- EN: human trafficker -->
-  <HumanTrafficker35.title>TODO</HumanTrafficker35.title>
+  <HumanTrafficker35.title>gáinneálaí ar dhaoine</HumanTrafficker35.title>
   <!-- EN: trafficker -->
-  <HumanTrafficker35.titleShort>TODO</HumanTrafficker35.titleShort>
+  <HumanTrafficker35.titleShort>gáinneálaí</HumanTrafficker35.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a master hunter.\n\n[PAWN_pronoun] learned to track and trap any animal in the most dangerous of places, and had deep knowledge of many ingenious methods for taking down specific large animals. -->
-  <Hunter73.description>TODO</Hunter73.description>
+  <Hunter73.description>Tá [PAWN_nameDef] in ann aon ainmhí a leanúint agus a ghabháil, in áit ar bith. Tá eolas ag [PAWN_nameDef] ar cuid mhór ainmhithe, timpeallachtaí agus modhanna sealgaireachta.</Hunter73.description>
   <!-- EN: hunter -->
-  <Hunter73.title>TODO</Hunter73.title>
+  <Hunter73.title>sealgaire</Hunter73.title>
   <!-- EN: hunter -->
-  <Hunter73.titleShort>TODO</Hunter73.titleShort>
+  <Hunter73.titleShort>sealgaire</Hunter73.titleShort>
 
   <!-- EN: [PAWN_nameDef] was forced to protect [PAWN_possessive] colony in the name of the king after a mysterious outbreak of murderous genetically-modified wildlife.\n\nDespite [PAWN_possessive] best efforts, [PAWN_possessive] kingdom was destroyed. [PAWN_nameDef] developed PTSD, a hatred of animals and a bad case of technophobia. [PAWN_pronoun] was named for the place they found him. -->
-  <HunterOfTheKing53.description>TODO</HunterOfTheKing53.description>
+  <HunterOfTheKing53.description>Garda ab ea [PAWN_nameDef] i gcoilíneacht eile, ach tharla tubáiste éigean agus maraíodh gach duine. Ní fios go díreach céard a tharla, ach tá neamhord strus iarthrámach ar [PAWN_nameDef] mar thoradh. Tá eagla ar [PAWN_nameDef] roimh ainmhithe agus roimh an teicneolaíocht.</HunterOfTheKing53.description>
   <!-- EN: hunter of the king -->
-  <HunterOfTheKing53.title>TODO</HunterOfTheKing53.title>
+  <HunterOfTheKing53.title>iargharda</HunterOfTheKing53.title>
   <!-- EN: pest guard -->
-  <HunterOfTheKing53.titleShort>TODO</HunterOfTheKing53.titleShort>
+  <HunterOfTheKing53.titleShort>iargharda</HunterOfTheKing53.titleShort>
 
   <!-- EN: Desiring to understand people, [PAWN_nameDef] learned hypnotism and discovered [PAWN_possessive] talent for the art.\n\n[PAWN_pronoun] gathered followers and formed a cult around [PAWN_possessive] vibrant personality. The authorities discovered [PAWN_possessive] illegal operations, and [PAWN_nameDef] fled before [PAWN_pronoun] could be arrested. -->
-  <HypnocultLeader61.description>TODO</HypnocultLeader61.description>
+  <HypnocultLeader61.description>Lena scileanna hiopnóise, chruthaigh [PAWN_nameDef] cultas agus bhailigh [PAWN_pronoun] cúpla dosaen leantóirí. Rinne na húdaráis iarracht stop a chur le gníomhaíochtaí mídhleathacha, ach d'éalaigh [PAWN_pronoun] ón bpláinéad.</HypnocultLeader61.description>
   <!-- EN: hypnocult leader -->
-  <HypnocultLeader61.title>TODO</HypnocultLeader61.title>
+  <HypnocultLeader61.title>hiopnóisí</HypnocultLeader61.title>
   <!-- EN: cultist -->
-  <HypnocultLeader61.titleShort>TODO</HypnocultLeader61.titleShort>
+  <HypnocultLeader61.titleShort>hiopnóisí</HypnocultLeader61.titleShort>
 
   <!-- EN: [PAWN_nameDef]'s thirst for power defined [PAWN_objective]. [PAWN_pronoun] quickly rose through the military ranks and soon attained the rank of general.\n\n[PAWN_pronoun] was given the most challenging task - conquering distant and unexplored rimworlds. Victory here could even position [PAWN_objective] as a successor to the emperor. -->
-  <ImperialGeneral27.description>TODO</ImperialGeneral27.description>
+  <ImperialGeneral27.description>Ginearál míleata ab ea [PAWN_nameDef] in impireacht i ngrianchóras eile. Cuireadh de chúram ar [PAWN_nameDef] taisteal go pláinéad iargúlta agus iad a chur faoi chois.</ImperialGeneral27.description>
   <!-- EN: imperial general -->
-  <ImperialGeneral27.title>TODO</ImperialGeneral27.title>
+  <ImperialGeneral27.title>ginearál impiriúil</ImperialGeneral27.title>
   <!-- EN: general -->
-  <ImperialGeneral27.titleShort>TODO</ImperialGeneral27.titleShort>
+  <ImperialGeneral27.titleShort>ginearál</ImperialGeneral27.titleShort>
 
   <!-- EN: [PAWN_nameDef] caught a ship to the next star system and began a life of travel and learning, quickly collecting a massive bank of knowledge from people of all shapes and sizes.\n\n[PAWN_pronoun] learned to sell this knowledge for great profit, and became a powerful broker of information. -->
-  <InformationBroker77.description>TODO</InformationBroker77.description>
+  <InformationBroker77.description>Thaistal [PAWN_nameDef]  ó áit go háit, ag bailiú eolais agus faisnéise. Dhíol [PAWN_pronoun] na rudaí a bhí foghlamtha aige, agus bhí aithne ar [PAWN_nameDef] ar fud an ghrianchórais mar bhróicéir eolais.</InformationBroker77.description>
   <!-- EN: information broker -->
-  <InformationBroker77.title>TODO</InformationBroker77.title>
+  <InformationBroker77.title>bróicéir eolais</InformationBroker77.title>
   <!-- EN: broker -->
-  <InformationBroker77.titleShort>TODO</InformationBroker77.titleShort>
+  <InformationBroker77.titleShort>bróicéir</InformationBroker77.titleShort>
 
   <!-- EN: Because of [PAWN_possessive] hacking skills, [PAWN_nameDef] was recruited by [PAWN_possessive] home planet's governing body to serve as an intelligence agent. The government trained [PAWN_objective] in combat, but [PAWN_pronoun] prefers psychological warfare.\n\nGovernment rules proved too strict for [PAWN_objective], so [PAWN_pronoun] went rogue. [PAWN_possessive] current activities are unknown. -->
-  <IntelligenceAgent10.description>TODO</IntelligenceAgent10.description>
+  <IntelligenceAgent10.description>Gníomhaire faisnéise le rannán rialtas rúnda ab ea [PAWN_nameDef]. Tá scileanna haiceála den chéad scoth ag [PAWN_nameDef], agus tá [PAWN_pronoun] ina s[PAWN_possessive]aineolaí sa chogaíocht shíceolaíoch.</IntelligenceAgent10.description>
   <!-- EN: intelligence agent -->
-  <IntelligenceAgent10.title>TODO</IntelligenceAgent10.title>
+  <IntelligenceAgent10.title>gníomhaire faisnéise</IntelligenceAgent10.title>
   <!-- EN: agent -->
-  <IntelligenceAgent10.titleShort>TODO</IntelligenceAgent10.titleShort>
+  <IntelligenceAgent10.titleShort>gníomhaire</IntelligenceAgent10.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a professional assassin. [PAWN_pronoun] was sadistic, calculating, and appeared utterly harmless.\n\n[PAWN_pronoun] preferred using intimate means to dispatch [PAWN_possessive] targets. This fulfilled both [PAWN_possessive] contracts and [PAWN_possessive] own personal desire for control. -->
   <IntimateAssassin35.description>TODO</IntimateAssassin35.description>

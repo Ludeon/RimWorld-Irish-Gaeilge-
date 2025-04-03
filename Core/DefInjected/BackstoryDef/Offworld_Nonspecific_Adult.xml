@@ -318,7 +318,7 @@
   <Teacher20.titleShort>múinteoir</Teacher20.titleShort>
   
   <!-- EN: Working for a tyrannical dictator, [PAWN_nameDef] earned a reputation as an expert in 'persuasion.' Any prisoner who went down into the dungeons left with no secrets - and with [PAWN_nameDef]'s smile scarred permanently into their nightmares. -->
-  <Torturer37.description>D'oibrigh [PAWN_nameDef] faoi dheachtóir tíoránta, agus bhí [PAWN_pronoun] cáiliúil as a scileanna céasta. Bhí sé de dhualgas ar plé le príosúnaigh sa doinsiún chun a gcuid eolais a bhaint astu.</Torturer37.description>
+  <Torturer37.description>D'oibrigh [PAWN_nameDef] faoi dheachtóir tíoránta, agus bhí [PAWN_pronoun] cáiliúil as a scileanna céasta. Bhí sé de dhualgas ar [PAWN_nameDef] plé le príosúnaigh sa doinsiún chun a gcuid eolais a bhaint astu.</Torturer37.description>
   <!-- EN: torturer -->
   <Torturer37.title>céastóir</Torturer37.title>
   <!-- EN: torturer -->

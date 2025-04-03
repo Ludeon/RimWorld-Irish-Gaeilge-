@@ -2,36 +2,36 @@
 <LanguageData>
   
   <!-- EN: charge blaster shot -->
-  <Bullet_ChargeBlasterHeavy.label>TODO</Bullet_ChargeBlasterHeavy.label>
+  <Bullet_ChargeBlasterHeavy.label>urchar (reábaire pléascach)</Bullet_ChargeBlasterHeavy.label>
   
   <!-- EN: inferno cannon shell -->
-  <Bullet_InfernoCannon.label>TODO</Bullet_InfernoCannon.label>
+  <Bullet_InfernoCannon.label>sliogán (canóin thine)</Bullet_InfernoCannon.label>
   
   <!-- EN: needle shot -->
-  <Bullet_NeedleGun.label>TODO</Bullet_NeedleGun.label>
+  <Bullet_NeedleGun.label>urchar (snáthaid)</Bullet_NeedleGun.label>
   
   <!-- EN: heavy charge blaster -->
-  <Gun_ChargeBlasterHeavy.label>TODO</Gun_ChargeBlasterHeavy.label>
+  <Gun_ChargeBlasterHeavy.label>reábaire pléascach</Gun_ChargeBlasterHeavy.label>
   <!-- EN: A pulse-charged rapid-fire blaster for area suppressive fire. Heavy cooling allows long, deadly bursts. -->
-  <Gun_ChargeBlasterHeavy.description>TODO</Gun_ChargeBlasterHeavy.description>
+  <Gun_ChargeBlasterHeavy.description>Úsáidtear an réabaire mór seo chun damáiste gathach a dhéanamh i limistéar mór.</Gun_ChargeBlasterHeavy.description>
   <!-- EN: barrel -->
-  <Gun_ChargeBlasterHeavy.tools.barrel.label>TODO</Gun_ChargeBlasterHeavy.tools.barrel.label>
+  <Gun_ChargeBlasterHeavy.tools.barrel.label>bairille</Gun_ChargeBlasterHeavy.tools.barrel.label>
   <!-- EN: heavy charge blaster -->
-  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>TODO</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
+  <Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>reábaire pléascach</Gun_ChargeBlasterHeavy.verbs.Verb_Shoot.label>
   
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannon.label>TODO</Gun_InfernoCannon.label>
+  <Gun_InfernoCannon.label>canóin loiscneach</Gun_InfernoCannon.label>
   <!-- EN: An incendiary-shot mini-artillery device. It fires a large incendiary warhead. -->
-  <Gun_InfernoCannon.description>TODO</Gun_InfernoCannon.description>
+  <Gun_InfernoCannon.description>Scaoileann an gaireas seo sliogáin loiscneacha.</Gun_InfernoCannon.description>
   <!-- EN: barrel -->
-  <Gun_InfernoCannon.tools.barrel.label>TODO</Gun_InfernoCannon.tools.barrel.label>
+  <Gun_InfernoCannon.tools.barrel.label>bairille</Gun_InfernoCannon.tools.barrel.label>
   <!-- EN: inferno cannon -->
-  <Gun_InfernoCannon.verbs.Verb_Shoot.label>TODO</Gun_InfernoCannon.verbs.Verb_Shoot.label>
+  <Gun_InfernoCannon.verbs.Verb_Shoot.label>canóin loiscneac</Gun_InfernoCannon.verbs.Verb_Shoot.label>
   
   <!-- EN: needle gun -->
-  <Gun_Needle.label>TODO</Gun_Needle.label>
+  <Gun_Needle.label>biorghunna</Gun_Needle.label>
   <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
-  <Gun_Needle.description>TODO</Gun_Needle.description>
+  <Gun_Needle.description>Arm fadraion a úsáideann meicea-róbait. Scaoileann sé urchair atá cosúil le snáthaidí nó bioráin, agus tá sé an-chruinn. Níl sé chomh dáinséarach le gunnaí pléascacha, ach tá raon níos faide ag an ngunna seo.</Gun_Needle.description>
   <!-- EN: barrel -->
   <Gun_Needle.tools.barrel.label>TODO</Gun_Needle.tools.barrel.label>
   <!-- EN: needle gun -->

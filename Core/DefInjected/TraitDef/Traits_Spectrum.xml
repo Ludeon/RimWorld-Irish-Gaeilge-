@@ -122,7 +122,7 @@
   <!-- EN: [PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy. -->
   <ShootingAccuracy.degreeDatas.careful_shooter.description>Tógann sé níos mó ama ar [PAWN_nameDef] targaidí a aimsiú le gunnaí, ach bíonn [PAWN_pronoun] níos cruinne.</ShootingAccuracy.degreeDatas.careful_shooter.description>
   <!-- EN: trigger-happy -->
-  <ShootingAccuracy.degreeDatas.triggerhappy.label>drochaimsitheoir</ShootingAccuracy.degreeDatas.triggerhappy.label>
+  <ShootingAccuracy.degreeDatas.triggerhappy.label>droch-lámhachóir</ShootingAccuracy.degreeDatas.triggerhappy.label>
   <!-- EN: Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately. -->
   <ShootingAccuracy.degreeDatas.triggerhappy.description>Plab! Plab! Plab! Is maith le [PAWN_nameDef] an truicear a bhrú, ach ní bhíonn [PAWN_pronoun] róchruinn le gunnaí.</ShootingAccuracy.degreeDatas.triggerhappy.description>
   

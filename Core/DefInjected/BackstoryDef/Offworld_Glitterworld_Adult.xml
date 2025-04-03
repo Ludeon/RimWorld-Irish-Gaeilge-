@@ -74,8 +74,8 @@
   <Sculptor63.titleShort>dealbhóir</Sculptor63.titleShort>
   
   <!-- EN: [PAWN_nameDef] designed virtual reality simulations for glitterworld citizens. [PAWN_pronoun] put great effort into the details of [PAWN_possessive] virtual worlds, learning all [PAWN_pronoun] could about plant life to make [PAWN_possessive] landscapes as realistic as possible. -->
-  <VRDesigner87.description>Bhí [PAWN_nameDef] freagrach as ionsamhlúcháin réaltachta fíorúla a dhearadh do shaoránaigh geal-phlainéid. Bhí [PAWN_pronoun] an-tugtha do na mionsonraí sna domhain bhréige sin, agus chuaigh [PAWN_pronoun] i mbun staidéir ar phlandaí chun na tírdhreacha fíorúla a dhéanamh níos réalaíche.</VRDesigner87.description>
-  <VRDesigner87.baseDesc>Bhí [PAWN_nameDef] freagrach as ionsamhlúcháin réaltachta fíorúla a dhearadh do shaoránaigh geal-phlainéid. Bhí [PAWN_pronoun] an-tugtha do na mionsonraí sna domhain bhréige sin, agus chuaigh [PAWN_pronoun] i mbun staidéir ar phlandaí chun na tírdhreacha fíorúla a dhéanamh níos réalaíche.</VRDesigner87.baseDesc>
+  <VRDesigner87.description>Bhí [PAWN_nameDef] freagrach as ionsamhlúcháin réaltachta fíorúla a dhearadh do chomhlacht ríomhaireachta. Bhí [PAWN_pronoun] an-tugtha do na mionsonraí sna domhain bhréige sin, agus chuaigh [PAWN_pronoun] i mbun staidéir ar phlandaí chun na tírdhreacha fíorúla a dhéanamh níos réalaíche.</VRDesigner87.description>
+  <VRDesigner87.baseDesc>Bhí [PAWN_nameDef] freagrach as ionsamhlúcháin réaltachta fíorúla a dhearadh do chomhlacht ríomhaireachta. Bhí [PAWN_pronoun] an-tugtha do na mionsonraí sna domhain bhréige sin, agus chuaigh [PAWN_pronoun] i mbun staidéir ar phlandaí chun na tírdhreacha fíorúla a dhéanamh níos réalaíche.</VRDesigner87.baseDesc>
   <!-- EN: VR designer -->
   <VRDesigner87.title>dearthóir</VRDesigner87.title>
   <!-- EN: game dev -->

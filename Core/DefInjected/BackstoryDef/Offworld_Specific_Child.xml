@@ -51,14 +51,14 @@
   <TestSubject15.titleShort>leanbh triaileadáin</TestSubject15.titleShort>
   
   <!-- EN: The urbworlds - ancient and deep industrial cityscapes bursting with humanity and poison. [PAWN_nameDef] grew up in the dark, unwanted reaches of such a place. [PAWN_pronoun] had to fight for every scrap of food. -->
-  <UrbworldUrchin61.description>D'fhás [PAWN_nameDef] aníos ar phláinéad uirbeach mór, i lár gcathair shalach ina raibh cúpla billiún duine ina gcónaí.</UrbworldUrchin61.description>
+  <UrbworldUrchin61.description>D'fhás [PAWN_nameDef] suas ar phláinéad uirbeach mór, i gcathair shalach ina raibh cúpla billiún duine.</UrbworldUrchin61.description>
   <!-- EN: urbworld urchin -->
   <UrbworldUrchin61.title>dailtín</UrbworldUrchin61.title>
   <!-- EN: urchin -->
   <UrbworldUrchin61.titleShort>dailtín</UrbworldUrchin61.titleShort>
   
   <!-- EN: [PAWN_nameDef] was tasked with watching [PAWN_possessive] family's herds, but often shirked [PAWN_possessive] duties to go exploring the crashed warships scattered around the planet. -->
-  <WreckageExplorer93.description>D'fhás [PAWN_nameDef] aníos i longchlós mór mílteach, agus d'fhoghlaim [PAWN_pronoun] conas smionagar spáslonganna a dhíchóimeáil agus atógáil.</WreckageExplorer93.description>
+  <WreckageExplorer93.description>D'fhás [PAWN_nameDef] suas i longchlós mór mílteach, agus d'fhoghlaim [PAWN_pronoun] conas smionagar spáslonganna a dhíchóimeáil agus atógáil.</WreckageExplorer93.description>
   <!-- EN: wreckage explorer -->
   <WreckageExplorer93.title>bristeoir</WreckageExplorer93.title>
   <!-- EN: explorer -->

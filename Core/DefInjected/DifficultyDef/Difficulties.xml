@@ -9,17 +9,17 @@
   <!-- EN: community builder -->
   <Easy.label>pobalbhunaithe</Easy.label>
   <!-- EN: Build a community with a taste of danger. Threats appear, but they're weakened.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who are new to this kind of game.\n- Players who want to build a perfect colony.\n- Players who want to relax. -->
-  <Easy.description>Cruthaigh pobal le beagán dáinséir. Beidh bagairtí ann, ach ní bheith siad ródháinséarach..\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí nua.\n- Imreoirí atá ag iarraidh an choilíneacht fhoirfe a fhorbairt.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Easy.description>
+  <Easy.description>Beidh bagairtí ann, ach ní bheith siad ródháinséarach.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí nua.\n- Imreoirí atá ag iarraidh an choilíneacht fhoirfe a fhorbairt.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Easy.description>
   
   <!-- EN: losing is fun -->
   <Extreme.label>is maith liom cailliúint</Extreme.label>
   <!-- EN: This setting is designed to be unfair. Huge threats will crash upon you without mercy until your colony dies. Only choose this setting if you are happy with the drama of struggling and dying.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to face a brutal, unfair challenge where even great skill may not prevent death.\n- Lovers of tragedy.\n- Digital masochists. -->
-  <Extreme.description>Tá an deacracht seo míchothrom. Buailfear thú le bagairtí ollmhóra gan trócaire go dtí go scriosfar do choilíneacht. Ná roghnaigh an deacracht seo mura bhfuil tú ag iarraidh streachailt..\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí ar mhaith leo tabhairt faoi dúshlán brúidiúil, míchothrom. Tá gach seans ann nach mbeidh leat, fiú más imreoir maith thú.\n- Daoine a thaitníonn tragóid leo.\n- Masacaigh dhigiteacha.</Extreme.description>
+  <Extreme.description>Buailfear thú le bagairtí gan trócaire go dtí go scriosfar do choilíneacht. Ná roghnaigh an deacracht seo mura bhfuil tú ag iarraidh streachailt.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí ar mhaith leo tabhairt faoi dúshlán brúidiúil, míchothrom. Tá gach seans ann nach mbeidh leat, fiú más imreoir maith thú.\n- Daoine a thaitníonn tragóid leo.\n- Masacaigh dhigiteacha.</Extreme.description>
   
   <!-- EN: blood and dust -->
   <Hard.label>fuil agus putóga</Hard.label>
   <!-- EN: Face brutal survival challenges. Even if you play well, people will die. You will need to anticipate threats before they arrive, and seek out every advantage.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want to struggle to survive. -->
-  <Hard.description>Tabhair aghaidh ar dhúshláin bhrúidiúla. Fiú má imríonn tú go maith, marófar do choilínigh. Beidh ort a bheith ag súil le gach dúshlán sula tharlaíonn sé, agus gach buntáiste a lorg.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí a bhfuil go leor taithí acu atá ag iarraidh tabhairt faoi dhúshlán dosháraithe.</Hard.description>
+  <Hard.description>Beidh dúshláin bhrúidiúla i gceist. Fiú má imríonn tú go maith, marófar do choilínigh. Beidh ort a bheith ag súil le gach dúshlán sula dtarlaíonn sé, agus beidh ort gach buntáiste a lorg.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí a bhfuil go leor taithí acu atá ag iarraidh tabhairt faoi dhúshlán dosháraithe.</Hard.description>
   
   <!-- EN: adventure story -->
   <Medium.label>scéal eachtraíochta</Medium.label>
@@ -29,11 +29,11 @@
   <!-- EN: peaceful -->
   <Peaceful.label>síochánta</Peaceful.label>
   <!-- EN: Build a community in a sandbox environment. Major direct threats are disabled, but challenges like disease, mental breaks, and mad animals can still occur.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Players who want to learn the game mechanics with minimal pressure.\n- Players who just want to build.\n- Players who just want to relax. -->
-  <Peaceful.description>Cruthaigh pobal i dtimpeallacht shíochánta. Ní bheidh aon bhagairtí tromchúiseacha ann, ach bheidh ort plé le galar, meabharshláinte agus ainmhithe fiáine go fóill.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí atá ag iarraidh foghlaim conas an cluiche a imirt gan aon bhrú.\n- Imreoirí a bhfuil spéis acu sa tógáil.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Peaceful.description>
+  <Peaceful.description>Ní bheidh aon bhagairtí tromchúiseacha ann, ach beidh ort plé le tinneas, fadhbanna meabharshláinte agus ainmhithe fiáine go fóill.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí atá ag iarraidh foghlaim conas an cluiche a imirt gan aon bhrú.\n- Imreoirí a bhfuil spéis acu sa tógáil.\n- Imreoirí atá ag iarraidh a scíth a ligean.</Peaceful.description>
   
   <!-- EN: strive to survive -->
   <Rough.label>troid in éadan na héagóra</Rough.label>
   <!-- EN: Strive to survive on a rough, tough planet. There will be triumph and tragedy.\n\n(*SectionTitle)Recommended for:(/SectionTitle)\n\n- Experienced players who want a rough story requiring skill to survive. -->
-  <Rough.description>Troid in éadan na héagóra ar phláinéad garbh, crua. Beidh buanna agus tragóidí ann..\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí a bhfuil taithí acu ar RimWorld atá ag iarraidh aghaidh a thabhairt ar scéal dúshlánach, ina mbeidh scil ag teastáil le teacht slán.</Rough.description>
+  <Rough.description>Beidh buanna agus tragóidí ann.\n\n(*SectionTitle)Moltar an deacracht seo do na himreoirí seo a leanas:(/SectionTitle)\n\n- Imreoirí a bhfuil taithí acu ar RimWorld atá ag iarraidh aghaidh a thabhairt ar scéal dúshlánach, ina mbeidh scil ag teastáil le teacht slán.</Rough.description>
   
 </LanguageData>
