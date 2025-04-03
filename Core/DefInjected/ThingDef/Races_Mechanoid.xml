@@ -2,76 +2,76 @@
 <LanguageData>
   
   <!-- EN: centipede blaster -->
-  <Mech_CentipedeBlaster.label>TODO</Mech_CentipedeBlaster.label>
+  <Mech_CentipedeBlaster.label>céadchosach phléascach</Mech_CentipedeBlaster.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_CentipedeBlaster.description>TODO</Mech_CentipedeBlaster.description>
+  <Mech_CentipedeBlaster.description>Meicea-róbat trom, ag a bhfuil cúpla dosaen cos. Tá sé mór, láidir, agus tá cumhacht lámhaigh ard aige. Tá sé an-éifeachtach i gcoinne grúpaí móra, ach bíonn sé leochaileach i gcoinne naimhde aonair.</Mech_CentipedeBlaster.description>
   <!-- EN: head -->
-  <Mech_CentipedeBlaster.tools.head.label>TODO</Mech_CentipedeBlaster.tools.head.label>
+  <Mech_CentipedeBlaster.tools.head.label>ceann</Mech_CentipedeBlaster.tools.head.label>
   
   <!-- EN: centipede burner -->
-  <Mech_CentipedeBurner.label>TODO</Mech_CentipedeBurner.label>
+  <Mech_CentipedeBurner.label>céadchosach loiscneach</Mech_CentipedeBurner.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_CentipedeBurner.description>TODO</Mech_CentipedeBurner.description>
+  <Mech_CentipedeBurner.description>Meicea-róbat trom, ag a bhfuil cúpla dosaen cos. Tá sé mór, láidir, agus tá cumhacht lámhaigh ard aige. Tá sé an-éifeachtach i gcoinne grúpaí móra, ach bíonn sé leochaileach i gcoinne naimhde aonair.</Mech_CentipedeBurner.description>
   <!-- EN: head -->
-  <Mech_CentipedeBurner.tools.head.label>TODO</Mech_CentipedeBurner.tools.head.label>
+  <Mech_CentipedeBurner.tools.head.label>ceann</Mech_CentipedeBurner.tools.head.label>
   
   <!-- EN: centipede gunner -->
-  <Mech_CentipedeGunner.label>TODO</Mech_CentipedeGunner.label>
+  <Mech_CentipedeGunner.label>céadchosach gunnadóireachta</Mech_CentipedeGunner.label>
   <!-- EN: Heavy combat mechanoids that glide on dozens of tiny legs. Their thick carapace and firepower makes them very effective against bunched-up static defenders. They are somewhat vulnerable to mobile hit-and-run tactics. -->
-  <Mech_CentipedeGunner.description>TODO</Mech_CentipedeGunner.description>
+  <Mech_CentipedeGunner.description>Meicea-róbat trom, ag a bhfuil cúpla dosaen cos. Tá sé mór, láidir, agus tá cumhacht lámhaigh ard aige. Tá sé an-éifeachtach i gcoinne grúpaí móra, ach bíonn sé leochaileach i gcoinne naimhde aonair.</Mech_CentipedeGunner.description>
   <!-- EN: head -->
-  <Mech_CentipedeGunner.tools.head.label>TODO</Mech_CentipedeGunner.tools.head.label>
+  <Mech_CentipedeGunner.tools.head.label>ceann</Mech_CentipedeGunner.tools.head.label>
   
   <!-- EN: lancer -->
-  <Mech_Lancer.label>TODO</Mech_Lancer.label>
+  <Mech_Lancer.label>lansaí</Mech_Lancer.label>
   <!-- EN: Fast human-sized combat mechanoids built for medium and long-range combat. Their bodies are light, making them vulnerable targets at close range - especially in melee combat. -->
-  <Mech_Lancer.description>TODO</Mech_Lancer.description>
+  <Mech_Lancer.description>Tá an meicea-róbait seo tapa agus eadrom. Tá sé an-chruinn ar mheánraon nó ar raon ard, ach bíonn sé leochaileach i gcoinne ionsuithe melee.</Mech_Lancer.description>
   <!-- EN: left fist -->
-  <Mech_Lancer.tools.left_fist.label>TODO</Mech_Lancer.tools.left_fist.label>
+  <Mech_Lancer.tools.left_fist.label>lámh chlé</Mech_Lancer.tools.left_fist.label>
   <!-- EN: fist -->
-  <Mech_Lancer.tools.left_fist.labelNoLocation>TODO</Mech_Lancer.tools.left_fist.labelNoLocation>
+  <Mech_Lancer.tools.left_fist.labelNoLocation>lámh</Mech_Lancer.tools.left_fist.labelNoLocation>
   <!-- EN: right fist -->
-  <Mech_Lancer.tools.right_fist.label>TODO</Mech_Lancer.tools.right_fist.label>
+  <Mech_Lancer.tools.right_fist.label>lámh dheas</Mech_Lancer.tools.right_fist.label>
   <!-- EN: fist -->
-  <Mech_Lancer.tools.right_fist.labelNoLocation>TODO</Mech_Lancer.tools.right_fist.labelNoLocation>
+  <Mech_Lancer.tools.right_fist.labelNoLocation>lámh</Mech_Lancer.tools.right_fist.labelNoLocation>
   <!-- EN: head -->
-  <Mech_Lancer.tools.head.label>TODO</Mech_Lancer.tools.head.label>
+  <Mech_Lancer.tools.head.label>ceann</Mech_Lancer.tools.head.label>
   
   <!-- EN: pikeman -->
-  <Mech_Pikeman.label>TODO</Mech_Pikeman.label>
+  <Mech_Pikeman.label>pícróbat</Mech_Pikeman.label>
   <!-- EN: A clunky multi-legged combat mechanoid specialized as a long-range weapons platform. While effective at distance, it is weak in close-range fights and in melee combat.\n\nVeterans of mechanoid wars know that often, the safest place to be around a pikeman is touching it. -->
-  <Mech_Pikeman.description>TODO</Mech_Pikeman.description>
+  <Mech_Pikeman.description>Tá an meicea-róbat seo malla agus ciotach, ach tá sé an-chruinn le gunnaí fadraoin. Tá sé an-chruinn ar raon ard, ach tá sé lag i gcoinne ionsuithe melee.</Mech_Pikeman.description>
   <!-- EN: front left leg -->
-  <Mech_Pikeman.tools.front_left_leg.label>TODO</Mech_Pikeman.tools.front_left_leg.label>
+  <Mech_Pikeman.tools.front_left_leg.label>cos chlé thosaigh</Mech_Pikeman.tools.front_left_leg.label>
   <!-- EN: leg -->
-  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
+  <Mech_Pikeman.tools.front_left_leg.labelNoLocation>cos</Mech_Pikeman.tools.front_left_leg.labelNoLocation>
   <!-- EN: front right leg -->
-  <Mech_Pikeman.tools.front_right_leg.label>TODO</Mech_Pikeman.tools.front_right_leg.label>
+  <Mech_Pikeman.tools.front_right_leg.label>cos dheas thosaigh</Mech_Pikeman.tools.front_right_leg.label>
   <!-- EN: leg -->
-  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>TODO</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
+  <Mech_Pikeman.tools.front_right_leg.labelNoLocation>cos</Mech_Pikeman.tools.front_right_leg.labelNoLocation>
   <!-- EN: head -->
-  <Mech_Pikeman.tools.head.label>TODO</Mech_Pikeman.tools.head.label>
+  <Mech_Pikeman.tools.head.label>ceann</Mech_Pikeman.tools.head.label>
   
   <!-- EN: scyther -->
-  <Mech_Scyther.label>TODO</Mech_Scyther.label>
+  <Mech_Scyther.label>spealadóir</Mech_Scyther.label>
   <!-- EN: Fast, spindly, human-sized combat mechanoids specializing in rapid approach and close-range combat. Their bodies are covered in points and blades, but they mostly use their two arm blades to lop off limbs or gut their victims alive. -->
-  <Mech_Scyther.description>TODO</Mech_Scyther.description>
+  <Mech_Scyther.description>Tá an róbat seo tapa agus tanaí, agus tá sé an-dáinséarach i gcomhrac melee. Tá sé cumhdaite le spící, agus úsáideann siad a lanna chun géaga a bhaint agus daoine a mharú.</Mech_Scyther.description>
   <!-- EN: left blade -->
-  <Mech_Scyther.tools.left_blade.label>TODO</Mech_Scyther.tools.left_blade.label>
+  <Mech_Scyther.tools.left_blade.label>lann chle</Mech_Scyther.tools.left_blade.label>
   <!-- EN: blade -->
-  <Mech_Scyther.tools.left_blade.labelNoLocation>TODO</Mech_Scyther.tools.left_blade.labelNoLocation>
+  <Mech_Scyther.tools.left_blade.labelNoLocation>lann</Mech_Scyther.tools.left_blade.labelNoLocation>
   <!-- EN: right blade -->
-  <Mech_Scyther.tools.right_blade.label>TODO</Mech_Scyther.tools.right_blade.label>
+  <Mech_Scyther.tools.right_blade.label>lann dheas</Mech_Scyther.tools.right_blade.label>
   <!-- EN: blade -->
-  <Mech_Scyther.tools.right_blade.labelNoLocation>TODO</Mech_Scyther.tools.right_blade.labelNoLocation>
+  <Mech_Scyther.tools.right_blade.labelNoLocation>lann</Mech_Scyther.tools.right_blade.labelNoLocation>
   <!-- EN: head -->
-  <Mech_Scyther.tools.head.label>TODO</Mech_Scyther.tools.head.label>
+  <Mech_Scyther.tools.head.label>ceann</Mech_Scyther.tools.head.label>
   
   <!-- EN: termite -->
-  <Mech_Termite.label>TODO</Mech_Termite.label>
+  <Mech_Termite.label>teirmít</Mech_Termite.label>
   <!-- EN: A medium-sized mechanoid. Termites specialize in burrowing, digging, and breaking through defensive structures. Defenders need to decide whether to try to eliminate the termite before it can dig through their defenses, or take it where it emerges. -->
-  <Mech_Termite.description>TODO</Mech_Termite.description>
+  <Mech_Termite.description>Is féidir leis an meicea-róbat seo tochailt faoi struchtúir. Is minic go ndéanann cosantóirí iarracht teirmítí a mharú sula mbíonn deis acu tochailt faoi na ballaí.</Mech_Termite.description>
   <!-- EN: head -->
-  <Mech_Termite.tools.head.label>TODO</Mech_Termite.tools.head.label>
+  <Mech_Termite.tools.head.label>ceann</Mech_Termite.tools.head.label>
   
 </LanguageData>

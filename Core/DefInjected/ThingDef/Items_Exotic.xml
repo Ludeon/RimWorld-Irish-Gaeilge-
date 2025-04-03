@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: persona core -->
-  <AIPersonaCore.label>TODO</AIPersonaCore.label>
+  <AIPersonaCore.label>intleacht shaorga</AIPersonaCore.label>
   <!-- EN: A hyper-advanced computer core that houses a peak-human-equivalent machine persona. In its isolated state, the core is dormant. Installed in a proper support structure, however, it can become a mind of great power. -->
-  <AIPersonaCore.description>TODO</AIPersonaCore.description>
+  <AIPersonaCore.description>Cór ardleibhéil ina bhfuil intleacht shaorga chumhachtach. Ní mór an cór a shuitéail sa ghaireas nó sa struchtúr ceart sula bhfeidhmeoidh an IS.</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
   <ElephantTusk.label>TODO</ElephantTusk.label>
