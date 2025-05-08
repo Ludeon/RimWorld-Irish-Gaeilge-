@@ -7,42 +7,42 @@
   <AIPersonaCore.description>Cór ardleibhéil ina bhfuil intleacht shaorga chumhachtach. Ní mór an cór a shuitéail sa ghaireas nó sa struchtúr ceart sula bhfeidhmeoidh an IS.</AIPersonaCore.description>
   
   <!-- EN: elephant tusk -->
-  <ElephantTusk.label>TODO</ElephantTusk.label>
+  <ElephantTusk.label>torsca eilifinte</ElephantTusk.label>
   <!-- EN: An elephant's tusk. It is very durable and valuable. While somewhat unwieldy as a melee weapon, it can still be deadly. -->
-  <ElephantTusk.description>TODO</ElephantTusk.description>
+  <ElephantTusk.description>Torsca eilifinte. Tá sé an-luachmhar, agus an-láidir. Is féidir é a úsáid mar arm, cé go bhfuil sé beagán ciotach.</ElephantTusk.description>
   <!-- EN: point -->
-  <ElephantTusk.tools.point.label>TODO</ElephantTusk.tools.point.label>
+  <ElephantTusk.tools.point.label>pointe</ElephantTusk.tools.point.label>
   <!-- EN: base -->
-  <ElephantTusk.tools.base.label>TODO</ElephantTusk.tools.base.label>
+  <ElephantTusk.tools.base.label>bun</ElephantTusk.tools.base.label>
   
   <!-- EN: healer mech serum -->
-  <MechSerumHealer.label>TODO</MechSerumHealer.label>
+  <MechSerumHealer.label>séiream sláinte</MechSerumHealer.label>
   <!-- EN: A one-use super-dose of mechanites tuned to heal health conditions. The mechanites will target and heal the single worst health condition affecting someone at any given time. Works even on health conditions that would otherwise be incurable. The mechanites can even transmute themselves into organic matter, forming new limbs or organs as needed. -->
-  <MechSerumHealer.description>TODO</MechSerumHealer.description>
+  <MechSerumHealer.description>Séiream aon úsáide a úsáidtear chun gortuithe a chóireáil. Tá meicnítí beaga ann a dhíríonn ar an bhfadhb shláinte is measa atá ar dhuine. Is féidir leis na meicnítí ardleibhéil seo aon riocht sláinte a chóireáil.</MechSerumHealer.description>
   <!-- EN: Use {0_label} -->
-  <MechSerumHealer.comps.CompUsable.useLabel>TODO</MechSerumHealer.comps.CompUsable.useLabel>
+  <MechSerumHealer.comps.CompUsable.useLabel>Úsáid {0_label}</MechSerumHealer.comps.CompUsable.useLabel>
   
   <!-- EN: resurrector mech serum -->
-  <MechSerumResurrector.label>TODO</MechSerumResurrector.label>
+  <MechSerumResurrector.label>séiream athbheoite</MechSerumResurrector.label>
   <!-- EN: A one-use super-dose of mechanites tuned to resurrect the dead. Administered to a corpse, mechanites repair broken-down tissues and kickstart the body back to life. Unfortunately, the resurrected sometimes come back with brain damage, blindness, or progressive psychosis. Outcomes are better when the mechanites are administered to a fresher body. If a body is preserved, it can even be resurrected long after death.\n\nThe resurrected also experience limited retrograde amnesia, forgetting some recent memories and social interactions. -->
-  <MechSerumResurrector.description>TODO</MechSerumResurrector.description>
+  <MechSerumResurrector.description>Séiream aon úsáide a úsáidtear chun duine marbh a athbheochan. Tá meicnítí ann a dheisíonn damáiste agus a chuireann beocht sa chorp arís. Uaireanta, áfach, bíonn fadhbanna ag an duine a thugtar ar ais ón mbás. Feidhmíonn na meicnítí níos fearr má úsáidtear iad go luath tar éis don chorp bás a fháil. Má choinnítear an corp i gceart, is féidir é a athbheochan i bhfad tar éis an bháis.</MechSerumResurrector.description>
   <!-- EN: Use {0_label} -->
-  <MechSerumResurrector.comps.CompUsable.useLabel>TODO</MechSerumResurrector.comps.CompUsable.useLabel>
+  <MechSerumResurrector.comps.CompUsable.useLabel>Úsáid {0_label}</MechSerumResurrector.comps.CompUsable.useLabel>
   
   <!-- EN: techprof subpersona core -->
-  <TechprofSubpersonaCore.label>TODO</TechprofSubpersonaCore.label>
+  <TechprofSubpersonaCore.label>róba-mhúinteoir teicneolaíochta</TechprofSubpersonaCore.label>
   <!-- EN: A small AI core housing a low-grade subpersona specialized in teaching technology. When used, the AI will teach you the technology you're currently researching, instantly and for free. Can only be used once. -->
-  <TechprofSubpersonaCore.description>TODO</TechprofSubpersonaCore.description>
+  <TechprofSubpersonaCore.description>Cór ina bhfuil intleacht shaorga shimplí a cruthaíodh chun teicneolaíocht a mhúineadh. Nuair a úsáidtear é, críochnófar an tionscadal taighde ar a bhfuil tú ag díriú faoi láthair. Ní féidir é a úsáid ach uair amháin.</TechprofSubpersonaCore.description>
   <!-- EN: Use {0_label} -->
-  <TechprofSubpersonaCore.comps.CompUsable.useLabel>TODO</TechprofSubpersonaCore.comps.CompUsable.useLabel>
+  <TechprofSubpersonaCore.comps.CompUsable.useLabel>Úsáid {0_label}</TechprofSubpersonaCore.comps.CompUsable.useLabel>
   
   <!-- EN: thrumbo horn -->
-  <ThrumboHorn.label>TODO</ThrumboHorn.label>
+  <ThrumboHorn.label>adharc trombó</ThrumboHorn.label>
   <!-- EN: A thrumbo's horn. It's razor-sharp, rock-hard, and priceless in most markets. This is a true trophy, as well as a deadly melee weapon. -->
-  <ThrumboHorn.description>TODO</ThrumboHorn.description>
+  <ThrumboHorn.description>Adharm trombó. Tá sé géar, crua agus an-luachmhar.</ThrumboHorn.description>
   <!-- EN: point -->
-  <ThrumboHorn.tools.point.label>TODO</ThrumboHorn.tools.point.label>
+  <ThrumboHorn.tools.point.label>pointe</ThrumboHorn.tools.point.label>
   <!-- EN: base -->
-  <ThrumboHorn.tools.base.label>TODO</ThrumboHorn.tools.base.label>
+  <ThrumboHorn.tools.base.label>bun</ThrumboHorn.tools.base.label>
   
 </LanguageData>
