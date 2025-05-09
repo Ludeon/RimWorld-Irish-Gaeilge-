@@ -234,7 +234,7 @@
 
   <!-- Confirm permanently disable dev mode -->
   <!-- EN: Do you really want to permanently disable development mode on this computer?\n\nThis option is for people who want a pure play experience without the temptation to use development tools to gain advantage in normal play.\n\nDevelopment mode can be re-enabled, but doing so requires manually editing configuration files. You'll need to search the Internet to find out how. -->
-  <ConfirmPermanentlyDisableDevMode>An bhfuil tú cinnte gur mhaith leat mód forbróra a dhíchumasaú go buan?\n\nTá an rogha seo ann d'imreoirí atá ag iarraidh imirt ar bhealach 'glan', gan rogha na socruithe forbróra a chur ar siúl agus iad ag imirt.\n\nIs féidir mód forbróra a chur ar siúl arís, ach is gá na comhaid cumraíocht a athrú de láimh. Beidh ort cuardach ar líne a dhéanamh chun fáil amach conas an méid sin a dhéanamh.</ConfirmPermanentlyDisableDevMode>
+  <ConfirmPermanentlyDisableDevMode>An bhfuil tú cinnte go bhfuil tú ag iarraidh mód forbróra a dhíchumasaú go buan?\n\nTá an rogha seo ann d'imreoirí atá ag iarraidh imirt ar bhealach 'glan', gan rogha na socruithe forbróra a chur ar siúl agus iad ag imirt.\n\nIs féidir mód forbróra a chur ar siúl arís, ach is gá na comhaid cumraíochta a athrú de láimh. Beidh ort cuardach ar líne a dhéanamh chun fáil amach conas an méid sin a dhéanamh.</ConfirmPermanentlyDisableDevMode>
 
   <!-- Confirm reset learning helper -->
   <!-- EN: Are you sure you want to reset the learning helper?\n\nAll records of which concepts have been learned will be erased and the system will teach everything from scratch. -->
@@ -250,9 +250,9 @@
 
   <!-- Advanced game start options -->
   <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Rabhadh: Beidh tú ag leandáil i dtimpeallacht reoite. Beidh sé an-deacair nó beagnach dodhéanta maireachtáil. Mura bhfuil sé i gceist agat tabhairt faoi dhúshlán as cuimse, roghnaigh suíomh nó séasur eile.</MapTemperatureDangerWarning>
+  <MapTemperatureDangerWarning>Rabhadh: Beidh tú ag leandáil i dtimpeallacht reoite. Beidh sé an-deacair nó beagnach dodhéanta maireachtáil anseo. Mura bhfuil sé i gceist agat tabhairt faoi dhúshlán an-deacair, roghnaigh suíomh nó séasur eile.</MapTemperatureDangerWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
-  <MapSizePerformanceWarning>Dearadh an cluiche chun go bhfeidhmeoidh sé le léarscáileanna meánacha. Tá go leor spáis ar na léarscáileanna sin!\n\nLaghdófar feidhmíocht do ríomhaire le léarscáil an-mhór, agus ní fheidhmeoidh an cluiche i gceart. Déanfaidh an IS cinntí amaideacha, agus beidh cothromaíocht an chluiche as alt. Cuirtear na méideanna seo ar fáil chun críoch tástála amháin, ach ná bain úsáid astu gan chúis mhaith</MapSizePerformanceWarning>
+  <MapSizePerformanceWarning>Dearadh an cluiche chun go bhfeidhmeoidh sé le léarscáileanna meánacha. Tá go leor spáis ar na léarscáileanna sin!\n\nLaghdófar feidhmíocht do ríomhaire má úsáidtear léarscáil an-mhór, agus ní fheidhmeoidh an cluiche i gceart. Déanfaidh an IS cinntí amaideacha, agus beidh cothromaíocht an chluiche as alt. Cuirtear na méideanna seo ar fáil chun críoch tástála amháin, ach níor cheart úsáid a bhaint astu gan chúis mhaith</MapSizePerformanceWarning>
   <!-- EN: Map size -->
   <MapSize>Achar na léarscáile</MapSize>
   <!-- EN: {0}x{0} ({1} cells) -->
@@ -1111,239 +1111,239 @@
 
   <!-- Growing -->
   <!-- EN: {0} requires {1} skill in Growing to sow.\n\nNone of your non-downed growers have this skill, so this plant will not be sown. -->
-  <NoGrowerCanPlant>{0} kann nur von Feldarbeitern mit einer Fertigkeitsstufe von {1} oder höher angebaut werden.\n\nKeiner deiner handlungsfähigen Kolonisten besitzt diese Fertigkeitsstufe; das heißt, dass diese Pflanze nicht angebaut werden kann.</NoGrowerCanPlant>
+  <NoGrowerCanPlant>Tá scil garraíodóireachta {1} de dhíth chun {0} a chur.\n\nNíl aon garraíodóir sláintiúil ar fáil a bhfuil an scil sin aige, mar sin ní chuirfear an planda.</NoGrowerCanPlant>
 
   <!-- Abandon home -->
   <!-- EN: Some of your colonists or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0} -->
-  <ConfirmAbandonHomeWithColonyPawns>Einige deiner Kolonisten oder Tiere sind in diesem Gebiet. Bist du sicher, dass du dieses Gebiet aufgeben willst?\n\nDie folgenden Personen und Tiere werden zurückgelassen:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+  <ConfirmAbandonHomeWithColonyPawns>Tá roinnt coilínigh nó ainmhithe fós sa cheantar seo. An bhfuil tú cinnte go bhfuil tú ag iarraidh an ceantar seo a thréigeadh?\n\nFágfar na daoine agus na hainmhithe seo a leanas i do dhiaidh:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
   <!-- EN: Abandoning {0} will cause the following people to get the following thoughts: -->
-  <ConfirmAbandonHomeNegativeThoughts>Wenn {0} zurückgelassen wird, werden die folgenden Personen folgende Gedanken erhalten:</ConfirmAbandonHomeNegativeThoughts>
+  <ConfirmAbandonHomeNegativeThoughts>Má thréigtear {0}, tiocfaidh ná héifeachtaí seo a leanas ar na daoine seo a leanas:</ConfirmAbandonHomeNegativeThoughts>
   <!-- EN: Everyone: -->
-  <ConfirmAbandonHomeNegativeThoughts_Everyone>Jeder:</ConfirmAbandonHomeNegativeThoughts_Everyone>
+  <ConfirmAbandonHomeNegativeThoughts_Everyone>Gach duine:</ConfirmAbandonHomeNegativeThoughts_Everyone>
   
   <!-- Move caravan and leave prisoners and animals behind -->
   <!-- EN: Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed colonists left behind in a map without any non-downed colonists are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan? -->
-  <ConfirmMoveAutoJoinableCaravan>Einige Tiere oder Gefangene versuchen, sich dieser Karawane anzuschließen. Wenn du die Karawane bewegst, schaffen sie es nicht mehr.\n\nTiere, Gefangene und am Boden liegende Kolonisten, die in einem Gebiet zurückgelassen werden, können von Feinden eingefangen werden. Um das verhindern, musst du mindestens einen handlungsfähigen Kolonisten als Schutz dalassen.\n\nBist du sicher, dass du deine Karawane bewegen willst?</ConfirmMoveAutoJoinableCaravan>
+  <ConfirmMoveAutoJoinableCaravan>Tá ainmhithe nó príosúnaigh áirithe ag iarraidh dul leis an gcarbhán seo. Má bhogann tú é, ní bheidh siad in ann dul leis níos mó.\n\nMá fhágtar ainmhithe, príosúnaigh nó coilínigh leagtha taobh thiar ar léarscáil gan aon choilínigh, d'fhéadfadh sé go gheobhaidh siad bás nó féadfaidh do naimhde iad a ghabháil.\n\nAn bhfuil tú cinnte go bhfuil tú ag iarraidh an carbhán a bhogadh?</ConfirmMoveAutoJoinableCaravan>
   
   <!-- Abandon pawn -->
   <!-- EN: Do you really want to banish {1_label}? -->
-  <ConfirmBanishPawnDialog>Möchtest du {1_label} wirklich verbannen?</ConfirmBanishPawnDialog>
+  <ConfirmBanishPawnDialog>An bhfuil tú ag iarraidh {1_label} a dhíbirt?</ConfirmBanishPawnDialog>
   <!-- EN: {1_labelShort} will most likely die. -->
-  <ConfirmBanishPawnDialog_LeftToDie>{1_labelShort} wird höchstwahrscheinlich sterben.</ConfirmBanishPawnDialog_LeftToDie>
+  <ConfirmBanishPawnDialog_LeftToDie>Tá baol ann go bhfaighidh {1_labelShort} bás.</ConfirmBanishPawnDialog_LeftToDie>
   <!-- EN: {1_labelShort} will take the following items with {1_objective}: -->
-  <ConfirmBanishPawnDialog_Items>{1_labelShort} wird die folgenden Gegenstände mitnehmen:</ConfirmBanishPawnDialog_Items>
+  <ConfirmBanishPawnDialog_Items>Tógfaidh {1_labelShort} na hearraí seo a leanas:</ConfirmBanishPawnDialog_Items>
   <!-- EN: All colonists will get the following thoughts: -->
-  <ConfirmBanishPawnDialog_AllColonistsThoughts>Alle Kolonisten werden die folgenden Gedanken erhalten:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+  <ConfirmBanishPawnDialog_AllColonistsThoughts>Beidh na héifeachtaí seo a leanas ar gach coilíneach eile:</ConfirmBanishPawnDialog_AllColonistsThoughts>
   <!-- EN: Banishing {1_labelShort} will cause the following people to get the following thoughts: -->
-  <ConfirmBanishPawnDialog_IndividualThoughts>Wenn {1_labelShort} verbannt wird, werden die folgenden Personen folgende Gedanken erhalten:</ConfirmBanishPawnDialog_IndividualThoughts>
+  <ConfirmBanishPawnDialog_IndividualThoughts>Má dhéantar {1_labelShort} a dhíbirt, beidh na héifeachtaí seo a leanas ar na coilínigh seo a leanas:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
   <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Die Transportkapseln sind noch nicht fertig beladen. {1_labelShort} fehlt noch. Trotzdem starten?</ConfirmSendNotCompletelyLoadedPods>
+  <ConfirmSendNotCompletelyLoadedPods>Níl na podanna iompair lódáilte i gceart. Tá {1_labelShort} in easnamh. An bhfuil tú ag iarraidh leanúint ar aghaidh ar aon nós?</ConfirmSendNotCompletelyLoadedPods>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
-  <ConfirmSettleNearFactionBase>Tá an tíl seo lonnaithe in aice le lonnaíocht de chuid faicsean eile, agus ní bheidh siad sásta go bhfuil tú cur isteach ar a dtalamh. Rachaidh do chaidreamh leis an bhfaicsean eile in olcas gach {1} lá mar thoradh.</ConfirmSettleNearFactionBase>
+  <ConfirmSettleNearFactionBase>Tá an tíl seo lonnaithe in aice le lonnaíocht le faicsean eile, agus ní bheidh siad sásta go bhfuil tú ag cur isteach ar a dtalamh. Rachaidh do chaidreamh leis an bhfaicsean eile in olcas gach {1} lá mar thoradh.</ConfirmSettleNearFactionBase>
   
   <!-- Cleanup translation files -->
   <!-- EN: Are you sure you want to cleanup all translation files for language {0}?\n\nThis will:\n  - Add placeholders for missing keyed translations, def-injected translations, and backstories\n  - Add or update comments containing the original, untranslated text\n  - Move all keyed and def-injected translations to the appropriate XML files\n  - Apply automatic formatting to all XML files\n  - Update back-compatible def names\n  - Remove all existing XML comments (except in full-list injections)\n\nNon-XML files will not be removed or modified.\n\nRemember to restart the game after modifying the language files before running this tool in order to reload all data.\n\nMake sure to back up all translation files before using this tool. -->
-  <ConfirmCleanupTranslationFiles>Bist du sicher, dass du alle Übersetzungsdateien für die Sprache {0} bereinigen willst?\n\nDieses Tool wird:\n  - Platzhalter für fehlende Keyed-, DefInjected- und Backstories-Übersetzungen hinzufügen\n  - Kommentare mit dem englischen Original-Text hinzufügen oder aktualisieren\n  - alle Keyed- und DefInjected-Übersetzungen in die richtige XML-Datei verschieben\n  - alle XML-Dateien automatisch formatieren\n  - abwärtskompatible Def-Namen aktualisieren\n  - alle vorhandenen XML-Kommentare entfernen (außer die in Full-List-Injektionen)\n\nXML-fremde Dateien werden weder entfernt noch modifiziert.\n\nVergiss nicht, das Spiel nach dem Ändern der Sprachdateien neu zu starten, bevor du dieses Tool ausführst, um alle Daten neu zu laden.\n\nErstelle ein Backup aller Übersetzungsdateien, bevor du dieses Tool verwendest.</ConfirmCleanupTranslationFiles>
+  <ConfirmCleanupTranslationFiles>An bhfuil tú cinnte go bhfuil tú ag iarraidh na comhaid aistriúcháin ({0}) a ghlanadh?\n\nDéanfaidh an uirlis seo an méid seo a leanas:\n  - Cuirfear téacs ionadchoinneálaí leis na comhaid "Keyed", "DefInjected"-" agus "Backstories""\n  - Déanfar athruithe ar na nótaí tráchta a ghabhann leis an mbuntéacs\n  - Bogfar gach aistriúchan "Keyed" agus "DefInjected" chuig an gcomhad XML ceart\n  - Déanfar uasdátú ar ainmneacha na gcomhad XML\n  - Bainfear nótaí tráchta ó na comhaid XML (seachas in liosta iomlána)\n\nNí dhéanfar aon athrú ar chomhaid nach comhaid XML iad.\n\nNí mór an cluiche a athlódáil tar éis duit an uirlis seo a úsáid, chun aon sonraí úra a lódáil i gceart.\n\nBí cinnte cúltaca a dhéanamh ar do chomhaid aistriúcháin sula mbaineann tú úsáid as an uirlise seo.</ConfirmCleanupTranslationFiles>
   <!-- EN: Yes, I have a backup -->
-  <ConfirmCleanupTranslationFiles_Confirm>Ja, ich habe ein Backup erstellt</ConfirmCleanupTranslationFiles_Confirm>
+  <ConfirmCleanupTranslationFiles_Confirm>Tá, tá cúltaca agam.</ConfirmCleanupTranslationFiles_Confirm>
 
   <!-- Load transporters -->
   <!-- EN: The caravan will be immobile if you launch to an empty tile. Continue anyway? -->
-  <TransportersCaravanWillBeImmobile>Die Karawane wird sich nicht bewegen können, wenn du sie auf ein leeres Feld schickst. Trotzdem fortfahren?</TransportersCaravanWillBeImmobile>
+  <TransportersCaravanWillBeImmobile>Ní bheidh an carbhán in ann gluaiseacht má roghnaíonn tú tíl folamh. An bhfuil tú ag iarradh leanúint ar aghaidh?</TransportersCaravanWillBeImmobile>
 
   <!-- Confirm cancel monument marker -->
   <!-- EN: Do you really want to remove this monument marker? -->
-  <ConfirmCancelMonumentMarker>Willst du diese Denkmalmarkierung wirklich entfernen?</ConfirmCancelMonumentMarker>
+  <ConfirmCancelMonumentMarker>An bhfuil tú ag iarraidh an marcóir gluaiseachta seo a chur ar ceal?</ConfirmCancelMonumentMarker>
 
   <!-- Abilities -->
   <!-- EN: Cannot use {0} -->
-  <CannotUseAbility>Kann {0} nicht nutzen</CannotUseAbility>
+  <CannotUseAbility>Ní féidir {0} a úsáid</CannotUseAbility>
   <!-- EN: Line of sight required -->
-  <AbilityRequiresLOS>Freie Sicht erforderlich</AbilityRequiresLOS>
+  <AbilityRequiresLOS>Ní mór go mbeidh an targaid le feiceáil</AbilityRequiresLOS>
   <!-- EN: Neural heat gain -->
-  <AbilityEntropyGain>Neuralhitzezunahme</AbilityEntropyGain>
+  <AbilityEntropyGain>Fuinneamh síceach</AbilityEntropyGain>
   <!-- EN: Psyfocus cost -->
-  <AbilityPsyfocusCost>Psyfokuskosten</AbilityPsyfocusCost>
+  <AbilityPsyfocusCost>Costas (sícea-fhócas)</AbilityPsyfocusCost>
   <!-- EN: Effect duration -->
-  <AbilityDuration>Wirkungsdauer</AbilityDuration>
+  <AbilityDuration>Fad na héifeachta</AbilityDuration>
   <!-- EN: Effect radius -->
-  <AbilityEffectRadius>Wirkungsradius</AbilityEffectRadius>
+  <AbilityEffectRadius>Ga na héifeachta</AbilityEffectRadius>
   <!-- EN: Casting time -->
-  <AbilityCastingTime>Wirkzeit</AbilityCastingTime>
+  <AbilityCastingTime>Am úsáide</AbilityCastingTime>
   <!-- EN: No line of sight to target. -->
-  <AbilityCannotHitTarget>Keine freie Sicht auf das Ziel.</AbilityCannotHitTarget>
+  <AbilityCannotHitTarget>Níl an targaid le feiceáil.</AbilityCannotHitTarget>
   <!-- EN: Target is out of range. -->
-  <AbilityOutOfRange>Ziel ist außer Reichweite.</AbilityOutOfRange>
+  <AbilityOutOfRange>Tá an targaid rófhada.</AbilityOutOfRange>
   <!-- EN: Can't reach the target. -->
-  <AbilityCannotReachTarget>Kann das Ziel nicht erreichen.</AbilityCannotReachTarget>
+  <AbilityCannotReachTarget>Ní féidir an targaid a bhaint amach.</AbilityCannotReachTarget>
   <!-- EN: Not enough free space. -->
-  <AbilityNotEnoughFreeSpace>Nicht genug Platz.</AbilityNotEnoughFreeSpace>
+  <AbilityNotEnoughFreeSpace>Níl go leor spáis ann.</AbilityNotEnoughFreeSpace>
   <!-- EN: Must target an empty area. -->
-  <AbilityOccupiedCells>Muss einen leeren Bereich als Ziel haben.</AbilityOccupiedCells>
+  <AbilityOccupiedCells>Ní mór spás folamh a roghnú.</AbilityOccupiedCells>
   <!-- EN: Must target a walkable area. -->
-  <AbilityUnwalkable>Muss einen begehbaren Bereich als Ziel haben.</AbilityUnwalkable>
+  <AbilityUnwalkable>Ní mór spás inrochtana a roghnú.</AbilityUnwalkable>
   <!-- EN: Must target an unroofed area. -->
-  <AbilityRoofed>Muss einen Bereich ohne Dach als Ziel haben.</AbilityRoofed>
+  <AbilityRoofed>Ní mór spás gan díon a roghnú.</AbilityRoofed>
   <!-- EN: {0_labelShort} is mentally broken. -->
-  <AbilityCantApplyToMentallyBroken>{0_labelShort} ist übergeschnappt.</AbilityCantApplyToMentallyBroken>
+  <AbilityCantApplyToMentallyBroken>Tá {0_labelShort} briste ó thaobh meabhrach de.</AbilityCantApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not mentally broken. -->
-  <AbilityCanOnlyApplyToMentallyBroken>{0_labelShort} ist nicht übergeschnappt.</AbilityCanOnlyApplyToMentallyBroken>
+  <AbilityCanOnlyApplyToMentallyBroken>Níl {0_labelShort} briste ó thaobh meabhrach de.</AbilityCanOnlyApplyToMentallyBroken>
   <!-- EN: {0_labelShort} is not maddened. -->
-  <AbilityCanOnlyApplyToManhunter>{0_labelShort} ist kein Menschenjäger.</AbilityCanOnlyApplyToManhunter>
+  <AbilityCanOnlyApplyToManhunter>Níl {0_labelShort} ar mire.</AbilityCanOnlyApplyToManhunter>
   <!-- EN: {0_labelShort} has scaria, which can only be treated medically. -->
-  <AbilityCantApplyToScaria>{0_labelShort} leidet an Skaria, die nur medizinisch behandelt werden kann.</AbilityCantApplyToScaria>
+  <AbilityCantApplyToScaria>Tá scairia ar {0_labelShort}, ní mór an galar sin a chóireáil le leigheas.</AbilityCantApplyToScaria>
   <!-- EN: {0} doesn't work on the '{1}' mental state. -->
-  <AbilityDoesntWorkOnMentalState>{0} funktioniert nicht mit dem Zustand '{1}'.</AbilityDoesntWorkOnMentalState>
+  <AbilityDoesntWorkOnMentalState>Ní fheidmíonn {0} ar '{1}'.</AbilityDoesntWorkOnMentalState>
   <!-- EN: {0_labelShort} has zero resistance. -->
-  <AbilityCantApplyNoResistance>{0_labelShort} hat null Widerstand.</AbilityCantApplyNoResistance>
+  <AbilityCantApplyNoResistance>Níl aon frithsheasmhacht ag {0_labelShort}.</AbilityCantApplyNoResistance>
   <!-- EN: {0_labelShort} is downed. -->
-  <AbilityCantApplyDowned>{0_labelShort} liegt am Boden.</AbilityCantApplyDowned>
+  <AbilityCantApplyDowned>Tá {0_labelShort} leagtha.</AbilityCantApplyDowned>
   <!-- EN: Cannot use: {0} is asexual. -->
-  <AbilityCantApplyOnAsexual>Nicht anwendbar: {0} ist asexuell.</AbilityCantApplyOnAsexual>
+  <AbilityCantApplyOnAsexual>Tá {0} éighnéasach.</AbilityCantApplyOnAsexual>
   <!-- EN: {PAWN_labelShort} has no healable injuries. -->
-  <AbilityCannotCastNoHealableInjury>TODO</AbilityCannotCastNoHealableInjury>
+  <AbilityCannotCastNoHealableInjury>Níl {PAWN_labelShort} gortuithe.</AbilityCannotCastNoHealableInjury>
   <!-- EN: {1_labelShort} is the wrong gender for {0_labelShort}. -->
-  <AbilityCantApplyWrongAttractionGender>{1_labelShort} ist das falsche Geschlecht für {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
+  <AbilityCantApplyWrongAttractionGender>Tá an inscne mícheart ar {1_labelShort} le haghaidh {0_labelShort}.</AbilityCantApplyWrongAttractionGender>
   <!-- EN: {0_labelShort} is too young. -->
-  <AbilityCantApplyTooYoung>{0_labelShort} ist zu jung.</AbilityCantApplyTooYoung>
+  <AbilityCantApplyTooYoung>Tá {0_labelShort} ró-óg.</AbilityCantApplyTooYoung>
   <!-- EN: Cannot target a baby. -->
-  <AbilityCantApplyOnBaby>Kann kein Baby als Ziel wählen.</AbilityCantApplyOnBaby>
+  <AbilityCantApplyOnBaby>Ní féidir leanbh a roghnú.</AbilityCantApplyOnBaby>
   <!-- EN: Psyfocus cost per mental break intensity -->
   <PsyfocusCostPerMentalBreakIntensity>Psyfokuskosten pro Stärke des Nervenzusammenbruchs</PsyfocusCostPerMentalBreakIntensity>
   <!-- EN: {0_labelShort} is already inspired. -->
-  <AbilityAlreadyInspired>{0_labelShort} ist bereits inspiriert.</AbilityAlreadyInspired>
+  <AbilityAlreadyInspired>Tá ionspráid ar {0_labelShort} cheana.</AbilityAlreadyInspired>
   <!-- EN: {0_labelShort} can't get an inspiration right now. -->
-  <AbilityCantGetInspiredNow>{0_labelShort} kann aktuell keine Inspiration bekommen.</AbilityCantGetInspiredNow>
+  <AbilityCantGetInspiredNow>Ní féidir ionspráid a thabhairt do {0_labelShort} faoi láthair.</AbilityCantGetInspiredNow>
   <!-- EN: {0_labelShort} must be of a different ideoligion than {1_labelShort}. -->
-  <AbilityMustBeNotSameIdeo>{0_labelShort} darf nicht die gleiche Ideologie wie {1_labelShort} haben.</AbilityMustBeNotSameIdeo>
+  <AbilityMustBeNotSameIdeo>Ní mór go mbeidh íde-eolaíocht dhifriúil ag {0_labelShort}.</AbilityMustBeNotSameIdeo>
   <!-- EN: {0_labelShort} must be of same ideoligion as {1_labelShort}. -->
-  <AbilityMustBeSameIdeo>{0_labelShort} muss die gleiche Ideologie wie {1_labelShort} haben.</AbilityMustBeSameIdeo>
+  <AbilityMustBeSameIdeo>Ní mór go mbeidh an íde-eolaíocht chéanna ag {0_labelShort}.</AbilityMustBeSameIdeo>
   <!-- EN: {0_labelShort} must be sick or injured. -->
-  <AbilityMustBeSickOrInjured>{0_labelShort} muss krank oder verletzt sein.</AbilityMustBeSickOrInjured>
+  <AbilityMustBeSickOrInjured>Ní mór go mbeidh {0_labelShort} tinn nó gortaithe.</AbilityMustBeSickOrInjured>
   <!-- EN: {0} can only counsel {1}s. -->
-  <AbilityMustBeSameIdeoCounsel>{0} kann nur jemanden mit der gleichen Ideologie ({1}) beraten.</AbilityMustBeSameIdeoCounsel>
+  <AbilityMustBeSameIdeoCounsel>Ní féidir le {0} comhairle a thabhairt don duine seo ({1}).</AbilityMustBeSameIdeoCounsel>
   <!-- EN: {0_labelShort} is already considered guilty. -->
-  <AbilityMustBeNotGuilty>{0_labelShort} wird schon als schuldig angesehen.</AbilityMustBeNotGuilty>
+  <AbilityMustBeNotGuilty>Tá {0_labelShort} ciontach.</AbilityMustBeNotGuilty>
   <!-- EN: Must target a human. -->
-  <AbilityMustBeHuman>Muss einen Menschen als Ziel haben.</AbilityMustBeHuman>
+  <AbilityMustBeHuman>Ní mór duine a roghnú.</AbilityMustBeHuman>
   <!-- EN: Must target a non-wild human. -->
-  <AbilityMustBeHumanNonWild>Muss einen nicht-verwilderten Menschen als Ziel haben.</AbilityMustBeHumanNonWild>
+  <AbilityMustBeHumanNonWild>Ní féidir duine fiáin a roghnú.</AbilityMustBeHumanNonWild>
   <!-- EN: Must target an animal. -->
-  <AbilityMustBeAnimal>Muss ein Tier als Ziel haben.</AbilityMustBeAnimal>
+  <AbilityMustBeAnimal>Ní mór ainmhí a roghnú.</AbilityMustBeAnimal>
   <!-- EN: {0_labelShort} is unconscious. -->
-  <AbilityCantApplyUnconscious>{0_labelShort} ist bewusstlos.</AbilityCantApplyUnconscious>
+  <AbilityCantApplyUnconscious>Tá {0_labelShort} neamhaireachtálach.</AbilityCantApplyUnconscious>
   <!-- EN: {0_labelShort} is asleep. -->
-  <AbilityCantApplyAsleep>{0_labelShort} schläft gerade.</AbilityCantApplyAsleep>
+  <AbilityCantApplyAsleep>Tá {0_labelShort} ina chodladh.</AbilityCantApplyAsleep>
   <!-- EN: This tile is impassable. -->
-  <AbilityWorldTileImpassable>Dieses Feld ist unpassierbar.</AbilityWorldTileImpassable>
+  <AbilityWorldTileImpassable>Ní féidir dul thar an tíl seo.</AbilityWorldTileImpassable>
   <!-- EN: Skip to random ally -->
-  <AbilitySkipToRandomAlly>Teleportiere zu zufälligem Verbündeten</AbilitySkipToRandomAlly>
+  <AbilitySkipToRandomAlly>Roghnaigh comhghuaille randamach</AbilitySkipToRandomAlly>
   <!-- EN: Skip to join caravan -->
-  <AbilitySkipToJoinCaravan>Teleportiere zur Karawane</AbilitySkipToJoinCaravan>
+  <AbilitySkipToJoinCaravan>Téigh chuig an gcarbhán</AbilitySkipToJoinCaravan>
   <!-- EN: Need ally at target for navigation -->
-  <AbilityNeedAllyToSkip>Brauche Verbündeten am Zielort für die Navigation</AbilityNeedAllyToSkip>
+  <AbilityNeedAllyToSkip>Ní mór go mbeidh comhghuaille ag an targaid.</AbilityNeedAllyToSkip>
   <!-- EN: No chunks to skip. -->
-  <AbilityNoChunkToSkip>Keine Brocken zum Teleportieren.</AbilityNoChunkToSkip>
+  <AbilityNoChunkToSkip>TODO</AbilityNoChunkToSkip>
   <!-- EN: Induce psychic love in -->
-  <PsychicLoveInduceIn>Induziere mentale Liebe in</PsychicLoveInduceIn>
+  <PsychicLoveInduceIn>TODO</PsychicLoveInduceIn>
   <!-- EN: Psychic love for -->
-  <PsychicLoveFor>Mentale Liebe für</PsychicLoveFor>
+  <PsychicLoveFor>TODO</PsychicLoveFor>
   <!-- EN: If you skip {PAWN_labelShort} to another map or a caravan, the associated quest will fail and {PAWN_pronoun} will leave immediately.\n\nDo you really want to farskip {PAWN_labelShort}? -->
-  <FarskipConfirmTeleportingLodger>Wenn du {PAWN_labelShort} zu einer anderen Karte oder einer Karawane teleportierst, wird die damit verbundene Quest scheitern, und {PAWN_pronoun} wird sofort das Gebiet verlassen.\n\nWillst du {PAWN_labelShort} wirklich teleportieren?</FarskipConfirmTeleportingLodger>
+  <FarskipConfirmTeleportingLodger>TODO</FarskipConfirmTeleportingLodger>
   
   <!-- EN: minor -->
-  <MentalBreakIntensityMinor>leicht</MentalBreakIntensityMinor>
+  <MentalBreakIntensityMinor>mionchúiseach</MentalBreakIntensityMinor>
   <!-- EN: major -->
-  <MentalBreakIntensityMajor>schwer</MentalBreakIntensityMajor>
+  <MentalBreakIntensityMajor>meánchúiseach</MentalBreakIntensityMajor>
   <!-- EN: extreme -->
-  <MentalBreakIntensityExtreme>extrem</MentalBreakIntensityExtreme>
+  <MentalBreakIntensityExtreme>mórchúiseach</MentalBreakIntensityExtreme>
 
   <!-- Auto slaughter -->
   <!-- EN: Animal -->
-  <AutoSlaugtherHeaderColLabel>Tier</AutoSlaugtherHeaderColLabel>
+  <AutoSlaugtherHeaderColLabel>Ainmhí</AutoSlaugtherHeaderColLabel>
   <!-- EN: Current -->
-  <AutoSlaugtherHeaderColCurrent>Aktuell</AutoSlaugtherHeaderColCurrent>
+  <AutoSlaugtherHeaderColCurrent>Reatha</AutoSlaugtherHeaderColCurrent>
   <!-- EN: Max -->
-  <AutoSlaugtherHeaderColMax>Max</AutoSlaugtherHeaderColMax>
+  <AutoSlaugtherHeaderColMax>Uasta</AutoSlaugtherHeaderColMax>
   <!-- EN: Total -->
-  <AutoSlaugtherHeaderColTotal>Gesamt</AutoSlaugtherHeaderColTotal>
+  <AutoSlaugtherHeaderColTotal>Iomlán</AutoSlaugtherHeaderColTotal>
   <!-- EN: Other -->
-  <AutoSlaugtherHeaderColOther>Andere</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
+  <AutoSlaugtherHeaderColOther>Eile</AutoSlaugtherHeaderColOther> <!-- this is the count of the "cannot-auto-slaughter" animals -->
   <!-- EN: Colonists first slaughter non-pregnant animals in order from oldest to youngest, then pregnant animals from most recent to least recent pregnancy. -->
-  <AutoSlaugtherTip>Kolonisten schlachten zuerst die nicht-trächtigen Tiere von alt bis jung, dann die trächtigen Tiere von der jüngsten bis zur ältesten Trächtigkeit.</AutoSlaugtherTip>
+  <AutoSlaugtherTip>Maróidh coilínigh ainmhithe nach bhfuil ag iompar clainne in ord tosaíochta, ag tosú leis na hainmhithe is sine go dtí na hainmhithe is óige, agus ansin marófar ainmhithe atá ag iompar clainne.</AutoSlaugtherTip>
   <!-- EN: Male adult -->
-  <AnimalMaleAdult>Männl. erwachsen</AnimalMaleAdult>
+  <AnimalMaleAdult>Fireann, fásta</AnimalMaleAdult>
   <!-- EN: Male young -->
-  <AnimalMaleYoung>Männl. jung</AnimalMaleYoung>
+  <AnimalMaleYoung>Fireann, óg</AnimalMaleYoung>
   <!-- EN: Female adult -->
-  <AnimalFemaleAdult>Weibl. erwachsen</AnimalFemaleAdult>
+  <AnimalFemaleAdult>Baineann, fásta</AnimalFemaleAdult>
   <!-- EN: Female young -->
-  <AnimalFemaleYoung>Weibl. jung</AnimalFemaleYoung>
+  <AnimalFemaleYoung>Baineann, óg</AnimalFemaleYoung>
   <!-- EN: Pregnant -->
-  <AnimalPregnant>Trächtig</AnimalPregnant>
+  <AnimalPregnant>Torrach</AnimalPregnant>
   <!-- EN: Bonded -->
-  <AnimalBonded>Gebunden</AnimalBonded>
+  <AnimalBonded>Nasctha</AnimalBonded>
   <!-- EN: Slaughter -->
-  <AllowSlaughter>Schlachten</AllowSlaughter>
+  <AllowSlaughter>Maraigh</AllowSlaughter>
 
   <!-- EN: The animal to be automatically slaughtered. -->
-  <AutoSlaugtherHeaderTooltipLabel>Das Tier, welches automatisch geschlachtet werden soll.</AutoSlaugtherHeaderTooltipLabel>
+  <AutoSlaugtherHeaderTooltipLabel>Is é seo an t-ainmhí atá le marú go huathoibríoch.</AutoSlaugtherHeaderTooltipLabel>
   <!-- EN: The current number of animals in the colony, both male and female. -->
-  <AutoSlaugtherHeaderTooltipCurrentTotal>Die aktuelle Anzahl an männlichen und weiblichen Tieren in der Kolonie.</AutoSlaugtherHeaderTooltipCurrentTotal>
+  <AutoSlaugtherHeaderTooltipCurrentTotal>An líon iomlán ainmhithe atá sa choilíneacht, ainmhithe fireann agus baineann san áireamh.</AutoSlaugtherHeaderTooltipCurrentTotal>
   <!-- EN: The maximum number of animals in the colony, both male and female.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxTotal>Die maximale Anzahl an männlichen und weiblichen Tieren in der Kolonie.\n\nTierpfleger werden überschüssige Tiere automatisch schlachten.</AutoSlaugtherHeaderTooltipMaxTotal>
+  <AutoSlaugtherHeaderTooltipMaxTotal>An líon uasta ainmhithe a cheadaítear sa choilíneacht, ainmhithe fireann agus baineann san áireamh.\n\nMarófar aon ainmhithe breise go huathoibríoch.</AutoSlaugtherHeaderTooltipMaxTotal>
   <!-- EN: The current number of males of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentMales>Die aktuelle Anzahl an männlichen Tieren in der Kolonie, die im fortpflanzungsfähigen Alter sind.</AutoSlaugtherHeaderTooltipCurrentMales>
+  <AutoSlaugtherHeaderTooltipCurrentMales>Líon na n-ainmhithe fireann a bhfuil aois pórúcháin bainte amach acu atá sa choilíneacht.</AutoSlaugtherHeaderTooltipCurrentMales>
   <!-- EN: The current number of baby and juvenile males in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Die aktuelle Anzahl an männlichen Jungtieren in der Kolonie.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
+  <AutoSlaughterHeaderTooltipCurrentMalesYoung>Líon na n-ainmhithe fireann óga atá sa choilíneacht.</AutoSlaughterHeaderTooltipCurrentMalesYoung>
   <!-- EN: The maximum number of males of breeding age in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxMales>Die maximale Anzahl an männlichen Tieren in der Kolonie, die im fortpflanzungsfähigen Alter sind.\n\nTierpfleger werden überschüssige Tiere automatisch schlachten.</AutoSlaugtherHeaderTooltipMaxMales>
+  <AutoSlaugtherHeaderTooltipMaxMales>An líon uasta ainmhithe fireann a bhfuil aois pórúcháin bainte amach acu a cheadaítear sa choilíneacht.\n\nMarófar aon ainmhithe breise go huathoibríoch.</AutoSlaugtherHeaderTooltipMaxMales>
   <!-- EN: The maximum number of baby and juvenile males in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxMalesYoung>Die maximale Anzahl an männlichen Jungtieren in der Kolonie.\n\nTierpfleger werden überschüssige Tiere automatisch schlachten.</AutoSlaughterHeaderTooltipMaxMalesYoung>
+  <AutoSlaughterHeaderTooltipMaxMalesYoung>An líon uasta ainmhithe fireann óga a cheadaítear sa choilíneacht.\n\nMarófar aon ainmhithe breise go huathoibríoch.</AutoSlaughterHeaderTooltipMaxMalesYoung>
   <!-- EN: The current number of females of breeding age in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemales>Die aktuelle Anzahl an weiblichen Tieren in der Kolonie, die im fortpflanzungsfähigen Alter sind.</AutoSlaugtherHeaderTooltipCurrentFemales>
+  <AutoSlaugtherHeaderTooltipCurrentFemales>Líon na n-ainmhithe baineann atá sa choilíneacht a bhfuil aois pórúcháin bainte amach acu.</AutoSlaugtherHeaderTooltipCurrentFemales>
   <!-- EN: The current number of baby and juvenile females in the colony. -->
-  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Die aktuelle Anzahl an weiblichen Jungtieren in der Kolonie.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
+  <AutoSlaugtherHeaderTooltipCurrentFemalesYoung>Líon na n-ainmhithe baineann óga atá sa choilíneacht.</AutoSlaugtherHeaderTooltipCurrentFemalesYoung>
   <!-- EN: The maximum number of females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaugtherHeaderTooltipMaxFemales>Die maximale Anzahl an weiblichen Tieren in der Kolonie.\n\nTierpfleger werden überschüssige Tiere automatisch schlachten.</AutoSlaugtherHeaderTooltipMaxFemales>
+  <AutoSlaugtherHeaderTooltipMaxFemales>Líon uasta na n-ainmhithe baineann a cheadaítear sa choilíneacht.\n\nMarófar aon ainmhithe breise go huathoibríoch.</AutoSlaugtherHeaderTooltipMaxFemales>
   <!-- EN: The maximum number of baby and juvenile females in the colony.\n\nHandlers will automatically slaughter any extras. -->
-  <AutoSlaughterHeaderTooltipMaxFemalesYoung>Die maximale Anzahl an weiblichen Jungtieren in der Kolonie.\n\nTierpfleger werden überschüssige Tiere automatisch schlachten.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
+  <AutoSlaughterHeaderTooltipMaxFemalesYoung>An líon uasta ainmhithe baineann óga a cheadaítear sa choilíneacht.\n\nMarófar aon ainmhithe breise go huathoibríoch.</AutoSlaughterHeaderTooltipMaxFemalesYoung>
   <!-- EN: The current number of pregnant animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentPregnant>Die aktuelle Anzahl an trächtigen Tieren in der Kolonie.</AutoSlaughterHeaderTooltipCurrentPregnant>
+  <AutoSlaughterHeaderTooltipCurrentPregnant>Líon na n-ainmhithe torracha atá sa choilíneacht.</AutoSlaughterHeaderTooltipCurrentPregnant>
   <!-- EN: Allow pregnant animals to be slaughtered along with other females of the same species. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Erlaube, dass trächtige Tiere zusammen mit anderen weiblichen Tieren der gleichen Art geschlachtet werden dürfen.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
+  <AutoSlaughterHeaderTooltipAllowSlaughterPregnant>Ceadaítear ainmhithe torracha a mharú nuair atá ainmhithe baineann den speiceas céanna á marú.</AutoSlaughterHeaderTooltipAllowSlaughterPregnant>
   <!-- EN: The current number of bonded animals in the colony. -->
-  <AutoSlaughterHeaderTooltipCurrentBonded>Die aktuelle Anzahl an gebundenen Tieren in der Kolonie.</AutoSlaughterHeaderTooltipCurrentBonded>
+  <AutoSlaughterHeaderTooltipCurrentBonded>Líon na n-ainmhithe nasctha atá sa choilíneacht.</AutoSlaughterHeaderTooltipCurrentBonded>
   <!-- EN: Allow bonded animals to be slaughtered. -->
-  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Erlaube das Schlachten von gebundenen Tieren.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
+  <AutoSlaughterHeaderTooltipAllowSlaughterBonded>Ceadaítear nasctha a mharú.</AutoSlaughterHeaderTooltipAllowSlaughterBonded>
 
   <!-- EN: Click to set an animal count limit. -->
-  <AutoSlaughterTooltipSetLimit>Klicke, um die Tierzahl zu limitieren.</AutoSlaughterTooltipSetLimit>
+  <AutoSlaughterTooltipSetLimit>Cliceáil chun srian a chur leis an líon ainmhithe.</AutoSlaughterTooltipSetLimit>
 
   <!-- Room requirements -->
   <!-- EN: no beds allowed -->
-  <RoomRequirementNoBeds>keine Betten erlaubt</RoomRequirementNoBeds>
+  <RoomRequirementNoBeds>ní cheadaítear aon leapacha</RoomRequirementNoBeds>
   <!-- EN: room area: {0} tiles -->
-  <RoomRequirementArea>Raumgröße: {0} Zellen</RoomRequirementArea>
+  <RoomRequirementArea>achar: {0} tíl</RoomRequirementArea>
   <!-- EN: room impressiveness -->
-  <RoomRequirementImpressiveness>Raumeindruck</RoomRequirementImpressiveness>
+  <RoomRequirementImpressiveness>áilleacht an tseomra</RoomRequirementImpressiveness>
   <!-- EN: all floored -->
-  <RoomRequirementAllFloored>Bodenbelag</RoomRequirementAllFloored>
+  <RoomRequirementAllFloored>urlár de dhíth</RoomRequirementAllFloored>
   <!-- EN: all braziers must be lit -->
-  <RoomRequirementAllBraziersMustBeLit>alle Feuerschalen müssen brennen</RoomRequirementAllBraziersMustBeLit>
+  <RoomRequirementAllBraziersMustBeLit>ní mór go mbeidh gach prásaí lasta</RoomRequirementAllBraziersMustBeLit>
   <!-- EN: all fine floored -->
-  <RoomRequirementAllFineFloored>feiner Bodenbelag</RoomRequirementAllFineFloored>
+  <RoomRequirementAllFineFloored>urlár deas de dhíth</RoomRequirementAllFineFloored>
   <!-- EN: no work facilities allowed -->
-  <RoomRequirementNoProductionFacilities>keine Arbeitsstätten erlaubt</RoomRequirementNoProductionFacilities>
+  <RoomRequirementNoProductionFacilities>ní cheadaítear aon bhinsí oibre</RoomRequirementNoProductionFacilities>
   <!-- EN: no altars allowed -->
-  <RoomRequirementNoAltars>keine Altäre erlaubt</RoomRequirementNoAltars>
+  <RoomRequirementNoAltars>ní cheadaítear aon altóir</RoomRequirementNoAltars>
 
   <!-- EN: Lifestage max food factor -->
-  <LifeStageMaxFood>Altersgruppe-Maximalnahrung-Faktor</LifeStageMaxFood>
+  <LifeStageMaxFood>TODO</LifeStageMaxFood>
 
   <!-- EN: Expand all -->
   <ExpandAllCategories>Oscáil gach ceann</ExpandAllCategories>
@@ -1351,74 +1351,74 @@
   <CollapseAllCategories>Dún gach ceann</CollapseAllCategories>
 
   <!-- EN: Dye can be farmed from tinctoria or purchased from traders. -->
-  <TooltipDyeExplanation>Farbstoffe können von Tinktoriapflanzen geerntet oder von Händlern gekauft werden.</TooltipDyeExplanation>
+  <TooltipDyeExplanation>Is féidir ruaim a dhéanamh as tionctóire nó a cheannach ó thrádálaithe.</TooltipDyeExplanation>
 
   <!-- EN: Zoom range {0} -->
   <ZoomRange>Zoombereich {0}</ZoomRange>
 
   <!-- Color picker -->
   <!-- EN: color temperature -->
-  <ColorTemperature>Farbtemperatur</ColorTemperature>
+  <ColorTemperature>dath</ColorTemperature>
   <!-- EN: choose a color -->
-  <ChooseAColor>Farbe auswählen</ChooseAColor>
+  <ChooseAColor>roghnaigh dath</ChooseAColor>
   <!-- EN: red -->
-  <Red>rot</Red>
+  <Red>dearg</Red>
   <!-- EN: green -->
-  <Green>grün</Green>
+  <Green>glas</Green>
   <!-- EN: blue -->
-  <Blue>blau</Blue>
+  <Blue>gorm</Blue>
   <!-- EN: hue -->
-  <Hue>Farbton</Hue>
+  <Hue>fordhath</Hue>
   <!-- EN: sat -->
-  <Saturation>Sättigung</Saturation>
+  <Saturation>sáithiú</Saturation>
   <!-- EN: value -->
-  <ColorValue>Wert</ColorValue>
+  <ColorValue>luach</ColorValue>
   <!-- EN: darklight -->
-  <Darklight>Dunkellicht</Darklight>
+  <Darklight>solas dorcha</Darklight>
   <!-- EN: not darklight -->
-  <NotDarklight>kein Dunkellicht</NotDarklight>
+  <NotDarklight>gan solas dorcha</NotDarklight>
   <!-- EN: current color -->
-  <CurrentColor>aktuelle Farbe</CurrentColor>
+  <CurrentColor>dath reatha</CurrentColor>
   <!-- EN: old color -->
-  <OldColor>alte Farbe</OldColor>
+  <OldColor>seandath</OldColor>
   <!-- EN: Copy color -->
-  <CommandCopyColorLabel>Farbe kopieren</CommandCopyColorLabel>
+  <CommandCopyColorLabel>Cóipeáil dath</CommandCopyColorLabel>
   <!-- EN: Copy the current color to the clipboard. -->
-  <CommandCopyColorDesc>Kopiere die aktuelle Farbe in die Zwischenablage.</CommandCopyColorDesc>
+  <CommandCopyColorDesc>Cóipeáil an dath reatha chuig an ngearrthaisce.</CommandCopyColorDesc>
   <!-- EN: Paste color -->
-  <CommandPasteColorLabel>Farbe einfügen</CommandPasteColorLabel>
+  <CommandPasteColorLabel>Greamaigh dath</CommandPasteColorLabel>
   <!-- EN: Overwrite the color with the color in the clipboard. -->
-  <CommandPasteColorDesc>Ersetze die Farbe mit der Farbe aus der Zwischenablage.</CommandPasteColorDesc>
+  <CommandPasteColorDesc>Cuir isteach an dath ón ngearrthaisce.</CommandPasteColorDesc>
   <!-- EN: The clipboard does not contain a valid color. -->
-  <ClipboardInvalidColor>Die Zwischenablage enthält keine gültige Farbe.</ClipboardInvalidColor>
+  <ClipboardInvalidColor>Níl aon dath sa ghearrthaisce.</ClipboardInvalidColor>
   <!-- EN: Color copied to clipboard. -->
-  <ColorCopiedSuccessfully>Farbe wurde in die Zwischenablage kopiert.</ColorCopiedSuccessfully>
+  <ColorCopiedSuccessfully>Cóipeáladh an dath chuig an ngearrthaisce.</ColorCopiedSuccessfully>
   <!-- EN: Updated color from the clipboard. -->
-  <ColorPastedSuccessfully>Farbe wurde mit der Farbe aus der Zwischenablage ersetzt.</ColorPastedSuccessfully>
+  <ColorPastedSuccessfully>Cuireadh isteach an dath ón ngearrthaisce.</ColorPastedSuccessfully>
   <!-- EN: Change to normal light -->
-  <ToggleDarklightOff>Standardlicht verwenden</ToggleDarklightOff>
+  <ToggleDarklightOff>Athraigh chuig ghnáthsolas</ToggleDarklightOff>
   <!-- EN: Change the light color to its normal color. -->
-  <ToggleDarklightOffDesc>Ändere die Lichtfarbe auf Standardlicht.</ToggleDarklightOffDesc>
+  <ToggleDarklightOffDesc>Athraigh dath an tsolais chuig an ngnáthdhath.</ToggleDarklightOffDesc>
   <!-- EN: Change to darklight -->
-  <ToggleDarklightOn>Dunkellicht verwenden</ToggleDarklightOn>
+  <ToggleDarklightOn>Athraigh chuig solas dorcha</ToggleDarklightOn>
   <!-- EN: Change the light color to darklight. -->
-  <ToggleDarklightOnDesc>Ändere die Lichtfarbe auf Dunkellicht.</ToggleDarklightOnDesc>
+  <ToggleDarklightOnDesc>ÄAthraigh dath an tsolais chuig solas dorcha.</ToggleDarklightOnDesc>
   <!-- EN: Choose a color by setting the color temperature. Note: This only affects visual color, not heat output. -->
-  <ColorTemperatureTooltip>Wähle eine Farbe anhand der Farbtemperatur. Hinweis: Dies betrifft nur die Darstellung der Farbe, nicht die Wärmeabgabe.</ColorTemperatureTooltip>
+  <ColorTemperatureTooltip>Is féidir dath a roghnú. Nóta: ní bhíonn aon éifeacht ag an dath ar an teocht.</ColorTemperatureTooltip>
 
   <!-- EN: {0_labelShort} is psychically deaf. -->
-  <CannotShootPawnIsPsychicallyDeaf>TODO</CannotShootPawnIsPsychicallyDeaf>
+  <CannotShootPawnIsPsychicallyDeaf>Tá {0_labelShort} bodhar d'éifeachtaí síceacha.</CannotShootPawnIsPsychicallyDeaf>
 
   <!-- EN: Search the current map. -->
-  <SearchTheMap>TODO</SearchTheMap>
+  <SearchTheMap>Cuardaigh sa léarscáil reatha</SearchTheMap>
   <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
-  <SearchTheMapDesc>TODO</SearchTheMapDesc>
+  <SearchTheMapDesc>Déan cuardach sa léarscáil reatha le haghaidh earraí, foirgnimh, daoine, ainmhithe, plandaí agus mar sin de.</SearchTheMapDesc>
   <!-- EN: {0} results found -->
-  <MapSearchResults>TODO</MapSearchResults>
+  <MapSearchResults>Aimsíodh {0} rud</MapSearchResults>
   <!-- EN: 1 result found -->
-  <MapSearchResultSingular>TODO</MapSearchResultSingular>
+  <MapSearchResultSingular>Aimsíodh rud amháin</MapSearchResultSingular>
   <!-- EN: Searching -->
-  <Searching>TODO</Searching>
+  <Searching>Ag cuardach</Searching>
 
   <!-- UNUSED -->
   <Outfit>Outfit</Outfit>
