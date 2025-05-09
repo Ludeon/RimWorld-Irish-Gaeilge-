@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: daylily -->
-  <Plant_Daylily.label>TODO</Plant_Daylily.label>
+  <Plant_Daylily.label>lile</Plant_Daylily.label>
   <!-- EN: A cultivated flower with wide petals and a short lifespan. Daylilies are very beautiful, but must be replanted often. -->
-  <Plant_Daylily.description>TODO</Plant_Daylily.description>
+  <Plant_Daylily.description>Tá cuma álainn ar an lile, ach ní mhaireann sí ach cúpla lá.</Plant_Daylily.description>
   
   <!-- EN: rose -->
-  <Plant_Rose.label>TODO</Plant_Rose.label>
+  <Plant_Rose.label>rós</Plant_Rose.label>
   <!-- EN: A beautiful cultivated flower, the rose has been a symbol of love since Earth's ancient era. -->
-  <Plant_Rose.description>TODO</Plant_Rose.description>
+  <Plant_Rose.description>Tá cuma álainn ar an rós, agus is í comhartha an ghrá í.</Plant_Rose.description>
   
 </LanguageData>

@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: agave -->
-  <Plant_Agave.label>TODO</Plant_Agave.label>
+  <Plant_Agave.label>agáibhe</Plant_Agave.label>
   <!-- EN: A large-leafed desert plant with edible flowers and stalks. -->
-  <Plant_Agave.description>TODO</Plant_Agave.description>
+  <Plant_Agave.description>Planda mór, ag a bhfuil bláthanna a gais inite.</Plant_Agave.description>
   
   <!-- EN: pincushion cactus -->
-  <Plant_PincushionCactus.label>TODO</Plant_PincushionCactus.label>
+  <Plant_PincushionCactus.label>cachtas pioncáis</Plant_PincushionCactus.label>
   <!-- EN: A short cactus. It is so named because it resembles a pincushion. -->
-  <Plant_PincushionCactus.description>TODO</Plant_PincushionCactus.description>
+  <Plant_PincushionCactus.description>Cactas beag.</Plant_PincushionCactus.description>
   
   <!-- EN: saguaro cactus -->
-  <Plant_SaguaroCactus.label>TODO</Plant_SaguaroCactus.label>
+  <Plant_SaguaroCactus.label>cachtas saguaró</Plant_SaguaroCactus.label>
   <!-- EN: A large cactus native to arid Earth environments. Though it is not a tree, it yields a small amount of fibrous material that can be used like wood. -->
-  <Plant_SaguaroCactus.description>TODO</Plant_SaguaroCactus.description>
+  <Plant_SaguaroCactus.description>Cachtas mór. Cé nach crann é, is féidir ábhar snáithíneach air atá an-chosúil le hadhmad.</Plant_SaguaroCactus.description>
   
   <!-- EN: drago tree -->
-  <Plant_TreeDrago.label>TODO</Plant_TreeDrago.label>
+  <Plant_TreeDrago.label>crann dragain</Plant_TreeDrago.label>
   <!-- EN: A hardy desert tree topped with thick, pointed leaves. -->
-  <Plant_TreeDrago.description>TODO</Plant_TreeDrago.description>
+  <Plant_TreeDrago.description>Crann triomach-chrua a fhásann san fhasach, a bhfuil duilleoga móra air.</Plant_TreeDrago.description>
   
 </LanguageData>

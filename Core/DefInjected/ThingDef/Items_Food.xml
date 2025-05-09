@@ -2,58 +2,58 @@
 <LanguageData>
   
   <!-- EN: kibble -->
-  <Kibble.label>TODO</Kibble.label>
+  <Kibble.label>bia ainmhithe</Kibble.label>
   <!-- EN: Animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it. -->
-  <Kibble.description>TODO</Kibble.description>
+  <Kibble.description>Bia ainmhithe déanta as feoil agus plandaí. Is féidir le daoine é a ithi, cé go bhfuil sé déistineach.</Kibble.description>
   
   <!-- EN: fine meal -->
-  <MealFine.label>TODO</MealFine.label>
+  <MealFine.label>béile deas</MealFine.label>
   <!-- EN: A complex dish assembled with care from a variety of ingredients. -->
-  <MealFine.description>TODO</MealFine.description>
+  <MealFine.description>Béile deas déanta as comhábhair éagsúla.</MealFine.description>
   
   <!-- EN: carnivore fine meal -->
-  <MealFine_Meat.label>TODO</MealFine_Meat.label>
+  <MealFine_Meat.label>béile deas (feoiliteora)</MealFine_Meat.label>
   <!-- EN: A complex dish assembled with care from meat ingredients. -->
-  <MealFine_Meat.description>TODO</MealFine_Meat.description>
+  <MealFine_Meat.description>Béile deas déanta as feoil.</MealFine_Meat.description>
   
   <!-- EN: vegetarian fine meal -->
-  <MealFine_Veg.label>TODO</MealFine_Veg.label>
+  <MealFine_Veg.label>béile deas (veigeatóra)</MealFine_Veg.label>
   <!-- EN: A complex dish assembled with care from vegetarian ingredients. -->
-  <MealFine_Veg.description>TODO</MealFine_Veg.description>
+  <MealFine_Veg.description>Béile deas déanta as plandaí.</MealFine_Veg.description>
   
   <!-- EN: lavish meal -->
-  <MealLavish.label>TODO</MealLavish.label>
+  <MealLavish.label>béile galánta</MealLavish.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish.description>TODO</MealLavish.description>
+  <MealLavish.description>Tá an béile seo galánta, agus tá sé déanta as comhábhair ardchaighdeáin.</MealLavish.description>
   
   <!-- EN: carnivore lavish meal -->
-  <MealLavish_Meat.label>TODO</MealLavish_Meat.label>
+  <MealLavish_Meat.label>béile galánta (feoiliteora)</MealLavish_Meat.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish_Meat.description>TODO</MealLavish_Meat.description>
+  <MealLavish_Meat.description>Tá an béile seo galánta, agus tá sé déanta as comhábhair ardchaighdeáin.</MealLavish_Meat.description>
   
   <!-- EN: vegetarian lavish meal -->
-  <MealLavish_Veg.label>TODO</MealLavish_Veg.label>
+  <MealLavish_Veg.label>béile galánta (veigeatóra)</MealLavish_Veg.label>
   <!-- EN: A masterpiece of the culinary arts, this meal nourishes the body, mind, and soul. -->
-  <MealLavish_Veg.description>TODO</MealLavish_Veg.description>
+  <MealLavish_Veg.description>Tá an béile seo galánta, agus tá sé déanta as comhábhair ardchaighdeáin.</MealLavish_Veg.description>
   
   <!-- EN: nutrient paste meal -->
-  <MealNutrientPaste.label>TODO</MealNutrientPaste.label>
+  <MealNutrientPaste.label>béile taois chothaithigh</MealNutrientPaste.label>
   <!-- EN: A synthetic mixture of protein, carbohydrates, and vitamins, amino acids and minerals. Everything the body needs, and absolutely disgusting. -->
-  <MealNutrientPaste.description>TODO</MealNutrientPaste.description>
+  <MealNutrientPaste.description>Tá an béile seo déanta as próitéin, carbaihiodráití agus vitimíní sintéiseacha. Sin ráite, tá sé lofa.</MealNutrientPaste.description>
   
   <!-- EN: simple meal -->
-  <MealSimple.label>TODO</MealSimple.label>
+  <MealSimple.label>béile simplí</MealSimple.label>
   <!-- EN: A simple meal quickly cooked from one main ingredient. -->
-  <MealSimple.description>TODO</MealSimple.description>
+  <MealSimple.description>Béile simplí déanta as comhábhar amháin.</MealSimple.description>
   
   <!-- EN: packaged survival meal -->
-  <MealSurvivalPack.label>TODO</MealSurvivalPack.label>
+  <MealSurvivalPack.label>béile fadmharthain</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>TODO</MealSurvivalPack.description>
+  <MealSurvivalPack.description>Is minic go n-úsáidtear na béilí seo sa spás, toisc nach lobhann siad. An-úsáideach nuair a bhíonn tú ag taisteal.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
-  <Pemmican.label>TODO</Pemmican.label>
+  <Pemmican.label>peimicean</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>TODO</Pemmican.description>
+  <Pemmican.description>Meascán de shaill agus bia ainmhithe. Ní blas ródheas air, ach is féidir é a ithe. Maireann sé tamall fada, agus tá sé úsáideach nuair a bhíonn tú ag taisteal.</Pemmican.description>
   
 </LanguageData>

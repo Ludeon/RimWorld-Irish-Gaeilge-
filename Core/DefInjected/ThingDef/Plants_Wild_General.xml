@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: brambles -->
-  <Plant_Brambles.label>TODO</Plant_Brambles.label>
+  <Plant_Brambles.label>driseacha</Plant_Brambles.label>
   <!-- EN: Tangled, thorny, woody shoots covered with leaves. Brambles grow in clusters, and slow down anyone moving over them. -->
-  <Plant_Brambles.description>TODO</Plant_Brambles.description>
+  <Plant_Brambles.description>Fásann driseacha i ngach áit, agus cuireann siad moill ar dhaoine a shiúlann orthu.</Plant_Brambles.description>
   
   <!-- EN: bush -->
-  <Plant_Bush.label>TODO</Plant_Bush.label>
+  <Plant_Bush.label>tom</Plant_Bush.label>
   <!-- EN: A short shrub. Does not typically talk. -->
-  <Plant_Bush.description>TODO</Plant_Bush.description>
+  <Plant_Bush.description>Tom beag.</Plant_Bush.description>
   
   <!-- EN: grass -->
-  <Plant_Grass.label>TODO</Plant_Grass.label>
+  <Plant_Grass.label>féar</Plant_Grass.label>
   <!-- EN: Wild grass. Grows anywhere there is a little light and minimally fertile ground. -->
-  <Plant_Grass.description>TODO</Plant_Grass.description>
+  <Plant_Grass.description>Fásann féar i ngach áit.</Plant_Grass.description>
   
   <!-- EN: wild healroot -->
   <Plant_HealrootWild.label>TODO</Plant_HealrootWild.label>
@@ -22,8 +22,8 @@
   <Plant_HealrootWild.description>TODO</Plant_HealrootWild.description>
   
   <!-- EN: tall grass -->
-  <Plant_TallGrass.label>TODO</Plant_TallGrass.label>
+  <Plant_TallGrass.label>féar ard</Plant_TallGrass.label>
   <!-- EN: Wild tall grass. Slows down anyone moving over it. -->
-  <Plant_TallGrass.description>TODO</Plant_TallGrass.description>
+  <Plant_TallGrass.description>Cuireann an féar seo moill ar dhaoine a shiúlann ann.</Plant_TallGrass.description>
   
 </LanguageData>

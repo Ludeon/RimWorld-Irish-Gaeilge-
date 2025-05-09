@@ -2,33 +2,33 @@
 <LanguageData>
   
   <!-- EN: burned stump -->
-  <BurnedTree.label>TODO</BurnedTree.label>
+  <BurnedTree.label>stumpa dóite</BurnedTree.label>
   <!-- EN: A burned tree stump. It's ugly and yields very little usable wood. -->
-  <BurnedTree.description>TODO</BurnedTree.description>
+  <BurnedTree.description>Stumpa dóite. Ní féidir móran admhaid a bhaint as.</BurnedTree.description>
   
   <!-- EN: chopped stump -->
-  <ChoppedStump.label>TODO</ChoppedStump.label>
+  <ChoppedStump.label>stumpa gearrtha</ChoppedStump.label>
   <!-- EN: A stump left behind after a tree has been felled. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <ChoppedStump.description>TODO</ChoppedStump.description>
+  <ChoppedStump.description>Bhí crann anseo tráth, ach níl fágtha anios ach an stumpa gearrtha seo.</ChoppedStump.description>
   
   <!-- EN: dye -->
-  <Dye.label>TODO</Dye.label>
+  <Dye.label>ruaim</Dye.label>
   <!-- EN: Dye extracted from a tinctoria plant. It can be used to change the color of walls, buildings, and more. -->
-  <Dye.description>TODO</Dye.description>
+  <Dye.description>Is féidir an ruaim seo a úsáid chun dath nua a chur ar bhallaí, éadaí agus mar sin de.</Dye.description>
   
   <!-- EN: ambrosia bush -->
-  <Plant_Ambrosia.label>TODO</Plant_Ambrosia.label>
+  <Plant_Ambrosia.label>tom ambróise</Plant_Ambrosia.label>
   <!-- EN: A rare wild bush which yields the ambrosia fruit. Ambrosia fruit is delicious and produces a drug-like mood boost. Ambrosia cannot be farmed, which makes wild ambrosia groves very valuable.\n\nIts rarity, beauty, and desirability are why ambrosia was named after the food of the ancient Greek gods. -->
-  <Plant_Ambrosia.description>TODO</Plant_Ambrosia.description>
+  <Plant_Ambrosia.description>Fásann ambróise ar an bplanda neamhchoitianta seo. Tá ambróise iontach blasta, cruthaíonn sé siabhrán lag, agus tá sé andúile. Ní féidir ambróise a fhás, rud a chiallaíonn go mbíonn sé an-luachmhar.</Plant_Ambrosia.description>
   
   <!-- EN: tinctoria -->
-  <Plant_Tinctoria.label>TODO</Plant_Tinctoria.label>
+  <Plant_Tinctoria.label>tionctóire</Plant_Tinctoria.label>
   <!-- EN: A genetically-engineered flower-like crop which secretes a self-altering dye. Tinctoria dye can be coaxed into different colors and used to change the color of walls, buildings, and more. -->
-  <Plant_Tinctoria.description>TODO</Plant_Tinctoria.description>
+  <Plant_Tinctoria.description>Planda a rinneadh innealltóireacht ghéiniteach air, a chruthaíonn ceimiceán ildaite. Is féidir an ceimiceán sin a úsáid chun ruaim a chruthú i ndathanna éagsúla.</Plant_Tinctoria.description>
   
   <!-- EN: smashed stump -->
-  <SmashedStump.label>TODO</SmashedStump.label>
+  <SmashedStump.label>stumpa briste</SmashedStump.label>
   <!-- EN: The remnants of a tree destroyed by damage. It's ugly. The stump can be extracted but yields very little usable wood. Left outdoors, the stump will deteriorate in time. -->
-  <SmashedStump.description>TODO</SmashedStump.description>
+  <SmashedStump.description>Bhí crann anseo tráth, ach níl fágtha anois ach stumpa briste.</SmashedStump.description>
   
 </LanguageData>

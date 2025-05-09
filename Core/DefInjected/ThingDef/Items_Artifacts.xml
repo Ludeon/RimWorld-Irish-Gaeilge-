@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: psychic animal pulser -->
-  <PsychicAnimalPulser.label>TODO</PsychicAnimalPulser.label>
+  <PsychicAnimalPulser.label>bíogóir síceach ainmhithe</PsychicAnimalPulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse fills lower minds with terrifying imagery, driving all animals in the region into a manhunting rage. Animals currently under your control will not be affected. -->
-  <PsychicAnimalPulser.description>TODO</PsychicAnimalPulser.description>
+  <PsychicAnimalPulser.description>Bíogóir aon úsáide a chuireann amach comharthaí síceacha. Díríonn an bíogóir seo ar ainmhithe, agus tiocfaidh cuthach feirge agus gealtacht ar gach ainmhí sa cheantar máguaird. Ní bheidh aon éifeacht aige ar ainmhithe atá ceansaithe agat.</PsychicAnimalPulser.description>
   <!-- EN: Activate {0_label} -->
-  <PsychicAnimalPulser.comps.CompUsable.useLabel>TODO</PsychicAnimalPulser.comps.CompUsable.useLabel>
+  <PsychicAnimalPulser.comps.CompUsable.useLabel>Úsáid {0_label}</PsychicAnimalPulser.comps.CompUsable.useLabel>
   
   <!-- EN: psychic soothe pulser -->
-  <PsychicSoothePulser.label>TODO</PsychicSoothePulser.label>
+  <PsychicSoothePulser.label>bíogóir síceach suaimhneach</PsychicSoothePulser.label>
   <!-- EN: A one-use broad-wave psychic effector. The psychic pulse induces self-satisfying perceptual distortions, giving a temporary mood boost to everyone in the region. -->
-  <PsychicSoothePulser.description>TODO</PsychicSoothePulser.description>
+  <PsychicSoothePulser.description>Bíogóir aon úsáide a chuireann amach comharthaí síceacha. Cuireann an bíogóir seo comharthaí deasa, réchúiseacha amach, agus cuirfear dea-ghiúmar ar gach duine sa cheantar máguaird.</PsychicSoothePulser.description>
   <!-- EN: Activate {0_label} -->
   <PsychicSoothePulser.comps.CompUsable.useLabel>TODO</PsychicSoothePulser.comps.CompUsable.useLabel>
   

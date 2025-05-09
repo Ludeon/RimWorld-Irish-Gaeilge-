@@ -401,7 +401,7 @@
   <CombatNegotiator31.titleShort>idirbheartaí</CombatNegotiator31.titleShort>
 
   <!-- EN: After years of training in martial arts and diplomacy, [PAWN_nameDef] was eventually given land and subjects of [PAWN_possessive] own to rule.\n\nBecause of [PAWN_nameDef]'s commoner heritage, the other lords disapproved. They framed [PAWN_objective] for a heinous crime, and the emperor had no choice but to exile [PAWN_objective]. -->
-  <CommonerLord45.description>Uasal [PAWN_nameDef] ab ea ar a p[PAWN_possessive]láinéad baile. Bhí a cuid searbhóintí agus géillsineach féin ag [PAWN_nameDef], agus bhí [PAWN_pronoun] dílis don impire.</CommonerLord45.description>
+  <CommonerLord45.description>Uasal [PAWN_nameDef] ab ea ar a p[PAWN_possessive]láinéad baile. Bhí a c[PAWN_possessive]uid searbhóintí agus géillsineach féin ag [PAWN_nameDef], agus bhí [PAWN_pronoun] dílis don impire.</CommonerLord45.description>
   <!-- EN: commoner lord -->
   <CommonerLord45.title>uasal</CommonerLord45.title>
   <!-- EN: lord -->
