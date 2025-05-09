@@ -55,40 +55,39 @@
     <li>TalkTopicAny->[TalkTopicLight]</li>
     <li>TalkTopicAny->[TalkTopicHeavy]</li>
     <li>TalkTopicHeavy->[talktopicheavyfile]</li>
-    <li>TalkTopicHeavy(p=0.08)->the link between [talktopicheavyfile] and [talktopicheavyfile]</li>
-    <li>TalkTopicHeavy(p=0.08)->the connection between [talktopicheavyfile] and [talktopicheavyfile]</li>
-    <li>TalkTopicHeavy(p=0.08)->the relationship between [talktopicheavyfile] and [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->cúrsaí a bhaineann le [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->cúrsaí a bhaineann [talktopicheavyfile] agus le [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->rudaí a bhaineann le [talktopicheavyfile] agus le [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
-    <li>TalkTopicLight->faoi ghlasraí</li>
-    <li>TalkTopicLight->faoi ghlasraí a ithe</li>
-    <li>TalkTopicLight->faoin gcócaireacht</li>
-    <li>TalkTopicLight->faoi [Game]</li>
-    <li>TalkTopicLight->faoi [Game] a imirt</li>
-    <li>TalkTopicLight->faoi [Game] a chleachtadh</li>
-    <li>TalkTopicLight->faoi [Game] a fhoghlaim</li>
-    <li>TalkTopicLight->faoi ainmhithe</li>
-    <li>TalkTopicLight->faoi ainmhithe a thraenáil</li>
-    <li>TalkTopicLight->faoi ainmhithe cheansú</li>
-    <li>TalkTopicLight->faoi throid le hainmhithe</li>
-    <li>TalkTopicLight->faoi ainmhithe dáinséaracha</li>
-    <li>TalkTopicLight->[Weapon]s</li>
-    <li>TalkTopicLight->using [Weapon]s</li>
-    <li>TalkTopicLight->practicing with [Weapon]s</li>
-    <li>TalkTopicLight->[TerrainFeature]s</li>
-    <li>TalkTopicLight->[NaturalObject]s</li>
-    <li>TalkTopicLight->[TreeType] trees</li>
-    <li>TalkTopicLight->[PersonJob]s</li>
-    <li>TalkTopicLight->friendly [PersonJob]s</li>
-    <li>TalkTopicLight->hostile [PersonJob]s</li>
-    <li>TalkTopicLight->[Enemy]s</li>
-    <li>TalkTopicLight->fighting [Enemy]s</li>
-    <li>TalkTopicLight->[Apparel]s</li>
-    <li>TalkTopicLight->wearing [Apparel]s</li>
-    <li>TalkTopicLight->making [Apparel]s</li>
-    <li>talktopicheavyfile(p=0.15)->faoi chúrsaí collaigh</li>
-    <li>talktopicheavyfile(p=0.15)->faoin gcliúsaíocht</li>
-    <li>talktopicheavyfile(p=0.15)->faoin gcollaíocht</li>
-    <li>talktopicheavyfile(p=0.15)->faoin drúisiúlacht</li>
+    <li>TalkTopicLight->glasraí</li>
+    <li>TalkTopicLight->glasraí a ithe</li>
+    <li>TalkTopicLight->cócaireacht</li>
+    <li>TalkTopicLight->cluichí ríomhaire</li>
+    <li>TalkTopicLight->cluichí a imirt</li>
+    <li>TalkTopicLight->cluichí a chleachtadh</li>
+    <li>TalkTopicLight->Gaeilge a fhoghlaim</li>
+    <li>TalkTopicLight->hainmhithe</li>
+    <li>TalkTopicLight->hainmhithe a thraenáil</li>
+    <li>TalkTopicLight->hainmhithe cheansú</li>
+    <li>TalkTopicLight->troid le hainmhithe</li>
+    <li>TalkTopicLight->hainmhithe dáinséaracha</li>
+    <li>TalkTopicLight->hairm</li>
+    <li>TalkTopicLight->gunnaí a úsáid</li>
+    <li>TalkTopicLight->cleachtadh a dhéanamh le gunnaí</li>
+    <li>TalkTopicLight->crainn</li>
+    <li>TalkTopicLight->daoine cairdiúla</li>
+    <li>TalkTopicLight->daoine naimhdeacha</li>
+    <li>TalkTopicLight->naimhde</li>
+    <li>TalkTopicLight->troid i gcoinne naimhde</li>
+    <li>TalkTopicLight->héadaí</li>
+    <li>TalkTopicLight->héadaí a chaitheamh</li>
+    <li>TalkTopicLight->héadaí a dhéanamh</li>
+    <li>TalkTopicLight->cúrsaí aimsire</li>
+    <li>TalkTopicLight->cúrsaí Gaeige</li>
+    <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh</li>
+    <li>talktopicheavyfile(p=0.15)->bualadh craicinn</li>
+    <li>talktopicheavyfile(p=0.15)->aiséirí na marbh</li>
+    <li>talktopicheavyfile(p=0.15)->cúrsái collaigh</li>
     </GlobalUtility.rulePack.rulesStrings>
 
   <!-- EN:
@@ -130,7 +129,39 @@
     <li>talktopicheavyfile(p=0.15)->animal sexuality</li>
     <li>talktopicheavyfile(p=0.15)->sexual fetishes</li>
   -->
-  <TalkTopicsUtility.rulePack.rulesStrings>TODO</TalkTopicsUtility.rulePack.rulesStrings>
+  <TalkTopicsUtility.rulePack.rulesStrings>
+    <li>TalkTopicAny->[TalkTopicLight]</li>
+    <li>TalkTopicAny->[TalkTopicHeavy]</li>
+    <li>TalkTopicHeavy->[talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->cúrsaí a bhaineann le [talktopicheavyfile] agus le [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->cúrsaí a bhaineann le [talktopicheavyfile] agus le [talktopicheavyfile]</li>
+    <li>TalkTopicHeavy(p=0.08)->rudaí a bhaineann le [talktopicheavyfile]</li>
+    <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
+    <li>TalkTopicLight->glasraí</li>
+    <li>TalkTopicLight->glasraí a ithe</li>
+    <li>TalkTopicLight->cócaireacht a dhéanamh</li>
+    <li>TalkTopicLight->cluichí</li>
+    <li>TalkTopicLight->cluichí a imirt</li>
+    <li>TalkTopicLight->cluichí a chleachtadh</li>
+    <li>TalkTopicLight->cluichí a fhoghlaim</li>
+    <li>TalkTopicLight->hainmhithe</li>
+    <li>TalkTopicLight->hainmhithe a cheansú</li>
+    <li>TalkTopicLight->hainmhithe a chur faoi oiliúint</li>
+    <li>TalkTopicLight->troid i gcoinne ainmhithe</li>
+    <li>TalkTopicLight->hainmhithe fiáine</li>
+    <li>TalkTopicLight->hairm</li>
+    <li>TalkTopicLight->hairm a úsáid</li>
+    <li>TalkTopicLight->cleachtadh a dhéanamh le</li>
+    <li>TalkTopicLight->naimhde</li>
+    <li>TalkTopicLight->troid i gcoinne naimhde</li>
+    <li>TalkTopicLight->héadaí</li>
+    <li>TalkTopicLight->héadaí a chaitheamh</li>
+    <li>TalkTopicLight->héadaí a chruthú</li>
+    <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh</li>
+    <li>talktopicheavyfile(p=0.15)->mealladh</li>
+    <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh ainmhithe</li>
+    <li>talktopicheavyfile(p=0.15)->fantaisíocht</li>
+  </TalkTopicsUtility.rulePack.rulesStrings>
 
   <rulesRaw>
     <li Class="Rule_File">

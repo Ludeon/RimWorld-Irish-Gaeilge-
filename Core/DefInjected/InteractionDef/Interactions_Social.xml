@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: chitchat -->
-  <Chitchat.label>TODO</Chitchat.label>
+  <Chitchat.label>caint agus comhrá</Chitchat.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -22,10 +22,32 @@
     <li>commentedabout->commented about</li>
     <li>commentedabout->told a joke about</li>
   -->
-  <Chitchat.logRulesInitiator.rulesStrings>TODO</Chitchat.logRulesInitiator.rulesStrings>
+  <Chitchat.logRulesInitiator.rulesStrings>
+     <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef]  maidir le [subject].</li>
+    <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->[commentedabout] [INITIATOR_nameDef] le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Luaigh [INITIATOR_nameDef] rud éigean le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Dúirt [INITIATOR_nameDef] rud éigean le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->D'inis [INITIATOR_nameDef] scéal greannmhar le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->D'inis [INITIATOR_nameDef] scéal le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
+    <li>talkedabout(p=4)->Bhí comhrá ag</li>
+    <li>talkedabout->Bhí comhrá ag</li>
+    <li>talkedabout->Labhair</li>
+    <li>talkedabout->Labhair</li>
+    <li>talkedabout->Labhair</li>
+    <li>talkedabout->Bhí comhrá ag</li>
+    <li>talkedabout->Bhí díospóireacht</li>
+    <li>commentedabout->Bhí comhrá ag</li>
+    <li>commentedabout->Labhair</li>
+    <li>commentedabout->Bhí comhrá ag</li>
+    <li>commentedabout->Luaigh</li>
+    <li>commentedabout->Bhí comhrá ag</li>
+    </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
-  <DeepTalk.label>TODO</DeepTalk.label>
+  <DeepTalk.label>comhrá domhain</DeepTalk.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
     <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
@@ -42,10 +64,19 @@
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   -->
-  <DeepTalk.logRulesInitiator.rulesStrings>TODO</DeepTalk.logRulesInitiator.rulesStrings>
+  <DeepTalk.logRulesInitiator.rulesStrings>
+     <li>r_logentry->Luaigh [INITIATOR_nameDef] roinnt smaointe le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry->Bhí díospóireacht ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Phlé [INITIATOR_nameDef] agus [RECIPIENT_nameDef] roinnt smaointe maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Roinn [INITIATOR_nameDef] roinnt smaointe le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Bhí comhrá dáiríre ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Bhí comhrá ciúin ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
+    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
+  </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
-  <Insult.label>TODO</Insult.label>
+  <Insult.label>maslach</Insult.label>
   <!-- EN:
     <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [characteristic].</li>
     <li>r_logentry->[INITIATOR_nameDef] compared [target] to [insultcomparison].</li>
@@ -73,10 +104,23 @@
     <li>insultcomparison(INITIATOR_cubeInterest==true)->something totally pointless</li>
     <li>insultcomparison(INITIATOR_cubeInterest==true)->a non-cubic platonic object</li>
   -->
-  <Insult.logRulesInitiator.rulesStrings>TODO</Insult.logRulesInitiator.rulesStrings>
+  <Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->Mhaslaigh [INITIATOR_nameDef] [target].</li>
+    <li>r_logentry(p=3)->Dúirt [INITIATOR_nameDef] rud déistineach faoi [target].</li>
+    <li>r_logentry(p=3)->Mhaslaigh [INITIATOR_nameDef] muintir [target].</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] comparáid idir [target] agus [insultcomparison].</li>
+    <li>r_logentry->Thug [INITIATOR_nameDef] [insultcomparison] ar [target].</li>
+    <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
+    <li>characteristic(INITIATOR_cubeInterest==true)->[PersonalCharacteristicCube]</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false,p=2)->ainmhí</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==false)->naimhde</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->cearnóg</li>
+    <li>insultcomparison(INITIATOR_cubeInterest==true)->ainmhí fiáin</li>
+  </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
-  <KindWords.label>TODO</KindWords.label>
+  <KindWords.label>cineálta</KindWords.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [characteristic].</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
@@ -95,10 +139,18 @@
     <li>complimented->expressed appreciation for</li>
     <li>complimented->said good things about</li>
   -->
-  <KindWords.logRulesInitiator.rulesStrings>TODO</KindWords.logRulesInitiator.rulesStrings>
+  <KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Thug [INITIATOR_nameDef] moladh do [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Mhol [INITIATOR_nameDef] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] cúpla rud deas faoi [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Luaigh [INITIATOR_nameDef] dea-rudaí faoi [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] rudaí cineálta faoi [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Mhol [INITIATOR_nameDef] [RECIPIENT_nameDef] go hard na spéire.</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] rudaí maithe faoi [RECIPIENT_nameDef].</li>
+  </KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
-  <Slight.label>TODO</Slight.label>
+  <Slight.label>drochbhéasach</Slight.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [characteristic].</li>
     <li>characteristic(INITIATOR_cubeInterest==false)->[PersonalCharacteristic]</li>
@@ -118,6 +170,17 @@
     <li>madefunof->made a contemptuous remark about</li>
     <li>madefunof->offered a backhanded compliment about</li>
   -->
-  <Slight.logRulesInitiator.rulesStrings>TODO</Slight.logRulesInitiator.rulesStrings>
+  <Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] jóc faoi [target].</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] gáire faoi [target].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] rud maslach faoi [target].</li>
+    <li>r_logentry->Chaith [INITIATOR_nameDef] drochmheas ar [target].</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] beag de [target].</li>
+    <li>r_logentry->Léirigh [INITIATOR_nameDef] dímheas ar [target].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] rud éigean maidir le muintir [target].</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] beag is fiú de [target].</li>
+    <li>r_logentry->Thug [INITIATOR_nameDef] moladh faoi bhréagriocht do [target].</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht dallamullóg a chur ar [target].</li>
+  </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>
