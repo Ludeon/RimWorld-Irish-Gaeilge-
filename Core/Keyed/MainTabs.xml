@@ -3,67 +3,67 @@
 
   <!-- Work tab -->
   <!-- EN: Manual priorities -->
-  <ManualPriorities>Manuelle Priorität</ManualPriorities>
+  <ManualPriorities>Roghnaigh tosaíochtaí</ManualPriorities>
   <!-- EN: higher priority -->
-  <HigherPriority>höhere Priorität</HigherPriority>
+  <HigherPriority>tosaíocht ard</HigherPriority>
   <!-- EN: lower priority -->
-  <LowerPriority>geringere Priorität</LowerPriority>
+  <LowerPriority>tosaíocht íseal</LowerPriority>
   <!-- EN: Relevant skills: {0}\nAverage of relevant skills: {1} -->
-  <RelevantSkills>Relevante Fertigkeiten: {0}\nDurchschnitt relevanter Fertigkeiten: {1}</RelevantSkills>
+  <RelevantSkills>Scileanna ábhartha: {0}\nMeánleibhéal na scileanna ábhartha: {1}</RelevantSkills>
   <!-- EN: Click to jump to: -->
-  <ClickToJumpTo>Klicke zum Springen zu:</ClickToJumpTo>
+  <ClickToJumpTo>Cliceáil le léimt chuig:</ClickToJumpTo>
   <!-- EN: {1_labelShort} cannot do this kind of work. -->
-  <CannotDoThisWork>{1_labelShort} verweigert diese Art von Arbeit.</CannotDoThisWork>
+  <CannotDoThisWork>Ní féidir le {1_labelShort} an cineál oibre seo a dhéanamh.</CannotDoThisWork>
   <!-- EN: (none) -->
-  <NoneBrackets>(nichts)</NoneBrackets>
+  <NoneBrackets>(ceann ar bith)</NoneBrackets>
   <!-- EN: This colonist is not able to do any work of this type because of their health condition. -->
-  <IncapableOfWorkTypeBecauseOfCapacities>Aufgrund seines Gesundheitszustandes kann der Kolonist diese Art von Arbeit nicht verrichten.</IncapableOfWorkTypeBecauseOfCapacities>
+  <IncapableOfWorkTypeBecauseOfCapacities>Níl an coilíneach seo in ann aon obair den sórt seo a dhéanamh de bharr drochshláinte.</IncapableOfWorkTypeBecauseOfCapacities>
   <!-- EN: E -->
-  <EmergencyWorkMarker>N</EmergencyWorkMarker>
+  <EmergencyWorkMarker>E</EmergencyWorkMarker>
   <!-- EN: Warning: The average of relevant skills is very low. -->
-  <SelectedWorkTypeWithVeryBadSkill>Warnung: Der Durchschnitt der relevanten Fertigkeiten ist sehr niedrig.</SelectedWorkTypeWithVeryBadSkill>
+  <SelectedWorkTypeWithVeryBadSkill>Rabhadh: Tá meánleibhéal na scileanna ábhartha an-íseal.</SelectedWorkTypeWithVeryBadSkill>
   <!-- EN: Priority 1 is done first. Priority 4 is done last. -->
-  <PriorityOneDoneFirst>Priorität 1 wird zuerst erledigt. Priorität 4 wird zuletzt erledigt.</PriorityOneDoneFirst>
+  <PriorityOneDoneFirst>Déantar tosaíocht 1 ar dtús. Déantar tosaíocht 4 ag an deireadh.</PriorityOneDoneFirst>
   <!-- EN: Will not do -->
-  <Priority0>Wird nicht getan</Priority0>
+  <Priority0>díchumasaithe</Priority0>
   <!-- EN: Top priority -->
-  <Priority1>Höchste Priorität</Priority1>
+  <Priority1>Tosaíocht is airde</Priority1>
   <!-- EN: High priority -->
-  <Priority2>Hohe Priorität</Priority2>
+  <Priority2>Tosaíocht ard</Priority2>
   <!-- EN: Normal priority -->
-  <Priority3>Normale Priorität</Priority3>
+  <Priority3>Tosaíocht nórmálta</Priority3>
   <!-- EN: Low priority -->
-  <Priority4>Geringe Priorität</Priority4>
+  <Priority4>Tosaíocht íseal</Priority4>
   <!-- EN: {0}\n\nThe faction {1_nameDef} currently belongs to.\n\nClick to view faction. -->
-  <PawnFactionInfo>{0}\n\nDie Fraktion, der {1_nameDef} derzeit angehört.\n\nKlicke, um die Fraktion zu sehen.</PawnFactionInfo>
+  <PawnFactionInfo>{0}\n\nAn faicsean lena mbaineann {1_nameDef} faoi láthair\n\nCliceáil do thuilleadh eolais.</PawnFactionInfo>
   <!-- EN: Disabled by {0} backstory -->
-  <WorkDisabledByBackstory>Deaktiviert durch Vorgeschichte '{0}'</WorkDisabledByBackstory>
+  <WorkDisabledByBackstory>Díchumasaithe mar gheall ar an gcúlra '{0}'</WorkDisabledByBackstory>
   <!-- EN: Disabled by {0} trait -->
-  <WorkDisabledByTrait>Deaktiviert durch Merkmal '{0}'</WorkDisabledByTrait>
+  <WorkDisabledByTrait>Díchumasaithe mar gheall ar an tréith '{0}'</WorkDisabledByTrait>
   <!-- EN: Disabled by quest '{0}' -->
-  <WorkDisabledByQuest>Deaktiviert durch Quest '{0}'</WorkDisabledByQuest>
+  <WorkDisabledByQuest>Díchumasaithe mar gheall ar an misean '{0}'</WorkDisabledByQuest>
   
   <!-- Assign tab -->
   <!-- EN: Unchangeable -->
-  <Unchangeable>Unveränderlich</Unchangeable>
+  <Unchangeable>do-athraithe</Unchangeable>
   <!-- EN: Clr. forced -->
-  <ClearForcedApparel>Erzw. entf.</ClearForcedApparel>
+  <ClearForcedApparel>glan éig.</ClearForcedApparel>
   <!-- EN: forced -->
-  <ApparelForcedLower>erzwungen</ApparelForcedLower>
+  <ApparelForcedLower>éigeantach</ApparelForcedLower>
   <!-- EN: locked -->
-  <ApparelLockedLower>gesperrt</ApparelLockedLower>
+  <ApparelLockedLower>faoi ghlas</ApparelLockedLower>
   <!-- EN: Forced apparel -->
-  <ForcedApparel>Erzwungene Kleidung</ForcedApparel>
+  <ForcedApparel>Éadaí éigeantach</ForcedApparel>
   <!-- EN: Edit -->
-  <AssignTabEdit>Ändern...</AssignTabEdit>
+  <AssignTabEdit>Athraigh...</AssignTabEdit>
   <!-- EN: Manage apparel policies -->
-  <ManageApparelPolicies>TODO</ManageApparelPolicies>
+  <ManageApparelPolicies>Athraigh polasaithe éadaigh</ManageApparelPolicies>
   <!-- EN: Manage drug policies -->
-  <ManageDrugPolicies>Drogenrichtlinien verwalten</ManageDrugPolicies>
+  <ManageDrugPolicies>Athraigh polasaithe drúgaí</ManageDrugPolicies>
   <!-- EN: Manage food policies -->
-  <ManageFoodPolicies>TODO</ManageFoodPolicies>
+  <ManageFoodPolicies>Athraigh polasaithe bia</ManageFoodPolicies>
   <!-- EN: Manage reading policies -->
-  <ManageReadingPolicies>TODO</ManageReadingPolicies>
+  <ManageReadingPolicies>Athraigh polasaithe léitheoireachta</ManageReadingPolicies>
   
   <!-- Restrictions tab -->
   <!-- EN: Copy -->
