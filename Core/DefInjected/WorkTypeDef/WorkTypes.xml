@@ -127,7 +127,7 @@
   <!-- EN: hunting -->
   <Hunting.gerundLabel>ag sealgaireacht</Hunting.gerundLabel>
   <!-- EN: hunt -->
-  <Hunting.labelShort>téigh ag sealgaireacht</Hunting.labelShort>
+  <Hunting.labelShort>Sealg. </Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>Sealgaire</Hunting.pawnLabel>
   <!-- EN: Hunt -->
@@ -138,7 +138,7 @@
   <!-- EN: mining -->
   <Mining.gerundLabel>Mianadóireacht</Mining.gerundLabel>
   <!-- EN: mine -->
-  <Mining.labelShort>Mianadóireacht</Mining.labelShort>
+  <Mining.labelShort>Mian. </Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>Mianadóir</Mining.pawnLabel>
   <!-- EN: Mine -->
@@ -171,7 +171,7 @@
   <!-- EN: plant cutting -->
   <PlantCutting.gerundLabel>TODO</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
-  <PlantCutting.labelShort>Gearr plandaí</PlantCutting.labelShort>
+  <PlantCutting.labelShort>Gearr</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
   <PlantCutting.pawnLabel>TODO</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
@@ -193,7 +193,7 @@
   <!-- EN: smithing -->
   <Smithing.gerundLabel>Ceardaíocht</Smithing.gerundLabel>
   <!-- EN: smith -->
-  <Smithing.labelShort>Ceardaíocht</Smithing.labelShort>
+  <Smithing.labelShort>Ceard. </Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Ceardaíocht</Smithing.pawnLabel>
   <!-- EN: Smith at -->
@@ -204,7 +204,7 @@
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>táilliúireacht</Tailoring.gerundLabel>
   <!-- EN: tailor -->
-  <Tailoring.labelShort>táilliúireacht</Tailoring.labelShort>
+  <Tailoring.labelShort>Táill. </Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>táilliúireacht</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->
@@ -215,7 +215,7 @@
   <!-- EN: wardening -->
   <Warden.gerundLabel>maor</Warden.gerundLabel>
   <!-- EN: warden -->
-  <Warden.labelShort>maor</Warden.labelShort>
+  <Warden.labelShort>Maor</Warden.labelShort>
   <!-- EN: Warden -->
   <Warden.pawnLabel>maor</Warden.pawnLabel>
   <!-- EN: Handle -->
