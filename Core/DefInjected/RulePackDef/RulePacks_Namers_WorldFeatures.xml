@@ -21,7 +21,7 @@
     <li>terrain_word->chain</li>
   -->
 
-  <!-- This points to the text file in Strings/WorldEndings, must be repeated for each Namer--> 
+  <!-- This points to the WorldEndings file in Strings/WorldEndings, must be repeated for each Namer. This break easily.--> 
   <NamerArchipelago.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
   </NamerArchipelago.rulePack.rulesFiles>
@@ -620,7 +620,8 @@
   </WorldFeatureNamerCommon.rulePack.rulesFiles>
 
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
-    <li>r_name->Tástáil [world_ending]</li>
+    <li>r_name->[placename_proper]</li>
+    <li>r_name->[placename_other] [world_ending]</li>
     <li>placename_proper->Machaire Solas</li>
     <li>placename_proper->An Chros Bhán</li>
     <li>placename_proper->Log an tSneachta</li>
@@ -631,6 +632,13 @@
     <li>placename_proper->Cnoc an Bhráca</li>
     <li>placename_proper->Cnoc an Stacaigh</li>
     <li>placename_proper->Cró na Sliabh</li>
+    <li>placename_other->Machaire</li>
+    <li>placename_other->Cros</li>
+    <li>placename_other->Log</li>
+    <li>placename_other->Áth</li>
+    <li>placename_other->Ard</li>
+    <li>placename_other->Cnoc</li>
+    <li>placename_other->Cró</li>
   </WorldFeatureNamerCommon.rulePack.rulesStrings>
   
 </LanguageData>

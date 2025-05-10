@@ -1,6 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <rulesRaw>
+    <li Class="Rule_File">
+      <keyword>world_ending</keyword>
+      <path>/Words/Adjectives/WorldEndings</path>
+    </li>
+  </rulesRaw>
+
   <!-- EN:
     <li>r_name->[msyl][msyl] [mechhive]</li>
     <li>mechhive->mechhive</li>
@@ -59,8 +66,13 @@
     <li>nearnameinitial(p=3)->[PlaceOutlander]</li>
     <li>nearnameinitial->[Direction] [PlaceOutlander]</li>
   -->
+
+ <NamerFactionOutlander.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerFactionOutlander.rulePack.rulesFiles>
+
   <NamerFactionOutlander.rulePack.rulesStrings>
-    <li>r_name->[outlandersettlement] [outlandergenitive]</li>
+    <li>r_name->[outlandersettlement] [world_ending]</li>
     <li>outlandersettlement->Sochaí</li>
     <li>outlandersettlement->Grúpa</li>
     <li>outlandersettlement->Foireann</li>
@@ -73,32 +85,6 @@
     <li>outlandersettlement->Muintir</li>
     <li>outlandersettlement->Complacht</li>
     <li>outlandersettlement->Gasra</li>
-    <li>outlandergenitive->an Dóchais</li>
-    <li>outlandergenitive->an Ghrá</li>
-    <li>outlandergenitive->na Láidreachta</li>
-    <li>outlandergenitive->na Deacrachta</li>
-    <li>outlandergenitive->na Clainne</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->na nDaoine</li>
-    <li>outlandergenitive->an Aoibhnis</li>
-    <li>outlandergenitive->an tSonais</li>
-    <li>outlandergenitive->an Fháis</li>
-    <li>outlandergenitive->an Bhealaigh</li>
-    <li>outlandergenitive->na gCeart</li>
-    <li>outlandergenitive->an Phobail</li>
-    <li>outlandergenitive->Dé</li>
-    <li>outlandergenitive->na n-Óg</li>
-    <li>outlandergenitive->na Diagachta</li>
-    <li>outlandergenitive->na hÉireann</li>
-    <li>outlandergenitive->na Dílseachta</li>
-    <li>outlandergenitive->an Tiomantais</li>
-    <li>outlandergenitive->an Mhuintearais</li>
-    <li>outlandergenitive->an Chairdis</li>
-    <li>outlandergenitive->na Dea-mhéine</li>
-    <li>outlandergenitive->na Síochána</li>
-    <li>outlandergenitive->an Chomhair</li>
-    <li>outlandergenitive->na hOibre</li>
-    <li>outlandergenitive->an Chláir</li>
   </NamerFactionOutlander.rulePack.rulesStrings>
 
     <!-- EN:
@@ -139,8 +125,13 @@
     <li>r_name->[Weapon] [groupname]</li>
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
+
+ <NamerFactionPirate.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerFactionPirate.rulePack.rulesFiles>
+
   <NamerFactionPirate.rulePack.rulesStrings>
-    <li>r_name->[pirate_word] [pirategenitive]</li>
+    <li>r_name->[pirate_word] [world_ending]</li>
     <li>pirate_word->Drong</li>
     <li>pirate_word->Grúpa</li>
     <li>pirate_word->Foireann</li>
@@ -153,32 +144,8 @@
     <li>pirate_word->Muintir</li>
     <li>pirate_word->Complacht</li>
     <li>pirate_word->Gasra</li>
-    <li>pirategenitive->an Bhua</li>
-    <li>pirategenitive->na Fulaingthe</li>
-    <li>pirategenitive->na Láidreachta</li>
-    <li>pirategenitive->na Deacrachta</li>
-    <li>pirategenitive->na Clainne</li>
-    <li>pirategenitive->na Dílseachta</li>
-    <li>pirategenitive->na nDaoine</li>
-    <li>pirategenitive->an Bháis</li>
-    <li>pirategenitive->na Cumhachta</li>
-    <li>pirategenitive->na nDéithe</li>
-    <li>pirategenitive->an Bhealaigh</li>
-    <li>pirategenitive->na gCeart</li>
-    <li>pirategenitive->an Phobail</li>
-    <li>pirategenitive->Dé</li>
-    <li>pirategenitive->na n-Óg</li>
-    <li>pirategenitive->an Díoltais</li>
-    <li>pirategenitive->na hOíche</li>
-    <li>pirategenitive->na Dílseachta</li>
-    <li>pirategenitive->an Airgid</li>
-    <li>pirategenitive->Antaine</li>
-    <li>pirategenitive->Abba</li>
-    <li>pirategenitive->Acháb</li>
-    <li>pirategenitive->Zarúá</li>
-    <li>pirategenitive->Zibeá</li>
-    <li>pirategenitive->na hOibre</li>
-    <li>pirategenitive->an Dorchadais</li>
+    <li>pirate_word->Bráithre</li>
+    <li>pirate_word->Bráithreachas</li>
   </NamerFactionPirate.rulePack.rulesStrings>
 
   <!-- EN:
@@ -197,38 +164,17 @@
     <li>r_name->The [Color] [Animal] [WordTribal]</li>
     <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
   -->
+
+ <NamerFactionTribal.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerFactionTribal.rulePack.rulesFiles>
+
   <NamerFactionTribal.rulePack.rulesStrings>
-    <li>r_name->[tribalsettlement] [outlander_genitive]</li>
+    <li>r_name->[tribalsettlement] [world_ending]</li>
     <li>tribalsettlement->Treabh</li>
-    <li>tribalsettlement->Treabh</li>
-    <li>tribalsettlement->Treabh</li>
-    <li>tribalsettlement->Treabh</li>
-    <li>outlander_genitive->an Dóchais</li>
-    <li>outlander_genitive->an Ghrá</li>
-    <li>outlander_genitive->na Láidreachta</li>
-    <li>outlander_genitive->na Deacrachta</li>
-    <li>outlander_genitive->na Clainne</li>
-    <li>outlander_genitive->na Dílseachta</li>
-    <li>outlander_genitive->na nDaoine</li>
-    <li>outlander_genitive->an Aoibhnis</li>
-    <li>outlander_genitive->an tSonais</li>
-    <li>outlander_genitive->an Fháis</li>
-    <li>outlander_genitive->an Bhealaigh</li>
-    <li>outlander_genitive->na gCeart</li>
-    <li>outlander_genitive->an Phobail</li>
-    <li>outlander_genitive->Dé</li>
-    <li>outlander_genitive->na n-Óg</li>
-    <li>outlander_genitive->na Diagachta</li>
-    <li>outlander_genitive->na hÉireann</li>
-    <li>outlander_genitive->na Dílseachta</li>
-    <li>outlander_genitive->an Tiomantais</li>
-    <li>outlander_genitive->an Mhuintearais</li>
-    <li>outlander_genitive->an Chairdis</li>
-    <li>outlander_genitive->na Dea-mhéine</li>
-    <li>outlander_genitive->na Síochána</li>
-    <li>outlander_genitive->an Chomhair</li>
-    <li>outlander_genitive->na hOibre</li>
-    <li>outlander_genitive->an Chláir</li>
+    <li>tribalsettlement->Daoine</li>
+    <li>tribalsettlement->Muintir</li>
+    <li>tribalsettlement->Lucht</li>
   </NamerFactionTribal.rulePack.rulesStrings>
 
   <!-- EN:
@@ -366,7 +312,7 @@
     <li>r_name->[WordTribal] [TerrainFeature]</li>
   -->
 
-<!-- INFO: Tribal words and place names are based on Scottish Gaelic. -->
+<!-- CONTEXT/INFO: Tribal words and place names are based on Scottish Gaelic. -->
 
    <rulesRaw>
     <li Class="Rule_File">
