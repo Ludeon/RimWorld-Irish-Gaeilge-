@@ -1,31 +1,30 @@
-an aimsir
+<!-- terms are pre-mutated to avoid incorrect grammar when used with the conversation templates --> 
 
-bricfeasta
+cúrsaí aimsire
+
 bricfeasta
 dinnéar
 bia
-am lóin
+ham lóin
 cúrsaí bia
 bia milis
 milseáin
 bia
-bia
 
 stíleanna gruaige
-éadaí
+héadaí
 stíleanna gruaige
 faisean
 smidiú
 féasóga
-féasóga
 
-obair tí
+hobair tí
 cluichí leanaí
 siamsaíocht
 cluichí
 laethanta breithe
 balúin
-an t-ól
+halcól
 dul ar an drabhlás
 cóisirí
 laethanta saoire
@@ -35,39 +34,35 @@ daoine arda
 daoine beaga
 caitheamh aimsire
 caitheamh aníos
-ithe
+hithe
 snámh
 cúrsaí spóirt
-an trá
 
-ainmhithe
-ainmhithe gleoite
-ainmhithe móra
-peata
+hainmhithe
+hainmhithe gleoite
+hainmhithe móra
+peataí
 
-pet peeves
-life's annoyances
-laundry
-sweating
+rudaí a chuireann isteach orthu
+rudaí neafaiseacha
+héadaí a ní
+cúrsaí aclaíochta
 
-hauling
-cleaning
-eating without tables
-comfortable furniture
-fine meals
-lavish meals
-pemmican
-horseshoes
-recreation
-lovers
-lovin'
-healroot
-botched surgeries
-vomiting
-board games
-computer games
-television
-poker
-billiards
-spaceships
-xenohumans
+rudaí a iompar
+glantóireacht
+hithe gan aon bhord
+troscán compordach
+béilí deasa
+béilí áille
+peimicean
+crúnna capall
+cúrsaí siamsaíochta
+grá
+cúrsaí leighis
+dul faoin scian
+tinneas
+cluichí boird
+cluichí ríomhaire
+teilifís
+spáslonga
+xéinea-daoine

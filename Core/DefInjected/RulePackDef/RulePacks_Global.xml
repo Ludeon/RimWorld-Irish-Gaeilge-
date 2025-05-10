@@ -60,7 +60,6 @@
     <li>TalkTopicHeavy(p=0.08)->rudaí a bhaineann le [talktopicheavyfile] agus le [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
     <li>TalkTopicLight->glasraí</li>
-    <li>TalkTopicLight->glasraí a ithe</li>
     <li>TalkTopicLight->cócaireacht</li>
     <li>TalkTopicLight->cluichí ríomhaire</li>
     <li>TalkTopicLight->cluichí a imirt</li>
@@ -83,11 +82,11 @@
     <li>TalkTopicLight->héadaí a chaitheamh</li>
     <li>TalkTopicLight->héadaí a dhéanamh</li>
     <li>TalkTopicLight->cúrsaí aimsire</li>
-    <li>TalkTopicLight->cúrsaí Gaeige</li>
+    <li>TalkTopicLight->cúrsaí Gaeilge</li>
     <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh</li>
     <li>talktopicheavyfile(p=0.15)->bualadh craicinn</li>
     <li>talktopicheavyfile(p=0.15)->aiséirí na marbh</li>
-    <li>talktopicheavyfile(p=0.15)->cúrsái collaigh</li>
+    <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh</li>
     </GlobalUtility.rulePack.rulesStrings>
 
   <!-- EN:
@@ -134,7 +133,6 @@
     <li>TalkTopicAny->[TalkTopicHeavy]</li>
     <li>TalkTopicHeavy->[talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->cúrsaí a bhaineann le [talktopicheavyfile] agus le [talktopicheavyfile]</li>
-    <li>TalkTopicHeavy(p=0.08)->cúrsaí a bhaineann le [talktopicheavyfile] agus le [talktopicheavyfile]</li>
     <li>TalkTopicHeavy(p=0.08)->rudaí a bhaineann le [talktopicheavyfile]</li>
     <li>TalkTopicLight(p=25)->[talktopiclightfile]</li>
     <li>TalkTopicLight->glasraí</li>
@@ -164,7 +162,7 @@
   </TalkTopicsUtility.rulePack.rulesStrings>
 
   <rulesRaw>
-    <li Class="Rule_File">
+    <li class="Rule_File">
       <keyword>Placename_Village</keyword>
       <path>Strings/Names/TribalVillage</path>
     </li>

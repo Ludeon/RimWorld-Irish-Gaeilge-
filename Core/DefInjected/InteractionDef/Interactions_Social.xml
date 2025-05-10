@@ -31,18 +31,13 @@
     <li>r_logentry(p=0.8)->D'inis [INITIATOR_nameDef] scéal greannmhar le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->D'inis [INITIATOR_nameDef] scéal le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</li>
-    <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
     <li>talkedabout(p=4)->Bhí comhrá ag</li>
     <li>talkedabout->Bhí comhrá ag</li>
-    <li>talkedabout->Labhair</li>
-    <li>talkedabout->Labhair</li>
     <li>talkedabout->Labhair</li>
     <li>talkedabout->Bhí comhrá ag</li>
     <li>talkedabout->Bhí díospóireacht</li>
     <li>commentedabout->Bhí comhrá ag</li>
     <li>commentedabout->Labhair</li>
-    <li>commentedabout->Bhí comhrá ag</li>
-    <li>commentedabout->Luaigh</li>
     <li>commentedabout->Bhí comhrá ag</li>
     </Chitchat.logRulesInitiator.rulesStrings>
   
