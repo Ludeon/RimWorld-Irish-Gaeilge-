@@ -19,6 +19,30 @@
     <li>maybe_adjective->[AdjectiveFriendly]</li>
     <li>maybe_adjective->[AdjectiveBadass]</li>
   -->
-  <NamerTraderGeneral.rulePack.rulesStrings>TODO</NamerTraderGeneral.rulePack.rulesStrings>
+  <NamerTraderGeneral.rulePack.rulesStrings>
+    <li>r_name->[business_name] [business_adjective]</li>
+    <li>business_name->Údarás</li>
+    <li>business_name->Údarás Trádála</li>
+    <li>business_name->Idirnasc</li>
+    <li>business_name->Grúpa Trádála</li>
+    <li>business_name->Comharghnó</li>
+    <li>business_name->Comhar</li>
+    <li>business_name->Tráchtáil</li>
+    <li>business_name->Tarlóirí</li>
+    <li>business_name->Grúpa Last-Táille</li>
+    <li>business_name->Sindeacáit Trádála</li>
+    <li>business_adjective->Helios</li>
+    <li>business_adjective->AstraSys</li>
+    <li>business_adjective->Nova</li>
+    <li>business_adjective->Nuháire</li>
+    <li>business_adjective->an Réaltchórais</li>
+    <li>business_adjective->Pax Ecliptica</li>
+    <li>business_adjective->na hImpireachta</li>
+    <li>business_adjective->TerraVector</li>
+    <li>business_adjective->Zéinit</li>
+    <li>business_adjective->ChronaSec</li>
+    <li>business_adjective->AstraTrust</li>
+    <li>business_adjective->Veltrax</li>
+  </NamerTraderGeneral.rulePack.rulesStrings>
   
 </LanguageData>
