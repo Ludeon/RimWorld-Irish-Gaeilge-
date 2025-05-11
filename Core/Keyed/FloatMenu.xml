@@ -574,26 +574,26 @@
   <AlreadyInvoked>schon beschworen</AlreadyInvoked>
 
   <!-- EN: Tend {0} -->
-  <Tend>Behandle {0_label}</Tend>
+  <Tend>Cuir cóir leighis ar "{0}"</Tend>
   <!-- EN: Cannot tend {0} -->
-  <CannotTend>Kann {0_label} nicht behandeln</CannotTend>
+  <CannotTend>Ní féidir cóir leighis a chur ar {0}</CannotTend>
   <!-- EN: {0} does not require tending -->
-  <TendingNotRequired>{0_label} muss nicht behandelt werden</TendingNotRequired>
+  <TendingNotRequired>Níl cóir leighis de dhíth ar {0}</TendingNotRequired>
   <!-- EN: without medicine -->
-  <WithoutMedicine>ohne Medizin</WithoutMedicine>
+  <WithoutMedicine>gan leigheas</WithoutMedicine>
 
   <!-- EN: Repair {0} -->
-  <RepairThing>Repariere {replace: ^{0}; "^ein "-""; "^eine "-""; "^"-""}</RepairThing>
+  <RepairThing>Deisigh {0}</RepairThing>
   <!-- EN: Cannot repair {0} -->
-  <CannotRepair>Kann {replace: ^{0}; "^ein "-""; "^eine "-""; "^"-""} nicht reparieren</CannotRepair>
+  <CannotRepair>Ní féidir é seo a dheisiú</CannotRepair>
 
   <!-- EN: Cannot enter -->
-  <CannotEnter>Impossible d'entrer</CannotEnter>
+  <CannotEnter>Ní féidir dul isteach</CannotEnter>
   
   <!-- EN: Cannot enter {0} -->
-  <CannotEnterPortal>TODO</CannotEnterPortal>
+  <CannotEnterPortal>Ní féidir dul isteach i: {0}</CannotEnterPortal>
   <!-- EN: closed -->
-  <PortalClosed>TODO</PortalClosed>
+  <PortalClosed>dúnta</PortalClosed>
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
@@ -605,25 +605,25 @@
   <!-- EN: disliked food -->
   <WarningFoodDisliked>unbeliebte Nahrung</WarningFoodDisliked>
   <!-- EN: Unsuitable food -->
-  <FoodNotSuitable>TODO</FoodNotSuitable>
+  <FoodNotSuitable>Níl an bia seo oiriúnach</FoodNotSuitable>
 
   <!-- EN: Unsuitable drug -->
-  <DrugNotSuitable>TODO</DrugNotSuitable>
+  <DrugNotSuitable>Níl an druga seo oiriúnach</DrugNotSuitable>
   
   <!-- Books -->
   <!-- EN: Assign reading... -->
-  <AssignReading>TODO</AssignReading>
+  <AssignReading>Léitheoireacht</AssignReading>
   <!-- EN: Read {0} -->
-  <AssignReadNow>TODO</AssignReadNow>
+  <AssignReadNow>Léigh {0}</AssignReadNow>
   <!-- EN: Cannot read {0} -->
-  <AssignCannotReadNow>TODO</AssignCannotReadNow>
+  <AssignCannotReadNow>Ní féidir {0} a léamh</AssignCannotReadNow>
 
   <!-- EN: Prioritize extinguishing fires -->
   <ExtinguishFiresNearby>TODO</ExtinguishFiresNearby>
 
   <!-- Analysis -->
   <!-- EN: already analyzed -->
-  <AlreadyAnalyzed>TODO</AlreadyAnalyzed>
+  <AlreadyAnalyzed>rinneadh anailís air seo cheana</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
-  <NoResearchBench>no reachable, un-reserved research bench available</NoResearchBench>
+  <NoResearchBench>níl aon bhinse taighde ar fáil</NoResearchBench>
 </LanguageData>
