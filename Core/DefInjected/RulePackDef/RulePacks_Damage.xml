@@ -14,7 +14,18 @@
     <li>destroyed_past->annihilated</li>
     <li>destroyed_past->detonated</li>
   -->
-  <Damage_Bomb.rulePack.rulesStrings>TODO</Damage_Bomb.rulePack.rulesStrings>
+  <Damage_Bomb.rulePack.rulesStrings>
+    <li>damaged_past(p=2)->Bhuail pléascán</li>
+    <li>damaged_past(p=2)->Phléasc</li>
+    <li>damaged_past->Cnéadh</li>
+    <li>damaged_past->Rinnead damáiste do</li>
+    <li>damaged_past->Loiteadh</li>
+    <li>damaged_past->Gortaíodh</li>
+    <li>destroyed_past->Bualadh</li>
+    <li>destroyed_past->Brúisceadh</li>
+    <li>destroyed_past->Scriosadh</li>
+    <li>destroyed_past->Rinneadh slad ar</li>
+  </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->electrified</li>
@@ -67,7 +78,31 @@
     <li>destroyed_present->annihilating</li>
     <li>destroyed_present->detonating</li>
   -->
-  <Damage_Flame.rulePack.rulesStrings>TODO</Damage_Flame.rulePack.rulesStrings>
+  <Damage_Flame.rulePack.rulesStrings>
+    <li>damaged_past(p=2)->Dhóigh</li>
+    <li>damaged_past(p=2)->Las</li>
+    <li>damaged_past(p=2)->ignited</li>
+    <li>damaged_past(p=2)->seared</li>
+    <li>damaged_past->ghortaigh</li>
+    <li>damaged_past->cneáigh</li>
+    <li>damaged_past->loit</li>
+    <li>damaged_present(p=2)->pléascadh</li>
+    <li>damaged_present(p=2)->dódh</li>
+    <li>damaged_present(p=2)->lasadh</li>
+    <li>damaged_present(p=2)->gortaíodh</li>
+    <li>damaged_present->gortaíodh</li>
+    <li>damaged_present->damástaíodh</li>
+    <li>damaged_present->loiteadh</li>
+    <li>destroyed_past->dhóigh</li>
+    <li>destroyed_past->mhill</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->gríosaíodh</li>
+    <li>destroyed_past->phléasc</li>
+    <li>destroyed_present->dódh</li>
+    <li>destroyed_present->scriosadh</li>
+    <li>destroyed_present->milleadh</li>
+    <li>destroyed_present->loiteadh</li>
+  </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->smoked</li>

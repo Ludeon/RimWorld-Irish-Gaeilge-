@@ -15,7 +15,20 @@
     <li>died(SUBJECT_flesh==Mechanoid)->stopped functioning</li>
     <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
   -->
-  <Transition_Died.rulePack.rulesStrings>TODO</Transition_Died.rulePack.rulesStrings>
+  <Transition_Died.rulePack.rulesStrings>
+    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->die</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->perish</li>
+    <li>die(SUBJECT_flesh!=Mechanoid)->expire</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->shut down</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->stop functioning</li>
+    <li>die(SUBJECT_flesh==Mechanoid)->lose power</li>
+    <li>died(SUBJECT_flesh!=Mechanoid,p=2)->Cailleadh</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->Maraíodh</li>
+    <li>died(SUBJECT_flesh!=Mechanoid)->Básaíodh</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->Stop</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->Múchadh</li>
+    <li>died(SUBJECT_flesh==Mechanoid)->Theip ar</li>
+  </Transition_Died.rulePack.rulesStrings>
   
   <!-- EN:
     <li>die(p=3)->explode [flavor]</li>
@@ -46,7 +59,25 @@
     <li>everywhere->everywhere</li>
     <li>everywhere->far and wide</li>
   -->
-  <Transition_DiedExplosive.rulePack.rulesStrings>TODO</Transition_DiedExplosive.rulePack.rulesStrings>
+  <Transition_DiedExplosive.rulePack.rulesStrings>
+    <li>die(p=3)->phléasc [flavor]</li>
+    <li>die(p=3)->phléasc [flavorsuffix]</li>
+    <li>flavor(p=0.2)->[fireball]</li>
+    <li>flavor->[fireball] mhór</li>
+    <li>flavor->[fireball] fhíochmhar</li>
+    <li>flavorsuffix->, agus chuaigh [pieces] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid,p=2)->, agus caitheadh [Gore] [everywhere]</li>
+    <li>flavorsuffix(SUBJECT_flesh!=Mechanoid)->, agus níor fágadh ach [Gore]</li>
+    <li>flavorsuffix->, agus níor fágadh ach poll</li>
+    <li>flavorsuffix(p=4)-></li>
+    <li>fireball(p=3)->i gcaor thine</li>
+    <li>fireball->i dtonn turrainge</li>
+    <li>fireball->i dtonn tine</li>
+    <li>pieces->smidiríní</li>
+    <li>pieces->píosaí</li>
+    <li>everywhere->i ngach áit</li>
+    <li>everywhere->ar fud na háite</li>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
@@ -56,7 +87,15 @@
     <li>r_logentry->[SUBJECT_definite] [died].</li>
     <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
   -->
-  <Transition_DiedInclude.rulePack.rulesStrings>TODO</Transition_DiedInclude.rulePack.rulesStrings>
+  <Transition_DiedInclude.rulePack.rulesStrings>
+    <li>r_logentry(p=1.5)->Mharaigh [CULPRITHEDIFF_labelNoun] [SUBJECT_definite].</li>
+    <li>r_logentry->Maraíodh [SUBJECT_definite] le [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->Fuair [SUBJECT_definite] bás mar gheal ar[CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->Fuair [SUBJECT_definite] bás.</li>
+    <li>r_logentry->Básaíodh [SUBJECT_definite].</li>
+    <li>r_logentry->[Died] [SUBJECT_definite].</li>
+    <li>r_logentry->[Died] [SUBJECT_definite] [flavorsuffix].</li>
+  </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
@@ -88,13 +127,20 @@
     <li>collapsedmeta->[collapsed]</li>
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
-  <Transition_Downed.rulePack.rulesStrings>TODO</Transition_Downed.rulePack.rulesStrings>
+  <Transition_Downed.rulePack.rulesStrings>
+    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_definite].</li>
+    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_definite] amach.</li>
+  </Transition_Downed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>duetoa->due to</li>
     <li>duetoa(p=0.5)->because of</li>
     <li>duetoa(p=0.5)->thanks to</li>
   -->
-  <Transition_Include.rulePack.rulesStrings>TODO</Transition_Include.rulePack.rulesStrings>
+  <Transition_Include.rulePack.rulesStrings>
+    <li>duetoa->due to</li>
+    <li>duetoa(p=0.5)->because of</li>
+    <li>duetoa(p=0.5)->thanks to</li>
+  </Transition_Include.rulePack.rulesStrings>
   
 </LanguageData>

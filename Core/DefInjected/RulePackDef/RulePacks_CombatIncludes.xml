@@ -33,7 +33,22 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <Combat_FailIncludes.rulePack.rulesStrings>TODO</Combat_FailIncludes.rulePack.rulesStrings>
+  <Combat_FailIncludes.rulePack.rulesStrings>
+    <li>action->Rinne [INITIATOR_definite] iarracht [RECIPIENT_definite] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_definite] iarracht [RECIPIENT_definite] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_definite] iarracht [implement] a úsáid chun [RECIPIENT_definite] [damaged_inf]</li>
+    <li>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
+    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</li>
+    <li>towardsat->towards</li>
+    <li>towardsat->at</li>
+    <li>verb_genericattack->swung</li>
+    <li>verb_genericattack->flailed</li>
+    <li>verb_genericattack->thrashed</li>
+    <li>tried->tried</li>
+    <li>tried->attempted</li>
+  </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
@@ -102,7 +117,46 @@
     <li>to->to</li>
     <li>to->into</li>
   -->
-  <Combat_MeleeIncludes.rulePack.rulesStrings>TODO</Combat_MeleeIncludes.rulePack.rulesStrings>
+  <Combat_MeleeIncludes.rulePack.rulesStrings>
+    <li>r_logentry->[action], [result].</li>
+    <li>r_logentry(priority=-10)->[action].</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->wounding</li>
+    <li>damaged_present(deflected!=True)->injuring</li>
+    <li>destroyed(p=0.5)->destroyed</li>
+    <li>destroyed(p=0.5)->demolished</li>
+    <li>destroyed(p=0.5)->ruined</li>
+    <li>destroyed(p=0.5)->wrecked</li>
+    <li>wince(recipient_flesh==Normal)->wince</li>
+    <li>wince(recipient_flesh==Normal)->grimace</li>
+    <li>wince(recipient_flesh==Normal)->cringe</li>
+    <li>wince(recipient_flesh==Normal)->groan</li>
+    <li>wince(recipient_flesh!=Mechanoid)->scream</li>
+    <li>wince(recipient_flesh!=Mechanoid)->shout</li>
+    <li>wince->recoil</li>
+    <li>wince->stumble</li>
+    <li>painstate->in</li>
+    <li>painstate->with</li>
+    <li>painstate->from the</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</li>
+    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</li>
+    <li>painevent(recipient_flesh==Normal)->with misery</li>
+    <li>painevent->from the injury</li>
+    <li>painevent->from the wound</li>
+    <li>to->to</li>
+    <li>to->into</li>
+  </Combat_MeleeIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
@@ -154,7 +208,38 @@
     <li>skillAdv(initiator_flesh==Mechanoid)->robotically</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
   -->
-  <Combat_SkillIncludes.rulePack.rulesStrings>TODO</Combat_SkillIncludes.rulePack.rulesStrings>
+  <Combat_SkillIncludes.rulePack.rulesStrings>
+    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>using->ag baint úsáid as</li>
+    <li>skillAdv(INITIATOR_skill<=3)->go mí-éifeachtach</li>
+    <li>skillAdv(INITIATOR_skill<=3)->go neamhinniúil</li>
+    <li>skillAdv(INITIATOR_skill<=3)->go neamhábalta</li>
+    <li>skillAdv(INITIATOR_skill<=3)->go randamach</li>
+    <li>skillAdv(INITIATOR_skill<=4)->go místuama</li>
+    <li>skillAdv(INITIATOR_skill<=4)->go hamscaí</li>
+    <li>skillAdv(INITIATOR_skill<=5)->go guagach</li>
+    <li>skillAdv(INITIATOR_skill<=5)->go stadach</li>
+    <li>skillAdv(INITIATOR_skill<=6)->go héiginnte</li>
+    <li>skillAdv(INITIATOR_skill<=6)->go drogallach</li>
+    <li>skillAdv(INITIATOR_skill<=6)->go mall</li>
+    <li>skillAdv(INITIATOR_skill<=8)->go fonnmhar</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->go hábalta</li>
+    <li>skillAdv(INITIATOR_skill>=6,INITIATOR_skill<=10)->go maith</li>
+    <li>skillAdv(INITIATOR_skill>=8)->go proifisiúnta</li>
+    <li>skillAdv(INITIATOR_skill>=8)->go compordach</li>
+    <li>skillAdv(INITIATOR_skill>=8)->go cliste</li>
+    <li>skillAdv(INITIATOR_skill>=8)->go tapa</li>
+    <li>skillAdv(INITIATOR_skill>=8)->go sciliúil</li>
+    <li>skillAdv(INITIATOR_skill>=10)->go láidir</li>
+    <li>skillAdv(INITIATOR_skill>=10)->go cruinn</li>
+    <li>skillAdv(INITIATOR_skill>=12)->go cumasach</li>
+    <li>skillAdv(INITIATOR_skill>=12)->go paiteanta</li>
+    <li>skillAdv(INITIATOR_skill>=14)->go ceannasach</li>
+    <li>skillAdv(INITIATOR_skill>=16)->go máistriúil</li>
+    <li>skillAdv(INITIATOR_skill>=16)->go tiarnasach</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->go meicniúil</li>
+    <li>skillAdv(initiator_flesh==Mechanoid)->go róbatúil</li>
+  </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
@@ -166,6 +251,15 @@
     <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], and [recipient_part_damaged2_label]</li>
     <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], and [recipient_part_damaged3_label]</li>
   -->
-  <Combat_WoundIncludes.rulePack.rulesStrings>TODO</Combat_WoundIncludes.rulePack.rulesStrings>
+  <Combat_WoundIncludes.rulePack.rulesStrings>
+    <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==2)->[recipient_part_destroyed0_label] agus [recipient_part_destroyed1_label]</li>
+    <li>destroyed_targets(recipient_part_destroyed_count==3)->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], agus [recipient_part_destroyed2_label]</li>
+    <li>destroyed_targets->[recipient_part_destroyed0_label], [recipient_part_destroyed1_label], [recipient_part_destroyed2_label], agus [recipient_part_destroyed3_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==1)->[recipient_part_damaged0_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] agus [recipient_part_damaged1_label]</li>
+    <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], agus [recipient_part_damaged2_label]</li>
+    <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], agus [recipient_part_damaged3_label]</li>
+  </Combat_WoundIncludes.rulePack.rulesStrings>
   
 </LanguageData>

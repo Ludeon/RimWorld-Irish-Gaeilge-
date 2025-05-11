@@ -2,23 +2,30 @@
 <LanguageData>
   
   <!-- EN: breakup -->
-  <Breakup.label>TODO</Breakup.label>
+  <Breakup.label>scaradh</Breakup.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for a break.</li>
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] for some space.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it's not working out.</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that it would be best to see other people.</li>
   -->
-  <Breakup.logRulesInitiator.rulesStrings>TODO</Breakup.logRulesInitiator.rulesStrings>
+  <Breakup.logRulesInitiator.rulesStrings>
+    <li>r_logentry->D'iarr [INITIATOR_nameDef] spás ar [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] nach bhfuil cúrsaí ag oibriú amach.</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] gurbh fhearr briseadh suas.</li>
+  </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
-  <MarriageProposal.label>TODO</MarriageProposal.label>
+  <MarriageProposal.label>ceiliúr pósta</MarriageProposal.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] proposed marriage to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] proposed a lifelong commitment to [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that [INITIATOR_pronoun] wants to spend [INITIATOR_possessive] life with [RECIPIENT_objective].</li>
   -->
-  <MarriageProposal.logRulesInitiator.rulesStrings>TODO</MarriageProposal.logRulesInitiator.rulesStrings>
+  <MarriageProposal.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Chuir [INITIATOR_nameDef] céiliúr pósta ar [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] go bhfuil [INITIATOR_pronoun] ag iarraidh an chuid eile dá s[INITIATOR_possessive]ol a chaitheamh le [RECIPIENT_nameDef].</li>
+  </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>TODO</RomanceAttempt.label>

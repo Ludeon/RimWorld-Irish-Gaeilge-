@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: animal chat -->
-  <AnimalChat.label>TODO</AnimalChat.label>
+  <AnimalChat.label>ainmhithe</AnimalChat.label>
   <!-- EN:
     <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
@@ -27,10 +27,33 @@
     <li>tamed->sat patiently near</li>
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
-  <AnimalChat.logRulesInitiator.rulesStrings>TODO</AnimalChat.logRulesInitiator.rulesStrings>
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>tamed->made calming noises towards</li>
+    <li>tamed->offered slow, friendly gestures to</li>
+    <li>tamed->made shushing noises at</li>
+    <li>tamed->made happy clicking noises at</li>
+    <li>tamed->gestured gently and approached</li>
+    <li>tamed->slowly approached</li>
+    <li>tamed->gently touched</li>
+    <li>tamed->calmed and encouraged</li>
+    <li>tamed->matched breathing with</li>
+    <li>tamed->took a low stance while approaching</li>
+    <li>tamed->showed no fear or anger to</li>
+    <li>tamed->feigned inattention towards</li>
+    <li>tamed->gently hummed a song at</li>
+    <li>tamed->sang an old lullaby at</li>
+    <li>tamed->firmly yet softly touched</li>
+    <li>tamed->showed a relaxed attitude towards</li>
+    <li>tamed->sat patiently near</li>
+    <li>tamed->whispered a story about [TalkTopicAny] to</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
-  <Nuzzle.label>TODO</Nuzzle.label>
+  <Nuzzle.label>ainmhithe</Nuzzle.label>
   <!-- EN:
     <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
@@ -57,7 +80,17 @@
     <li>rubbedpart->side</li>
     <li>rubbedpart->arm</li>
   -->
-  <Nuzzle.logRulesInitiator.rulesStrings>TODO</Nuzzle.logRulesInitiator.rulesStrings>
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=2)->[nuzzled] [INITIATOR_nameDef] isteach i [RECIPIENT_nameDef] [nuzzleadverb].</li>
+    <li>nuzzled(p=2)->Luí</li>
+    <li>nuzzled->Neadaigh</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->go bog</li>
+    <li>nuzzleadverb->go héadrom</li>
+    <li>nuzzleadverb->go cairdiúil</li>
+    <li>nuzzleadverb->go ceanúil</li>
+    <li>nuzzleadverb->go muirneach</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: release to the wild -->
   <ReleaseToWild.label>TODO</ReleaseToWild.label>
@@ -98,7 +131,7 @@
   <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
-  <TrainAttempt.label>TODO</TrainAttempt.label>
+  <TrainAttempt.label>traenáil</TrainAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
     <li>trained(p=2)->[tried] to train</li>
@@ -111,6 +144,13 @@
     <li>tried->tried</li>
     <li>tried->attempted</li>
   -->
-  <TrainAttempt.logRulesInitiator.rulesStrings>TODO</TrainAttempt.logRulesInitiator.rulesStrings>
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [training] a thaispeáint do [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [training] a mhúineadh do [RECIPIENT_nameDef].</li>
+    <li>training->rud nua</li>
+    <li>training->cleas úr</li>
+    <li>training->scil úr</li>
+    <li>training->scil nua</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>
