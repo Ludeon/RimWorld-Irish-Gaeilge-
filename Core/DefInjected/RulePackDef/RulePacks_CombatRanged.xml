@@ -21,7 +21,7 @@
     <li>r_logentry(recipient_part_destroyed_count==0)->[prefix] [strikeAdv] [damaged_past] [RECIPIENT_definite]'s [damaged_targets].</li>
     <li>r_logentry->[RECIPIENT_definite] was [damaged_past] by [INITIATOR_definite].</li>
     <li>r_logentry->[RECIPIENT_definite] was [damaged_past] [strikeAdv] by [INITIATOR_definite].</li>
-    <li>r_logentry->[RECIPIENT_definite] was [damaged_past].</li>
+    <li>r_logentry->[damaged_past] [RECIPIENT_definite].</li>
     <li>r_logentry(p=0.001)->[RECIPIENT_definite] was caught in an explosion.</li>
     <li>r_logentry(p=0.001)->[RECIPIENT_definite] was hit by an explosion.</li>
     <li>blast->explosion</li>
@@ -33,13 +33,39 @@
     <li>fromof->from</li>
     <li>fromof->of</li>
   -->
-  <Combat_ExplosionImpact.rulePack.rulesStrings>TODO</Combat_ExplosionImpact.rulePack.rulesStrings>
+  <Combat_ExplosionImpact.rulePack.rulesStrings>
+    <li>prefix->leis an [blast] a tháinig as [WEAPON_label] [INITIATOR_definite]</li>
+    <li>prefix->leis an [blast] a tháinig as [projectile] [INITIATOR_definite]</li>
+    <li>prefix->leis an [blast] as [projectile] [INITIATOR_definite]</li>
+    <li>prefix->leis an [blast] as [WEAPON_label] [INITIATOR_definite]</li>
+    <li>r_logentry->[injured] [RECIPIENT_definite] [prefix].</li>
+    <li>r_logentry->[destroyed_present] [destroyed_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry->[destroyed_present] [destroyed_targets] [RECIPIENT_definite] [prefix].</li>
+    <li>r_logentry->[prefix], [destroyed_present] [destroyed_targets] agus [damaged_present] [damaged_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix], [damaged_present] [damaged_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix], [damaged_present] [damaged_targets] [RECIPIENT_definite] [strikeAdv].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[prefix], [damaged_present] [damaged_targets] [RECIPIENT_definite] [strikeAdv].</li>
+    <li>r_logentry->[damaged_past] [INITIATOR_definite] [RECIPIENT_definite].</li>
+    <li>r_logentry->[damaged_past] [INITIATOR_definite] [RECIPIENT_definite] [strikeAdv].</li>
+    <li>r_logentry->[damaged_present] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.001)->Bhuail pléascán [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.001)->Gortaíodh [RECIPIENT_definite] i bpléascán.</li>
+    <li>blast->bpléascadh</li>
+    <li>blast->mbleaist</li>
+    <li>blast->tonn turrainge</li>
+    <li>blast->bhfórsa</li>
+    <li>blast->impact</li>
+    <li>blast->tuairt</li>
+  </Combat_ExplosionImpact.rulePack.rulesStrings>
   
   <!-- EN:
     <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
     <li>projectile->[WEAPON_projectile_label]</li>
   -->
-  <Combat_RangedBase.rulePack.rulesStrings>TODO</Combat_RangedBase.rulePack.rulesStrings>
+  <Combat_RangedBase.rulePack.rulesStrings>
+      <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile->[WEAPON_projectile_label]</li>
+  </Combat_RangedBase.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite]'s [projectile] [destroyed_past] [RECIPIENT_definite]'s [destroyed_targets].</li>
@@ -98,7 +124,59 @@
     <li>missed->missed</li>
     <li>missed->narrowly missed</li>
   -->
-  <Combat_RangedDamage.rulePack.rulesStrings>TODO</Combat_RangedDamage.rulePack.rulesStrings>
+  <Combat_RangedDamage.rulePack.rulesStrings>
+     <li>r_logentry->[destroyed_past] [projectile] [INITIATOR_definite]  [destroyed_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry->D'fhág [projectile] [INITIATOR_definite] [destroyed_targets] [RECIPIENT_definite] [destroyed_suffix].</li>
+    <li>r_logentry(p=2)->Theip ar [projectile] [INITIATOR_definite]  [ORIGINALTARGET_definite] a bhaint amach, agus [destroyed_present] [destroyed_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=2)->Níor aimsigh [projectile] [INITIATOR_definite]  [ORIGINALTARGET_definite], agus [destroyed_present] sé [destroyed_targets][RECIPIENT_definite].</li>
+    <li>r_logentry->[destroyed_present] [destroyed_targets] [RECIPIENT_definite] mar gheall ar [projectile] [INITIATOR_definite].</li>
+    <li>r_logentry->Fágadh [destroyed_targets] [RECIPIENT_definite] [destroyed_suffix] mar gheal ar [projectile] [INITIATOR_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_present] [projectile][INITIATOR_definite] [damaged_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Theip ar [projectile] [INITIATOR_definite] [ORIGINALTARGET_definite] a bhaint amach, agus [damaged_present] sé [damaged_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Níor aimsigh [projectile] [INITIATOR_definite] [ORIGINALTARGET_definite], agus [damaged_present] sé[damaged_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_past] [projectile] [INITIATOR_definite] [damaged_targets] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=3)->[destroyed_past] [projectile] [INITIATOR_definite] [destroyed_targets] [RECIPIENT_definite] agus [damaged_past] sé [damaged_targets] [RECIPIENT_possessive].</li>
+    <li>r_logentry(p=6)->Chuaigh [projectile] [INITIATOR_definite] thar[ORIGINALTARGET_definite], agus [destroyed_past] sé [destroyed_targets][RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->Bhuail [projectile] [INITIATOR_definite] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->D'aimsigh [projectile] [INITIATOR_definite] [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->Níor aimsigh [projectile] [INITIATOR_definite] [ORIGINALTARGET_definite], ach bhuail sé [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.4)->Níor éirigh le [INITIATOR_definite] [ORIGINALTARGET_definite] a bhualadh, ach bualadh [RECIPIENT_definite].</li>
+    <li>r_logentry(p=0.2)->Bhí sé ar intinn ag [INITIATOR_definite] [ORIGINALTARGET_definite] a bhualadh, ach bhuail sé [RECIPIENT_definite].</li>
+    <li>projectile(p=0.05)->urchar</li>
+    <li>destroyed_past->Bhris</li>
+    <li>destroyed_past->Bhrúisc</li>
+    <li>destroyed_past->Scrios</li>
+    <li>destroyed_past->Tholl</li>
+    <li>destroyed_past->Sháigh</li>
+    <li>destroyed_past->Bhuail</li>
+    <li>destroyed_present->Briseadh</li>
+    <li>destroyed_present->Brúisceadh</li>
+    <li>destroyed_present->Scriosadh</li>
+    <li>destroyed_present->Tolladh</li>
+    <li>destroyed_present->Sádh</li>
+    <li>destroyed_present->Buaileadh</li>
+    <li>destroyed_suffix->ina smidiríní</li>
+    <li>destroyed_suffix->ina smionagar</li>
+    <li>destroyed_suffix->i bpíosaí</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid,p=0.2)->mar a bheadh mioltóg ann</li>
+    <li>damaged_past->gortaíodh</li>
+    <li>damaged_past->bualadh</li>
+    <li>damaged_past->ropadh</li>
+    <li>damaged_past->bualadh</li>
+    <li>damaged_present->ghortaigh</li>
+    <li>damaged_present->bhuail</li>
+    <li>damaged_present->rop</li>
+    <li>damaged_present->ghortaigh</li>
+    <li>damaged_present->scaoil</li>
+    <li>damaged_present->D'aimsigh</li>
+    <li>damaged_suffix->in an ugly fashion</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with visible blood</li>
+    <li>damaged_suffix(recipient_flesh!=Mechanoid)->with the flesh visible</li>
+    <li>to->to</li>
+    <li>to->into</li>
+    <li>missed->Níor aimsigh</li>
+    <li>missed->Chuaigh</li>
+  </Combat_RangedDamage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite]'s [projectile] [damaged_past] [RECIPIENT_definite][damaged_target] [deflected_result].</li>

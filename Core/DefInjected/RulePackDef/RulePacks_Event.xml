@@ -4,12 +4,16 @@
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
   -->
-  <Event_AbilityUsed.rulePack.rulesStrings>TODO</Event_AbilityUsed.rulePack.rulesStrings>
+  <Event_AbilityUsed.rulePack.rulesStrings>
+      <li>r_logentry->D'úsáid [INITIATOR_definite] [ABILITY_label] ar [SUBJECT_definite].</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
   -->
-  <Event_ItemUsed.rulePack.rulesStrings>TODO</Event_ItemUsed.rulePack.rulesStrings>
+  <Event_ItemUsed.rulePack.rulesStrings>
+      <li>r_logentry->D'úsáid [INITIATOR_definite] [ITEM_indefinite] ar [SUBJECT_definite].</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
@@ -32,6 +36,26 @@
     <li>stumbled->wobbled</li>
     <li>stumbled->staggered</li>
   -->
-  <Event_Stun.rulePack.rulesStrings>TODO</Event_Stun.rulePack.rulesStrings>
+  <Event_Stun.rulePack.rulesStrings>
+      <li>r_logentry->Baineadh [stunned] as [SUBJECT_definite] leis an ionsaí.</li>
+    <li>r_logentry->Bhain ionsaí [INITIATOR_definite] [stunned] as [SUBJECT_definite].</li>
+    <li>stunned(p=3)->staingeadh</li>
+    <li>stunned->stangaire</li>
+    <li>stunned->geit</li>
+    <li>r_logentry->Baineadh [staggered] as [SUBJECT_definite].</li>
+    <li>r_logentry->Cuireadh isteach ar [SUBJECT_definite].</li>
+    <li>r_logentry->Chuir an ionsaí isteach ar [SUBJECT_definite].</li>
+    <li>staggered(p=3)->geit</li>
+    <li>staggered->staingeadh</li>
+    <li>staggered->tuisle</li>
+    <li>staggered->stangaire</li>
+    <li>r_logentry->Tháinig mearbhall ar [SUBJECT_definite].</li>
+    <li>r_logentry->Tá [SUBJECT_definite] ag siúil thart go místuama mar gheall ar an ionsaí.</li>
+    <li>r_logentry->Tá [SUBJECT_definite] ag siúil thart go tuisleach mar gheall ar an ionsaí.</li>
+    <li>stumbled(p=3)->stumbled</li>
+    <li>stumbled->wavered</li>
+    <li>stumbled->wobbled</li>
+    <li>stumbled->staggered</li>
+  </Event_Stun.rulePack.rulesStrings>
   
 </LanguageData>

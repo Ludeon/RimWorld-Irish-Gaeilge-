@@ -48,7 +48,19 @@
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->making [RECIPIENT_objective] [wince] [painevent]</li>
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
-  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>TODO</Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+  <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+    <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+    <li>strikeAdv->go dona</li>
+    <li>strikeAdv->go han-dona</li>
+    <li>strikeAdv->go fíochmhar</li>
+    <li>strikeAdv->go nimhneach</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh gortú uafásach</li>
+    <li>flavortext_consequence->agus fágadh gortú</li>
+    <li>flavortext_consequence->go dona</li>
+    <li>flavortext_consequence->go han-dona</li>
+  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[action], [result].</li>
