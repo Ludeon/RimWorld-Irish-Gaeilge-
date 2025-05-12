@@ -44,12 +44,12 @@
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>Ní féidir féin-ionsaí a dhéanamh</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
-  <CannotAttackSameFactionMember>Ní féidir comrádaí faicsin a ionsú</CannotAttackSameFactionMember>
+  <CannotAttackSameFactionMember>Ní féidir faicsean cairdiúil a ionsú</CannotAttackSameFactionMember>
   <!-- EN: Incapable of firefighting. -->
   <IncapableOfFirefighting>Troid dóiteáin coiscthe.</IncapableOfFirefighting>
 
   <!-- EN: Man {1_labelShort} -->
-  <OrderManThing>Fear {1_labelShort}</OrderManThing>
+  <OrderManThing>Úsáid {1_labelShort}</OrderManThing>
   
   <!-- EN: Melee attack {1_labelShort} -->
   <MeleeAttack>Ionsaigh {1_label} de láimh</MeleeAttack>
@@ -73,7 +73,7 @@
   <!-- EN: no empty, accessible spot configured to store it -->
   <NoEmptyPlaceLower>níl spás folamh, inrochtana ar fáil chun seo a stóráil</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
-  <NoMergeTarget>níl carn ar fáil ina bhféadfaidh é seo a chur</NoMergeTarget>
+  <NoMergeTarget>níl carn ar fáil ina bhféadfaí é seo a chur</NoMergeTarget>
   <!-- EN: already filled enough -->
   <AlreadyFilledLower>lán go leor</AlreadyFilledLower>
   <!-- EN: missing {0} -->
@@ -121,7 +121,7 @@
   <!-- EN: no reachable pens -->
   <CantRopeAnimalNoReachablePens>níl aon chró inrochtana ar fáil</CantRopeAnimalNoReachablePens>
   <!-- EN: can't touch -->
-  <CantRopeAnimalCantTouch>ní féidr lámh a leagan air seo</CantRopeAnimalCantTouch>
+  <CantRopeAnimalCantTouch>ní féidir lámh a leagan air</CantRopeAnimalCantTouch>
   <!-- EN: no space in pen -->
   <CantRopeAnimalNoSpace>níl aon spás sa chró</CantRopeAnimalNoSpace>
   <!-- EN: {0_labelShort} is in {1} state -->
@@ -129,7 +129,7 @@
   <!-- EN: already in best pen -->
   <CantRopeAnimalAlreadyInBestPen>tá an t-ainmhí seo sa chró is fearr</CantRopeAnimalAlreadyInBestPen>
   <!-- EN: {0} skill too low -->
-  <SkillTooLowForConstruction>scil ró-íséal ({0})</SkillTooLowForConstruction>
+  <SkillTooLowForConstruction>scil ró-íseal ({0})</SkillTooLowForConstruction>
   <!-- EN: need components -->
   <NoComponentsToRepair>tá comhpháirteanna de dhíth</NoComponentsToRepair>
   <!-- EN: need {0} -->
@@ -137,7 +137,7 @@
   <!-- EN: need wort -->
   <NoWort>tá braichlis de dhíth</NoWort>
   <!-- EN: available food is in storage of higher priority -->
-  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>tá an bia atá ar fáil á choimeád i stóras a bhfuil tosaíocht níos airde aiges</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
+  <TheOnlyAvailableFoodIsInStorageOfHigherPriority>tá an bia atá ar fáil á choimeád i stóras a bhfuil tosaíocht níos airde aige</TheOnlyAvailableFoodIsInStorageOfHigherPriority>
   <!-- EN: no suitable food -->
   <NoFoodToFillHopper>níl aon bhia oiriúnach ar fáil</NoFoodToFillHopper>
   <!-- EN: self-tend disabled -->
@@ -157,421 +157,423 @@
   <!-- EN: incapable of deconstruction -->
   <IncapableOfDeconstruction>ní féidir </IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
-  <IncapableOfMining>Bergbau nicht möglich</IncapableOfMining>
+  <IncapableOfMining>mianadóireacht coiscthe</IncapableOfMining>
   <!-- EN: tree marked for extraction -->
-  <TreeMarkedForExtraction>TODO</TreeMarkedForExtraction>
+  <TreeMarkedForExtraction>tá an crann seo le baint</TreeMarkedForExtraction>
   <!-- EN: angers faction -->
-  <AngersFaction>verärgert Fraktion</AngersFaction>
+  <AngersFaction>cuirfidh seo fearg ar an bhfaicsean</AngersFaction>
   <!-- EN: no body part -->
-  <InstallImplantNoBodyPart>kein Körperteil</InstallImplantNoBodyPart>
+  <InstallImplantNoBodyPart>níl aon bhall corp ann</InstallImplantNoBodyPart>
   <!-- EN: not a colonist -->
-  <InstallImplantNotAllowedForNonColonists>kein Kolonist</InstallImplantNotAllowedForNonColonists>
+  <InstallImplantNotAllowedForNonColonists>ní mór coilíneach a roghnú</InstallImplantNotAllowedForNonColonists>
   <!-- EN: already installed -->
-  <InstallImplantAlreadyInstalled>bereits implantiert</InstallImplantAlreadyInstalled>
+  <InstallImplantAlreadyInstalled>tá ionphlandú ann cheana</InstallImplantAlreadyInstalled>
   <!-- EN: requires an existing {0} -->
-  <InstallImplantHediffRequired>setzt {0} voraus</InstallImplantHediffRequired>
+  <InstallImplantHediffRequired>Tá {0} de dhíth</InstallImplantHediffRequired>
   <!-- EN: max level -->
-  <InstallImplantAlreadyMaxLevel>Maximalstufe</InstallImplantAlreadyMaxLevel>
+  <InstallImplantAlreadyMaxLevel>uasleibhéal</InstallImplantAlreadyMaxLevel>
   <!-- EN: requires min level {0} -->
-  <InstallImplantMinLevel>benötigt min. Stufe {0}</InstallImplantMinLevel>
+  <InstallImplantMinLevel>tá íosleibhéal {0} de dhíth</InstallImplantMinLevel>
   <!-- EN: psychically deaf -->
-  <InstallImplantPsychicallyDeaf>mental taub</InstallImplantPsychicallyDeaf>
+  <InstallImplantPsychicallyDeaf>bodhar roimh éifeachtaí síceacha</InstallImplantPsychicallyDeaf>
   <!-- EN: Upgrade {0} to level {1} -->
-  <UpgradeImplant>Erhöhe {0} auf Stufe {1}</UpgradeImplant>
+  <UpgradeImplant>Uasghrádaigh {0} chuig leibhéal {1}</UpgradeImplant>
   <!-- EN: violation of faction ally -->
-  <SurgeryViolationFellowFactionMember>Verletzung eines Fraktionsverbündeten</SurgeryViolationFellowFactionMember>
+  <SurgeryViolationFellowFactionMember>TODO</SurgeryViolationFellowFactionMember>
   <!-- EN: being carried by {0_labelShort} -->
-  <BeingCarriedBy>wird getragen von {0_labelShort}</BeingCarriedBy>
+  <BeingCarriedBy>á iompar ag {0_labelShort}</BeingCarriedBy>
   <!-- EN: full -->
-  <ContainerFull>voll</ContainerFull>
+  <ContainerFull>lán</ContainerFull>
   <!-- EN: already assigned -->
-  <AlreadyAssigned>bereits zugewiesen</AlreadyAssigned>
+  <AlreadyAssigned>sannta cheana féin</AlreadyAssigned>
   
   <!-- EN: Consume {1_labelShort} -->
-  <ConsumeThing>Konsumiere {1_labelShort}</ConsumeThing>
+  <ConsumeThing>Ith {1_labelShort}</ConsumeThing>
   
   <!-- EN: Cannot go here: No path -->
-  <CannotGoNoPath>Kann hier nicht hin: Kein Weg</CannotGoNoPath>
+  <CannotGoNoPath>Ní féidir dul anseo: Níl aon bhealach inrochtana ar fáil</CannotGoNoPath>
   <!-- EN: Go here -->
-  <GoHere>Gehe hier hin</GoHere>
+  <GoHere>Téigh anseo</GoHere>
 
   <!-- EN: Clean {0} -->
-  <CleanRoom>TODO</CleanRoom>
+  <CleanRoom>Glan {0}</CleanRoom>
   
   <!-- EN: Arrest {0} -->
-  <Arrest>Inhaftiere {0}</Arrest>
+  <Arrest>Gabh {0}</Arrest>
   <!-- EN: Try to arrest {1_labelShort} ({2} chance) -->
-  <TryToArrest>Inhaftiere {1_label} ({2} Chance)</TryToArrest>
+  <TryToArrest>Déan iarracht {1_label} a ghabháil (Dóchúlacht: {2})</TryToArrest>
   <!-- EN: Cannot arrest -->
-  <CannotArrest>Kann nicht inhaftieren</CannotArrest>
+  <CannotArrest>Ní féidir an duine seo a ghabháil</CannotArrest>
   <!-- EN: {0} chance of arrest -->
-  <ArrestChance>{0} Inhaftierungschance</ArrestChance>
+  <ArrestChance>Dóchúlacht: {0}</ArrestChance>
 
   <!-- EN: Capture {1_labelShort} -->
-  <Capture>Fange {1_label} ein</Capture>
+  <Capture>Gabh {1_label}</Capture>
   <!-- EN: capture {0_labelShort} -->
-  <CaptureLower>TODO</CaptureLower>
+  <CaptureLower>gabh {0_labelShort}</CaptureLower>
   <!-- EN: Cannot capture -->
-  <CannotCapture>Kann nicht einfangen</CannotCapture>
+  <CannotCapture>Ní féidir an duine seo a ghabháil</CannotCapture>
   <!-- EN: unwaveringly loyal -->
-  <Unrecruitable>absolut loyal</Unrecruitable>
+  <Unrecruitable>dílseoir</Unrecruitable>
   <!-- EN: not recruitable -->
-  <UnrecruitableNoFaction>TODO</UnrecruitableNoFaction> 
+  <UnrecruitableNoFaction>ní féidir an duine seo a earcú</UnrecruitableNoFaction> 
   <!-- EN: Transfer {0_label} -->
-  <TransferEntity>TODO</TransferEntity> 
+  <TransferEntity>Bog {0_label}</TransferEntity> 
 
   <!-- EN: Rescue {1_labelShort} -->
-  <Rescue>Rette {1_label}</Rescue>
+  <Rescue>Tarrtháil {1_label}</Rescue>
   <!-- EN: Put {1_labelShort} somewhere safe -->
-  <PutSomewhereSafe>Lege {1_label} an einen sicheren Ort</PutSomewhereSafe>
+  <PutSomewhereSafe>Cuir {1_label} áit éigean sábháilte</PutSomewhereSafe>
   <!-- EN: Taking {0_labelShort} to bed. -->
-  <TakingToBed>Bringt {0_labelShort} ins Bett.</TakingToBed>
+  <TakingToBed>Ag tarrtháil: {0_labelShort}.</TakingToBed>
   <!-- EN: Cannot rescue -->
-  <CannotRescue>Kann nicht retten</CannotRescue>
+  <CannotRescue>Ní féidir an duine seo a tharrtháil</CannotRescue>
 
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Trage {1_label} zu Kryptoschlafkapsel</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Tabhair {1_label} chuig pod criptea-chodlata</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>Kann nicht zu Kryptoschlafkapsel tragen</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Ní féidir a duine seo a iompar chuig pod criptea-chodlata</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_labelShort} to shuttle -->
-  <CarryToShuttle>Trage {0_label} zu Shuttle</CarryToShuttle>
+  <CarryToShuttle>Tabhair {0_label} chuig tointeálaí</CarryToShuttle>
 
   <!-- EN: No available cryptosleep casket. -->
-  <NoCryptosleepCasket>Keine Kryptoschlafkapsel verfügbar.</NoCryptosleepCasket>
+  <NoCryptosleepCasket>Níl aon phod criptea-chodlata ar fáil.</NoCryptosleepCasket>
   <!-- EN: Temporary faction members not allowed. -->
-  <CryptosleepCasketGuestsNotAllowed>Temporäre Fraktionsmitglieder nicht erlaubt.</CryptosleepCasketGuestsNotAllowed>
+  <CryptosleepCasketGuestsNotAllowed>Ní féidir coilínigh shealadaigh a chur anseo.</CryptosleepCasketGuestsNotAllowed>
   <!-- EN: Hosted prisoners not allowed. -->
-  <CryptosleepCasketGuestPrisonersNotAllowed>Aufgenommene Gefangene sind nicht erlaubt.</CryptosleepCasketGuestPrisonersNotAllowed>
+  <CryptosleepCasketGuestPrisonersNotAllowed>Ní féidir príosúnaigh shealadaigh a chur anseo.</CryptosleepCasketGuestPrisonersNotAllowed>
   <!-- EN: Already occupied -->
-  <CryptosleepCasketOccupied>Schon belegt</CryptosleepCasketOccupied>
+  <CryptosleepCasketOccupied>Tá duine anseo cheana</CryptosleepCasketOccupied>
   <!-- EN: No reachable, un-reserved, enclosed prisoner-marked bed in safe temperature. -->
-  <NoPrisonerBed>Kein Bett für Gefangene verfügbar, das erreichbar, frei und in sicherer Temperatur ist.</NoPrisonerBed>
+  <NoPrisonerBed>Ní mór go mbeidh leaba príosúnaigh inrochtana ar fáil, timpeallaithe le ballaí i dteocht shábháilte.</NoPrisonerBed>
   <!-- EN: No prisoner bed available. -->
-  <NoPrisonerBedShort>TODO</NoPrisonerBedShort>
+  <NoPrisonerBedShort>Níl aon leaba príosúnaigh ar fáil.</NoPrisonerBedShort>
   <!-- EN: No reachable, un-reserved non-prisoner bed in safe temperature. -->
-  <NoNonPrisonerBed>Kein Bett für Kolonisten verfügbar, das erreichbar, frei und in sicherer Temperatur ist.</NoNonPrisonerBed>
+  <NoNonPrisonerBed>Ní mór go mbeidh leaba inrochtana ar fáil, timpeallaithe le ballaí i dteocht shábháilte.</NoNonPrisonerBed>
   <!-- EN: No reachable, un-reserved animal bed in safe temperature. -->
-  <NoAnimalBed>Kein Bett für Tiere verfügbar, das erreichbar, frei und in sicherer Temperatur ist.</NoAnimalBed>
+  <NoAnimalBed>Ní mór go mbeidh leaba ainmhithe inrochtana ar fáil, i dteocht shábháilte.</NoAnimalBed>
   <!-- EN: No reachable, unforbidden, un-reserved {0} -->
-  <NoItemReservedOrReachable>TODO</NoItemReservedOrReachable>
+  <NoItemReservedOrReachable>Ní mór go mbeidh {0} inrochtana ar fáil, i dteocht shábháilte.</NoItemReservedOrReachable>
   <!-- EN: No unforbidden, un-reserved {0} -->
-  <NoItemReserved>TODO</NoItemReserved>
+  <NoItemReserved>Ní mór go mbeidh {0} nach bhfuil dícheadaithe ar fáil.</NoItemReserved>
   <!-- EN: Reserved by someone else. -->
-  <Reserved>Reserviert von jemand anderem.</Reserved>
+  <Reserved>In úsáid ag duine eile.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>Reserviert von {1_labelShort}</ReservedBy>
+  <ReservedBy>In úsáid ag {1_labelShort}</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
-  <IsReservedBy>{0} ist von {1} reserviert.</IsReservedBy>
+  <IsReservedBy>Tá {0} in úsáid ag {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
-  <TooHeavy>Zu schwer</TooHeavy>
+  <TooHeavy>Róthrom</TooHeavy>
   <!-- EN: {0_labelShort} is in the same faction. -->
-  <SameFaction>{0_labelShort} ist in derselben Fraktion.</SameFaction>
+  <SameFaction>Baineann {0_labelShort} leis an bhfaicsean céanna.</SameFaction>
 
   <!-- EN: incapable -->
-  <Incapable>unfähig</Incapable>
+  <Incapable>ní féidir</Incapable>
   <!-- EN: incapable of {0} -->
-  <IncapableOfCapacity>unfähig für {0}</IncapableOfCapacity>
+  <IncapableOfCapacity>ní féidir {0} a dhéanamh</IncapableOfCapacity>
   <!-- EN: Must have {0_label} -->
-  <MustHaveHediff>muss {0_label} haben</MustHaveHediff>
+  <MustHaveHediff>Tá {0_label} de dhíth</MustHaveHediff>
 
   <!-- EN: min skill -->
-  <MinSkill>Mindeststufe</MinSkill>
+  <MinSkill>scil íosta</MinSkill>
   
   <!-- EN: Equip {0} -->
-  <Equip>Bewaffne dich mit {0}</Equip>
+  <Equip>Feistigh {0}</Equip>
   <!-- EN: (brawler will be unhappy) -->
-  <EquipWarningBrawler>(Raufbold wäre verärgert)</EquipWarningBrawler>
+  <EquipWarningBrawler>(beidh dornálaí míshásta)</EquipWarningBrawler>
   <!-- EN: Cannot equip {0} -->
-  <CannotEquip>Kann {0} nicht ausrüsten</CannotEquip>
+  <CannotEquip>Ní féidir {0} a fheistiú</CannotEquip>
   <!-- EN: Cannot man {1_labelShort} -->
-  <CannotManThing>Kann {1_labelShort} nicht bemannen</CannotManThing>
+  <CannotManThing>Ní féidir {1_labelShort} a úsáid</CannotManThing>
   
   <!-- EN: Force wear {1_labelShort} -->
-  <ForceWear>Bekleide dich mit {1_labelShort}</ForceWear>
+  <ForceWear>Caith {1_labelShort}</ForceWear>
   <!-- EN: Cannot wear {1_label} -->
-  <CannotWear>Kann {1_label} nicht anziehen</CannotWear>
+  <CannotWear>Ní féidir {1_label} a chaitheamh</CannotWear>
   <!-- EN: Force equip {1_labelShort} -->
-  <ForceEquipApparel>Rüste {1_labelShort} aus</ForceEquipApparel>
+  <ForceEquipApparel>Feistigh {1_labelShort}</ForceEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
-  <CannotEquipApparel>Kann {1_label} nicht ausrüsten</CannotEquipApparel>
+  <CannotEquipApparel>Ní féidir {1_label} a fheistiú</CannotEquipApparel>
   <!-- EN: missing body parts -->
-  <CannotWearBecauseOfMissingBodyParts>fehlende Körperteile</CannotWearBecauseOfMissingBodyParts>
+  <CannotWearBecauseOfMissingBodyParts>tá ball den chorp ar lár</CannotWearBecauseOfMissingBodyParts>
   
   <!-- EN: Reload {GEAR_labelShort} with {AMMO_label} -->
-  <Reload>Lade {GEAR_labelShort} mit {AMMO_label} nach</Reload>
+  <Reload>Athlódáil {GEAR_labelShort} le: {AMMO_label}</Reload>
   <!-- EN: Full -->
-  <ReloadFull>Voll</ReloadFull>
+  <ReloadFull>Lán</ReloadFull>
   <!-- EN: Too few -->
-  <ReloadNotEnough>Zu wenig</ReloadNotEnough>
+  <ReloadNotEnough>Tá níos mó de dhíth</ReloadNotEnough>
   <!-- EN: Cannot carry enough {AMMO_label} to reload 1 charge. -->
-  <ReloadCannotCarryEnough>Kann nicht genug {AMMO_label} tragen, um 1 Ladung nachzuladen.</ReloadCannotCarryEnough>
+  <ReloadCannotCarryEnough>Ní féidir go leor armlóin ({AMMO_label}) a iompar chun athlódáil..</ReloadCannotCarryEnough>
   
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUp>Kann {1_labelShort} nicht aufheben</CannotPickUp>
+  <CannotPickUp>Ní féidir {1_labelShort} a phiocadh suas</CannotPickUp>
   <!-- EN: Cannot pick up {1_label} (all) -->
-  <CannotPickUpAll>Kann {1_label} (alles) nicht aufheben</CannotPickUpAll>
+  <CannotPickUpAll>Ní féidir {1_label} (all) a phiocadh suas</CannotPickUpAll>
   <!-- EN: Pick up {1_labelShort} x1 -->
-  <PickUpOne>Hebe {1_labelShort} x1 auf</PickUpOne>
+  <PickUpOne>Pioc suas {1_labelShort} x1</PickUpOne>
   <!-- EN: Pick up {1_label} (all) -->
-  <PickUpAll>Hebe {1_label} (alles) auf</PickUpAll>
+  <PickUpAll>Pioc suas {1_label} (alles)</PickUpAll>
   <!-- EN: Pick up {1_labelShort}... -->
-  <PickUpSome>Hebe {1_labelShort} auf...</PickUpSome>
+  <PickUpSome>Pioc suas {1_labelShort}...</PickUpSome>
   <!-- EN: Pick up {1_labelShort} x{{0}} -->
-  <PickUpCount>Hebe {1_labelShort} x{{0}} auf</PickUpCount>
+  <PickUpCount>Pioc suas {1_labelShort} x{{0}}</PickUpCount>
   <!-- EN: Cannot pick up {1_labelShort} -->
-  <CannotPickUpSome>Kann {1_labelShort} nicht aufheben</CannotPickUpSome>
+  <CannotPickUpSome>Ní féidir {1_labelShort} a phiocadh suas</CannotPickUpSome>
   <!-- EN: {0} {1} allowed -->
-  <MaxPickUpAllowed>Max. {0} {1_plural} erlaubt</MaxPickUpAllowed>
+  <MaxPickUpAllowed>Uasmhéid {1_plural} a cheadaítear: {0}</MaxPickUpAllowed>
   
   <!-- EN: Cannot load {1_label} onto pack animal -->
-  <CannotGiveToPackAnimal>Kann {1_label} nicht auf Lasttier laden</CannotGiveToPackAnimal>
+  <CannotGiveToPackAnimal>Ní féidir {1_label} a lódáil ar an ainmhí</CannotGiveToPackAnimal>
   <!-- EN: Cannot load {1_label} (all) onto pack animal -->
-  <CannotGiveToPackAnimalAll>Kann {1_label} (alles) nicht auf Lasttier laden</CannotGiveToPackAnimalAll>
+  <CannotGiveToPackAnimalAll>Ní féidir {1_label} (alles) a lódáil ar an ainmhí</CannotGiveToPackAnimalAll>
   <!-- EN: Load {1_label} onto pack animal -->
-  <GiveToPackAnimal>Lade {1_label} auf Lasttier</GiveToPackAnimal>
+  <GiveToPackAnimal>Lódáil {1_label} ar an ainmhí</GiveToPackAnimal>
   <!-- EN: Load {1_label} (all) onto pack animal -->
-  <GiveToPackAnimalAll>Lade {1_label} (alles) auf Lasttier</GiveToPackAnimalAll>
+  <GiveToPackAnimalAll>Lódáil {1_label} (all) ar ainmhí</GiveToPackAnimalAll>
   <!-- EN: Load {1_labelShort} onto pack animal... -->
-  <GiveToPackAnimalSome>Lade {1_labelShort} auf Lasttier...</GiveToPackAnimalSome>
+  <GiveToPackAnimalSome>Lódáil {1_labelShort} ar ainmhí...</GiveToPackAnimalSome>
   <!-- EN: Load {1_labelShort} x{{0}} onto pack animal -->
-  <GiveToPackAnimalCount>Lade {1_labelShort} x{{0}} auf Lasttier</GiveToPackAnimalCount>
+  <GiveToPackAnimalCount>Lódáil {1_labelShort} x{{0}} ar ainmhí</GiveToPackAnimalCount>
   
   <!-- EN: Cannot load {1_label} into caravan -->
-  <CannotLoadIntoCaravan>Kann {1_label} nicht in Karawane laden</CannotLoadIntoCaravan>
+  <CannotLoadIntoCaravan>Ní féidir {1_label} a lódáil sa charbhán</CannotLoadIntoCaravan>
   <!-- EN: Cannot load {1_label} (all) into caravan -->
-  <CannotLoadIntoCaravanAll>Kann nicht {1_label} (alles) in Karawane laden</CannotLoadIntoCaravanAll>
+  <CannotLoadIntoCaravanAll>Ní féidir {1_label} (all) a lódáil sa charbhán</CannotLoadIntoCaravanAll>
   <!-- EN: Load {1_label} into caravan -->
-  <LoadIntoCaravan>Lade {1_label} in Karawane</LoadIntoCaravan>
+  <LoadIntoCaravan>Lódáil {1_label} sa charbhán</LoadIntoCaravan>
   <!-- EN: Load {1_label} (all) into caravan -->
-  <LoadIntoCaravanAll>Lade {1_label} (alles) in Karawane</LoadIntoCaravanAll>
+  <LoadIntoCaravanAll>Lódáil {1_label} (all) sa charbhán</LoadIntoCaravanAll>
   <!-- EN: Load {1_labelShort} into caravan... -->
-  <LoadIntoCaravanSome>Lade {1_labelShort} in Karawane...</LoadIntoCaravanSome>
+  <LoadIntoCaravanSome>Lódáil {1_labelShort} sa charbhán...</LoadIntoCaravanSome>
   <!-- EN: Load {1_labelShort} x{{0}} -->
-  <LoadIntoCaravanCount>Lade {1_labelShort} x{{0}}</LoadIntoCaravanCount>
+  <LoadIntoCaravanCount>Lódáil {1_labelShort} x{{0}}</LoadIntoCaravanCount>
   <!-- EN: overweight -->
-  <OverweightLower>überladen</OverweightLower>
+  <OverweightLower>róthrom</OverweightLower>
 
   <!-- EN: Cannot carry {1_labelShort} and leave the area -->
-  <CannotCarryToExit>Kann {1_label} nicht tragen und das Gebiet verlassen</CannotCarryToExit>
+  <CannotCarryToExit>Ní féidir imeacht ón gceantar agus {1_label} á iompar</CannotCarryToExit>
   <!-- EN: Carry {1_labelShort} and leave the area -->
-  <CarryToExit>Nimm {1_label} und verlasse das Gebiet</CarryToExit>
+  <CarryToExit>Pioc suas {1_label} agus imigh ón gceantar</CarryToExit>
   <!-- EN: Capture {1_labelShort} and leave the area -->
-  <CarryToExitAndCapture>Entführe {1_label} und verlasse das Gebiet</CarryToExitAndCapture>
+  <CarryToExitAndCapture>Gabh {1_label} agus imigh ón gceantar</CarryToExitAndCapture>
   
   <!-- EN: Strip {1_labelShort} -->
-  <Strip>Entkleide {1_label}</Strip>
+  <Strip>Struipeáil {1_label}</Strip>
   <!-- EN: Cannot strip {1_labelShort} -->
-  <CannotStrip>Kann {1_label} nicht entkleiden</CannotStrip>
+  <CannotStrip>Ní féidir {1_label} a struipeáil</CannotStrip>
   <!-- EN: Cannot drop {1_labelShort} -->
-  <CannotDrop>Kann {1_label} nicht ablegen</CannotDrop>
+  <CannotDrop>Ní féidir {1_label} a chur síos</CannotDrop>
   <!-- EN: Carry {0_labelShort} -->
-  <Carry>Trage {0_label}</Carry>
+  <Carry>Pioc suas {0_label}</Carry>
   <!-- EN: Cannot carry {0_labelShort} -->
-  <CannotCarry>Kann {0_label} nicht tragen</CannotCarry>
+  <CannotCarry>Ní féidir {0_label} a phiocadh suas</CannotCarry>
   <!-- EN: hostile -->
-  <CarriedPawnHostile>TODO</CarriedPawnHostile>
+  <CarriedPawnHostile>naimhdeach</CarriedPawnHostile>
   <!-- EN: temporary faction member -->
-  <QuestRelated>temporäres Fraktionsmitglied</QuestRelated>
+  <QuestRelated>coilíneach sealadach</QuestRelated>
   <!-- EN: Cannot change outfits on temporary faction members -->
-  <QuestRelated_Outfit>Kann Outfits von temporären Fraktionsmitgliedern nicht ändern</QuestRelated_Outfit>
+  <QuestRelated_Outfit>Ní féidir éadaí coilíneach sealadach a athrú</QuestRelated_Outfit>
   <!-- EN: would replace locked apparel -->
-  <WouldReplaceLockedApparel>würde gesperrte Kleidung ersetzen</WouldReplaceLockedApparel>
+  <WouldReplaceLockedApparel>ní féidir éadaí atá faoi ghlas a athrú</WouldReplaceLockedApparel>
 
   <!-- EN: Cannot place {0_label} in {1_label} -->
-  <CannotPlaceIn>Kann {0_label} nicht in {1_label} legen</CannotPlaceIn>
+  <CannotPlaceIn>Ní féidir {0_label} a chur i: {1_label}</CannotPlaceIn>
   <!-- EN: Place {0_label} in {1_label} -->
-  <PlaceIn>Lege {0_label} in {1_label}</PlaceIn>
+  <PlaceIn>Cuir {0_label} i: {1_label}</PlaceIn>
 
   <!-- EN: Self-destruct here -->
-  <SelfDestructHere>Hier selbstzerstören</SelfDestructHere>
+  <SelfDestructHere>Cuir tús leis an bpróiseas féinscriosta anseo</SelfDestructHere>
   
   <!-- EN: Drop {1_labelShort} -->
-  <Drop>Lass {1_label} fallen</Drop>
+  <Drop>Cuir síos {1_label}</Drop>
 
   <!-- EN: Rest until healed -->
-  <UseMedicalBed>Ruhe dich aus, bis du geheilt bist</UseMedicalBed>
+  <UseMedicalBed>Téigh chuig an leaba go dtí go mbeidh an gortú leigheasta</UseMedicalBed>
   <!-- EN: not injured -->
-  <NotInjured>nicht verletzt</NotInjured>
+  <NotInjured>níl an duine seo gortaithe</NotInjured>
   <!-- EN: no doctor -->
-  <NoDoctor>kein Arzt</NoDoctor>
+  <NoDoctor>níl aon dochtúir ar fáil</NoDoctor>
   <!-- EN: medical bed not for slaves -->
-  <NotForSlaves>dieses Bett ist nicht für Sklaven vorgesehen</NotForSlaves>
+  <NotForSlaves>ní féidir le sclábhaithe leabaí ospidéil a úsáid</NotForSlaves>
   <!-- EN: occupied by {0} -->
-  <SomeoneElseSleeping>Belegt von {0}</SomeoneElseSleeping>
+  <SomeoneElseSleeping>Tá {0} anseo cheana</SomeoneElseSleeping>
   
   <!-- EN: Trade with {0} -->
-  <TradeWith>Handle mit {0}</TradeWith>
+  <TradeWith>Trádáil le {0}</TradeWith>
   <!-- EN: Dismiss trader -->
-  <DismissTrader>TODO</DismissTrader>
+  <DismissTrader>Cuir deireadh leis an trádáil</DismissTrader>
   <!-- EN: Cannot trade -->
-  <CannotTrade>Kann nicht handeln</CannotTrade>
+  <CannotTrade>Ní féidir trádáil</CannotTrade>
   <!-- EN: Trader dismissed -->
-  <TraderDismissed>TODO</TraderDismissed>
+  <TraderDismissed>Cuireadh deireadh leis an trádáil</TraderDismissed>
 
   <!-- EN: Open {0_label} -->
-  <Open>Öffne {0_label}</Open>
+  <Open>Oscail {0_label}</Open>
   <!-- EN: Cannot open {0_label} -->
-  <CannotOpen>Kann {0_label} nicht öffnen</CannotOpen>
+  <CannotOpen>Ní féidir {0_label} a oscailt</CannotOpen>
   
   <!-- EN: Enter {0} -->
-  <EnterMap>Betritt {lookup: {0}; decline; 3}</EnterMap>
+  <EnterMap>Téigh chuig {0}</EnterMap>
   <!-- EN: Visit {0} -->
-  <VisitSettlement>Besuche {lookup: {0}; decline; 3}</VisitSettlement>
+  <VisitSettlement>Tabhair cuairt ar {0}</VisitSettlement>
   <!-- EN: Visit {0} -->
-  <VisitPeaceTalks>Besuche {lookup: {0}; decline; 3}</VisitPeaceTalks>
+  <VisitPeaceTalks>Tabhair cuairt ar {0}</VisitPeaceTalks>
   <!-- EN: Visit {0} -->
-  <VisitEscapeShip>Besuche {lookup: {0}; decline; 3}</VisitEscapeShip>
+  <VisitEscapeShip>Tabhair cuairt ar {0}</VisitEscapeShip>
   <!-- EN: Attack {0} -->
-  <AttackSettlement>Greife {lookup: {0}; decline; 3} an</AttackSettlement>
+  <AttackSettlement>Ionsaigh {0}</AttackSettlement>
   <!-- EN: Approach {0} -->
-  <ApproachSite>Reise zu {lookup: {0}; decline; 3}</ApproachSite>
+  <ApproachSite>Téigh i dtreo {0}</ApproachSite>
   <!-- EN: Approaching {0} -->
-  <ApproachingSite>Reist zu {lookup: {0}; decline; 3}</ApproachingSite>
+  <ApproachingSite>Ag dul chuig {0}</ApproachingSite>
   <!-- EN: Offer gifts -->
-  <OfferGifts>Biete Geschenke an</OfferGifts>
+  <OfferGifts>Tabhair bronntanais</OfferGifts>
   <!-- EN: Trade with {0} -->
-  <TradeWithSettlement>Handle mit {lookup: {0}; decline; 2}</TradeWithSettlement>
+  <TradeWithSettlement>Trádáil le {0}</TradeWithSettlement>
   
   <!-- EN: Enter {0} -->
-  <EnterPortal>TODO</EnterPortal>
+  <EnterPortal>Téigh isteach</EnterPortal>
   <!-- EN: Entering {0} -->
-  <EnteringPortal>TODO</EnteringPortal>
+  <EnteringPortal>Ag dul isteach</EnteringPortal>
   <!-- EN: Enter {0} -->
-  <CommandEnterPortal>TODO</CommandEnterPortal>
+  <CommandEnterPortal>Téigh isteach</CommandEnterPortal>
   <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>TODO</CommandEnterPortalDesc>
+  <CommandEnterPortalDesc>Roghnaigh daoine agus earraí agus téigh isteach.</CommandEnterPortalDesc>
   <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>TODO</CommandCancelEnterPortal>
+  <CommandCancelEnterPortal>Cealaigh</CommandCancelEnterPortal>
   <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>TODO</CommandCancelEnterPortalDesc>
+  <CommandCancelEnterPortalDesc>Cuir stop le daoine nó earraí a lódáil.</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
-  <EnterCryptosleepCasket>Betritt Kryptoschlafkapsel</EnterCryptosleepCasket>
+  <EnterCryptosleepCasket>Téigh isteach sa phod criptea-chodlata</EnterCryptosleepCasket>
   <!-- EN: Open cryptosleep casket -->
-  <OpenCryptosleepCasket>Öffne Kryptoschlafkapsel</OpenCryptosleepCasket>
+  <OpenCryptosleepCasket>Oscail an pod criptea-chodlata</OpenCryptosleepCasket>
   <!-- EN: Get in shuttle -->
-  <EnterShuttle>Betritt Shuttle</EnterShuttle>
+  <EnterShuttle>Téigh ar bord an tointeálaí</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
+  <!-- GA: I have not tested this yet but I assume it won't work without some modification -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Kann {1} nicht {0}</CannotGenericWork>
+  <CannotGenericWork>Ní féidir {1} {0}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
-  <CannotGenericWorkCustom>Kann nicht {0}</CannotGenericWorkCustom>
+  <CannotGenericWorkCustom>Ní féidir {0}</CannotGenericWorkCustom>
 
   <!-- EN: Cannot prioritize: Incapable of {0} -->
-  <CannotMissingHealthActivities>Priorisieren unmöglich: Kann nicht {0}</CannotMissingHealthActivities>
+  <CannotMissingHealthActivities>Ní féidir: Ní féidir leis an duine seo {0}</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
+  <!-- GA: I have not tested this yet but I assume it won't work without some modification -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>{0} {2_labelShort} erfolgt bereits</CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>TODO</CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
-  <CannotGenericAlreadyAmCustom>{replace: {0}^; " im^"-""; "^"-""} erfolgt bereits</CannotGenericAlreadyAmCustom>
+  <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
 
   <!-- EN: Cannot prioritize: Will never do {0} -->
-  <CannotPrioritizeWorkTypeDisabled>Priorisieren unmöglich: Verweigert {0}</CannotPrioritizeWorkTypeDisabled>
+  <CannotPrioritizeWorkTypeDisabled>Ní féidir: Ní dhéanfaidh an duine seo "{0}" riamh</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
-  <MissingTitleAbility>notwendiger Titel fehlt</MissingTitleAbility>
+  <MissingTitleAbility>tá an teideal ceart de dhíth</MissingTitleAbility>
 
   <!-- EN: Cannot prioritize: Will never {0} -->
-  <CannotPrioritizeWorkGiverDisabled>Priorisieren unmöglich: Will nicht {0}</CannotPrioritizeWorkGiverDisabled>
+  <CannotPrioritizeWorkGiverDisabled>Ní féidir: Ní dhéanfaidh an duine seo "{0}" riamh</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
-  <WillNever>will nicht {0}</WillNever>
+  <WillNever>ní dhéanfaidh an duine seo "{0}" riamh</WillNever>
 
   <!-- EN: Cannot prioritize: Not assigned to {0} -->
-  <CannotPrioritizeNotAssignedToWorkType>Priorisieren unmöglich: Nicht für {0} zugeteilt</CannotPrioritizeNotAssignedToWorkType>
+  <CannotPrioritizeNotAssignedToWorkType>Ní féidir: Níl an duine seo sannta do "{0}"</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
-  <NotAssigned>nicht zugeteilt</NotAssigned>
+  <NotAssigned>níl an obair seo sannta ar an duine seo</NotAssigned>
   <!-- EN: not assigned to {0} -->
-  <NotAssignedToWorkType>nicht für {0} zugeteilt</NotAssignedToWorkType>
+  <NotAssignedToWorkType>Níl "{0}" sannta ar an duine seo</NotAssignedToWorkType>
 
   <!-- EN: Cannot prioritize: Research is a long-term task -->
-  <CannotPrioritizeResearch>Priorisieren unmöglich: Forschen erfolgt langfristig</CannotPrioritizeResearch>
+  <CannotPrioritizeResearch>Ní féidir: Is obair fhadtéarmach é taighde</CannotPrioritizeResearch>
 
   <!-- EN: Cannot prioritize: {1_label} is forbidden -->
-  <CannotPrioritizeForbidden>Priorisieren unmöglich: {1_label} ist verboten</CannotPrioritizeForbidden>
+  <CannotPrioritizeForbidden>Ní féidir: Tá {1_label} dícheadaithe</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->
-  <CannotPrioritizeCellForbidden>Priorisieren unmöglich: Verboten</CannotPrioritizeCellForbidden>
+  <CannotPrioritizeCellForbidden>Ní féidir: Tá seo dícheadaithe</CannotPrioritizeCellForbidden>
   <!-- EN: Outside allowed area -->
-  <CannotPrioritizeForbiddenOutsideAllowedArea>Außerhalb erlaubten Gebiets</CannotPrioritizeForbiddenOutsideAllowedArea>
+  <CannotPrioritizeForbiddenOutsideAllowedArea>Lasmuigh den zón ceadaithe</CannotPrioritizeForbiddenOutsideAllowedArea>
   <!-- EN: Cannot prioritize burying -->
-  <CannotPrioritizeBurying>Priorisiere Beerdigen unmöglich</CannotPrioritizeBurying>
+  <CannotPrioritizeBurying>Ní féidir tús áite a thabhairt don jab seo</CannotPrioritizeBurying>
 
   <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>Priorisiere {0} {1}</PrioritizeGeneric>
+  <PrioritizeGeneric>TODO</PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
-  <DropAtEdge>Lande am Rand</DropAtEdge>
+  <DropAtEdge>Leaindáil ag an taobh</DropAtEdge>
   <!-- EN: Drop in center -->
-  <DropInCenter>Lande in Mitte</DropInCenter>
+  <DropInCenter>Leaindeáil sa lár</DropInCenter>
   <!-- EN: Attack {0} -->
-  <AttackShuttle>Attackiere {0}</AttackShuttle>
+  <AttackShuttle>Ionsaigh {0}</AttackShuttle>
   <!-- EN: Attack {0}: Drop at edge -->
-  <AttackAndDropAtEdge>Attackiere {0}: Lande am Rand</AttackAndDropAtEdge>
+  <AttackAndDropAtEdge>Ionsaigh {0}: Leaindeáil ag an taobh</AttackAndDropAtEdge>
   <!-- EN: Attack {0}: Drop in center -->
-  <AttackAndDropInCenter>Attackiere {0}: Lande in Mitte</AttackAndDropInCenter>
+  <AttackAndDropInCenter>Ionsaigh {0}: Leaindeáil sa lár</AttackAndDropInCenter>
   
   <!-- EN: vomiting -->
-  <VomitingLower>übergibt sich</VomitingLower>
+  <VomitingLower>ag fáil tinn</VomitingLower>
   <!-- EN: not interruptible -->
-  <NotInterruptibleLower>kann nicht unterbrochen werden</NotInterruptibleLower>
+  <NotInterruptibleLower>ní féidir cur isteach ar an aicsin seo</NotInterruptibleLower>
   
   <!-- EN: Add a new waypoint here -->
-  <AddWaypoint>Platziere einen neuen Wegpunkt</AddWaypoint>
+  <AddWaypoint>Cruthaigh treoirphointe nua anseo</AddWaypoint>
   <!-- EN: Remove this waypoint -->
-  <RemoveWaypoint>Entferne den Wegpunkt</RemoveWaypoint>
+  <RemoveWaypoint>Bain an treoirphointe seo</RemoveWaypoint>
 
   <!-- EN: Cancel all designations -->
-  <RemoveAllDesignations>Alle Befehle abbrechen</RemoveAllDesignations>
+  <RemoveAllDesignations>Díroghnaigh gach rud</RemoveAllDesignations>
   <!-- EN: Designate all -->
-  <DesignateAll>Alles markieren</DesignateAll>
+  <DesignateAll>Roghnaigh gach rud</DesignateAll>
   <!-- EN: {0} affected -->
-  <CountToDesignate>{0} betroffen</CountToDesignate>
+  <CountToDesignate>athraíodh {0} rud</CountToDesignate>
   <!-- EN: Forbid all items -->
-  <ForbidAllItems>Alle Objekte verbieten</ForbidAllItems>
+  <ForbidAllItems>Dícheadaigh gach rud</ForbidAllItems>
   <!-- EN: Unforbid all items -->
-  <UnforbidAllItems>Alle Objekte erlauben</UnforbidAllItems>
+  <UnforbidAllItems>Ceadaigh gach rud</UnforbidAllItems>
 
   <!-- Transport pods -->
   <!-- EN: Zoom in and choose a landing spot in {0} -->
-  <LandInExistingMap>Zoome rein und wähle einen Landeplatz in {0}</LandInExistingMap>
+  <LandInExistingMap>Zúmáil isteach agus roghnaigh láthair tuirlingthe ag {0}</LandInExistingMap>
   <!-- EN: The contents will be lost -->
-  <TransportPodsContentsWillBeLost>Der Inhalt wird verloren gehen</TransportPodsContentsWillBeLost>
+  <TransportPodsContentsWillBeLost>Caillfear gach rud sa phod iompair</TransportPodsContentsWillBeLost>
   <!-- EN: Form caravan here -->
-  <FormCaravanHere>Hier Karawane formieren</FormCaravanHere>
+  <FormCaravanHere>Cruthaigh carbhán anseo</FormCaravanHere>
   <!-- EN: Give to {0} -->
-  <GiveToCaravan>Übergib Waren an {0}</GiveToCaravan>
+  <GiveToCaravan>Tabhair chuig {0}</GiveToCaravan>
   <!-- EN: Give as a gift to {0} ({1}) -->
-  <GiveGiftViaTransportPods>Verschenke Waren an {0} ({1})</GiveGiftViaTransportPods>
+  <GiveGiftViaTransportPods>Tabhair mar bhronntanas do {0} ({1})</GiveGiftViaTransportPods>
   <!-- EN: Not part of launch group -->
-  <NotPartOfLaunchGroup>Gehört nicht zur Startgruppe</NotPartOfLaunchGroup>
+  <NotPartOfLaunchGroup>Níl an rud seo mar chuid de ghrúpa láinseála</NotPartOfLaunchGroup>
 
   <!-- Rescue quest -->
   <!-- EN: Free prisoner -->
-  <FreePrisoner>Befreie den Gefangenen</FreePrisoner>
+  <FreePrisoner>Scaoil saor príosúnach</FreePrisoner>
   <!-- EN: Offer help -->
-  <OfferHelp>Biete Hilfe an</OfferHelp>
+  <OfferHelp>Cuidigh</OfferHelp>
 
   <!-- EN: apply {0} -->
-  <ApplyTechprint>benutze {0}</ApplyTechprint>
+  <ApplyTechprint>cur {0} i bhfeidhm</ApplyTechprint>
 
   <!-- EN: Too dangerous -->
-  <EnterCooldownBlocksEntering>Zu gefährlich</EnterCooldownBlocksEntering>
+  <EnterCooldownBlocksEntering>Tá sé ródháinséarach</EnterCooldownBlocksEntering>
 
   <!-- CommsConsole -->
   <!-- EN: Nobody to call -->
-  <NoCommsTarget>Kann niemanden anfunken</NoCommsTarget>
+  <NoCommsTarget>Níl duine ar bith ar fáil</NoCommsTarget>
 
   <!-- EN: Invoke {0} -->
-  <Invoke>Beschwöre {0}</Invoke>
+  <Invoke>Agair {0}</Invoke>
   <!-- EN: Cannot invoke {0} -->
-  <CannotInvoke>Kann {0} nicht beschwören</CannotInvoke>
+  <CannotInvoke>Ní féidir {0} a agairt</CannotInvoke>
   <!-- EN: power -->
-  <Power>Kraft</Power>
+  <Power>cumhacht</Power>
   <!-- EN: already invoked -->
-  <AlreadyInvoked>schon beschworen</AlreadyInvoked>
+  <AlreadyInvoked>agraíodh é seo cheana féin</AlreadyInvoked>
 
   <!-- EN: Tend {0} -->
   <Tend>Cuir cóir leighis ar "{0}"</Tend>
@@ -597,13 +599,13 @@
 
   <!-- Romance partner -->
   <!-- EN: Cannot romance {0} -->
-  <CannotRomance>Kann {replace: {replace: {0}; "("-"nicht umwerben: "}; ")"-""}</CannotRomance>
+  <CannotRomance>Ní féidir cliúsaíocht a dhéanamh le {0}</CannotRomance>
   <!-- EN: Romance {0} -->
-  <CanRomance>Umwirb {0}</CanRomance>
+  <CanRomance>Déan cliúsaíocht le {0}</CanRomance>
 
   <!-- Feeding -->
   <!-- EN: disliked food -->
-  <WarningFoodDisliked>unbeliebte Nahrung</WarningFoodDisliked>
+  <WarningFoodDisliked>ní thaitníonn an bia seo leis an duine seo</WarningFoodDisliked>
   <!-- EN: Unsuitable food -->
   <FoodNotSuitable>Níl an bia seo oiriúnach</FoodNotSuitable>
 

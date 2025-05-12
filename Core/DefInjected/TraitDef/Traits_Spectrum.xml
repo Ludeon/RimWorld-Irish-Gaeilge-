@@ -113,7 +113,7 @@
   <!-- EN: [PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena. -->
   <PsychicSensitivity.degreeDatas.psychically_dull.description>Tá [PAWN_nameDef] frithsheasmhach do fheiniméin shíceacha.</PsychicSensitivity.degreeDatas.psychically_dull.description>
   <!-- EN: psychically deaf -->
-  <PsychicSensitivity.degreeDatas.psychically_deaf.label>bodhaire shíceach</PsychicSensitivity.degreeDatas.psychically_deaf.label>
+  <PsychicSensitivity.degreeDatas.psychically_deaf.label>bodhar roimh éifeachtaí síceacha</PsychicSensitivity.degreeDatas.psychically_deaf.label>
   <!-- EN: [PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena. -->
   <PsychicSensitivity.degreeDatas.psychically_deaf.description>Ní bhíonn aon éifeacht ag feiniméin shíceacha ar [PAWN_nameDef].</PsychicSensitivity.degreeDatas.psychically_deaf.description>
   

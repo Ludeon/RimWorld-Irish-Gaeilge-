@@ -15,7 +15,7 @@
   <!-- EN: In prison cell: For prisoner use -->
   <InPrisonCell>I gcillín príosúin (do phriosúnaigh)</InPrisonCell>
   <!-- EN: For colonist use -->
-  <ForColonistUse>Le húsáid ag coilínigh</ForColonistUse>
+  <ForColonistUse>Do choilínigh</ForColonistUse>
   <!-- EN: Medical -->
   <MedicalBed>Leigheas</MedicalBed>
   <!-- EN: Owner -->
@@ -31,7 +31,7 @@
   <!-- EN: Died on the {0} -->
   <DiedOn>Básaíodh ar an {0}</DiedOn>
   <!-- EN: Nobody -->
-  <Nobody>Personne</Nobody>
+  <Nobody>Duine ar bith</Nobody>
   <!-- EN: Unowned -->
   <Unowned>Gan úinéir</Unowned>
   <!-- EN: Dead for {0} -->
@@ -41,15 +41,15 @@
   <!-- EN: fert. -->
   <FertShort>toirch.</FertShort>
   <!-- EN: dying -->
-  <DyingLower>tí báis</DyingLower>
+  <DyingLower>ag fáil báis</DyingLower>
   <!-- EN: Filth on feet: -->
   <FilthOnFeet>Cosa salacha:</FilthOnFeet>
   <!-- EN: not enough stored -->
   <NotEnoughStoredLower>níl dóthan sa stóras</NotEnoughStoredLower>
   <!-- EN: nothing -->
-  <NothingLower>faic</NothingLower>
+  <NothingLower>rud ar bith</NothingLower>
   <!-- EN: Nothing -->
-  <Nothing>Faic</Nothing>
+  <Nothing>Rud ar bith</Nothing>
   <!-- EN: Adapted -->
   <Adapted>Curtha in oiriúint</Adapted>
   <!-- EN: fresh -->
@@ -1807,15 +1807,15 @@
   <RitualOutcomeNoQuality>Bei diesem Ritual gibt es keine qualitativen Abweichungen, weshalb immer das beste Ergebnis zu erwarten ist</RitualOutcomeNoQuality>
 
   <!-- EN: Begin -->
-  <Begin>Starten</Begin>
+  <Begin>Tosaigh</Begin>
   <!-- EN: Begin {0} -->
-  <BeginRitual>Starte {0}</BeginRitual>
+  <BeginRitual>Tosaigh {0}</BeginRitual>
   <!-- EN: Begin {0} for {1} -->
-  <BeginRitualFor>Starte {0} für {1}</BeginRitualFor>
+  <BeginRitualFor>Tosaigh {0} i gcomhair {1}</BeginRitualFor>
   <!-- EN: {0} (out of {1}) -->
-  <QualityOutOf>{0} (von {1})</QualityOutOf>
+  <QualityOutOf>{0} (as {1})</QualityOutOf>
   <!-- EN: {0} is a date-specific ritual. You'll be able to start it in {1}, on the {2}. -->
-  <DateRitualNoObligation>{0} ist ein Ritual, das an einem bestimmten Datum stattfindet. Du kannst es in (*DateTime){replace: {1}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) starten, am {2}.</DateRitualNoObligation>
+  <DateRitualNoObligation>Ní mór {0} a dhéanamh ar dháta ar leith. Beidh tú in ann tús a chur leis i gceann {1}, ar an {2}.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
   <PreceptReplaceWith>Remplacer par</PreceptReplaceWith>
@@ -1851,130 +1851,130 @@
   <StartingRitualQuality>{0} Startqualität</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
-  <OutcomeBonusDesc_Quality>bis zu {0} Qualität</OutcomeBonusDesc_Quality>
+  <OutcomeBonusDesc_Quality>suas le cáilíocht {0}</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
-  <OutcomeBonusDesc_QualitySingleOffset>{0} Qualität</OutcomeBonusDesc_QualitySingleOffset>
+  <OutcomeBonusDesc_QualitySingleOffset>cáilíocht {0}</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
   <OutcomeLetterLabel>{lookup: {OUTCOMELABEL}es Ritual: {RITUALLABEL}; ritual}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
-  <MaxValue>{0} max</MaxValue>
+  <MaxValue>{0} uasta</MaxValue>
 
   <!-- EN: {0} of -->
-  <ThingOf>{0} von</ThingOf>
+  <ThingOf>{0} as</ThingOf>
   <!-- EN: {0} of {1} -->
-  <ThingOfSource>{0} von {1}</ThingOfSource>
+  <ThingOfSource>{0} as {1}</ThingOfSource>
   <!-- EN: {0} of {1} and {2} -->
-  <ThingOfTwoSources>{0} von {1} und {2}</ThingOfTwoSources>
+  <ThingOfTwoSources>{0} as {1} agus {2}</ThingOfTwoSources>
 
   <!-- Gas types -->
   <!-- EN: blind smoke -->
-  <BlindSmoke>Blendrauch</BlindSmoke>
+  <BlindSmoke>deatach dallta</BlindSmoke>
   <!-- EN: tox gas -->
-  <ToxGas>Giftgas</ToxGas>
+  <ToxGas>gás tocsaineach</ToxGas>
   <!-- EN: rot stink -->
-  <RotStink>Verwesungsgeruch</RotStink>
+  <RotStink>gás bréantais</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>TODO</DeadlifeDust>
+  <DeadlifeDust>deannach marfach</DeadlifeDust>
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
-  <AbilityDisabledUndrafted>muss im Kampfmodus sein.</AbilityDisabledUndrafted>
+  <AbilityDisabledUndrafted>ní mór an coilíneach seo a dhréachtú.</AbilityDisabledUndrafted>
   <!-- EN: ability on cooldown. It will be available in {0}. -->
-  <AbilityOnCooldown>Fähigkeit klingt gerade ab. Sie ist in (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) wieder einsatzbereit.</AbilityOnCooldown>
+  <AbilityOnCooldown>Tá an cumas seo ar feitheamh. Beidh sé réidh arís i gceann {0}.</AbilityOnCooldown>
   <!-- EN: ability out of charges. -->
-  <AbilityNoCharges>TODO</AbilityNoCharges>
+  <AbilityNoCharges>tá an cumas seo ídithe</AbilityNoCharges>
   <!-- EN: ability already queued. -->
-  <AbilityAlreadyQueued>Fähigkeit bereits in der Warteschlange.</AbilityAlreadyQueued>
+  <AbilityAlreadyQueued>tá an cumas seo sa chiú cheana</AbilityAlreadyQueued>
   <!-- EN: Ability ready for {PAWN_nameDef}: {0} -->
-  <AbilityReadyLabel>Fähigkeit bereit: {0}</AbilityReadyLabel>
+  <AbilityReadyLabel>Cumas réidh: {0}</AbilityReadyLabel>
   <!-- EN: Abilities ready for {PAWN_nameDef}: {0} -->
-  <AbilitiesReadyLabel>TODO</AbilitiesReadyLabel>
+  <AbilitiesReadyLabel>Cumas réidh: {0}</AbilitiesReadyLabel>
   <!-- EN: {0_nameDef} is ready to use {1}. -->
-  <AbilityReadyText>{0_nameDef} ist bereit, {1} zu verwenden.</AbilityReadyText>
+  <AbilityReadyText>Tá {0_nameDef} réidh "{1}"" a úsáid.</AbilityReadyText>
   <!-- EN: {0_labelShort} is participating in {1}. -->
-  <AbilityDisabledInRitual>{0_labelShort} nimmt gerade an '{1}' teil.</AbilityDisabledInRitual>
+  <AbilityDisabledInRitual>Tá {0_labelShort} páirteach i '{1}'.</AbilityDisabledInRitual>
   <!-- EN: Charges -->
   <Charges>Ladungen</Charges>
 
   <!-- EN: {0_nameDef} is in a mental state. -->
-  <PawnIsInMentalState>{0_nameDef} hat einen aggressiven Nervenzusammenbruch.</PawnIsInMentalState>
+  <PawnIsInMentalState>Tá cliseadh néarógach ar {0_nameDef}.</PawnIsInMentalState>
   <!-- EN: {0_nameDef} is in an aggressive mental state. -->
-  <PawnIsInAggroMentalState>TODO</PawnIsInAggroMentalState>
+  <PawnIsInAggroMentalState>Tá  {0_nameDef} trodach.</PawnIsInAggroMentalState>
 
   <!-- EN: Disabled work -->
-  <DisabledWorkLabel>Deaktivierte Arbeiten</DisabledWorkLabel>
+  <DisabledWorkLabel>Obair díchumasaithe</DisabledWorkLabel>
   <!-- EN: Disabled needs -->
-  <DisabledNeedsLabel>TODO</DisabledNeedsLabel>
+  <DisabledNeedsLabel>Riachtanais díchumasaithe</DisabledNeedsLabel>
 
   <!-- Glowers -->
   <!-- EN: change color -->
-  <GlowerChangeColor>Lichtfarbe ändern</GlowerChangeColor>
+  <GlowerChangeColor>athraigh dath</GlowerChangeColor>
   <!-- EN: Change the color of the light. -->
-  <GlowerChangeColorDescription>Ändere die Farbe des Lichts.</GlowerChangeColorDescription>
+  <GlowerChangeColorDescription>Athraigh dath an tsolais.</GlowerChangeColorDescription>
   <!-- EN: You must research {0} to change light color. -->
-  <GlowerChangeColorNeedsResearch>Zum Ändern der Lichtfarbe muss zunächst '{0}' erforscht werden.</GlowerChangeColorNeedsResearch>
+  <GlowerChangeColorNeedsResearch>Ní mór duit an tionscadal taighde '{0}' a chríochnu chun dathanna soilse a athrú.</GlowerChangeColorNeedsResearch>
 
   <!-- Shields -->
   <!-- EN: A personal shield that will attempt to stop incoming projectiles or shrapnel. It prevents the wearer from firing out, and shuts down instantly if hit by an EMP. -->
-  <ShieldPersonalTip>Ein persönlicher Schild, der versucht, ankommende Projektile oder Sprengkörper zu stoppen. Er verhindert, dass der Benutzer rausschießen kann, und schaltet sich sofort ab, wenn er einem elektromagnetischen Impuls (EMP) ausgesetzt wird.</ShieldPersonalTip>
+  <ShieldPersonalTip>Leis an gcrios cosanta seo, cuirfear bac ar urchair nó srapnal. Ní féidir leis an úsáideoir scaoileadh amach tríd an gcrios cosanta, agus teipfidh air láithreach má bhuaileann EMP é.</ShieldPersonalTip>
 
   <!-- EN: {PAWN_nameDef} is so loyal to {PAWN_possessive} home that {PAWN_pronoun} will refuse to be recruited if taken prisoner. -->
-  <UnrecruitableDesc>{PAWN_nameDef} hat {PAWN_possessive}er Heimat absolute Treue geschworen und wird als {PAWN_gender ? Gefangener : Gefangene} jegliche Rekrutierungsversuche abschmettern.</UnrecruitableDesc>
+  <UnrecruitableDesc>Ní bheidh tú in ann {PAWN_nameDef} toisc go bhfuil {PAWN_pronoun} chomh dílis sin dá b{PAWN_possessive}aile.</UnrecruitableDesc>
 
   <!-- EN: Random -->
-  <Random>Zufällig</Random>
+  <Random>Randamach</Random>
 
   <!-- EN: Plant {0_label} -->
-  <PlantThing>{0_label} einpflanzen</PlantThing>
+  <PlantThing>Cuir {0_label}</PlantThing>
   <!-- EN: Plant a {0_label} in a chosen area. -->
-  <PlantThingDesc>Pflanze {0_gender ? einen : eine : ein} {0_label} an einem bestimmten Ort ein.</PlantThingDesc>
+  <PlantThingDesc>Cuir {0_label} i limistéar roghnaithe.</PlantThingDesc>
   <!-- EN: Cancel planting {0_label} -->
-  <CancelPlantThing>Einpflanzen abbrechen</CancelPlantThing>
+  <CancelPlantThing>Cealaigh</CancelPlantThing>
   <!-- EN: Cancel planting the {0_label}. -->
-  <CancelPlantThingDesc>Brich den Befehl ab, {0_gender ? einen : eine : ein} {0_label} einzupflanzen.</CancelPlantThingDesc>
+  <CancelPlantThingDesc>Cealaigh.</CancelPlantThingDesc>
 
   <!-- EN: another gathering is in progress. -->
-  <AbilitySpeechDisabledAnotherGatheringInProgress>eine andere Versammlung findet gerade statt.</AbilitySpeechDisabledAnotherGatheringInProgress>
+  <AbilitySpeechDisabledAnotherGatheringInProgress>tá tionól eile ar siúl cheana féin.</AbilitySpeechDisabledAnotherGatheringInProgress>
   <!-- EN: Next speech ready in -->
-  <AbilitySpeechCooldown>Nächste Rede möglich in</AbilitySpeechCooldown>
+  <AbilitySpeechCooldown>Réidh arís i gceann</AbilitySpeechCooldown>
   <!-- EN: Initiated at -->
-  <AbilitySpeechTargetsLabel>Mögliche Veranstaltungsorte</AbilitySpeechTargetsLabel>
+  <AbilitySpeechTargetsLabel>Tosaithe ag</AbilitySpeechTargetsLabel>
 
   <!-- Books -->
 
   <!-- EN: Benefits -->
-  <Benefits>TODO</Benefits>
+  <Benefits>Buntáistí</Benefits>
   <!-- EN: Dangers -->
-  <Dangers>TODO</Dangers>
+  <Dangers>Dáinséar</Dangers>
   <!-- EN: already unlocked -->
-  <AlreadyUnlocked>TODO</AlreadyUnlocked>
+  <AlreadyUnlocked>bainte amach cheana féin</AlreadyUnlocked>
   <!-- EN: when discovered -->
-  <WhenDiscovered>TODO</WhenDiscovered>
+  <WhenDiscovered>nuair a aimseofar é</WhenDiscovered>
 
   <!-- EN: Was driven into a mental break after reading {0}. -->
   <BookMentalBreakMessage>TODO</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
-  <BookReadProgress>TODO</BookReadProgress>
+  <BookReadProgress>{0} críochnaithe (ag críochnú i gceann {1} uair an chloig)</BookReadProgress>
 
   <!-- EN: learning speed -->
-  <BookLearningModifier>TODO</BookLearningModifier>
+  <BookLearningModifier>luas foghlama</BookLearningModifier>
   <!-- EN: Mental break chance -->
-  <BookMentalBreak>TODO</BookMentalBreak>
+  <BookMentalBreak>dóchúlacht: cliseadh néarógach</BookMentalBreak>
 
   <!-- EN: {BOOK_labelShort} is not readable -->
-  <BookNotReadable>TODO</BookNotReadable>
+  <BookNotReadable>Ní féidir {BOOK_labelShort} a léamh</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
-  <BookCantRead>TODO</BookCantRead>
+  <BookCantRead>Níl {PAWN_nameDef} in ann léamh</BookCantRead>
   <!-- EN: {PAWN_nameDef} must be a {STAGES} -->
-  <BookCantBeStage>TODO</BookCantBeStage>
+  <BookCantBeStage>Ní {PAWN_nameDef} in ann léamh</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
-  <BookBlind>TODO</BookBlind>
+  <BookBlind>Tá {PAWN_nameDef} dall</BookBlind>
 
   <!-- EN: max level {0} -->
-  <BookMaxLevel>TODO</BookMaxLevel>
+  <BookMaxLevel>uasleibhéal {0}</BookMaxLevel>
 
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
-  <ReadingReportHeader>TODO</ReadingReportHeader>
+  <ReadingReportHeader>Ag léamh {0}: {1} críochnaithe (ag críochnú i gceann {2} uair an chloig)</ReadingReportHeader>
 
   <!-- EN: Assign reading -->
   <ReadingDialogTitle>TODO</ReadingDialogTitle>
@@ -1984,33 +1984,33 @@
   <ReadingAssign>TODO</ReadingAssign>
 
   <!-- EN: The books currently on this bookshelf. -->
-  <ContainedBooksDesc>TODO</ContainedBooksDesc>
+  <ContainedBooksDesc>Na leabhair atá ar an seilf seo faoi láthair.</ContainedBooksDesc>
 
   <!-- EN: Books stored -->
-  <BookshelfStoredInspect>TODO</BookshelfStoredInspect>
+  <BookshelfStoredInspect>An líon leabhar ar an seilf</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
-  <BookshelfReadingBonusInspect>TODO</BookshelfReadingBonusInspect>
+  <BookshelfReadingBonusInspect>Bónas léitheoireachta sa seomra</BookshelfReadingBonusInspect>
 
   <!-- EN: Remove this book from the bookshelf. -->
-  <EjectBookTooltip>TODO</EjectBookTooltip>
+  <EjectBookTooltip>Tóg an leabhar seo ón seilf</EjectBookTooltip>
 
   <!-- Pushing -->
   <!-- EN: Push to... -->
-  <CommandPushTo>TODO</CommandPushTo>
+  <CommandPushTo>Brúigh chuig...</CommandPushTo>
   <!-- EN: requires {0} -->
-  <RequiredCapacity>TODO</RequiredCapacity>
+  <RequiredCapacity>tá {0} de dhíth</RequiredCapacity>
 
   <!-- EN: Unable to enter {0}, destination is blocked -->
-  <UnableToEnterPortal>TODO</UnableToEnterPortal>
+  <UnableToEnterPortal>Níor féidir dul isteach, tá an ceann scríbe blocáilte.</UnableToEnterPortal>
 
   <!-- EN: This category of research has not been discovered. -->
-  <ResearchNotDiscovered>TODO</ResearchNotDiscovered>
+  <ResearchNotDiscovered>Níor baineadh amach an leibhéal taighde seo go fóill.</ResearchNotDiscovered>
 
   <!-- EN: Emergence -->
   <Emergence>TODO</Emergence>
 
   <!-- EN: remove {0} -->
-  <RemovePart>TODO</RemovePart>
+  <RemovePart>bain {0}</RemovePart>
 
   <!-- EN: {GERUND} {TARGETLABEL} at -->
   <DoWorkAtThing>TODO</DoWorkAtThing>
@@ -2018,7 +2018,7 @@
   <CanBeStudiedInDuration>TODO</CanBeStudiedInDuration>
 
   <!-- EN: About to explode -->
-  <AboutToExplode>TODO</AboutToExplode>
+  <AboutToExplode>ar tí pléascadh</AboutToExplode>
 
   <!-- EN: New Anomaly expansion available now! -->
   <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
@@ -2027,7 +2027,7 @@
   <DisabledByScenario>TODO</DisabledByScenario>
 
   <!-- EN: blocked by roof -->
-  <BlockedByRoof>bloqué par un toit</BlockedByRoof>
+  <BlockedByRoof>tá díon sa bhealach</BlockedByRoof>
 
   <!-- UNUSED -->
   <RadiusExpandRate>Ráta leathnaithe an gha</RadiusExpandRate>
