@@ -2,43 +2,43 @@
 <LanguageData>
 
   <!-- EN: Sieging {0} from {1} are assaulting the colony. -->
-  <MessageSiegersAssaulting>Belagernde {0} der Fraktion '{1}' greifen die Kolonie an.</MessageSiegersAssaulting>
+  <MessageSiegersAssaulting>Tá tús curtha ag ruathairí ón bhfaicsean '{1}' le léigear.</MessageSiegersAssaulting>
 
   <!-- EN: {0} from {1} are beginning their assault. -->
-  <MessageRaidersBeginningAssault>{0} der Fraktion '{1}' starten ihren Angriff.</MessageRaidersBeginningAssault>
+  <MessageRaidersBeginningAssault>Tá tús curtha ag ruathairí ón bhfaicsean '{1}' lena n-ionsaí.</MessageRaidersBeginningAssault>
   <!-- EN: {0} from {1} have detected you and begun their assault early. -->
-  <MessageRaidersDetectedEarlyAssault>{0} der Fraktion '{1}' haben dich entdeckt und starten frühzeitig ihren Angriff.</MessageRaidersDetectedEarlyAssault>
+  <MessageRaidersDetectedEarlyAssault>Chonaic ruathairí ón bhfaicsean '{1}' do choilínigh, agus chinn siad tús luath a chur lena n-iosaí.</MessageRaidersDetectedEarlyAssault>
   <!-- EN: {0} from {1} have decided to kidnap who they can and leave. -->
-  <MessageRaidersKidnapping>{0} der Fraktion '{1}' haben beschlossen, so viele wie möglich zu entführen und das Gebiet zu verlassen.</MessageRaidersKidnapping>
+  <MessageRaidersKidnapping>Tá sé i gceist ag ruathairí ón bhfaicsean '{1}' daoine a fhuadach agus imeacht ón gceantar.</MessageRaidersKidnapping>
   <!-- EN: {0} from {1} have decided to steal what they can and leave. -->
-  <MessageRaidersStealing>{0} der Fraktion '{1}' haben beschlossen, so viel wie möglich zu stehlen und das Gebiet zu verlassen.</MessageRaidersStealing>
+  <MessageRaidersStealing>Tá sé i gceist ag ruathairí ón bhfaicsean '{1}' do rudaí a ghoid agus imeacht ón gceantar.</MessageRaidersStealing>
 
   <!-- EN: The mechanoids sense no more targets and are moving on. -->
-  <MechanoidsMovingOn>TODO</MechanoidsMovingOn>
+  <MechanoidsMovingOn>Níor aimsigh na meicea-róbait aon duine eile, agus tá siad ag bogadh ar aghaidh.</MechanoidsMovingOn>
 
   <!-- EN: {0} from {1} have arrived and are attacking! More are on the way and will arrive in {2}. -->
-  <MessageCaravanDetectedRaidArrived>{0} der Fraktion '{1}' sind eingetroffen und greifen an! Weitere sind unterwegs und werden in {replace: {2}; "Tage"-"Tagen"; "Jahre"-"Jahren"} eintreffen.</MessageCaravanDetectedRaidArrived>
+  <MessageCaravanDetectedRaidArrived>Tá ruathairí ón bhfaicsean '{1}' tagtha, agus tá siad ag ionsú! Tá níos mó ar an mbealach, agus beidh siad anseo i gceann {2}.</MessageCaravanDetectedRaidArrived>
 
   <!-- EN: {0} from {1} are leaving. -->
-  <MessageRaidersLeaving>{0} der Fraktion '{1}' verlassen das Gebiet.</MessageRaidersLeaving>
+  <MessageRaidersLeaving>Tá ruathairí ón bhfaicsean '{1}' ag imeacht.</MessageRaidersLeaving>
   <!-- EN: {0} from {1} have given up and are leaving. -->
-  <MessageRaidersGivenUpLeaving>{0} der Fraktion '{1}' haben aufgegeben und verlassen das Gebiet.</MessageRaidersGivenUpLeaving>
+  <MessageRaidersGivenUpLeaving>Níor éirigh leis na ruathairí ón bhfaicsean '{1}', agus tá siad imeacht.</MessageRaidersGivenUpLeaving>
   <!-- EN: {0} from {1} are satisfied with the damage done and are leaving. -->
-  <MessageRaidersSatisfiedLeaving>{0} der Fraktion '{1}' sind mit dem angerichteten Schaden zufrieden und ziehen ab.</MessageRaidersSatisfiedLeaving>
+  <MessageRaidersSatisfiedLeaving>Tá na ruathairí ón bhfaicsean '{1}' sásta leis an damáiste a rinne siad, agus tá siad imeacht.</MessageRaidersSatisfiedLeaving>
 
   <!-- EN: {0} from {1} are fleeing. -->
-  <MessageFightersFleeing>{0} der Fraktion '{1}' fliehen.</MessageFightersFleeing>
+  <MessageFightersFleeing>Tá ruathairí ón bhfaicsean '{1}' ag teitheadh.</MessageFightersFleeing>
   <!-- EN: Friendly {0} from {1} are leaving. -->
-  <MessageFriendlyFightersLeaving>Freundliche {0} der Fraktion '{1}' verlassen das Gebiet.</MessageFriendlyFightersLeaving>
+  <MessageFriendlyFightersLeaving>Tá do chomhghuallaithe ón bhfaicsean '{1}' ag teitheadh.</MessageFriendlyFightersLeaving>
 
   <!-- EN: {0} from {1} are taking a wounded guest. -->
-  <MessageVisitorsTakingWounded>{0} der Fraktion '{1}' nehmen einen verwundeten Gast mit.</MessageVisitorsTakingWounded>
+  <MessageVisitorsTakingWounded>Tá cuairteoir gortaithe á fhuadach ag ruathairí ón bhfaicsean '{1}'.</MessageVisitorsTakingWounded>
   <!-- EN: {0} from {1} have been trapped and are digging out to escape. -->
-  <MessageVisitorsTrappedLeaving>{0} der Fraktion '{1}' wurden eingesperrt und graben sich jetzt frei, um zu entkommen.</MessageVisitorsTrappedLeaving>
+  <MessageVisitorsTrappedLeaving>Tá cuairteoirí ón bhfaicsean '{1}' sáinnithe, agus tá siad ag tochailt chun éalú.</MessageVisitorsTrappedLeaving>
   <!-- EN: {0} from {1} are leaving the map because of dangerous temperature. -->
-  <MessageVisitorsDangerousTemperature>{0} der Fraktion '{1}' verlassen das Gebiet aufgrund der gefährlichen Temperatur.</MessageVisitorsDangerousTemperature>
+  <MessageVisitorsDangerousTemperature>Tá cuairteoirí ón bhfaicsean '{1}' ag imeacht mar gheall ar theocht dáinséarach.</MessageVisitorsDangerousTemperature>
   <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
-  <MessageVisitorsAnomalousWeather>TODO</MessageVisitorsAnomalousWeather>
+  <MessageVisitorsAnomalousWeather>Tá cuairteoirí ón bhfaicsean '{1}' ag imeacht ón léarscáil mar gheall ar aimsir dháinséarach.</MessageVisitorsAnomalousWeather>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>{replace: {1_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {0} ist unwiederbringlich zerfallen.</MessageWornApparelDeterioratedAway>
