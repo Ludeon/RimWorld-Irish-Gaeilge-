@@ -790,13 +790,13 @@
   <!-- EN: Cannot order characters you do not control. -->
   <CannotOrderNonControlled>Ní féidir orduithe a thabhairt do charachtair nach bhfuil smacht agat orthu.</CannotOrderNonControlled>
   <!-- EN: {1_labelShort} is incapable of violence. -->
-  <IsIncapableOfViolence>Ní féidir le {1_labelShort} aon fhoréigean a dhéanamh.</IsIncapableOfViolence>
+  <IsIncapableOfViolence>Is fuath le {1_labelShort} foréigean.</IsIncapableOfViolence>
   <!-- EN: incapable of violence -->
-  <IsIncapableOfViolenceShort>ní féidir leis an duine seo aon fhoréigean a dhéanamh</IsIncapableOfViolenceShort>
+  <IsIncapableOfViolenceShort>is fuath leis an duine seo foréigean</IsIncapableOfViolenceShort>
   <!-- EN: {1_labelShort} is not drafted. -->
   <IsNotDrafted>Níl {1_labelShort} dréachtaithe.</IsNotDrafted>
   <!-- EN: {PAWN_nameDef} cannot use ranged weapons due to {PAWN_possessive} {APPAREL_label}. -->
-  <ApparelPreventsShooting>Ní féidir le {PAWN_nameDef} airm fhadraoin a úsáid toisc go bhfuil {PAWN_pronon} ag caitheamh: {APPAREL_label}.</ApparelPreventsShooting>
+  <ApparelPreventsShooting>Ní féidir le {PAWN_nameDef} airm fhadraoin a úsáid toisc go bhfuil {APPAREL_label} á chaitheamh ag {PAWN_nameDef}.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>Ní féidir seo a úsáid i {0}.</CannotUseReason_PocketMap>
 
@@ -984,9 +984,9 @@
   <!-- EN: Faction -->
   <Faction>Faicsean</Faction>
   <!-- EN: The faction {PAWN_labelShort} currently belongs to. -->
-  <FactionDesc>Die Fraktion, der {PAWN_labelShort} derzeit angehört.</FactionDesc>
+  <FactionDesc>An faicsean lena mbaineann {PAWN_labelShort} faoi láthair.</FactionDesc>
   <!-- EN: The faction {PAWN_labelShort} originally belongs to. -->
-  <ExtraFactionDesc>Die Fraktion, der {PAWN_nameDef} ursprünglich angehört.</ExtraFactionDesc>
+  <ExtraFactionDesc>An faicsean lenar bhain {PAWN_nameDef} roimhe seo.</ExtraFactionDesc>
   <!-- EN: Equipped -->
   <Equipped>Feistithe</Equipped>
   <!-- EN: nothing -->
@@ -994,27 +994,27 @@
   <!-- EN: Dead -->
   <Dead>Marbh</Dead>
   <!-- EN: Unconscious -->
-  <Unconscious>Bewusstlos</Unconscious>
+  <Unconscious>Neamhaireachtálach</Unconscious>
   <!-- EN: In shock due to pain -->
-  <PainShock>Unter Schock wegen Schmerzen</PainShock>
+  <PainShock>Suaite de bharr péine</PainShock>
   <!-- EN: Pain shock -->
-  <PainShockShort>Schmerzschock</PainShockShort>
+  <PainShockShort>Suaite</PainShockShort>
   <!-- EN: Incapacitated -->
-  <Incapacitated>Handlungsunfähig</Incapacitated>
+  <Incapacitated>Éagumasaithe</Incapacitated>
   <!-- EN: In restraints (slowed) -->
-  <InRestraints>Gefesselt (verlangsamt)</InRestraints>
+  <InRestraints>Srianta (mall)</InRestraints>
   <!-- EN: Carrying -->
-  <Carrying>Trägt</Carrying>
+  <Carrying>Ag iompar</Carrying>
   <!-- EN: Affected by: -->
-  <AffectedBy>Beeinflusst durch:</AffectedBy>
+  <AffectedBy>Faoi thionchar:</AffectedBy>
   <!-- EN: Queued -->
-  <Queued>Eingereiht</Queued>
+  <Queued>Ciúáilte</Queued>
   <!-- EN: State -->
-  <State>Status</State>
+  <State>Stádas</State>
   <!-- EN: stun -->
-  <StunLower>betäubt</StunLower>
+  <StunLower>stangadh</StunLower>
   <!-- EN: Slowed by damage -->
-  <SlowedByDamage>Verlangsamt durch Schaden</SlowedByDamage>
+  <SlowedByDamage>Moillithe de bharr damáiste</SlowedByDamage>
 
   <!-- Inspector general stuff -->
   <!-- EN: Select next thing in same square.\n\n(*SectionTitle)Shortcut key:(/SectionTitle) {0}\n\nYou can also do this by slowly clicking the same square again. -->
@@ -1032,133 +1032,133 @@
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower>von</OfLower>
+  <OfLower></OfLower>
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
-  <PowerNotConnected>Nicht am Stromnetz angeschlossen.</PowerNotConnected>
+  <PowerNotConnected>Níl an rud seo ceangailte le foinse cumhachta.</PowerNotConnected>
   <!-- EN: Grid excess: {0} W ({1} Wd stored) -->
-  <PowerConnectedRateStored>Stromnetz (überschüssig/gespeichert): {0} W / {1} Wd</PowerConnectedRateStored>
+  <PowerConnectedRateStored>Eangach cumhachta (in úsáid/stóráilte): {0} W / {1} Wd</PowerConnectedRateStored>
   <!-- EN: Power needed -->
-  <PowerNeeded>Leistungsbedarf</PowerNeeded>
+  <PowerNeeded>Cumhacht de dhíth</PowerNeeded>
   <!-- EN: Power output -->
-  <PowerOutput>Leistungsabgabe</PowerOutput>
+  <PowerOutput>Aschur cumhachta</PowerOutput>
   <!-- EN: {0} W when active -->
-  <PowerActiveNeeded>{0} W im Aktivzustand</PowerActiveNeeded>
+  <PowerActiveNeeded>{0} W</PowerActiveNeeded>
   <!-- EN: Stored -->
-  <PowerBatteryStored>Gespeichert</PowerBatteryStored>
+  <PowerBatteryStored>Stóráilte</PowerBatteryStored>
   <!-- EN: Efficiency -->
-  <PowerBatteryEfficiency>Effizienz</PowerBatteryEfficiency>
+  <PowerBatteryEfficiency>Éifeachtúlacht</PowerBatteryEfficiency>
   <!-- EN: Self-discharging -->
-  <SelfDischarging>Selbstentladung</SelfDischarging>
+  <SelfDischarging>Féin-luchtach</SelfDischarging>
 
   <!-- Temperature control -->
   <!-- EN: Target temperature -->
-  <TargetTemperature>Zieltemperatur</TargetTemperature>
+  <TargetTemperature>Sprioctheocht</TargetTemperature>
   <!-- EN: Current power use -->
-  <PowerConsumptionMode>Aktueller Stromverbrauch</PowerConsumptionMode>
+  <PowerConsumptionMode>Cumhacht reatha</PowerConsumptionMode>
   <!-- EN: high -->
-  <PowerConsumptionHigh>hoch</PowerConsumptionHigh>
+  <PowerConsumptionHigh>ard</PowerConsumptionHigh>
   <!-- EN: low -->
-  <PowerConsumptionLow>niedrig</PowerConsumptionLow>
+  <PowerConsumptionLow>íseal</PowerConsumptionLow>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
-  <Indoors>Drinnen</Indoors>
+  <Indoors>Laistigh</Indoors>
   <!-- EN: Unroofed -->
-  <IndoorsUnroofed>Kein Dach</IndoorsUnroofed>
+  <IndoorsUnroofed>Gan díon</IndoorsUnroofed>
   <!-- EN: outdoors -->
-  <Outdoors>draußen</Outdoors>
+  <Outdoors>Lasmuigh</Outdoors>
 
   <!-- Rotting -->
   <!-- EN: Fresh -->
-  <RotStateFresh>Frisch</RotStateFresh>
+  <RotStateFresh>Úr</RotStateFresh>
   <!-- EN: Rotting -->
-  <RotStateRotting>Verrottet</RotStateRotting>
+  <RotStateRotting>Ag lobhadh</RotStateRotting>
   <!-- EN: Dessicated -->
-  <RotStateDessicated>Skelettiert</RotStateDessicated>
+  <RotStateDessicated>Triomaithe</RotStateDessicated>
   <!-- EN: Frozen -->
-  <CurrentlyFrozen>Tiefgekühlt (verdirbt nicht)</CurrentlyFrozen>
+  <CurrentlyFrozen>Reoite</CurrentlyFrozen>
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>Gekühlt (verdirbt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"})</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>Fuaraithe (ag dul in éag i gceann {0})</CurrentlyRefrigerated>
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>Ungekühlt (verdirbt in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"})</NotRefrigerated>
+  <NotRefrigerated>Neamhfhuaraithe (ag dul in éag i gceann {0})</NotRefrigerated>
   <!-- EN: over a decade -->
-  <OverADecade>über ein Jahrzehnt</OverADecade>
+  <OverADecade>níos mó ná 10 mbliana</OverADecade>
   <!-- EN: less than a day -->
-  <LessThanADay>weniger als einem Tag</LessThanADay>
+  <LessThanADay>níos lú ná lá</LessThanADay>
 
   <!-- Shooting tooltip -->
   <!-- EN: Shot by {1_labelShort} -->
-  <ShotBy>{replace: {1_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} Trefferchance</ShotBy>
+  <ShotBy>{1_labelShort} a scaoil</ShotBy>
   <!-- EN: Cannot hit target. -->
-  <CannotHit>Kann Ziel nicht treffen.</CannotHit>
+  <CannotHit>Ní féidir an targaid a aimisú.</CannotHit>
   <!-- EN: Manhunter chance per hit -->
-  <ManhunterPerHit>Rache-Chance pro Treffer</ManhunterPerHit>
+  <ManhunterPerHit>Manhunter chance per hit</ManhunterPerHit>
 
   <!-- Meal -->
   <!-- EN: Ingredients -->
-  <Ingredients>Zutaten</Ingredients>
+  <Ingredients>Comhábhair</Ingredients>
   <!-- EN: The ingredients used to make this meal. -->
-  <IngredientsDesc>Die Zutaten, mit denen diese Mahlzeit gekocht wird.</IngredientsDesc>
+  <IngredientsDesc>Na comhábhair a úsáidtear chun an béile seo a dhéanamh.</IngredientsDesc>
   <!-- EN: Dietary type -->
-  <DietaryType>Ernährungsweise</DietaryType>
+  <DietaryType>Cineál béile</DietaryType>
   <!-- EN: The type of meal produced. Some people have preferences for specific types of meals. -->
-  <DietaryTypeDesc>Die Art der produzierten Mahlzeit. Manche Menschen haben Vorlieben für bestimmte Arten von Mahlzeiten.</DietaryTypeDesc>
+  <DietaryTypeDesc>Cineál an bhéile. Bíonn roghanna éagsúla ag daoine éagsúla.</DietaryTypeDesc>
   <!-- EN: only stacks with similar meals -->
-  <OnlyStacksWithCompatibleMeals>nur stapelbar mit gleichen Zutaten</OnlyStacksWithCompatibleMeals>
+  <OnlyStacksWithCompatibleMeals>ní féidir an béile seo a chrochadh le béilí eile</OnlyStacksWithCompatibleMeals>
 
   <!-- Plants -->
   <!-- EN: {0} grown -->
-  <PercentGrowth>{0} gewachsen</PercentGrowth>
+  <PercentGrowth>{0} fásta</PercentGrowth>
   <!-- EN: Growth rate -->
-  <GrowthRate>Wachstumsrate</GrowthRate>
+  <GrowthRate>Ráta fáis</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
-  <FullyGrownIn>Ist in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"} ausgewachsen.</FullyGrownIn>
+  <FullyGrownIn>Beidha an planda seo iomlán fásta i gceann {0}.</FullyGrownIn>
   <!-- EN: Needs light level -->
-  <PlantNeedsLightLevel>Benötigte Lichtstärke</PlantNeedsLightLevel>
+  <PlantNeedsLightLevel>Leibhéal solais de dhíth:</PlantNeedsLightLevel>
   <!-- EN: Resting -->
-  <PlantResting>Ruht</PlantResting>
+  <PlantResting>Ag feitheamh</PlantResting>
   <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
-  <OutOfIdealTemperatureRange>Ungünstige Temperatur. Wachstumsmodifikator: {0}%</OutOfIdealTemperatureRange>
+  <OutOfIdealTemperatureRange>Teocht mhícheart. Cuirfear moill {0}% ar an bhfás</OutOfIdealTemperatureRange>
   <!-- EN: Non-ideal temperature. Not growing. -->
-  <OutOfIdealTemperatureRangeNotGrowing>Ungünstige Temperatur. Kein Wachstum.</OutOfIdealTemperatureRangeNotGrowing>
+  <OutOfIdealTemperatureRangeNotGrowing>Teocht mícheart. Níl an planda ag fás.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
-  <ReadyToHarvest>Bereit zum Ernten.</ReadyToHarvest>
+  <ReadyToHarvest>Réidh le baint.</ReadyToHarvest>
   <!-- EN: Mature. -->
-  <Mature>Ausgewachsen.</Mature>
+  <Mature>Fásta.</Mature>
   <!-- EN: Average plant age -->
-  <AveragePlantAge>Pflanzen-Durchschnittsalter</AveragePlantAge>
+  <AveragePlantAge>Meánaois na bplandaí</AveragePlantAge>
   <!-- EN: Oldest plant age -->
-  <OldestPlantAge>Alter der ältesten Pflanze</OldestPlantAge>
+  <OldestPlantAge>Aois an phlanda is sine</OldestPlantAge>
   <!-- EN: Growing period -->
   <OutdoorGrowingPeriod>Tréimhse fáis</OutdoorGrowingPeriod>
   <!-- EN: Never -->
-  <NoGrowingPeriod>Nie</NoGrowingPeriod>
+  <NoGrowingPeriod>Riamh</NoGrowingPeriod>
   <!-- EN: Year-round -->
-  <GrowYearRound>Ganzjährig</GrowYearRound>
+  <GrowYearRound>An bhliain uile</GrowYearRound>
   <!-- EN: Growing season here now. -->
-  <GrowSeasonHereNow>Anbausaison hat begonnen.</GrowSeasonHereNow>
+  <GrowSeasonHereNow>Tá sé ina shéasúr fáis anseo anois.</GrowSeasonHereNow>
   <!-- EN: Cannot grow (bad seasonal temperature). -->
-  <CannotGrowBadSeasonTemperature>Kann nicht wachsen (saisonal ungünstige Temperatur).</CannotGrowBadSeasonTemperature>
+  <CannotGrowBadSeasonTemperature>Ní féidir an planda seo a fhás (níl an séasúr ceart ann).</CannotGrowBadSeasonTemperature>
   <!-- EN: Blighted -->
-  <Blighted>Befallen</Blighted>
+  <Blighted>Smolta</Blighted>
   <!-- EN: Dying because exposed to light -->
-  <DyingBecauseExposedToLight>Stirbt durch Lichteinwirkung</DyingBecauseExposedToLight>
+  <DyingBecauseExposedToLight>Ag fáil báis mar gheall ar nochtadh ar solas</DyingBecauseExposedToLight>
   <!-- EN: Cut now -->
-  <AutoCutNow>Jetzt entfernen</AutoCutNow>
+  <AutoCutNow>Gearr anois</AutoCutNow>
   <!-- EN: harvesting -->
-  <HarvestGerund>Ernten von</HarvestGerund>
+  <HarvestGerund>ag baint</HarvestGerund>
   <!-- EN: cutting -->
-  <CutGerund>Entfernen von</CutGerund>
+  <CutGerund>ag gearradh</CutGerund>
   <!-- EN: Cut all blight -->
-  <CutAllBlight>Alle Pflanzen mit Fäulnis entfernen</CutAllBlight>
+  <CutAllBlight>Gearr plandaí smolta</CutAllBlight>
   <!-- EN: Mark all blighted plants to be destroyed. Blighted plants will not yield any food or resources and should be destroyed before the blight spreads. -->
-  <CutAllBlightDesc>Gib den Befehl, alle befallenen Pflanzen zu vernichten. Befallene Pflanzen liefern keine Nahrung oder Ressourcen und sollten vernichtet werden, bevor sich die Fäulnis weiter ausbreitet.</CutAllBlightDesc>
+  <CutAllBlightDesc>Scrios gach planda smolta. Ní fhásfaidh plandaí smolta, agus ní féidir aon bhia a bhaint uathu. Ba cheart iad a scriosadh sula scaipfidh an smol.</CutAllBlightDesc>
 
   <!-- Zones -->
   <!-- EN: Zone -->
-  <Zone>Zone</Zone>
+  <Zone>Zón</Zone>
   <!-- EN: Growing zone -->
   <GrowingZone>Zón plandaí</GrowingZone>
   <!-- EN: Stockpile zone -->
@@ -1184,169 +1184,169 @@
 
   <!-- ThingFilter -->
   <!-- EN: {0} hit points -->
-  <HitPoints>{0} Trefferpunkte</HitPoints>
+  <HitPoints>{0} pointe damáiste</HitPoints>
   <!-- EN: any quality -->
-  <AnyQuality>beliebige Qualität</AnyQuality>
+  <AnyQuality>aon cháilíocht</AnyQuality>
   <!-- EN: {0} only -->
-  <OnlyQuality>nur {0}</OnlyQuality>
+  <OnlyQuality>{0} amháin</OnlyQuality>
 
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
-  <Undiscovered>Unentdeckt</Undiscovered>
+  <Undiscovered>Ceilte</Undiscovered>
 
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSterilizeConfirm>TODO</AnimalSterilizeConfirm>
+  <AnimalSterilizeConfirm>An bhfuil tú cinnte go bhfuil tú ag iarraidh {PAWN_nameDef} a steiriliú? Ní bheidh an faicsean '{FACTION_name}' sásta.</AnimalSterilizeConfirm>
   <!-- EN: Are you sure you want to slaughter {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalSlaughterConfirm>TODO</AnimalSlaughterConfirm>
+  <AnimalSlaughterConfirm>An bhfuil tú cinnte go bhfuil tú ag iarraidh {PAWN_nameDef} a mharú? Ní bheidh an faicsean '{FACTION_name}' sásta.</AnimalSlaughterConfirm>
   <!-- EN: Are you sure you want to release {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
-  <AnimalReleaseConfirm>TODO</AnimalReleaseConfirm>
+  <AnimalReleaseConfirm>An bhfuil tú cinnte go bhfuil tú ag iarraidh {PAWN_nameDef} a scaoileadh saor? Ní bheidh an faicsean '{FACTION_name}' sásta.</AnimalReleaseConfirm>
 
   <!-- Buttons -->
   <!-- EN: Toggle visibility of the learning helper when it is empty.\n\nThe learning helper is always visible if there is a concept activated to be learned. This toggle makes it disappear when no concept is active. -->
-  <ShowLearningHelperWhenEmptyToggleButton>Lernhilfe immer anzeigen\n\nIm eingeschalteten Zustand wird die Lernhilfe immer angezeigt.\n\nIm ausgeschalteten Zustand wird die Lernhilfe automatisch versteckt, wenn keine neuen Lernkonzepte aktiv sind.</ShowLearningHelperWhenEmptyToggleButton>
+  <ShowLearningHelperWhenEmptyToggleButton>Taispeáin na nótaí cúnta nuair atá siad folamh\n\nTaispeánfar na nótaí cúnta i gcónaí nuair a bhíonn coincheap nua le foghlaim.\n\nMá roghnaítear an socrú seo, cuirfear na nótaí i bhfolach mura bhfuil aon rud nua sa liosta.</ShowLearningHelperWhenEmptyToggleButton>
   <!-- EN: Toggle visiblity of zones. -->
-  <ZoneVisibilityToggleButton>Zonen anzeigen\n\nIm eingeschalteten Zustand werden alle Zonen farblich hervorgehoben.</ZoneVisibilityToggleButton>
+  <ZoneVisibilityToggleButton>Taispáin zóin.</ZoneVisibilityToggleButton>
   <!-- EN: Toggle the beauty display.\n\nDisplays the beauty of the world as would be perceived by a character standing where the cursor is pointing. -->
-  <ShowBeautyToggleButton>Attraktivität anzeigen\n\nIm eingeschalteten Zustand wird die Attraktivität einiger Zellen um den Mauszeiger herum in Form von Zahlen angezeigt. Schönere Objekte erhöhen die Attraktivität.</ShowBeautyToggleButton>
+  <ShowBeautyToggleButton>Taispeáin áilleacht\n\nMá roghnaítear an socrú seo, taispeánfar áilleacht an domhain i bhforleagan timpeall ar an gcúrsóir.</ShowBeautyToggleButton>
   <!-- EN: Toggle room stats display.\n\nDisplays room stats of the room where the cursor is pointing. -->
-  <ShowRoomStatsToggleButton>Raumstatistiken anzeigen\n\nIm eingeschalteten Zustand wird für jeden Raum unterhalb des Mauszeigers eine Zusammenstellung wichtiger Daten wie Eindruck, Reichtum etc. angezeigt.</ShowRoomStatsToggleButton>
+  <ShowRoomStatsToggleButton>Taisepáin sonraí na seomraí\n\nMá roghnaítear an socrú seo, taispeánfar sonraí an tseomra ina bhfuil an cúrsóir.</ShowRoomStatsToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by right-click and dragging them. -->
-  <ShowColonistBarToggleButton>Kolonistenleiste anzeigen\n\nIm eingeschalteten Zustand werden Symbole und Grundzustände aller Kolonisten entlang des oberen Bildschirmrandes angezeigt. Du kannst die Kolonisten per Rechtsklick verschieben.</ShowColonistBarToggleButton>
+  <ShowColonistBarToggleButton>Taispeáin barra na gcoilíneach\n\nMá roghnaítear an socrú seo, taispeánfar do choilínigh i líne ar bharr an scáileáin.\n\nIs féidir ord na gcoilíneach a athrú ach iad a dheaschliceáil agus a tharraingt.</ShowColonistBarToggleButton>
   <!-- EN: Toggle colonist bar.\n\nDisplays icons and basic status for all colonists along the top of the screen.\n\nYou can reorder the colonists in the colonist bar by pressing the left trigger button and dragging them. -->
-  <ShowColonistBarToggleButtonController>Kolonistenleiste anzeigen\n\nIm eingeschalteten Zustand werden Symbole und Grundzustände aller Kolonisten entlang des oberen Bildschirmrandes angezeigt. Du kannst die Kolonisten per linker Trigger-Taste verschieben.</ShowColonistBarToggleButtonController>
+  <ShowColonistBarToggleButtonController>Taispeáin barra na gcoilíneach\n\nMá roghnaítear an socrú seo, taispeánfar do choilínigh i líne ar bharr an scáileáin.\n\nIs féidir ord na gcoilíneach a athrú ach iad a roghnú leis an truicear clé agus a tharraingt.</ShowColonistBarToggleButtonController>
   <!-- EN: Toggle automatically expanding the home area around new constructions. -->
-  <AutoHomeAreaToggleButton>Heimatgebiet automatisch erweitern\n\nIm eingeschalteten Zustand wird das Heimatgebiet beim Errichten eines neuen Bauwerks automatisch erweitert.</AutoHomeAreaToggleButton>
+  <AutoHomeAreaToggleButton>Déan an zón baile a leathnú go huathoibríoch\n\nMá roghnaítear an socrú seo, leathnófar an zón baile go huathoibríoch nuair a thógtar struchtúir úra.</AutoHomeAreaToggleButton>
   <!-- EN: Toggle automatic rebuild of destroyed structures in the home area. -->
-  <AutoRebuildButton>Bauwerke automatisch wiederaufbauen\n\nIm eingeschalteten Zustand werden Bauwerke, die im Heimatgebiet zerstört werden, von deinen Kolonisten automatisch wiederaufgebaut.</AutoRebuildButton>
+  <AutoRebuildButton>Déan struchtúir scriosta a atógáil go huathoibríoch sa zón baile\n\nMá roghnaítear an socrú seo, déanfar struchtúir scriosta sa zón baile a atógáil go huathoibríoch.</AutoRebuildButton>
   <!-- EN: Toggle categorized mode on the resource readout. -->
-  <CategorizedResourceReadoutToggleButton>Ressourcen kategorisieren\n\nIm eingeschalteten Zustand wird die Ressourcenanzeige oben links im kategorisierten Modus dargestellt.</CategorizedResourceReadoutToggleButton>
+  <CategorizedResourceReadoutToggleButton>Taisepáin catagóirí acmhainní\n\nMá roghnaítear an socrú seo, déanfar liosta na n-acmhainní a roinnt ina chatagóirí.</CategorizedResourceReadoutToggleButton>
   <!-- EN: Toggle displaying animal names for tame named animals. -->
-  <ShowAnimalNamesToggleButton>Tiernamen anzeigen\n\nIm eingeschalteten Zustand werden die Namen von benannten Haustieren angezeigt.</ShowAnimalNamesToggleButton>
+  <ShowAnimalNamesToggleButton>Taispeáin ainmneacha ainmhithe \n\nMá roghnaítear an socrú seo, taispeánfar ainmneacha na n-ainmhithe sa choilíneacht.</ShowAnimalNamesToggleButton>
   <!-- EN: Toggle visibility of roofs. -->
-  <ShowRoofOverlayToggleButton>Dächer anzeigen\n\nIm eingeschalteten Zustand werden Dächer, Höhlendecken etc. farblich hervorgehoben.</ShowRoofOverlayToggleButton>
+  <ShowRoofOverlayToggleButton>Taispeáin díonta.</ShowRoofOverlayToggleButton>
   <!-- EN: Toggle fertility overlay.\n\nThis shows how fertile the ground is, which affects what kinds of plants can grow and how fast they grow. -->
-  <ShowFertilityOverlayToggleButton>Fruchtbare Böden anzeigen\n\nIm eingeschalteten Zustand wird farblich angezeigt, wie fruchtbar ein Boden ist, was wiederum Aufschluss darüber gibt, welche Pflanzen wachsen können und wie schnell sie wachsen.</ShowFertilityOverlayToggleButton>
+  <ShowFertilityOverlayToggleButton>Taispeán toirchiúlacht na hithreach\n\nMá roghnaítear an socrú seo, taispeánfar toirchiúlacht na hithreach. Bíonn éifeacht ag an toirchiúlacht ar na plandaí ar féidir a chur agus ar an luas ar a bhfasfáidh siad.</ShowFertilityOverlayToggleButton>
   <!-- EN: Toggle visibility of terrain affordance.\n\nThis relates to what kinds of building can be constructed at each location.\n\nFor example, some types of ground only accept light or medium buildings, but not heavy ones. Bridges can only be built on water. -->
-  <ShowTerrainAffordanceOverlayToggleButton>Bodenbeschaffenheit anzeigen\n\nIm eingeschalteten Zustand wird farblich angezeigt, welche Arten von Bauwerken auf dem jeweiligen Boden gebaut werden können.\n\nAuf manchen Böden können zum Beispiel keine schweren, sondern nur leichte oder mittelschwere Bauwerke errichtet werden. Brücken können nur auf dem Wasser gebaut werden.</ShowTerrainAffordanceOverlayToggleButton>
+  <ShowTerrainAffordanceOverlayToggleButton>Taispeáin eolas tógála\n\nMá roghnaítear an socrú seo, taispeánfar eolas maidir leis na struchtúir ar féidir a thógáil ar gach tíl\n\nMar shampla, ní féidir ach struchtúir éadroma a thógáil ar tílí áirithe. Ní mór droichid a thógáil ar uisce.</ShowTerrainAffordanceOverlayToggleButton>
   <!-- EN: Lock the rotation of the camera so the north pole is always up. -->
-  <LockNorthUpToggleButton>Drehung der Kamera sperren\n\nIm eingeschalteten Zustand ist die Drehung der Kamera gesperrt, damit der Nordpol immer oben ist.</LockNorthUpToggleButton>
+  <LockNorthUpToggleButton>Rothlú an cheamara\n\nCuir stop le rothlú an cheamara, ionas go mbeidh an pol thuaidh ag an mbarr i gcónaí.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
-  <UsePlanetDayNightSystemToggleButton>Tag-Nacht-Beleuchtung einschalten\n\nIm eingeschalteten Zustand wird der Tag-Nacht-Zyklus auf dem Planeten simuliert.\n\nIm ausgeschalteten Zustand ist der Planet gleichmäßig hell beleuchtet.</UsePlanetDayNightSystemToggleButton>
+  <UsePlanetDayNightSystemToggleButton>Lá/Oíche\n\nLeis an socrú seo, is féidir solas an lae/dorchadas na hoíche a mhúchadh ar léarscáil an phláinéid.</UsePlanetDayNightSystemToggleButton>
   <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>Symbole anzeigen\n\nIm eingeschalteten Zustand werden wichtige Orte auf dem Planeten beim Rauszoomen als Symbole dargestellt.</ShowExpandingIconsToggleButton>
+  <ShowExpandingIconsToggleButton>Deilbhíní athraitheacha\n\nTaispeáin deilbhíní athraitheacha ar rudaí atá i bhfad i gcéin, in áit gnáthdheilbhíní.</ShowExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
-  <ShowWorldFeaturesToggleButton>Landformbezeichnungen anzeigen\n\nIm eingeschalteten Zustand werden Bezeichnungen für Landformen angezeigt.</ShowWorldFeaturesToggleButton>
+  <ShowWorldFeaturesToggleButton>Taispeáin logainmneacha.</ShowWorldFeaturesToggleButton>
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
-  <ShowTemperatureOverlayToggleButton>Wärme anzeigen\n\nIm eingeschalteten Zustand wird farblich angezeigt, wie hoch die Lufttemperatur in jedem Raum und im Freien ist.\n\nKolonisten bekommen schlechte Laune, wenn die Temperatur zu hoch oder zu niedrig ist. Extreme Temperaturen können zu Hypothermie, Erfrierungen, Hitzeschlag, Verbrennungen und Tod führen.</ShowTemperatureOverlayToggleButton>
+  <ShowTemperatureOverlayToggleButton>Taispeáin forléargas na teochta \n\nMá roghnaítear an socrú seo, taispeánfar eolas maidir leis an teocht lasmuigh agus i gach seomra.\n\nBeidh coilínigh míchompordach má bhíonn an teocht ró-ard nó ró-íseal. Má tá teocht as cuimse ann, d'fhéadfadh hipiteirme nó dó seaca teacht orthu.</ShowTemperatureOverlayToggleButton>
 
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
-  <HotKeyTip>TODO</HotKeyTip>
+  <HotKeyTip>Aicearra</HotKeyTip>
 
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
-  <FireOn>Feuer bei {1_label}</FireOn>
+  <FireOn>tine ar {1_label}</FireOn>
   <!-- EN: Burning -->
-  <Burning>Brennt</Burning>
+  <Burning>Ag dó</Burning>
   <!-- EN: fire size {0} -->
-  <FireSizeLower>Feuergröße {0}</FireSizeLower>
+  <FireSizeLower>méid na tine {0}</FireSizeLower>
 
   <!-- Game conditions -->
   <!-- EN: Special conditions affecting the area right now. -->
-  <GameConditionsTip>Spezielle Umstände beeinflussen gerade die Umgebung.</GameConditionsTip>
+  <GameConditionsTip>Coinníollacha speisialta a bhfuil éifeacht acu ar an gcluiche faoi láthair.</GameConditionsTip>
   <!-- EN: time left -->
-  <TimeLeft>verbleibende Zeit</TimeLeft>
+  <TimeLeft>am fágtha</TimeLeft>
   <!-- EN: impact date -->
-  <ImpactDate>Einschlagsdatum</ImpactDate>
+  <ImpactDate>dáta</ImpactDate>
   <!-- EN: Source unknown. -->
-  <SourceUnknown>Quelle unbekannt</SourceUnknown>
+  <SourceUnknown>Ní fios cad as a bhfuil sé ag teacht</SourceUnknown>
   <!-- EN: Click to jump to the source. -->
-  <ClickToJumpToSource>Klicke, um zur Quelle zu springen.</ClickToJumpToSource>
+  <ClickToJumpToSource>Cliceáil anseo chun an ceamara a dhíriú air.</ClickToJumpToSource>
   <!-- EN: Click to jump to the flashstorm. -->
-  <ClickToJumpToFlashstorm>Klicke, um zum Blitzsturm zu springen.</ClickToJumpToFlashstorm>
+  <ClickToJumpToFlashstorm>Cliceáil anseo chun an ceamara a dhíriú air.</ClickToJumpToFlashstorm>
   <!-- EN: Caused by quest: {0} -->
-  <CausedByQuest>Verursacht durch Quest: {0}</CausedByQuest>
+  <CausedByQuest>Mar gheall ar an misean: {0}</CausedByQuest>
 
   <!-- Building placement -->
   <!-- EN: You have no usable materials from which to build this. -->
-  <NoStuffsToBuildWith>Dir fehlen die Materialien, um dieses Objekt zu bauen.</NoStuffsToBuildWith>
+  <NoStuffsToBuildWith>Níl go leor acmhainní agat an rud seo a thógáil.</NoStuffsToBuildWith>
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>{0} wird nur mit reduzierter Geschwindigkeit arbeiten. Grund</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>Ní bheidh {0} chomh éifeachtach.</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
-  <MustPlaceUnroofed>Kann nicht unter einem Dach platziert werden.</MustPlaceUnroofed>
+  <MustPlaceUnroofed>Ní féidir seo a chur faoi dhíon.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
-  <MustPlaceUnderThickRoof>Muss unter einer massiven Höhlendecke platziert werden.</MustPlaceUnderThickRoof>
+  <MustPlaceUnderThickRoof>Ní mór seo a chur faoi dhíon tiubh.</MustPlaceUnderThickRoof>
   <!-- EN: Must be placed against a wall. -->
-  <MustPlaceOnWall>TODO</MustPlaceOnWall>
+  <MustPlaceOnWall>Ní mór seo a chur ar an mballa.</MustPlaceOnWall>
   <!-- EN: Something is already placed on this wall. -->
-  <SomethingPlacedOnThisWall>TODO</SomethingPlacedOnThisWall>
+  <SomethingPlacedOnThisWall>Tá rud éigean ar an mballa seo cheana féin.</SomethingPlacedOnThisWall>
   <!-- EN: This building can not support attachments. -->
-  <CannotSupportAttachment>TODO</CannotSupportAttachment>
+  <CannotSupportAttachment>Ní féidir aon rud breise a chur leis an bhfoirgneamh seo.</CannotSupportAttachment>
   <!-- EN: Must place with head attached to ship structural beam. -->
-  <MustPlaceHeadOnShipBeam>Muss direkt neben einem Schiffsträger platziert werden. Kopfende muss dem Träger zugewandt sein.</MustPlaceHeadOnShipBeam>
+  <MustPlaceHeadOnShipBeam>Ní mór an barr a chur taobh le bíoma struchtúrtha spásloinge.</MustPlaceHeadOnShipBeam>
   <!-- EN: Must be placed next to something that needs a hopper. -->
-  <MustPlaceNextToHopperAccepter>Muss direkt neben einem Bauwerk platziert werden, das einen Trichter benötigt.</MustPlaceNextToHopperAccepter>
+  <MustPlaceNextToHopperAccepter>Ní mór seo a chur taobh le rud a bhfuil crannóg de dhíth air.</MustPlaceNextToHopperAccepter>
   <!-- EN: Must be placed directly on a steam geyser. -->
-  <MustPlaceOnSteamGeyser>Muss auf einem Dampfgeysir platziert werden.</MustPlaceOnSteamGeyser>
+  <MustPlaceOnSteamGeyser>Ní mór seo a thógáil ar ghéasar.</MustPlaceOnSteamGeyser>
   <!-- EN: Both the hot and cold sides of the cooler must be exposed. -->
-  <MustPlaceCoolerWithFreeSpaces>Beide Seiten der Kühlung (heiß und kalt) müssen frei sein.</MustPlaceCoolerWithFreeSpaces>
+  <MustPlaceCoolerWithFreeSpaces>Ní mór an taobh te agus taobh fuar den fhuaraitheoir a bheith saor ó bhacainn.</MustPlaceCoolerWithFreeSpaces>
   <!-- EN: Both the sides must be exposed for air to pass through. -->
-  <MustPlaceVentWithFreeSpaces>Beide Seiten müssen frei sein, damit die Luft hindurchströmen kann.</MustPlaceVentWithFreeSpaces>
+  <MustPlaceVentWithFreeSpaces>Ní mór an dá thaobh a bheith saor ó bhacainn.</MustPlaceVentWithFreeSpaces>
   <!-- EN: Must be placed with standable space on all sides. -->
-  <MustPlaceAdjacentStandable>Beim Platzieren darf keine Seite blockiert sein.</MustPlaceAdjacentStandable>
+  <MustPlaceAdjacentStandable>Ní mór go mbeidh spás do dhuine sheasamh ar gach taobh.</MustPlaceAdjacentStandable>
   <!-- EN: Must be placed next to a pod launcher's fueling port. -->
-  <MustPlaceNearFuelingPort>Muss am Tankstutzen einer Startrampe platziert werden.</MustPlaceNearFuelingPort>
+  <MustPlaceNearFuelingPort>Ní mór seo a chur taobh le láinseálaí.</MustPlaceNearFuelingPort>
   <!-- EN: Must be placed on drillable resources. -->
-  <MustPlaceOnDrillable>Muss auf bohrbaren Ressourcen platziert werden.</MustPlaceOnDrillable>
+  <MustPlaceOnDrillable>Ní mór seo a chur ar acmhainní ar féidir a druileáil.</MustPlaceOnDrillable>
   <!-- EN: Cannot be placed next to traps. -->
-  <CannotPlaceAdjacentTrap>Kann nicht direkt neben Fallen platziert werden.</CannotPlaceAdjacentTrap>
+  <CannotPlaceAdjacentTrap>Ní féidir seo a chur taobh le gaistí.</CannotPlaceAdjacentTrap>
   <!-- EN: Cannot be placed next to another building of the same type. -->
-  <CannotPlaceAdjacentSameDef>Kann nicht neben einem anderen Bauwerk desselben Typs platziert werden.</CannotPlaceAdjacentSameDef>
+  <CannotPlaceAdjacentSameDef>Ní féidir seo a chur taobh le struchtúr den sórt céanna.</CannotPlaceAdjacentSameDef>
 
   <!-- Wind Turbine -->
   <!-- EN: Blocked by -->
-  <WindTurbine_WindPathIsBlockedBy>Blockiert durch</WindTurbine_WindPathIsBlockedBy>
+  <WindTurbine_WindPathIsBlockedBy>Blocáilte ag</WindTurbine_WindPathIsBlockedBy>
   <!-- EN: Blocked by roof -->
-  <WindTurbine_WindPathIsBlockedByRoof>Blockiert durch Dach</WindTurbine_WindPathIsBlockedByRoof>
+  <WindTurbine_WindPathIsBlockedByRoof>Blocáilte ag díon</WindTurbine_WindPathIsBlockedByRoof>
 
   <!-- Watermill generator -->
   <!-- EN: Flow reduced: Turbulence from other watermill -->
-  <Watermill_WaterUsedTwice>Strömung reduziert: Turbulenzen von anderem Wasserrad</Watermill_WaterUsedTwice>
+  <Watermill_WaterUsedTwice>Tá an muileann uisce eile ag cur isteach ar shreabhadh an uisce</Watermill_WaterUsedTwice>
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
-  <CasketContains>Enthält</CasketContains>
+  <CasketContains>Tá an duine seo istigh:</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
-  <CasketWarning>Warnung!\n\n{PAWN_nameDef} ist dein letzter verfügbarer Kolonist! Wenn du {PAWN_objective} in die Kapsel steigen lässt, kannst du vielleicht nicht mehr weiterspielen.\nBist du dir sicher, dass du fortfahren willst?</CasketWarning>
+  <CasketWarning>Rabhadh!\n\nMá chuirtear {PAWN_nameDef} sa phod criptea-chodlata, ní bheidh aon choilíneach sláinte fágtha agat! Tá baol ann nach mbeidh tú in ann leanúint ar aghaidh ag imirt. An bhfuil tú ag iarraidh leanúint ar aghaidh?</CasketWarning>
 
   <!-- Ship launch report -->
   <!-- EN: Cannot launch. -->
-  <ShipReportCannotLaunch>Kann nicht starten.</ShipReportCannotLaunch>
+  <ShipReportCannotLaunch>Níl an spáslong réidh le láinseáil.</ShipReportCannotLaunch>
   <!-- EN: Ready for launch. -->
-  <ShipReportCanLaunch>Startbereit.</ShipReportCanLaunch>
+  <ShipReportCanLaunch>Tá an spáslong réidh le láinseáil.</ShipReportCanLaunch>
   <!-- EN: Missing critical component -->
-  <ShipReportMissingPart>Fehlende kritische Komponente</ShipReportMissingPart>
+  <ShipReportMissingPart>Tá comhpháirt ríthábhachtach ar lár</ShipReportMissingPart>
   <!-- EN: requires -->
-  <ShipReportMissingPartRequires>benötigt</ShipReportMissingPartRequires>
+  <ShipReportMissingPartRequires>de dhíth:</ShipReportMissingPartRequires>
   <!-- EN: No full cryptosleep caskets -->
-  <ShipReportNoFullPods>Keine der Kryptoschlafkapseln ist belegt.</ShipReportNoFullPods>
+  <ShipReportNoFullPods>Tá na podanna criptea-chodlata folamh.</ShipReportNoFullPods>
   <!-- EN: Hibernating component -->
-  <ShipReportHibernating>Komponente im Ruhezustand</ShipReportHibernating>
+  <ShipReportHibernating>Tá an chompháirt seo díghníomhachtaithe</ShipReportHibernating>
   <!-- EN: Component not yet ready -->
-  <ShipReportNotReady>Komponente noch nicht bereit</ShipReportNotReady>
+  <ShipReportNotReady>Níl an chomhpháirt seo réidh</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>Keine Siedlung für die Rückkehr vorhanden. Gründe zuerst eine neue Siedlung.</ShipNoSettlementToReturnTo>
+  <ShipNoSettlementToReturnTo>Níl aon choilíneacht le filleadh uirthi. Ní mór coilíneacht a chruthú ar dtús.</ShipNoSettlementToReturnTo>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarning>(*Name)Charlon Whitestone(/Name) ist bereit, die Sequenz zum Hochfahren des Reaktors einzuleiten.\n\nEr warnt dich, dass das Hochfahren etwa 15 Tage in Anspruch nimmt und die Energiesignatur schon aus großer Entfernung messbar sein wird.\n\nDiese Art von Energiesignatur deutet auf interstellare Flugtauglichkeit hin und wird sowohl verzweifelte Raider als auch tödliche Mechanoiden anlocken.\n\nDu wirst mit einer noch nie dagewesenen Intensität angegriffen werden. Sorge zuerst dafür, dass deine Verteidigung steht.</HibernateWarning>
+  <HibernateWarning>Tá (*Name)Charlon Whitestone(/Name) réidh le tús a chur le himoibreoir na spásloinge réidh.\n\nNuair a chuirfear an t-imoibreoir ar siúl, tógfaidh an próiseas iomlan thart ar 15 lá agus beidh faicsin eile ar an bpláinéad in ann an fuinneamh a aimsiú ar a mbraiteoirí. Beidh a fhios ag na grúpaí sin go bhfuil spáslong idir-réaltach agat, agus tiocfaidh ruathairí, ionsaithe agus meicea-róbait ó chian agus ó chongar.\n\nTá ionsaithe romhat nach bhfuil cosúil le haon rud go bhfaca tú go dtí seo. Bí cinnte go bhfuil tú ullmhaithe chun do choilíneacht a cosaint.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <HibernateWarningStandalone>Der Reaktor ist bereit, hochgefahren zu werden.\n\nDas Hochfahren nimmt etwa 15 Tage in Anspruch. Die Energiesignatur wird schon aus großer Entfernung messbar sein. Diese Art von Energiesignatur deutet auf interstellare Flugtauglichkeit hin und wird sowohl verzweifelte Raider als auch tödliche Mechanoiden anlocken.\n\nDu wirst mit einer noch nie dagewesenen Intensität angegriffen werden. Sorge zuerst dafür, dass deine Verteidigung steht.</HibernateWarningStandalone>
+  <HibernateWarningStandalone>Tá imoibreoir na spásloinge réidh.\n\nNuair a chuirfear an t-imoibreoir ar siúl, tógfaidh an próiseas iomlan thart ar 15 lá agus beidh faicsin eile ar an bpláinéad in ann an fuinneamh a aimsiú ar a mbraiteoirí. Beidh a fhios ag na grúpaí sin go bhfuil spáslong idir-réaltach agat, agus tiocfaidh ruathairí, ionsaithe agus meicea-róbait ó chian agus ó chongar.\n\nTá ionsaithe romhat nach bhfuil cosúil le haon rud go bhfaca tú go dtí seo. Bí cinnte go bhfuil tú ullmhaithe chun do choilíneacht a cosaint.</HibernateWarningStandalone>
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence. He warns you that the process will take about 15 days. -->
-  <HibernateWarningPacifist>(*Name)Charlon Whitestone(/Name) ist bereit, die Sequenz zum Hochfahren des Reaktors einzuleiten. Er warnt dich, dass das Hochfahren etwa 15 Tage in Anspruch nimmt.</HibernateWarningPacifist>
+  <HibernateWarningPacifist>Tá (*Name)Charlon Whitestone(/Name) réidh chun imoibreoir na spásloinge a ullmhú anois. Tógfaidh sé thart ar 15 ar an imoibreoir a chur ar siúl go hiomlán.</HibernateWarningPacifist>
   <!-- EN: The reactor is ready to power up. The process will take about 15 days. -->
-  <HibernateWarningStandalonePacifist>Der Reaktor ist bereit, hochgefahren zu werden. Das Hochfahren nimmt etwa 15 Tage in Anspruch.</HibernateWarningStandalonePacifist>
+  <HibernateWarningStandalonePacifist>Tá imoibreoir na spásloinge réidh anois. Tógfaidh sé thart ar 15 ar an imoibreoir a chur ar siúl go hiomlán.</HibernateWarningStandalonePacifist>
 
   <!-- Neurotrainer -->
   <!-- EN: skilltrainer ({0}) -->

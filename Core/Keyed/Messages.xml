@@ -41,532 +41,532 @@
   <MessageVisitorsAnomalousWeather>Tá cuairteoirí ón bhfaicsean '{1}' ag imeacht ón léarscáil mar gheall ar aimsir dháinséarach.</MessageVisitorsAnomalousWeather>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
-  <MessageWornApparelDeterioratedAway>{replace: {1_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {0} ist unwiederbringlich zerfallen.</MessageWornApparelDeterioratedAway>
+  <MessageWornApparelDeterioratedAway>Bhí na héadaí ({0}) a bhí á gcaitheamh ag {1_nameFull} iomlan caite.</MessageWornApparelDeterioratedAway>
   <!-- EN: {0} has deteriorated away in storage. -->
-  <MessageDeterioratedAway>{0} ist im Lager zerfallen.</MessageDeterioratedAway>
+  <MessageDeterioratedAway>Chuaigh {0} in éag sa stóras.</MessageDeterioratedAway>
 
   <!-- EN: {0} has begun. -->
-  <MessageSeasonBegun>{0} hat angefangen.</MessageSeasonBegun>
+  <MessageSeasonBegun>Tá {0} tosaithe.</MessageSeasonBegun>
 
   <!-- EN: {0} has left comms range. -->
-  <MessageShipHasLeftCommsRange>{0} ist jetzt außer Funkreichweite.</MessageShipHasLeftCommsRange>
+  <MessageShipHasLeftCommsRange>Tá {0} lasmuigh den raon cumarsáide.</MessageShipHasLeftCommsRange>
 
   <!-- EN: You need a powered orbital trade beacon to trade with a ship. -->
-  <MessageNeedBeaconToTradeWithShip>Du brauchst eine mit Strom versorgte Orbitalhandelsbake, um mit einem Raumschiff Handel treiben zu können.</MessageNeedBeaconToTradeWithShip>
+  <MessageNeedBeaconToTradeWithShip>Nó mór go mbeidh aeróg trádála agat sula mbeidh tú in ann trádáil le spáslong.</MessageNeedBeaconToTradeWithShip>
   <!-- EN: Caller must have the title of {0_label} or higher. -->
-  <MessageNeedRoyalTitleToCallWithShip>Der Titel des Anrufers muss {0_label} oder höher sein.</MessageNeedRoyalTitleToCallWithShip>
+  <MessageNeedRoyalTitleToCallWithShip>Ní mór go mbeidh an teideal "{0_label}" nó níos airde ag an gcainteoir.</MessageNeedRoyalTitleToCallWithShip>
 
   <!-- EN: {0} has been destroyed. -->
-  <MessageConditionCauserDespawned>{0} wurde zerstört.</MessageConditionCauserDespawned>
+  <MessageConditionCauserDespawned>Scriosadh {0}.</MessageConditionCauserDespawned>
   
   <!-- EN: Bill complete: {0}. -->
-  <MessageBillComplete>Aufgabe erledigt: {0}.</MessageBillComplete>
+  <MessageBillComplete>Bille críochnaithe: {0}.</MessageBillComplete>
 
   <!-- EN: {1_label} is fully healed. -->
-  <MessageFullyHealed>{1_label} ist vollständig geheilt.</MessageFullyHealed>
+  <MessageFullyHealed>Tá {1_label} iomlán leigheasta.</MessageFullyHealed>
 
   <!-- EN: Prisoner {1_labelShort} is escaping. -->
-  <MessagePrisonerIsEscaping>Gefangener {1_labelShort} bricht aus.</MessagePrisonerIsEscaping>
+  <MessagePrisonerIsEscaping>Tá an príosúnach {1_labelShort} ag éalú.</MessagePrisonerIsEscaping>
 
   <!-- EN: {PAWN_labelShort} found no nearby unreserved shells for {GUN_label}. -->
-  <MessageOutOfNearbyShellsFor>{PAWN_labelShort} konnte in der Nähe keine verfügbaren Granaten für {GUN_label} finden.</MessageOutOfNearbyShellsFor>
+  <MessageOutOfNearbyShellsFor>Ní raibh {PAWN_labelShort} in ann sliogáin a aimsiú le haghaidh '{GUN_label}'.</MessageOutOfNearbyShellsFor>
   <!-- EN: {PAWN_labelShort} found no nearby unreserved {FUEL} for {GUN_label}. -->
-  <MessageOutOfNearbyFuelFor>{PAWN_labelShort} konnte in der Nähe {FUEL_gender ? keinen verfügbaren : keine verfügbare : kein verfügbares} {lookup: {FUEL}; decline; 3} für {GUN_label} finden.</MessageOutOfNearbyFuelFor>
+  <MessageOutOfNearbyFuelFor>Ní raihb {PAWN_labelShort} in ann {FUEL} a aimsiú le haghaidh '{GUN_label}'.</MessageOutOfNearbyFuelFor>
 
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
-  <MessageAnimalsGoPsychoHunted>Warnung: {ANIMAL_kindBasePlural} können angreifen, wenn sie verletzt werden ({1} Chance). Die Chance variiert je nach Tarnfähigkeit des Jägers und Distanz.</MessageAnimalsGoPsychoHunted>
+  <MessageAnimalsGoPsychoHunted>Rabhadh: Tá dóchúlacht {1} ann go n-ionsóidh {ANIMAL_kindBasePlural} má ghortaítear iad. Braitheann an dóchúlacht deiridh ar scileanna an seagaire.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Warnung: {ANIMAL_kindBasePlural} können angreifen, wenn die Zähmung scheitert ({1} Chance).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Rabhadh: Tá baol ann go n-ionsóidh{ANIMAL_kindBasePlural} má dhéantar an iomarca iarrachtaí iad a cheansú (Dóchúlacht: {1}).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
-  <MessageInsectTameDesignated>Nur jemand mit dem Merkmal 'Insektenverständnis' kann {INSECT_indefinite} zähmen.</MessageInsectTameDesignated>
+  <MessageInsectTameDesignated>Tá an tréith 'bá le feithidí' de dhíth chun {INSECT_indefinite} a cheansú.</MessageInsectTameDesignated>
 
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
-  <MessageInsectsHostileOnTaming>{PAWN_kindBaseDef} ist feindselig und wird bei einem Zähmungsversuch angreifen.</MessageInsectsHostileOnTaming>
+  <MessageInsectsHostileOnTaming>Rabhadh: Tá {PAWN_kindBaseDef} míchairdiúil agus ionsóidh sé do choilíneach.</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
-  <LetterLabelMessageRecruitSuccess>Neuer Rekrut</LetterLabelMessageRecruitSuccess>
+  <LetterLabelMessageRecruitSuccess>Nuatheachtaí</LetterLabelMessageRecruitSuccess>
   <!-- EN: {RECRUITER_nameFull} successfully recruited {RECRUITEE_nameFull}. -->
-  <MessageRecruitSuccess>{RECRUITER_nameFull} hat {RECRUITEE_nameFull} erfolgreich rekrutiert.</MessageRecruitSuccess>
+  <MessageRecruitSuccess>D'éirigh le {RECRUITER_nameFull} {RECRUITEE_nameFull} a earcú.</MessageRecruitSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. -->
-  <MessageTameSuccess>{RECRUITER_labelShort} hat {1} erfolgreich gezähmt.</MessageTameSuccess>
+  <MessageTameSuccess>D'éirigh le {RECRUITER_labelShort} {1} a cheansú.</MessageTameSuccess>
   <!-- EN: {RECRUITER_labelShort} successfully tamed {1}. It is now called {RECRUITEE_nameFull}. -->
-  <MessageTameAndNameSuccess>{RECRUITER_labelShort} hat erfolgreich ein Tier gezähmt. Es ist {RECRUITEE_kindBaseIndef}. Deine Kolonisten nennen es {RECRUITEE_nameFull}.</MessageTameAndNameSuccess>
+  <MessageTameAndNameSuccess>D'éirigh le {RECRUITER_labelShort} {1} a cheansú. Tabharfar {RECRUITEE_nameFull} anois.</MessageTameAndNameSuccess>
   <!-- EN: There is no suitable animal pen for {ANIMAL_labelShort}. It will eventually roam away. -->
-  <MessageTameNoSuitablePens>Es gibt kein geeignetes Gehege für {ANIMAL_labelShort}. Mit der Zeit wird das Tier weglaufen.</MessageTameNoSuitablePens>
+  <MessageTameNoSuitablePens>Níl aon phionna oiriúnach ar fáil do {ANIMAL_labelShort}.</MessageTameNoSuitablePens>
   <!-- EN: {RECRUITEE} has joined your colony. -->
-  <MessageRecruitJoinOfferAccepted>{RECRUITEE} ist deiner Kolonie beigetreten.</MessageRecruitJoinOfferAccepted>
+  <MessageRecruitJoinOfferAccepted>Chuaigh {RECRUITEE} le do choilíneacht.</MessageRecruitJoinOfferAccepted>
 
   <!-- EN: The colony cannot afford this deal. -->
-  <MessageColonyCannotAfford>Die Kolonie kann sich diesen Handel nicht leisten.</MessageColonyCannotAfford>
+  <MessageColonyCannotAfford>Níl d'acmhainn ag an gcoilíneacht an t-idirbheart seo a dhéanamh.</MessageColonyCannotAfford>
   <!-- EN: You do not have enough silver ready to trade. -->
-  <MessageColonyNotEnoughSilver>Du hast nicht genug Silber, um Handel zu treiben.</MessageColonyNotEnoughSilver>
+  <MessageColonyNotEnoughSilver>Níl go leor airgid agat chun trádáil.</MessageColonyNotEnoughSilver>
 
   <!-- EN: Critical alert: {0} -->
-  <MessageCriticalAlert>Kritischer Alarm: {0}</MessageCriticalAlert>
+  <MessageCriticalAlert>RABHADH: {0}</MessageCriticalAlert>
 
   <!-- EN: Must designate harvestable sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestable>Funktioniert nur bei Pflanzen, die geerntet werden können und ausreichend gewachsen sind.</MessageMustDesignateHarvestable>
+  <MessageMustDesignateHarvestable>Ní mór plandaí fásta, ar féidir iad a bhaint, a roghnú.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
-  <MessageMustDesignateHarvestableWood>Funktioniert nur bei Pflanzen, die Holz liefern und ausreichend gewachsen sind.</MessageMustDesignateHarvestableWood>
+  <MessageMustDesignateHarvestableWood>Ní féidir plandaí fásta, ar féidir admhad a bhaint uathu, a roghnú.</MessageMustDesignateHarvestableWood>
   <!-- EN: Must designate plants. -->
-  <MessageMustDesignatePlants>Funktioniert nur bei Pflanzen.</MessageMustDesignatePlants>
+  <MessageMustDesignatePlants>Ní mór plandaí a roghnú.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
-  <MessageMustDesignateHaulable>Funktioniert nur bei transportfähigen Objekten. Einige Objekte sind immer transportfähig und können nicht markiert werden.</MessageMustDesignateHaulable>
+  <MessageMustDesignateHaulable>Ní mór earraí ar féidir iad a iompar a roghnú. Is féidir earraí áirithe a iompar i gcónaí, mar sin ní féidir iad a roghnú.</MessageMustDesignateHaulable>
   <!-- EN: Must designate impassable mineable rocks. -->
-  <MessageMustDesignateMineable>Funktioniert nur bei Gesteinen, die unpassierbar sind und abgebaut werden können.</MessageMustDesignateMineable>
+  <MessageMustDesignateMineable>Ní mór clocha a roghnú.</MessageMustDesignateMineable>
   <!-- EN: Must designate huntable animals. -->
-  <MessageMustDesignateHuntable>Funktioniert nur bei Tieren, die gejagt werden können.</MessageMustDesignateHuntable>
+  <MessageMustDesignateHuntable>Ní mór ainmhithe a roghnú lena seilg.</MessageMustDesignateHuntable>
   <!-- EN: Must designate tameable animals. -->
-  <MessageMustDesignateTameable>Funktioniert nur bei Tieren, die gezähmt werden können.</MessageMustDesignateTameable>
+  <MessageMustDesignateTameable>Ní mór ainmhithe a roghnú lena gceansú.</MessageMustDesignateTameable>
   <!-- EN: Must designate abandoned claimable structures or items. -->
-  <MessageMustDesignateClaimable>Funktioniert nur bei Strukturen oder Objekten, die verlassen und beanspruchbar sind.</MessageMustDesignateClaimable>
+  <MessageMustDesignateClaimable>Ní mór struchtúir nó earraí tréigthe a roghnú.</MessageMustDesignateClaimable>
   <!-- EN: Must designate paintable buildings not already painted {0_label}. -->
-  <MessageMustDesignatePaintableBuildings>Funktioniert nur bei streichbaren Bauwerken, die noch nicht die Farbe '{0_label}' haben.</MessageMustDesignatePaintableBuildings>
+  <MessageMustDesignatePaintableBuildings>Ní mór struchtúir nach bhfuil an dath '{0_label}' orthu cheana féin a roghnú.</MessageMustDesignatePaintableBuildings>
   <!-- EN: Must designate paintable floors which are not already painted {0_label}. -->
-  <MessageMustDesignatePaintableFloors>Funktioniert nur bei streichbaren Böden, die noch nicht die Farbe '{0_label}' haben.</MessageMustDesignatePaintableFloors>
+  <MessageMustDesignatePaintableFloors>Ní mór urláir nach bhfuil an dath '{0_label}' orthu cheana féin a roghnú.</MessageMustDesignatePaintableFloors>
   <!-- EN: Must designate painted buildings or floors. -->
-  <MessageMustDesignatePainted>Funktioniert nur bei gestrichenen Bauwerken oder Böden.</MessageMustDesignatePainted>
+  <MessageMustDesignatePainted>Ní mór struchtúir nó urláir a bhfuil péint orthu cheana féin a roghnú.</MessageMustDesignatePainted>
   <!-- EN: You must defeat a mech cluster before you can deconstruct it. -->
-  <MessageMustDesignateDeconstructibleMechCluster>Du musst den Mech-Cluster besiegen, bevor du es abreißen kannst.</MessageMustDesignateDeconstructibleMechCluster>
+  <MessageMustDesignateDeconstructibleMechCluster>Ní mór meicea-charn a chloí sula mbeidh tú in ann é a bhriseadh síos.</MessageMustDesignateDeconstructibleMechCluster>
   <!-- EN: Must designate rough stone surfaces. -->
-  <MessageMustDesignateSmoothableSurface>Funktioniert nur bei rauen Steinoberflächen.</MessageMustDesignateSmoothableSurface>
+  <MessageMustDesignateSmoothableSurface>Ní mór urlár garbh a roghnú.</MessageMustDesignateSmoothableSurface>
   <!-- EN: Must designate rough stone terrain. -->
-  <MessageMustDesignateSmoothableFloor>TODO</MessageMustDesignateSmoothableFloor>
+  <MessageMustDesignateSmoothableFloor>Ní mór cloch garbh a roghnú.</MessageMustDesignateSmoothableFloor>
   <!-- EN: Must designate rough stone wall. -->
-  <MessageMustDesignateSmoothableWall>TODO</MessageMustDesignateSmoothableWall>
+  <MessageMustDesignateSmoothableWall>Ní mór balla garbh a roghnú</MessageMustDesignateSmoothableWall>
   <!-- EN: Nothing can remove thick roofs. -->
-  <MessageNothingCanRemoveThickRoofs>Massive Höhlendecken können nicht abgerissen werden.</MessageNothingCanRemoveThickRoofs>
+  <MessageNothingCanRemoveThickRoofs>Ní féidir díon tiubh a bhaint.</MessageNothingCanRemoveThickRoofs>
   <!-- EN: This is already in storage and will be moved to high-priority storage as necessary. -->
-  <MessageAlreadyInStorage>Befindet sich bereits im Lager und wird bei Bedarf in ein anderes Lager mit höherer Priorität verlegt.</MessageAlreadyInStorage>
+  <MessageAlreadyInStorage>Tá an rud seo stórálta cheana féin. Bogfar é go dtí stoc-charn a bhfuil tosaíocht níos airde aige de réir mar is gá.</MessageAlreadyInStorage>
   <!-- EN: Must designate corpse or downed character with strippable apparel. -->
-  <MessageMustDesignateStrippable>Funktioniert nur bei Leichen oder am Boden liegenden Charakteren, die entkleidet werden können.</MessageMustDesignateStrippable>
+  <MessageMustDesignateStrippable>Ní mór corpán nó carachtar leagtha a bhfuil éadaí air a roghnú.</MessageMustDesignateStrippable>
   <!-- EN: Must designate tame animal that belongs to the colony. -->
-  <MessageMustDesignateSlaughterable>Funktioniert nur bei Tieren, die gezähmt sind und der Kolonie angehören.</MessageMustDesignateSlaughterable>
+  <MessageMustDesignateSlaughterable>Ní mór ainmhí a bhaineann leis an gcoilíneacht a roghnú.</MessageMustDesignateSlaughterable>
   <!-- EN: Must designate full graves or containers. -->
-  <MessageMustDesignateOpenable>Funktioniert nur bei vollen Gräbern oder Behältern.</MessageMustDesignateOpenable>
+  <MessageMustDesignateOpenable>Ní mór uaigheanna nó coimeádáin a roghnú.</MessageMustDesignateOpenable>
   <!-- EN: Must designate unforbidden items. -->
-  <MessageMustDesignateForbiddable>Funktioniert nur bei nicht-verbotenen Objekten.</MessageMustDesignateForbiddable>
+  <MessageMustDesignateForbiddable>Ní mór earraí nach bhfuil dícheadaithe a roghnú.</MessageMustDesignateForbiddable>
   <!-- EN: Must designate forbidden items. -->
-  <MessageMustDesignateUnforbiddable>Funktioniert nur bei verbotenen Objekten.</MessageMustDesignateUnforbiddable>
+  <MessageMustDesignateUnforbiddable>Ní mór earraí dícheadaithe a roghnú.</MessageMustDesignateUnforbiddable>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotClaimWhenThreatsAreNear>{CLAIMABLE_labelShort} kann nicht in Besitz genommen werden, solange kampffähige {THREAT_factionPawnsPlural} in der Nähe sind.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotClaimWhenThreatsAreNear>Ní féidir {CLAIMABLE_labelShort} a ghlacadh faoi láthair, toisc go bhfuil naimde sa cheantar.</MessageCannotClaimWhenThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotAdoptWhileThreatsAreNear>{CLAIMABLE_labelShort} kann nicht adoptiert werden, solange kampffähige {THREAT_factionPawnsPlural} in der Nähe sind.</MessageCannotAdoptWhileThreatsAreNear>
+  <MessageCannotAdoptWhileThreatsAreNear>Ní féidir {CLAIMABLE_labelShort} a uchtú faoi láthair, toisc go bhfuil naimde sa cheantar.</MessageCannotAdoptWhileThreatsAreNear>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
-  <MessageRefusedArrest>{1_labelShort} hat sich der Inhaftierung widersetzt!</MessageRefusedArrest>
+  <MessageRefusedArrest>Dhiúltaigh {1_labelShort} géilleadh!</MessageRefusedArrest>
   
   <!-- EN: There are no medical beds available. -->
-  <MessageNoMedicalBeds>Es sind keine Krankenbetten verfügbar.</MessageNoMedicalBeds>
+  <MessageNoMedicalBeds>Níl aon leaba ospidéil ar fáil.</MessageNoMedicalBeds>
   <!-- EN: There are no animal beds available. -->
-  <MessageNoAnimalBeds>Es sind keine Tierbetten verfügbar.</MessageNoAnimalBeds>
+  <MessageNoAnimalBeds>Níl aon leaba ainmhithe ar fáil.</MessageNoAnimalBeds>
   <!-- EN: Warning: {PAWN_nameDef}'s medicine restriction ({RESTRICTIONLABEL}) prevents doing this operation. Consider changing {PAWN_possessive} medicine restriction. -->
-  <MessageWarningNoMedicineForRestriction>Warnung: {replace: {PAWN_nameDef}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} aktueller Pflegemodus ({RESTRICTIONLABEL}) verhindert diese Operation. Erwäge, {PAWN_possessive}en Pflegemodus zu ändern.</MessageWarningNoMedicineForRestriction>
+  <MessageWarningNoMedicineForRestriction>Rabhadh: Ní féidir an obráid seo a dhéanamh, mar gheall ar na rialacha leighis ({RESTRICTIONLABEL}) atá i bhfeidhm ag {PAWN_nameDef}. B'fhiú an riail seo a athrú.</MessageWarningNoMedicineForRestriction>
   
   <!-- EN: {PAWN_labelShort} has died. Cause: {1}. -->
-  <PawnDiedBecauseOf>{PAWN_labelShort} ist an {1} gestorben.</PawnDiedBecauseOf>
+  <PawnDiedBecauseOf>Cailladh {PAWN_labelShort} de bharr: {1}.</PawnDiedBecauseOf>
   <!-- EN: {1_labelShort} has died. -->
-  <PawnDied>{1_labelShort} ist gestorben.</PawnDied>
+  <PawnDied>Cailleadh {1_labelShort}.</PawnDied>
 
   <!-- EN: {1_label} is no longer incapable of walking. -->
-  <MessageNoLongerDowned>{1_label} kann wieder laufen.</MessageNoLongerDowned>
+  <MessageNoLongerDowned>Níl {1_label} in ann siúl.</MessageNoLongerDowned>
 
   <!-- EN: {1_labelShort} has collapsed due to extreme exhaustion. -->
-  <MessageInvoluntarySleep>{1_labelShort} ist aufgrund extremer Erschöpfung zusammengebrochen.</MessageInvoluntarySleep>
+  <MessageInvoluntarySleep>Thit {1_labelShort} i léig.</MessageInvoluntarySleep>
 
   <!-- EN: This operation will anger {0}. -->
-  <MessageMedicalOperationWillAngerFaction>Diese Operation wird die Fraktion '{0}' verärgern.</MessageMedicalOperationWillAngerFaction>
+  <MessageMedicalOperationWillAngerFaction>Cuirfidh an obráid seo fearg ar an bhfaicsean '{0}'.</MessageMedicalOperationWillAngerFaction>
 
   <!-- EN: {PAWN_nameDef} is pregnant! -->
-  <MessageAnimalIsPregnant>{PAWN_nameDef} ist trächtig!</MessageAnimalIsPregnant>
+  <MessageAnimalIsPregnant>Tá {PAWN_nameDef} ag iompar clainne!</MessageAnimalIsPregnant>
   <!-- EN: {0} has miscarried due to starvation. -->
-  <MessageMiscarriedStarvation>{0} hatte aufgrund von Hungersnot eine Fehlgeburt.</MessageMiscarriedStarvation>
+  <MessageMiscarriedStarvation>Chaill {0} leanbh mar gheall ar ocras.</MessageMiscarriedStarvation>
   <!-- EN: {0} has miscarried due to poor health. -->
-  <MessageMiscarriedPoorHealth>{0} hatte aufgrund schlechter Gesundheit eine Fehlgeburt.</MessageMiscarriedPoorHealth>
+  <MessageMiscarriedPoorHealth>Chaill {0} leanbh mar gheall ar fhadhbanna sláinte.</MessageMiscarriedPoorHealth>
   <!-- EN: {0} has given birth. -->
-  <MessageGaveBirth>{0} hat ein Junges zur Welt gebracht.</MessageGaveBirth>
+  <MessageGaveBirth>Bhí leanbh ag {0}.</MessageGaveBirth>
   
   <!-- EN: {PAWN_labelShort} won't be able to use the psylink while {PAWN_pronoun} has zero psychic sensitivity. -->
-  <MessagePsylinkNoSensitivity>{PAWN_labelShort} wird nicht in der Lage sein, den Psylink zu benutzen, solange {PAWN_pronoun} eine mentale Sensibilität von Null hat.</MessagePsylinkNoSensitivity>
+  <MessagePsylinkNoSensitivity>Ní bheidh {PAWN_labelShort} in ann an sícea-nasc a úsáid mura bhfuil aon íogaireacht shíceach ag {PAWN_labelShort}.</MessagePsylinkNoSensitivity>
   <!-- EN: {PAWN_labelShort} has lost a {1} implant level due to {2}. -->
-  <MessageLostImplantLevelFromHediff>{PAWN_labelShort} hat {1} Implantatsstufen durch {2} verloren.</MessageLostImplantLevelFromHediff>
+  <MessageLostImplantLevelFromHediff>Laghdaíodh an láidreacht ionphlandú {PAWN_labelShort} ({1}) mar gheall ar {2}.</MessageLostImplantLevelFromHediff>
   <!-- EN: {PAWN_labelShort} has suffered {1} points of brain damage due to {2}. -->
-  <MessageReceivedBrainDamageFromHediff>{PAWN_labelShort} hat {1} Hirnschadenspunkte durch {2} erlitten.</MessageReceivedBrainDamageFromHediff>
+  <MessageReceivedBrainDamageFromHediff>Rinneadh {1} pointe damáiste inchinne do {PAWN_labelShort} mar gheall ar {2}.</MessageReceivedBrainDamageFromHediff>
   <!-- EN: {PAWN_labelShort} has exceeded the normal limit of neural heat. -->
-  <MessageWentOverPsychicEntropyLimit>{PAWN_labelShort} hat das normale Neuralhitzelimit überschritten.</MessageWentOverPsychicEntropyLimit>
+  <MessageWentOverPsychicEntropyLimit>Tá an iomarca teasa néarógaigh ar {PAWN_labelShort}.</MessageWentOverPsychicEntropyLimit>
 
   <!-- EN: No handler capable of taming {ANIMAL_kindBase} (requires level {1} in {2}, best capable handler {HANDLER_labelShort} has {4}). -->
-  <MessageNoHandlerSkilledEnough>Keiner deiner Tierpfleger kann {ANIMAL_kindBasePlural} zähmen (benötigt Stufe {1} in {2}, bester Pfleger {HANDLER_labelShort} hat {4}).</MessageNoHandlerSkilledEnough>
+  <MessageNoHandlerSkilledEnough>Níl aon láimhseálaí ainmhithe ann a bhfuil scil ard go leor aige chun {ANIMAL_kindBasePlural} a cheansú (tá leibhéal {1} de dhíth, tá leibhéal {4} ag an láimhseálaí ainmhithe is fearr, {HANDLER_labelShort}).</MessageNoHandlerSkilledEnough>
   
   <!-- EN: {EATEN_labelShort} has been eaten by {PREDATOR}. -->
-  <MessageEatenByPredator>{PREDATOR_kindBaseIndef} hat {EATEN_labelShort} gefressen.</MessageEatenByPredator>
+  <MessageEatenByPredator>D'ith {PREDATOR} {EATEN_labelShort}.</MessageEatenByPredator>
   <!-- EN: {PREY_labelShort} is being attacked by {PREDATOR}! -->
-  <MessageAttackedByPredator>{PREDATOR_kindBaseIndef} greift gerade {PREY_labelShort} an!</MessageAttackedByPredator>
+  <MessageAttackedByPredator>Tá {PREDATOR} ag ionsú {PREY_labelShort}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>{PAWN_labelShort} läuft frei umher! Das Tier wird die Karte bald verlassen, es sei denn, ein Tierpfleger bringt es zurück in ein Gehege.</MessageRoamerLeaving>
+  <MessageRoamerLeaving>Tá {PAWN_labelShort} ar seachrán! Ní mór {PAWN_labelShort} a choinneáil i bpionna ainmhithe, nó imeoidh sé {PAWN_pronoun}.</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
-  <MessageHiveReproduced>Eine Insektenkolonie hat sich vermehrt.</MessageHiveReproduced>
+  <MessageHiveReproduced>Tá coirceog feithídí tar éis é féin a atáirgeadh.</MessageHiveReproduced>
   
   <!-- EN: The trade caravan from {0} is leaving. -->
-  <MessageTraderCaravanLeaving>Die Handelskarawane der Fraktion '{0}' zieht weiter.</MessageTraderCaravanLeaving>
+  <MessageTraderCaravanLeaving>Tá an carbhán trádála ón bhfaicsean '{0}' ag imeacht.</MessageTraderCaravanLeaving>
   <!-- EN: The trade caravan from {0} has been dismissed. -->
-  <MessageTraderCaravanDismissed>TODO</MessageTraderCaravanDismissed>
+  <MessageTraderCaravanDismissed>Cuireadh deireadh leis an trádáil leis an carbhán ón bhfaicsean '{0}'.</MessageTraderCaravanDismissed>
 
   <!-- EN: {1_labelShort} is dead. -->
-  <MessageCantSelectDeadPawn>{1_labelShort} ist gestorben.</MessageCantSelectDeadPawn>
+  <MessageCantSelectDeadPawn>Tá {1_labelShort} marbh.</MessageCantSelectDeadPawn>
   <!-- EN: {1_labelShort} is off the map. -->
-  <MessageCantSelectOffMapPawn>{1_labelShort} hat die Karte verlassen.</MessageCantSelectOffMapPawn>
+  <MessageCantSelectOffMapPawn>Níl {1_labelShort} sa cheantar seo.</MessageCantSelectOffMapPawn>
   
   <!-- EN: {PAWN1_labelShort} started a social fight with {PAWN2_labelShort}. -->
-  <MessageSocialFight>{PAWN1_labelShort} hat eine Prügelei mit {PAWN2_labelShort} angefangen.</MessageSocialFight>
+  <MessageSocialFight>Thosaigh {PAWN1_labelShort} ag argóint le {PAWN2_labelShort}.</MessageSocialFight>
   
   <!-- EN: Colonists are gathering to celebrate {PAWN1_labelShort} and {PAWN2_labelShort}'s marriage. -->
-  <MessageNewMarriageCeremony>Die Kolonisten versammeln sich, um die Hochzeit von {PAWN1_labelShort} und {PAWN2_labelShort} zu feiern.</MessageNewMarriageCeremony>
+  <MessageNewMarriageCeremony>Tá coilínigh ag teacht le chéile chun pósadh {PAWN1_labelShort} agus {PAWN2_labelShort} a cheiliúradh.</MessageNewMarriageCeremony>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are beginning their marriage ceremony! -->
-  <MessageMarriageCeremonyStarts>Die Hochzeitszeremonie von {PAWN1_labelShort} und {PAWN2_labelShort} fängt an!</MessageMarriageCeremonyStarts>
+  <MessageMarriageCeremonyStarts>Tá tús curtha ag {PAWN1_labelShort} agus {PAWN2_labelShort} leis an searmanas pósta!</MessageMarriageCeremonyStarts>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has been called off. -->
-  <MessageMarriageCeremonyCalledOff>Die Hochzeitszeremonie für {PAWN1_labelShort} und {PAWN2_labelShort} wurde abgesagt.</MessageMarriageCeremonyCalledOff>
+  <MessageMarriageCeremonyCalledOff>Cuireadh an searmanas pósta idir {PAWN1_labelShort} agus {PAWN2_labelShort} ar ceal.</MessageMarriageCeremonyCalledOff>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} have married. Colonists are now celebrating the occasion. -->
-  <MessageNewlyMarried>{PAWN1_labelShort} und {PAWN2_labelShort} sind verheiratet. Die Kolonisten feiern diesen Anlass.</MessageNewlyMarried>
+  <MessageNewlyMarried>Phós {PAWN1_labelShort} agus {PAWN2_labelShort}. Tá coilínigh ag déanamh ceiliúradh ar an ócáid anois!</MessageNewlyMarried>
   <!-- EN: The marriage ceremony for {PAWN1_labelShort} and {PAWN2_labelShort} has finished. -->
-  <MessageMarriageCeremonyAfterPartyFinished>Die Hochzeitszeremonie von {PAWN1_labelShort} und {PAWN2_labelShort} ist beendet.</MessageMarriageCeremonyAfterPartyFinished>
+  <MessageMarriageCeremonyAfterPartyFinished>Tá deireadh tagtha leis an searmanas pósta idir {PAWN1_labelShort} agus {PAWN2_labelShort}.</MessageMarriageCeremonyAfterPartyFinished>
   
   <!-- EN: {HUMAN_labelShort} and {ANIMAL_labelShort} have formed a bond. -->
-  <MessageNewBondRelation>{HUMAN_labelShort} und {ANIMAL_labelShort} haben ein individuelles Band geknüpft.</MessageNewBondRelation>
+  <MessageNewBondRelation>Tá nasc cruthaithe ag {HUMAN_labelShort} le {ANIMAL_labelShort}.</MessageNewBondRelation>
   <!-- EN: {HUMAN_labelShort} and {1} have formed a bond. {HUMAN_labelShort} has named {ANIMAL_objective} {ANIMAL_nameFull}. -->
-  <MessageNewBondRelationNewName>{HUMAN_labelShort} und {1} haben ein individuelles Band geknüpft. {HUMAN_pronoun} nennt es {ANIMAL_nameFull}.</MessageNewBondRelationNewName>
+  <MessageNewBondRelationNewName>Tá nasc cruthaithe ag {HUMAN_labelShort} le {1}. Roghnaigh {HUMAN_labelShort} an t-ainm nua {ANIMAL_nameFull} a thabhairt air.</MessageNewBondRelationNewName>
   
   <!-- EN: {ANIMAL} has had a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalMentalBreak>{ANIMAL_kindBaseIndef} hat einen Nervenzusammenbruch, weil {HUMAN_labelShort} gestorben ist.</MessageBondedAnimalMentalBreak>
+  <MessageBondedAnimalMentalBreak>Tháinig cliseadh néarógach ar {ANIMAL_kindBaseIndef} mar gheall ar bhás {HUMAN_labelShort}.</MessageBondedAnimalMentalBreak>
   <!-- EN: {ANIMAL_kindIndef} named {ANIMAL_label} has had a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageNamedBondedAnimalMentalBreak>{ANIMAL_kindBaseIndef} namens {ANIMAL_label} hat einen Nervenzusammenbruch, weil {HUMAN_labelShort} gestorben ist.</MessageNamedBondedAnimalMentalBreak>
+  <MessageNamedBondedAnimalMentalBreak>Tá clíseadh néarógach tagtha ar {ANIMAL_label} mar gheall ar bhás {HUMAN_labelShort}.</MessageNamedBondedAnimalMentalBreak>
   <!-- EN: {0} animals have a mental break because of {HUMAN_labelShort}'s death. -->
-  <MessageBondedAnimalsMentalBreak>{0} Tiere haben einen Nervenzusammenbruch, weil {HUMAN_labelShort} gestorben ist.</MessageBondedAnimalsMentalBreak>
+  <MessageBondedAnimalsMentalBreak>Tá cliseadh néarógach ar {0} ainmhí mar gheall ar bhás {HUMAN_labelShort}.</MessageBondedAnimalsMentalBreak>
   
   <!-- EN: {SURGEON_labelShort} has successfully removed {PATIENT_labelShort}'s {HEDIFF}. -->
-  <MessageSuccessfullyRemovedHediff>{SURGEON_labelShort} hat erfolgreich {replace: {PATIENT_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {HEDIFF} entfernt.</MessageSuccessfullyRemovedHediff>
+  <MessageSuccessfullyRemovedHediff>D'éirigh le {SURGEON_labelShort} {HEDIFF} {PATIENT_labelShort} a bhaint.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>Teile eines Raumschiffs sind in der Nähe abgestürzt. Du kannst sie abreißen, um Ressourcen zu erhalten.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Tá smionagar spásloinge tar éis titim ón spéir sa cheantar máguaird. Is féidir iad a bhriseadh síos chun acmhainní a fháil.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>Einige Waren können nicht in den Handel einbezogen werden, weil: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Ní féidir roinnt earraí a thrádáil: </MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
-  <MessageConstructionFailed>{WORKER_labelShort} konnte '{0}' nicht bauen. Es wurden einige Ressourcen verschwendet.</MessageConstructionFailed>
+  <MessageConstructionFailed>Theip ar {WORKER_labelShort} agus '{0}' á thógáil. Cuireadh roinnt acmhainní amú.</MessageConstructionFailed>
 
   <!-- EN: Screenshot saved as: {0} -->
-  <MessageScreenshotSavedAs>Screenshot gespeichert unter: {0}</MessageScreenshotSavedAs>
+  <MessageScreenshotSavedAs>Sábháladh an seat scáileáin mar: {0}</MessageScreenshotSavedAs>
   
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer social fighting. -->
-  <MessageNoLongerSocialFighting>{PAWN1_labelShort} und {PAWN2_labelShort} prügeln sich nicht mehr.</MessageNoLongerSocialFighting>
+  <MessageNoLongerSocialFighting>Níl {PAWN1_labelShort} agus {PAWN2_labelShort} ag troid a thuilleadh.</MessageNoLongerSocialFighting>
   
   <!-- EN: {2_labelShort} is no longer binging on {1}. -->
-  <MessageNoLongerBingingOnDrug>{2_labelShort} hat genug von {1}.</MessageNoLongerBingingOnDrug>
+  <MessageNoLongerBingingOnDrug>Tá deireadh tagtha le craos ar bhia {2_labelShort}.</MessageNoLongerBingingOnDrug>
 
   <!-- EN: {PAWN_labelShort} is no longer on an insulting spree against {TARGET_label}. -->
-  <MessageNoLongerOnTargetedInsultingSpree>{PAWN_labelShort} hat aufgehört, {TARGET_label} zu beleidigen.</MessageNoLongerOnTargetedInsultingSpree>
+  <MessageNoLongerOnTargetedInsultingSpree>Níl {PAWN_labelShort} ag maslú {TARGET_label} a thuilleadh.</MessageNoLongerOnTargetedInsultingSpree>
 
   <!-- EN: {1_label} has rotted away in storage. -->
-  <MessageRottedAwayInStorage>{1_label} ist im Lager verdorben.</MessageRottedAwayInStorage>
+  <MessageRottedAwayInStorage>Chuaigh {1_label} in éag sa stóras.</MessageRottedAwayInStorage>
   
   <!-- EN: {PAWN_labelShort} has gotten food poisoning from: {FOOD_labelShort}. Cause: {2}. -->
-  <MessageFoodPoisoning>{PAWN_labelShort} hat eine Lebensmittelvergiftung bekommen von: {FOOD_labelShort}. Ursache: {2}.</MessageFoodPoisoning>
+  <MessageFoodPoisoning>Tá nimhiú bia tagtha ar {PAWN_labelShort} (Cúis: {FOOD_labelShort}, {2}.)</MessageFoodPoisoning>
   
   <!-- EN: {0} has been removed from the caravan. -->
-  <MessagePawnLostWhileFormingCaravan>{0} wurde aus der Karawane entfernt.</MessagePawnLostWhileFormingCaravan>
+  <MessagePawnLostWhileFormingCaravan>Baineadh {0} ón gcarbhán.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
-  <MessagePawnLostWhileFormingCaravan_AllLost>Die Formierung der Karawane wurde abgebrochen.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <MessagePawnLostWhileFormingCaravan_AllLost>Cuireadh deireadh leis an gcarbhán a chruthú.</MessagePawnLostWhileFormingCaravan_AllLost>
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
-  <MessageCaravanFormationPaused>Die Formierung der Karawane wird fortgesetzt, sobald sich alle von ihrem Nervenzusammenbruch erholt haben.</MessageCaravanFormationPaused>
+  <MessageCaravanFormationPaused>Ní féidir an carbhán a chruthú má tá cliseadh néarógach ar do choilínigh uile.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
-  <MessageCaravanFormationUnpaused>Deine Kolonisten werden nun die Formierung der Karawane fortsetzen.</MessageCaravanFormationUnpaused>
+  <MessageCaravanFormationUnpaused>Leanfaidh do choilínigh ar aghaidh leis an gcarbhán a chruthú anois.</MessageCaravanFormationUnpaused>
   
   <!-- EN: One of the caravan members has had a mental break. -->
-  <MessageCaravanMemberHasExtremeMentalBreak>Jemand in der Karawane hat einen Nervenzusammenbruch.</MessageCaravanMemberHasExtremeMentalBreak>
+  <MessageCaravanMemberHasExtremeMentalBreak>Tháinig cliseadh néarógach ar dhuine de na coilíneach sa charbhán.</MessageCaravanMemberHasExtremeMentalBreak>
   
   <!-- EN: Warning: It can take a very long time to generate an entire planet. -->
-  <MessageMaxPlanetCoveragePerformanceWarning>Warnung: Die Generierung eines ganzen Planeten kann sehr lange dauern.</MessageMaxPlanetCoveragePerformanceWarning>
+  <MessageMaxPlanetCoveragePerformanceWarning>Rabhadh: Tógann sé níos mó ama pláinéad iomlán a ghiniúint.</MessageMaxPlanetCoveragePerformanceWarning>
 
   <!-- EN: {0} has died because of cold. -->
-  <MessagePlantDiedOfCold>{0} ist erfroren.</MessagePlantDiedOfCold>
+  <MessagePlantDiedOfCold>Fuair {0} bás ón bhfuacht.</MessagePlantDiedOfCold>
   <!-- EN: {0} has died from rotting due to being left unharvested. -->
-  <MessagePlantDiedOfRot_LeftUnharvested>{0} ist verrottet, da es nicht abgeerntet wurde.</MessagePlantDiedOfRot_LeftUnharvested>
+  <MessagePlantDiedOfRot_LeftUnharvested>Níor baineadh {0} in am, agus fuair sé bás.</MessagePlantDiedOfRot_LeftUnharvested>
   <!-- EN: {0} has died due to being exposed to light. -->
-  <MessagePlantDiedOfRot_ExposedToLight>{0} ist durch Lichteinwirkung eingegangen.</MessagePlantDiedOfRot_ExposedToLight>
+  <MessagePlantDiedOfRot_ExposedToLight>Fuair {0} bas mar gheall ar nochtadh ar sholas.</MessagePlantDiedOfRot_ExposedToLight>
   <!-- EN: {0} has died from rotting. -->
-  <MessagePlantDiedOfRot>{0} ist verrottet.</MessagePlantDiedOfRot>
+  <MessagePlantDiedOfRot>Fuair {0} bás.</MessagePlantDiedOfRot>
   <!-- EN: {0} has died because of poison. -->
-  <MessagePlantDiedOfPoison>{0} ist durch Gift eingegangen.</MessagePlantDiedOfPoison>
+  <MessagePlantDiedOfPoison>Fuair {0} mar gheall ar nimhiú.</MessagePlantDiedOfPoison>
   <!-- EN: {1_label} has died because of blight. -->
-  <MessagePlantDiedOfBlight>{1_label} ist durch Fäulnis eingegangen.</MessagePlantDiedOfBlight>
+  <MessagePlantDiedOfBlight>Fuair {1_label} bás mar gheall ar smol.</MessagePlantDiedOfBlight>
 
   <!-- EN: {1_labelShort} is being burned by superheated air! -->
-  <MessagePawnBeingBurned>{1_labelShort} verbrennt gerade durch extrem heiße Luft!</MessagePawnBeingBurned>
+  <MessagePawnBeingBurned>Tá {1_labelShort} ag dó mar gheall ar aer forthéite!</MessagePawnBeingBurned>
 
   <!-- EN: {INGESTER} has accidentally overdosed while consuming {DRUG_labelShort}! -->
-  <MessageAccidentalOverdose>{INGESTER} hat versehentlich zu viel {DRUG_labelShort} konsumiert!</MessageAccidentalOverdose>
+  <MessageAccidentalOverdose>Thóg {INGESTER} ródháileóg {DRUG_labelShort} trí thimpiste!</MessageAccidentalOverdose>
   
   <!-- EN: {0} has arrived at its destination. -->
-  <MessageCaravanArrivedAtDestination>{0} hat ihren Zielort erreicht.</MessageCaravanArrivedAtDestination>
+  <MessageCaravanArrivedAtDestination>Tá ceann scríbe bainte amach ag {0}.</MessageCaravanArrivedAtDestination>
   
   <!-- EN: {1_labelShort} has left the area and formed a caravan. -->
-  <MessagePawnLeftMapAndCreatedCaravan>{1_labelShort} hat das Gebiet verlassen und eine Karawane formiert.</MessagePawnLeftMapAndCreatedCaravan>
+  <MessagePawnLeftMapAndCreatedCaravan>D'fhág {1_labelShort} agus chruthaigh {PAWN_pronoun} carbhán.</MessagePawnLeftMapAndCreatedCaravan>
   <!-- EN: Your animals are moving to join it. -->
-  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Deine Tiere schließen sich ihr an.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
+  <MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>Tá do chuid ainmihthe ag dul leis an gcarbhán.</MessagePawnLeftMapAndCreatedCaravan_AnimalsWantToJoin>
   
   <!-- EN: You have successfully settled in a new area. -->
-  <MessageSettledInExistingMap>Du hast erfolgreich eine neue Siedlung gegründet.</MessageSettledInExistingMap>
+  <MessageSettledInExistingMap>D'éirigh leat lonnú in áit nua.</MessageSettledInExistingMap>
   
   <!-- EN: {PAWN_labelShort}'s {2} has healed. Cause: {0} -->
-  <MessagePermanentWoundHealed>{replace: {PAWN_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {2} wurde geheilt. Ursache: {0}</MessagePermanentWoundHealed>
+  <MessagePermanentWoundHealed>Tá {2} {PAWN_labelShort} leigheasta. Cúis: {0}</MessagePermanentWoundHealed>
   
   <!-- EN: [PAWN_nameDef] has recovered and decided to leave. -->
-  <MessageRescueeDidntJoin>[PAWN_nameDef] hat sich erholt und beschlossen zu gehen.</MessageRescueeDidntJoin>
+  <MessageRescueeDidntJoin>Tá [PAWN_nameDef] leigheasta, agus tá cinneadh déanta ag [PAWN_nameDef] imeacht.</MessageRescueeDidntJoin>
   
   <!-- EN: Some transport pods are unreachable. -->
-  <MessageTransporterUnreachable>Einige Transportkapseln sind nicht erreichbar.</MessageTransporterUnreachable>
+  <MessageTransporterUnreachable>Ní roinnt podanna iompair nach bhfuil inrochtana.</MessageTransporterUnreachable>
   <!-- EN: All pod launchers connected to the selected transport pods must be adjacent. -->
-  <MessageTransportersNotAdjacent>Alle Startrampen der ausgewählten Transportkapseln müssen nebeneinanderstehen.</MessageTransportersNotAdjacent>
+  <MessageTransportersNotAdjacent>Ní mór go mbeidh na lainseálaithe taobh le taobh.</MessageTransportersNotAdjacent>
   
   <!-- EN: The loading process has been canceled because one of the transport pods has been destroyed. -->
-  <MessageTransportersLoadCanceled_TransporterDestroyed>Der Beladevorgang wurde abgebrochen, da eine der Transportkapseln zerstört wurde.</MessageTransportersLoadCanceled_TransporterDestroyed>
+  <MessageTransportersLoadCanceled_TransporterDestroyed>Cuireadh deireadh leis an bpróiseas lódála toisc gur scriosadh ceann amháin nó níos mó de na podanna iompair.</MessageTransportersLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because the shuttle has been destroyed. -->
-  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>Der Beladungsvorgang wurde abgebrochen, weil das Shuttle zerstört wurde.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+  <MessageTransporterSingleLoadCanceled_TransporterDestroyed>Cuireadh deireadh leis an bpróiseas lódála toisc gur scriosadh an toineálaí.</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
   <!-- EN: The loading process has been canceled because one of the pod launchers has been destroyed. -->
-  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Der Beladevorgang wurde abgebrochen, da eine der Startrampen zerstört wurde.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+  <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>Cuireadh deireadh leis an bpróiseas lódála toisc gur scriosadh ceann de na láinseálaithe.</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
   
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
-  <MessageTransportersLoadingProcessStarted>Zugewiesene Waren und Personen werden jetzt in die Transportkapseln geladen.</MessageTransportersLoadingProcessStarted>
+  <MessageTransportersLoadingProcessStarted>Lódálfar na hearraí agus na daoine roghnaithe isteach sna podanna iompair.</MessageTransportersLoadingProcessStarted>
   <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
-  <MessageTransporterSingleLoadingProcessStarted>Zugewiesene Waren und Personen werden jetzt in das Shuttle geladen.</MessageTransporterSingleLoadingProcessStarted>
+  <MessageTransporterSingleLoadingProcessStarted>Lódálfar na hearraí agus na daoine roghnaithe isteach sa thionteálaí.</MessageTransporterSingleLoadingProcessStarted>
   
   <!-- EN: Your transport pods have arrived. -->
-  <MessageTransportPodsArrived>Deine Transportkapseln sind eingetroffen.</MessageTransportPodsArrived>
+  <MessageTransportPodsArrived>Tá ceann scríbe bainte amach ag do phodanna iompair.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
-  <MessageTransportPodsArrivedAndLost>Deine Transportkapseln sind eingetroffen, aber da keine Kolonisten an Bord waren, ist der Inhalt verloren gegangen.</MessageTransportPodsArrivedAndLost>
+  <MessageTransportPodsArrivedAndLost>Tá ceann scríbe bainte amach ag do phodanna iompair, ach cailleadh na hearraí a bhí iontu toisc nach raibh aon choilíneach leo.</MessageTransportPodsArrivedAndLost>
   <!-- EN: Your transport pods have arrived. The contents have been added to {0}. -->
-  <MessageTransportPodsArrivedAndAddedToCaravan>Deine Transportkapseln sind eingetroffen. Der Inhalt wurde in {0} geladen.</MessageTransportPodsArrivedAndAddedToCaravan>
+  <MessageTransportPodsArrivedAndAddedToCaravan>Tá ceann scríbe bainte amach ag do phodanna iompair. Cuireadh na hearraí a bhí iontú le: {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
   
   <!-- EN: Transport pod loading complete. Launch when ready. -->
-  <MessageFinishedLoadingTransporters>Transportkapseln wurden fertig beladen und sind startbereit.</MessageFinishedLoadingTransporters>
+  <MessageFinishedLoadingTransporters>Tá na podanna iompair lódáilte. Is féidir iad a leainseáil nuair a bheidh tú réidh.</MessageFinishedLoadingTransporters>
   <!-- EN: Shuttle is loaded with required cargo and can launch when ready. -->
-  <MessageFinishedLoadingTransporterSingle>Shuttle wurde mit den erforderlichen Waren oder Personen beladen und ist startbereit.</MessageFinishedLoadingTransporterSingle>
+  <MessageFinishedLoadingTransporterSingle>Tá an tointeálaí lódáilte. Is féidir é a leainseáil nuair a bheidh tú réidh.</MessageFinishedLoadingTransporterSingle>
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoTransporters>Deine {1} können die Transportkapseln nicht fertig beladen, da einige Waren oder Personen nicht mehr verfügbar sind ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <MessageCantLoadMoreIntoTransporters>Ní féidir leanúint leis na podanna iompair a lódáil, toisc nach bhfuil roinnt earraí nó daoine ar fáil a thuilleadh ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
-  <MessageCantLoadMoreIntoPortal>TODO</MessageCantLoadMoreIntoPortal>
+  <MessageCantLoadMoreIntoPortal>{0}: Ní féidir dul isteach níos mó, toisc nach bhfuil roinnt earraí nó daoine ar fáil a thuilleadh ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   
   <!-- EN: Selected destination is invalid. -->
-  <MessageTransportPodsDestinationIsInvalid>Gewählter Zielort ist ungültig.</MessageTransportPodsDestinationIsInvalid>
+  <MessageTransportPodsDestinationIsInvalid>Níl an ceann scríbe seo bailí.</MessageTransportPodsDestinationIsInvalid>
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
-  <MessageTransportPodsDestinationIsTooFar>Jede Startrampe benötigt mindestens {0}x Sprit, um Transportkapseln über eine so große Entfernung zu befördern.</MessageTransportPodsDestinationIsTooFar>
+  <MessageTransportPodsDestinationIsTooFar>Chun na podanna a sheoladh chomh fada sin, bheadh ar a laghad {0}x ceimi-peitreal de dhíth ar gach pod iompair.</MessageTransportPodsDestinationIsTooFar>
   
   <!-- EN: The caravan has been reformed. -->
-  <MessageReformedCaravan>Die Karawane wurde neu formiert.</MessageReformedCaravan>
+  <MessageReformedCaravan>Athchruthaíodh an carbhán.</MessageReformedCaravan>
   
   <!-- EN: You can't banish the last colonist. -->
-  <MessageCantBanishLastColonist>Du kannst den letzten Kolonisten nicht verbannen.</MessageCantBanishLastColonist>
+  <MessageCantBanishLastColonist>Ní féidir an coilíneach deireanach a ruaigeadh.</MessageCantBanishLastColonist>
 
   <!-- EN: Cannot equip: {0}. -->
-  <MessageCantEquipCustom>Kann nicht ausgerüstet werden: {0}</MessageCantEquipCustom>
+  <MessageCantEquipCustom>Ní féidir seo a úsáid: {0}</MessageCantEquipCustom>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of violence. -->
-  <MessageCantEquipIncapableOfViolence>Kann nicht ausgerüstet werden: {1_labelShort} verweigert Gewalt.</MessageCantEquipIncapableOfViolence>
+  <MessageCantEquipIncapableOfViolence>Ní féidir seo a úsáid: Is fuath le {1_labelShort} foréigean.</MessageCantEquipIncapableOfViolence>
   <!-- EN: Cannot equip: {1_labelShort} is incapable of shooting. -->
-  <MessageCantEquipIncapableOfShooting>Kann sich nicht bewaffnen: {1_labelShort} kann nicht schießen.</MessageCantEquipIncapableOfShooting>
+  <MessageCantEquipIncapableOfShooting>Ní féidir seo a úsáid:: Ní féidir le {1_labelShort} lámhach.</MessageCantEquipIncapableOfShooting>
   <!-- EN: Cannot equip: Incapable. -->
-  <MessageCantEquipIncapableOfManipulation>Kann nicht ausgerüstet werden: Handlungsunfähig.</MessageCantEquipIncapableOfManipulation>
+  <MessageCantEquipIncapableOfManipulation>Níl {1_labelShort} in ann seo a úsáid.</MessageCantEquipIncapableOfManipulation>
   <!-- EN: Cannot wear: {1_labelShort} is missing required body parts. -->
-  <MessageCantWearApparelMissingBodyParts>Kann nicht getragen werden: {1_labelShort} fehlen die erforderlichen Körperteile.</MessageCantWearApparelMissingBodyParts>
+  <MessageCantWearApparelMissingBodyParts>Ní féidir seo a chaitheamh: Tá ball den chorp ar lár ag {1_labelShort}.</MessageCantWearApparelMissingBodyParts>
   <!-- EN: This person refuses to remove this. -->
-  <MessageCantUnequipLockedApparel>Diese Person weigert sich, das abzulegen.</MessageCantUnequipLockedApparel>
+  <MessageCantUnequipLockedApparel>Níl an duine seo sásta é seo a bhaint.</MessageCantUnequipLockedApparel>
   <!-- EN: Cannot wear: This would replace apparel {1_labelShort} refues to remove. -->
-  <MessageWouldReplaceLockedApparel>Kann nicht getragen werden: Dies würde Kleidung ersetzen, die {1_labelShort} nicht ablegen will.</MessageWouldReplaceLockedApparel>
+  <MessageWouldReplaceLockedApparel>Ní féidir seo a chaitheamh: Níl an duine seo sásta {1_labelShort} a bhaint.</MessageWouldReplaceLockedApparel>
   
   <!-- EN: Because they are bonded, slaughtering {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageSlaughteringBondedAnimal>Da sie aneinander gebunden sind, bekommt {BONDED_labelShort} schlechte Laune, wenn {DESIGNATED_labelShort} geschlachtet wird.</MessageSlaughteringBondedAnimal>
+  <MessageSlaughteringBondedAnimal>Tá nasc ann idir {DESIGNATED_labelShort} agus {BONDED_labelShort}, agus beidh {BONDED_labelShort} thar a bheith míshásta má mharaítear {DESIGNATED_labelShort}.</MessageSlaughteringBondedAnimal>
   <!-- EN: Because they are bonded, releasing {DESIGNATED_labelShort} will make {BONDED_labelShort} unhappy. -->
-  <MessageReleaseBondedAnimal>Da sie aneinander gebunden sind, bekommt {BONDED_labelShort} schlechte Laune, wenn {DESIGNATED_labelShort} in die Wildnis entlassen wird.</MessageReleaseBondedAnimal>
+  <MessageReleaseBondedAnimal>Tá nasc ann idir {DESIGNATED_labelShort} agus {BONDED_labelShort}, agus beidh {BONDED_labelShort} thar a bheith míshásta má scaoiltear saor {DESIGNATED_labelShort}.</MessageReleaseBondedAnimal>
   
   <!-- EN: {0} has run out of food. -->
-  <MessageCaravanRanOutOfFood>{0} hat keine Nahrung mehr.</MessageCaravanRanOutOfFood>
+  <MessageCaravanRanOutOfFood>Níl aon bhia fágtha ag {0}.</MessageCaravanRanOutOfFood>
   <!-- EN: {PAWN_definite}'s corpse has been picked up by the caravan. It is heavy and may immobilize the caravan, but can be left behind in the caravan items tab. -->
-  <MessageCaravanDeathCorpseAddedToInventory>{replace: {PAWN_definite}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} Leiche wurde von der Karawane eingesammelt. Sie ist schwer und kann die Karawane lahmlegen, allerdings kann sie im WAREN-Tab der Karawane zurückgelassen werden.</MessageCaravanDeathCorpseAddedToInventory>
+  <MessageCaravanDeathCorpseAddedToInventory>Tá corp {PAWN_definite} pioctha suas ag an gcarbhán. Tá sé trom, agus d'fhéadfadh sé moill a chur ar an gcarbhán. Is féidir an corp a fhágáil ina ndiaidh, más gá.</MessageCaravanDeathCorpseAddedToInventory>
 
   <!-- EN: To form a caravan, select your own colony or a site where you have people. -->
-  <MessageSelectOwnBaseToFormCaravan>Um eine Karawane zu formieren, selektiere deine eigene Kolonie oder einen Ort, wo sich Kolonisten aufhalten.</MessageSelectOwnBaseToFormCaravan>
+  <MessageSelectOwnBaseToFormCaravan>Chun carbhán a chruthú, roghnaigh do choilíneacht féin nó roghnaigh suíomh ar an léarscáil ina bhfuil do choilínigh.</MessageSelectOwnBaseToFormCaravan>
 
   <!-- EN: At this resolution and UI scale, the game interface would not fit on-screen. Please reduce UI scale or increase resolution. -->
-  <MessageScreenResTooSmallForUIScale>Bei dieser Auflösung und UI-Skalierung wird das Spiel-Interface nicht auf den Bildschirm passen. Reduziere deine UI-Skalierung oder erhöhe die Auflösung.</MessageScreenResTooSmallForUIScale>
+  <MessageScreenResTooSmallForUIScale>Má úsáidtear an taifeach seo leis an scála seo, ní bheidh go leor spáis ar an scáileán do na roghchláir. Ní mór scála níos ísle a roghnú nó taifeach scáileáin níos airde a úsáid.</MessageScreenResTooSmallForUIScale>
   
   <!-- EN: You have to reform the caravan now. Everyone left behind will be abandoned. -->
-  <MessageYouHaveToReformCaravanNow>Du musst deine Karawane jetzt neu formieren. Jeder, der zurückgelassen wird, ist für immer verloren.</MessageYouHaveToReformCaravanNow>
+  <MessageYouHaveToReformCaravanNow>Ní mór duit an carbhán a athchruthú anois. Má fhágtar daoine taobh thiar, beidh siad caillte.</MessageYouHaveToReformCaravanNow>
   
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <MessageDefendersAttacking>{0} der Fraktion '{1}' greifen deine {2} an.</MessageDefendersAttacking>
+  <MessageDefendersAttacking>Tá {0} ón bhfaicsean '{1}' ag ionsú.</MessageDefendersAttacking>
   <!-- EN: Mechanoids have been assembled and will defend their cluster. -->
-  <MessageMechanoidsAssembled>Mechanoiden wurden gebaut und werden ihren Cluster verteidigen.</MessageMechanoidsAssembled>
+  <MessageMechanoidsAssembled>Tá na meicea-róbait bailithe le chéile anois, agus cosnóidh siad a meicea-charn.</MessageMechanoidsAssembled>
   <!-- EN: Remaining mechanoids to assemble -->
-  <MessageMechanoidsLeftToAssemble>Noch zu bauende Mechanoiden</MessageMechanoidsLeftToAssemble>
+  <MessageMechanoidsLeftToAssemble>Meicea-róbait atá fós le bailiú le chéile:</MessageMechanoidsLeftToAssemble>
   <!-- EN: Mech drop beacon has summoned reinforcements in drop pods nearby. -->
-  <MessageMechanoidsReinforcementsDrop>Eine Mech-Bake hat in der Nähe neue Mechanoiden via Landungskapseln herbeigerufen.</MessageMechanoidsReinforcementsDrop>
+  <MessageMechanoidsReinforcementsDrop>Tá tuilleadh meicea-róbait ar an mbealach i bpodanna iompair.</MessageMechanoidsReinforcementsDrop>
 
   <!-- EN: To self-tend, {1_labelShort} must also be assigned to Doctor work. -->
-  <MessageSelfTendUnsatisfied>Für die Selbstbehandlung muss {1_labelShort} als Arzt eingeteilt werden.</MessageSelfTendUnsatisfied>
+  <MessageSelfTendUnsatisfied>Ní mór go mbeidh obair dhochtúra sannta do choilínigh sula mbeidh siad in ann féinchóireáil.</MessageSelfTendUnsatisfied>
   <!-- EN: {1_labelShort} is incapable of doing Doctor work, and so cannot ever self-tend. -->
-  <MessageCannotSelfTendEver>{1_labelShort} verweigert Verarzten und kann sich daher nicht selbst behandeln.</MessageCannotSelfTendEver>
+  <MessageCannotSelfTendEver>Níl {1_labelShort} in ann obair dhochtúra a dhéanamh, féinchóireáil san áireamh.</MessageCannotSelfTendEver>
   
   <!-- EN: This tile is impassable. -->
-  <MessageCantAddWaypointBecauseImpassable>Dieses Feld ist unpassierbar.</MessageCantAddWaypointBecauseImpassable>
+  <MessageCantAddWaypointBecauseImpassable>Ní féidir dul thar an tíl seo.</MessageCantAddWaypointBecauseImpassable>
   <!-- EN: It's not possible to reach this tile from the last waypoint. -->
-  <MessageCantAddWaypointBecauseUnreachable>Es ist nicht möglich, dieses Feld vom letzten Wegpunkt aus zu erreichen.</MessageCantAddWaypointBecauseUnreachable>
+  <MessageCantAddWaypointBecauseUnreachable>Ní féidir an tíl seo a bhaint amach ón treoirphointe deireanach.</MessageCantAddWaypointBecauseUnreachable>
   <!-- EN: You can't add more than {0} waypoints. -->
-  <MessageCantAddWaypointBecauseLimit>Du kannst nicht mehr als {0} Wegpunkte setzen.</MessageCantAddWaypointBecauseLimit>
+  <MessageCantAddWaypointBecauseLimit>Ní féidir níos mó ná {0} treoirphointe a úsáid.</MessageCantAddWaypointBecauseLimit>
   <!-- EN: You can't remove this waypoint. -->
-  <MessageCantRemoveWaypointBecauseFirst>Du kannst diesen Wegpunkt nicht entfernen.</MessageCantRemoveWaypointBecauseFirst>
+  <MessageCantRemoveWaypointBecauseFirst>Ní féidir an treoirphointe seo a bhaint.</MessageCantRemoveWaypointBecauseFirst>
   
   <!-- EN: None of your wardens is capable of violence. The execution won't be performed. -->
-  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Keiner deiner Wärter ist zu Gewalt fähig. Die Hinrichtung kann nicht stattfinden.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
+  <MessageCantDoExecutionBecauseNoWardenCapableOfViolence>Ní féidir le do ghardaí dul i mbun foréigin. Ní mharófar an príosúnach.</MessageCantDoExecutionBecauseNoWardenCapableOfViolence>
   
   <!-- EN: Area is now safe. You can reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemies>Gebiet ist nun sicher. Du kannst die Karawane auf der Weltkarte neu formieren.</MessageCanReformCaravanNowNoMoreEnemies>
+  <MessageCanReformCaravanNowNoMoreEnemies>Tá an ceantar sábháilte anois. Is féidir an carbhán a athchruthú ar léarscáil an domhain.</MessageCanReformCaravanNowNoMoreEnemies>
   <!-- EN: Area is now safe, but some unexplored rooms remain. You can explore further or reform the caravan on the world map. -->
-  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Gebiet ist nun sicher, aber es gibt noch unerforschte Räume. Du kannst weiter erkunden oder die Karawane auf der Weltkarte neu formieren.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
+  <MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>Tá an ceantar sábháilte anois, ach tá roinnt seomraí nár osclaíodh go fóill. Is féidir leat breathnú thart, nó an carbhán a athchruthú ar léarscáil an domhain.</MessageCanReformCaravanNowNoMoreEnemiesButUnexploredAreas>
 
   <!-- EN: Cannot banish {1_labelShort} since {1_pronoun} cannot walk. -->
-  <MessageCantBanishDownedPawn>Kann {1_labelShort} nicht verbannen, da {1_pronoun} nicht laufen kann.</MessageCantBanishDownedPawn>
+  <MessageCantBanishDownedPawn>Ní féidir {1_labelShort} a ruaigeadh, os rud é nach bhfuil {1_pronoun} in ann siúl.</MessageCantBanishDownedPawn>
 
   <!-- EN: {0} have woken up. -->
-  <MessageSleepingPawnsWokenUp>{0} sind aufgewacht.</MessageSleepingPawnsWokenUp>
+  <MessageSleepingPawnsWokenUp>Dhúisigh {0}.</MessageSleepingPawnsWokenUp>
   <!-- EN: Mech cluster buildings have been defeated. -->
-  <MessageMechClusterDefeated>Mech-Cluster-Strukturen wurden zerstört.</MessageMechClusterDefeated>
+  <MessageMechClusterDefeated>Cloíodh na meicea-chairn.</MessageMechClusterDefeated>
 
   <!-- EN: Item produced: {0}. -->
-  <MessageCompSpawnerSpawnedItem>{0} wurde produziert.</MessageCompSpawnerSpawnedItem>
+  <MessageCompSpawnerSpawnedItem>Cruthaíodh {0}.</MessageCompSpawnerSpawnedItem>
 
   <!-- EN: Health condition healed: {0}. -->
-  <MessageHediffCuredByItem>Gesundheitszustand geheilt: {0}.</MessageHediffCuredByItem>
+  <MessageHediffCuredByItem>Tá fadhb sláinte leigheasta: {0}.</MessageHediffCuredByItem>
   <!-- EN: Body part restored: {0}. -->
-  <MessageBodyPartCuredByItem>Körperteil wiederhergestellt: {0}.</MessageBodyPartCuredByItem>
+  <MessageBodyPartCuredByItem>Tá ball coirp leigheasta: {0}.</MessageBodyPartCuredByItem>
   <!-- EN: Technology given: {0}. -->
-  <MessageResearchProjectFinishedByItem>Technologie erhalten: {0}.</MessageResearchProjectFinishedByItem>
+  <MessageResearchProjectFinishedByItem>Baineadh amach teicneolaíocht nua: {0}.</MessageResearchProjectFinishedByItem>
 
   <!-- EN: {0} has been brought back to life! -->
-  <MessagePawnResurrected>{0} weilt wieder unter den Lebenden!</MessagePawnResurrected>
+  <MessagePawnResurrected>Tháinig {0} ar ais ón marbh!</MessagePawnResurrected>
 
   <!-- EN: You have failed to rescue {PAWN_labelShort}. This will make {RELATIVE_labelShort} sad. -->
-  <MessageFailedToRescueRelative>Du konntest {PAWN_labelShort} nicht retten. Das wird {RELATIVE_labelShort} traurig machen.</MessageFailedToRescueRelative>
+  <MessageFailedToRescueRelative>Níor éirigh leat {PAWN_labelShort} a tharrtháil. Beidh {RELATIVE_labelShort} brónach.</MessageFailedToRescueRelative>
   <!-- EN: You have rescued {PAWN_labelShort}. This will make {RELATIVE_labelShort} happy. -->
-  <MessageRescuedRelative>Du konntest {PAWN_labelShort} retten. Das wird {RELATIVE_labelShort} glücklich machen.</MessageRescuedRelative>
+  <MessageRescuedRelative>D'éirigh leat {PAWN_labelShort} a tharrtháil. Beidh {RELATIVE_labelShort} an-sásta.</MessageRescuedRelative>
 
   <!-- EN: The tornado has left the map. -->
-  <MessageTornadoLeftMap>Der Tornado hat das Gebiet verlassen.</MessageTornadoLeftMap>
+  <MessageTornadoLeftMap>Tá an tornádó imithe.</MessageTornadoLeftMap>
   <!-- EN: The tornado has dissipated. -->
-  <MessageTornadoDissipated>Der Tornado hat sich aufgelöst.</MessageTornadoDissipated>
+  <MessageTornadoDissipated>Tá deireadh tagtha leis an tornádó.</MessageTornadoDissipated>
 
   <!-- EN: No conscious, capable diplomat. -->
-  <MessagePeaceTalksNoDiplomat>Kein fähiger Diplomat bei Bewusstsein.</MessagePeaceTalksNoDiplomat>
+  <MessagePeaceTalksNoDiplomat>Níl aon taidhleoir ar fáil.</MessagePeaceTalksNoDiplomat>
 
   <!-- EN: Warning: {0} cannot live when exposed to light. -->
-  <MessageWarningCavePlantsExposedToLight>Warnung: {0} verträgt keine Lichteinwirkung.</MessageWarningCavePlantsExposedToLight>
+  <MessageWarningCavePlantsExposedToLight>Rabhadh: Gheobhaidh {0} bás má nochtadh iad ar solas.</MessageWarningCavePlantsExposedToLight>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedTantrumChangedTarget>{PAWN_labelShort} konnte {OLDTARGET_label} nicht erreichen, also lässt {PAWN_pronoun} {PAWN_possessive}e Wut stattdessen an {TARGET_label} aus.</MessageTargetedTantrumChangedTarget>
+  <MessageTargetedTantrumChangedTarget>Ní raibh {PAWN_labelShort} in ann {OLDTARGET_label} a aimsiú, mar sin chinn {PAWN_pronoun} a f{PAWN_possessive}earg a ligean amach ar {TARGET_label}.</MessageTargetedTantrumChangedTarget>
 
   <!-- EN: {PAWN_labelShort} couldn't reach {OLDTARGET_label} so {PAWN_pronoun} decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageTargetedInsultingSpreeChangedTarget>{PAWN_labelShort} konnte {OLDTARGET_label} nicht erreichen, also lässt {PAWN_pronoun} {PAWN_possessive}e Wut stattdessen an {TARGET_label} aus.</MessageTargetedInsultingSpreeChangedTarget>
+  <MessageTargetedInsultingSpreeChangedTarget>Ní raibh {PAWN_labelShort} in ann {OLDTARGET_label} a aimsiú, mar sin chinn {PAWN_pronoun} {TARGET_label} a mhaslú.</MessageTargetedInsultingSpreeChangedTarget>
 
   <!-- EN: {PAWN_labelShort} has decided to redirect {PAWN_possessive} anger at {TARGET_label}. -->
-  <MessageMurderousRageChangedTarget>{PAWN_labelShort} hat beschlossen, {PAWN_possessive}e Wut stattdessen an {TARGET_label} auszulassen.</MessageMurderousRageChangedTarget>
+  <MessageMurderousRageChangedTarget>Chinn {PAWN_pronoun} a f{PAWN_possessive}earg a ligean amach ar {TARGET_label}.</MessageMurderousRageChangedTarget>
 
   <!-- EN: {0} cannot grow underneath a roof. -->
-  <MessagePlantIncompatibleWithRoof>{0} können nicht unter einem Dach wachsen.</MessagePlantIncompatibleWithRoof>
+  <MessagePlantIncompatibleWithRoof>Ní féidir {0} a fhás faoi dhíon.</MessagePlantIncompatibleWithRoof>
   <!-- EN: Cannot build a roof over {0}. -->
-  <MessageRoofIncompatibleWithPlant>{0} kann nicht überdacht werden.</MessageRoofIncompatibleWithPlant>
+  <MessageRoofIncompatibleWithPlant>Ní féidir {0} díon a thógáil ar.</MessageRoofIncompatibleWithPlant>
 
   <!-- EN: To leave the area, use the 'reform caravan' button in the world view. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Um das Gebiet zu verlassen, verwende die Schaltfläche 'Karawane neu formieren' in der Weltkarte.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>Le himeacht ón gceantar, oscail léarscáil an domhain agus roghnaigh 'athchruthaigh carbhán'.</MessagePlayerTriedToLeaveMapViaExitGrid_CanReform>
   <!-- EN: You can't leave the map now. -->
-  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Du kannst die Karte momentan nicht verlassen.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
+  <MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>Ní féidir imeacht ón gceantar seo faoi láthair.</MessagePlayerTriedToLeaveMapViaExitGrid_CantReform>
 
   <!-- EN: Relations with {0} have changed from {1} to {2}. -->
-  <MessageGoodwillChanged>Dein Ruf bei der Fraktion '{0}' hat sich von {1} auf {2} geändert.</MessageGoodwillChanged>
+  <MessageGoodwillChanged>D'athraigh do chaidreamh leis an bhfaicsean '{0}' ó '{1}' go '{2}'.</MessageGoodwillChanged>
   <!-- EN: Relations with {0} have changed from {1} to {2} ({3}). -->
-  <MessageGoodwillChangedWithReason>Dein Ruf bei der Fraktion '{0}' hat sich von {1} auf {2} geändert ({3}).</MessageGoodwillChangedWithReason>
+  <MessageGoodwillChangedWithReason>D'athraigh do chaidreamh leis an bhfaicsean '{0}' ó '{1}' go '{2}' ({3}).</MessageGoodwillChangedWithReason>
   <!-- EN: attacked {1_labelShort} -->
-  <GoodwillChangedReason_AttackedPawn>{1_labelShort} angegriffen</GoodwillChangedReason_AttackedPawn>
+  <GoodwillChangedReason_AttackedPawn>ionsaíodh {1_labelShort}</GoodwillChangedReason_AttackedPawn>
   <!-- EN: used {ITEM_labelShort} on {TARGET_labelShort} -->
-  <GoodwillChangedReason_UsedItem>{ITEM_labelShort} auf {TARGET_labelShort} angewendet</GoodwillChangedReason_UsedItem>
+  <GoodwillChangedReason_UsedItem>úsáideadh {ITEM_labelShort} ar {TARGET_labelShort}</GoodwillChangedReason_UsedItem>
   <!-- EN: used {0} on {1} -->
-  <GoodwillChangedReason_UsedAbility>{0} auf {1} angewendet</GoodwillChangedReason_UsedAbility>
+  <GoodwillChangedReason_UsedAbility>úsáideadh {0} ar {1}</GoodwillChangedReason_UsedAbility>
   <!-- EN: harvested {0} -->
-  <GoodwillChangedReason_RemovedBodyPart>{0} entnommen</GoodwillChangedReason_RemovedBodyPart>
+  <GoodwillChangedReason_RemovedBodyPart>baineadh {0}</GoodwillChangedReason_RemovedBodyPart>
   <!-- EN: removed {0} -->
-  <GoodwillChangedReason_RemovedImplant>{0} entfernt</GoodwillChangedReason_RemovedImplant>
+  <GoodwillChangedReason_RemovedImplant>baineadh {0}</GoodwillChangedReason_RemovedImplant>
   <!-- EN: downgraded {0} -->
-  <GoodwillChangedReason_DowngradedImplant>{0} herabgestuft</GoodwillChangedReason_DowngradedImplant>
+  <GoodwillChangedReason_DowngradedImplant>íosghrádaíodh {0}</GoodwillChangedReason_DowngradedImplant>
   <!-- EN: needlessly installed {0} -->
-  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>{0} grundlos implantiert</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
+  <GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>suiteáladh {0} gan chúis</GoodwillChangedReason_NeedlesslyInstalledWorseBodyPart>
   <!-- EN: captured {1_labelShort} -->
-  <GoodwillChangedReason_CapturedPawn>{1_labelShort} eingefangen</GoodwillChangedReason_CapturedPawn>
+  <GoodwillChangedReason_CapturedPawn>gabhadh {1_labelShort}</GoodwillChangedReason_CapturedPawn>
   <!-- EN: {1_labelShort} crushed -->
-  <GoodwillChangedReason_PawnCrushed>{1_labelShort} wurde erschlagen</GoodwillChangedReason_PawnCrushed>
+  <GoodwillChangedReason_PawnCrushed>brúisceadh {1_labelShort}</GoodwillChangedReason_PawnCrushed>
   <!-- EN: {1_labelShort} died -->
-  <GoodwillChangedReason_PawnDied>{1_labelShort} ist gestorben</GoodwillChangedReason_PawnDied>
+  <GoodwillChangedReason_PawnDied>cailleadh {1_labelShort}</GoodwillChangedReason_PawnDied>
   <!-- EN: {0_labelShort} stripped -->
-  <GoodwillChangedReason_PawnStripped>{0_labelShort} entkleidet</GoodwillChangedReason_PawnStripped>
+  <GoodwillChangedReason_PawnStripped>baineadh éadaí {0_labelShort}</GoodwillChangedReason_PawnStripped>
   <!-- EN: traded -->
-  <GoodwillChangedReason_Traded>gehandelt</GoodwillChangedReason_Traded>
+  <GoodwillChangedReason_Traded>trádáil</GoodwillChangedReason_Traded>
   <!-- EN: attacked a caravan -->
-  <GoodwillChangedReason_AttackedCaravan>eine Karawane angegriffen</GoodwillChangedReason_AttackedCaravan>
+  <GoodwillChangedReason_AttackedCaravan>ionsaíodh carbhán</GoodwillChangedReason_AttackedCaravan>
   <!-- EN: {1_labelShort} exited the map healthy -->
-  <GoodwillChangedReason_ExitedMapHealthy>{1_labelShort} hat die Karte gesund verlassen</GoodwillChangedReason_ExitedMapHealthy>
+  <GoodwillChangedReason_ExitedMapHealthy>d'imigh {1_labelShort} gan aon fhadhbanna sláinte</GoodwillChangedReason_ExitedMapHealthy>
   <!-- EN: tended to {1_labelShort} -->
-  <GoodwillChangedReason_Tended>{1_labelShort} behandelt</GoodwillChangedReason_Tended>
+  <GoodwillChangedReason_Tended>cuireadh cóireáil leighis ar {1_labelShort}</GoodwillChangedReason_Tended>
   <!-- EN: received a gift -->
-  <GoodwillChangedReason_ReceivedGift>Geschenk erhalten</GoodwillChangedReason_ReceivedGift>
+  <GoodwillChangedReason_ReceivedGift>tugadh bronntanas</GoodwillChangedReason_ReceivedGift>
   <!-- EN: fulfilled a trade offer -->
-  <GoodwillChangedReason_FulfilledTradeRequest>Handelsangebot erfüllt</GoodwillChangedReason_FulfilledTradeRequest>
+  <GoodwillChangedReason_FulfilledTradeRequest>comhlíonadh tairiscint trádála</GoodwillChangedReason_FulfilledTradeRequest>
   <!-- EN: finished a quest -->
-  <GoodwillChangedReason_FinishedQuest>Quest abgeschlossen</GoodwillChangedReason_FinishedQuest>
+  <GoodwillChangedReason_FinishedQuest>críochnaíodh misean</GoodwillChangedReason_FinishedQuest>
   <!-- EN: {PAWN_labelShort} used {CULPRIT} -->
-  <GoodwillChangedReason_UsedForbiddenThing>{PAWN_labelShort} hat {CULPRIT} verwendet</GoodwillChangedReason_UsedForbiddenThing>
+  <GoodwillChangedReason_UsedForbiddenThing>d'úsáid {PAWN_labelShort} {CULPRIT}</GoodwillChangedReason_UsedForbiddenThing>
   <!-- EN: sold {0_labelShort} -->
-  <GoodwillChangedReason_SoldPawn>{0_labelShort} verkauft</GoodwillChangedReason_SoldPawn>
+  <GoodwillChangedReason_SoldPawn>díoladh {0_labelShort}</GoodwillChangedReason_SoldPawn>
   <!-- EN: euthanized {PAWN_labelShort} -->
-  <GoodwillChangedReason_EuthanizedPawn>{PAWN_labelShort} eingeschläfert</GoodwillChangedReason_EuthanizedPawn>
+  <GoodwillChangedReason_EuthanizedPawn>cuireadh {PAWN_labelShort} chun báis</GoodwillChangedReason_EuthanizedPawn>
   <!-- EN: requested military aid -->
-  <GoodwillChangedReason_RequestedMilitaryAid>militärische Hilfe angefordert</GoodwillChangedReason_RequestedMilitaryAid>
+  <GoodwillChangedReason_RequestedMilitaryAid>iarradh cúnamh míleata</GoodwillChangedReason_RequestedMilitaryAid>
   <!-- EN: requested trader caravan -->
-  <GoodwillChangedReason_RequestedTrader>Handelskarawane angefordert</GoodwillChangedReason_RequestedTrader>
+  <GoodwillChangedReason_RequestedTrader>iarradh carbhán trádála</GoodwillChangedReason_RequestedTrader>
   <!-- EN: caused neuroquake echo -->
-  <GoodwillChangedReason_CausedNeuroquakeEcho>Neurobeben gewirkt</GoodwillChangedReason_CausedNeuroquakeEcho>
+  <GoodwillChangedReason_CausedNeuroquakeEcho>neuroquake echo</GoodwillChangedReason_CausedNeuroquakeEcho>
   <!-- EN: caused berserk on {PAWN_labelShort} -->
-  <GoodwillChangedReason_CausedBerserk>Berserker auf {PAWN_labelShort} gewirkt</GoodwillChangedReason_CausedBerserk>
+  <GoodwillChangedReason_CausedBerserk>tháinig racht feirge ar {PAWN_labelShort}</GoodwillChangedReason_CausedBerserk>
   <!-- EN: attacked {0_name} -->
-  <GoodwillChangeReason_AttackedFaction>{0_name} angegriffen</GoodwillChangeReason_AttackedFaction>
+  <GoodwillChangeReason_AttackedFaction>ionsaíodh {0_name}</GoodwillChangeReason_AttackedFaction>
   <!-- EN: shuttle destroyed -->
-  <GoodwillChangeReason_ShuttleDestroyed>Shuttle wurde zerstört</GoodwillChangeReason_ShuttleDestroyed>
+  <GoodwillChangeReason_ShuttleDestroyed>scriosadh tointeálaí</GoodwillChangeReason_ShuttleDestroyed>
   <!-- EN: civilians lost -->
-  <GoodwillChangeReason_CiviliansLost>Zivilisten verloren</GoodwillChangeReason_CiviliansLost>
+  <GoodwillChangeReason_CiviliansLost>cailleadh sibhialtaigh</GoodwillChangeReason_CiviliansLost>
   <!-- EN: commander lost -->
-  <GoodwillChangeReason_CommanderLost>Kommandant verloren</GoodwillChangeReason_CommanderLost>
+  <GoodwillChangeReason_CommanderLost>cailleadh ceannasaí</GoodwillChangeReason_CommanderLost>
 
   <!-- EN: {0} accept your gift but they don't appreciate it. -->
-  <MessageGiftGivenButNotAppreciated>{0} nehmen dein Geschenk an, aber wertschätzen es nicht.</MessageGiftGivenButNotAppreciated>
+  <MessageGiftGivenButNotAppreciated>Ghlac {0} le do bhronntanas, ach níl siad róshásta.</MessageGiftGivenButNotAppreciated>
 
   <!-- EN: The caravan is already encumbered and can't carry anything else. -->
-  <MessageCantGiveGiftBecauseCantCarryEncumbered>Die Karawane ist bereits überladen und kann nicht noch mehr aufnehmen.</MessageCantGiveGiftBecauseCantCarryEncumbered>
+  <MessageCantGiveGiftBecauseCantCarryEncumbered>Tá an iomarca rudaí á n-iompar ag an gcarbhán seo.</MessageCantGiveGiftBecauseCantCarryEncumbered>
   <!-- EN: The caravan can't carry that much. The gifts weigh {0} but the caravan can only carry {1} more. -->
-  <MessageCantGiveGiftBecauseCantCarry>Die Karawane kann nicht so viel aufnehmen. Die Geschenke wiegen {0}, aber die Karawane kann nur noch {1} aufnehmen.</MessageCantGiveGiftBecauseCantCarry>
+  <MessageCantGiveGiftBecauseCantCarry>Ní féidir leis an gcarbhán an méid sin a iompar. Tá meáchan {0} ar an mbronntanas, ach ní féidir leis an gcarbhán ach {1} breise a iompar.</MessageCantGiveGiftBecauseCantCarry>
 
   <!-- EN: {0} has formed and is now traveling on the world map. -->
-  <MessageFormedCaravan>{0} wurde formiert und reist nun auf der Weltkarte.</MessageFormedCaravan>
+  <MessageFormedCaravan>Cruthaíodh {0} agus tá sé ag taisteal ar an mbóthar anois.</MessageFormedCaravan>
   <!-- EN: Orders -->
-  <MessageFormedCaravan_Orders>Befehle</MessageFormedCaravan_Orders>
+  <MessageFormedCaravan_Orders>Orduithe</MessageFormedCaravan_Orders>
 
   <!-- EN: {1}'s "{0}" can no longer deliver to deleted stockpile {2}. -->
   <MessageBillValidationStoreZoneDeleted>{2} wurde gelöscht. Einstellung 'Bringe zu {2}' für '{0}' ({1}) nicht länger möglich.</MessageBillValidationStoreZoneDeleted>
@@ -593,10 +593,10 @@
   <MessageAnimalLostSkill>Aufgrund mangelnder Aufrechterhaltung des Trainings hat {ANIMAL_labelShort} die {1}-Fertigkeit verloren.</MessageAnimalLostSkill>
 
   <!-- EN: Translation report written to {0} -->
-  <MessageTranslationReportSaved>Übersetzungsreport wurde erstellt in {0}</MessageTranslationReportSaved>
+  <MessageTranslationReportSaved>Sábháladh an tuarascáil aistriúcháin ag: {0}</MessageTranslationReportSaved>
 
   <!-- EN: {0} couldn't reach its destination. -->
-  <MessageCaravanArrivalActionNoLongerValid>{0} konnte ihren Zielort nicht erreichen.</MessageCaravanArrivalActionNoLongerValid>
+  <MessageCaravanArrivalActionNoLongerValid>Ní raibh {0} in ann ceann scríbe a bhaint amach.</MessageCaravanArrivalActionNoLongerValid>
 
   <!-- EN: Too dangerous to re-enter for {0}. -->
   <MessageEnterCooldownBlocksEntering>Zu gefährlich. Kann erst in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"} wieder betreten werden.</MessageEnterCooldownBlocksEntering>
@@ -622,90 +622,90 @@
   <MessageTranslationFilesCleanupDone>Erledigt. Betroffene Ordner: {0}</MessageTranslationFilesCleanupDone>
 
   <!-- EN: One of the translation files ({0}) couldn't be loaded. All XML parsing errors must be resolved first. -->
-  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Eine Übersetzungsdatei ({0}) konnte nicht geladen werden. Zuerst müssen alle XML-Parsing-Fehler behoben werden.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
+  <MessageCantCleanupTranslationFilesBeucaseOfXmlError>Ní rabhtas in ann comhad aistriúcháin ({0}) a lódáil. Ní mór earráidí XML a réiteach sula bhfeidhmeoidh an comhad i gceart.</MessageCantCleanupTranslationFilesBeucaseOfXmlError>
 
   <!-- EN: Warning: Capturing {PAWN_nameDef} will anger {PAWN_possessive} faction {PAWN_factionName}. -->
-  <MessageCapturingWillAngerFaction>Warnung: Das Einfangen von {PAWN_nameDef} wird {PAWN_possessive}e Fraktion '{PAWN_factionName}' verärgern.</MessageCapturingWillAngerFaction>
+  <MessageCapturingWillAngerFaction>Rabhadh: Má ghabhann tú {PAWN_nameDef}, beidh an faicsean '{PAWN_factionName}' míshásta leat.</MessageCapturingWillAngerFaction>
 
   <!-- EN: Warning: Stripping {PAWN_nameDef} will anger {PAWN_factionName}. -->
-  <MessageStrippingWillAngerFaction>Warnung: Das Entkleiden von {PAWN_nameDef} wird {PAWN_possessive}e Fraktion '{PAWN_factionName}' verärgern.</MessageStrippingWillAngerFaction>
+  <MessageStrippingWillAngerFaction>Rabhadh: Má bhaineann tú éadaí {PAWN_nameDef}, beidh an faicsean '{PAWN_factionName}' míshásta leat.</MessageStrippingWillAngerFaction>
 
   <!-- EN: Cannot shoot in melee. -->
-  <MessageCantShootInMelee>Kann im Nahkampf nicht schießen.</MessageCantShootInMelee>
+  <MessageCantShootInMelee>Ní féidir lámhach i dtroid melee.</MessageCantShootInMelee>
 
   <!-- EN: None of your {0} can accept this quest now. -->
-  <MessageNoColonistCanAcceptQuest>Aktuell kann keiner deiner {0} diese Quest annehmen.</MessageNoColonistCanAcceptQuest>
+  <MessageNoColonistCanAcceptQuest>Ní féidir glacadh leis an misean seo faoi láthair.</MessageNoColonistCanAcceptQuest>
   <!-- EN: Cannot accept this quest. -->
-  <MessageCannotAcceptQuest>Kann diese Quest nicht annehmen.</MessageCannotAcceptQuest>
+  <MessageCannotAcceptQuest>Ní féidir glacadh leis an misean seo faoi láthair.</MessageCannotAcceptQuest>
   <!-- EN: {0_definite} has accepted a quest: {1} -->
-  <MessageQuestAccepted>{0_definite} hat eine Quest angenommen: {1}</MessageQuestAccepted>
+  <MessageQuestAccepted>Ghlac {0_definite} le misean: {1}</MessageQuestAccepted>
   <!-- EN: {0} is leaving. -->
-  <MessagePawnLeaving>{0} geht weg.</MessagePawnLeaving>
+  <MessagePawnLeaving>Tá {0} ag imeacht.</MessagePawnLeaving>
   <!-- EN: {0} are leaving. -->
-  <MessagePawnsLeaving>{0} gehen weg.</MessagePawnsLeaving>
+  <MessagePawnsLeaving>Tá {0} ag imeacht.</MessagePawnsLeaving>
 
   <!-- EN: The monument has been destroyed because you've built a disallowed building inside. -->
-  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>Das Denkmal wurde zerstört, weil du im Inneren ein verbotenes Bauwerk errichtet hast.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
+  <MessageMonumentDestroyedBecauseOfDisallowedBuilding>Scriosadh an séadchomhartha toisc gur tógadh rud nach bhfuil ceadaithe taohbh istigh de.</MessageMonumentDestroyedBecauseOfDisallowedBuilding>
 
   <!-- EN: Cannot apply: No reachable, un-reserved research bench available. -->
-  <MessageNoResearchBenchForTechprint>Kein erreichbarer, unbesetzter Forschertisch verfügbar.</MessageNoResearchBenchForTechprint>
+  <MessageNoResearchBenchForTechprint>Ní féidir seo a úsáid: Níl aon bhinse taighde inrochtana ar fáil.</MessageNoResearchBenchForTechprint>
 
   <!-- EN: No valid destination found for {0} -->
-  <NoValidDestinationFound>Kein gültiges Ziel für {0} gefunden</NoValidDestinationFound>
+  <NoValidDestinationFound>Níor aimsíodh ceann scríbe le haghaidh {0}</NoValidDestinationFound>
 
   <!-- EN: An extracted tree just died. -->
-  <MessageMinifiedTreeDied>Ein ausgegrabener Baum ist gerade gestorben.</MessageMinifiedTreeDied>
+  <MessageMinifiedTreeDied>Fuair crann a baineadh ón talamh bás.</MessageMinifiedTreeDied>
   
   <!-- Research -->
   <!-- EN: Warning: Research will not begin until you build a research bench. -->
-  <MessageResearchMenuWithoutBench>Warnung: Die Forschung wird erst begonnen, wenn du einen Forschertisch gebaut hast.</MessageResearchMenuWithoutBench>
+  <MessageResearchMenuWithoutBench>Rabhadh: Ní chuirfear tús le haon taighde go dtí go dtógfaidh tú binse taighde.</MessageResearchMenuWithoutBench>
 
   <!-- EN: {0_indefinite} has triggered a proximity activator. -->
-  <MessageActivatorProximityTriggered>{0_indefinite} hat einen Näherungsaktivator ausgelöst.</MessageActivatorProximityTriggered>
+  <MessageActivatorProximityTriggered>Spreag {0_indefinite} braiteoir cóngarachta.</MessageActivatorProximityTriggered>
 
   <!-- EN: {0_label} is currently hidden. -->
-  <MessageCannotSelectInvisibleStat>{0_label} ist derzeit versteckt.</MessageCannotSelectInvisibleStat>
+  <MessageCannotSelectInvisibleStat>Tá {0_label} i bhfolach faoi láthair.</MessageCannotSelectInvisibleStat>
 
   <!-- EN: {PAWN_nameDef} is a prisoner -->
-  <MessagePrisonerCannotEquipWeapon>{PAWN_nameDef} ist {PAWN_gender ? ein Gefangener : eine Gefangene}</MessagePrisonerCannotEquipWeapon>
+  <MessagePrisonerCannotEquipWeapon>Tá {PAWN_nameDef} sa phríosún.</MessagePrisonerCannotEquipWeapon>
 
   <!-- EN: Warning: {0_nameDef}'s beliefs oppose {1} work. {0_pronoun} may become unhappy. -->
-  <MessageIdeoOpposedWorkTypeSelected>Warnung: {replace: {0_nameDef}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} Glaube widerspricht der Arbeit '{1}'. {0_pronoun} würde dadurch schlechte Laune bekommen.</MessageIdeoOpposedWorkTypeSelected>
+  <MessageIdeoOpposedWorkTypeSelected>Rabhadh: téann an cineál oibre seo ({1}) i gcoinne chreideamh {0_nameDef}. Beidh {0_pronoun} míshásta.</MessageIdeoOpposedWorkTypeSelected>
 
   <!-- EN: {0} is no longer assigned to {1_nameDef}. -->
-  <MessageBedLostAssignment>{0} ist nicht länger für {1_nameDef} reserviert.</MessageBedLostAssignment>
+  <MessageBedLostAssignment>Níl {0} sannta do {1_nameDef} a thuilleadh.</MessageBedLostAssignment>
   <!-- EN: {0} assigned to {1_nameDef} was destroyed. -->
-  <MessageBedDestroyed>{0}, {0_gender ? der : die : das} für {1_nameDef} reserviert war, wurde zerstört.</MessageBedDestroyed>
+  <MessageBedDestroyed>Scriosadh an {0} a bhí sannta do {1_nameDef}.</MessageBedDestroyed>
 
   <!-- Lord jobs -->
   <!-- EN: You need {0_indefinite}. -->
-  <MessageLordJobNeedsAtLeastOneRolePawn>TODO</MessageLordJobNeedsAtLeastOneRolePawn>
+  <MessageLordJobNeedsAtLeastOneRolePawn>Tá {0_indefinite} de dhíth.</MessageLordJobNeedsAtLeastOneRolePawn>
   <!-- EN: You need at least {1} {0}. -->
-  <MessageLordJobNeedsAtLeastNumRolePawn>TODO</MessageLordJobNeedsAtLeastNumRolePawn>
+  <MessageLordJobNeedsAtLeastNumRolePawn>Tá ar a laghad {1} {0} de dhíth.</MessageLordJobNeedsAtLeastNumRolePawn>
 
   <!-- Rituals -->
   <!-- EN: spectate -->
-  <Spectate>zuschauen</Spectate>
+  <Spectate>breathnaigh</Spectate>
   <!-- EN: Assign to {0} -->
   <AssignToRole>{0}</AssignToRole>
   <!-- EN: {0} has begun. -->
-  <RitualBegun>{0} hat angefangen.</RitualBegun>
+  <RitualBegun>Tá tús curtha le {0}.</RitualBegun>
   <!-- EN: The maximum number of {0}s is {1}. -->
   <MaxPawnsPerRole>Die maximale Anzahl an {lookup: {0}; plural; 3} ist {1}.</MaxPawnsPerRole>
   <!-- EN: Role of {0} is locked. -->
-  <RoleIsLocked>Die Rolle '{0}' ist gesperrt.</RoleIsLocked>
+  <RoleIsLocked>Níl an ról '{0}' ar fáil</RoleIsLocked>
   <!-- EN: You need at least one participant. -->
-  <MessageRitualNeedsAtLeastOnePerson>Du brauchst mindestens 1 Teilnehmer.</MessageRitualNeedsAtLeastOnePerson>
+  <MessageRitualNeedsAtLeastOnePerson>Tá ar a laghad rannpháirtí amháin de dhíth.</MessageRitualNeedsAtLeastOnePerson>
   <!-- EN: You need at least one spectator. -->
-  <MessageRitualNeedsAtLeastOneSpectator>Du brauchst mindestens 1 Zuschauer.</MessageRitualNeedsAtLeastOneSpectator>
+  <MessageRitualNeedsAtLeastOneSpectator>Ní mór go mbeidh duine amháin ar a laghad sa lucht féachana.</MessageRitualNeedsAtLeastOneSpectator>
   <!-- EN: {0_labelShort} is downed. -->
-  <MessageRitualPawnDowned>{0_labelShort} liegt am Boden.</MessageRitualPawnDowned>
+  <MessageRitualPawnDowned>Tá {0_labelShort} leagtha.</MessageRitualPawnDowned>
   <!-- EN: {0_labelShort} is currently escaping. -->
-  <MessageRitualPawnPrisonerNotSecured>{0_labelShort} flüchtet gerade.</MessageRitualPawnPrisonerNotSecured>
+  <MessageRitualPawnPrisonerNotSecured>Tá {0_labelShort} ag éalú faoi láthair.</MessageRitualPawnPrisonerNotSecured>
   <!-- EN: {0_labelShort} is currently rebelling. -->
-  <MessageRitualPawnSlaveNotSecured>{0_labelShort} rebelliert gerade.</MessageRitualPawnSlaveNotSecured>
+  <MessageRitualPawnSlaveNotSecured>Tá {0_labelShort} ag éirí amach faoi láthair.</MessageRitualPawnSlaveNotSecured>
   <!-- EN: {0_labelShort} is being released. -->
-  <MessageRitualPawnReleased>{0_labelShort} wird gerade freigelassen.</MessageRitualPawnReleased>
+  <MessageRitualPawnReleased>Tá {0_labelShort} á scaoileadh saor faoi láthair.</MessageRitualPawnReleased>
   <!-- EN: {0_labelShort} is injured. -->
   <MessageRitualPawnInjured>{0_labelShort} ist verletzt.</MessageRitualPawnInjured>
   <!-- EN: {0_labelShort} must hold one of these roles -->
@@ -749,80 +749,80 @@
   <!-- EN: only {0} can {1}. -->
   <MessageRitualRoleMustHaveIdeoToSpectate>nur {0} darf {1}.</MessageRitualRoleMustHaveIdeoToSpectate>
   <!-- EN: only {0} can fill the role of {1}. -->
-  <MessageRitualRoleMustHaveIdeoToDoRole>nur {0} kann die Rolle '{replace: ^{1}; "^ein "-""; "^eine "-""; "^"-""}' übernehmen.</MessageRitualRoleMustHaveIdeoToDoRole>
+  <MessageRitualRoleMustHaveIdeoToDoRole>ní mór {0} a chur sa ról '{1}'.</MessageRitualRoleMustHaveIdeoToDoRole>
   <!-- EN: must be colonist for the {0} role. -->
-  <MessageRitualRoleMustBeColonist>nur Kolonisten dürfen die Rolle '{0}' ausüben.</MessageRitualRoleMustBeColonist>
+  <MessageRitualRoleMustBeColonist>ní mór coilíneach a chur sa ról '{0}'.</MessageRitualRoleMustBeColonist>
   <!-- EN: must not be a prisoner for the {0} role. -->
-  <MessageRitualRoleMustBeFree>TODO</MessageRitualRoleMustBeFree>
+  <MessageRitualRoleMustBeFree>Ní cheadaítear príosúnaigh a chur sa ról '{0}'.</MessageRitualRoleMustBeFree>
   <!-- EN: {0_labelShort} won't attend due to extreme temperature in the ritual area. -->
-  <MessageRitualWontAttendExtremeTemperature>{0_labelShort} wird wegen der extremen Temperatur am Veranstaltungsort nicht teilnehmen.</MessageRitualWontAttendExtremeTemperature>
+  <MessageRitualWontAttendExtremeTemperature>Ní bheidh {0_labelShort} sásta freastal ar an ócáid, mar gheall ar theocht ró-ard/ró-íseal.</MessageRitualWontAttendExtremeTemperature>
   <!-- EN: must be colonist and not enslaved for the {0} role. -->
-  <MessageRitualRoleMustBeFreeColonist>muss für die Rolle '{0}' ein freier Kolonist sein.</MessageRitualRoleMustBeFreeColonist>
+  <MessageRitualRoleMustBeFreeColonist>Ní cheadaítear ach coilínigh nach sclábhaithe iad a chur sa ról '{0}'.</MessageRitualRoleMustBeFreeColonist>
   <!-- EN: {0} must have an animal with min body size of {1}. -->
-  <MessageRitualRoleMustHaveLargerBodySize>{0} muss ein Tier mit einer Mindestkörpergröße von {1} haben.</MessageRitualRoleMustHaveLargerBodySize>
+  <MessageRitualRoleMustHaveLargerBodySize>Ní mór go mbeidh ainmhí mór go leor a chur sa ról '{0}'.</MessageRitualRoleMustHaveLargerBodySize>
   <!-- EN: {0_labelShort} is in a mental state. -->
-  <MessageRitualPawnMentalState>{0_labelShort} ist übergeschnappt.</MessageRitualPawnMentalState>
+  <MessageRitualPawnMentalState>Tá cliseadh néarógach ar {0_labelShort}.</MessageRitualPawnMentalState>
   <!-- EN: {0_labelShort} is already {1}. -->
-  <MessageRitualPawnIsAlreadyBelievingIdeo>{0_labelShort} ist bereits {replace: ^{1}; "^ein "-""; "^eine "-""; "^"-""}.</MessageRitualPawnIsAlreadyBelievingIdeo>
+  <MessageRitualPawnIsAlreadyBelievingIdeo>Tá an ról '{1}' ag {0_labelShort} cheana féin.</MessageRitualPawnIsAlreadyBelievingIdeo>
   <!-- EN: {0_labelShort} cannot take any other role than spectator. -->
-  <MessageRitualCannotAssignAnyRoleFromSpectating>{0_labelShort} darf keine andere Rolle als die des Zuschauers einnehmen.</MessageRitualCannotAssignAnyRoleFromSpectating>
+  <MessageRitualCannotAssignAnyRoleFromSpectating>Ní féidir le {0_labelShort} aon ról eile a ghlacadh.</MessageRitualCannotAssignAnyRoleFromSpectating>
   <!-- EN: {0} cannot be an imprisoned wild man/woman. -->
-  <MessageRitualRoleMustNotBeImprisonedWildMan>{0} darf kein inhaftierter wilder Mensch sein.</MessageRitualRoleMustNotBeImprisonedWildMan>
+  <MessageRitualRoleMustNotBeImprisonedWildMan>Ní féidir duine fiáin a chur sa ról '{0}'.</MessageRitualRoleMustNotBeImprisonedWildMan>
   <!-- EN: {0} must be free. -->
-  <MessageRitualRoleMustNotBeImprisoned>{0} darf nicht inhaftiert sein.</MessageRitualRoleMustNotBeImprisoned>
+  <MessageRitualRoleMustNotBeImprisoned>Ní mór go mbeidh an duine sa ról '{0}' saor.</MessageRitualRoleMustNotBeImprisoned>
   <!-- EN: {0} cannot be a child. -->
-  <MessageRitualRoleCannotBeChild>{0} darf kein Kind sein.</MessageRitualRoleCannotBeChild>
+  <MessageRitualRoleCannotBeChild>Ní féidir páiste a chur sa ról '{0}'.</MessageRitualRoleCannotBeChild>
   <!-- EN: {0} cannot be a baby. -->
-  <MessageRitualRoleCannotBeBaby>{0} darf kein Baby sein.</MessageRitualRoleCannotBeBaby>
+  <MessageRitualRoleCannotBeBaby>Ní féidir leanbh a chur sa ról '{0}'</MessageRitualRoleCannotBeBaby>
   <!-- EN: {0} is busy. -->
-  <MessageRitualRoleBusy>TODO</MessageRitualRoleBusy>
+  <MessageRitualRoleBusy>Tá {0} gnóthach.</MessageRitualRoleBusy>
 
   <!-- EN: You must select a site to continue. -->
-  <MessagePlayerMustSelectTile>Du musst einen Ort auswählen, um fortzufahren.</MessagePlayerMustSelectTile>
+  <MessagePlayerMustSelectTile>Ní mór suíomh a roghnú.</MessagePlayerMustSelectTile>
 
   <!-- EN: Cannot plant {0_labelShort} -->
-  <CannotPlantThing>Kann {0_labelShort} nicht einpflanzen</CannotPlantThing>
+  <CannotPlantThing>Ní féidir {0_labelShort} a chur</CannotPlantThing>
   <!-- EN: Need more fertile terrain. -->
-  <MessageWarningNotEnoughFertility>Boden muss fruchtbarer sein.</MessageWarningNotEnoughFertility>
+  <MessageWarningNotEnoughFertility>Níl an talamh torthúil go leor.</MessageWarningNotEnoughFertility>
   <!-- EN: blocked by {0_label}. -->
-  <BlockedBy>blockiert durch {0_label}.</BlockedBy>
+  <BlockedBy>blocáilte ag {0_label}.</BlockedBy>
   <!-- EN: Cannot be planted next to {0_label}. -->
-  <AdjacentSowBlocker>Kann nicht neben {0_label} gepflanzt werden.</AdjacentSowBlocker>
+  <AdjacentSowBlocker>Ní féidir é a chur taobh le '{0_label}'.</AdjacentSowBlocker>
   <!-- EN: Too close to {0_label}. -->
-  <TooCloseToOtherPlant>Zu nah an {0_label}.</TooCloseToOtherPlant>
+  <TooCloseToOtherPlant>Tá sé roghar do '{0_label}'.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0}'s planting location. -->
-  <TooCloseToOtherSeedPlantCell>Zu nahe am Pflanzort von {0}.</TooCloseToOtherSeedPlantCell>
+  <TooCloseToOtherSeedPlantCell>Tá sé roghar do '{0}'.</TooCloseToOtherSeedPlantCell>
 
   <!-- EN: Warning: {0} has been marked for cutting. -->
-  <MessageWarningCutImportantPlant>Warnung: {0} wurde zum Entfernen markiert.</MessageWarningCutImportantPlant>
+  <MessageWarningCutImportantPlant>Rabhadh: Tá {0} le gearradh.</MessageWarningCutImportantPlant>
 
   <!-- EN: {0_labelShort} is incapable of manipulation. -->
-  <MessageIncapableOfManipulation>{0_labelShort} kann nicht arbeiten.</MessageIncapableOfManipulation>
+  <MessageIncapableOfManipulation>Ní féidir {0_labelShort} a ionramháil.</MessageIncapableOfManipulation>
 
   <!-- EN: {0_labelShort} activation canceled -->
-  <MessageActivationCanceled>Aktivierung von {0_labelShort} abgebrochen</MessageActivationCanceled>
+  <MessageActivationCanceled>Cuireadh stop le gníomhachtú '{0_labelShort}'</MessageActivationCanceled>
 
   <!-- EN: Nothing is currently buildable in category -->
-  <NothingAvailableInCategory>Momentan kann nichts gebaut werden in der Kategorie</NothingAvailableInCategory>
+  <NothingAvailableInCategory>Ní féidir aon rud sa chatagóir seo a thógáil faoi láthair</NothingAvailableInCategory>
 
   <!-- EN: Storage settings linked for {0} buildings. -->
-  <SettingsLinkedFor>Lagereinstellungen von {0} Bauwerken verknüpft.</SettingsLinkedFor>
+  <SettingsLinkedFor>Nascadh na socruithe stórála le haghaidh {0} struchtúr.</SettingsLinkedFor>
   <!-- EN: Storage settings linked for 1 building. -->
-  <SettingsLinkedForSingular>TODO</SettingsLinkedForSingular>
+  <SettingsLinkedForSingular>Nascadh na socruithe stórála le haghaidh struchtúr amháin.</SettingsLinkedForSingular>
   <!-- EN: Storage settings unlinked for {0} buildings. -->
-  <SettingsUnlinkedFor>Lagereinstellungen von {0} Bauwerken getrennt.</SettingsUnlinkedFor>
+  <SettingsUnlinkedFor>Dínascadh na socruithe stórála le haghaidh {0} struchtúr.</SettingsUnlinkedFor>
   <!-- EN: Storage settings unlinked for 1 building. -->
-  <SettingsUnlinkedForSingular>TODO</SettingsUnlinkedForSingular>
+  <SettingsUnlinkedForSingular>Dínascadh na socruithe stórála le haghaidh struchtúr amháin.</SettingsUnlinkedForSingular>
   <!-- EN: Storage settings copied to clipboard. -->
-  <StorageSettingsCopiedToClipboard>Lagereinstellungen in die Zwischenablage kopiert.</StorageSettingsCopiedToClipboard>
+  <StorageSettingsCopiedToClipboard>Cóipéaladh na socruithe stórála.</StorageSettingsCopiedToClipboard>
   <!-- EN: Storage settings pasted from clipboard. -->
-  <StorageSettingsPastedFromClipboard>Lagereinstellungen aus der Zwischenablage eingefügt.</StorageSettingsPastedFromClipboard>
+  <StorageSettingsPastedFromClipboard>Greamaíodh na socruithe stórála.</StorageSettingsPastedFromClipboard>
   
   <!-- EN: {0_label} requires adjacent walls to function. -->
-  <MessageBuildingRequiresAdjacentWalls>TODO</MessageBuildingRequiresAdjacentWalls>
+  <MessageBuildingRequiresAdjacentWalls>Ní mór {0_label} a chur taobh le ballaí chun go bhfeidhmeoidh sé i gceart.</MessageBuildingRequiresAdjacentWalls>
 
   <!-- EN: Cannot skip: Refugee -->
-  <MessageLodgersCantFarskip>TODO</MessageLodgersCantFarskip>
+  <MessageLodgersCantFarskip>Ní féidir leis an duine seo teileapórtáil: Teifeach</MessageLodgersCantFarskip>
 
   <!-- UNUSED -->
   <MessageRitualNeedsAtLeastOneRolePawn>Du brauchst 1 {0}.</MessageRitualNeedsAtLeastOneRolePawn>
