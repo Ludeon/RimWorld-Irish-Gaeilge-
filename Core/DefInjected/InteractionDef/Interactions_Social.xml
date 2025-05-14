@@ -60,10 +60,10 @@
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-     <li>r_logentry->Luaigh [INITIATOR_nameDef] roinnt smaointe le [RECIPIENT_nameDef] maidir le [subject].</li>
+     <li>r_logentry->Luaigh [INITIATOR_nameDef] cúpla smaoineamh le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry->Bhí díospóireacht ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
-    <li>r_logentry(p=0.8)->Phlé [INITIATOR_nameDef] agus [RECIPIENT_nameDef] roinnt smaointe maidir le [subject].</li>
-    <li>r_logentry(p=0.8)->Roinn [INITIATOR_nameDef] roinnt smaointe le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Phlé [INITIATOR_nameDef] agus [RECIPIENT_nameDef] roinnt rudaí maidir le [subject].</li>
+    <li>r_logentry(p=0.8)->Roinn [INITIATOR_nameDef] smaointe éagsúla le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->Bhí comhrá dáiríre ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->Bhí comhrá ciúin ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>

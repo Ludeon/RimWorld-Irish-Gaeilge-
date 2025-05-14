@@ -93,7 +93,7 @@
   </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: release to the wild -->
-  <ReleaseToWild.label>TODO</ReleaseToWild.label>
+  <ReleaseToWild.label>ainmhí a scaoileadh saor</ReleaseToWild.label>
   <!-- EN:
     <li>r_logentry->[farewell] [released]</li>
     <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
@@ -107,10 +107,16 @@
     <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
     <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
   -->
-  <ReleaseToWild.logRulesInitiator.rulesStrings>TODO</ReleaseToWild.logRulesInitiator.rulesStrings>
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->D'fhág [INITIATOR_nameDef] slán le [RECIPIENT_nameDef]</li>
+    <li>farewell->Dúirt [INITIATOR_nameDef] cúpla rud deas le [RECIPIENT_nameDef]</li>
+    <li>released->agus d'imigh [RECIPIENT_objective] ar ais chuig an nádúr.</li>
+    <li>released->agus d'imigh [RECIPIENT_objective].</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
-  <TameAttempt.label>TODO</TameAttempt.label>
+  <TameAttempt.label>ceansú</TameAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
     <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
@@ -128,7 +134,12 @@
     <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
-  <TameAttempt.logRulesInitiator.rulesStrings>TODO</TameAttempt.logRulesInitiator.rulesStrings>
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nameDef] a cheansú.</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nameDef] a chur faoi smacht.</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht cúpla rud a mhúineadh do [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Thug [INITIATOR_nameDef] ordú do [RECIPIENT_nameDef].</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
   <TrainAttempt.label>traenáil</TrainAttempt.label>

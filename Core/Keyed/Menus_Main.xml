@@ -113,7 +113,7 @@
   <!-- EN: Randomize seed -->
   <RandomizeSeed>Síol randamach</RandomizeSeed>
   <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
-  <PlanetCoverageTip>Is ionann seo agus an ceatadán den phláinéad ar mhaith leat a ghiniúint ar an léarscáil. Bíonn níos mó acmhainní agus níos mó ama de dhíth chun pláinéad iomlán a ghiniúint.</PlanetCoverageTip>
+  <PlanetCoverageTip>An céatadán den phláinéad ar mhaith leat a ghiniúint ar an léarscáil. Bíonn níos mó acmhainní agus níos mó ama de dhíth chun pláinéad iomlán a ghiniúint.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Faicsin</WorldFactionsTab>
 

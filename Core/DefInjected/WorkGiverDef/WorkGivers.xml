@@ -1,159 +1,159 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: release prisoners -->
   <BasicReleasePrisoner.label>scaoil saor príosúnaigh</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
   <BasicReleasePrisoner.gerund>ag scaoileadh saor</BasicReleasePrisoner.gerund>
   <!-- EN: release -->
-  <BasicReleasePrisoner.verb>scaoil saor</BasicReleasePrisoner.verb>
+  <BasicReleasePrisoner.verb>a scaoileadh saor</BasicReleasePrisoner.verb>
   
   <!-- EN: build roofs -->
   <BuildRoofs.label>tóg díon</BuildRoofs.label>
   <!-- EN: building roof -->
   <BuildRoofs.gerund>ag tógáil dín</BuildRoofs.gerund>
   <!-- EN: build roof -->
-  <BuildRoofs.verb>tóg díon</BuildRoofs.verb>
+  <BuildRoofs.verb>díon a thógáil</BuildRoofs.verb>
   
   <!-- EN: chat with prisoners -->
   <ChatWithPrisoner.label>labhair le príosúnaigh</ChatWithPrisoner.label>
   <!-- EN: chatting with -->
   <ChatWithPrisoner.gerund>ag labhairt le</ChatWithPrisoner.gerund>
   <!-- EN: chat with -->
-  <ChatWithPrisoner.verb>labhair le</ChatWithPrisoner.verb>
+  <ChatWithPrisoner.verb>labhairt le</ChatWithPrisoner.verb>
   
   <!-- EN: clear snow -->
   <CleanClearSnow.label>bain sneachta</CleanClearSnow.label>
   <!-- EN: clearing snow -->
   <CleanClearSnow.gerund>ag baint sneachta</CleanClearSnow.gerund>
   <!-- EN: clear snow -->
-  <CleanClearSnow.verb>baint sneachta</CleanClearSnow.verb>
+  <CleanClearSnow.verb>sneachta a bhaint</CleanClearSnow.verb>
   
   <!-- EN: clean filth -->
   <CleanFilth.label>glan salachar</CleanFilth.label>
   <!-- EN: cleaning -->
   <CleanFilth.gerund>ag glanadh salachair</CleanFilth.gerund>
   <!-- EN: clean -->
-  <CleanFilth.verb>glan</CleanFilth.verb>
+  <CleanFilth.verb>a ghlanadh</CleanFilth.verb>
   
   <!-- EN: deliver resources to blueprints -->
   <ConstructDeliverResourcesToBlueprints.label>tabhair acmhainní chuig gormchlónna</ConstructDeliverResourcesToBlueprints.label>
   <!-- EN: working on -->
   <ConstructDeliverResourcesToBlueprints.gerund>ag tógáil</ConstructDeliverResourcesToBlueprints.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToBlueprints.verb>tóg</ConstructDeliverResourcesToBlueprints.verb>
+  <ConstructDeliverResourcesToBlueprints.verb>a thógáil</ConstructDeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
   <ConstructDeliverResourcesToFrames.label>tabhair acmhainní chuig frámaí</ConstructDeliverResourcesToFrames.label>
   <!-- EN: working on -->
   <ConstructDeliverResourcesToFrames.gerund>ag tógáil</ConstructDeliverResourcesToFrames.gerund>
   <!-- EN: work on -->
-  <ConstructDeliverResourcesToFrames.verb>tóg</ConstructDeliverResourcesToFrames.verb>
+  <ConstructDeliverResourcesToFrames.verb>a thógáil</ConstructDeliverResourcesToFrames.verb>
   
   <!-- EN: construct placed frames -->
   <ConstructFinishFrames.label>tóg frámaí</ConstructFinishFrames.label>
   <!-- EN: constructing -->
   <ConstructFinishFrames.gerund>ag tógáil</ConstructFinishFrames.gerund>
   <!-- EN: construct -->
-  <ConstructFinishFrames.verb>ag tógáil</ConstructFinishFrames.verb>
+  <ConstructFinishFrames.verb>a thógáil</ConstructFinishFrames.verb>
   
   <!-- EN: remove floors -->
   <ConstructRemoveFloors.label>bain urláir</ConstructRemoveFloors.label>
   <!-- EN: removing floor -->
   <ConstructRemoveFloors.gerund>ag baint urlár</ConstructRemoveFloors.gerund>
   <!-- EN: remove floor -->
-  <ConstructRemoveFloors.verb>bain urlár</ConstructRemoveFloors.verb>
+  <ConstructRemoveFloors.verb>urlár a bhaint</ConstructRemoveFloors.verb>
   
   <!-- EN: smooth floors -->
-  <ConstructSmoothFloors.label>líomh úrlár</ConstructSmoothFloors.label>
+  <ConstructSmoothFloors.label>líomh urlár</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
   <ConstructSmoothFloors.gerund>ag líomhadh</ConstructSmoothFloors.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothFloors.verb>líomh</ConstructSmoothFloors.verb>
+  <ConstructSmoothFloors.verb>a líomhadh</ConstructSmoothFloors.verb>
   
   <!-- EN: smooth walls -->
   <ConstructSmoothWalls.label>líomh ballaí</ConstructSmoothWalls.label>
   <!-- EN: smoothing -->
   <ConstructSmoothWalls.gerund>ag líomhadh</ConstructSmoothWalls.gerund>
   <!-- EN: smooth -->
-  <ConstructSmoothWalls.verb>líomh</ConstructSmoothWalls.verb>
+  <ConstructSmoothWalls.verb>a líomhadh</ConstructSmoothWalls.verb>
   
   <!-- EN: fill food hoppers -->
   <CookFillHopper.label>líon crannóga bia</CookFillHopper.label>
   <!-- EN: filling -->
   <CookFillHopper.gerund>ag líonadh</CookFillHopper.gerund>
   <!-- EN: fill -->
-  <CookFillHopper.verb>líon</CookFillHopper.verb>
+  <CookFillHopper.verb>a líonadh</CookFillHopper.verb>
   
   <!-- EN: deconstruct structures -->
   <Deconstruct.label>scrios struchtúir</Deconstruct.label>
   <!-- EN: deconstructing -->
   <Deconstruct.gerund>ag sriosadh</Deconstruct.gerund>
   <!-- EN: deconstruct -->
-  <Deconstruct.verb>scrios</Deconstruct.verb>
+  <Deconstruct.verb>a scriosadh</Deconstruct.verb>
   
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>tabhair bia do phríosúnaigh</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
   <DeliverFoodToPrisoner.gerund>ag tabhairt bia do:</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
-  <DeliverFoodToPrisoner.verb>tabhair bia do:</DeliverFoodToPrisoner.verb>
+  <DeliverFoodToPrisoner.verb>bia a thabhairt do</DeliverFoodToPrisoner.verb>
   
   <!-- EN: deliver resources to blueprints -->
   <DeliverResourcesToBlueprints.label>tóg acmhainní chuig pleananna</DeliverResourcesToBlueprints.label>
   <!-- EN: delivering to -->
   <DeliverResourcesToBlueprints.gerund>ag tógáil chuig</DeliverResourcesToBlueprints.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToBlueprints.verb>tóg chuig:</DeliverResourcesToBlueprints.verb>
+  <DeliverResourcesToBlueprints.verb>a thabhairt chuig</DeliverResourcesToBlueprints.verb>
   
   <!-- EN: deliver resources to frames -->
   <DeliverResourcesToFrames.label>tóg acmhainní chuig frámaí</DeliverResourcesToFrames.label>
   <!-- EN: delivering to -->
   <DeliverResourcesToFrames.gerund>ag tógáil chuig</DeliverResourcesToFrames.gerund>
   <!-- EN: deliver to -->
-  <DeliverResourcesToFrames.verb>tóg chuig</DeliverResourcesToFrames.verb>
+  <DeliverResourcesToFrames.verb>a thabhairt chuig</DeliverResourcesToFrames.verb>
   
   <!-- EN: brew liquors -->
-  <DoBillsBrew.label>déan alcóil</DoBillsBrew.label>
+  <DoBillsBrew.label>déan alcól</DoBillsBrew.label>
   <!-- EN: brewing at -->
   <DoBillsBrew.gerund>ag grúdú</DoBillsBrew.gerund>
   <!-- EN: brew -->
-  <DoBillsBrew.verb>grúdaigh</DoBillsBrew.verb>
+  <DoBillsBrew.verb>a dhéanamh</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>déan búistéireacht</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>ag déanamh búistéireacht ag</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>déan búistéireacht</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.verb>búistéireacht a dhéanamh</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>déan béilí</DoBillsCook.label>
   <!-- EN: cooking at -->
   <DoBillsCook.gerund>ag cócaireacht</DoBillsCook.gerund>
   <!-- EN: cook -->
-  <DoBillsCook.verb>déan béilí</DoBillsCook.verb>
+  <DoBillsCook.verb>a chócaráil</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>déan béilí</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
   <DoBillsCookCampfire.gerund>ag cócaireacht</DoBillsCookCampfire.gerund>
   <!-- EN: cook -->
-  <DoBillsCookCampfire.verb>déan béilí</DoBillsCookCampfire.verb>
+  <DoBillsCookCampfire.verb>a chócaráil</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>créam</DoBillsCremate.label>
   <!-- EN: cremating at -->
   <DoBillsCremate.gerund>ag créamadh</DoBillsCremate.gerund>
   <!-- EN: cremate -->
-  <DoBillsCremate.verb>créam</DoBillsCremate.verb>
+  <DoBillsCremate.verb>a chréamadh</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
   <DoBillsFabricationBench.label>cruthaigh earraí</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>ag cruthú earraí ag</DoBillsFabricationBench.gerund>
   <!-- EN: fabricate -->
-  <DoBillsFabricationBench.verb>cruthaigh earraí</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.verb>earraí a chruthú</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
   <DoBillsHaulCampfire.label>déan billí ag an gcampa tine</DoBillsHaulCampfire.label>
@@ -324,7 +324,7 @@
   <ExecuteGuiltyColonist.verb>maraigh</ExecuteGuiltyColonist.verb>
   
   <!-- EN: extract skull -->
-  <ExtractSkull.label>bain blasoc</ExtractSkull.label>
+  <ExtractSkull.label>bain blaosc</ExtractSkull.label>
   <!-- EN: extracting skull of -->
   <ExtractSkull.gerund>ag baint an blaosc de</ExtractSkull.gerund>
   <!-- EN: extract -->
@@ -405,14 +405,14 @@
   <!-- EN: hauling -->
   <HaulCorpses.gerund>ag bogadh</HaulCorpses.gerund>
   <!-- EN: haul -->
-  <HaulCorpses.verb>bog</HaulCorpses.verb>
+  <HaulCorpses.verb>a bhogadh</HaulCorpses.verb>
   
   <!-- EN: haul general things -->
   <HaulGeneral.label>bog earraí ginearálta</HaulGeneral.label>
   <!-- EN: hauling -->
   <HaulGeneral.gerund>ag bogadh</HaulGeneral.gerund>
   <!-- EN: haul -->
-  <HaulGeneral.verb>bog</HaulGeneral.verb>
+  <HaulGeneral.verb>a bhogadh</HaulGeneral.verb>
   
   <!-- EN: merge things -->
   <HaulMerge.label>déan rudaí a chumaisc</HaulMerge.label>

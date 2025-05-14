@@ -1,14 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
+  <rulesRaw>
+    <li Class="Rule_File">
+      <keyword>terrain_genitive</keyword>
+      <path>/Words/Nouns/WorldFeaturesGenitive</path>
+    </li>
+  </rulesRaw>
+
   <!-- EN: try to get to know -->
-  <BuildRapport.label><li>r_logentry->D'inis [INITIATOR_nameDef] [toldastoryabout] [subject] le [RECIPIENT_nameDef].</li>
+  <BuildRapport.label><li>r_logentry->D'inis [INITIATOR_nameDef] [toldastoryabout] maidir [subject] le [RECIPIENT_nameDef].</li>
     <li>r_logentry->Labhair [INITIATOR_nameDef] le [RECIPIENT_nameDef] [subject].</li>
-    <li>r_logentry->Bhí díospóireacht ag [INITIATOR_nameDef] [subject] le [RECIPIENT_nameDef].</li>
-    <li>r_logentry->Mhol [INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
-    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
-    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>r_logentry->Bhí díospóireacht ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry->Mhol [INITIATOR_nameDef] do [RECIPIENT_nameDef] [toldastoryabout] a insint maidir le [subject].</li>
+    <li>r_logentry->D'iarr [INITIATOR_nameDef] ar [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
     <li>toldastoryabout(p=2)->scéal</li>
     <li>toldastoryabout->scéal greannmhar</li>
     <li>toldastoryabout->scéal brónach</li>
@@ -18,21 +23,13 @@
     <li>toldastoryabout->scéilín</li>
     <li>talkabout->labhairt</li>
     <li>talkabout->caint</li>
-    <li>talkabout->smaoineamh</li>
-    <li>talkabout->labhairt</li>
-    <li>talkabout->caint</li>
-    <li>talkabout->labhairt</li>
-    <li>subject->faoin gcoilíneacht</li>
-    <li>subject->faoin bpobal</li>
-    <li>subject->maidir le dul leis an gcoilíneacht</li>
-    <li>subject->maidir le dul le foireann eile</li>
-    <li>subject->faoi chairde nua</li>
-    <li>subject->faoi bhualadh le daoine eile</li>
-    <li>subject->maidir le glacadh le smaointe nua</li>
-    <li>subject->maidir le machnamh a dhéanamh</li>
-    <li>subject->faoi chúrsaí sláinte</li>
-    <li>subject->faoin todhchaí</li>
-    <li>subject->maidir le scaoileadh leis an seansaol</li>
+    <li>subject->dul leis an gcoilíneacht</li>
+    <li>subject->dul le faicsean eile</li>
+    <li>subject->cairde nua</li>
+    <li>subject->bualadh le daoine eile</li>
+    <li>subject->glacadh le smaointe nua</li>
+    <li>subject->machnamh a dhéanamh</li>
+    <li>subject->cúrsaí sláinte</li>
     <li>subject(p=4)->[ConceptPositive]</li>
     <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
     <li>subject(p=8)->[TalkTopicLight]</li></BuildRapport.label>
@@ -75,17 +72,19 @@
   <BuildRapport.logRulesInitiator.rulesStrings>TODO</BuildRapport.logRulesInitiator.rulesStrings>
   
   <!-- EN: recruit attempt -->
-  <RecruitAttempt.label>TODO</RecruitAttempt.label>
+  <RecruitAttempt.label>earcaíocht</RecruitAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
     <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
     <li>goodthing(p=15)->[ConceptPositive]</li>
     <li>goodthing->free, fresh [Vegetable]s</li>
   -->
-  <RecruitAttempt.logRulesInitiator.rulesStrings>TODO</RecruitAttempt.logRulesInitiator.rulesStrings>
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->D'iarr [INITIATOR_nameDef] ar [RECIPIENT_nameDef] dul leis an gcoilíneacht.</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: spark jailbreak -->
-  <SparkJailbreak.label>TODO</SparkJailbreak.label>
+  <SparkJailbreak.label>éirí amach</SparkJailbreak.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
     <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
@@ -96,6 +95,19 @@
     <li>freedom->home</li>
     <li>freedom->self-determination</li>
   -->
-  <SparkJailbreak.logRulesInitiator.rulesStrings>TODO</SparkJailbreak.logRulesInitiator.rulesStrings>
+
+  <SparkJailbreak.logRulesInitiator.rulesFiles>
+    <li>terrain_genitive->Words/Nouns/TerrainFeaturesGenitive</li>
+  </SparkJailbreak.logRulesInitiator.rulesFiles>
+
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+    <li>r_logentry->Labhair [INITIATOR_nameDef] maidir le [freedom], agus dúirt [INITIATOR_nameDef] go bhfuil bealach éalaithe ann.</li>
+    <li>r_logentry->Labhair [INITIATOR_nameDef] maidir le háilleacht [terrain_genitive], agus dúirt [INITIATOR_nameDef] go bhfuil bealach éalaithe ann.</li>
+    <li>r_logentry->Gheall [INITIATOR_nameDef] [freedom] do [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] go mbeadh sé éasca éalú.</li>
+    <li>freedom->saoirse</li>
+    <li>freedom->saol nua</li>
+    <li>freedom->féinrialú</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
   
 </LanguageData>

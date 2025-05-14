@@ -1003,123 +1003,123 @@
   <MechanicsEngineer64.titleShort>innealltóir</MechanicsEngineer64.titleShort>
 
   <!-- EN: [PAWN_nameDef] fought against swarms of rogue mechanoids since [PAWN_pronoun] was old enough to enlist. [PAWN_pronoun] has bled on half a dozen worlds and has lost more than [PAWN_pronoun] cares to recall. These experiences left [PAWN_objective] hardened, both mentally and physically. -->
-  <MechWarVeteran77.description>TODO</MechWarVeteran77.description>
+  <MechWarVeteran77.description>Throid [PAWN_nameDef] i gcoinne na meicea-róbait ar phláinéid eile. Chuaigh [PAWN_nameDef] go dosaen pláinéad i mbun troda, agus chonaic [PAWN_pronoun] níos mó báis ná an gnáthdhuine. Tá meon crua ag [PAWN_nameDef] mar gheall ar an taithí sin.</MechWarVeteran77.description>
   <!-- EN: mech war veteran -->
-  <MechWarVeteran77.title>TODO</MechWarVeteran77.title>
+  <MechWarVeteran77.title>seansaighdiúir</MechWarVeteran77.title>
   <!-- EN: veteran -->
-  <MechWarVeteran77.titleShort>TODO</MechWarVeteran77.titleShort>
+  <MechWarVeteran77.titleShort>seansaighdiúir</MechWarVeteran77.titleShort>
 
   <!-- EN: [PAWN_nameDef] enlisted as a doctor on a passing science vessel. Roaming the stars with a large crew of xenohumans and transbirds, [PAWN_pronoun] did genetic research on encountered species. [PAWN_pronoun] developed a deep friendship with one transbird but was forced to leave the ship when the captain dismissed all non-avians. -->
-  <MedicalScientist16.description>TODO</MedicalScientist16.description>
+  <MedicalScientist16.description>D'oibrigh [PAWN_nameDef] mar eoláí leighis ar spáslong. Rinne [PAWN_pronoun] taighde géiniteach ar ainmhithe, chun a ngéinte a bhaint agus a chur i ndaoine.</MedicalScientist16.description>
   <!-- EN: medical scientist -->
-  <MedicalScientist16.title>TODO</MedicalScientist16.title>
+  <MedicalScientist16.title>eolaí leighis</MedicalScientist16.title>
   <!-- EN: scientist -->
-  <MedicalScientist16.titleShort>TODO</MedicalScientist16.titleShort>
+  <MedicalScientist16.titleShort>eolaí</MedicalScientist16.titleShort>
 
   <!-- EN: [PAWN_nameDef] enrolled in [PAWN_possessive] planetary army as a frontline medic. [PAWN_pronoun] soon knew the horrors of war and was deeply marked by them.\n\n[PAWN_pronoun] left the military and [PAWN_possessive] homeworld and began researching medicine and helping those [PAWN_pronoun] came across. -->
-  <MedicSoldier54.description>TODO</MedicSoldier54.description>
+  <MedicSoldier54.description>D'oibrigh [PAWN_nameDef] mar oibrí leighis le complacht airm. Tá taithí phearsanta ag [PAWN_nameDef] ar an bpian agus ar an bhfulgaint a tharlaíonn de bharr an chogaidh.</MedicSoldier54.description>
   <!-- EN: medic soldier -->
-  <MedicSoldier54.title>TODO</MedicSoldier54.title>
+  <MedicSoldier54.title>oibrí leighis</MedicSoldier54.title>
   <!-- EN: medic -->
-  <MedicSoldier54.titleShort>TODO</MedicSoldier54.titleShort>
+  <MedicSoldier54.titleShort>oibrí leighis</MedicSoldier54.titleShort>
 
   <!-- EN: [PAWN_nameDef] fought for king and country on the battlefield, where [PAWN_pronoun] further honed [PAWN_possessive] skill as a swordsman. [PAWN_possessive] greatest glory was leading a charge into an enemy courtroom and capturing the king at sword point. -->
-  <MedievalKnight26.description>TODO</MedievalKnight26.description>
+  <MedievalKnight26.description>D'fhás [PAWN_nameDef] suas ar phláinéad ar a raibh córas meánaoiseach i bhfeidhm, agus bhí [PAWN_pronoun] ina ridire i gcomhair rí mór le rá.</MedievalKnight26.description>
   <!-- EN: medieval knight -->
-  <MedievalKnight26.title>TODO</MedievalKnight26.title>
+  <MedievalKnight26.title>ridire</MedievalKnight26.title>
   <!-- EN: knight -->
-  <MedievalKnight26.titleShort>TODO</MedievalKnight26.titleShort>
+  <MedievalKnight26.titleShort>ridire</MedievalKnight26.titleShort>
 
   <!-- EN: [PAWN_nameDef] was placed in a psychiatric hospital. There, [PAWN_pronoun] spent [PAWN_possessive] time engaged in the calming activities of the asylum.\n\n[PAWN_pronoun] was eventually released, but [PAWN_pronoun] retained [PAWN_possessive] emotional distance, [PAWN_possessive] curiosity about human anatomy, and [PAWN_possessive] namesake manic giggling. -->
-  <MentalPatient69.description>TODO</MentalPatient69.description>
+  <MentalPatient69.description>Cuireadh [PAWN_nameDef] in ospidéil meabharghalair, agus chaith [PAWN_pronoun] roinnt blianta i dteacht na ngealt. Ar deireadh, ligeadh amach [PAWN_nameDef], ach tá tréithe mearaí fós le feiceáil ina c[PAWN_possessive]uid nósanna.</MentalPatient69.description>
   <!-- EN: mental patient -->
-  <MentalPatient69.title>TODO</MentalPatient69.title>
+  <MentalPatient69.title>othar meabharghalair</MentalPatient69.title>
   <!-- EN: patient -->
-  <MentalPatient69.titleShort>TODO</MentalPatient69.titleShort>
+  <MentalPatient69.titleShort>othar</MentalPatient69.titleShort>
 
   <!-- EN: After escaping [PAWN_possessive] home planet, [PAWN_nameDef] fell in with a band of mercenaries. [PAWN_pronoun] fought alongside [PAWN_possessive] brothers and sisters in arms for many years.\n\nOne day, they were caught in a fight they couldn't win. Refusing to retreat, [PAWN_nameDef] was shot down by [PAWN_possessive] enemies. [PAWN_pronoun] was alarmed to awake in a heap of corpses, mysteriously unharmed. -->
-  <Mercenary20.description>TODO</Mercenary20.description>
+  <Mercenary20.description>Chuaigh [PAWN_nameDef] le banda gallóglach nuair a bhí [PAWN_pronoun] óg, agus chaith [PAWN_pronoun] na blianta ag dul ó phláinéad go pláinéad sa tóir ar obair.\n\nLá amháin, maraíodh a c[PAWN_possessive]omhghuallaithe i dtroid mharfach, ach d'éirigh le [PAWN_nameDef] éalú.</Mercenary20.description>
   <!-- EN: mercenary -->
-  <Mercenary20.title>TODO</Mercenary20.title>
+  <Mercenary20.title>gallóglach</Mercenary20.title>
   <!-- EN: mercenary -->
-  <Mercenary20.titleShort>TODO</Mercenary20.titleShort>
+  <Mercenary20.titleShort>gallóglach</Mercenary20.titleShort>
 
   <!-- EN: After escaping a crew of rimworld slavers, [PAWN_nameDef] developed a lack of respect for life. [PAWN_pronoun] proceeded to sign on to a mercenary group where [PAWN_pronoun] developed skills using guns and survival techniques. [PAWN_nameDef] did dirty work where [PAWN_pronoun] found it, and traveled to many worlds. -->
-  <Mercenary4.description>TODO</Mercenary4.description>
+  <Mercenary4.description>D'fhás [PAWN_nameDef] suas sa sclábhaíocht, ach d'éalaigh [PAWN_pronoun] agus chaith [PAWN_pronoun] a c[PAWN_possessive]uid ama ag dul ó phláinéad go pláinead, sa tóir ar obair. Ní raibh drogall ar [PAWN_nameDef] obair shalach a dhéanamh, nó daoine a mharú, nuair ba ghá sin.</Mercenary4.description>
   <!-- EN: mercenary -->
-  <Mercenary4.title>TODO</Mercenary4.title>
+  <Mercenary4.title>gallóglach</Mercenary4.title>
   <!-- EN: mercenary -->
-  <Mercenary4.titleShort>TODO</Mercenary4.titleShort>
+  <Mercenary4.titleShort>gallóglach</Mercenary4.titleShort>
 
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] teenage years as a mercenary, being hired to kill and maim others. [PAWN_pronoun] was tall, menacing, and frightening. [PAWN_pronoun] could instill fear into the hearts of any man who crossed [PAWN_objective], and kill anyone [PAWN_pronoun] wanted. -->
-  <Mercenary55.description>TODO</Mercenary55.description>
+  <Mercenary55.description>D'oibrigh [PAWN_nameDef] mar óglach. Tá [PAWN_pronoun] scanrúil agus mór, agus ní raibh drogall ar [PAWN_nameDef] daoine a ghortú nuair ba ghá sin.</Mercenary55.description>
   <!-- EN: mercenary -->
-  <Mercenary55.title>TODO</Mercenary55.title>
+  <Mercenary55.title>óglach</Mercenary55.title>
   <!-- EN: merc -->
-  <Mercenary55.titleShort>TODO</Mercenary55.titleShort>
+  <Mercenary55.titleShort>óglach</Mercenary55.titleShort>
 
   <!-- EN: [PAWN_nameDef] was in the crew of a mercenary ship. Disciplined and confident, [PAWN_pronoun] quickly rose through the ranks and gained friends.\n\nIn [PAWN_possessive] time as a mercenary captain, [PAWN_pronoun] was known for being gregarious and calm - possibly thanks to the joywires. -->
-  <MercenaryCaptain98.description>TODO</MercenaryCaptain98.description>
+  <MercenaryCaptain98.description>D'oibrigh [PAWN_nameDef] le criú spásloinge, agus bhain [PAWN_pronoun] amach post mar chaptaen. Bhí [PAWN_nameDef] socair agus stuama sa ról sin, fiú nuair a bhí [PAWN_pronoun] faoi bhrú.</MercenaryCaptain98.description>
   <!-- EN: mercenary captain -->
-  <MercenaryCaptain98.title>TODO</MercenaryCaptain98.title>
+  <MercenaryCaptain98.title>captaen</MercenaryCaptain98.title>
   <!-- EN: captain -->
-  <MercenaryCaptain98.titleShort>TODO</MercenaryCaptain98.titleShort>
+  <MercenaryCaptain98.titleShort>captaen</MercenaryCaptain98.titleShort>
 
   <!-- EN: Following in [PAWN_possessive] family's footsteps, [PAWN_nameDef] was a soldier for hire.\n\n[PAWN_pronoun] was a naturally gifted sharpshooter. However, [PAWN_possessive] real passion is in perfecting a new recipe or dissecting a new gadget. -->
-  <MercenaryChef44.description>TODO</MercenaryChef44.description>
+  <MercenaryChef44.description>D'oibrigh [PAWN_nameDef] mar shaighdiúir ar iasacht. Nior thaitin an obair sin le [PAWN_nameDef] riamh, áfach.</MercenaryChef44.description>
   <!-- EN: mercenary chef -->
-  <MercenaryChef44.title>TODO</MercenaryChef44.title>
+  <MercenaryChef44.title>óglach</MercenaryChef44.title>
   <!-- EN: mercenary -->
-  <MercenaryChef44.titleShort>TODO</MercenaryChef44.titleShort>
+  <MercenaryChef44.titleShort>óglach</MercenaryChef44.titleShort>
 
   <!-- EN: Alone, [PAWN_nameDef] set out to rebuild [PAWN_possessive] father's life's work. [PAWN_pronoun] challenged the leader of a small band of mercenaries and took control, then led the band as they hijacked trade ships and stole valuable cargo.\n\n[PAWN_possessive] men mutinied. [PAWN_pronoun] was abandoned, arrested, and sentenced to death. -->
-  <MercenaryLeader28.description>TODO</MercenaryLeader28.description>
+  <MercenaryLeader28.description>Thóg [PAWN_nameDef] smacht ar ghrúpa óglach nuair a bhí [PAWN_pronoun] óg. Leis an ngrúpa sin, chaith [PAWN_pronoun] na blianta ag cur sceimhle ar spáslonga trádála. Ar deireadh, rinne na hóglaigh eile ceannairc i gcoinne [PAWN_nameDef], ach d'éalaigh sé.</MercenaryLeader28.description>
   <!-- EN: mercenary leader -->
-  <MercenaryLeader28.title>TODO</MercenaryLeader28.title>
+  <MercenaryLeader28.title>óglach</MercenaryLeader28.title>
   <!-- EN: mercenary -->
-  <MercenaryLeader28.titleShort>TODO</MercenaryLeader28.titleShort>
+  <MercenaryLeader28.titleShort>óglach</MercenaryLeader28.titleShort>
 
   <!-- EN: [PAWN_nameDef] formed a mercenary company out of freelancers who wanted to make good money while also making slightly better-than-average moral choices. [PAWN_pronoun] called it the Ashmarines.\n\nTo avoid the coreworlds' military forces, [PAWN_pronoun] moved [PAWN_possessive] company to the rimworlds. There, [PAWN_pronoun] established bases and communities. In ruling, [PAWN_pronoun] maintained a form of order among the raiders and madmen of deep space. -->
-  <MercenaryLord13.description>TODO</MercenaryLord13.description>
+  <MercenaryLord13.description>Bhunaigh [PAWN_nameDef] complacht óglach, agus chuaigh siad ó dhomhan go domhan i mbun gadaíochta agus ag cur sceimhle ar na daoine áitiúla.</MercenaryLord13.description>
   <!-- EN: mercenary lord -->
-  <MercenaryLord13.title>TODO</MercenaryLord13.title>
+  <MercenaryLord13.title>óglach</MercenaryLord13.title>
   <!-- EN: merc lord -->
-  <MercenaryLord13.titleShort>TODO</MercenaryLord13.titleShort>
+  <MercenaryLord13.titleShort>óglach</MercenaryLord13.titleShort>
 
   <!-- EN: [PAWN_nameDef] convinced [PAWN_possessive] squadron to abscond with their ships and make a course for the rimworlds. There they could fight for the causes they believed in.\n\n[PAWN_possessive] men were loyal and fought hard, but their ideals soon faded away and their cause became that of the highest bidder. -->
-  <MercenaryPilot63.description>TODO</MercenaryPilot63.description>
+  <MercenaryPilot63.description>Maraíodh scuadrún [PAWN_nameDef] i gcogadh ar phláinéad iarghúlta éigean, agus chaith [PAWN_pronoun] na blianta ag eitilt ó phláinéad go pláinéad ag lorg oibre.</MercenaryPilot63.description>
   <!-- EN: mercenary pilot -->
-  <MercenaryPilot63.title>TODO</MercenaryPilot63.title>
+  <MercenaryPilot63.title>píolóta</MercenaryPilot63.title>
   <!-- EN: mercenary -->
-  <MercenaryPilot63.titleShort>TODO</MercenaryPilot63.titleShort>
+  <MercenaryPilot63.titleShort>píolóta</MercenaryPilot63.titleShort>
 
   <!-- EN: A plague struck [PAWN_nameDef]'s native urbworld. [PAWN_nameDef] and other researchers revealed that the illness was a bioweapon, but the people turned on them, blaming them for the sickness.\n\n[PAWN_nameDef] barely escaped [PAWN_possessive] homeworld as it fell into chaos. -->
-  <Microbiologist12.description>TODO</Microbiologist12.description>
+  <Microbiologist12.description>D'oibrigh [PAWN_nameDef] i saotharlann micribhitheolaíochta, áit a rinne sé staidéar ar ghalair dhainséaracha. Lá amháin, d'éalaigh galar dáinséarach ón saotharlann agus maraíodh na milliúin daoine de bharr paindéim mharfach.</Microbiologist12.description>
   <!-- EN: microbiologist -->
-  <Microbiologist12.title>TODO</Microbiologist12.title>
+  <Microbiologist12.title>micribhitheolaí</Microbiologist12.title>
   <!-- EN: biologist -->
-  <Microbiologist12.titleShort>TODO</Microbiologist12.titleShort>
+  <Microbiologist12.titleShort>micribhitheolaí</Microbiologist12.titleShort>
 
   <!-- EN: [PAWN_nameDef] joined [PAWN_possessive] country's Royal Navy. After years as a non-commissioned officer, [PAWN_pronoun] eventually cracked and used the skills [PAWN_pronoun] had acquired to start a mutiny on [PAWN_possessive] ship.\n\nIn the end, [PAWN_nameDef] was the leader of a large group of trained and dangerous pirates. [PAWN_pronoun] henceforth always had chefs to cook for him. -->
-  <MidworldSailor91.description>TODO</MidworldSailor91.description>
+  <MidworldSailor91.description>D'oibrigh [PAWN_nameDef] mar mhairneálach ar a pláinéad baile. Chaith [PAWN_pronoun] na blianta ag obair le comhlacht mór, ach cuireadh tús le díospóid maidir le pá - ina dhiaidh sin, d'éirigh [PAWN_nameDef] agus na mairnéalaigh eile amach agus d'iompaigh siad ina bpíoráidí.</MidworldSailor91.description>
   <!-- EN: midworld sailor -->
-  <MidworldSailor91.title>TODO</MidworldSailor91.title>
+  <MidworldSailor91.title>mairnéalach</MidworldSailor91.title>
   <!-- EN: sailor -->
-  <MidworldSailor91.titleShort>TODO</MidworldSailor91.titleShort>
+  <MidworldSailor91.titleShort>mairnéalach</MidworldSailor91.titleShort>
 
   <!-- EN: [PAWN_nameDef] worked as an engineer for a colonial military. [PAWN_pronoun] got to play with weapons, murder-drones, and other 'fun' stuff.\n\n[PAWN_pronoun] specialized in repairing and modifying mechanoids' tools. Sometimes [PAWN_pronoun] tested them [PAWN_objective]self. -->
-  <MilitaryEngineer45.description>TODO</MilitaryEngineer45.description>
+  <MilitaryEngineer45.description>D'oibrigh [PAWN_nameDef] mar innealltóir míleata. Tá cur amach ag [PAWN_nameDef] ar airm, buamaí agus earraí dáinséaracha eile mar gheall ar an taithí sin.</MilitaryEngineer45.description>
   <!-- EN: military engineer -->
-  <MilitaryEngineer45.title>TODO</MilitaryEngineer45.title>
+  <MilitaryEngineer45.title>innealltóir míleata</MilitaryEngineer45.title>
   <!-- EN: engineer -->
-  <MilitaryEngineer45.titleShort>TODO</MilitaryEngineer45.titleShort>
+  <MilitaryEngineer45.titleShort>innealltóir</MilitaryEngineer45.titleShort>
 
   <!-- EN: When [PAWN_possessive] world was thrown into conflict, [PAWN_nameDef] was conscripted along with many of [PAWN_possessive] peers into the war machine that tore across the planet.\n\nWith [PAWN_possessive] particular expertise, [PAWN_pronoun] was lucky enough to find a position serving as small arms mechanic rather than on the front line. -->
   <MilitaryGunsmith27.description>TODO</MilitaryGunsmith27.description>
   <!-- EN: military gunsmith -->
-  <MilitaryGunsmith27.title>TODO</MilitaryGunsmith27.title>
+  <MilitaryGunsmith27.title>gabha gunnaí</MilitaryGunsmith27.title>
   <!-- EN: gunsmith -->
-  <MilitaryGunsmith27.titleShort>TODO</MilitaryGunsmith27.titleShort>
+  <MilitaryGunsmith27.titleShort>gabha gunnaí</MilitaryGunsmith27.titleShort>
 
   <!-- EN: Jackson, in a final act of rebellion, left [PAWN_possessive] father's lab and joined the local Imperial military.\n\n[PAWN_pronoun] used [PAWN_possessive] laboratory skills to design machines of war. At this [PAWN_pronoun] was one of the best on [PAWN_possessive] planet. -->
   <MilitaryInventor35.description>TODO</MilitaryInventor35.description>

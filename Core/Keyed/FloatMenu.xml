@@ -32,7 +32,7 @@
   <!-- EN: Cannot hit target -->
   <CannotHitTarget>Ní féidir an targaid a bhualadh</CannotHitTarget>
   <!-- EN: {1_labelShort} is incapable of violence -->
-  <IsIncapableOfViolenceLower>Níl {1_labelShort} tugtha don fhoréigean</IsIncapableOfViolenceLower>
+  <IsIncapableOfViolenceLower>Is fuath le {1_labelShort} foréigean</IsIncapableOfViolenceLower>
   <!-- EN: incapable of violence -->
   <IncapableOfViolenceLower>foréigean coiscthe</IncapableOfViolenceLower>
   <!-- EN: {0_labelShort} is incapable of shooting -->
@@ -71,7 +71,7 @@
   <!-- EN: burning -->
   <BurningLower>ag dó</BurningLower>
   <!-- EN: no empty, accessible spot configured to store it -->
-  <NoEmptyPlaceLower>níl spás folamh, inrochtana ar fáil chun seo a stóráil</NoEmptyPlaceLower>
+  <NoEmptyPlaceLower>níl spás folamh, inrochtana ar fáil inar féidir é stóráil</NoEmptyPlaceLower>
   <!-- EN: no stack available to merge into -->
   <NoMergeTarget>níl carn ar fáil ina bhféadfaí é seo a chur</NoMergeTarget>
   <!-- EN: already filled enough -->
@@ -260,7 +260,7 @@
   <!-- EN: Reserved by someone else. -->
   <Reserved>In úsáid ag duine eile.</Reserved>
   <!-- EN: Reserved by {1_labelShort} -->
-  <ReservedBy>In úsáid ag {1_labelShort}</ReservedBy>
+  <ReservedBy>Á dhéanamh ag {1_labelShort}</ReservedBy>
   <!-- EN: {0} is reserved by {1}. -->
   <IsReservedBy>Tá {0} in úsáid ag {1}.</IsReservedBy>
   <!-- EN: Too heavy -->
@@ -457,7 +457,7 @@
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
   <!-- GA: I have not tested this yet but I assume it won't work without some modification -->
   <!-- EN: Cannot {0} {1} -->
-  <CannotGenericWork>Ní féidir {1} {0}</CannotGenericWork>
+  <CannotGenericWork>Ní féidir {1} {replace: {0}; "ag bogadh"-"a bhogadh"; "ag iompar"-"a iompar"}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Ní féidir {0}</CannotGenericWorkCustom>
 
@@ -500,9 +500,29 @@
   <!-- EN: Cannot prioritize burying -->
   <CannotPrioritizeBurying>Ní féidir tús áite a thabhairt don jab seo</CannotPrioritizeBurying>
 
-  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
+  <!-- e.g. Replacer had to be implemented manually to avoid grammatical mistakes - it is based on the WorkGivers.xml file and is sorted in the same order  -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>TODO</PrioritizeGeneric>
+  <PrioritizeGeneric>
+    Tabhair tús áite do '{1}' {replace: {0};
+    "ag scaoileadh saor"-"a scaoileadh saor";
+    "ag tógáil dín"-"díon a thógáil";
+    "ag labhairt le"-"labhairt le";
+    "ag baint sneachta"-"sneachta a bhaint";
+    "ag glanadh"-"a ghlanadh";
+    "ag tógáil"-"a thógáil";
+    "ag baint urlár"-"urlár a bhaint";
+    "ag líomhadh"-"a líomhadh";
+    "ag líonadh"-"a líonadh";
+    "ag sriosadh"-"a scriosadh";
+    "ag tabhairt bia do"-"bia a thabhairt do";
+    "ag tógáil chuig"-"a thabhairt chuig";
+    "ag déanamh"-"a dhéanamh";
+    "ag déanamh búistéireacht ag"-"búistéireacht a dhéanamh ar";
+    "ag cócaireacht"-"a chócaráil";
+    "ag créamadh"-"a chréamadh";
+    "ag cruthú earraí ag"-"rudaí a chruthú";
+    "ag tailliúireacht"-"tailliúreacht"}
+  </PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>Leaindáil ag an taobh</DropAtEdge>

@@ -249,7 +249,7 @@
   <MessageSuccessfullyRemovedHediff>D'éirigh le {SURGEON_labelShort} {HEDIFF} {PATIENT_labelShort} a bhaint.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>Tá smionagar spásloinge tar éis titim ón spéir sa cheantar máguaird. Is féidir iad a bhriseadh síos chun acmhainní a fháil.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Tá smionagar spásloinge tar éis titim ón spéir sa cheantar máguaird. Is féidir é a bhriseadh síos chun acmhainní a fháil.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
   <MessageCannotSellItemsReason>Ní féidir roinnt earraí a thrádáil: </MessageCannotSellItemsReason>
@@ -707,9 +707,9 @@
   <!-- EN: {0_labelShort} is being released. -->
   <MessageRitualPawnReleased>Tá {0_labelShort} á scaoileadh saor faoi láthair.</MessageRitualPawnReleased>
   <!-- EN: {0_labelShort} is injured. -->
-  <MessageRitualPawnInjured>{0_labelShort} ist verletzt.</MessageRitualPawnInjured>
+  <MessageRitualPawnInjured>Tá {0_labelShort} gortaithe.</MessageRitualPawnInjured>
   <!-- EN: {0_labelShort} must hold one of these roles -->
-  <MessageRitualRoleRequired>{0_labelShort} muss eine dieser Rollen innehaben</MessageRitualRoleRequired>
+  <MessageRitualRoleRequired>Ní mór go mbeidh ceann de na róil seo a leanas ag {0_labelShort}</MessageRitualRoleRequired>
   <!-- EN: {0} must be a prisoner. -->
   <MessageRitualRoleMustBePrisoner>{0} muss ein Gefangener sein.</MessageRitualRoleMustBePrisoner>
   <!-- EN: {0} must be an animal. -->

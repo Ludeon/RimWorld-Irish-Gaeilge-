@@ -1274,7 +1274,7 @@
 
   <!-- Building placement restricters -->
   <!-- EN: {0} will have work speed penalty -->
-  <WillGetWorkSpeedPenalty>Ní bheidh {0} chomh éifeachtach.</WillGetWorkSpeedPenalty>
+  <WillGetWorkSpeedPenalty>Ní bheidh {0} chomh héifeachtach</WillGetWorkSpeedPenalty>
   <!-- EN: Cannot be placed under a roof. -->
   <MustPlaceUnroofed>Ní féidir seo a chur faoi dhíon.</MustPlaceUnroofed>
   <!-- EN: Must be placed under thick roof. -->
@@ -1952,7 +1952,7 @@
   <WhenDiscovered>nuair a aimseofar é</WhenDiscovered>
 
   <!-- EN: Was driven into a mental break after reading {0}. -->
-  <BookMentalBreakMessage>TODO</BookMentalBreakMessage>
+  <BookMentalBreakMessage>Chuir an téacs '{0}' cliseadh néarógach ar an duine seo.</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
   <BookReadProgress>{0} críochnaithe (ag críochnú i gceann {1} uair an chloig)</BookReadProgress>
 
@@ -1977,11 +1977,11 @@
   <ReadingReportHeader>Ag léamh {0}: {1} críochnaithe (ag críochnú i gceann {2} uair an chloig)</ReadingReportHeader>
 
   <!-- EN: Assign reading -->
-  <ReadingDialogTitle>TODO</ReadingDialogTitle>
+  <ReadingDialogTitle>Tabhair léitheoireacht do</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
-  <ReadingAssignTo>TODO</ReadingAssignTo>
+  <ReadingAssignTo>Tabhair do {0}</ReadingAssignTo>
   <!-- EN: Assign -->
-  <ReadingAssign>TODO</ReadingAssign>
+  <ReadingAssign>Tabhair</ReadingAssign>
 
   <!-- EN: The books currently on this bookshelf. -->
   <ContainedBooksDesc>Na leabhair atá ar an seilf seo faoi láthair.</ContainedBooksDesc>
