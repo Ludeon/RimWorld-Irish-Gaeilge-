@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- NOTE: "".gerund" lines in this file are linked to the replacer in FloatMenu.xml. If any text is changed here, the replacer in "PrioritizeGeneric" in FloatMenu.xml will have to be updated accordingly to match.  -->
+
   <!-- EN: release prisoners -->
   <BasicReleasePrisoner.label>scaoil saor príosúnaigh</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
@@ -32,7 +34,7 @@
   <!-- EN: clean filth -->
   <CleanFilth.label>glan salachar</CleanFilth.label>
   <!-- EN: cleaning -->
-  <CleanFilth.gerund>ag glanadh salachair</CleanFilth.gerund>
+  <CleanFilth.gerund>ag glanadh</CleanFilth.gerund>
   <!-- EN: clean -->
   <CleanFilth.verb>a ghlanadh</CleanFilth.verb>
   
@@ -95,7 +97,7 @@
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>tabhair bia do phríosúnaigh</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
-  <DeliverFoodToPrisoner.gerund>ag tabhairt bia do:</DeliverFoodToPrisoner.gerund>
+  <DeliverFoodToPrisoner.gerund>ag tabhairt bia do</DeliverFoodToPrisoner.gerund>
   <!-- EN: deliver food for -->
   <DeliverFoodToPrisoner.verb>bia a thabhairt do</DeliverFoodToPrisoner.verb>
   
@@ -116,7 +118,7 @@
   <!-- EN: brew liquors -->
   <DoBillsBrew.label>déan alcól</DoBillsBrew.label>
   <!-- EN: brewing at -->
-  <DoBillsBrew.gerund>ag grúdú</DoBillsBrew.gerund>
+  <DoBillsBrew.gerund>ag déanamh</DoBillsBrew.gerund>
   <!-- EN: brew -->
   <DoBillsBrew.verb>a dhéanamh</DoBillsBrew.verb>
   
@@ -125,7 +127,7 @@
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>ag déanamh búistéireacht ag</DoBillsButcherFlesh.gerund>
   <!-- EN: butcher -->
-  <DoBillsButcherFlesh.verb>búistéireacht a dhéanamh</DoBillsButcherFlesh.verb>
+  <DoBillsButcherFlesh.verb>búistéireacht a dhéanamh ar</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>déan béilí</DoBillsCook.label>
@@ -153,7 +155,7 @@
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>ag cruthú earraí ag</DoBillsFabricationBench.gerund>
   <!-- EN: fabricate -->
-  <DoBillsFabricationBench.verb>earraí a chruthú</DoBillsFabricationBench.verb>
+  <DoBillsFabricationBench.verb>rudaí a chruthú</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
   <DoBillsHaulCampfire.label>déan billí ag an gcampa tine</DoBillsHaulCampfire.label>
@@ -174,224 +176,224 @@
   <!-- EN: tailoring at -->
   <DoBillsMakeApparel.gerund>ag tailliúireacht</DoBillsMakeApparel.gerund>
   <!-- EN: tailor -->
-  <DoBillsMakeApparel.verb>déan éadaí</DoBillsMakeApparel.verb>
+  <DoBillsMakeApparel.verb>tailliúreacht</DoBillsMakeApparel.verb>
   
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>déan airm</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
   <DoBillsMakeWeapons.gerund>ag cruthú arm</DoBillsMakeWeapons.gerund>
   <!-- EN: smith -->
-  <DoBillsMakeWeapons.verb>déan arm</DoBillsMakeWeapons.verb>
+  <DoBillsMakeWeapons.verb>airm a chruthú</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
   <DoBillsMedicalAnimalOperation.label>déan obráidí ar ainmhithe</DoBillsMedicalAnimalOperation.label>
   <!-- EN: operating on -->
   <DoBillsMedicalAnimalOperation.gerund>i mbun obráide ar</DoBillsMedicalAnimalOperation.gerund>
   <!-- EN: operate on -->
-  <DoBillsMedicalAnimalOperation.verb>déan obráid ar</DoBillsMedicalAnimalOperation.verb>
+  <DoBillsMedicalAnimalOperation.verb>obráid a dhéanamh</DoBillsMedicalAnimalOperation.verb>
   
   <!-- EN: operate on humanlikes -->
-  <DoBillsMedicalHumanOperation.label>déan obráidí ar dhaione</DoBillsMedicalHumanOperation.label>
+  <DoBillsMedicalHumanOperation.label>déan obráidí ar dhaoine</DoBillsMedicalHumanOperation.label>
   <!-- EN: operating on -->
   <DoBillsMedicalHumanOperation.gerund>i mbun obráide ar</DoBillsMedicalHumanOperation.gerund>
   <!-- EN: operate on -->
-  <DoBillsMedicalHumanOperation.verb>déan obráid ar</DoBillsMedicalHumanOperation.verb>
+  <DoBillsMedicalHumanOperation.verb>obráidí a dhéanamh ar</DoBillsMedicalHumanOperation.verb>
   
   <!-- EN: synthesize drugs -->
   <DoBillsProduceDrugs.label>cruthaigh drugaí</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>ag táirgeadh drugaí ag</DoBillsProduceDrugs.gerund>
   <!-- EN: produce drugs -->
-  <DoBillsProduceDrugs.verb>cruthaigh drugaí</DoBillsProduceDrugs.verb>
+  <DoBillsProduceDrugs.verb>drugaí a tháirgeadh</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>cruthaigh ceimiceáin</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
   <DoBillsRefinery.gerund>ag scagadh ceimiceán ag</DoBillsRefinery.gerund>
   <!-- EN: refine chemicals -->
-  <DoBillsRefinery.verb>ag scagadh ceimiceán</DoBillsRefinery.verb>
+  <DoBillsRefinery.verb>ceimiceáin a scagadh</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>cruthaigh rudaí ag an mbinse ealaíne</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>ag dealbhú ag</DoBillsSculpt.gerund>
   <!-- EN: sculpt -->
-  <DoBillsSculpt.verb>cruthaigh dealbh</DoBillsSculpt.verb>
+  <DoBillsSculpt.verb>dealbh a chruthú</DoBillsSculpt.verb>
   
   <!-- EN: smelt items -->
   <DoBillsSmelter.label>déan earraí a bhruithniú</DoBillsSmelter.label>
   <!-- EN: refining at -->
   <DoBillsSmelter.gerund>ag bruithniú</DoBillsSmelter.gerund>
   <!-- EN: refine -->
-  <DoBillsSmelter.verb>bruithnigh</DoBillsSmelter.verb>
+  <DoBillsSmelter.verb>a bhruithniú</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
   <DoBillsStonecut.label>déan brící cloiche</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
   <DoBillsStonecut.gerund>ag gearradh brící cloiche ag</DoBillsStonecut.gerund>
   <!-- EN: stonecut -->
-  <DoBillsStonecut.verb>ag gearradh cloiche</DoBillsStonecut.verb>
+  <DoBillsStonecut.verb>bhricí cloiche a ghearradh</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
   <DoBillsUseCraftingSpot.label>cruthaigh earraí ag an spota ceardaíochta</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
   <DoBillsUseCraftingSpot.gerund>i mbun ceardaíochta ag</DoBillsUseCraftingSpot.gerund>
   <!-- EN: craft -->
-  <DoBillsUseCraftingSpot.verb>cruthaigh earraí</DoBillsUseCraftingSpot.verb>
+  <DoBillsUseCraftingSpot.verb>earraí a chruthú</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
   <DoctorFeedAnimals.label>tabhair bia d'ainmhithe</DoctorFeedAnimals.label>
   <!-- EN: feeding -->
-  <DoctorFeedAnimals.gerund>ag tabhairt bia</DoctorFeedAnimals.gerund>
+  <DoctorFeedAnimals.gerund>ag tabhairt bia do</DoctorFeedAnimals.gerund>
   <!-- EN: feed -->
-  <DoctorFeedAnimals.verb>tabhair bia</DoctorFeedAnimals.verb>
+  <DoctorFeedAnimals.verb>bhia a thabhairt do</DoctorFeedAnimals.verb>
   
   <!-- EN: feed patients -->
   <DoctorFeedHumanlikes.label>tabhair bia d'othair</DoctorFeedHumanlikes.label>
   <!-- EN: feeding -->
-  <DoctorFeedHumanlikes.gerund>ag tabhairt bia</DoctorFeedHumanlikes.gerund>
+  <DoctorFeedHumanlikes.gerund>ag tabhairt bia do</DoctorFeedHumanlikes.gerund>
   <!-- EN: feed -->
-  <DoctorFeedHumanlikes.verb>tabhair bia</DoctorFeedHumanlikes.verb>
+  <DoctorFeedHumanlikes.verb>bhia a thabhairt do</DoctorFeedHumanlikes.verb>
   
   <!-- EN: rescue downed allies to bed -->
   <DoctorRescue.label>déan daoine gortaithe a tharrtháil</DoctorRescue.label>
   <!-- EN: rescuing -->
-  <DoctorRescue.gerund>i mbun tarrthála</DoctorRescue.gerund>
+  <DoctorRescue.gerund>ag tarrtháil</DoctorRescue.gerund>
   <!-- EN: rescue -->
-  <DoctorRescue.verb>tarrtháil</DoctorRescue.verb>
+  <DoctorRescue.verb>a tharrtháil</DoctorRescue.verb>
   
   <!-- EN: tend to patients with urgent needs -->
   <DoctorTendEmergency.label>tabhair aire d'othair a bhfuil riachtanais </DoctorTendEmergency.label>
   <!-- EN: tending to -->
   <DoctorTendEmergency.gerund>ag tabhairt aire do</DoctorTendEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendEmergency.verb>tabhair aire do</DoctorTendEmergency.verb>
+  <DoctorTendEmergency.verb>aire a thabhairt do</DoctorTendEmergency.verb>
   
   <!-- EN: tend to animals -->
   <DoctorTendToAnimals.label>tabhair aire d'ainmhithe</DoctorTendToAnimals.label>
   <!-- EN: tending to -->
   <DoctorTendToAnimals.gerund>ag tabhairt aire do</DoctorTendToAnimals.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToAnimals.verb>tabhair aire do</DoctorTendToAnimals.verb>
+  <DoctorTendToAnimals.verb>aire a thabhairt do</DoctorTendToAnimals.verb>
   
   <!-- EN: tend to patients -->
   <DoctorTendToHumanlikes.label>tabhair aire d'othair</DoctorTendToHumanlikes.label>
   <!-- EN: tending to -->
   <DoctorTendToHumanlikes.gerund>ag tabhairt aire do</DoctorTendToHumanlikes.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToHumanlikes.verb>tabhair aire do</DoctorTendToHumanlikes.verb>
+  <DoctorTendToHumanlikes.verb>aire a thabhairt do</DoctorTendToHumanlikes.verb>
   
   <!-- EN: tend to self -->
   <DoctorTendToSelf.label>tabhair aire duit féin</DoctorTendToSelf.label>
   <!-- EN: tending to -->
   <DoctorTendToSelf.gerund>ag tabhairt aire do</DoctorTendToSelf.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelf.verb>tabhair aire do</DoctorTendToSelf.verb>
+  <DoctorTendToSelf.verb>aire a thabhairt do</DoctorTendToSelf.verb>
   
   <!-- EN: tend to self -->
   <DoctorTendToSelfEmergency.label>tabhair aire duit féin</DoctorTendToSelfEmergency.label>
   <!-- EN: tending to -->
   <DoctorTendToSelfEmergency.gerund>ag tabhairt aire do</DoctorTendToSelfEmergency.gerund>
   <!-- EN: tend to -->
-  <DoctorTendToSelfEmergency.verb>tabhair aire do</DoctorTendToSelfEmergency.verb>
+  <DoctorTendToSelfEmergency.verb>aire a thabhairt do</DoctorTendToSelfEmergency.verb>
   
   <!-- EN: execute prisoners -->
   <DoExecution.label>maraigh príosúnaigh</DoExecution.label>
   <!-- EN: executing -->
   <DoExecution.gerund>ag marú</DoExecution.gerund>
   <!-- EN: execute -->
-  <DoExecution.verb>maraigh</DoExecution.verb>
+  <DoExecution.verb>a mharú</DoExecution.verb>
   
   <!-- EN: drill at deep drill -->
   <Drill.label>druileáil ag an druilire domhain</Drill.label>
   <!-- EN: drilling -->
   <Drill.gerund>ag druileáil</Drill.gerund>
   <!-- EN: drill -->
-  <Drill.verb>druileáil</Drill.verb>
+  <Drill.verb>a druileáil</Drill.verb>
   
   <!-- EN: empty egg box -->
   <EmptyEggBox.label>bain uibheacha ón mbosca</EmptyEggBox.label>
   <!-- EN: emptying -->
   <EmptyEggBox.gerund>ag baint uibheacha</EmptyEggBox.gerund>
   <!-- EN: empty -->
-  <EmptyEggBox.verb>bain uibheacha</EmptyEggBox.verb>
+  <EmptyEggBox.verb>uibheacha a bhaint</EmptyEggBox.verb>
   
   <!-- EN: execute guilty colonists -->
   <ExecuteGuiltyColonist.label>maraigh coilínigh ciontacha</ExecuteGuiltyColonist.label>
   <!-- EN: executing -->
   <ExecuteGuiltyColonist.gerund>ag marú</ExecuteGuiltyColonist.gerund>
   <!-- EN: execute -->
-  <ExecuteGuiltyColonist.verb>maraigh</ExecuteGuiltyColonist.verb>
+  <ExecuteGuiltyColonist.verb>a mharú</ExecuteGuiltyColonist.verb>
   
   <!-- EN: extract skull -->
   <ExtractSkull.label>bain blaosc</ExtractSkull.label>
   <!-- EN: extracting skull of -->
   <ExtractSkull.gerund>ag baint an blaosc de</ExtractSkull.gerund>
   <!-- EN: extract -->
-  <ExtractSkull.verb>bain blaosc</ExtractSkull.verb>
+  <ExtractSkull.verb>bhlaosc a bhaint de</ExtractSkull.verb>
   
   <!-- EN: extract trees -->
   <ExtractTree.label>bain crainn</ExtractTree.label>
   <!-- EN: extracting -->
   <ExtractTree.gerund>ag baint</ExtractTree.gerund>
   <!-- EN: extract -->
-  <ExtractTree.verb>bain</ExtractTree.verb>
+  <ExtractTree.verb>a bhaint</ExtractTree.verb>
   
   <!-- EN: feed prisoners -->
   <FeedPrisoner.label>tabhair bia do phríosúnaigh</FeedPrisoner.label>
   <!-- EN: feeding -->
   <FeedPrisoner.gerund>ag tabhairt bia</FeedPrisoner.gerund>
   <!-- EN: feed -->
-  <FeedPrisoner.verb>tabhair bia</FeedPrisoner.verb>
+  <FeedPrisoner.verb>bia a thabhairt do</FeedPrisoner.verb>
   
   <!-- EN: fight fires -->
   <FightFires.label>múch tinte</FightFires.label>
   <!-- EN: extinguishing -->
   <FightFires.gerund>ag múchadh</FightFires.gerund>
   <!-- EN: extinguish -->
-  <FightFires.verb>múch</FightFires.verb>
+  <FightFires.verb>a mhúchadh</FightFires.verb>
   
   <!-- EN: fill fermenting barrels -->
   <FillFermentingBarrel.label>líon bairillí coipthe</FillFermentingBarrel.label>
   <!-- EN: filling -->
   <FillFermentingBarrel.gerund>ag líonadh</FillFermentingBarrel.gerund>
   <!-- EN: fill -->
-  <FillFermentingBarrel.verb>líon</FillFermentingBarrel.verb>
+  <FillFermentingBarrel.verb>a líonadh</FillFermentingBarrel.verb>
   
   <!-- EN: fix broken-down buildings -->
   <FixBrokenDownBuilding.label>deisigh foirgnimh</FixBrokenDownBuilding.label>
   <!-- EN: replacing broken components in -->
   <FixBrokenDownBuilding.gerund>ag deisiú</FixBrokenDownBuilding.gerund>
   <!-- EN: replace broken components in -->
-  <FixBrokenDownBuilding.verb>deisigh</FixBrokenDownBuilding.verb>
+  <FixBrokenDownBuilding.verb>a dheisiú</FixBrokenDownBuilding.verb>
   
   <!-- EN: flick switches -->
   <Flick.label>cas lasca</Flick.label>
   <!-- EN: flicking switch on -->
   <Flick.gerund>ag casadh na laisce ar</Flick.gerund>
   <!-- EN: flick switch on -->
-  <Flick.verb>cas an lasc ar</Flick.verb>
+  <Flick.verb>lasca a chasadh ar</Flick.verb>
   
   <!-- EN: operate ground penetrating scanner -->
   <GroundPenetratingScan.label>úsáid geo-scanóir</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
   <GroundPenetratingScan.gerund>ag scanadh ag</GroundPenetratingScan.gerund>
   <!-- EN: scan -->
-  <GroundPenetratingScan.verb>scan</GroundPenetratingScan.verb>
+  <GroundPenetratingScan.verb>a scanáil</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
   <GrowerHarvest.label>bain barra</GrowerHarvest.label>
   <!-- EN: harvesting -->
   <GrowerHarvest.gerund>ag baint</GrowerHarvest.gerund>
   <!-- EN: harvest -->
-  <GrowerHarvest.verb>bain</GrowerHarvest.verb>
+  <GrowerHarvest.verb>a bhaint</GrowerHarvest.verb>
   
   <!-- EN: sow crops -->
   <GrowerSow.label>cuir barra</GrowerSow.label>
   <!-- EN: sowing -->
   <GrowerSow.gerund>ag cur</GrowerSow.gerund>
   <!-- EN: sow -->
-  <GrowerSow.verb>cuir</GrowerSow.verb>
+  <GrowerSow.verb>a chur</GrowerSow.verb>
   
   <!-- EN: feed animals -->
   <HandlingFeedPatientAnimals.label>tabhair bia d'ainmhithe</HandlingFeedPatientAnimals.label>
@@ -415,32 +417,32 @@
   <HaulGeneral.verb>a bhogadh</HaulGeneral.verb>
   
   <!-- EN: merge things -->
-  <HaulMerge.label>déan rudaí a chumaisc</HaulMerge.label>
+  <HaulMerge.label>cumaisc rudaí</HaulMerge.label>
   <!-- EN: merging -->
   <HaulMerge.gerund>ag cumasc</HaulMerge.gerund>
   <!-- EN: merge -->
-  <HaulMerge.verb>cumaisc</HaulMerge.verb>
+  <HaulMerge.verb>a chumaisc</HaulMerge.verb>
   
   <!-- EN: haul to map -->
   <HaulToPortal.label>bog chuig an léarscáil</HaulToPortal.label>
   <!-- EN: loading -->
   <HaulToPortal.gerund>ag lódáil</HaulToPortal.gerund>
   <!-- EN: load -->
-  <HaulToPortal.verb>lódáil</HaulToPortal.verb>
+  <HaulToPortal.verb>a lódáil</HaulToPortal.verb>
   
   <!-- EN: load caravan -->
   <HelpGatheringItemsForCaravan.label>lódáil carbhán</HelpGatheringItemsForCaravan.label>
   <!-- EN: loading -->
   <HelpGatheringItemsForCaravan.gerund>ag lódáil</HelpGatheringItemsForCaravan.gerund>
   <!-- EN: load -->
-  <HelpGatheringItemsForCaravan.verb>lódáil</HelpGatheringItemsForCaravan.verb>
+  <HelpGatheringItemsForCaravan.verb>a lódáil</HelpGatheringItemsForCaravan.verb>
   
   <!-- EN: hunt -->
   <HunterHunt.label>seilg</HunterHunt.label>
   <!-- EN: hunting -->
-  <HunterHunt.gerund>i mbun sealgaireachta</HunterHunt.gerund>
+  <HunterHunt.gerund>ag seilg</HunterHunt.gerund>
   <!-- EN: hunt -->
-  <HunterHunt.verb>seilg</HunterHunt.verb>
+  <HunterHunt.verb>a sheilg</HunterHunt.verb>
   
   <!-- EN: load transporters -->
   <LoadTransporters.label>lódáil</LoadTransporters.label>
@@ -454,56 +456,56 @@
   <!-- EN: scanning at -->
   <LongRangeScan.gerund>ag scanadh ag</LongRangeScan.gerund>
   <!-- EN: scan -->
-  <LongRangeScan.verb>scan</LongRangeScan.verb>
+  <LongRangeScan.verb>a scanadh</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
   <Milk.label>crúigh ainmhithe</Milk.label>
   <!-- EN: milking -->
   <Milk.gerund>ag crú</Milk.gerund>
   <!-- EN: milk -->
-  <Milk.verb>crúigh</Milk.verb>
+  <Milk.verb>a chrú</Milk.verb>
   
   <!-- EN: mine -->
   <Mine.label>déan mianadóireacht</Mine.label>
   <!-- EN: mining -->
   <Mine.gerund>i mbun mianadóireachta</Mine.gerund>
   <!-- EN: mine -->
-  <Mine.verb>déan mianadóireacht</Mine.verb>
+  <Mine.verb>a bhaint</Mine.verb>
   
   <!-- EN: open containers -->
   <Open.label>oscail coimeádáin</Open.label>
   <!-- EN: opening -->
   <Open.gerund>ag oscailt</Open.gerund>
   <!-- EN: open -->
-  <Open.verb>oscail</Open.verb>
+  <Open.verb>a oscailt</Open.verb>
   
   <!-- EN: paint buildings -->
   <PaintBuilding.label>péinteáil foirgnimh</PaintBuilding.label>
   <!-- EN: painting -->
   <PaintBuilding.gerund>ag péinteáil</PaintBuilding.gerund>
   <!-- EN: paint -->
-  <PaintBuilding.verb>péinteáil</PaintBuilding.verb>
+  <PaintBuilding.verb>a phéinteáil</PaintBuilding.verb>
   
   <!-- EN: paint floor -->
   <PaintFloor.label>péinteáil an t-urlár</PaintFloor.label>
   <!-- EN: painting -->
   <PaintFloor.gerund>ag péinteáil</PaintFloor.gerund>
   <!-- EN: paint -->
-  <PaintFloor.verb>péinteáil</PaintFloor.verb>
+  <PaintFloor.verb>a phéinteáil</PaintFloor.verb>
   
   <!-- EN: go to bed for emergency treatment -->
   <PatientGoToBedEmergencyTreatment.label>téigh chuig an leaba le haghaidh cóireáil éigeandála</PatientGoToBedEmergencyTreatment.label>
   <!-- EN: receiving treatment in -->
-  <PatientGoToBedEmergencyTreatment.gerund>ag fáil cóireáil éigeandála ag</PatientGoToBedEmergencyTreatment.gerund>
+  <PatientGoToBedEmergencyTreatment.gerund>ag fáil cóireáil leighis ag</PatientGoToBedEmergencyTreatment.gerund>
   <!-- EN: receive treatment in -->
-  <PatientGoToBedEmergencyTreatment.verb>faigh cóireáil éigeandála</PatientGoToBedEmergencyTreatment.verb>
+  <PatientGoToBedEmergencyTreatment.verb>chóireáil leighis a fháil ag</PatientGoToBedEmergencyTreatment.verb>
   
   <!-- EN: recuperate in bed -->
   <PatientGoToBedRecuperate.label>téigh chuig an leaba</PatientGoToBedRecuperate.label>
   <!-- EN: getting bed rest in -->
   <PatientGoToBedRecuperate.gerund>ag bisiú sa leaba ag</PatientGoToBedRecuperate.gerund>
   <!-- EN: get bed rest in -->
-  <PatientGoToBedRecuperate.verb>téigh chuig an leaba</PatientGoToBedRecuperate.verb>
+  <PatientGoToBedRecuperate.verb>bisiú ag</PatientGoToBedRecuperate.verb>
   
   <!-- EN: go to bed for treatment -->
   <PatientGoToBedTreatment.label>téigh chuig an leaba</PatientGoToBedTreatment.label>
@@ -517,14 +519,14 @@
   <!-- EN: cutting -->
   <PlantsCut.gerund>ag gearradh</PlantsCut.gerund>
   <!-- EN: cut -->
-  <PlantsCut.verb>gearr</PlantsCut.verb>
+  <PlantsCut.verb>a ghearadh</PlantsCut.verb>
   
   <!-- EN: plant seeds -->
   <PlantSeed.label>cuir síolta</PlantSeed.label>
   <!-- EN: planting -->
   <PlantSeed.gerund>ag cur</PlantSeed.gerund>
   <!-- EN: plant -->
-  <PlantSeed.verb>cuir</PlantSeed.verb>
+  <PlantSeed.verb>a chur</PlantSeed.verb>
   
   <!-- EN: rearm turrets -->
   <RearmTurrets.label>athlódáil túiríní</RearmTurrets.label>
@@ -538,84 +540,84 @@
   <!-- EN: roping -->
   <RebalanceAnimalsInPens.gerund>ag rópáil</RebalanceAnimalsInPens.gerund>
   <!-- EN: rope -->
-  <RebalanceAnimalsInPens.verb>rópáil</RebalanceAnimalsInPens.verb>
+  <RebalanceAnimalsInPens.verb>a rópáil</RebalanceAnimalsInPens.verb>
   
   <!-- EN: refuel fuelable buildings -->
   <Refuel.label>athbhreoslaigh foirgnimh a bhfuil breosla de dhíth orthu</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>ag athbhreoslú</Refuel.gerund>
   <!-- EN: refuel -->
-  <Refuel.verb>athbhreoslaigh</Refuel.verb>
+  <Refuel.verb>a athbhreoslú</Refuel.verb>
   
   <!-- EN: release prisoners -->
   <ReleasePrisoner.label>scaoil saor príosúnaigh</ReleasePrisoner.label>
   <!-- EN: releasing -->
   <ReleasePrisoner.gerund>ag scaoileadh</ReleasePrisoner.gerund>
   <!-- EN: release -->
-  <ReleasePrisoner.verb>scaoil saor</ReleasePrisoner.verb>
+  <ReleasePrisoner.verb>a scaoileadh saor</ReleasePrisoner.verb>
   
   <!-- EN: release to wild -->
   <ReleaseToWild.label>scaoil saor</ReleaseToWild.label>
   <!-- EN: releasing -->
   <ReleaseToWild.gerund>ag scaoileadh</ReleaseToWild.gerund>
   <!-- EN: release -->
-  <ReleaseToWild.verb>scaoil saor</ReleaseToWild.verb>
+  <ReleaseToWild.verb>a scaoileadh saor</ReleaseToWild.verb>
   
   <!-- EN: remove paint -->
   <RemovePaintBuilding.label>bain péint</RemovePaintBuilding.label>
   <!-- EN: removing paint from -->
-  <RemovePaintBuilding.gerund>ag baint péinte</RemovePaintBuilding.gerund>
+  <RemovePaintBuilding.gerund>ag baint péinte de</RemovePaintBuilding.gerund>
   <!-- EN: remove paint -->
-  <RemovePaintBuilding.verb>bain péint</RemovePaintBuilding.verb>
+  <RemovePaintBuilding.verb>phéint a bhaint de</RemovePaintBuilding.verb>
   
   <!-- EN: remove floor paint -->
   <RemovePaintFloor.label>bain péint ón urlár</RemovePaintFloor.label>
   <!-- EN: removing paint from -->
   <RemovePaintFloor.gerund>ag baint péint ón urlár</RemovePaintFloor.gerund>
   <!-- EN: remove paint -->
-  <RemovePaintFloor.verb>bain péint</RemovePaintFloor.verb>
+  <RemovePaintFloor.verb>phéint a bhaint den urlár</RemovePaintFloor.verb>
   
   <!-- EN: remove roofs -->
   <RemoveRoofs.label>bain díon</RemoveRoofs.label>
   <!-- EN: removing roof -->
   <RemoveRoofs.gerund>ag baint an dín</RemoveRoofs.gerund>
   <!-- EN: remove roof -->
-  <RemoveRoofs.verb>bain díon</RemoveRoofs.verb>
+  <RemoveRoofs.verb>dhíon a bhaint</RemoveRoofs.verb>
   
   <!-- EN: repair damaged things -->
   <Repair.label>deisigh earraí</Repair.label>
   <!-- EN: repairing -->
   <Repair.gerund>ag deisiú</Repair.gerund>
   <!-- EN: repair -->
-  <Repair.verb>deisigh</Repair.verb>
+  <Repair.verb>a dheisiú</Repair.verb>
   
   <!-- EN: replant tree -->
   <Replant.label>cuir crann</Replant.label>
   <!-- EN: replanting -->
   <Replant.gerund>ag cur</Replant.gerund>
   <!-- EN: replant -->
-  <Replant.verb>cuir</Replant.verb>
+  <Replant.verb>a chur</Replant.verb>
   
   <!-- EN: do research -->
   <Research.label>déan taighde</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>i mbun taighde ag</Research.gerund>
   <!-- EN: research -->
-  <Research.verb>déan taighde</Research.verb>
+  <Research.verb>thaighde a dhéanamh</Research.verb>
   
   <!-- EN: shear animals -->
   <Shear.label>déan ainmhithe a bhearradh</Shear.label>
   <!-- EN: shearing -->
   <Shear.gerund>ag bearradh</Shear.gerund>
   <!-- EN: shear -->
-  <Shear.verb>bearr</Shear.verb>
+  <Shear.verb>a bhearradh</Shear.verb>
   
   <!-- EN: slaughter animals -->
   <Slaughter.label>maraigh ainmhithe</Slaughter.label>
   <!-- EN: slaughtering -->
   <Slaughter.gerund>ag marú</Slaughter.gerund>
   <!-- EN: slaughter -->
-  <Slaughter.verb>maraigh</Slaughter.verb>
+  <Slaughter.verb>a mharú</Slaughter.verb>
   
   <!-- EN: strip corpses -->
   <Strip.label>bain éadaí de chorpáin</Strip.label>
@@ -629,28 +631,28 @@
   <!-- EN: studying -->
   <StudyArchotechStructures.gerund>i mbun taighde</StudyArchotechStructures.gerund>
   <!-- EN: study -->
-  <StudyArchotechStructures.verb>déan taighde</StudyArchotechStructures.verb>
+  <StudyArchotechStructures.verb>a staidéar</StudyArchotechStructures.verb>
   
   <!-- EN: take beer out of fermenting barrels -->
   <TakeBeerOutOfFermentingBarrel.label>bain beoir ó bhairillí coipthe</TakeBeerOutOfFermentingBarrel.label>
   <!-- EN: taking beer from -->
   <TakeBeerOutOfFermentingBarrel.gerund>ag baint beorach ó</TakeBeerOutOfFermentingBarrel.gerund>
   <!-- EN: take beer -->
-  <TakeBeerOutOfFermentingBarrel.verb>tóg beoir</TakeBeerOutOfFermentingBarrel.verb>
+  <TakeBeerOutOfFermentingBarrel.verb>bheoir a bhaint as</TakeBeerOutOfFermentingBarrel.verb>
   
   <!-- EN: take prisoners to bed -->
   <TakePrisonerToBed.label>cuir príosúnaigh sa leaba</TakePrisonerToBed.label>
   <!-- EN: taking to bed -->
   <TakePrisonerToBed.gerund>á chur sa leaba</TakePrisonerToBed.gerund>
   <!-- EN: take to bed -->
-  <TakePrisonerToBed.verb>cuir sa leaba</TakePrisonerToBed.verb>
+  <TakePrisonerToBed.verb>a chur sa leaba</TakePrisonerToBed.verb>
   
   <!-- EN: rope roaming animals -->
   <TakeRoamingAnimalsToPen.label>déan ainmhithe scaoilte a rópáil</TakeRoamingAnimalsToPen.label>
   <!-- EN: roping -->
   <TakeRoamingAnimalsToPen.gerund>ag rópáil</TakeRoamingAnimalsToPen.gerund>
   <!-- EN: rope -->
-  <TakeRoamingAnimalsToPen.verb>rópáil</TakeRoamingAnimalsToPen.verb>
+  <TakeRoamingAnimalsToPen.verb>a rópáil</TakeRoamingAnimalsToPen.verb>
   
   <!-- EN: take patients to bed for operations -->
   <TakeToBedToOperate.label>tóg othair chun dul faoin scian</TakeToBedToOperate.label>
@@ -671,34 +673,34 @@
   <!-- EN: taming -->
   <Tame.gerund>ag ceansú</Tame.gerund>
   <!-- EN: tame -->
-  <Tame.verb>ceansaigh</Tame.verb>
+  <Tame.verb>a cheansú</Tame.verb>
   
   <!-- EN: train animals -->
   <Train.label>déan ainmhithe a thraenáil</Train.label>
   <!-- EN: training -->
   <Train.gerund>ag traenáil</Train.gerund>
   <!-- EN: train -->
-  <Train.verb>traenáil</Train.verb>
+  <Train.verb>a traenáil</Train.verb>
   
   <!-- EN: uninstall structures -->
   <Uninstall.label>scrios struchtúir</Uninstall.label>
   <!-- EN: uninstalling -->
   <Uninstall.gerund>ag scriosadh</Uninstall.gerund>
   <!-- EN: uninstall -->
-  <Uninstall.verb>scrios</Uninstall.verb>
+  <Uninstall.verb>a scriosadh</Uninstall.verb>
   
   <!-- EN: unload carriers -->
   <UnloadCarriers.label>déan carbhán a dhílódáil</UnloadCarriers.label>
   <!-- EN: unloading -->
   <UnloadCarriers.gerund>ag dílódáil</UnloadCarriers.gerund>
   <!-- EN: unload -->
-  <UnloadCarriers.verb>dílódáil</UnloadCarriers.verb>
+  <UnloadCarriers.verb>a dhílódáil</UnloadCarriers.verb>
   
   <!-- EN: visit sick people -->
   <VisitSickPawn.label>tabhair cuairt ar dhaoine breoite</VisitSickPawn.label>
   <!-- EN: visiting -->
   <VisitSickPawn.gerund>ag tabhairt cuairt ar</VisitSickPawn.gerund>
   <!-- EN: visit -->
-  <VisitSickPawn.verb>téigh ar cuairt</VisitSickPawn.verb>
+  <VisitSickPawn.verb>cuairt a thabhairt ar</VisitSickPawn.verb>
   
 </LanguageData>

@@ -81,7 +81,7 @@
   <AlertTatteredApparelDesc>Tá éadaí stróicthe ag na coilínigh seo a leanas, rud atá ag cur isteach orthu:\n\n{0}\nTabhair éadaí nach bhfuil damáistithe dóibh.\n\nIs féidir éadaí a dhéanamh ag spota ceardaíochta nó tábla táilliúra, nó iad a cheannach ó thrádálaithe.</AlertTatteredApparelDesc>
 
   <!-- EN: Unhappy nudity -->
-  <AlertUnhappyNudity>Lomnochtacht mí-oiriúnach</AlertUnhappyNudity>
+  <AlertUnhappyNudity>Tá coilíneach lomnocht</AlertUnhappyNudity>
   <!-- EN: These colonists are nude and not happy about it:\n{0}\n\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
   <AlertUnhappyNudityDesc>Tá na coilínigh seo a leanas lomnocht, agus níl siad sásta faoi:\n\n{0}\nTabhair éadaí dóibh.\n\nIs féidir éadaí a dhéanamh ag spota ceardaíochta nó tábla táilliúra, nó iad a cheannach ó thrádálaithe.</AlertUnhappyNudityDesc>
 
@@ -111,7 +111,7 @@
   <NeedMealSourceDesc>Níl aon bhealach agat béilí a réiteach ó bhia amh.\n\nBuild a stove, campfire, or nutrient dispenser.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it).</NeedMealSourceDesc>
 
   <!-- EN: Need recreation variety -->
-  <NeedJoySource>Éagsúlacht siamsaíochta de dhíth</NeedJoySource>
+  <NeedJoySource>Tá éagsúlacht siamsaíochta de dhíth</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
   <NeedJoySourceDesc>Níl ann ach {0} cineál siamsaíochta ar fáil  in {1}, ach faoi láthair tá ({2}) coilíneach ag súil leis go mbeidh {3} cineál ar fáil chun go mbeidh siad sásta.\n\nCuir cineál siamsaíochta eile ar fáil.\n\n{4}\n\n{5}\n\nMar eolas: is féidir breathnú ar an gcineál siamsaíochta a bhaineann le hearraí ach cliceáil ar an gcnaipe 'i' agus breathnú ar an leathanach staitisticí.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
@@ -129,7 +129,7 @@
   <BoredomDesc>Tá siamsaíocht de dhíth ó na daoine seo a leanas, nó tá siad dubh dóite de gach foinse siamsaíochta atá ar fáil:\n\n{0}\n\nTabhair níos mó éagsúlacht siamsaíochta dóibh.\n\nSeo na cineálacha siamsaíochta ar fáil do {PAWN_labelShort} faoi láthair:\n\n{2}</BoredomDesc>
 
   <!-- EN: Need batteries -->
-  <NeedBatteries>Cadhnraí de dhíth</NeedBatteries>
+  <NeedBatteries>Tá cadhnraí de dhíth</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
   <NeedBatteriesDesc>Tá ginadóir grianteasa nó gaoithe agat, ach níl aon chadhnraí agat. Caillfidh tú cumhacht ag luí na gréine agus nuair a laghdóigh an ghaoth.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
@@ -138,27 +138,27 @@
   <NeedBatteriesNotResearchedDesc>Déan taighde ar chadhnraí agus tóg cúpla ceann chun deimhin a dhéanamh de go mbeidh cumhacht seasta agat.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
-  <BrawlerHasRangedWeapon>Tá arm fadraoin ag Trodaí</BrawlerHasRangedWeapon>
+  <BrawlerHasRangedWeapon>Tá arm fadraoin ag trodaí</BrawlerHasRangedWeapon>
   <!-- EN: One of your colonists has the Brawler personality trait, but is carrying a ranged weapon. This will make them very unhappy. -->
   <BrawlerHasRangedWeaponDesc>Tá an tréith 'Trodaí' ag coilíneach, ach tá arm fadraoin aige. Ní bheidh an coilíneach úd sásta leis sin.</BrawlerHasRangedWeaponDesc>
 
   <!-- EN: Shield user has ranged weapon -->
-  <ShieldUserHasRangedWeapon>Tá arm fadraoin ag Shield user</ShieldUserHasRangedWeapon>
+  <ShieldUserHasRangedWeapon>Tá arm fadraoin ag duine a bhfuil crios cosanta air</ShieldUserHasRangedWeapon>
   <!-- EN: One of your colonists has a shield belt and is carrying a ranged weapon. They will not be able to fire their weapon through the shield (except at targets who are already touching them). -->
   <ShieldUserHasRangedWeaponDesc>Tá shield belt ag coilíneach leat, agus tá arm fadraoin aige. Ní bheifear in ann an t-arm a scaoileadh tríd an shield belt (ach amháin ar thargaidí atá díreach taobh leo).</ShieldUserHasRangedWeaponDesc>
 
   <!-- EN: Need research project -->
-  <NeedResearchProject>Tionscadal taighde de dhíth</NeedResearchProject>
+  <NeedResearchProject>Tá tionscadal taighde de dhíth</NeedResearchProject>
   <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>Féadfaidh tú taighhde a dhéanamh, ach tionscadal a roghnú.\n\nOscail an roghchlár taighde agus roghnaigh tionscadal.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>coilínigh dímhaoin</ColonistsIdle>
+  <ColonistsIdle>Tá {0} coilínigh dímhaoin</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
   <ColonistsIdleDesc>Tá na coilínigh seo dímhaoin, agus tá siad ag fánaíocht:\n\n{0}\nBa cheart obair tháirgiúil a shannadh orthu.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
-  <CaravanIdle>carbhán dímhaoin</CaravanIdle>
+  <CaravanIdle>Tá carbhán dímhaoin</CaravanIdle>
   <!-- EN: These caravans are waiting for you to set their next destination:\n{0} -->
   <CaravanIdleDesc>Ní mór ceann scríbe a shannadh do na carbháin seo:\n\n{0}</CaravanIdleDesc>
 

@@ -503,7 +503,7 @@
   <!-- e.g. Replacer had to be implemented manually to avoid grammatical mistakes - it is based on the WorkGivers.xml file and is sorted in the same order  -->
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>
-    Tabhair tús áite do '{1}' {replace: {0};
+    Déan '{1}' {replace: {0};
     "ag scaoileadh saor"-"a scaoileadh saor";
     "ag tógáil dín"-"díon a thógáil";
     "ag labhairt le"-"labhairt le";
@@ -521,7 +521,60 @@
     "ag cócaireacht"-"a chócaráil";
     "ag créamadh"-"a chréamadh";
     "ag cruthú earraí ag"-"rudaí a chruthú";
-    "ag tailliúireacht"-"tailliúreacht"}
+    "ag tailliúireacht"-"a dhéanamh";
+    "ag cruthú arm"-"airm a chruthú";
+    "i mbun obráide ar"-"obráid a dhéanamh";
+    "ag táirgeadh drugaí ag"-"drugaí a tháirgeadh";
+    "ag scagadh ceimiceán ag"-"ceimiceáin a scagadh";
+    "ag dealbhú ag"-"dealbh a chruthú";
+    "ag bruithniú"-"a bhruithniú";
+    "ag gearradh brící cloiche ag"-"bhricí cloiche a ghearradh";
+    "i mbun ceardaíochta ag"-"earraí a chruthú";
+    "ag tabhairt bia"-"bhia a thabhairt do";
+    "ag tarrtháil"-"a tharrtháil";
+    "ag tabhairt aire do"-"aire a thabhairt do";
+    "ag druileáil"-"a druileáil";
+    "ag baint uibheacha"-"uibheacha a bhaint";
+    "ag marú"-"a mharú";
+    "ag baint an blaosc de"-"bhlaosc a bhaint de";
+    "ag múchadh"-"a mhúchadh";
+    "ag líonadh"-"a líonadh";
+    "ag deisiú"-"a dheisiú";
+    "ag casadh na laisce ar"-"lasca a chasadh ar";
+    "ag baint"-"a bhaint";
+    "ag cur"-"a chur";
+    "ag bogadh"-"a bhogadh";
+    "ag cumasc"-"a chumaisc";
+    "ag lódáil"-"a lódáil";
+    "ag seilg"-"a sheilg";
+    "ag scanadh ag"-"a scanadh";
+    "ag crú"-"a chrú";
+    "i mbun mianadóireachta"-"a bhaint";
+    "ag oscailt"-"a oscailt";
+    "ag péinteáil"-"a phéinteáil";
+    "ag fáil cóireáil leighis ag"-"chóireáil leighis a fháil ag";
+    "ag bisiú sa leaba ag"-"bisiú ag";
+    "ag gearradh"-"a ghearradh";
+    "ag cur"-"a chur";
+    "ag athlódáil"-"a athlódáil";
+    "ag athbhreoslú"-"a athbhreoslú";
+    "ag scaoileadh"-"a scaoileadh saor";
+    "ag baint péinte de"-"phéint a bhaint de";
+    "ag baint péint ón urlár"-"phéint a bhaint den urlár";
+    "ag baint an dín"-"dhíon a bhaint";
+    "ag deisiú"-"a dheisiú";
+    "ag cur"-"a chur";
+    "i mbun taighde ag"-"thaighde a dhéanamh";
+    "ag bearradh"-"a bhearradh";
+    "i mbun taighde"-"a staidéar";
+    "ag baint beorach ó"-"bheoir a bhaint as";
+    "á chur sa leaba"-"a chur sa leaba";
+    "ag rópáil"-"a rópáil";
+    "ag ceansú"-"a cheansú";
+    "ag traenáil"-"a traenáil";
+    "ag scriosadh"-"a scriosadh";
+    "ag dílódáil"-"a dhílódáil";
+    "ag tabhairt cuairt ar"-"cuairt a thabhairt ar";} go práinneach.
   </PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
