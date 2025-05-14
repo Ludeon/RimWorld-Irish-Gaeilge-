@@ -16,9 +16,9 @@
   <Brewing.generalRules.rulesStrings>TODO</Brewing.generalRules.rulesStrings>
   
   <!-- EN: carpet-making -->
-  <CarpetMaking.label>déantús cáirpéad</CarpetMaking.label>
+  <CarpetMaking.label>cairpéad</CarpetMaking.label>
   <!-- EN: Weave beautiful carpets from cloth. -->
-  <CarpetMaking.description>Déan cáirpéid as éadach.</CarpetMaking.description>
+  <CarpetMaking.description>Leis seo, beidh tú in ann cairpéad a dhéanamh as éadach.</CarpetMaking.description>
   <!-- EN:
     <li>subject->carpet-making</li>
     <li>subject_story->learned to weave carpets from hair, for a distant Emperor</li>
@@ -83,9 +83,9 @@
   <Devilstrand.generalRules.rulesStrings>TODO</Devilstrand.generalRules.rulesStrings>
   
   <!-- EN: drug production -->
-  <DrugProduction.label>déantús drugaí</DrugProduction.label>
+  <DrugProduction.label>drugaí</DrugProduction.label>
   <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
-  <DrugProduction.description>Tóg saotharlann chun drugaí bunúsacha a chruthú. Tá tuilleadh taighde de dhíth chun drugaí áirithe a dhéanamh.</DrugProduction.description>
+  <DrugProduction.description>Leis seo, beidh tú in ann saotharlann a thógáil chun drugaí bunúsacha a tháirgeadh. Tá tuilleadh taighde de dhíth chun drugaí áirithe a tháirgeadh.</DrugProduction.description>
   <!-- EN:
     <li>subject->drug production</li>
     <li>subject->drug synthesis</li>
@@ -124,9 +124,9 @@
   <Greatbow.generalRules.rulesStrings>TODO</Greatbow.generalRules.rulesStrings>
   
   <!-- EN: long blades -->
-  <LongBlades.label>lanna fada</LongBlades.label>
+  <LongBlades.label>lanna</LongBlades.label>
   <!-- EN: Craft longswords and spears. -->
-  <LongBlades.description>Déan lanna fada agus sleánna.</LongBlades.description>
+  <LongBlades.description>Leis seo, beidh tú in ann lanna fada agus sleánna a chruthú.</LongBlades.description>
   <!-- EN:
     <li>subject->medieval weaponry</li>
     <li>subject_story->rode with the Betaduke's Fifth Light Cavalry as they conquered the sector</li>

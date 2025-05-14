@@ -49,11 +49,11 @@
   <!-- EN: packaged survival meal -->
   <MealSurvivalPack.label>béile fadmharthain</MealSurvivalPack.label>
   <!-- EN: A high-quality packaged meal, manufactured for use in survival situations. While it never rots, it can still deteriorate if left outside. Great for traveling. -->
-  <MealSurvivalPack.description>Is minic go n-úsáidtear na béilí seo sa spás, toisc nach lobhann siad. An-úsáideach nuair a bhíonn tú ag taisteal.</MealSurvivalPack.description>
+  <MealSurvivalPack.description>Is minic go n-úsáidtear na béilí seo sa spás, toisc nach lobhann siad. Bíonn siad an-úsáideach nuair a bhíonn tú ag taisteal.</MealSurvivalPack.description>
   
   <!-- EN: pemmican -->
   <Pemmican.label>peimicean</Pemmican.label>
   <!-- EN: A preserved mashed mixture of fat and plant food. Tastes bland, but not offensive. It lasts a very long time without refrigeration. Great for traveling. -->
-  <Pemmican.description>Meascán de shaill agus bia ainmhithe. Ní blas ródheas air, ach is féidir é a ithe. Maireann sé tamall fada, agus tá sé úsáideach nuair a bhíonn tú ag taisteal.</Pemmican.description>
+  <Pemmican.description>Meascán de shaill agus bia ainmhithe. Ní blas ródheas air, ach is féidir é a ithe. Maireann sé tamall fada sula théann sé in éag, agus tá sé úsáideach nuair a bhíonn tú ag taisteal.</Pemmican.description>
   
 </LanguageData>

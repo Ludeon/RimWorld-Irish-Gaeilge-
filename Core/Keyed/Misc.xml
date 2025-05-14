@@ -126,7 +126,7 @@
 \nApplying techprints to a satisfied project fulfills half the remaining research progress. In addition, researchers always gain a boost to their intellectual skills when applying techprints, even on already-completed technologies. -->
   <TechprintDesc>Is teic-phrionta é seo don tionscadal '{PROJECT_label}'\n  \nTagann teic-phriontaí in go leor foirmeacha, amhail píosaí páipéir a bhfuil buneolas scríofa orthu, nó meaisíní casta teagaisc. Bíonn an feidhm céanna acu i gcónaí. Tugann siad le fios do thaighdeoirí go bhfuiltear in ann smaoineamh a bhaint amach, agus tugann siad léargas garbh dóibh ar na dearthaí a úsáidtear i sochaithe níos casta.\n  \nTá an t-eolas bunaidh atá i dteic-phriontaí de dhíth ó do thaighdeoirí chun go mbeidh siad in ann tús a chur le teicneolaíocht ar leith. Ní bheidh do thaighdeoirí in ann oibriú amach conas an teicneolaíocht a úsáid go dtí go mbeidh go leor teic-phriontaí bailithe acu.\n  \nMá chuirtear teic-phrionta i bhfeidhm ar thionscadal, críochnófar leath den taighde atá fágtha ar an bpointe. Chomh maith leis sin, gheobhaiodh taighdeoirí borradh lena scileanna intleachtúla nuair a úsaideann siad teic-phríontaí, fiú ar theicneolaíochtaí atá críochnaithe.</TechprintDesc>
   <!-- EN: Unlocks -->
-  <Unlocks>Baintear amach:</Unlocks>
+  <Unlocks>Baintear amach</Unlocks>
 
   <!-- EN: {0} corpse -->
   <CorpseLabel>{0} marbhán</CorpseLabel>

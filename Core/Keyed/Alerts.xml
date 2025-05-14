@@ -63,7 +63,7 @@
   <!-- EN: Need colonist beds -->
   <NeedColonistBeds>Tá leapacha de dhíth ó choilínigh</NeedColonistBeds>
   <!-- EN: You have more colonists than you have colonist beds. Someone will lack a place to sleep.\n\nEither make more beds, or change a prisoner bed to a colonist bed.\n\nIf you have no resources, sleeping spots are free and can be placed instantly. -->
-  <NeedColonistBedsDesc>Tá níos mó coilínigh ann ná mar atá leapacha ann. Beidh duine éigean gan spás codlata.\n\nTóg níos mó leapacha, nó athraigh leaba príosúnaigh chuig leaba coilínigh.\n\nMura bhfuil aon acmhainní agat, is féidir spás codlata a chur síos láithreach bonn.</NeedColonistBedsDesc>
+  <NeedColonistBedsDesc>Tá níos mó coilínigh ann ná mar atá leapacha ann. Beidh duine éigean gan spás codlata.\n\nTóg níos mó leapacha, nó athraigh leaba príosúnaigh chuig leaba coilínigh.\n\nMura bhfuil aon acmhainní agat, is féidir spás codlata a chur ar an urlár in áit ar bith.</NeedColonistBedsDesc>
   
   <!-- EN: Colonist left unburied -->
   <AlertColonistLeftUnburied>Coilíneach le hadhlacadh</AlertColonistLeftUnburied>

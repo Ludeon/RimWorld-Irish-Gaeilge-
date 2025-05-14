@@ -86,9 +86,9 @@
   <LongRangeMineralScanner.generalRules.rulesStrings>TODO</LongRangeMineralScanner.generalRules.rulesStrings>
   
   <!-- EN: medicine production -->
-  <MedicineProduction.label>táirgeadh leighis</MedicineProduction.label>
+  <MedicineProduction.label>cógaseolaíocht</MedicineProduction.label>
   <!-- EN: Produce standard industrial-tech medicine by combining herbal medicine, neutroamine, and cloth. -->
-  <MedicineProduction.description>Déan leigheas a tháirgeadh go tionsclaíoch ag baint úsáid as acmhainní éagsúla.</MedicineProduction.description>
+  <MedicineProduction.description>Leis seo, beidh tú in ann cógas leighis ardleibhéil a tháirgeadh ag baint úsáid as acmhainní éagsúla.</MedicineProduction.description>
   <!-- EN:
     <li>subject->medical synthesis</li>
     <li>subject->medicine production</li>
