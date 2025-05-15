@@ -657,15 +657,15 @@
   <!-- EN: Childhood -->
   <Childhood>Óige</Childhood>
   <!-- EN: male -->
-  <Male>fireann</Male>
+  <Male>fear</Male>
   <!-- EN: female -->
-  <Female>baineann</Female>
+  <Female>bean</Female>
   <!-- EN: male and female -->
   <MaleAndFemale>fireann agus baineann</MaleAndFemale>
   <!-- EN: male -->
-  <MaleAnimal>fear</MaleAnimal>
+  <MaleAnimal>fireann,</MaleAnimal>
   <!-- EN: female -->
-  <FemaleAnimal>bean</FemaleAnimal>
+  <FemaleAnimal>baineann,</FemaleAnimal>
   <!-- EN: Pain -->
   <Pain>Pian</Pain>
   <!-- EN: Health -->

@@ -2,32 +2,32 @@
 <LanguageData>
   
   <!-- EN: megascarab -->
-  <Megascarab.label>TODO</Megascarab.label>
+  <Megascarab.label>meigeascarab</Megascarab.label>
   <!-- EN: A genetically-engineered war insect that resembles a massive beetle. Once the worker caste of an artificial ecosystem of insects designed to fight mechanoid invasions, it is less deadly than its larger cousins. Still, its size and hard shell make it dangerous when it attacks. A eusocial creature, it cannot reproduce individually.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Megascarab.description>TODO</Megascarab.description>
+  <Megascarab.description>Cruthaíodh an feithid ollmhór seo i saotharlann le hinnealltóireacht ghéiniteach. Tá blaosc crua aige, agus tá sé dáinséarach.</Megascarab.description>
   <!-- EN: mandibles -->
-  <Megascarab.tools.mandibles.label>TODO</Megascarab.tools.mandibles.label>
+  <Megascarab.tools.mandibles.label>mandabal</Megascarab.tools.mandibles.label>
   <!-- EN: head -->
-  <Megascarab.tools.head.label>TODO</Megascarab.tools.head.label>
+  <Megascarab.tools.head.label>ceann</Megascarab.tools.head.label>
   
   <!-- EN: megaspider -->
-  <Megaspider.label>TODO</Megaspider.label>
+  <Megaspider.label>meigeadhamhán</Megaspider.label>
   <!-- EN: Not actually a spider, the megaspider is a genetically-engineered giant insect the size of a bear. Its thick chitinous armor makes it hard to kill, while its long ripper-blades make it deadly at close quarters. It is, however, quite slow in open terrain.\n\nEngineered to fight mechanoids in toxic environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Megaspider.description>TODO</Megaspider.description>
+  <Megaspider.description>Ní damhán alla atá sa chréatúr seo, ach feithid ollmhór a ndearnadh innealltóireacht ghéiniteach uirthi. Bíonn armúr láidir orthu, rud a chiallaíonn go bhfuil siad deacair a mharú. Tá sí sách mall, áfach.</Megaspider.description>
   <!-- EN: insect meat -->
-  <Megaspider.race.meatLabel>TODO</Megaspider.race.meatLabel>
+  <Megaspider.race.meatLabel>feoil feithide</Megaspider.race.meatLabel>
   <!-- EN: head claw -->
-  <Megaspider.tools.head_claw.label>TODO</Megaspider.tools.head_claw.label>
+  <Megaspider.tools.head_claw.label>mandabal</Megaspider.tools.head_claw.label>
   <!-- EN: head -->
-  <Megaspider.tools.head.label>TODO</Megaspider.tools.head.label>
+  <Megaspider.tools.head.label>ceann</Megaspider.tools.head.label>
   
   <!-- EN: spelopede -->
-  <Spelopede.label>TODO</Spelopede.label>
+  <Spelopede.label>scealpchosach</Spelopede.label>
   <!-- EN: A medium-sized bioengineered insectoid the size of a sheep. The spelopede is the middle caste of a hive, taking care of most work tasks as well as fighting with its digging claws. It's dangerous in combat, but slow on open ground.\n\nEngineered to thrive in mechanoid-ravaged environments, war insects like this move faster after being exposed to polluted terrain. -->
-  <Spelopede.description>TODO</Spelopede.description>
+  <Spelopede.description>Tá an fheitid mheánach seo chomh mór le caora, agus is minic go mbíonn sé i mbun oibre sa choirceog. Tá sé in ann troid chomh maith nuair is gá sin, áfach, agus tá sé dáinséarach ach bogann sé go réasúnta mall.</Spelopede.description>
   <!-- EN: head claw -->
-  <Spelopede.tools.head_claw.label>TODO</Spelopede.tools.head_claw.label>
+  <Spelopede.tools.head_claw.label>mandabal</Spelopede.tools.head_claw.label>
   <!-- EN: head -->
-  <Spelopede.tools.head.label>TODO</Spelopede.tools.head.label>
+  <Spelopede.tools.head.label>ceann</Spelopede.tools.head.label>
   
 </LanguageData>

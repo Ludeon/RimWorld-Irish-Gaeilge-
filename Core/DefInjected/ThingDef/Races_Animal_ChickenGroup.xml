@@ -2,47 +2,47 @@
 <LanguageData>
   
   <!-- EN: chicken -->
-  <Chicken.label>TODO</Chicken.label>
+  <Chicken.label>sicín</Chicken.label>
   <!-- EN: The most traditional farm bird, the chicken is raised for its eggs and meat. It grows very quickly and lays eggs very often. -->
-  <Chicken.description>TODO</Chicken.description>
+  <Chicken.description>Coinnítear sicíní dá n-uibheacha agus dá bhfeoil. Fásann siad go tapa, agus beireann siad uibheacha gach lá.</Chicken.description>
   <!-- EN: claws -->
-  <Chicken.tools.claws.label>TODO</Chicken.tools.claws.label>
+  <Chicken.tools.claws.label>crúba</Chicken.tools.claws.label>
   <!-- EN: beak -->
-  <Chicken.tools.beak.label>TODO</Chicken.tools.beak.label>
+  <Chicken.tools.beak.label>gob</Chicken.tools.beak.label>
   <!-- EN: head -->
-  <Chicken.tools.head.label>TODO</Chicken.tools.head.label>
+  <Chicken.tools.head.label>ceann</Chicken.tools.head.label>
   
   <!-- EN: duck -->
-  <Duck.label>TODO</Duck.label>
+  <Duck.label>lacha</Duck.label>
   <!-- EN: A very common type of farm bird, also appearing in the wild, the duck is raised for its delicious meat. It grows quick but lays eggs quite rarely. -->
-  <Duck.description>TODO</Duck.description>
+  <Duck.description>Is minic go gcoinnítear lachain dá bhfeoil. Fásann siad go tapa, ach ní bheireann siad uibheacha chomh minic le héin eile.</Duck.description>
   <!-- EN: claws -->
-  <Duck.tools.claws.label>TODO</Duck.tools.claws.label>
+  <Duck.tools.claws.label>crúba</Duck.tools.claws.label>
   <!-- EN: beak -->
-  <Duck.tools.beak.label>TODO</Duck.tools.beak.label>
+  <Duck.tools.beak.label>gob</Duck.tools.beak.label>
   <!-- EN: head -->
-  <Duck.tools.head.label>TODO</Duck.tools.head.label>
+  <Duck.tools.head.label>ceann</Duck.tools.head.label>
   
   <!-- EN: goose -->
-  <Goose.label>TODO</Goose.label>
+  <Goose.label>gé</Goose.label>
   <!-- EN: A domesticated bird kept by humans as poultry for it's eggs and meat. Lays eggs very often, however they take a long time to hatch. -->
-  <Goose.description>TODO</Goose.description>
+  <Goose.description>Coinnítear na héin seo dá n-uibheacha agus dá bhfeoil. Beireann siad uibheacha gach lá.</Goose.description>
   <!-- EN: claws -->
-  <Goose.tools.claws.label>TODO</Goose.tools.claws.label>
+  <Goose.tools.claws.label>crúba</Goose.tools.claws.label>
   <!-- EN: beak -->
-  <Goose.tools.beak.label>TODO</Goose.tools.beak.label>
+  <Goose.tools.beak.label>gob</Goose.tools.beak.label>
   <!-- EN: head -->
-  <Goose.tools.head.label>TODO</Goose.tools.head.label>
+  <Goose.tools.head.label>ceann</Goose.tools.head.label>
   
   <!-- EN: turkey -->
-  <Turkey.label>TODO</Turkey.label>
+  <Turkey.label>turcaí</Turkey.label>
   <!-- EN: A short, fat, flightless bird known for its hilarious 'gobbling' call. It has been long domesticated, but also lives in the wild. -->
-  <Turkey.description>TODO</Turkey.description>
+  <Turkey.description>Tá cáil ar an eán ramhar seo, agus tá siad an-bhlasta.</Turkey.description>
   <!-- EN: claws -->
-  <Turkey.tools.claws.label>TODO</Turkey.tools.claws.label>
+  <Turkey.tools.claws.label>crúba</Turkey.tools.claws.label>
   <!-- EN: beak -->
-  <Turkey.tools.beak.label>TODO</Turkey.tools.beak.label>
+  <Turkey.tools.beak.label>gob</Turkey.tools.beak.label>
   <!-- EN: head -->
-  <Turkey.tools.head.label>TODO</Turkey.tools.head.label>
+  <Turkey.tools.head.label>ceann</Turkey.tools.head.label>
   
 </LanguageData>

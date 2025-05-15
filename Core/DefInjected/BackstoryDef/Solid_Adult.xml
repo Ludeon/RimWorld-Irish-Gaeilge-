@@ -1115,179 +1115,179 @@
   <MilitaryEngineer45.titleShort>innealltóir</MilitaryEngineer45.titleShort>
 
   <!-- EN: When [PAWN_possessive] world was thrown into conflict, [PAWN_nameDef] was conscripted along with many of [PAWN_possessive] peers into the war machine that tore across the planet.\n\nWith [PAWN_possessive] particular expertise, [PAWN_pronoun] was lucky enough to find a position serving as small arms mechanic rather than on the front line. -->
-  <MilitaryGunsmith27.description>TODO</MilitaryGunsmith27.description>
+  <MilitaryGunsmith27.description>Chruthaigh [PAWN_nameDef] gunnaí do chomhlacht arm le linn cogaidh ar a p[PAWN_possessive]láinéad baile.</MilitaryGunsmith27.description>
   <!-- EN: military gunsmith -->
   <MilitaryGunsmith27.title>gabha gunnaí</MilitaryGunsmith27.title>
   <!-- EN: gunsmith -->
   <MilitaryGunsmith27.titleShort>gabha gunnaí</MilitaryGunsmith27.titleShort>
 
   <!-- EN: Jackson, in a final act of rebellion, left [PAWN_possessive] father's lab and joined the local Imperial military.\n\n[PAWN_pronoun] used [PAWN_possessive] laboratory skills to design machines of war. At this [PAWN_pronoun] was one of the best on [PAWN_possessive] planet. -->
-  <MilitaryInventor35.description>TODO</MilitaryInventor35.description>
+  <MilitaryInventor35.description>Chuaigh [PAWN_nameDef] leis an arm nuair a bhí [PAWN_pronoun] óg, agus d'úsáid [PAWN_pronoun] a scileanna chun meaisíní marfacha a dhearadh.</MilitaryInventor35.description>
   <!-- EN: military inventor -->
-  <MilitaryInventor35.title>TODO</MilitaryInventor35.title>
+  <MilitaryInventor35.title>aireagóir míleata</MilitaryInventor35.title>
   <!-- EN: inventor -->
-  <MilitaryInventor35.titleShort>TODO</MilitaryInventor35.titleShort>
+  <MilitaryInventor35.titleShort>aireagóir</MilitaryInventor35.titleShort>
 
   <!-- EN: Obsessed with interstellar travel, [PAWN_nameDef] left [PAWN_possessive] desolate life behind to join a military academy in hopes of becoming a pilot.\n\n[PAWN_pronoun] was trained in advanced combat and survival skills. While [PAWN_pronoun] excelled in [PAWN_possessive] studies, [PAWN_nameDef] was a loner and never cared about [PAWN_possessive] crewmates. -->
-  <MilitaryOfficer17.description>TODO</MilitaryOfficer17.description>
+  <MilitaryOfficer17.description>Chuaigh [PAWN_nameDef] le hacadadh míleata nuair a bhí [PAWN_pronoun] óg, agus thaisteal [PAWN_pronoun] ar fud an réaltchórais. Cé go raibh [PAWN_nameDef] tiomanta do bheith ina p[PAWN_possessive]íolóta, níor réitigh [PAWN_pronoun] go rómhaith lena c[PAWN_possessive]riú riamh.</MilitaryOfficer17.description>
   <!-- EN: military officer -->
-  <MilitaryOfficer17.title>TODO</MilitaryOfficer17.title>
+  <MilitaryOfficer17.title>oifigeach míleata</MilitaryOfficer17.title>
   <!-- EN: officer -->
-  <MilitaryOfficer17.titleShort>TODO</MilitaryOfficer17.titleShort>
+  <MilitaryOfficer17.titleShort>oifigeach</MilitaryOfficer17.titleShort>
 
   <!-- EN: [PAWN_nameDef] joined the militia forces and fought for rights and peace.\n\nAfter [PAWN_possessive] homeworld was unexpectedly destroyed in the wars, [PAWN_pronoun] traveled great distances, seeking a refuge where [PAWN_pronoun] could build a new, free way of life. -->
-  <MilitiaSoldier79.description>TODO</MilitiaSoldier79.description>
+  <MilitiaSoldier79.description>Chuaigh [PAWN_nameDef] le mílíste agus throid [PAWN_pronoun] ar fud an phláinéid agus ar fud an ghrianchórais. Scriosadh a p[PAWN_possessive]láinéad baile i sa choimhlint sin, agus d'imigh [PAWN_nameDef] sa tóir ar áit nua.</MilitiaSoldier79.description>
   <!-- EN: militia soldier -->
-  <MilitiaSoldier79.title>TODO</MilitiaSoldier79.title>
+  <MilitiaSoldier79.title>saighdiúir mílíste</MilitiaSoldier79.title>
   <!-- EN: soldier -->
-  <MilitiaSoldier79.titleShort>TODO</MilitiaSoldier79.titleShort>
+  <MilitiaSoldier79.titleShort>saighdiúir</MilitiaSoldier79.titleShort>
 
   <!-- EN: The corporation took and remade [PAWN_nameDef]. They trained [PAWN_objective] into an tool of destruction and subversion. [PAWN_pronoun] took to [PAWN_possessive] new life, finding satisfaction in the jobs they sent [PAWN_objective] on.\n\nWhen [PAWN_pronoun] learned that they planned on disposing of [PAWN_objective], [PAWN_nameDef] turned on [PAWN_possessive] masters, killing several and fleeing the planet. -->
-  <MindwipedAssassin50.description>TODO</MindwipedAssassin50.description>
+  <MindwipedAssassin50.description>D'aimsigh an chorporáid [PAWN_nameDef]. Chuir an chorporáid oiliúint ar [PAWN_nameDef]. Ansin, ghlan siad a c[PAWN_possessive]uimhne - agus ní chuimhin le [PAWN_nameDef] rud ar bith anois.</MindwipedAssassin50.description>
   <!-- EN: mindwiped assassin -->
-  <MindwipedAssassin50.title>TODO</MindwipedAssassin50.title>
+  <MindwipedAssassin50.title>aimnéiseach</MindwipedAssassin50.title>
   <!-- EN: mindwipe -->
-  <MindwipedAssassin50.titleShort>TODO</MindwipedAssassin50.titleShort>
+  <MindwipedAssassin50.titleShort>aimnéiseach</MindwipedAssassin50.titleShort>
 
   <!-- EN: [PAWN_nameDef] managed to secure an important position in the government of a minor glitterworld. [PAWN_pronoun] got used to the opulence, while attempting to keep [PAWN_possessive] citizens content. [PAWN_pronoun] had ample time for pleasure and indulgence – though [PAWN_pronoun] never forgot how to do hard work. -->
-  <Minister88.description>TODO</Minister88.description>
+  <Minister88.description>Bhí ról tábhachtach ag [PAWN_nameDef] sa rialtas domhanda ar phláinéad uirbeach. Bhain [PAWN_pronoun] sult as an stádas agus as an rachmas a bhaint leis an bpost sin, ach ní dhearna [PAWN_pronoun] dearmad conas obair chrua a dhéanamh.</Minister88.description>
   <!-- EN: minister -->
-  <Minister88.title>TODO</Minister88.title>
+  <Minister88.title>aire</Minister88.title>
   <!-- EN: minister -->
-  <Minister88.titleShort>TODO</Minister88.titleShort>
+  <Minister88.titleShort>aire</Minister88.titleShort>
 
   <!-- EN: [PAWN_nameDef] decided to devote [PAWN_possessive] life to religious service. [PAWN_pronoun] made a vow of peace and spent several years preaching and serving food in soup kitchens for the homeless. -->
-  <Missionary99.description>TODO</Missionary99.description>
+  <Missionary99.description>Dhírigh [PAWN_nameDef] ar an reiligiún a scaipeadh ar son na síochána, agus chaith [PAWN_pronoun] go leor ama ag tiomsú airgid dóibh siúd atá ar an ngannchuid.</Missionary99.description>
   <!-- EN: missionary -->
-  <Missionary99.title>TODO</Missionary99.title>
+  <Missionary99.title>misinéir</Missionary99.title>
   <!-- EN: missionary -->
-  <Missionary99.titleShort>TODO</Missionary99.titleShort>
+  <Missionary99.titleShort>misinéir</Missionary99.titleShort>
 
   <!-- EN: After being "saved" from [PAWN_possessive] home world by a slaver ship, [PAWN_nameDef] was sold to an urbworld crime lord, where [PAWN_pronoun] was used as a henchman. [PAWN_pronoun] specialized in low-tech beat-downs and intimidation. -->
-  <MobHenchman53.description>TODO</MobHenchman53.description>
+  <MobHenchman53.description>D'fhás [PAWN_pronoun] suas ar spáslong sclábhaíochta, agus díoladh [PAWN_nameDef] isteach i ndrong ar phláinéad uirbeach. Ansin, chaith [PAWN_pronoun] na blianta ag obair mar chúlaistín, ag déanamh jabanna beaga agus ag bailiú airgid ar na sráideanna.</MobHenchman53.description>
   <!-- EN: mob henchman -->
-  <MobHenchman53.title>TODO</MobHenchman53.title>
+  <MobHenchman53.title>cúlaistín</MobHenchman53.title>
   <!-- EN: henchman -->
-  <MobHenchman53.titleShort>TODO</MobHenchman53.titleShort>
+  <MobHenchman53.titleShort>cúlaistín</MobHenchman53.titleShort>
 
   <!-- EN: [PAWN_nameDef] specialized in studying and manipulating the genetic code of the muffalo.\n\n[PAWN_possessive] work left little time to develop an appreciation for the arts or other people's company. -->
-  <MuffaloResearcher67.description>TODO</MuffaloResearcher67.description>
+  <MuffaloResearcher67.description>Taighdeoir ab ea [PAWN_nameDef], agus dhírigh [PAWN_pronoun] ar na muabhaill. Is beag suim atá ag [PAWN_nameDef] i ndaoine eile, toisc go raibh [PAWN_pronoun] chomh tógtha leis an obair sin.</MuffaloResearcher67.description>
   <!-- EN: muffalo researcher -->
-  <MuffaloResearcher67.title>TODO</MuffaloResearcher67.title>
+  <MuffaloResearcher67.title>taighdeoir muabhall</MuffaloResearcher67.title>
   <!-- EN: researcher -->
-  <MuffaloResearcher67.titleShort>TODO</MuffaloResearcher67.titleShort>
+  <MuffaloResearcher67.titleShort>taighdeoir</MuffaloResearcher67.titleShort>
 
   <!-- EN: [PAWN_nameDef] was taken to the stars by slavers after [PAWN_possessive] tribe was decimated in a raid. Over the years [PAWN_pronoun] learned the language of [PAWN_possessive] captors, eventually working for them as an interpreter and diplomat.\n\nThe captain only learned of [PAWN_nameDef]'s true cunning when revenge was taken by form of mutiny. -->
-  <MutinousCaptain52.description>TODO</MutinousCaptain52.description>
+  <MutinousCaptain52.description>Scriosadh a t[PAWN_possessive]reabh i ruathar, agus tógadh [PAWN_nameDef] ar spáslong sclábhaíoctha. Le himeacht ama, d'fhoghlaim [PAWN_pronoun] teanga na bhfuadaithe, agus thosaigh [PAWN_pronoun] ag obair dóibh mar ateangaire. Ar deireadh, thapaigh [PAWN_nameDef] an deis agus mharaigh [PAWN_pronoun] na sclábhaithe agus thóg [PAWN_pronoun] seilbh ar an spáslong.</MutinousCaptain52.description>
   <!-- EN: mutinous captain -->
-  <MutinousCaptain52.title>TODO</MutinousCaptain52.title>
+  <MutinousCaptain52.title>captaen</MutinousCaptain52.title>
   <!-- EN: captain -->
-  <MutinousCaptain52.titleShort>TODO</MutinousCaptain52.titleShort>
+  <MutinousCaptain52.titleShort>captaen</MutinousCaptain52.titleShort>
 
   <!-- EN: After repairing a fleet admiral's holoscreen with nothing but a pair of rusty pliers and scrap wire, [PAWN_nameDef] was invited to the Federation Naval Academy.\n\n[PAWN_pronoun] received an excellent technical education and extensive firearms training, but had no interest in studying more menial skills. -->
-  <NavyTechOfficer0.description>TODO</NavyTechOfficer0.description>
+  <NavyTechOfficer0.description>D'oibrigh [PAWN_nameDef] mar oifigeach teicneolaíochta le spás-chabhlach. Bhí [PAWN_pronoun] freagrach as earraí leictreonacha a dheisiú. Tá tuiscint mhaith ag [PAWN_nameDef] freisin ar airm agus gunnaí.</NavyTechOfficer0.description>
   <!-- EN: navy tech officer -->
-  <NavyTechOfficer0.title>TODO</NavyTechOfficer0.title>
+  <NavyTechOfficer0.title>teicneolaí cabhlaigh</NavyTechOfficer0.title>
   <!-- EN: navy tech -->
-  <NavyTechOfficer0.titleShort>TODO</NavyTechOfficer0.titleShort>
+  <NavyTechOfficer0.titleShort>teicneolaí</NavyTechOfficer0.titleShort>
 
   <!-- EN: [PAWN_nameDef] spent all [PAWN_possessive] time working on computer networking systems.\n\n[PAWN_pronoun] lived without a care in the world - other than uptime and dropped packets. -->
-  <NetworkEngineer34.description>TODO</NetworkEngineer34.description>
+  <NetworkEngineer34.description>Chaith [PAWN_nameDef] a c[PAWN_possessive]uid ama i mbun oibre le ríomhairí. Níl mórán scileanna sóisialta ag [PAWN_nameDef] mar thoradh.</NetworkEngineer34.description>
   <!-- EN: network engineer -->
-  <NetworkEngineer34.title>TODO</NetworkEngineer34.title>
+  <NetworkEngineer34.title>innealltóir gréasáin</NetworkEngineer34.title>
   <!-- EN: engineer -->
-  <NetworkEngineer34.titleShort>TODO</NetworkEngineer34.titleShort>
+  <NetworkEngineer34.titleShort>innealltóir</NetworkEngineer34.titleShort>
 
   <!-- EN: [PAWN_nameDef] worked for a long time to improve mankind's understanding of the human brain.\n\nAfter succeeding in mapping the whole brain, [PAWN_nameDef] joined a team of scientists on a quest to map the brains of the most exotic altered humans. -->
-  <NeuroScientist19.description>TODO</NeuroScientist19.description>
+  <NeuroScientist19.description>D'oibrigh [PAWN_nameDef] mar néareolaí, ag féachaint lenár dtuiscint ar an inchinn a chur chun cinn. Rinne [PAWN_nameDef] taighde ar dhaione a ndearnadh géinmhodhnú orthu.</NeuroScientist19.description>
   <!-- EN: neuro scientist -->
-  <NeuroScientist19.title>TODO</NeuroScientist19.title>
+  <NeuroScientist19.title>néareolaí</NeuroScientist19.title>
   <!-- EN: scientist -->
-  <NeuroScientist19.titleShort>TODO</NeuroScientist19.titleShort>
+  <NeuroScientist19.titleShort>néareolaí</NeuroScientist19.titleShort>
 
   <!-- EN: [PAWN_nameDef] performed stiletto-precise assassinations for an interplanetary conglomerate. [PAWN_pronoun] was assigned the most complex missions involving disguise, deception, subterfuge, and efficient violence.\n\nA nasty incident with a potted plant and an assassination gone wrong left [PAWN_objective] with an aversion to plant life. -->
-  <NinjaAssassin31.description>TODO</NinjaAssassin31.description>
+  <NinjaAssassin31.description>D'oibrigh [PAWN_nameDef] le hilchomhlacht idir-réaltach mar fheallmharfóir. Sna misin a rinne [PAWN_pronoun], bhí gá le cealgaireacht, bréagriocht agus foréigean.</NinjaAssassin31.description>
   <!-- EN: ninja assassin -->
-  <NinjaAssassin31.title>TODO</NinjaAssassin31.title>
+  <NinjaAssassin31.title>ninja</NinjaAssassin31.title>
   <!-- EN: ninja -->
-  <NinjaAssassin31.titleShort>TODO</NinjaAssassin31.titleShort>
+  <NinjaAssassin31.titleShort>ninja</NinjaAssassin31.titleShort>
 
   <!-- EN: When the government declared that it would strengthen its military defenses, [PAWN_nameDef] was drafted and trained.\n\n[PAWN_pronoun] was stationed on an orbital base, manning the defense systems and, in dire situations, descending in a dropship to the surface. -->
-  <OrbitalReservist22.description>TODO</OrbitalReservist22.description>
+  <OrbitalReservist22.description>Ar phláinéad baile [PAWN_nameDef], ghlac an rialtas le dlíthe nua chun an chosaint dhomhanda a fheabhsú, agus cuireadh iachall ar gach duine dul leis an arm. Cuireadh [PAWN_nameDef] ar stáisiún spáis. Uaireanta, bhí orthu dul isteach i gcoimhlintí ar dhromchla an phláinéid ag baint úsáide as podanna iompair.</OrbitalReservist22.description>
   <!-- EN: orbital reservist -->
-  <OrbitalReservist22.title>TODO</OrbitalReservist22.title>
+  <OrbitalReservist22.title>cúltacaí</OrbitalReservist22.title>
   <!-- EN: reservist -->
-  <OrbitalReservist22.titleShort>TODO</OrbitalReservist22.titleShort>
+  <OrbitalReservist22.titleShort>cúltacaí</OrbitalReservist22.titleShort>
 
   <!-- EN: After graduating university at the top of [PAWN_possessive] class, [PAWN_nameDef] quickly became a well-known and athletic college professor.\n\nWith [PAWN_possessive] new found fame and fitness came a sudden reluctance to preform menial labor - such tasks are better left to graduate students. -->
-  <Osteologist74.description>TODO</Osteologist74.description>
+  <Osteologist74.description>D'oibrigh [PAWN_nameDef] mar oistéapat in ospidéal, agus ansin chuaigh [PAWN_pronoun] leis an léachtóireacht in ollscoil leighis mór le rá.</Osteologist74.description>
   <!-- EN: osteologist -->
-  <Osteologist74.title>TODO</Osteologist74.title>
+  <Osteologist74.title>oistéapat</Osteologist74.title>
   <!-- EN: scholar -->
-  <Osteologist74.titleShort>TODO</Osteologist74.titleShort>
+  <Osteologist74.titleShort>oistéapat</Osteologist74.titleShort>
 
   <!-- EN: [PAWN_nameDef] didn't know why [PAWN_pronoun] joined the military, but [PAWN_pronoun] stayed to protect [PAWN_possessive] fellow soldiers.\n\nArmy life broke [PAWN_objective] down and built [PAWN_objective] back up. It taught [PAWN_objective] marksmanship, hand to hand combat and how to patch a bullet wound in a hurry. -->
-  <OverwatchSniper42.description>TODO</OverwatchSniper42.description>
+  <OverwatchSniper42.description>Níl a fhios ag [PAWN_nameDef] cén fáth gur chuaigh [PAWN_pronoun] leis an arm, ach d'fhan [PAWN_pronoun] ann agus bhain [PAWN_pronoun] amach ról mar snípéir. Tá scileanna aimsitheora den chéad scoth ag [PAWN_nameDef], chomh maith le roinnt scileanna úsáideacha eile.</OverwatchSniper42.description>
   <!-- EN: overwatch sniper -->
-  <OverwatchSniper42.title>TODO</OverwatchSniper42.title>
+  <OverwatchSniper42.title>snípéir</OverwatchSniper42.title>
   <!-- EN: sniper -->
-  <OverwatchSniper42.titleShort>TODO</OverwatchSniper42.titleShort>
+  <OverwatchSniper42.titleShort>snípéir</OverwatchSniper42.titleShort>
 
   <!-- EN: After scraping by on assorted shady jobs, [PAWN_nameDef] joined with a large paramilitary group to fight a war on [PAWN_possessive] homeworld. [PAWN_possessive] role was infiltration and intelligence gathering -->
-  <ParamilitaryAgent11.description>TODO</ParamilitaryAgent11.description>
+  <ParamilitaryAgent11.description>Rinne [PAWN_nameDef] jabanna rúnmhara, agus obair shalach, le grúpa paraimíleatach ar a p[PAWN_possessive]láinéad baile. An chuid is mó den am, is faoi [PAWN_nameDef] a bhí sé eolas agus faisnéis a bhailiú.</ParamilitaryAgent11.description>
   <!-- EN: paramilitary agent -->
-  <ParamilitaryAgent11.title>TODO</ParamilitaryAgent11.title>
+  <ParamilitaryAgent11.title>paraimíleatach</ParamilitaryAgent11.title>
   <!-- EN: agent -->
-  <ParamilitaryAgent11.titleShort>TODO</ParamilitaryAgent11.titleShort>
+  <ParamilitaryAgent11.titleShort>paraimíleatach</ParamilitaryAgent11.titleShort>
 
   <!-- EN: [PAWN_nameDef] performed cutting-edge physics research. [PAWN_pronoun] wanted to help build a better and more peaceful future. -->
-  <ParticlePhysicist44.description>TODO</ParticlePhysicist44.description>
+  <ParticlePhysicist44.description>Bhí an taighde a rinne [PAWN_nameDef] ar thús cadhnaíochta i gcúrsaí eolaíochta. Bhí [PAWN_pronoun] ag iarraidh an taighde sin a úsáid chun domhan síochánta a thógáil do chách.</ParticlePhysicist44.description>
   <!-- EN: particle physicist -->
-  <ParticlePhysicist44.title>TODO</ParticlePhysicist44.title>
+  <ParticlePhysicist44.title>fisiceoir</ParticlePhysicist44.title>
   <!-- EN: physicist -->
-  <ParticlePhysicist44.titleShort>TODO</ParticlePhysicist44.titleShort>
+  <ParticlePhysicist44.titleShort>fisiceoir</ParticlePhysicist44.titleShort>
 
   <!-- EN: [PAWN_nameDef]'s thirst for archaeo-technological knowledge drove [PAWN_objective] to spend years surveying abandoned data centers and studying ancient coding languages.\n\n[PAWN_pronoun] claimed to be one of the few who could piece together the tragedy of the past - and offer a path to the future. -->
-  <Philosopher97.description>TODO</Philosopher97.description>
+  <Philosopher97.description>Bhí [PAWN_nameDef] dúghafa leis na harcai-theicneoirí, agus leis an arcai-theicneolaíocht. Chaith [PAWN_pronoun] na blianta ag póirseáil sonraí agus ag déanamh staidéar ar theangacha códála ársa.</Philosopher97.description>
   <!-- EN: philosopher -->
-  <Philosopher97.title>TODO</Philosopher97.title>
+  <Philosopher97.title>fealsúnaí</Philosopher97.title>
   <!-- EN: sage -->
-  <Philosopher97.titleShort>TODO</Philosopher97.titleShort>
+  <Philosopher97.titleShort>fealsúnaí</Philosopher97.titleShort>
 
   <!-- EN: As a pirate leader, [PAWN_nameDef] was well-known for [PAWN_possessive] cunning plans and chess-like traps. [PAWN_pronoun] was never afraid to sacrifice a few pawns to capture an important target.\n\n[PAWN_possessive] name has been linked more then once to strategies that overcame overwhelming odds. -->
-  <Pirate56.description>TODO</Pirate56.description>
+  <Pirate56.description>Bhí cáil ar [PAWN_nameDef] as daoine a mhealladh isteach i ngaistí. Ní raibh eagla ar [PAWN_nameDef] riamh cúpla duine a thabhairt suas chun sprioc tábhachtach a bhaint amach.</Pirate56.description>
   <!-- EN: pirate -->
-  <Pirate56.title>TODO</Pirate56.title>
+  <Pirate56.title>píoráid</Pirate56.title>
   <!-- EN: pirate -->
-  <Pirate56.titleShort>TODO</Pirate56.titleShort>
+  <Pirate56.titleShort>píoráid</Pirate56.titleShort>
 
   <!-- EN: [PAWN_nameDef] worked [PAWN_possessive] way up through the ranks of a pirate ship, eventually becoming captain. [PAWN_pronoun] leads [PAWN_possessive] crew between worlds, making a name to remember. -->
-  <PirateCaptain69.description>TODO</PirateCaptain69.description>
+  <PirateCaptain69.description>Bhí [PAWN_nameDef] ina c[PAWN_possessive]aptaen ar spáslong píoráide. Chuaigh [PAWN_pronoun] ó dhomhan go domhan lena c[PAWN_possessive]riú, ag gadaíocht agus ag robáil.</PirateCaptain69.description>
   <!-- EN: pirate captain -->
-  <PirateCaptain69.title>TODO</PirateCaptain69.title>
+  <PirateCaptain69.title>captaen píoráid</PirateCaptain69.title>
   <!-- EN: captain -->
-  <PirateCaptain69.titleShort>TODO</PirateCaptain69.titleShort>
+  <PirateCaptain69.titleShort>captaen</PirateCaptain69.titleShort>
 
   <!-- EN: [PAWN_nameDef] had a passion for medicine, but never bothered to get a medical degree. Only underfunded pirates and terrorists were desperate enough to hire [PAWN_possessive] services, and [PAWN_possessive] surgical patients had about a 50% survival rate.\n\nDespite this, [PAWN_possessive] optimistic attitude drove [PAWN_objective] to keep trying to heal those in need. As long as they paid up front. -->
-  <PirateDoctor0.description>TODO</PirateDoctor0.description>
+  <PirateDoctor0.description>Bhí spéis ag [PAWN_nameDef] sa leigheas i gcónaí, ach ní bhfuair [PAWN_pronoun] cáilíocht sa leigheas riamh. D'oibrigh [PAWN_pronoun] ar spáslong píoráid, agus bhí ráta marthanachta thart ar 50% ag othair [PAWN_nameDef].</PirateDoctor0.description>
   <!-- EN: pirate doctor -->
-  <PirateDoctor0.title>TODO</PirateDoctor0.title>
+  <PirateDoctor0.title>drochdhochtúir</PirateDoctor0.title>
   <!-- EN: bad doc -->
-  <PirateDoctor0.titleShort>TODO</PirateDoctor0.titleShort>
+  <PirateDoctor0.titleShort>drochdhochtúir</PirateDoctor0.titleShort>
 
   <!-- EN: With no real care for other people, [PAWN_nameDef] fit in perfectly with the pirate crew that had once held [PAWN_objective] captive. Shortly after joining the crew, [PAWN_nameDef] began to kill anyone or anything that got in [PAWN_possessive] way—including [PAWN_possessive] crewmates. -->
-  <PirateKing69.description>TODO</PirateKing69.description>
+  <PirateKing69.description>Ba chuma le [PAWN_nameDef] faoi dhaoine eile. Mar rí ar ghrúpa mór píoráidí, bhí [PAWN_pronoun] neamhthrócaireach, foréigneach agus gan trua. Ní raibh drogall ar [PAWN_nameDef] daoine a mharú ar an toirt, gan smaoineamh.</PirateKing69.description>
   <!-- EN: pirate king -->
-  <PirateKing69.title>TODO</PirateKing69.title>
+  <PirateKing69.title>rí na bpíoráidí</PirateKing69.title>
   <!-- EN: pirate -->
-  <PirateKing69.titleShort>TODO</PirateKing69.titleShort>
+  <PirateKing69.titleShort>píoráid</PirateKing69.titleShort>
 
   <!-- EN: From [PAWN_possessive] youth, [PAWN_nameDef] developed connections in the underworld. There [PAWN_pronoun] trained in melee combat and became a trusted underworld advisor.\n\nAfter participating in a failed rebellion, [PAWN_pronoun] fled [PAWN_possessive] homeworld to travel with a pirate band. -->
   <PirateSympathizer24.description>TODO</PirateSympathizer24.description>
   <!-- EN: pirate sympathizer -->
   <PirateSympathizer24.title>TODO</PirateSympathizer24.title>
   <!-- EN: pirate -->
-  <PirateSympathizer24.titleShort>TODO</PirateSympathizer24.titleShort>
+  <PirateSympathizer24.titleShort>píoráid</PirateSympathizer24.titleShort>
 
   <!-- EN: [PAWN_nameDef] joined a renowned interstellar criminal organization, and was often part of shock-assault boarding parties during starship raids.\n\nThough [PAWN_possessive] combat experience made [PAWN_objective] a good fighter, the ruthlessness of the job left [PAWN_objective] cold-hearted and unenthusiastic about social interaction. -->
   <PirateTrooper73.description>TODO</PirateTrooper73.description>
@@ -2055,37 +2055,37 @@
   <!-- EN: [PAWN_nameDef] studied to be a doctor, but was dissatisfied with [PAWN_possessive] practice on an otherwise peaceful midworld.\n\nInstead, [PAWN_pronoun] chose to pull up roots and travel to the rimworlds in order to care for people who needed [PAWN_objective] most. -->
   <WanderingHealer52.description>TODO</WanderingHealer52.description>
   <!-- EN: wandering healer -->
-  <WanderingHealer52.title>TODO</WanderingHealer52.title>
+  <WanderingHealer52.title>cneasaí</WanderingHealer52.title>
   <!-- EN: healer -->
-  <WanderingHealer52.titleShort>TODO</WanderingHealer52.titleShort>
+  <WanderingHealer52.titleShort>cneasaí</WanderingHealer52.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a tribal gang leader on a rimworld. For [PAWN_objective], the battlefield is a game, and there is nothing more fun than the fires of war. -->
-  <WarChief97.description>TODO</WarChief97.description>
+  <WarChief97.description>Bhí [PAWN_nameDef] ina t[PAWN_possessive]aoiseach ar threabh ar pláinéad iarghúlta. Creideann [PAWN_nameDef] nach bhfuil aon rud níos fearr ná an chogaíocht.</WarChief97.description>
   <!-- EN: war chief -->
-  <WarChief97.title>TODO</WarChief97.title>
+  <WarChief97.title>taoiseach</WarChief97.title>
   <!-- EN: chief -->
-  <WarChief97.titleShort>TODO</WarChief97.titleShort>
+  <WarChief97.titleShort>taoiseach</WarChief97.titleShort>
 
   <!-- EN: [PAWN_nameDef] was the tough leader of a pirate band. [PAWN_pronoun] would accept any challenge, no matter how violent or dangerous. Others called [PAWN_objective] a killing machine. -->
-  <Warlordess56.description>TODO</Warlordess56.description>
+  <Warlordess56.description>Bhí [PAWN_nameDef] i gceannas ar dhrong píoráidí. Ní raibh eagla ar [PAWN_nameDef] roimh aon dhúshlán.</Warlordess56.description>
   <!-- EN: warlordess -->
-  <Warlordess56.title>TODO</Warlordess56.title>
+  <Warlordess56.title>taoiseach cogaidh</Warlordess56.title>
   <!-- EN: warlordess -->
-  <Warlordess56.titleShort>TODO</Warlordess56.titleShort>
+  <Warlordess56.titleShort>taoiseach cogaidh</Warlordess56.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a war hero during [PAWN_possessive] planet's third world war. [PAWN_pronoun] helped prevent the launch of nuclear weapons during a particularly tense standoff. -->
-  <Warrior73.description>TODO</Warrior73.description>
+  <Warrior73.description>Saighdiúir ab ea [PAWN_nameDef] le linn an tríú chogadh domhanda ar a p[PAWN_possessive]láinéad baile. Chuidigh [PAWN_nameDef] leis an arm na buamaí núicléacha a láinseáil chun deireadh a chur leis an gcogadh.</Warrior73.description>
   <!-- EN: warrior -->
-  <Warrior73.title>TODO</Warrior73.title>
+  <Warrior73.title>gaiscíoch</Warrior73.title>
   <!-- EN: warrior -->
-  <Warrior73.titleShort>TODO</Warrior73.titleShort>
+  <Warrior73.titleShort>gaiscíoch</Warrior73.titleShort>
 
   <!-- EN: Years of being commanding officer of an advanced corvette taught [PAWN_nameDef] the art of leadership, the techniques of higher engineering, and how to stay calm while enemies try to kill you.\n\nUnfortunately, [PAWN_nameDef] only very rarely had contact with nature. -->
-  <WarshipCaptain67.description>TODO</WarshipCaptain67.description>
+  <WarshipCaptain67.description>Chaith [PAWN_nameDef] na blianta mar chaptaen i spás-chabhlach. Tuigeann [PAWN_pronoun] cúrsaí innealltóireachta, cúrsaí ceannaireachta agus conas éalú ó dhaoine atá ag iarraidh thú a mharú.</WarshipCaptain67.description>
   <!-- EN: warship captain -->
-  <WarshipCaptain67.title>TODO</WarshipCaptain67.title>
+  <WarshipCaptain67.title>captaen spásloinge</WarshipCaptain67.title>
   <!-- EN: captain -->
-  <WarshipCaptain67.titleShort>TODO</WarshipCaptain67.titleShort>
+  <WarshipCaptain67.titleShort>captaen</WarshipCaptain67.titleShort>
 
   <!-- EN: From [PAWN_possessive] computer, [PAWN_nameDef] helped rid the online world of bad people. -->
   <WhiteHatHacker82.description>Haiceálaí ab ea [PAWN_nameDef]. Bhí [PAWN_pronoun] tiomanta ar an idirlíon a choinneáil slán ó dhaoine dáinséaracha.</WhiteHatHacker82.description>

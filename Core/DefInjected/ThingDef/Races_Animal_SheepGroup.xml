@@ -2,63 +2,63 @@
 <LanguageData>
   
   <!-- EN: alpaca -->
-  <Alpaca.label>TODO</Alpaca.label>
+  <Alpaca.label>alpaca</Alpaca.label>
   <!-- EN: A medium-sized ungulate closely related to the llama, the alpaca is usually raised for its remarkably soft and insulating wool. Alpacas have also been used as pack animals since they hauled cargo on the rugged mountain trails of ancient South America. -->
-  <Alpaca.description>TODO</Alpaca.description>
+  <Alpaca.description>Is minic go gcoinnítear alpacaí dá n-olann. Úsáidtear iad mar ainmhihte paca freisin, toisc go bhfuil siad láidir agus crua.</Alpaca.description>
   <!-- EN: left hoof -->
-  <Alpaca.tools.left_hoof.label>TODO</Alpaca.tools.left_hoof.label>
+  <Alpaca.tools.left_hoof.label>cos chlé</Alpaca.tools.left_hoof.label>
   <!-- EN: hoof -->
-  <Alpaca.tools.left_hoof.labelNoLocation>TODO</Alpaca.tools.left_hoof.labelNoLocation>
+  <Alpaca.tools.left_hoof.labelNoLocation>cos</Alpaca.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Alpaca.tools.right_hoof.label>TODO</Alpaca.tools.right_hoof.label>
+  <Alpaca.tools.right_hoof.label>cos dheas</Alpaca.tools.right_hoof.label>
   <!-- EN: hoof -->
-  <Alpaca.tools.right_hoof.labelNoLocation>TODO</Alpaca.tools.right_hoof.labelNoLocation>
+  <Alpaca.tools.right_hoof.labelNoLocation>cos</Alpaca.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
-  <Alpaca.tools.head.label>TODO</Alpaca.tools.head.label>
+  <Alpaca.tools.head.label>ceann</Alpaca.tools.head.label>
   
   <!-- EN: capybara -->
-  <Capybara.label>TODO</Capybara.label>
+  <Capybara.label>capabára</Capybara.label>
   <!-- EN: The largest natural rodent, the capybara is well-adapted for steaming jungle environments. -->
-  <Capybara.description>TODO</Capybara.description>
+  <Capybara.description>Cónaíonn an capabára sna teochreasa, de ghnáth.</Capybara.description>
   <!-- EN: left claw -->
-  <Capybara.tools.left_claw.label>TODO</Capybara.tools.left_claw.label>
+  <Capybara.tools.left_claw.label>crúb chlé</Capybara.tools.left_claw.label>
   <!-- EN: claw -->
-  <Capybara.tools.left_claw.labelNoLocation>TODO</Capybara.tools.left_claw.labelNoLocation>
+  <Capybara.tools.left_claw.labelNoLocation>crúb</Capybara.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Capybara.tools.right_claw.label>TODO</Capybara.tools.right_claw.label>
+  <Capybara.tools.right_claw.label>crúb dheas</Capybara.tools.right_claw.label>
   <!-- EN: claw -->
-  <Capybara.tools.right_claw.labelNoLocation>TODO</Capybara.tools.right_claw.labelNoLocation>
+  <Capybara.tools.right_claw.labelNoLocation>crúb</Capybara.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Capybara.tools.head.label>TODO</Capybara.tools.head.label>
+  <Capybara.tools.head.label>ceann</Capybara.tools.head.label>
   
   <!-- EN: megasloth -->
-  <Megasloth.label>TODO</Megasloth.label>
+  <Megasloth.label>meigeaspadán</Megasloth.label>
   <!-- EN: A giant, solitary herbivore with two giant claws for warding off threats. Long extinct after being wiped out by the natives of Earth's American continent, the megasloth was later brought back using advanced cloning and artificial gestators. Its thick hide is exceptionally strong and insulating, and makes a great leather for cold-weather clothing. It is peaceful if left alone, but will shred anyone who disturbs it with its giant claws. -->
-  <Megasloth.description>TODO</Megasloth.description>
+  <Megasloth.description>Tá crúba láidre ag an ainmhí ollmhór seo, ach bíonn sé sách réchúiseach agus ní itheann siad ach plandaí. Tá olann thar a bheith tiubh air. Bí cúramach, áfach - tá an meigeaspadán thar a bheith dáinséarach má éiríonn sé crosta, agus féadfaidh sé duine fásta a mharú le buille amháin.</Megasloth.description>
   <!-- EN: left claw -->
-  <Megasloth.tools.left_claw.label>TODO</Megasloth.tools.left_claw.label>
+  <Megasloth.tools.left_claw.label>crúb chlé</Megasloth.tools.left_claw.label>
   <!-- EN: claw -->
-  <Megasloth.tools.left_claw.labelNoLocation>TODO</Megasloth.tools.left_claw.labelNoLocation>
+  <Megasloth.tools.left_claw.labelNoLocation>crúb</Megasloth.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Megasloth.tools.right_claw.label>TODO</Megasloth.tools.right_claw.label>
+  <Megasloth.tools.right_claw.label>crúb dheas</Megasloth.tools.right_claw.label>
   <!-- EN: claw -->
-  <Megasloth.tools.right_claw.labelNoLocation>TODO</Megasloth.tools.right_claw.labelNoLocation>
+  <Megasloth.tools.right_claw.labelNoLocation>crúb</Megasloth.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Megasloth.tools.head.label>TODO</Megasloth.tools.head.label>
+  <Megasloth.tools.head.label>ceann</Megasloth.tools.head.label>
   
   <!-- EN: sheep -->
-  <Sheep.label>TODO</Sheep.label>
+  <Sheep.label>caora</Sheep.label>
   <!-- EN: Sheep husbandry is practiced throughout the majority of the inhabited worlds, however only recently it has been introduced to the rimworlds. Domestic sheep are relatively small herbivores, usually with yellowish wool and medium sized horns. -->
-  <Sheep.description>TODO</Sheep.description>
+  <Sheep.description>Coinnítear caoirigh i ngach áit ina bhfuil lonnaíochtaí sibhialta.</Sheep.description>
   <!-- EN: head -->
-  <Sheep.tools.head.label>TODO</Sheep.tools.head.label>
+  <Sheep.tools.head.label>ceann</Sheep.tools.head.label>
   <!-- EN: left hoof -->
-  <Sheep.tools.left_hoof.label>TODO</Sheep.tools.left_hoof.label>
+  <Sheep.tools.left_hoof.label>cos chlé</Sheep.tools.left_hoof.label>
   <!-- EN: hoof -->
-  <Sheep.tools.left_hoof.labelNoLocation>TODO</Sheep.tools.left_hoof.labelNoLocation>
+  <Sheep.tools.left_hoof.labelNoLocation>cos</Sheep.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Sheep.tools.right_hoof.label>TODO</Sheep.tools.right_hoof.label>
+  <Sheep.tools.right_hoof.label>cos dheas</Sheep.tools.right_hoof.label>
   <!-- EN: hoof -->
-  <Sheep.tools.right_hoof.labelNoLocation>TODO</Sheep.tools.right_hoof.labelNoLocation>
+  <Sheep.tools.right_hoof.labelNoLocation>cos</Sheep.tools.right_hoof.labelNoLocation>
   
 </LanguageData>

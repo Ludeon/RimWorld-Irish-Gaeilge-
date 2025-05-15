@@ -503,7 +503,7 @@
   <!-- e.g. Replacer had to be implemented manually to avoid grammatical mistakes - it is based on the WorkGivers.xml file and is sorted in the same order  -->
   <!-- EN: Prioritize {0} {1} -->
   <PrioritizeGeneric>
-    Déan '{1}' {replace: {0};
+    Tabhair tús áite do '{1}' {replace: {0};
     "ag scaoileadh saor"-"a scaoileadh saor";
     "ag tógáil dín"-"díon a thógáil";
     "ag labhairt le"-"labhairt le";
@@ -564,17 +564,17 @@
     "ag baint an dín"-"dhíon a bhaint";
     "ag deisiú"-"a dheisiú";
     "ag cur"-"a chur";
-    "i mbun taighde ag"-"thaighde a dhéanamh";
+    "i mbun taighde ag"-"a úsáid";
     "ag bearradh"-"a bhearradh";
     "i mbun taighde"-"a staidéar";
-    "ag baint beorach ó"-"bheoir a bhaint as";
+    "ag baint beorach ó"-"a oscailt";
     "á chur sa leaba"-"a chur sa leaba";
     "ag rópáil"-"a rópáil";
     "ag ceansú"-"a cheansú";
     "ag traenáil"-"a traenáil";
     "ag scriosadh"-"a scriosadh";
     "ag dílódáil"-"a dhílódáil";
-    "ag tabhairt cuairt ar"-"cuairt a thabhairt ar";} go práinneach.
+    "ag tabhairt cuairt ar"-"a fheiceáil";}.
   </PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->

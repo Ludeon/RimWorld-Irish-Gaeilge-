@@ -78,13 +78,13 @@
   <GroupTravelersPassing>Reisende der Fraktion '{0}' durchqueren das Gebiet.</GroupTravelersPassing>
 
   <!-- EN: Visitor -->
-  <LetterLabelSingleVisitorArrives>Besucher</LetterLabelSingleVisitorArrives>
+  <LetterLabelSingleVisitorArrives>Cuairteoir</LetterLabelSingleVisitorArrives>
   <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
-  <SingleVisitorArrives>{PAWN_titleIndef} der Fraktion {1} besucht die Kolonie.\n\n{PAWN_pronoun} heißt {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <SingleVisitorArrives>Tá {PAWN_titleIndef} darb ainm {PAWN_nameFull} ón bhfaicsean '{1}' ar cuairt.\n\n.{3}{4}</SingleVisitorArrives>
   <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
-  <SingleVisitorArrivesTraderInfo>\n\n{PAWN_pronoun} scheint ein paar Waren zum Handeln dabeizuhaben.</SingleVisitorArrivesTraderInfo>
+  <SingleVisitorArrivesTraderInfo>\n\nIs cosúil go bhfuil {PAWN_pronoun} ag iarraidh trádáil leat.</SingleVisitorArrivesTraderInfo>
   <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
-  <SingleVisitorArrivesLeaderInfo>\n\n{PAWN_pronoun} ist der Anführer der Fraktion.</SingleVisitorArrivesLeaderInfo>
+  <SingleVisitorArrivesLeaderInfo>\n\nTá {PAWN_pronoun} ina c{PAWN_possessive}eannaire ar an bhfaicsean.</SingleVisitorArrivesLeaderInfo>
   <!-- EN: Visitors -->
   <LetterLabelGroupVisitorsArrive>Besuchergruppe</LetterLabelGroupVisitorsArrive>
   <!-- EN: A group from {0} are visiting the colony.{1}{2} -->

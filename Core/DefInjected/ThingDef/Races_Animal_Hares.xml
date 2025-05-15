@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: hare -->
-  <Hare.label>TODO</Hare.label>
+  <Hare.label>giorria</Hare.label>
   <!-- EN: This small, solitary herbivore can swiftly hop away from danger. -->
-  <Hare.description>TODO</Hare.description>
+  <Hare.description>Is féidir leis an ainmhí luibhiteach seo rith go tapa.</Hare.description>
   <!-- EN: head -->
-  <Hare.tools.head.label>TODO</Hare.tools.head.label>
+  <Hare.tools.head.label>ceann</Hare.tools.head.label>
   
   <!-- EN: snowhare -->
-  <Snowhare.label>TODO</Snowhare.label>
+  <Snowhare.label>giorria sneachta</Snowhare.label>
   <!-- EN: This hardy animal survives the brutal winters of its homelands by burrowing through snow to find edible plants. -->
-  <Snowhare.description>TODO</Snowhare.description>
+  <Snowhare.description>Maireann an t-ainmhí beag seo i dteocht an-íseal.</Snowhare.description>
   <!-- EN: head -->
-  <Snowhare.tools.head.label>TODO</Snowhare.tools.head.label>
+  <Snowhare.tools.head.label>ceann</Snowhare.tools.head.label>
   
 </LanguageData>

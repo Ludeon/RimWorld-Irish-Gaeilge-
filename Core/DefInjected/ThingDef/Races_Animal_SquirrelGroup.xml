@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: boomrat -->
-  <Boomrat.label>TODO</Boomrat.label>
+  <Boomrat.label>búmfhrancach</Boomrat.label>
   <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
-  <Boomrat.description>TODO</Boomrat.description>
+  <Boomrat.description>Pléascann na créatúir bheaga seo nuair a mharaítear iad. Ní fios ar tháinig an cumas sin ón éabhlóid nó ón innealltóireacht ghéiniteach.</Boomrat.description>
   <!-- EN: left claw -->
   <Boomrat.tools.left_claw.label>TODO</Boomrat.tools.left_claw.label>
   <!-- EN: claw -->

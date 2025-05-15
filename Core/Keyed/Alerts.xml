@@ -5,11 +5,11 @@
   <ClickToJumpToProblem>Cliceáil chun dul chuig an bhfadhb</ClickToJumpToProblem>
 
   <!-- EN: Minor break risk -->
-  <BreakRiskMinor>Gealltacht: riosca íseal</BreakRiskMinor>
+  <BreakRiskMinor>Riosca íseal</BreakRiskMinor>
   <!-- EN: Major break risk -->
-  <BreakRiskMajor>Gealltacht: riosca láidir</BreakRiskMajor>
+  <BreakRiskMajor>Riosca ard</BreakRiskMajor>
   <!-- EN: Extreme break risk -->
-  <BreakRiskExtreme>Gealltacht: riosca tromchúiseach</BreakRiskExtreme>
+  <BreakRiskExtreme>Riosca tromchúiseach</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
   <BreakRiskMinorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh mionghealltacht orthu:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
@@ -113,7 +113,7 @@
   <!-- EN: Need recreation variety -->
   <NeedJoySource>Tá éagsúlacht siamsaíochta de dhíth</NeedJoySource>
   <!-- EN: There are only {0} different recreation types available in {1}, but at the current expectations level ({2}), colonists need {3} different kinds of recreation to remain satisfied. Provide recreation variety supplying a new, different kind of recreation.\n\n{4}\n\n{5}\n\nNote: You can check the recreation type of any item in its stats page, accessible with the 'i' button. -->
-  <NeedJoySourceDesc>Níl ann ach {0} cineál siamsaíochta ar fáil  in {1}, ach faoi láthair tá ({2}) coilíneach ag súil leis go mbeidh {3} cineál ar fáil chun go mbeidh siad sásta.\n\nCuir cineál siamsaíochta eile ar fáil.\n\n{4}\n\n{5}\n\nMar eolas: is féidir breathnú ar an gcineál siamsaíochta a bhaineann le hearraí ach cliceáil ar an gcnaipe 'i' agus breathnú ar an leathanach staitisticí.</NeedJoySourceDesc>
+  <NeedJoySourceDesc>Níl ann ach {0} cineál siamsaíochta ar fáil  in {1}, ach faoi láthair tá ({2}) coilíneach ag súil leis go mbeidh {3} cineál ar fáil chun go mbeidh siad sásta.\n\nCuir cineál siamsaíochta eile ar fáil.\n\n{4}\n\n{5}\n\nMar eolas: is féidir breathnú ar an gcineál siamsaíochta a bhaineann le gach earra ach cliceáil ar an gcnaipe 'i' agus breathnú ar an leathanach staitisticí.</NeedJoySourceDesc>
   <!-- EN: Available recreation types -->
   <AvailableRecreationTypes>Cineálacha siamsaíochta atá ar fáil</AvailableRecreationTypes>
   <!-- EN: Missing recreation types -->
@@ -131,11 +131,11 @@
   <!-- EN: Need batteries -->
   <NeedBatteries>Tá cadhnraí de dhíth</NeedBatteries>
   <!-- EN: You have a solar or wind generator, but no batteries. You'll lose power every time the sun goes down or the wind calms. -->
-  <NeedBatteriesDesc>Tá ginadóir grianteasa nó gaoithe agat, ach níl aon chadhnraí agat. Caillfidh tú cumhacht ag luí na gréine agus nuair a laghdóigh an ghaoth.</NeedBatteriesDesc>
+  <NeedBatteriesDesc>Tá ginadóir grianteasa nó gaoithe agat, ach níl aon chadhnraí agat. Caillfidh tú cumhacht le linn na hoíche agus nuair a laghdóigh an ghaoth.</NeedBatteriesDesc>
   <!-- EN: Build a battery or two to guarantee sustained power. -->
   <NeedBatteriesResearchedDesc>Tóg cúpla cadhnra chun deimhin a dhéanamh de go mbeidh cumhacht seasta agat.</NeedBatteriesResearchedDesc>
   <!-- EN: Research batteries and build a couple to guarantee sustained power. -->
-  <NeedBatteriesNotResearchedDesc>Déan taighde ar chadhnraí agus tóg cúpla ceann chun deimhin a dhéanamh de go mbeidh cumhacht seasta agat.</NeedBatteriesNotResearchedDesc>
+  <NeedBatteriesNotResearchedDesc>Déan taighde ar chadhnraí agus tóg ceann chun deimhin a dhéanamh de go mbeidh cumhacht seasta agat.</NeedBatteriesNotResearchedDesc>
 
   <!-- EN: Brawler has ranged weapon -->
   <BrawlerHasRangedWeapon>Tá arm fadraoin ag trodaí</BrawlerHasRangedWeapon>
@@ -163,7 +163,7 @@
   <CaravanIdleDesc>Ní mór ceann scríbe a shannadh do na carbháin seo:\n\n{0}</CaravanIdleDesc>
 
   <!-- EN: Medical treatment needed -->
-  <ColonistNeedsTreatment>Cóireáil leighis de dhíth</ColonistNeedsTreatment>
+  <ColonistNeedsTreatment>Tá cóireáil leighis de dhíth</ColonistNeedsTreatment>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
   <ColonistNeedsTreatmentDesc>.Tá cóireáil leighis de dhíth ar na daoine seo a leanas.\n\n{0}\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(I dtosach, roghnaigh ar leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.) </ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
@@ -175,7 +175,7 @@
   <AlertHypothermiaDesc>Tá hipiteirme ar na coilínigh seo a leanas:\n\n{0}\nBí cinnte go bhfuil éadaí oiriúnacha acu agus go bhfuil spásanna faoi dhíon téite i gceart.</AlertHypothermiaDesc>
   
   <!-- EN: {0} patients await medical operation -->
-  <PatientsAwaitingMedicalOperation>{0} othar ag fanacht le hobráid leighis</PatientsAwaitingMedicalOperation>
+  <PatientsAwaitingMedicalOperation>Tá {0} othar ag fanacht ar obráidí leighis</PatientsAwaitingMedicalOperation>
   <!-- EN: These patients await medical operation:\n{0}\n\nMake sure you have all necessary medical tools and a free doctor available. -->
   <PatientsAwaitingMedicalOperationDesc>Tá na hoathair seo a leanas ag fanacht le hobráid leighis:\n\n{0}\nBí cinnte go bhfuil gach uirlis leighis atá de dhíth agat, agus go bhfuil dochtúir ar fáil.</PatientsAwaitingMedicalOperationDesc>
 
@@ -192,9 +192,9 @@
   <PawnsWithLifeThreateningDiseaseAmputationDesc>Tá daoine i mbaol an bháis mar gheall ar thinneas tromchúiseach:\n\n{0}\nMás féidir, déan na géaga ionfhabhtaithe a theascadh chun na coilínigh a chonneáil beo, nó tabhairt géaga próistéiteacha dóibh.</PawnsWithLifeThreateningDiseaseAmputationDesc>
 
   <!-- EN: Billiards needs space -->
-  <BilliardsNeedsSpace>Tábla snúcair: spás de dhíth</BilliardsNeedsSpace>
+  <BilliardsNeedsSpace>Tá spás de dhíth ó bhord snúcair</BilliardsNeedsSpace>
   <!-- EN: One of your billiards table is adjacent to an obstruction that will prevent colonists from using it.\n\nA billiards table needs clear space around it on all sides to be usable. -->
-  <BilliardsNeedsSpaceDesc>Tá bacainn taobh le tábla snúcair, rud a chiallaíonn nach mbeidh coilínigh in ann é a úsáid .\n\nTá spás de dhíth timpeall ar thábla snúcair chun go mbeifear in ann é a úsáid.</BilliardsNeedsSpaceDesc>
+  <BilliardsNeedsSpaceDesc>Tá bacainn taobh le bord snúcair, rud a chiallaíonn nach mbeidh coilínigh in ann é a úsáid .\n\nTá spás de dhíth timpeall ar thábla snúcair chun go mbeifear in ann é a úsáid.</BilliardsNeedsSpaceDesc>
 
   <!-- EN: Chess table needs chairs -->
   <ChessTablesNeedChairs>Bord fichille: cathaoireacha de dhíth</ChessTablesNeedChairs>

@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: corn plant -->
-  <Plant_Corn.label>planda arbhair</Plant_Corn.label>
+  <Plant_Corn.label>arbhar</Plant_Corn.label>
   <!-- EN: A tall grain plant which produces ears of soft, edible seeds. While corn takes a long time to grow, it yields lots of food compared to other crops. Harvested corn takes a long time to spoil. -->
   <Plant_Corn.description>Fásann síolta arbhair ar an bplanda seo. Fásann arbhar go han-mhall, ach fásann go leor síolta ar an bplanda seo i gcomparáid le barra eile.</Plant_Corn.description>
   
   <!-- EN: cotton plant -->
-  <Plant_Cotton.label>planda cadáis</Plant_Cotton.label>
+  <Plant_Cotton.label>cadás</Plant_Cotton.label>
   <!-- EN: A mid-size crop that yields fine white cotton fibers. These are used to make cloth. -->
   <Plant_Cotton.description>Fásann snáithíní cadáis ar an bplanda seo. Is féidir éadaí a dhéanamh as na snáithíní sin.</Plant_Cotton.description>
   
@@ -37,17 +37,17 @@
   <Plant_Potato.description>Fásann prátaí i ngach áit, agus tá siad sláintiúil agus cothúil.</Plant_Potato.description>
   
   <!-- EN: psychoid plant -->
-  <Plant_Psychoid.label>planda sícíte</Plant_Psychoid.label>
+  <Plant_Psychoid.label>sícít</Plant_Psychoid.label>
   <!-- EN: A leafy plant which generates the chemical compound psychite. Originally evolved as a defense mechanism to ward off plant-eating animals by overstimulating and sickening them, the psychite drug can be extracted and refined into various forms for recreational use. It is addictive. -->
   <Plant_Psychoid.description>Gineann an planda seo sícít, comhdhúil cheimiceach a úsáidtear chun drugaí éagsúla a chruthú. Tá sícít an-andúile.</Plant_Psychoid.description>
   
   <!-- EN: rice plant -->
-  <Plant_Rice.label>planda ríse</Plant_Rice.label>
+  <Plant_Rice.label>rís</Plant_Rice.label>
   <!-- EN: A short, fast-growing crop that yields small edible grains. Its great nutritional output and ease of cultivation has made it the economic core of many great civilizations. While rice grows quickly, it is sensitive to soil fertility and will not fare well in poor soil. -->
-  <Plant_Rice.description>FIs minic go mbíonn an rís mar bhunchloch ag coilíneachtaí ollmhóa, toisc go bhfásanna sé go tapa agus toisc go bhfuil sé an-chothúil. Ní fhasann an rís go maith in ithir a bhfuil caighdeán íseal aige, áfach.</Plant_Rice.description>
+  <Plant_Rice.description>Is minic go mbíonn an rís mar bhunchloch ag coilíneachtaí ollmhóra, toisc go bhfásanna sé go tapa agus toisc go bhfuil sé an-chothúil. Ní fhasann rís go maith in ithir a bhfuil caighdeán íseal aige, áfach.</Plant_Rice.description>
   
   <!-- EN: smokeleaf plant -->
-  <Plant_Smokeleaf.label>planda raithní</Plant_Smokeleaf.label>
+  <Plant_Smokeleaf.label>raithneach</Plant_Smokeleaf.label>
   <!-- EN: A leafy crop grown for the psychological effects of chemicals in its leaves. Smokeleaf leaves can be prepared into joints at the crafting spot. Smokeleaf makes a user feel relaxed, but reduces motivation, and can be addictive. -->
   <Plant_Smokeleaf.description>Is féidir toitíní raithní a dhéanamh as duilleoga an phlanda seo.</Plant_Smokeleaf.description>
   

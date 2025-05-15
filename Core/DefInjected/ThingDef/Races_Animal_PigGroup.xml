@@ -2,85 +2,85 @@
 <LanguageData>
   
   <!-- EN: chinchilla -->
-  <Chinchilla.label>TODO</Chinchilla.label>
+  <Chinchilla.label>sinsile</Chinchilla.label>
   <!-- EN: A small, nimble rodent. Its fur is softer than just about anything in the universe, making it very valuable as a trade good. -->
-  <Chinchilla.description>TODO</Chinchilla.description>
+  <Chinchilla.description>Tá fionnadh an-bog ar an gcreimire beag seo, agus bíonn sé luachmar i measc trádálaithe.</Chinchilla.description>
   <!-- EN: left claw -->
-  <Chinchilla.tools.left_claw.label>TODO</Chinchilla.tools.left_claw.label>
+  <Chinchilla.tools.left_claw.label>crúb chlé</Chinchilla.tools.left_claw.label>
   <!-- EN: claw -->
-  <Chinchilla.tools.left_claw.labelNoLocation>TODO</Chinchilla.tools.left_claw.labelNoLocation>
+  <Chinchilla.tools.left_claw.labelNoLocation>crúb</Chinchilla.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Chinchilla.tools.right_claw.label>TODO</Chinchilla.tools.right_claw.label>
+  <Chinchilla.tools.right_claw.label>crúb dheas</Chinchilla.tools.right_claw.label>
   <!-- EN: claw -->
-  <Chinchilla.tools.right_claw.labelNoLocation>TODO</Chinchilla.tools.right_claw.labelNoLocation>
+  <Chinchilla.tools.right_claw.labelNoLocation>crúb</Chinchilla.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Chinchilla.tools.head.label>TODO</Chinchilla.tools.head.label>
+  <Chinchilla.tools.head.label>ceann</Chinchilla.tools.head.label>
   
   <!-- EN: deer -->
-  <Deer.label>TODO</Deer.label>
+  <Deer.label>fia</Deer.label>
   <!-- EN: A medium-sized herding herbivore which prefers to live in mixed forests and plains. Deer are very quick. -->
-  <Deer.description>TODO</Deer.description>
+  <Deer.description>Cónaíonn an t-ainmhí luibhiteach seo i ngrúpaí móra, agus bíonn siad an-tapa. Tá fiafheoil an-luachmhar.</Deer.description>
   <!-- EN: venison -->
-  <Deer.race.meatLabel>TODO</Deer.race.meatLabel>
+  <Deer.race.meatLabel>fiafheoil</Deer.race.meatLabel>
   <!-- EN: left hoof -->
-  <Deer.tools.left_hoof.label>TODO</Deer.tools.left_hoof.label>
+  <Deer.tools.left_hoof.label>cos chlé</Deer.tools.left_hoof.label>
   <!-- EN: hoof -->
-  <Deer.tools.left_hoof.labelNoLocation>TODO</Deer.tools.left_hoof.labelNoLocation>
+  <Deer.tools.left_hoof.labelNoLocation>cos</Deer.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Deer.tools.right_hoof.label>TODO</Deer.tools.right_hoof.label>
+  <Deer.tools.right_hoof.label>cos dheas</Deer.tools.right_hoof.label>
   <!-- EN: hoof -->
-  <Deer.tools.right_hoof.labelNoLocation>TODO</Deer.tools.right_hoof.labelNoLocation>
+  <Deer.tools.right_hoof.labelNoLocation>cos</Deer.tools.right_hoof.labelNoLocation>
   <!-- EN: teeth -->
-  <Deer.tools.teeth.label>TODO</Deer.tools.teeth.label>
+  <Deer.tools.teeth.label>fiacla</Deer.tools.teeth.label>
   <!-- EN: head -->
-  <Deer.tools.head.label>TODO</Deer.tools.head.label>
+  <Deer.tools.head.label>ceann</Deer.tools.head.label>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>TODO</Gazelle.label>
+  <Gazelle.label>gasail</Gazelle.label>
   <!-- EN: A small, extremely quick antelope known for its amazingly long leap. -->
-  <Gazelle.description>TODO</Gazelle.description>
+  <Gazelle.description>Tá an t-ainmhí beag seo an-leochaileach, ach tá siad an-tapa freisin.</Gazelle.description>
   <!-- EN: left hoof -->
-  <Gazelle.tools.left_hoof.label>TODO</Gazelle.tools.left_hoof.label>
+  <Gazelle.tools.left_hoof.label>cos chlé</Gazelle.tools.left_hoof.label>
   <!-- EN: hoof -->
-  <Gazelle.tools.left_hoof.labelNoLocation>TODO</Gazelle.tools.left_hoof.labelNoLocation>
+  <Gazelle.tools.left_hoof.labelNoLocation>cos</Gazelle.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Gazelle.tools.right_hoof.label>TODO</Gazelle.tools.right_hoof.label>
+  <Gazelle.tools.right_hoof.label>cos dheas</Gazelle.tools.right_hoof.label>
   <!-- EN: hoof -->
-  <Gazelle.tools.right_hoof.labelNoLocation>TODO</Gazelle.tools.right_hoof.labelNoLocation>
+  <Gazelle.tools.right_hoof.labelNoLocation>cos</Gazelle.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
-  <Gazelle.tools.head.label>TODO</Gazelle.tools.head.label>
+  <Gazelle.tools.head.label>ceann</Gazelle.tools.head.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>TODO</Ibex.label>
+  <Ibex.label>ibeach </Ibex.label>
   <!-- EN: The wild ancestor of the domesticated goat. Ibexes live on marginal territory where most antelopes couldn't survive, eating lichens and sparse mountain plants. They're famous for dextrously hopping across bare cliff faces - and for their violent ramming attack. -->
-  <Ibex.description>TODO</Ibex.description>
+  <Ibex.description>Tá gaol ag an ainmhí seo leis an ngadhar. Cónaíonn siad i bhfad amach san fhiántas, agus itheann siad plandaí. Bíonn siad dáinséarach má éiríonn siad crosta.</Ibex.description>
   <!-- EN: left hoof -->
-  <Ibex.tools.left_hoof.label>TODO</Ibex.tools.left_hoof.label>
+  <Ibex.tools.left_hoof.label>cos chlé</Ibex.tools.left_hoof.label>
   <!-- EN: hoof -->
-  <Ibex.tools.left_hoof.labelNoLocation>TODO</Ibex.tools.left_hoof.labelNoLocation>
+  <Ibex.tools.left_hoof.labelNoLocation>cos</Ibex.tools.left_hoof.labelNoLocation>
   <!-- EN: right hoof -->
-  <Ibex.tools.right_hoof.label>TODO</Ibex.tools.right_hoof.label>
+  <Ibex.tools.right_hoof.label>cos dheas</Ibex.tools.right_hoof.label>
   <!-- EN: hoof -->
-  <Ibex.tools.right_hoof.labelNoLocation>TODO</Ibex.tools.right_hoof.labelNoLocation>
+  <Ibex.tools.right_hoof.labelNoLocation>cos</Ibex.tools.right_hoof.labelNoLocation>
   <!-- EN: head -->
-  <Ibex.tools.head.label>TODO</Ibex.tools.head.label>
+  <Ibex.tools.head.label>ceann</Ibex.tools.head.label>
   
   <!-- EN: pig -->
-  <Pig.label>TODO</Pig.label>
+  <Pig.label>muc</Pig.label>
   <!-- EN: Pigs were one of the first animals domesticated by humans. They are an efficient source of meat, and are easy to feed because they will eat almost anything. -->
-  <Pig.description>TODO</Pig.description>
+  <Pig.description>Tá muca á gcoinneáil ag daoine leis na milliúin bliain. Bíonn siad sásta rud ar bith a ithe.</Pig.description>
   <!-- EN: pork -->
-  <Pig.race.meatLabel>TODO</Pig.race.meatLabel>
+  <Pig.race.meatLabel>porc</Pig.race.meatLabel>
   <!-- EN: head -->
-  <Pig.tools.head.label>TODO</Pig.tools.head.label>
+  <Pig.tools.head.label>ceann</Pig.tools.head.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>TODO</WildBoar.label>
+  <WildBoar.label>torc allta</WildBoar.label>
   <!-- EN: This hairy omnivore is descended from escaped pigs and evolved for living in the wild.\n\nIts tusks make it a better fighter than its domesticated pig cousins. Unfortunately, it is too unruly to be trained in the most complex tasks. -->
-  <WildBoar.description>TODO</WildBoar.description>
+  <WildBoar.description>Tá an t-ainmhí seo gaolta leis an muc, agus cónaíonn sé san fhiántas Tá tusca móra air.</WildBoar.description>
   <!-- EN: tusk -->
-  <WildBoar.tools.tusk.label>TODO</WildBoar.tools.tusk.label>
+  <WildBoar.tools.tusk.label>tusca</WildBoar.tools.tusk.label>
   <!-- EN: head -->
-  <WildBoar.tools.head.label>TODO</WildBoar.tools.head.label>
+  <WildBoar.tools.head.label>ceann</WildBoar.tools.head.label>
   
 </LanguageData>

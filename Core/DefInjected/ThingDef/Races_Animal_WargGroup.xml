@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: warg -->
-  <Warg.label>TODO</Warg.label>
+  <Warg.label>varg</Warg.label>
   <!-- EN: Heavily-muscled wolf-like creatures with vicious unnatural claws and an absurdly powerful bite. They will only eat meat or corpses. If disturbed in the wild, they are very likely to attack.\n\nScientists say wargs are the descendants of weaponized military animals created for population suppression. The superstitious see them as the tools of an angry god. -->
-  <Warg.description>TODO</Warg.description>
+  <Warg.description>Tá an créatúr mór seo cosúil le mac tíre, ach tá crúba móra air agus tá sé thar a bheith láidir. Ní itheann siad ach feoil nó corpáin. Má chuirtear isteach orthu, tá dóchúlacht an-ard ann go n-ionsóidh siad.\n\nDeir eolaithe gur cruthaíodh an créatúr seo i saotharlann mhíleata lena n-úsáid mar shaighdiúirí, ach bhí sé ródheacar smacht a choinneáil orthu.</Warg.description>
   <!-- EN: left claw -->
-  <Warg.tools.left_claw.label>TODO</Warg.tools.left_claw.label>
+  <Warg.tools.left_claw.label>crúb chlé</Warg.tools.left_claw.label>
   <!-- EN: claw -->
-  <Warg.tools.left_claw.labelNoLocation>TODO</Warg.tools.left_claw.labelNoLocation>
+  <Warg.tools.left_claw.labelNoLocation>crúb</Warg.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Warg.tools.right_claw.label>TODO</Warg.tools.right_claw.label>
+  <Warg.tools.right_claw.label>crúb dheas</Warg.tools.right_claw.label>
   <!-- EN: claw -->
-  <Warg.tools.right_claw.labelNoLocation>TODO</Warg.tools.right_claw.labelNoLocation>
+  <Warg.tools.right_claw.labelNoLocation>crúb</Warg.tools.right_claw.labelNoLocation>
   <!-- EN: razorfangs -->
-  <Warg.tools.razorfangs.label>TODO</Warg.tools.razorfangs.label>
+  <Warg.tools.razorfangs.label>fiacla móra</Warg.tools.razorfangs.label>
   <!-- EN: head -->
-  <Warg.tools.head.label>TODO</Warg.tools.head.label>
+  <Warg.tools.head.label>ceann</Warg.tools.head.label>
   
 </LanguageData>

@@ -4,7 +4,7 @@
   <!-- EN: beer -->
   <Beer.label>beoir</Beer.label>
   <!-- EN: The first beverage besides water ever consumed by mankind. Beer can taste good, but its main effect is intoxication. Excessive consumption can lead to alcohol blackouts and, over time, addiction. -->
-  <Beer.description>An deoch is mó a d'ól an cine daonna riamh seachas uisce. Bíonn beoir an-bhlasta, ach cuirfidh sé ar meisce thú. Má ólann coilínigh an iomarca beorach, tiocfaidh andúil agus fadhbanna sláinte orthu.</Beer.description>
+  <Beer.description>An deoch is mó tóir a d'ól an cine daonna riamh, seachas uisce. Tá beoir blasta, ach cuirfidh sé coilínigh ar meisce. Má ólann coilínigh an iomarca beorach, tiocfaidh andúil agus fadhbanna sláinte orthu.</Beer.description>
   <!-- EN: Drink {0} -->
   <Beer.ingestible.ingestCommandString>Ól {0}</Beer.ingestible.ingestCommandString>
   <!-- EN: Drinking {0}. -->
