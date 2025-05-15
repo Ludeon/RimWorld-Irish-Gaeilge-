@@ -29,14 +29,14 @@
   <ColonistsNeedRescueDescController>Tá na coilínigh seo a leanas ar éagumas ar an talamh:\n\n{0}\nSeol coilíneach eile chun iad a tharrtháil agus a thabhairt chuig leaba.\n\n(Tarrtháil: roghnaigh coilíneach, ansin bruígh ar an truicear deas ar an íospartach agus roghnaigh Tarrtháil.).</ColonistsNeedRescueDescController>
 
   <!-- EN: Need defenses -->
-  <NeedDefenses>Cosaint de dhíth</NeedDefenses>
+  <NeedDefenses>Tá cosaintí de dhíth</NeedDefenses>
   <!-- EN: You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, like sandbags or traps. -->
-  <NeedDefensesDesc>Tá tamall ann anois ó tháinig tú agus is dócha go mbeidh grúpaí eile tar éis a faoi deara go bhfuil tú anseo.\n\nBa cheart duit cosaint a ullmhú, amhail málaí gainimh nó gaistí.</NeedDefensesDesc>
+  <NeedDefensesDesc>Tá tú anseo le tamall anois, agus is dócha go mbeidh grúpaí eile tar éis a thabhairt a faoi deara go bhfuil do choilíneacht anseo.\n\nBa cheart duit cosaintí a ullmhú, amhail málaí gainimh nó gaistí.</NeedDefensesDesc>
 
   <!-- EN: Need doctor -->
-  <NeedDoctor>Dochtúir de dhíth</NeedDoctor>
+  <NeedDoctor>Tá dochtúir de dhíth</NeedDoctor>
   <!-- EN: These colonists need medical care, but you have no healthy colonists assigned as doctors.\n{0}\n\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent. -->
-  <NeedDoctorDesc>Tá cóireáil leighis de dhíth ar na coilínigh seo a leanas, ach níl aon choilínigh shláintiúla sannta mar dhochtúirí.\n\n{0}\Déan coilíneach sláintúil a shannadh mar Dhochtúir. Gan chóireáil, tá baol ann nach gcneasóid gortuithe agus go mairfidh go deo </NeedDoctorDesc>
+  <NeedDoctorDesc>Tá cóireáil leighis de dhíth ar na coilínigh seo a leanas, ach níl aon choilínigh shláintiúla sannta mar dhochtúirí.\n\n{0}\Déan coilíneach sláintúil a shannadh mar Dhochtúir. Gan chóireáil, tá baol ann nach gcneasóid gortuithe agus go mairfidh go deo</NeedDoctorDesc>
 
   <!-- EN: Need miner -->
   <NeedMiner>Mianadóir de dhíth</NeedMiner>
@@ -51,7 +51,7 @@
   <!-- EN: Low food -->
   <LowFood>Bia íseal</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Tá líon bia an-íseal agat!\n\nLíon na mbarraí iomlán bia atá stóráilte agat: {0}    Coilínigh agus priosúnaigh atá ag fáil bia: {1}\n    Laethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a fhás, a aismiú nó a mharú. --></LowFoodDesc>
+  <LowFoodDesc>Tá líon bia an-íseal agat!\n\nLíon na mbarraí iomlán bia atá stóráilte agat: {0}    Coilínigh agus priosúnaigh atá ag fáil bia: {1}\n    Laethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a fhás, a aismiú nó a mharú.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Tá cógas de dhíth</LowMedicine>
@@ -71,7 +71,7 @@
   <AlertColonistLeftUnburiedDesc>Tá coilíneach le hadhlacadh.\n\nD'fhéadfadh sé go mbeidh drochthionchar ag seo ar ghiúmar na gcoilíneach.</AlertColonistLeftUnburiedDesc>
 
   <!-- EN: Hunter lacks suitable weapon -->
-  <HunterLacksWeapon>Tá sealgaire gan arm fadraoin </HunterLacksWeapon>
+  <HunterLacksWeapon>Tá sealgaire gan arm fadraoin</HunterLacksWeapon>
   <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
   <HunterLacksWeaponDesc>Tá coilíneach sannta mar Shealgaire, ach níl arm fadraoin aige.\n\nNí bheidh sé in ann dul san fhiach go dtí go mbeidh arm fadraoin aige.\n\nTá na coilínigh seo a leanas sannta mar Shealgairí, agus tá airm fhadraoin de dhíth orthu</HunterLacksWeaponDesc>
 
@@ -153,9 +153,9 @@
   <NeedResearchProjectDesc>Féadfaidh tú taighhde a dhéanamh, ach tionscadal a roghnú.\n\nOscail an roghchlár taighde agus roghnaigh tionscadal.</NeedResearchProjectDesc>
 
   <!-- EN: {0} colonists idle -->
-  <ColonistsIdle>Tá {0} coilínigh dímhaoin</ColonistsIdle>
+  <ColonistsIdle>Tá coilínigh gan obair</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>Tá na coilínigh seo dímhaoin, agus tá siad ag fánaíocht:\n\n{0}\nBa cheart obair tháirgiúil a shannadh orthu.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Tá na coilínigh seo thíos dímhaoin, agus tá siad ag fánaíocht:\n\n{0}\n\nB'fhiú obair a shannadh orthu.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>Tá carbhán dímhaoin</CaravanIdle>
@@ -165,9 +165,9 @@
   <!-- EN: Medical treatment needed -->
   <ColonistNeedsTreatment>Tá cóireáil leighis de dhíth</ColonistNeedsTreatment>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDesc>.Tá cóireáil leighis de dhíth ar na daoine seo a leanas.\n\n{0}\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(I dtosach, roghnaigh ar leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.) </ColonistNeedsTreatmentDesc>
+  <ColonistNeedsTreatmentDesc>Tá cóireáil leighis de dhíth ar na daoine seo a leanas.\n\n{0}\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(Ar dtús, roghnaigh leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.)</ColonistNeedsTreatmentDesc>
   <!-- EN: These people need medical treatment. Without it, they may die of their wounds, or their wounds may become permanent.\n{0}\n\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and press the left trigger button on the medical bed to make them a patient.) -->
-  <ColonistNeedsTreatmentDescController>Tá cóireáil leighis de dhíth ar na daoine seo a leanas.Gan chóireáil, tá baol ann nach gcneasóid gortuithe agus go mairfidh siad go deo.\n\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(I dtosach, roghnaigh ar leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.)</ColonistNeedsTreatmentDescController>
+  <ColonistNeedsTreatmentDescController>Tá cóireáil leighis de dhíth ar na daoine seo a leanas.Gan chóireáil, tá baol ann nach gcneasóid gortuithe agus go mairfidh siad go deo.\n\nSeol chuig leaba leighis iad agus cuir cóireáil leighis orthu.\n\n(Ar dtús, roghnaigh leaba agus tiontaigh i leaba ospidéil é. Ansin, roghnaigh an duine gortaithe agus deaschliceáil ar an leaba leighis chun iad a shannadh mar othar.)</ColonistNeedsTreatmentDescController>
 
   <!-- EN: Hypothermia -->
   <AlertHypothermia>Hipiteirme</AlertHypothermia>

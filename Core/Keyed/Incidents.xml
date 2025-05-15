@@ -155,11 +155,11 @@
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
-  <LetterLabelTraderCaravanArrival>{1} von '{0}'</LetterLabelTraderCaravanArrival>
+  <LetterLabelTraderCaravanArrival>{1} ó '{0}'</LetterLabelTraderCaravanArrival>
   <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
-  <LetterTraderCaravanArrival>{1_indefinite} der Fraktion {0} nähert sich mit {1_possessive}er Karawane.</LetterTraderCaravanArrival>
+  <LetterTraderCaravanArrival>Tá {1} ón bhfaicsean {0} tagtha.</LetterTraderCaravanArrival>
   <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
-  <LetterCaravanArrivalCommonWarning>Sie werden ein paar Tage in der Kolonie verweilen, bevor sie weiterziehen. Du kannst sie auch angreifen - allerdings wird das ihre Fraktion verärgern!</LetterCaravanArrivalCommonWarning>
+  <LetterCaravanArrivalCommonWarning>Fanfaidh siad ar feadh tamall sula n-imeoidh siad. Féadfaidh tú iad a ionsú - ach ní bheidh an faicsean lena mbaineann siad sásta leat!</LetterCaravanArrivalCommonWarning>
     
   <!-- Ransom demand -->
   <!-- EN: Ransom demand at {0} -->

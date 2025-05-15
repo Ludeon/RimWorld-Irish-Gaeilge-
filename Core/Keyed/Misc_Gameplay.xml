@@ -153,7 +153,7 @@
   <!-- EN: Ruined by temperature. -->
   <RuinedByTemperature>Sciosta ag an teas.</RuinedByTemperature>
   <!-- EN: Missing body parts -->
-  <CorpsePercentMissing>Baill choirp is easnamh</CorpsePercentMissing>
+  <CorpsePercentMissing>Baill choirp in easnamh</CorpsePercentMissing>
   <!-- EN: Reproduces in -->
   <HiveReproducesIn>Ag síolrú i gceann:</HiveReproducesIn>
   <!-- EN: Dormant: Not reproducing. -->
@@ -665,7 +665,7 @@
   <!-- EN: Immune -->
   <TextMote_Immune>Immun</TextMote_Immune>
   <!-- EN: {0} tended -->
-  <TextMote_Tended>{0} behandelt</TextMote_Tended>
+  <TextMote_Tended>Cuireadh cóireáil ar '{0}'</TextMote_Tended>
   <!-- EN: level {0} -->
   <TextMote_SkillUp>Stufe {0}</TextMote_SkillUp>
   <!-- EN: low mood -->
@@ -1318,7 +1318,7 @@
 
   <!-- Cryptosleep casket -->
   <!-- EN: Contains -->
-  <CasketContains>Tá an duine seo istigh:</CasketContains>
+  <CasketContains>Istigh:</CasketContains>
   <!-- EN: Warning!\n\n{PAWN_nameDef} is your last free-standing colonist! If you let {PAWN_objective} step into that casket, you may not be able to continue playing. Are you sure you want to proceed? -->
   <CasketWarning>Rabhadh!\n\nMá chuirtear {PAWN_nameDef} sa phod criptea-chodlata, ní bheidh aon choilíneach sláinte fágtha agat! Tá baol ann nach mbeidh tú in ann leanúint ar aghaidh ag imirt. An bhfuil tú ag iarraidh leanúint ar aghaidh?</CasketWarning>
 

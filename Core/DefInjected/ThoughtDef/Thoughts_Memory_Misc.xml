@@ -7,9 +7,9 @@
   <AteWithoutTable.stages.ate_without_table.description>D'ith mé béile gan aon troscán. Ba cheart go mbeidh bord againn.</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- EN: bonded animal {0} banished -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>ruaigeadh m'ainmhí, {0} </BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>ruaigeadh {0} </BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.description>Ruaigeadh m'ainmhí!</BondedAnimalBanished.stages.bonded_animal_banished.description>
+  <BondedAnimalBanished.stages.bonded_animal_banished.description>Ruaigeadh {0}! Bhí nasc agam leis an ainmhí sin...</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
   <!-- EN: I butchered humanlike -->
   <ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>mharaigh mé duine</ButcheredHumanlikeCorpse.stages.I_butchered_humanlike.label>
@@ -48,109 +48,109 @@
   <DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>mharaigh mé ceannaire naimhdeach</DefeatedHostileFactionLeaderOpinion.stages.defeated_hostile_leader.label>
   
   <!-- EN: defeated insect hive -->
-  <DefeatedInsectHive.stages.defeated_insect_hive.label>scriosadh </DefeatedInsectHive.stages.defeated_insect_hive.label>
+  <DefeatedInsectHive.stages.defeated_insect_hive.label>scriosadh coirceog feithidí</DefeatedInsectHive.stages.defeated_insect_hive.label>
   <!-- EN: The only good bug is a dead bug! -->
-  <DefeatedInsectHive.stages.defeated_insect_hive.description>TODO</DefeatedInsectHive.stages.defeated_insect_hive.description>
+  <DefeatedInsectHive.stages.defeated_insect_hive.description>Is fuath liom feithidí.</DefeatedInsectHive.stages.defeated_insect_hive.description>
   
   <!-- EN: defeated mech cluster -->
-  <DefeatedMechCluster.stages.defeated_mech_cluster.label>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.label>
+  <DefeatedMechCluster.stages.defeated_mech_cluster.label>chloíodh meicea-charn</DefeatedMechCluster.stages.defeated_mech_cluster.label>
   <!-- EN: Blood beats metal, you damn machines! -->
-  <DefeatedMechCluster.stages.defeated_mech_cluster.description>TODO</DefeatedMechCluster.stages.defeated_mech_cluster.description>
+  <DefeatedMechCluster.stages.defeated_mech_cluster.description>D'éirigh linn na meaisíní marfacha a mharú!</DefeatedMechCluster.stages.defeated_mech_cluster.description>
   
   <!-- EN: denied joining -->
-  <DeniedJoining.stages.denied_joining.label>TODO</DeniedJoining.stages.denied_joining.label>
+  <DeniedJoining.stages.denied_joining.label>níor ligeadh duine isteach</DeniedJoining.stages.denied_joining.label>
   <!-- EN: We just denied someone's request to join us. I hope they make it. -->
-  <DeniedJoining.stages.denied_joining.description>TODO</DeniedJoining.stages.denied_joining.description>
+  <DeniedJoining.stages.denied_joining.description>D'iarr duine orainn teacht isteach sa choilíneacht, ach dhiúltaigh muid. Tá súil agam go mbeidh an duine sin ceart go leor.</DeniedJoining.stages.denied_joining.description>
   
   <!-- EN: failed to rescue {0} -->
-  <FailedToRescueRelative.stages.failed_to_rescue.label>TODO</FailedToRescueRelative.stages.failed_to_rescue.label>
+  <FailedToRescueRelative.stages.failed_to_rescue.label>níor éirigh linn {0} a tharrtháil</FailedToRescueRelative.stages.failed_to_rescue.label>
   <!-- EN: We had a chance to rescue my relative, and failed. I could have helped! -->
-  <FailedToRescueRelative.stages.failed_to_rescue.description>TODO</FailedToRescueRelative.stages.failed_to_rescue.description>
+  <FailedToRescueRelative.stages.failed_to_rescue.description>Bhí deis againn duine de mo mhuintir a tharrtháil, ach níor éirigh linn.</FailedToRescueRelative.stages.failed_to_rescue.description>
   
   <!-- EN: freed from slavery -->
-  <FreedFromSlavery.stages.freed_from_slavery.label>TODO</FreedFromSlavery.stages.freed_from_slavery.label>
+  <FreedFromSlavery.stages.freed_from_slavery.label>scaoileadh saor ón sclábhaíocht mé</FreedFromSlavery.stages.freed_from_slavery.label>
   <!-- EN: I have been freed from slavery. I'm so thankful! -->
-  <FreedFromSlavery.stages.freed_from_slavery.description>TODO</FreedFromSlavery.stages.freed_from_slavery.description>
+  <FreedFromSlavery.stages.freed_from_slavery.description>Scaoileadh saor ón sclábhaíocht mé. Tá mé thar a bheith buíoch!</FreedFromSlavery.stages.freed_from_slavery.description>
   
   <!-- EN: bloodlust organ harvested -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>baineadh orgán</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.label>
   <!-- EN: Extracting the flesh from their bodies is so bloody and satisfying. -->
-  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>TODO</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
+  <HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>Tá sé chomh sásúil orgáin a bhaint ó dhaoine eile...</HarvestedOrgan_Bloodlust.stages.bloodlust_organ_harvested.description>
   
   <!-- EN: killed someone -->
-  <KilledHumanlikeBloodlust.stages.killed_someone.label>TODO</KilledHumanlikeBloodlust.stages.killed_someone.label>
+  <KilledHumanlikeBloodlust.stages.killed_someone.label>mharaigh mé duine éigean</KilledHumanlikeBloodlust.stages.killed_someone.label>
   <!-- EN: I killed someone! What a rush! -->
-  <KilledHumanlikeBloodlust.stages.killed_someone.description>TODO</KilledHumanlikeBloodlust.stages.killed_someone.description>
+  <KilledHumanlikeBloodlust.stages.killed_someone.description>Mharaigh mé duine éigean! Tá scleondar orm!</KilledHumanlikeBloodlust.stages.killed_someone.description>
   
   <!-- EN: buried in sarcophagus -->
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>TODO</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>cuireadh duine i sarcafagas</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.label>
   <!-- EN: This colony buried someone in an ornamented sarcophagus. May their soul rest in peace. -->
-  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>TODO</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
+  <KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>Cuir muid duine i sarcafagas deas.</KnowBuriedInSarcophagus.stages.buried_in_sarcophagus.description>
   
   <!-- EN: we butchered humanlike -->
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>TODO</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>rinne muid búistéireacht ar dhuine</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.label>
   <!-- EN: We butchered someone up like an animal. -->
-  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>TODO</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
+  <KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>Rinne muid búistéireacht ar dhuine, mar a dhéanfá le hainmhí...</KnowButcheredHumanlikeCorpse.stages.we_butchered_humanlike.description>
   
   <!-- EN: colonist's organ harvested -->
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>TODO</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>baineadh orgán ó dhuine dár gcoilínigh</KnowColonistOrganHarvested.stages.colonists_organ_harvested.label>
   <!-- EN: Someone took body parts from a colonist. It's horrible, breaking someone down for parts when they have no choice. -->
-  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>TODO</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
+  <KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>Baineadh orgán ó dhuine dár gcoilínigh. Tá sé go hainnis.</KnowColonistOrganHarvested.stages.colonists_organ_harvested.description>
   
   <!-- EN: someone's organ harvested -->
-  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>TODO</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.label>baineadh orgán ó dhuine éigean</KnowGuestOrganHarvested.stages.someones_organ_harvested.label>
   <!-- EN: The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice. -->
-  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>TODO</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
+  <KnowGuestOrganHarvested.stages.someones_organ_harvested.description>Baineadh orgán ó chuairteoir nó ó phríosúnach. Tá sé go hainnis.</KnowGuestOrganHarvested.stages.someones_organ_harvested.description>
   
   <!-- EN: prisoner sold -->
-  <KnowPrisonerSold.stages.prisoner_sold.label>TODO</KnowPrisonerSold.stages.prisoner_sold.label>
+  <KnowPrisonerSold.stages.prisoner_sold.label>díoladh príosúnach</KnowPrisonerSold.stages.prisoner_sold.label>
   <!-- EN: This colony sold a prisoner into slavery. That's a worrying thought. -->
-  <KnowPrisonerSold.stages.prisoner_sold.description>TODO</KnowPrisonerSold.stages.prisoner_sold.description>
+  <KnowPrisonerSold.stages.prisoner_sold.description>Dhíol muid príosúnach mar sclábhaí. Cuireann sin imní orm.</KnowPrisonerSold.stages.prisoner_sold.description>
   
   <!-- EN: my organ harvested -->
-  <MyOrganHarvested.stages.my_organ_harvested.label>TODO</MyOrganHarvested.stages.my_organ_harvested.label>
+  <MyOrganHarvested.stages.my_organ_harvested.label>baineadh m'orgán</MyOrganHarvested.stages.my_organ_harvested.label>
   <!-- EN: The colony harvested body parts from me! They're breaking me down like an old engine! -->
-  <MyOrganHarvested.stages.my_organ_harvested.description>TODO</MyOrganHarvested.stages.my_organ_harvested.description>
+  <MyOrganHarvested.stages.my_organ_harvested.description>Baineadh m'orgán! Tá na daoine eile sa choilíneacht seo ag iarraidh mé a bhriseadh síos!</MyOrganHarvested.stages.my_organ_harvested.description>
   
   <!-- EN: initial hope -->
-  <NewColonyHope.stages.initial_hope.label>TODO</NewColonyHope.stages.initial_hope.label>
+  <NewColonyHope.stages.initial_hope.label>dóchas</NewColonyHope.stages.initial_hope.label>
   <!-- EN: I'm getting used to this, but it's still an exciting new situation. I hope this works out... -->
-  <NewColonyHope.stages.initial_hope.description>TODO</NewColonyHope.stages.initial_hope.description>
+  <NewColonyHope.stages.initial_hope.description>Tá súil agam go mbeidh gach rud ceart go leor...</NewColonyHope.stages.initial_hope.description>
   
   <!-- EN: initial optimism -->
-  <NewColonyOptimism.stages.initial_optimism.label>TODO</NewColonyOptimism.stages.initial_optimism.label>
+  <NewColonyOptimism.stages.initial_optimism.label>misneach</NewColonyOptimism.stages.initial_optimism.label>
   <!-- EN: It's a tough situation, but I'm excited to be founding a new settlement. -->
-  <NewColonyOptimism.stages.initial_optimism.description>TODO</NewColonyOptimism.stages.initial_optimism.description>
+  <NewColonyOptimism.stages.initial_optimism.description>Táimid i gcruachás, ach tá mé sásta go bhfuil coilíneacht úr á bunadh againn.</NewColonyOptimism.stages.initial_optimism.description>
   
   <!-- EN: nuzzled -->
-  <Nuzzled.stages.nuzzled.label>TODO</Nuzzled.stages.nuzzled.label>
+  <Nuzzled.stages.nuzzled.label>peataireacht</Nuzzled.stages.nuzzled.label>
   <!-- EN: A cute animal nuzzled me. -->
-  <Nuzzled.stages.nuzzled.description>TODO</Nuzzled.stages.nuzzled.description>
+  <Nuzzled.stages.nuzzled.description>Rinne mé bánaí le hainmhí deas.</Nuzzled.stages.nuzzled.description>
   
   <!-- EN: observed corpse -->
-  <ObservedLayingCorpse.stages.observed_corpse.label>TODO</ObservedLayingCorpse.stages.observed_corpse.label>
+  <ObservedLayingCorpse.stages.observed_corpse.label>chonaic mé corpán</ObservedLayingCorpse.stages.observed_corpse.label>
   <!-- EN: I saw a dead body laying on the ground. It was disturbing. -->
-  <ObservedLayingCorpse.stages.observed_corpse.description>TODO</ObservedLayingCorpse.stages.observed_corpse.description>
+  <ObservedLayingCorpse.stages.observed_corpse.description>Chonaic mé corpán ar an talamh. Chuir sé isteach go mór orm.</ObservedLayingCorpse.stages.observed_corpse.description>
   
   <!-- EN: observed rotting corpse -->
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>TODO</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>chonaic mé corpán lofa</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.label>
   <!-- EN: I saw a rotting corpse laying on the ground. It was disgusting. -->
-  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>TODO</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
+  <ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>Chonaic mé corpán lofa ar an talamh. Chuir sé isteach go mór orm.</ObservedLayingRottingCorpse.stages.observed_rotting_corpse.description>
   
   <!-- EN: on duty -->
-  <OnDuty.stages.on_duty.label>TODO</OnDuty.stages.on_duty.label>
+  <OnDuty.stages.on_duty.label>ar diúté</OnDuty.stages.on_duty.label>
   <!-- EN: I have a job to do. -->
-  <OnDuty.stages.on_duty.description>TODO</OnDuty.stages.on_duty.description>
+  <OnDuty.stages.on_duty.description>Tá jab le déanamh agam.</OnDuty.stages.on_duty.description>
   
   <!-- EN: prisoner banished to death -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>cuireadh príosúnach chun báis</PrisonerBanishedToDie.stages.prisoner_banished_to_death.label>
   <!-- EN: We banished a prisoner in such a way that there's almost no way they'll survive. -->
-  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>TODO</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
+  <PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>Ruaigeadh príosúnach ón gcoilíneacht, agus is beag seans go mairfidh sé.</PrisonerBanishedToDie.stages.prisoner_banished_to_death.description>
   
   <!-- EN: used flame weapon -->
-  <PyroUsed.stages.used_flame_weapon.label>TODO</PyroUsed.stages.used_flame_weapon.label>
+  <PyroUsed.stages.used_flame_weapon.label>d'úsáid mé arm lasrach</PyroUsed.stages.used_flame_weapon.label>
   <!-- EN: The searing heat will make my foes beautiful! -->
-  <PyroUsed.stages.used_flame_weapon.description>TODO</PyroUsed.stages.used_flame_weapon.description>
+  <PyroUsed.stages.used_flame_weapon.description>Is breá liom an teas, agus na dathanna!</PyroUsed.stages.used_flame_weapon.description>
   
   <!-- EN: prisoner released -->
   <ReleasedHealthyPrisoner.stages.prisoner_released.label>scaoileadh saor príosúnach</ReleasedHealthyPrisoner.stages.prisoner_released.label>
@@ -173,14 +173,14 @@
   <SleepDisturbed.stages.disturbed_sleep.description>Bhí daoine ag bogadh thart agus mé i mo chodladh, agus cuireadh isteach orm. Ní tharlódh a leithéid dá mbeadh mo sheomra féin agam.</SleepDisturbed.stages.disturbed_sleep.description>
   
   <!-- EN: slept in the cold -->
-  <SleptInCold.stages.slept_in_the_cold.label>TODO</SleptInCold.stages.slept_in_the_cold.label>
+  <SleptInCold.stages.slept_in_the_cold.label>chodail mé san fhuacht</SleptInCold.stages.slept_in_the_cold.label>
   <!-- EN: I had to sleep in the cold. We really need some heaters. -->
-  <SleptInCold.stages.slept_in_the_cold.description>TODO</SleptInCold.stages.slept_in_the_cold.description>
+  <SleptInCold.stages.slept_in_the_cold.description>Bhí orm codladh san fhuacht.</SleptInCold.stages.slept_in_the_cold.description>
   
   <!-- EN: slept in the heat -->
   <SleptInHeat.stages.slept_in_the_heat.label>chodail mé sa teas</SleptInHeat.stages.slept_in_the_heat.label>
   <!-- EN: I had to sleep in unbearable heat. Can't we have air conditioning? -->
-  <SleptInHeat.stages.slept_in_the_heat.description>TODO</SleptInHeat.stages.slept_in_the_heat.description>
+  <SleptInHeat.stages.slept_in_the_heat.description>Bhí orm codladh sa teas.</SleptInHeat.stages.slept_in_the_heat.description>
   
   <!-- EN: slept on ground -->
   <SleptOnGround.stages.slept_on_ground.label>chodail mé ar an talamh</SleptOnGround.stages.slept_on_ground.label>
@@ -212,9 +212,9 @@
   <WasImprisoned.stages.was_imprisoned.description>Cuireadh mé sa phríosún ar feadh tamaill, mar a bheadh ainmhí i ngeibheann.</WasImprisoned.stages.was_imprisoned.description>
   
   <!-- EN: witnessed ally's death -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.label>TODO</WitnessedDeathAlly.stages.witnessed_allys_death.label>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.label>cailleadh duine de mo chomhghuaillithe</WitnessedDeathAlly.stages.witnessed_allys_death.label>
   <!-- EN: I saw one of my people die. They were alive one moment, and dead the next. -->
-  <WitnessedDeathAlly.stages.witnessed_allys_death.description>TODO</WitnessedDeathAlly.stages.witnessed_allys_death.description>
+  <WitnessedDeathAlly.stages.witnessed_allys_death.description>Cailleadh duine de mo chomhghuaillithe, díreach os mo chomhair.</WitnessedDeathAlly.stages.witnessed_allys_death.description>
   
   <!-- EN: witnessed death with bloodlust -->
   <WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>chonaic mé duine ag fáil báis go foréigneach</WitnessedDeathBloodlust.stages.witnessed_death_with_bloodlust.label>

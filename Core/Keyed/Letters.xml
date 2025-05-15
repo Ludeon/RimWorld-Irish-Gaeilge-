@@ -149,13 +149,13 @@
   <!-- EN: The final straw was: {0} -->
   <FinalStraw>Buille na tubaiste: {0}</FinalStraw>
   <!-- EN: This happened because of poor mood. -->
-  <MentalStateReason_Mood>Tharlá sin mar gheall ar ghiúmar íseal.</MentalStateReason_Mood>
+  <MentalStateReason_Mood>Tharlá seo mar gheall ar ghiúmar íseal.</MentalStateReason_Mood>
   <!-- EN: This happened because of the trait: {0}. -->
-  <MentalStateReason_Trait>Tharla sin mar gheall ar an tréith '{0}'.</MentalStateReason_Trait>
+  <MentalStateReason_Trait>Tharla seo mar gheall ar an tréith '{0}'.</MentalStateReason_Trait>
   <!-- EN: This happened because of: {0}. -->
-  <MentalStateReason_Hediff>Tharla sin mar gheall ar: {0}.</MentalStateReason_Hediff>
+  <MentalStateReason_Hediff>Tharla seo mar gheall ar: {0}.</MentalStateReason_Hediff>
   <!-- EN: This happened because of {0_definite}'s death. -->
-  <MentalStateReason_BondedHumanDeath>Tharla sin mar gheall ar bhás {0_definite}.</MentalStateReason_BondedHumanDeath>
+  <MentalStateReason_BondedHumanDeath>Tharla seo mar gheall ar bhás {0_definite}.</MentalStateReason_BondedHumanDeath>
   <!-- EN: The last event was -->
   <LastFactionRelationsEvent>An imeacht deireanach</LastFactionRelationsEvent>
 
