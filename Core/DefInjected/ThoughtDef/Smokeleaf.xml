@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: high on smokeleaf -->
-  <SmokeleafHigh.stages.high_on_smokeleaf.label>ar siabhrán: raithenach</SmokeleafHigh.stages.high_on_smokeleaf.label>
+  <SmokeleafHigh.stages.high_on_smokeleaf.label>ar siabhrán (raithenach)</SmokeleafHigh.stages.high_on_smokeleaf.label>
   <!-- EN: I'm, like, stoned, man. -->
   <SmokeleafHigh.stages.high_on_smokeleaf.description>Wú... Tá mé as mo mheabhair...</SmokeleafHigh.stages.high_on_smokeleaf.description>
   
   <!-- EN: smokeleaf withdrawal -->
-  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>éirí as: raithneach</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
+  <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>éirí as (raithneach)</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.label>
   <!-- EN: I really wish I could smoke. I feel jittery, and my gut has that anxious sensation all the time. -->
   <SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>Tá toitín raithní uaimh... Tá mé creathánach agus neirbhíseach...</SmokeleafWithdrawal.stages.smokeleaf_withdrawal.description>
   

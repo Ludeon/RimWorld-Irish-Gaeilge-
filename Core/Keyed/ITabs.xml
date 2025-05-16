@@ -61,39 +61,39 @@
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
-  <AddBill>Aufgabe hinzufügen</AddBill>
+  <AddBill>Bille nua</AddBill>
   <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
-  <RecipeRequiresSkills>Die Aufgabe '{0}' benötigt die unten genannten Fertigkeiten. Keiner deiner Kolonisten hat diese Fertigkeiten, also kann niemand diese Aufgabe erledigen.</RecipeRequiresSkills>
+  <RecipeRequiresSkills>Tá na scileanna thíos de dhíth chun '{0}' a dhéanamh. Níl na scileanna sin ag aon duine sa choilíneacht, mar sin ní dhéanfar an bille seo.</RecipeRequiresSkills>
   <!-- EN: Min skill -->
-  <MinimumSkill>Min. Fertigkeit</MinimumSkill>
+  <MinimumSkill>Scil íos.</MinimumSkill>
   <!-- EN: SUSPENDED -->
-  <SuspendedCaps>GESTOPPT</SuspendedCaps>
+  <SuspendedCaps>AR FIONRAÍ</SuspendedCaps>
   <!-- EN: Worker: {1_labelShort} -->
-  <BoundWorkerIs>Arbeiter: {1_labelShort}</BoundWorkerIs>
+  <BoundWorkerIs>Oibrí: {1_labelShort}</BoundWorkerIs>
   <!-- EN: Plant -->
-  <PlantVerb>Pflanzen</PlantVerb>
+  <PlantVerb>Cuir</PlantVerb>
   <!-- EN: Copied bill cannot be pasted here -->
-  <ClipboardBillNotAvailableHere>Kopierte Aufgabe kann hier nicht eingefügt werden</ClipboardBillNotAvailableHere>
+  <ClipboardBillNotAvailableHere>Ní féidir bille a chóipeáil anseo</ClipboardBillNotAvailableHere>
   <!-- EN: Move up -->
-  <ReorderBillUpTip>Aufwärts</ReorderBillUpTip>
+  <ReorderBillUpTip>Bog suas</ReorderBillUpTip>
   <!-- EN: Move down -->
-  <ReorderBillDownTip>Abwärts</ReorderBillDownTip>
+  <ReorderBillDownTip>Bog síos</ReorderBillDownTip>
   <!-- EN: Delete -->
-  <DeleteBillTip>Löschen</DeleteBillTip>
+  <DeleteBillTip>Scrios</DeleteBillTip>
   <!-- EN: Copy to the clipboard -->
-  <CopyBillTip>In Zwischenablage kopieren</CopyBillTip>
+  <CopyBillTip>Cóipeáil</CopyBillTip>
   <!-- EN: Suspend -->
-  <SuspendBillTip>Stoppen</SuspendBillTip>
+  <SuspendBillTip>Cuir ar fionraí</SuspendBillTip>
   <!-- EN: Paste -->
-  <PasteBillTip>Einfügen</PasteBillTip>
+  <PasteBillTip>Greamaigh</PasteBillTip>
   <!-- EN: can't add more -->
-  <PasteBillTip_LimitReached>keine weiteren möglich</PasteBillTip_LimitReached>
+  <PasteBillTip_LimitReached>ní féidir níos mó billí a chruthú</PasteBillTip_LimitReached>
   <!-- EN: Finishes in -->
-  <FinishesIn>Finishes in</FinishesIn>
+  <FinishesIn>Ag críochnú i gceann</FinishesIn>
 
   <!-- Guest/prisoner tab -->
   <!-- EN: Resistance -->
-  <RecruitmentResistance>Widerstand</RecruitmentResistance>
+  <RecruitmentResistance>TODO</RecruitmentResistance>
   <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
   <RecruitmentResistanceDesc>Wie stark ein Gefangener daran zweifelt, deiner Fraktion beizutreten. Wenn der Widerstand auf 0 ist, kann der Gefangene rekrutiert werden.</RecruitmentResistanceDesc>
   <!-- EN: {0} base resistance -->
@@ -222,9 +222,9 @@
   <!-- EN: Prevents infection -->
   <PreventsInfection>Cuireann seo bac ar ionfhabhtú</PreventsInfection>
   <!-- EN: Allow self-tend -->
-  <AllowSelfTend>Féinchneasú ceadaithe</AllowSelfTend>
+  <AllowSelfTend>Féinchóireáil</AllowSelfTend>
   <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
-  <AllowSelfTendTip>Má cheadaítear féinchneasú, cuirfidh daoine cóireáil leighis orthu féin ar an bpointe, ach ní bheidh an chóireáil chomh éifeachtúlacht.</AllowSelfTendTip>
+  <AllowSelfTendTip>Má cheadaítear féinchóireáil, cuirfidh daoine cóireáil leighis orthu féin ar an bpointe, ach ní bheidh an chóireáil chomh éifeachtach.</AllowSelfTendTip>
   <!-- EN: death in {0} -->
   <DeathIn>Bás i gceann: {0}</DeathIn>
   <!-- EN: Allow medicine -->

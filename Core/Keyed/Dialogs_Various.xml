@@ -943,11 +943,11 @@
   <!-- EN: Invalid policy name -->
   <InvalidName>Ní mór ainm ceart a thabhairt ar an bpolasaí</InvalidName>
   <!-- EN: Delete the selected policy. -->
-  <DeletePolicyTip>Scrios an polasaí roghnaithe.</DeletePolicyTip>
+  <DeletePolicyTip>Scrios an polasaí seo.</DeletePolicyTip>
   <!-- EN: Create a duplicate of the selected policy. -->
-  <DuplicatePolicyTip>Cruthaigh cóip den pholasaí roghnaithe.</DuplicatePolicyTip>
+  <DuplicatePolicyTip>Cruthaigh cóip den pholasaí seo.</DuplicatePolicyTip>
   <!-- EN: Rename this policy. -->
-  <RenamePolicyTip>Tabhair ainm nua ar an bpolasaí seo.</RenamePolicyTip>
+  <RenamePolicyTip>Cuir ainm nua ar an bpolasaí seo.</RenamePolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
   <DeletePolicyConfirm>An bhfuil tú cinnte go bhfuil tú ag iarraidh an polasaí "{0}" a scriosadh?</DeletePolicyConfirm>
   <!-- EN: Delete -->

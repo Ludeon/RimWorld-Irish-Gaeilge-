@@ -16,7 +16,7 @@
   <!-- EN: Summer -->
   <LetterLabelFirstSummerWarning>Samhradh</LetterLabelFirstSummerWarning>
   <!-- EN: Summer has begun! But winter is coming.\n\nYour food crops won't grow in the winter cold. Be sure to store enough food to survive. You can build a walk-in refrigerator to prevent food from spoiling.\n\nTo prepare for winter, buy, steal, or make some parkas, or you'll freeze when you step outside. -->
-  <FirstSummerWarning>Tá an samhradh tagtha! Tá an geimhreadh ag druidim linn, áfach.\n\nNí bheidh tú in ann bia a fhás le linn an gheimhridh. Is féidir leat reoteoir a thógáil chun bia a choinneáil.\n\nIs féidir leat éadaí té a dhéanamh freisin (nó iad a cheannach nó a ghoid) chun do choilínigh a choinneáil te.</FirstSummerWarning>
+  <FirstSummerWarning>Tá an samhradh tagtha! Tá an geimhreadh ag druidim linn, áfach.\n\nNí bheidh tú in ann bia a fhás le linn an gheimhridh. Is féidir leat reoiteoir a thógáil chun bia a choinneáil.\n\nIs féidir leat éadaí té a dhéanamh freisin (nó iad a cheannach nó a ghoid) chun do choilínigh a choinneáil te.</FirstSummerWarning>
 
   <!-- EN: Relations with {0} have broken down completely. They are now hostile to you. -->
   <LetterRelationsChange_Hostile>Tá do chaidreamh le {0} tar éis briseadh síos. Caithfidh siad go naimhdeach leat as seo amach.</LetterRelationsChange_Hostile>  
@@ -139,9 +139,9 @@
   <LetterLeadersDeath>Cailleadh {OLDLEADER_nameFull}, {1} {0}.</LetterLeadersDeath>
 
   <!-- EN: New {1}: {0} -->
-  <LetterLeaderChangedLabel>Ceannaire nua: {0}</LetterLeaderChangedLabel>
+  <LetterLeaderChangedLabel>{1} nua: {0}</LetterLeaderChangedLabel>
   <!-- EN: {OLDLEADER_nameFull} is no longer {1} of {0}. -->
-  <LetterLeaderChanged>Tá ceannaire nua ag {0}.</LetterLeaderChanged>
+  <LetterLeaderChanged>Tá {1} nua ag {0}.</LetterLeaderChanged>
 
   <!-- EN: The new {0} is {NEWLEADER_nameFull}. -->
   <LetterNewLeader>{NEWLEADER_nameFull} is ainm don cheannaire nua.</LetterNewLeader>

@@ -85,6 +85,7 @@
     <li>outlandersettlement->Muintir</li>
     <li>outlandersettlement->Complacht</li>
     <li>outlandersettlement->Gasra</li>
+    <li>outlandersettlement->Meitheal</li>
   </NamerFactionOutlander.rulePack.rulesStrings>
 
     <!-- EN:
@@ -175,6 +176,9 @@
     <li>tribalsettlement->Daoine</li>
     <li>tribalsettlement->Muintir</li>
     <li>tribalsettlement->Lucht</li>
+    <li>tribalsettlement->Dúchas</li>
+    <li>tribalsettlement->Craobh</li>
+    <li>tribalsettlement->Meitheal</li>
   </NamerFactionTribal.rulePack.rulesStrings>
 
   <!-- EN:

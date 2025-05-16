@@ -7,9 +7,9 @@
   <AncientCryptosleepCasket.description>Tá cuma ar an gcónra criptea-chodlata seo go bhfuil sé anseo le tamall fada. Cá bhfios céard atá istigh?</AncientCryptosleepCasket.description>
   
   <!-- EN: caravan hitching spot -->
-  <CaravanPackingSpot.label>láthair ceangailte carbhán</CaravanPackingSpot.label>
+  <CaravanPackingSpot.label>láthair carbháin</CaravanPackingSpot.label>
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
-  <CaravanPackingSpot.description>Cruthófar carbháin ag an spota seo. Ceanglóidh coilínigh ainmhithe anseo nuair atá carbhán á lódáil. Is féidir na spotaí seo a úsáid nuair atá tú i bhfad ón mbaile freisin, ionas nach rachaidh ainmhithe ar strae.</CaravanPackingSpot.description>
+  <CaravanPackingSpot.description>Cruthófar carbháin ag an spota seo. Ceanglóidh coilínigh ainmhithe anseo nuair atá carbhán á lódáil. Is féidir an spota seo a úsáid nuair atá tú i bhfad ón mbaile freisin, ionas nach rachaidh ainmhithe ar strae.</CaravanPackingSpot.description>
   
   <!-- EN: comms console -->
   <CommsConsole.label>consól cumarsáide</CommsConsole.label>

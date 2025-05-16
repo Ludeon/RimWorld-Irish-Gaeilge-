@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: bonded animal {0} died -->
-  <BondedAnimalDied.stages.bonded_animal_died.label>cailleadh an t-ainmhí {0}</BondedAnimalDied.stages.bonded_animal_died.label>
+  <BondedAnimalDied.stages.bonded_animal_died.label>cailleadh {0}</BondedAnimalDied.stages.bonded_animal_died.label>
   <!-- EN: Such a tender, unique animal. This universe is evil! -->
   <BondedAnimalDied.stages.bonded_animal_died.description>Cailleadh ainmhí soineanta. Tá an domhan seo cruálach.</BondedAnimalDied.stages.bonded_animal_died.description>
   
@@ -58,57 +58,57 @@
   <KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>Cailleadh príosúnach, cé go raibh sé neamhchiontach. Ba cheart go mbeimid in ann aire a thabairt dár bpríosúnaigh. Dá mbeadh muid ag iarraidh iad a mharú, d'fhéadfadh muid iad a chur chun báis mar is ceart.</KnowPrisonerDiedInnocent.stages.innocent_prisoner_died.description>
   
   <!-- EN: my aunt {0} died -->
-  <MyAuntDied.stages.my_aunt_died.label>cailleadh m'aintin {0}</MyAuntDied.stages.my_aunt_died.label>
+  <MyAuntDied.stages.my_aunt_died.label>cailleadh m'aintin, {0}</MyAuntDied.stages.my_aunt_died.label>
   <!-- EN: My aunt died. -->
   <MyAuntDied.stages.my_aunt_died.description>Cailleadh m'aintin.</MyAuntDied.stages.my_aunt_died.description>
   
   <!-- EN: my brother {0} died -->
-  <MyBrotherDied.stages.my_brother_died.label>cailleadh mo dhearthair {0}</MyBrotherDied.stages.my_brother_died.label>
+  <MyBrotherDied.stages.my_brother_died.label>cailleadh mo dhearthair, {0}</MyBrotherDied.stages.my_brother_died.label>
   <!-- EN: My brother died. My own flesh and blood... -->
   <MyBrotherDied.stages.my_brother_died.description>Cailleadh mo dhearthair. Duine de mo mhuintir féin.</MyBrotherDied.stages.my_brother_died.description>
   
   <!-- EN: my cousin {0} died -->
-  <MyCousinDied.stages.my_cousin_died.label>cailleadh mo chol ceathrar {0}</MyCousinDied.stages.my_cousin_died.label>
+  <MyCousinDied.stages.my_cousin_died.label>cailleadh mo chol ceathrar, {0}</MyCousinDied.stages.my_cousin_died.label>
   <!-- EN: My cousin died. My own flesh and blood... -->
   <MyCousinDied.stages.my_cousin_died.description>Cailleadh mo chol cheathrar. Duine de mo mhuintir féin.</MyCousinDied.stages.my_cousin_died.description>
   
   <!-- EN: my daughter {0} died -->
-  <MyDaughterDied.stages.my_daughter_died.label>cailleadh m'iníon {0}</MyDaughterDied.stages.my_daughter_died.label>
+  <MyDaughterDied.stages.my_daughter_died.label>cailleadh m'iníon, {0}</MyDaughterDied.stages.my_daughter_died.label>
   <!-- EN: My daughter is dead. My own flesh and blood... -->
   <MyDaughterDied.stages.my_daughter_died.description>Cailleadh m'iníon. Duine de mo mhuintir féin.</MyDaughterDied.stages.my_daughter_died.description>
   
   <!-- EN: my father {0} died -->
-  <MyFatherDied.stages.my_father_died.label>cailleadh m'athair {0}</MyFatherDied.stages.my_father_died.label>
+  <MyFatherDied.stages.my_father_died.label>cailleadh m'athair, {0}</MyFatherDied.stages.my_father_died.label>
   <!-- EN: My father died. He's gone forever. -->
   <MyFatherDied.stages.my_father_died.description>Cailleadh m'athair. Duine de mo mhuintir féin.</MyFatherDied.stages.my_father_died.description>
   
   <!-- EN: my fiance {0} died -->
-  <MyFianceDied.stages.my_fiance_died.label>cailleadh mo fiancé {0}</MyFianceDied.stages.my_fiance_died.label>
+  <MyFianceDied.stages.my_fiance_died.label>cailleadh mo fiancé, {0}</MyFianceDied.stages.my_fiance_died.label>
   <!-- EN: My fiance died. Such a man... my future is gone. -->
   <MyFianceDied.stages.my_fiance_died.description>Cailleadh mo fiancé. A leithéid d'fhear... is gruama an todhchaí atá i ndán dom anois...</MyFianceDied.stages.my_fiance_died.description>
   
   <!-- EN: my fiancée {0} died -->
-  <MyFianceeDied.stages.my_fiance_died.label>cailleadh mó fiancé {0}</MyFianceeDied.stages.my_fiance_died.label>
+  <MyFianceeDied.stages.my_fiance_died.label>cailleadh mó fiancé, {0}</MyFianceeDied.stages.my_fiance_died.label>
   <!-- EN: My fiancée died. Such a woman... my future is gone. -->
   <MyFianceeDied.stages.my_fiance_died.description>Cailleadh mo fiancé. A leithéid de bhean... is gruama an todhchaí atá i ndán dom anois...</MyFianceeDied.stages.my_fiance_died.description>
   
   <!-- EN: my grandchild {0} died -->
-  <MyGrandchildDied.stages.my_grandchild_died.label>cailleadh mo gharpháiste {0}</MyGrandchildDied.stages.my_grandchild_died.label>
+  <MyGrandchildDied.stages.my_grandchild_died.label>cailleadh mo gharpháiste, {0}</MyGrandchildDied.stages.my_grandchild_died.label>
   <!-- EN: My grandchild died. My own flesh and blood... -->
   <MyGrandchildDied.stages.my_grandchild_died.description>Cailleadh mo gharpháiste. Duine de mo mhuintir féin.</MyGrandchildDied.stages.my_grandchild_died.description>
   
   <!-- EN: my grandparent {0} died -->
-  <MyGrandparentDied.stages.my_grandparent_died.label>cailleadh mo sheantuismitheoir {0}</MyGrandparentDied.stages.my_grandparent_died.label>
+  <MyGrandparentDied.stages.my_grandparent_died.label>cailleadh mo sheantuismitheoir, {0}</MyGrandparentDied.stages.my_grandparent_died.label>
   <!-- EN: My grandparent died. -->
   <MyGrandparentDied.stages.my_grandparent_died.description>Cailleadh mo sheantuismitheoir.</MyGrandparentDied.stages.my_grandparent_died.description>
   
   <!-- EN: my half-sibling {0} died -->
-  <MyHalfSiblingDied.stages.my_halfsibling_died.label>caileadh mo leathshiblín {0}</MyHalfSiblingDied.stages.my_halfsibling_died.label>
+  <MyHalfSiblingDied.stages.my_halfsibling_died.label>caileadh mo leathshiblín, {0}</MyHalfSiblingDied.stages.my_halfsibling_died.label>
   <!-- EN: My half-sibling died. My own flesh and blood... -->
   <MyHalfSiblingDied.stages.my_halfsibling_died.description>Cailleadh mo leathshiblín. Duine de mo mhuintir féin.</MyHalfSiblingDied.stages.my_halfsibling_died.description>
   
   <!-- EN: my husband {0} died -->
-  <MyHusbandDied.stages.my_husband_died.label>cailleadh m'fhear chéile {0}</MyHusbandDied.stages.my_husband_died.label>
+  <MyHusbandDied.stages.my_husband_died.label>cailleadh m'fhear chéile, {0}</MyHusbandDied.stages.my_husband_died.label>
   <!-- EN: My husband is dead. I am alone. -->
   <MyHusbandDied.stages.my_husband_died.description>Cailleadh m'fhear chéile. Tá mé i m'aonar sa domhan seo.</MyHusbandDied.stages.my_husband_died.description>
   

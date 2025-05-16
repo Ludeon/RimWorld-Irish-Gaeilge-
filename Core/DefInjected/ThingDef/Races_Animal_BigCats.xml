@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: cougar -->
-  <Cougar.label>TODO</Cougar.label>
+  <Cougar.label>púma</Cougar.label>
   <!-- EN: One of the most dangerous big cats, cougars are solitary hunters with long, sharp teeth and claws. They stalk prey from hidden positions before pouncing.\n\nWhile humans are not their normal diet, they won't turn down a meal of vulnerable human meat. -->
-  <Cougar.description>TODO</Cougar.description>
+  <Cougar.description>Tá an cat mór seo thar a beith dáinséarach. Is sealgairí den scoth iad, agus féadfaidh siad daoine a mharú gan stró.\n\nNí itheann siad daoine de ghnáth, ach amháin má bhíonn siad stiúgtha leis an ocras.</Cougar.description>
   <!-- EN: left claw -->
-  <Cougar.tools.left_claw.label>TODO</Cougar.tools.left_claw.label>
+  <Cougar.tools.left_claw.label>crúb chlé</Cougar.tools.left_claw.label>
   <!-- EN: claw -->
-  <Cougar.tools.left_claw.labelNoLocation>TODO</Cougar.tools.left_claw.labelNoLocation>
+  <Cougar.tools.left_claw.labelNoLocation>crúb</Cougar.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Cougar.tools.right_claw.label>TODO</Cougar.tools.right_claw.label>
+  <Cougar.tools.right_claw.label>crúb dheas</Cougar.tools.right_claw.label>
   <!-- EN: claw -->
-  <Cougar.tools.right_claw.labelNoLocation>TODO</Cougar.tools.right_claw.labelNoLocation>
+  <Cougar.tools.right_claw.labelNoLocation>crúb</Cougar.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Cougar.tools.head.label>TODO</Cougar.tools.head.label>
+  <Cougar.tools.head.label>ceann</Cougar.tools.head.label>
   
   <!-- EN: lynx -->
-  <Lynx.label>TODO</Lynx.label>
+  <Lynx.label>lincse</Lynx.label>
   <!-- EN: A wildcat larger than a housecat, but smaller than a cougar. Lynxes survive on a diet of small birds and animals. Their very warm fur keeps them safe from the brutally cold temperatures of their frozen territories. -->
-  <Lynx.description>TODO</Lynx.description>
+  <Lynx.description>Tá an cat seo sach mór, ach níl sé chomh mór le puma. Itheann an lincse ainmhithe beaga agus éin. Tá fionnadh tiubh orthu, a thugann cosaint dóibh ón aimsir fhuar ina chónaíonn siad.</Lynx.description>
   <!-- EN: left claw -->
-  <Lynx.tools.left_claw.label>TODO</Lynx.tools.left_claw.label>
+  <Lynx.tools.left_claw.label>crúb chlé</Lynx.tools.left_claw.label>
   <!-- EN: claw -->
-  <Lynx.tools.left_claw.labelNoLocation>TODO</Lynx.tools.left_claw.labelNoLocation>
+  <Lynx.tools.left_claw.labelNoLocation>crúb</Lynx.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Lynx.tools.right_claw.label>TODO</Lynx.tools.right_claw.label>
+  <Lynx.tools.right_claw.label>crúb dheas</Lynx.tools.right_claw.label>
   <!-- EN: claw -->
-  <Lynx.tools.right_claw.labelNoLocation>TODO</Lynx.tools.right_claw.labelNoLocation>
+  <Lynx.tools.right_claw.labelNoLocation>crúb</Lynx.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Lynx.tools.head.label>TODO</Lynx.tools.head.label>
+  <Lynx.tools.head.label>ceann</Lynx.tools.head.label>
   
   <!-- EN: panther -->
-  <Panther.label>TODO</Panther.label>
+  <Panther.label>pantar</Panther.label>
   <!-- EN: An agile and powerful big cat native to the jungles of old Earth. As solitary ambush predators, panthers are masters of taking down both large and small prey. Onlookers tend to focus on their graceful movements, while those in closer contact usually notice their skull-crushing strength. -->
-  <Panther.description>TODO</Panther.description>
+  <Panther.description>Tá an cat ollmhór seo thar a bheith cumhachtach, agus síolraíonn siad as an Seandhomhan. Maraíonn siad ainmhithe beag agus móra araon.</Panther.description>
   <!-- EN: left claw -->
-  <Panther.tools.left_claw.label>TODO</Panther.tools.left_claw.label>
+  <Panther.tools.left_claw.label>crúb chlé</Panther.tools.left_claw.label>
   <!-- EN: claw -->
-  <Panther.tools.left_claw.labelNoLocation>TODO</Panther.tools.left_claw.labelNoLocation>
+  <Panther.tools.left_claw.labelNoLocation>crúb</Panther.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Panther.tools.right_claw.label>TODO</Panther.tools.right_claw.label>
+  <Panther.tools.right_claw.label>crúb dheas</Panther.tools.right_claw.label>
   <!-- EN: claw -->
-  <Panther.tools.right_claw.labelNoLocation>TODO</Panther.tools.right_claw.labelNoLocation>
+  <Panther.tools.right_claw.labelNoLocation>crúb</Panther.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Panther.tools.head.label>TODO</Panther.tools.head.label>
+  <Panther.tools.head.label>ceann</Panther.tools.head.label>
   
 </LanguageData>

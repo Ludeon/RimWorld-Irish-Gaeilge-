@@ -54,7 +54,7 @@
   <DesignatorMineDesc>Roghnaigh clocha atá le baint.</DesignatorMineDesc>
 
   <!-- EN: Mine vein -->
-  <DesignatorMineVein>TODO</DesignatorMineVein>
+  <DesignatorMineVein>Bain cloch</DesignatorMineVein>
   <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
   <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
 
@@ -194,7 +194,7 @@
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Scaoil saor</DesignatorReleaseAnimalToWild>
   <!-- EN: Release an animal back into the wild. -->
-  <DesignatorReleaseAnimalToWildDesc>Scaoil ainmhí ceansa saor.</DesignatorReleaseAnimalToWildDesc>
+  <DesignatorReleaseAnimalToWildDesc>Scaoil an t-ainmhí seo saor.</DesignatorReleaseAnimalToWildDesc>
 
   <!-- EN: Study -->
   <DesignatorStudy>Stáidéar</DesignatorStudy>

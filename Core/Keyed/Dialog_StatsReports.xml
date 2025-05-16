@@ -399,25 +399,25 @@
 
   <!-- Drugs -->
   <!-- EN: The active chemical in this.\n\nIn some cases, the same chemical is present in multiple different drugs. These different drugs will satisfy the same addiction in different ways. -->
-  <Stat_Thing_Drug_Chemical_Desc>Die aktive Chemikalie in dieser Droge.\n\nEs gibt mehrere Arten von Drogen, die dieselbe Chemikalie enthalten. Sie befriedigen die gleiche Sucht auf unterschiedliche Weise.</Stat_Thing_Drug_Chemical_Desc>
+  <Stat_Thing_Drug_Chemical_Desc>An ceimiceán gníomhach sa druga seo.\n\nI gcásanna áirithe, bíonn an ceimiceán céanna ar fáil i ndrugaí éagsúla. Sásóidh na drugaí sin mianta daoine andhúilmhara ar bhealaí éagúla.</Stat_Thing_Drug_Chemical_Desc>
   <!-- EN: The category this drug belongs to. -->
-  <Stat_Thing_Drug_Category_Desc>Die Kategorie dieser Drogen.</Stat_Thing_Drug_Category_Desc>
+  <Stat_Thing_Drug_Category_Desc>An catagóir lena mbaineann an druga seo.</Stat_Thing_Drug_Category_Desc>
   <!-- EN: The intensity of high gained per dose of this drug. -->
-  <Stat_Thing_Drug_HighGainPerDose_Desc>Die Intensität des Rausches nach Einnahme einer Dosis von dieser Droge.</Stat_Thing_Drug_HighGainPerDose_Desc>
+  <Stat_Thing_Drug_HighGainPerDose_Desc>Láidreacht an tsiabhráin a fhaightear ón druga seo.</Stat_Thing_Drug_HighGainPerDose_Desc>
   <!-- EN: How much this drug's high will decay each day. -->
-  <Stat_Thing_Drug_HighFallPerDay_Desc>Wie stark der Rausch dieser Droge pro Tag abnimmt.</Stat_Thing_Drug_HighFallPerDay_Desc>
+  <Stat_Thing_Drug_HighFallPerDay_Desc>An ráta ar a laghdóidh an siabhrán ón druga seo gach lá.</Stat_Thing_Drug_HighFallPerDay_Desc>
   <!-- EN: How long this drug's high will last per dose.\n\nThis is calculated from the high gained per dose and the high fall rate. -->
-  <Stat_Thing_Drug_HighDurationPerDose_Desc>Wie lange der Rausch dieser Droge pro Dosis anhält.\n\nDieser Wert errechnet sich aus dem Rauschgewinn pro Dosis und der Rauschrückgangsrate.</Stat_Thing_Drug_HighDurationPerDose_Desc>
+  <Stat_Thing_Drug_HighDurationPerDose_Desc>An t-am a mhairfidh an siabhrán ón druga seo.</Stat_Thing_Drug_HighDurationPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will increase for each dose of this drug.\n\nThis can be different for different forms of the same chemical. -->
-  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>Wie stark die Toleranz eines Konsumenten gegenüber der Chemikalie pro Dosis dieser Droge zunimmt.\n\nDieser Wert kann für verschiedene Formen derselben Chemikalie unterschiedlich hoch sein.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
+  <Stat_Thing_Drug_ToleranceGainPerDose_Desc>An ráta ar a ardóidh seasmhacht fulaingt an úsáideora gach uair a úsáidtear an druga seo.\n\nBíonn rátaí fulaingthe éagsúla i gceist le foirmeacha éagsúla den cheimiceán céanna.</Stat_Thing_Drug_ToleranceGainPerDose_Desc>
   <!-- EN: How much a user's tolerance to the chemical will fall per day. -->
-  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>Wie stark die Toleranz eines Konsumenten gegenüber der Chemikalie pro Tag abnimmt.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
+  <Stat_Thing_Drug_ToleranceFallPerDay_Desc>An ráta ar a laghdóigh fulaingt an úsáideora in aghaidh an lae.</Stat_Thing_Drug_ToleranceFallPerDay_Desc>
   <!-- EN: The minimum tolerance required to become newly addicted to this drug.\n\nIf a user is below this tolerance level, they can't become newly addicted from taking a dose. -->
-  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>Die minimale Toleranz, die erforderlich ist, um erneut von dieser Droge süchtig zu werden.\n\nWenn ein Konsument unter dieser Toleranzgrenze liegt, kann er nach Einnahme einer Dosis nicht erneut süchtig werden.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
+  <Stat_Thing_Drug_MinToleranceForAddiction_Desc>An fhulaingt íosta atá de dhíth sula mbeidh an t-úsáideoir tugtha don druga seo.\n\nMá tá fulaingt an úsáideoira faoin luach seo, ní bheidh siad tugtha don druga.</Stat_Thing_Drug_MinToleranceForAddiction_Desc>
   <!-- EN: An adult will only become addicted if they take the drug more often than this.\n\nThis is calculated from the drug's minimum tolerance to addict, the tolerance gain per dose, and the rate of tolerance decay. Some drugs don't have a safe interval. Such drugs can addict on any dose, even the first one.\n\nNote that the safe dose interval depends on a person's body size. -->
-  <Stat_Thing_Drug_SafeDoseInterval_Desc>Ein Erwachsener wird nur süchtig, wenn er die Droge öfter als wie hier angegeben einnimmt.\n\nDieser Wert errechnet sich aus der Mindesttoleranz für neue Sucht, dem Toleranzanstieg pro Dosis und der Toleranzrückgangsrate. Einige Drogen haben kein sicheres Intervall. Solche Drogen können bereits nach der ersten Dosis süchtig machen.\n\nBeachte, dass das sichere Dosisintervall von der Körpergröße abhängt.</Stat_Thing_Drug_SafeDoseInterval_Desc>
+  <Stat_Thing_Drug_SafeDoseInterval_Desc>Ní thiocfaidh andúil ar an úsáideoir ach amháin má thógann siad an druga níos minice ná seo.\n\nTá roinnt drugaí ann nach mbíonn idirlinn shábháilte i gceist leo. Is féidir andúil a fháil i ndrugaí den sót sin le haon dáileog amháin.\n\nBraitheann an idirlinn shábháilte ar an duine.</Stat_Thing_Drug_SafeDoseInterval_Desc>
   <!-- EN: The chance of a random overdose when taking this drug. Random overdoses can happen on any dose, whether it's a new user's first try or an experienced addict's hundredth hit. -->
-  <Stat_Thing_Drug_RandomODChance_Desc>Die Chance einer zufälligen Überdosierung nach Einnahme dieser Droge. Zufällige Überdosierungen können bei jeder Dosis auftreten, egal wie oft diese Droge bereits eingenommen wurde.</Stat_Thing_Drug_RandomODChance_Desc>
+  <Stat_Thing_Drug_RandomODChance_Desc>An dóchúlacht go dtarlóidh ródáileaog ranamach nuair a úsáidtear an druga seo. Is féidir le ródáileoga randamacha tarlú in am ar bith.</Stat_Thing_Drug_RandomODChance_Desc>
   <!-- EN: The chance of addiction per dose of this drug.\n\nIf the drug has a minimum tolerance to addict, the tolerance must be above that level for this to apply. If there is no minimum tolerance, any dose can cause an addiction. -->
   <Stat_Thing_Drug_Addictiveness_Desc>Die Chance, dass eine Dosis dieser Droge süchtig macht.\n\nHat die Droge eine Mindesttoleranz für neue Sucht, wird man nur süchtig, wenn die Toleranz über diesem Wert liegt. Wenn es keine Mindesttoleranz gibt, kann jede Dosis eine Sucht verursachen.</Stat_Thing_Drug_Addictiveness_Desc>
   <!-- EN: New addictions caused by this drug begin at this severity level.\n\nTaking more of the drug will increase addiction severity, while time will reduce it. -->
@@ -436,60 +436,60 @@
   <Stat_Thing_Drug_AddictionCost_Desc>Der Marktwert von Drogen, die pro Tag konsumiert werden müssen, um eine Sucht dieser Droge zu finanzieren, ohne in den Entzug zu gehen.\n\nDieser Wert errechnet sich aus der Suchtbefriedigung pro Dosis, der Suchtrückgangsrate und dem Marktwert dieser Droge.\n\nBeachte, dass die Droge auch auf anderen Wegen - vielleicht sogar billiger - beschafft werden kann.</Stat_Thing_Drug_AddictionCost_Desc>
 
   <!-- EN: Style -->
-  <Stat_Thing_StyleLabel>Stil</Stat_Thing_StyleLabel>
+  <Stat_Thing_StyleLabel>Stíl</Stat_Thing_StyleLabel>
   <!-- EN: An object's style determines its appearance. This has no gameplay effect. Styles often form the differing methods of construction used by people of different beliefs and cultures. -->
-  <Stat_Thing_StyleDesc>Der Stil eines Objekts bestimmt sein Aussehen. Die Spielmechanik ist davon nicht betroffen. Stile ergeben sich oft aus den unterschiedlichen Bauweisen, die von Menschen mit verschiedenen Glaubensrichtungen und Kulturen verwendet werden.</Stat_Thing_StyleDesc>
+  <Stat_Thing_StyleDesc>Bíonn tionchar ag stíl ar an gcuma a bhíonn ar rud. Ní bhíonn aon éifeacht ag stíl ar an gcluiche, ach bíonn stíleanna éagsúla in úsáid ag creidimh agus cultúir éagsúla.</Stat_Thing_StyleDesc>
 
   <!-- EN: Gestation time -->
-  <Stat_Animal_GestationTime>Entwicklungszeit</Stat_Animal_GestationTime>
+  <Stat_Animal_GestationTime>Tréimhse iompair</Stat_Animal_GestationTime>
   <!-- EN: The time this species takes to gestate its offspring or eggs. -->
-  <Stat_Animal_GestationTimeDesc>Die Zeit, die diese Spezies benötigt, um ihren Nachwuchs in ihrem Körper oder in ihren Eiern heranreifen zu lassen.</Stat_Animal_GestationTimeDesc>
+  <Stat_Animal_GestationTimeDesc>An tréimhse a thógann sé ar an speiceas seo leanaí a iompar nó uibheacha a bhreith.</Stat_Animal_GestationTimeDesc>
   <!-- EN: Litter size -->
-  <Stat_Animal_LitterSize>Wurfgröße</Stat_Animal_LitterSize>
+  <Stat_Animal_LitterSize>Ál</Stat_Animal_LitterSize>
   <!-- EN: The number of offspring this creature creates per litter. If this is a range, any specific litter will have a random number of offspring in this range. -->
-  <Stat_Animal_LitterSizeDesc>Die Anzahl der Nachkommen, die diese Kreatur pro Wurf produziert. Handelt es sich um einen Wertebereich, variiert die Anzahl der Nachkommen.</Stat_Animal_LitterSizeDesc>
+  <Stat_Animal_LitterSizeDesc>An líon óga a bheidh ag an gcréatúr seo i ngach ál. Má tá raon i gceist anseo, beidh líon randamach ainmhithe san ál.</Stat_Animal_LitterSizeDesc>
   <!-- EN: Adult meat amount -->
-  <Stat_Animal_AdultMeatAmount>Fleischmenge (Erwachsen)</Stat_Animal_AdultMeatAmount>
+  <Stat_Animal_AdultMeatAmount>Feoil (Fásta)</Stat_Animal_AdultMeatAmount>
   <!-- EN: The base amount of meat yielded by butchering an adult member of this species. The actual yield is affected by other factors such as damage to the body and butcher skill. -->
-  <Stat_Animal_AdultMeatAmountDesc>Die Grundmenge an Fleisch, die beim Schlachten eines erwachsenen Exemplars dieser Spezies anfällt. Die tatsächliche Ausbeute wird noch von anderen Faktoren beeinflusst, wie z. B. der Beschädigung des Körpers und dem Geschick des Schlachters.</Stat_Animal_AdultMeatAmountDesc>
+  <Stat_Animal_AdultMeatAmountDesc>An fheoil ar féidir a bhaint ó ainmhí fásta den speiceas seo. Bíonn tionchar ar rudaí eile ar an líon deireanach, amhail damáiste a ndearnadh don ainmhí agus an scil búistéireachta.</Stat_Animal_AdultMeatAmountDesc>
   <!-- EN: Growth time -->
-  <Stat_Animal_GrowthTime>Wachstumszeit</Stat_Animal_GrowthTime>
+  <Stat_Animal_GrowthTime>Fás</Stat_Animal_GrowthTime>
   <!-- EN: How long it normally takes for this creature to reach adulthood. This time will be longer if the creature starves. -->
-  <Stat_Animal_GrowthTimeDesc>Wie lange es üblicherweise dauert, bis diese Kreatur ausgewachsen ist. Diese Zeit verlängert sich, wenn die Kreatur hungert.</Stat_Animal_GrowthTimeDesc>
+  <Stat_Animal_GrowthTimeDesc>An t-am a thógann sé ar an ainmhí seo fás. Fásann ainmhithe níos moille má bhíonn ocras orthu.</Stat_Animal_GrowthTimeDesc>
   <!-- EN: Meat per day during growth -->
-  <Stat_Animal_MeatPerDayDuringGrowth>Fleisch pro Tag während Wachstum</Stat_Animal_MeatPerDayDuringGrowth>
+  <Stat_Animal_MeatPerDayDuringGrowth>Feoil in aghaidh an lae</Stat_Animal_MeatPerDayDuringGrowth>
   <!-- EN: This creature gains this amount of meat for each day it grows, up until it reaches adulthood.\n\nThis value is calculated from the meat amount and growth time. -->
-  <Stat_Animal_MeatPerDayDuringGrowthDesc>Die Menge an Fleisch, die diese Kreatur pro Tag hinzugewinnt, während sie wächst, bis sie ausgewachsen ist.\n\nDieser Wert errechnet sich aus der Fleischmenge und der Wachstumszeit.</Stat_Animal_MeatPerDayDuringGrowthDesc>
+  <Stat_Animal_MeatPerDayDuringGrowthDesc>Is ionann an luach seo agus an fheoil bhreise a bheidh ar fáil ón ainmhí gach lá, agus é ag fás.</Stat_Animal_MeatPerDayDuringGrowthDesc>
   <!-- EN: Grass to maintain -->
-  <Stat_Animal_GrassToMaintain>Grasbedarf</Stat_Animal_GrassToMaintain>
+  <Stat_Animal_GrassToMaintain>Féar atá de dhíth</Stat_Animal_GrassToMaintain>
   <!-- EN: The typical number of grass plants that this creature needs in order to fulfill its dietary needs. This is based on normal grass at typical growth rates and ignores winter. -->
-  <Stat_Animal_GrassToMaintainDesc>Die typische Menge an Graspflanzen, die diese Kreatur benötigt, um ihren Nahrungsbedarf zu decken. Die Berechnung basiert auf normalem Gras bei typischen Wachstumsraten und ignoriert den Winter.</Stat_Animal_GrassToMaintainDesc>
+  <Stat_Animal_GrassToMaintainDesc>An líon féir atá de dhíth ón ainmhí seo le hithe gach lá. Tá an luach seo bunaithe ar an bhféar a bhíonn ar fáil le linn an tséasúir fáis, agus ní chuirtear an geimhreadh san áireamh.</Stat_Animal_GrassToMaintainDesc>
   <!-- EN: Egg type -->
-  <Stat_Animal_EggType>Ei-Typ</Stat_Animal_EggType>
+  <Stat_Animal_EggType>Cineál uibhe</Stat_Animal_EggType>
   <!-- EN: The type of egg this creature lays. -->
-  <Stat_Animal_EggTypeDesc>Welches Ei diese Kreatur legt.</Stat_Animal_EggTypeDesc>
+  <Stat_Animal_EggTypeDesc>An cineál uibhe a bhreitheann an t-ainmhí seo.</Stat_Animal_EggTypeDesc>
   <!-- EN: Eggs per year -->
-  <Stat_Animal_EggsPerYear>Eier pro Jahr</Stat_Animal_EggsPerYear>
+  <Stat_Animal_EggsPerYear>Uibheacha in aghaidh na bliana</Stat_Animal_EggsPerYear>
   <!-- EN: The number of eggs this creature will lay per year. Some creatures need to be fertilized to lay eggs. Egg laying will be slower if the creature starves. -->
-  <Stat_Animal_EggsPerYearDesc>Die Anzahl der Eier, die diese Kreatur pro Jahr legt. Einige Kreaturen müssen befruchtet werden, um Eier zu legen. Die Eiablage verzögert sich, wenn die Kreatur hungert.</Stat_Animal_EggsPerYearDesc>
+  <Stat_Animal_EggsPerYearDesc>An líon uibheacha a bhreithfidh an t-ainmhí seo chuile bliain. Ní bhreithfidh ainmhithe áirithe uibheacha mura bhfuil siad toirchithe. Beidh líon na n-ubh níos ísle má tá ocras ar an ainmhí.</Stat_Animal_EggsPerYearDesc>
   <!-- EN: Egg nutrition -->
-  <Stat_Animal_EggNutrition>Ei-Nährwert</Stat_Animal_EggNutrition>
+  <Stat_Animal_EggNutrition>Cothú na n-ubh</Stat_Animal_EggNutrition>
   <!-- EN: The amount of nutrition in a single egg laid by this creature. -->
-  <Stat_Animal_EggNutritionDesc>Die Menge an Nährstoffen in einem Ei, das von dieser Kreatur gelegt wird.</Stat_Animal_EggNutritionDesc>
+  <Stat_Animal_EggNutritionDesc>An cothú atá ar fáil in ubh ón ainmhí seo.</Stat_Animal_EggNutritionDesc>
   <!-- EN: Egg nutrition per year -->
-  <Stat_Animal_EggNutritionYearly>Ei-Nährwert pro Jahr</Stat_Animal_EggNutritionYearly>
+  <Stat_Animal_EggNutritionYearly>Cothú na n-ubh (bliantúil)</Stat_Animal_EggNutritionYearly>
   <!-- EN: The amount of yearly nutrition generated by eggs laid by this creature each year.\n\nThis value is calculated from eggs per year and egg nutrition. -->
-  <Stat_Animal_EggNutritionYearlyDesc>Die Menge an Nährstoffen, die jährlich durch die von dieser Kreatur gelegten Eier generiert wird.\n\nDieser Wert errechnet sich aus der Eiermenge pro Jahr und dem Ei-Nährwert.</Stat_Animal_EggNutritionYearlyDesc>
+  <Stat_Animal_EggNutritionYearlyDesc>An cothú a bheidh ar fáil ó uibheacha an ainmhí seo in aon bhliain amháin.</Stat_Animal_EggNutritionYearlyDesc>
   <!-- EN: Egg market value -->
-  <Stat_Animal_EggMarketValue>Ei-Marktwert</Stat_Animal_EggMarketValue>
+  <Stat_Animal_EggMarketValue>Luach na n-ubh</Stat_Animal_EggMarketValue>
   <!-- EN: The market value of a single laid egg. -->
-  <Stat_Animal_EggMarketValueDesc>Der Marktwert eines gelegten Eies.</Stat_Animal_EggMarketValueDesc>
+  <Stat_Animal_EggMarketValueDesc>An praghas margaidh ar ubh aonair ón ainmhí seo.</Stat_Animal_EggMarketValueDesc>
   <!-- EN: Egg value per year -->
-  <Stat_Animal_EggMarketValueYearly>Ei-Wert pro Jahr</Stat_Animal_EggMarketValueYearly>
+  <Stat_Animal_EggMarketValueYearly>Luach na n-ubh (bliantúil)</Stat_Animal_EggMarketValueYearly>
   <!-- EN: The total value of eggs normally laid over the course of a year.\n\nThis is calculated from eggs per year and egg market value. -->
-  <Stat_Animal_EggMarketValueYearlyDesc>Der Gesamtwert von Eiern, die auf normale Weise im Laufe eines Jahres gelegt werden.\n\nDieser Wert errechnet sich aus der Eiermenge pro Jahr und dem Ei-Marktwert.</Stat_Animal_EggMarketValueYearlyDesc>
+  <Stat_Animal_EggMarketValueYearlyDesc>An luach a bheidh ar líon iomlán na n-ubh a bhreithfidh an t-ainmhí seo in aon bhliain amháin.</Stat_Animal_EggMarketValueYearlyDesc>
   <!-- EN: Milk type -->
-  <Stat_Animal_MilkType>Milchart</Stat_Animal_MilkType>
+  <Stat_Animal_MilkType>Cineál báinne</Stat_Animal_MilkType>
   <!-- EN: The type of milk this creature produces. -->
   <Stat_Animal_MilkTypeDesc>Die Art der Milch, die diese Kreatur produziert.</Stat_Animal_MilkTypeDesc>
   <!-- EN: Milk amount -->
@@ -538,17 +538,17 @@
   <Stat_Animal_WoolValuePerYearDesc>Der Marktwert der Wolle, die diese Kreatur in einem Jahr produziert.\n\nDieser Wert errechnet sich aus der Wollmenge pro Jahr und dem Wolle-Marktwert.</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
-  <Stat_Studiable_Desc>Inwieweit dieses Objekt bereits analysiert wurde.</Stat_Studiable_Desc>
+  <Stat_Studiable_Desc>An céatadán den staidéar iomlán atá déanta agat ar an rud seo.</Stat_Studiable_Desc>
 
   <!-- EN: Source -->
-  <Stat_Source_Label>Herkunft</Stat_Source_Label>
+  <Stat_Source_Label>Foinse</Stat_Source_Label>
   <!-- EN: This content came from the official expansion -->
-  <Stat_Source_OfficialExpansionReport>Dieser Inhalt stammt aus der offiziellen Erweiterung</Stat_Source_OfficialExpansionReport>
+  <Stat_Source_OfficialExpansionReport>Tháinig an t-ábhar seo ón gcluiche oifigiúil</Stat_Source_OfficialExpansionReport>
   <!-- EN: This content came from the mod -->
-  <Stat_Source_ModReport>Dieser Inhalt stammt aus der Mod</Stat_Source_ModReport>
+  <Stat_Source_ModReport>Tháinig an t-ábhar seo ón mod</Stat_Source_ModReport>
 
   <!-- EN: Contained book beauty -->
-  <ContainedBookBeauty>TODO</ContainedBookBeauty>
+  <ContainedBookBeauty>Áilleacht na leabhar</ContainedBookBeauty>
   <!-- EN: {0} hits -->
-  <Stat_TrapDamageHitCount>TODO</Stat_TrapDamageHitCount>
+  <Stat_TrapDamageHitCount>{0} buille</Stat_TrapDamageHitCount>
 </LanguageData>

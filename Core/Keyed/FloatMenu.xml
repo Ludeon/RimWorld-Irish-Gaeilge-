@@ -578,19 +578,19 @@
   <PrioritizeGeneric>
     Tabhair tús áite do '{1}' {replace: {0};
     "ag scaoileadh saor"-"a scaoileadh saor";
-    "ag tógáil dín"-"díon a thógáil";
-    "ag labhairt le"-"labhairt le";
-    "ag baint sneachta"-"sneachta a bhaint";
+    "ag tógáil dín"-"a thógáil";
+    "ag labhairt le"-"a chur faoi chaint";
+    "ag baint sneachta"-"a bhaint";
     "ag glanadh"-"a ghlanadh";
     "ag tógáil"-"a thógáil";
     "ag baint urlár"-"urlár a bhaint";
     "ag líomhadh"-"a líomhadh";
     "ag líonadh"-"a líonadh";
     "ag sriosadh"-"a scriosadh";
-    "ag tabhairt bia do"-"bia a thabhairt do";
+    "ag tabhairt bia do"-"a chothú";
     "ag tógáil chuig"-"a thabhairt chuig";
     "ag déanamh"-"a dhéanamh";
-    "ag déanamh búistéireacht ag"-"búistéireacht a dhéanamh ar";
+    "ag déanamh búistéireacht ag"-"a bhúistéireacht";
     "ag cócaireacht"-"a chócaráil";
     "ag créamadh"-"a chréamadh";
     "ag cruthú earraí ag"-"rudaí a chruthú";
@@ -605,7 +605,7 @@
     "i mbun ceardaíochta ag"-"earraí a chruthú";
     "ag tabhairt bia"-"bhia a thabhairt do";
     "ag tarrtháil"-"a tharrtháil";
-    "ag tabhairt aire do"-"aire a thabhairt do";
+    "ag tabhairt aire do"-"a chóireáil";
     "ag druileáil"-"a druileáil";
     "ag baint uibheacha"-"uibheacha a bhaint";
     "ag marú"-"a mharú";
@@ -625,7 +625,7 @@
     "i mbun mianadóireachta"-"a bhaint";
     "ag oscailt"-"a oscailt";
     "ag péinteáil"-"a phéinteáil";
-    "ag fáil cóireáil leighis ag"-"chóireáil leighis a fháil ag";
+    "ag fáil cóireáil leighis ag"-"a úsáid";
     "ag bisiú sa leaba ag"-"bisiú ag";
     "ag gearradh"-"a ghearradh";
     "ag cur"-"a chur";

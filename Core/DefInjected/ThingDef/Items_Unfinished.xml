@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: minified thing -->
-  <MinifiedThing.label>TODO</MinifiedThing.label>
+  <MinifiedThing.label>rud</MinifiedThing.label>
   
   <!-- EN: minified tree -->
-  <MinifiedTree.label>TODO</MinifiedTree.label>
+  <MinifiedTree.label>crann</MinifiedTree.label>
   
   <!-- EN: unfinished apparel -->
-  <UnfinishedApparel.label>Éadaí neamhchríochnaithe</UnfinishedApparel.label>
+  <UnfinishedApparel.label>éadach neamhchríochnaithe</UnfinishedApparel.label>
   <!-- EN: An unfinished piece of an apparel. -->
   <UnfinishedApparel.description>Éadaí neamhchríochnaithe de chineál éigean.</UnfinishedApparel.description>
   
   <!-- EN: unfinished simple armor -->
-  <UnfinishedArmor.label>Armúr neamhchríochnaithe</UnfinishedArmor.label>
+  <UnfinishedArmor.label>armúr neamhchríochnaithe</UnfinishedArmor.label>
   <!-- EN: An unfinished piece of simple armor. -->
   <UnfinishedArmor.description>Armúr neamhchríochnaithe de chineál éigean.</UnfinishedArmor.description>
   
   <!-- EN: unfinished belt -->
-  <UnfinishedBelt.label>Crios neamhchríochnaithe</UnfinishedBelt.label>
+  <UnfinishedBelt.label>crios neamhchríochnaithe</UnfinishedBelt.label>
   <!-- EN: An unfinished piece of a belt. -->
   <UnfinishedBelt.description>Crios neamhchríochnaithe de chineál éigean.</UnfinishedBelt.description>
   
   <!-- EN: unfinished component -->
-  <UnfinishedComponent.label>Comhpháirt neamhchríochnaithe</UnfinishedComponent.label>
+  <UnfinishedComponent.label>comhpháirt neamhchríochnaithe</UnfinishedComponent.label>
   <!-- EN: An unfinished component. -->
   <UnfinishedComponent.description>Comhpháirt neamhchríochnaithe de chineál éigean.</UnfinishedComponent.description>
   

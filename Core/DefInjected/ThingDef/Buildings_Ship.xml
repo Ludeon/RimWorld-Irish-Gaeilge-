@@ -4,7 +4,7 @@
   <!-- EN: ship structural beam -->
   <Ship_Beam.label>bíoma struchtúrach spásloinge</Ship_Beam.label>
   <!-- EN: A structural beam around which a starship can be constructed. Includes all the necessary conduits and transit pipes for communications, power, and materials transport. -->
-  <Ship_Beam.description>Bíoma struchtúrach ar féidir spáslong a thógáil timpeall air. Tá na leictreonaic agus píopaí ar fad atá ag teastáil le haghaidh cumarsáid agus cumhacht ionsuite ann.</Ship_Beam.description>
+  <Ship_Beam.description>Bíoma struchtúrach ar féidir spáslong a thógáil timpeall air. Tá na leictreonaic agus píopaí ar fad atá ag teastáil le haghaidh cumarsáide agus cumhachta ionsuite ann.</Ship_Beam.description>
   
   <!-- EN: ship computer core -->
   <Ship_ComputerCore.label>croí-chiorcad spásloinge</Ship_ComputerCore.label>

@@ -23,14 +23,14 @@
   <!-- EN: A great white bear adapted for frozen climates. Their thick blubber and fur keep them warm in winter.\n\nWhile their usual diet consists of fish and scavenged meat, the polar bear can also use its massive strength and deadly claws to kill live prey. They are startlingly quick for such lumbering creatures. -->
   <Bear_Polar.description>Béar ollmhór a chónaíonn in aeráidí artacha. Tá fionnadh tiubh air. Cé n-itheann sé iasc, caora agus mil de ghnáth, tá an t-ollbhéar in ann a neart ollmhór agus a chrúba marfacha a úsáid chun creach bheo a mharú. Tá sé thar a bheith gasta.</Bear_Polar.description>
   <!-- EN: left claw -->
-  <Bear_Polar.tools.left_claw.label>TODO</Bear_Polar.tools.left_claw.label>
+  <Bear_Polar.tools.left_claw.label>crúb chlé</Bear_Polar.tools.left_claw.label>
   <!-- EN: claw -->
-  <Bear_Polar.tools.left_claw.labelNoLocation>TODO</Bear_Polar.tools.left_claw.labelNoLocation>
+  <Bear_Polar.tools.left_claw.labelNoLocation>crúb</Bear_Polar.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Bear_Polar.tools.right_claw.label>TODO</Bear_Polar.tools.right_claw.label>
+  <Bear_Polar.tools.right_claw.label>crúb dheas</Bear_Polar.tools.right_claw.label>
   <!-- EN: claw -->
-  <Bear_Polar.tools.right_claw.labelNoLocation>TODO</Bear_Polar.tools.right_claw.labelNoLocation>
+  <Bear_Polar.tools.right_claw.labelNoLocation>crúb</Bear_Polar.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Bear_Polar.tools.head.label>TODO</Bear_Polar.tools.head.label>
+  <Bear_Polar.tools.head.label>ceann</Bear_Polar.tools.head.label>
   
 </LanguageData>

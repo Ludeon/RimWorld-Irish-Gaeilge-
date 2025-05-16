@@ -209,7 +209,7 @@
     <li>skillAdv(initiator_flesh==Mechanoid)->directly</li>
   -->
   <Combat_SkillIncludes.rulePack.rulesStrings>
-    <li>skillDescMelee->[using] [implement] [skillAdv]</li>
+    <li>skillDescMelee->[skillAdv] [using] [implement].</li>
     <li>using->ag baint úsáid as</li>
     <li>skillAdv(INITIATOR_skill<=3)->go mí-éifeachtach</li>
     <li>skillAdv(INITIATOR_skill<=3)->go neamhinniúil</li>

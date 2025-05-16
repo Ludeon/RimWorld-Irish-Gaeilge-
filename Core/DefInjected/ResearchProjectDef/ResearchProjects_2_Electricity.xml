@@ -44,7 +44,7 @@
   <!-- EN: biofuel refining -->
   <BiofuelRefining.label>gineadóir bithbhreosla</BiofuelRefining.label>
   <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
-  <BiofuelRefining.description>Tóg gineadóirí bithbhreosla chun ceimi-pheitreal a tháirgeadh ó acmhainní nádúrtha ar nós adhmad nó bia.</BiofuelRefining.description>
+  <BiofuelRefining.description>Tóg gineadóirí bithbhreosla chun ceimi-pheitreal a tháirgeadh as acmhainní nádúrtha ar nós adhmad nó bia.</BiofuelRefining.description>
   <!-- EN:
     <li>subject->biofuel</li>
     <li>subject_story->was trapped when a generation ship lost power. [ANYPAWN_pronoun] used [ANYPAWN_possessive] knowledge of refining to turn human remains into biofuel and restart the engines</li>
@@ -69,7 +69,7 @@
   <BlowbackOperation.generalRules.rulesStrings>TODO</BlowbackOperation.generalRules.rulesStrings>
   
   <!-- EN: advanced lights -->
-  <ColoredLights.label>soilse ardchumhachta</ColoredLights.label>
+  <ColoredLights.label>soilsiú</ColoredLights.label>
   <!-- EN: Build powerful outdoors lights. Additionally, customize the color of electric lights and reduce their power consumption by half. This does not affect sun lamps. -->
   <ColoredLights.description>Tóg soilse ardchumhachta ar féidir iad a úsáid lasmuigh. Chomh maith leis sin, beidh tú in ann dathanna soilse a athrú agus laghdófar an cumhacht a úsáideann soilse. Ní bhíonn aon éifeacht ag an taighde seo ar lampaí gréine.</ColoredLights.description>
   <!-- EN:
@@ -211,9 +211,9 @@
   <Hydroponics.generalRules.rulesStrings>TODO</Hydroponics.generalRules.rulesStrings>
   
   <!-- EN: IEDs -->
-  <IEDs.label>gaireas pléascach seiftithe</IEDs.label>
+  <IEDs.label>mianaigh talún</IEDs.label>
   <!-- EN: Build improvised traps from any kind of mortar shell. -->
-  <IEDs.description>Tóg gaireas pléascacha seiftithe as sliogáin éagsúla.</IEDs.description>
+  <IEDs.description>Tóg mianaigh talún as sliogáin éagsúla.</IEDs.description>
   <!-- EN:
     <li>subject->improvised explosive traps</li>
     <li>subject_story->disarmed the leftover shells of the war, sending them onto the new frontline as mines</li>

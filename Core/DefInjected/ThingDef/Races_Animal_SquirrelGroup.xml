@@ -6,45 +6,45 @@
   <!-- EN: Either by deliberate genetic weaponization, or as an unusual defense mechanism, these rodent-like creatures create a powerful fire-starting explosion when killed. -->
   <Boomrat.description>Pléascann na créatúir bheaga seo nuair a mharaítear iad. Ní fios ar tháinig an cumas sin ón éabhlóid nó ón innealltóireacht ghéiniteach.</Boomrat.description>
   <!-- EN: left claw -->
-  <Boomrat.tools.left_claw.label>TODO</Boomrat.tools.left_claw.label>
+  <Boomrat.tools.left_claw.label>crúb chlé</Boomrat.tools.left_claw.label>
   <!-- EN: claw -->
-  <Boomrat.tools.left_claw.labelNoLocation>TODO</Boomrat.tools.left_claw.labelNoLocation>
+  <Boomrat.tools.left_claw.labelNoLocation>crúb</Boomrat.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Boomrat.tools.right_claw.label>TODO</Boomrat.tools.right_claw.label>
+  <Boomrat.tools.right_claw.label>crúb dheas</Boomrat.tools.right_claw.label>
   <!-- EN: claw -->
-  <Boomrat.tools.right_claw.labelNoLocation>TODO</Boomrat.tools.right_claw.labelNoLocation>
+  <Boomrat.tools.right_claw.labelNoLocation>crúb</Boomrat.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Boomrat.tools.head.label>TODO</Boomrat.tools.head.label>
+  <Boomrat.tools.head.label>ceann</Boomrat.tools.head.label>
   
   <!-- EN: iguana -->
-  <Iguana.label>TODO</Iguana.label>
+  <Iguana.label>ioguána</Iguana.label>
   <!-- EN: These large lizards normally feed on plant matter. However, when angered, their tough hide and sharp claws make them quite dangerous.\n\nResting iguanas hold their heads high, giving them an amusing 'proud' look. But they're not proud; they're just trying to see predators so they don't get eaten. -->
-  <Iguana.description>TODO</Iguana.description>
+  <Iguana.description>Itheann na laghairtí móra seo plandaí. Tá crúba móra orthú, áfach, agus bíonn siad dáinséarach má chuirtear fearg orthu.</Iguana.description>
   <!-- EN: left claw -->
-  <Iguana.tools.left_claw.label>TODO</Iguana.tools.left_claw.label>
+  <Iguana.tools.left_claw.label>crúb chlé</Iguana.tools.left_claw.label>
   <!-- EN: claw -->
-  <Iguana.tools.left_claw.labelNoLocation>TODO</Iguana.tools.left_claw.labelNoLocation>
+  <Iguana.tools.left_claw.labelNoLocation>crúb</Iguana.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Iguana.tools.right_claw.label>TODO</Iguana.tools.right_claw.label>
+  <Iguana.tools.right_claw.label>crúb dheas</Iguana.tools.right_claw.label>
   <!-- EN: claw -->
-  <Iguana.tools.right_claw.labelNoLocation>TODO</Iguana.tools.right_claw.labelNoLocation>
+  <Iguana.tools.right_claw.labelNoLocation>crúb</Iguana.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Iguana.tools.head.label>TODO</Iguana.tools.head.label>
+  <Iguana.tools.head.label>ceann</Iguana.tools.head.label>
   
   <!-- EN: raccoon -->
-  <Raccoon.label>TODO</Raccoon.label>
+  <Raccoon.label>racún</Raccoon.label>
   <!-- EN: A small, hardy animal that ranges wide across forests and shrubland. It is happy to break into your garbage container, or your kitchen, to eat almost anything. -->
-  <Raccoon.description>TODO</Raccoon.description>
+  <Raccoon.description>Cónaíonn an t-ainmhí beag seo i ngach aeráid. Is minic go mbriseann siad isteach i mboscaí bruscair sa tóir ar bhia.</Raccoon.description>
   <!-- EN: left claw -->
-  <Raccoon.tools.left_claw.label>TODO</Raccoon.tools.left_claw.label>
+  <Raccoon.tools.left_claw.label>crub chlé</Raccoon.tools.left_claw.label>
   <!-- EN: claw -->
-  <Raccoon.tools.left_claw.labelNoLocation>TODO</Raccoon.tools.left_claw.labelNoLocation>
+  <Raccoon.tools.left_claw.labelNoLocation>crúb</Raccoon.tools.left_claw.labelNoLocation>
   <!-- EN: right claw -->
-  <Raccoon.tools.right_claw.label>TODO</Raccoon.tools.right_claw.label>
+  <Raccoon.tools.right_claw.label>crúb dheas</Raccoon.tools.right_claw.label>
   <!-- EN: claw -->
-  <Raccoon.tools.right_claw.labelNoLocation>TODO</Raccoon.tools.right_claw.labelNoLocation>
+  <Raccoon.tools.right_claw.labelNoLocation>crúb</Raccoon.tools.right_claw.labelNoLocation>
   <!-- EN: head -->
-  <Raccoon.tools.head.label>TODO</Raccoon.tools.head.label>
+  <Raccoon.tools.head.label>ceann</Raccoon.tools.head.label>
   
   <!-- EN: rat -->
   <Rat.label>TODO</Rat.label>

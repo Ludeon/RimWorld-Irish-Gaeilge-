@@ -11,13 +11,13 @@
   <!-- EN: Extreme break risk -->
   <BreakRiskExtreme>Riosca tromchúiseach</BreakRiskExtreme>
   <!-- EN: These colonists are in a poor mood and may have a minor mental break at any time:\n{0} -->
-  <BreakRiskMinorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh mionghealltacht orthu:\n\n{0}</BreakRiskMinorDesc>
+  <BreakRiskMinorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh cliseadh néarógach orthu:\n\n{0}</BreakRiskMinorDesc>
   <!-- EN: These colonists are in a very poor mood and may have a major mental break at any time:\n{0} -->
-  <BreakRiskMajorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh gealltacht orthu:\n\n{0}</BreakRiskMajorDesc>
+  <BreakRiskMajorDesc>Tá drochghiúmar ar na coilínigh seo agus d'fhéadfadh sé go dtiocfaidh cliseadh néarógach tromchúiseach orthu:\n\n{0}</BreakRiskMajorDesc>
   <!-- EN: These colonists are critically stressed and may have an extreme (and possibly violent) mental break at any moment:\n{0} -->
   <BreakRiskExtremeDesc>Tá na coilínigh seo faoi an iomarca brú agus d'fhéadfadh sé go dtiocfaidh cliseadh néarógach tromchúiseach orthu (a d'fhéadfadh a bheith foréigeanach):\n\n{0}</BreakRiskExtremeDesc>
   <!-- EN: Check these colonists' Needs tab to see what's bothering them.\n\nTo make colonists feel better, you can do things like make them fancy meals, give them more recreation hours per day and nicer recreation objects, place them in beautiful environments, have them drink and smoke, and much more. -->
-  <BreakRiskDescEnding>Féach ar Riachtanais na gcoilínigh le breathnú céard atá ag cur isteach orthu.\n\nChun giúmar níos fearr a chur orthu, féadfaidh tú bia deas a dhéanamh dóibh, tuilleadh ama siamsaíochta nó earraí níos fearr a thabhairt dóibh, nó iad a chur i dtimpeallachtaí áille.</BreakRiskDescEnding>
+  <BreakRiskDescEnding>Féach ar Riachtanais na gcoilínigh le fáil amach céard atá ag cur isteach orthu.\n\nChun giúmar níos fearr a chur orthu, féadfaidh tú bia deas a dhéanamh dóibh, tuilleadh ama siamsaíochta nó earraí níos fearr a thabhairt dóibh, nó iad a chur i dtimpeallachtaí áille.</BreakRiskDescEnding>
 
   <!-- EN: Colonist needs rescue -->
   <ColonistNeedsRescue>Tarrtháil de dhíth ar choilíneach</ColonistNeedsRescue>
@@ -49,9 +49,9 @@
   <NeedWardenDesc>Tá priosúnach agat, ach níl aon choilíneach sannta mar Mhaor.\n\nDéan coilíneach a shannadh mar Mhaor.</NeedWardenDesc>
 
   <!-- EN: Low food -->
-  <LowFood>Bia íseal</LowFood>
+  <LowFood>Tá níos mó bia de dhíth</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Tá líon bia an-íseal agat!\n\nLíon na mbarraí iomlán bia atá stóráilte agat: {0}    Coilínigh agus priosúnaigh atá ag fáil bia: {1}\n    Laethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a fhás, a aismiú nó a mharú.</LowFoodDesc>
+  <LowFoodDesc>Tá líon bia an-íseal agat!\n\nLíon iomlán an bhia atá stóráilte agat: {0}    Coilínigh agus priosúnaigh atá ag fáil bia: {1}\nLaethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a fhás, a aismiú nó a mharú.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Tá cógas de dhíth</LowMedicine>
@@ -88,7 +88,7 @@
   <!-- EN: Starvation -->
   <Starvation>Ocras</Starvation>
   <!-- EN: These colonists are starving:\n{0}\n\nGet them some food. -->
-  <StarvationDesc>Tá ocras na coilínigh seo a leanas:\n\n{0}\nAimsigh bia dóibh.</StarvationDesc>
+  <StarvationDesc>Tá ocras ar na coilínigh seo a leanas:\n\n{0}\n\nAimsigh bia dóibh.</StarvationDesc>
 
   <!-- EN: Animal starvation -->
   <StarvationAnimals>Ocras ar ainmhí</StarvationAnimals>

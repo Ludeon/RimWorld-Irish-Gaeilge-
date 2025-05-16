@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: psychite withdrawal -->
-  <PsychiteWithdrawal.stages.psychite_withdrawal.label>éirí as: sícít</PsychiteWithdrawal.stages.psychite_withdrawal.label>
+  <PsychiteWithdrawal.stages.psychite_withdrawal.label>éirí as (sícít)</PsychiteWithdrawal.stages.psychite_withdrawal.label>
   <!-- EN: God I'm tired. Everything's so slow and boring. Especially me. -->
   <PsychiteWithdrawal.stages.psychite_withdrawal.description>Tá tuirse orm, agus tá cuma mall agus leadranach ar an domhan timpeall orm.</PsychiteWithdrawal.stages.psychite_withdrawal.description>
   
   <!-- EN: high on yayo -->
-  <YayoHigh.stages.high_on_yayo.label>TODO</YayoHigh.stages.high_on_yayo.label>
+  <YayoHigh.stages.high_on_yayo.label>ar siabhrán (yáyó)</YayoHigh.stages.high_on_yayo.label>
   <!-- EN: Feeling pumped! Let's do this! -->
-  <YayoHigh.stages.high_on_yayo.description>TODO</YayoHigh.stages.high_on_yayo.description>
+  <YayoHigh.stages.high_on_yayo.description>Tá mé spreagtha go maith! Ar aghaidh linn!</YayoHigh.stages.high_on_yayo.description>
   
 </LanguageData>

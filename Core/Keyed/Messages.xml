@@ -204,7 +204,7 @@
   <MessageAttackedByPredator>Tá {PREDATOR} ag ionsú {PREY_labelShort}!</MessageAttackedByPredator>
 
   <!-- EN: {PAWN_labelShort} has started to roam away! {PAWN_pronoun} will leave the map unless an animal handler ropes {PAWN_objective} back to a pen. -->
-  <MessageRoamerLeaving>Tá {PAWN_labelShort} ar seachrán! Ní mór {PAWN_labelShort} a choinneáil i bpionna ainmhithe, nó imeoidh sé {PAWN_pronoun}.</MessageRoamerLeaving>
+  <MessageRoamerLeaving>Tá {PAWN_labelShort} ar seachrán! Ní mór {PAWN_labelShort} a choinneáil i bpionna ainmhithe, nó imeoidh {PAWN_pronoun}.</MessageRoamerLeaving>
 
   <!-- EN: A bug hive has reproduced itself. -->
   <MessageHiveReproduced>Tá coirceog feithídí tar éis é féin a atáirgeadh.</MessageHiveReproduced>
