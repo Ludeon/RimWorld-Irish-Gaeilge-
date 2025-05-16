@@ -1410,115 +1410,115 @@
   <!-- EN: Everyone is dead or gone. This story is over.\n\nPerhaps someone else will find a use for the ruins of this place. -->
   <GameOverEveryoneDead>Tá gach duine marbh nó imithe. Tá deireadh leis an scéal seo.\n\nTá seans ann go n-aimseoidh daoine eile a bhfuil fágtha den áit seo, agus go gcuirfear tús le scéal nua.</GameOverEveryoneDead>
   <!-- EN: At near-lightspeed, the planetkiller weapon slammed into the ground with the force of a trillion hydrogen bombs. Like a water balloon shot with a rifle, this world liquified under the impact and sprayed its molten guts across the cosmos.\n\nPart of {0} is now a small asteroid belt. The rest is a molten, radioactive hellscape, constantly rippling with kilometers-high planetquakes.\n\nYou did not survive. -->
-  <GameOverPlanetkillerImpact>Mit nahezu Lichtgeschwindigkeit schlug der Planetenkiller in die Oberfläche ein und entwickelte dabei eine Sprengkraft, die mehreren Billionen Wasserstoffbomben entspricht. Wie ein Wasserballon, der von einer Gewehrkugel durchschlagen wird, verflüssigte sich diese Welt durch den Aufprall und spritzte ihre geschmolzenen Innereien in den Kosmos.\n\nEin Teil von {0} ist jetzt ein kleiner Asteroidengürtel. Der Rest ist eine geschmolzene, radioaktive Höllenlandschaft, die ständig von kilometerhohen Erdbebenwellen erschüttert wird.\n\nDu hast nicht überlebt.</GameOverPlanetkillerImpact>
+  <GameOverPlanetkillerImpact>Bhuail an t-arm an pláinéad ar luas an tsolais, agus phléasc sé leis an bhfórsa céanna le cuintilliún buama núicléach. Tiontaíodh screamh an phláinéid ina lábha leáite ar an bpointe, agus phléasc sé ar fud an chosmais mar a bheadh balún uisce ann.\n\nNíl fágtha anois de {0} ach crios astaróideach, agus pláinéad leamh atá scriosta le magma agus radaighníomhacht mharfach.\n\nNíor mhair do choilínigh.</GameOverPlanetkillerImpact>
   <!-- EN: You've launched the ship! -->
-  <GameOverShipLaunchedIntro>Du hast das Raumschiff gestartet!</GameOverShipLaunchedIntro>
+  <GameOverShipLaunchedIntro>Láinseáladh an spáslong!</GameOverShipLaunchedIntro>
   <!-- EN: Your machine persona will now try to guide the ship to a safe place. It might find a prosperous planet in this system. Or, it may undertake a centuries-long journey to another star. It might even decide to hide under ice on an asteroid for a few thousand years, waiting for someone to build a new glitterworld here.\n\nYou'll find out when you wake up. -->
-  <GameOverShipLaunchedEnding>Deine Maschinen-Persona wird nun versuchen, das Raumschiff an einen sicheren Ort zu bringen. Vielleicht findet sie einen florierenden Planeten im System, oder sie begibt sich auf eine jahrhundertelange Reise zu einem anderen Stern. Sie könnte sogar den Entschluss fassen, sich für ein paar tausend Jahre auf einem Asteroiden unter einer Eisschicht zu verstecken und darauf zu warten, dass dort jemand eine neue Glitzerwelt aufbaut.\n\nDu wirst es wissen, wenn du wieder aufwachst.</GameOverShipLaunchedEnding>
+  <GameOverShipLaunchedEnding>Anois, déanfaidh intleacht saorga na spásloinge iarracht do choilínigh a threorú chuig pláinéad sábháilte sa ghrianchóras seo - nó rachaidh sí ar an turas fada chuig réalt eile.\n\nNí fios céard atá i ndán duit, ach gheobhaidh tú amach nuair a dhúisíonn tú.</GameOverShipLaunchedEnding>
   <!-- EN: These colonists escaped:\n\n{0} -->
-  <GameOverColonistsEscaped>Folgende Kolonisten sind entkommen:\n\n{0}</GameOverColonistsEscaped>
+  <GameOverColonistsEscaped>D'éalaigh na coilínigh seo a leanas:\n\n{0}</GameOverColonistsEscaped>
   <!-- EN: These colonists were left behind:\n\n{0} -->
-  <GameOverColonistsLeft>Folgende Kolonisten wurden zurückgelassen:\n\n{0}</GameOverColonistsLeft>
+  <GameOverColonistsLeft>Fágadh na coilínigh seo a leanas ar an bpláinéad:\n\n{0}</GameOverColonistsLeft>
   <!-- EN: In memory of:\n -->
-  <GameOverInMemoryOf>In Erinnerung an:\n</GameOverInMemoryOf>
+  <GameOverInMemoryOf>I gcuimhne ar:\n</GameOverInMemoryOf>
   <!-- EN: Keep watching -->
-  <GameOverKeepWatching>TODO</GameOverKeepWatching>
+  <GameOverKeepWatching>Lean ort ag breathnú</GameOverKeepWatching>
   <!-- EN: Keep watching for now -->
-  <GameOverKeepWatchingForNow>TODO</GameOverKeepWatchingForNow>
+  <GameOverKeepWatchingForNow>Lean ort ag breathnú ar an gcoilíneacht</GameOverKeepWatchingForNow>
   <!-- EN: Create new wanderers -->
-  <GameOverCreateNewWanderers>TODO</GameOverCreateNewWanderers>
+  <GameOverCreateNewWanderers>Cruthaigh coilínigh nua</GameOverCreateNewWanderers>
   <!-- EN: Create new wanderers (must wait {0}h) -->
-  <GameOverCreateNewWanderersWait>TODO</GameOverCreateNewWanderersWait>
+  <GameOverCreateNewWanderersWait>Cruthaigh coilínigh nua (ní mór fanacht {0}u)</GameOverCreateNewWanderersWait>
   <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
-  <GameOverCreateNewWanderersText>TODO</GameOverCreateNewWanderersText>
+  <GameOverCreateNewWanderersText>Tá gach duine marbh nó imithe. D'fhéadfadh sé go n-aimseoidh daoine eile an áit seo, agus go mbeidh siad in ann úsáid a bhaint as a bhfuil fágtha den choilíneacht.\n\nLeis seo, beidh tú in ann coilínigh úra a chruthú agus leanúint ar aghaidh leis an scéal.</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
-  <GameOverMainMenu>Hauptmenü</GameOverMainMenu>
+  <GameOverMainMenu>Príomh-roghchlár</GameOverMainMenu>
   <!-- EN: No colony -->
-  <NoColony>TODO</NoColony>
+  <NoColony>Níl aon choilíneacht ann</NoColony>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
-  <LifespanExpiry>Verschwindet in:</LifespanExpiry>
+  <LifespanExpiry>Ag dul in éag i gceann:</LifespanExpiry>
 
   <!-- Facilities -->
   <!-- EN: inactive -->
-  <InactiveFacility>inaktiv</InactiveFacility>
+  <InactiveFacility>díghníomhachtaithe</InactiveFacility>
   <!-- EN: Links to -->
-  <FacilityPotentiallyLinkedTo>Verbunden mit</FacilityPotentiallyLinkedTo>
+  <FacilityPotentiallyLinkedTo>Nasctha le</FacilityPotentiallyLinkedTo>
   <!-- EN: Not linked to a building -->
-  <FacilityNoPotentialLinks>Nicht mit einem Bauwerk verbunden</FacilityNoPotentialLinks>
+  <FacilityNoPotentialLinks>Níl an rud seo nasctha le foirgneamh</FacilityNoPotentialLinks>
   <!-- EN: Max connected per building -->
-  <FacilityMaxSimultaneousConnections>TODO</FacilityMaxSimultaneousConnections>
+  <FacilityMaxSimultaneousConnections>Uaslíon in aghaidh an fhoirgnimh</FacilityMaxSimultaneousConnections>
   <!-- EN: Front of building is blocked. -->
-  <FacilityFrontBlocked>TODO</FacilityFrontBlocked>
+  <FacilityFrontBlocked>Tá an foirgneamh blocáilte.</FacilityFrontBlocked>
 
   <!-- Hediffs growth modes -->
   <!-- EN: {PAWN_labelShort}'s {1} is now growing. -->
-  <DiseaseGrowthModeChanged_Growing>{replace: {PAWN_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1} wächst.</DiseaseGrowthModeChanged_Growing>
+  <DiseaseGrowthModeChanged_Growing>Tá {1} {PAWN_labelShort} ag fás.</DiseaseGrowthModeChanged_Growing>
   <!-- EN: {PAWN_labelShort}'s {1} is now stable. -->
-  <DiseaseGrowthModeChanged_Stable>{replace: {PAWN_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1} ist stabil.</DiseaseGrowthModeChanged_Stable>
+  <DiseaseGrowthModeChanged_Stable>Tá {1} {PAWN_labelShort} cobhsaí anois.</DiseaseGrowthModeChanged_Stable>
   <!-- EN: {PAWN_labelShort}'s {1} is now in remission. -->
-  <DiseaseGrowthModeChanged_Remission>{replace: {PAWN_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1} ist am Abklingen.</DiseaseGrowthModeChanged_Remission>
+  <DiseaseGrowthModeChanged_Remission>Tá {1} {PAWN_labelShort} ag maolú.</DiseaseGrowthModeChanged_Remission>
 
   <!-- Marriage spot -->
   <!-- EN: Usable now. -->
-  <MarriageSpotUsable>Kann jetzt verwendet werden.</MarriageSpotUsable>
+  <MarriageSpotUsable>Is féidir an spota seo a úsáid anois.</MarriageSpotUsable>
   <!-- EN: Not usable: {0}. -->
-  <MarriageSpotNotUsable>Kann nicht verwendet werden: {0}.</MarriageSpotNotUsable>
+  <MarriageSpotNotUsable>Ní féidir an spota seo a úsáid: {0}.</MarriageSpotNotUsable>
   <!-- EN: blocked -->
-  <MarriageSpotNotStandable>blockiert</MarriageSpotNotStandable>
+  <MarriageSpotNotStandable>blocáilte</MarriageSpotNotStandable>
   <!-- EN: too dangerous for {1_labelShort} -->
-  <MarriageSpotDangerous>zu gefährlich für {1_labelShort}</MarriageSpotDangerous>
+  <MarriageSpotDangerous>ródháinséarach i gcomhair {1_labelShort}</MarriageSpotDangerous>
   <!-- EN: forbidden for {1_labelShort} -->
-  <MarriageSpotForbidden>für {1_labelShort} verboten</MarriageSpotForbidden>
+  <MarriageSpotForbidden>níl cead ag {1_labelShort} é a úsáid</MarriageSpotForbidden>
   <!-- EN: reserved -->
-  <MarriageSpotReserved>reserviert</MarriageSpotReserved>
+  <MarriageSpotReserved>in úsáid cheana</MarriageSpotReserved>
   <!-- EN: unreachable for {1_labelShort} -->
-  <MarriageSpotUnreachable>nicht für {1_labelShort} erreichbar</MarriageSpotUnreachable>
+  <MarriageSpotUnreachable>níl rochtain ag {1_labelShort} air</MarriageSpotUnreachable>
   <!-- EN: in prison cell -->
-  <MarriageSpotInPrisonCell>im Haftraum</MarriageSpotInPrisonCell>
+  <MarriageSpotInPrisonCell>tá an spota i gcillín</MarriageSpotInPrisonCell>
   <!-- EN: uncomfortable temperature -->
-  <NotEnjoyableOutsideTemperature>unangenehme Temperatur</NotEnjoyableOutsideTemperature>
+  <NotEnjoyableOutsideTemperature>teocht mhíchompordach</NotEnjoyableOutsideTemperature>
 
   <!-- Colonist bar -->
   <!-- EN: Medical rest -->
-  <ActivityIconMedicalRest>Liegt im Krankenbett</ActivityIconMedicalRest>
+  <ActivityIconMedicalRest>Ag téarnamh</ActivityIconMedicalRest>
   <!-- EN: Sleeping -->
-  <ActivityIconSleeping>Schläft</ActivityIconSleeping>
+  <ActivityIconSleeping>Ag codladh</ActivityIconSleeping>
   <!-- EN: Fleeing -->
-  <ActivityIconFleeing>Flieht</ActivityIconFleeing>
+  <ActivityIconFleeing>Ag teitheadh</ActivityIconFleeing>
   <!-- EN: Fighting -->
-  <ActivityIconAttacking>Kämpft</ActivityIconAttacking>
+  <ActivityIconAttacking>Ag troid</ActivityIconAttacking>
   <!-- EN: Idle -->
-  <ActivityIconIdle>Untätig</ActivityIconIdle>
+  <ActivityIconIdle>Dímhaoin</ActivityIconIdle>
   <!-- EN: Burning -->
-  <ActivityIconBurning>Brennt</ActivityIconBurning>
+  <ActivityIconBurning>Ag dó</ActivityIconBurning>
   <!-- EN: Forming a caravan -->
-  <ActivityIconFormingCaravan>Formiert eine Karawane</ActivityIconFormingCaravan>
+  <ActivityIconFormingCaravan>Ag cruthú carbháin</ActivityIconFormingCaravan>
 
   <!-- Maintainable -->
   <!-- EN: Due for maintenance. -->
-  <DueForMaintenance>Instandhaltung ist fällig.</DueForMaintenance>
+  <DueForMaintenance>Tá an rud seo le cothabháil.</DueForMaintenance>
   <!-- EN: Deteriorating due to lack of maintenance. -->
-  <DeterioratingDueToLackOfMaintenance>Zerfällt aufgrund mangelnder Instandhaltung.</DeterioratingDueToLackOfMaintenance>
+  <DeterioratingDueToLackOfMaintenance>Tá an rud seo ag dul in éag de bharr easpa cothabhála.</DeterioratingDueToLackOfMaintenance>
 
   <!-- Deep drill -->
   <!-- EN: Progress to next lump -->
-  <ProgressToNextLump>Fortschritt bis zum nächsten Vorkommen</ProgressToNextLump>
+  <ProgressToNextLump>Dul chun cinn</ProgressToNextLump>
   <!-- EN: Resource below -->
-  <ResourceBelow>Unterirdische Ressource</ResourceBelow>
+  <ResourceBelow>Tá acmhainn ar fáil faoin spota seo</ResourceBelow>
   <!-- EN: Progress to next portion -->
-  <ProgressToNextPortion>Fortschritt bis zur nächsten Ausbeute</ProgressToNextPortion>
+  <ProgressToNextPortion>Dul chun cinn</ProgressToNextPortion>
   <!-- EN: No resources below. -->
-  <DeepDrillNoResources>Keine unterirdische Ressource.</DeepDrillNoResources>
+  <DeepDrillNoResources>Níl aon acmhainn ar fáil faoin spota seo.</DeepDrillNoResources>
   <!-- EN: Deep drill resources exhausted, drill automatically forbidden. Unforbid to begin mining of {0}. -->
-  <DeepDrillExhausted>Tiefenbohrer-Ressourcen sind erschöpft. Bohren wurde automatisch verboten. Hebe das Verbot auf, um künftig {0} zu fördern.</DeepDrillExhausted>
+  <DeepDrillExhausted>Úsáideadh acmhainní uile an druilire, agus dícheadaíodh an druilire go huathoibríoch. Ní mór an druilire a cheadú arís chun {0} a bhaint ón talamh.</DeepDrillExhausted>
   <!-- EN: Deep drill resources exhausted. -->
-  <DeepDrillExhaustedNoFallback>Tiefenbohrer-Ressourcen sind erschöpft.</DeepDrillExhaustedNoFallback>
+  <DeepDrillExhaustedNoFallback>Úsáideadh acmhainní uile an druilire.</DeepDrillExhaustedNoFallback>
 
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
-  <ChargesRemaining>Verbleibende Ladungen</ChargesRemaining>
+  <ChargesRemaining>Armlón fágtha</ChargesRemaining>
 
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
@@ -1534,63 +1534,63 @@
 
   <!-- Compass -->
   <!-- EN: Shows the north direction. Click to rotate the camera so the north pole is up. -->
-  <CompassTip>Zeigt Richtung Norden. Klicke darauf, um die Kamera nach Norden auszurichten.</CompassTip>
+  <CompassTip>Cliceáil chun an ceamara a thiontú chun go mbeidh an tuaisceart ag an mbarr.</CompassTip>
 
   <!-- World route planner -->
   <!-- EN: Click to enter the planning mode where you can plan your journey and calculate distance between waypoints. -->
-  <RoutePlannerButtonTip>Klicke darauf, um den Planmodus zu aktivieren, mit dem du deine Reise planen und die Distanz zwischen den Wegpunkten berechnen kannst.</RoutePlannerButtonTip>
+  <RoutePlannerButtonTip>Cliceáil chun do thuras a phleanáil. Is féidir an t-achar idir gach treoirphointe a ríomh anseo.</RoutePlannerButtonTip>
   <!-- EN: Add two or more waypoints. -->
-  <RoutePlannerAddTwoOrMoreWaypoints>Füge zwei oder mehr Wegpunkte hinzu.</RoutePlannerAddTwoOrMoreWaypoints>
+  <RoutePlannerAddTwoOrMoreWaypoints>Ní mór 2 threoirphointe ar a laghad a roghnú.</RoutePlannerAddTwoOrMoreWaypoints>
   <!-- EN: Add one or more waypoints. -->
-  <RoutePlannerAddOneOrMoreWaypoints>Füge einen oder mehr Wegpunkte hinzu.</RoutePlannerAddOneOrMoreWaypoints>
+  <RoutePlannerAddOneOrMoreWaypoints>Ní mór treoirphointe amháin ar a laghad a roghnú.</RoutePlannerAddOneOrMoreWaypoints>
   <!-- EN: Total route time: {0} -->
-  <RoutePlannerEstTimeToFinalDest>Gesamte Reisezeit: {0}</RoutePlannerEstTimeToFinalDest>
+  <RoutePlannerEstTimeToFinalDest>Am: {0}</RoutePlannerEstTimeToFinalDest>
   <!-- EN: Planning mode uses the default caravan speed. Your speed may vary. -->
-  <RoutePlannerUsingAverageTicksPerMoveWarning>Planmodus nutzt Standard-Reisegeschw. Deine Geschw. kann abweichen.</RoutePlannerUsingAverageTicksPerMoveWarning>
+  <RoutePlannerUsingAverageTicksPerMoveWarning>D'fhéadfadh go dtógfaidh sé níos faide ar do charbhán an t-achar seo a chumhdach, ag brath ar a bhfuil á iompar agat.</RoutePlannerUsingAverageTicksPerMoveWarning>
   <!-- EN: Calculating for: {0} -->
-  <RoutePlannerUsingTicksPerMoveOfCaravan>Kalkulation für: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
+  <RoutePlannerUsingTicksPerMoveOfCaravan>Ag ríomh: {0}</RoutePlannerUsingTicksPerMoveOfCaravan>
   <!-- EN: Right mouse button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Rechte Maustaste: Wegpunkte hinzufügen/entfernen.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
+  <RoutePlannerPressRMBToAddAndRemoveWaypoints>Deaschliceáil chun treoirphointí a chur leis / a bhaint.</RoutePlannerPressRMBToAddAndRemoveWaypoints>
   <!-- EN: Left trigger button: Add/remove waypoints. -->
-  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Linke Trigger-Taste: Wegpunkte hinzufügen/entfernen.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
+  <RoutePlannerPressRMBToAddAndRemoveWaypointsController>Úsáid an truicear clé chun treoirphointí a chur leis / a bhaint.</RoutePlannerPressRMBToAddAndRemoveWaypointsController>
   <!-- EN: ESC: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExit>ESC: Planmodus beenden.</RoutePlannerPressEscapeToExit>
+  <RoutePlannerPressEscapeToExit>ESC: Dún an mód pleanála.</RoutePlannerPressEscapeToExit>
   <!-- EN: {Key:Cancel}: Exit planning mode. -->
-  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: Planmodus beenden.</RoutePlannerPressEscapeToExitController>
+  <RoutePlannerPressEscapeToExitController>{Key:Cancel}: Dún an mód pleanála.</RoutePlannerPressEscapeToExitController>
   <!-- EN: ESC: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Zurück zum "Karawane formieren"-Fenster.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialog>ESC: Téigh siad chuig an roghchlár deireanach.</RoutePlannerPressEscapeToReturnToCaravanFormationDialog>
   <!-- EN: {Key:Cancel}: Return to the caravan formation dialog. -->
-  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Zurück zum "Karawane formieren"-Fenster.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
+  <RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>{Key:Cancel}: Téigh siad chuig an roghchlár deireanach.</RoutePlannerPressEscapeToReturnToCaravanFormationDialogController>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToWaypoint>Geschätzte Reisezeit: {0}</EstimatedTimeToWaypoint>
+  <EstimatedTimeToWaypoint>Am taistil (meastachán): {0}</EstimatedTimeToWaypoint>
   <!-- EN: Est. travel time (from previous waypoint): {0} -->
-  <EstimatedTimeToWaypointFromPrevious>Geschätzte Reisezeit (vom letzten Wegpunkt): {0}</EstimatedTimeToWaypointFromPrevious>
+  <EstimatedTimeToWaypointFromPrevious>Am taistil (meastachán ón treoirphointe deiridh): {0}</EstimatedTimeToWaypointFromPrevious>
   <!-- EN: Est. travel time: {0} -->
-  <EstimatedTimeToTile>Geschätzte Reisezeit: {0}</EstimatedTimeToTile>
+  <EstimatedTimeToTile>Am taistil (meastachán): {0}</EstimatedTimeToTile>
   <!-- EN: Foraged food amount -->
-  <ForagedFoodAmount>Nahrungssuchmenge</ForagedFoodAmount>
+  <ForagedFoodAmount>Líon bia a aimseofar</ForagedFoodAmount>
 
   <!-- Outfits -->
   <!-- EN: Anything -->
-  <OutfitAnything>Alles</OutfitAnything>
+  <OutfitAnything>Aon rud</OutfitAnything>
   <!-- EN: Worker -->
-  <OutfitWorker>Arbeiter</OutfitWorker>
+  <OutfitWorker>Oibrí</OutfitWorker>
   <!-- EN: Soldier -->
-  <OutfitSoldier>Soldat</OutfitSoldier>
+  <OutfitSoldier>Saighdiúir</OutfitSoldier>
   <!-- EN: Nudist -->
-  <OutfitNudist>Nudist</OutfitNudist>
+  <OutfitNudist>Lomnocht</OutfitNudist>
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
-  <HibernatableHibernating>Im Ruhezustand</HibernatableHibernating>
+  <HibernatableHibernating>Ag geimhriú</HibernatableHibernating>
   <!-- EN: Starting up -->
-  <HibernatableStartingUp>Fährt hoch</HibernatableStartingUp>
+  <HibernatableStartingUp>Ag tosú</HibernatableStartingUp>
 
   <!-- Transport pods -->
   <!-- EN: {0}: See available orders... -->
-  <ClickToSeeAvailableOrders_WorldObject>{0}: Zeige verfügbare Befehle...</ClickToSeeAvailableOrders_WorldObject>
+  <ClickToSeeAvailableOrders_WorldObject>{0}: Féach orduithe...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
-  <ClickToSeeAvailableOrders_Empty>Zeige verfügbare Befehle...</ClickToSeeAvailableOrders_Empty>
+  <ClickToSeeAvailableOrders_Empty>Féach orduithe...</ClickToSeeAvailableOrders_Empty>
 
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
@@ -1602,7 +1602,7 @@
   <!-- EN: {0}\n{1} -->
   <PawnTooltipNoDescNoPrimaryEquip>{0}\n{1}</PawnTooltipNoDescNoPrimaryEquip>
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
-  <PawnTooltipPsychicEntropyStats>Rückgangsrate: {0} / s ({1}s bis Null)</PawnTooltipPsychicEntropyStats>
+  <PawnTooltipPsychicEntropyStats>Ráta íslithe: {0} / s ({1}s fágtha)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
   <PawnTooltipPsychicEntropyDesc>Neuralhitze nimmt zu, wenn eine mentale Kraft gewirkt wird. Das Überschreiten des normalen Limits kann zu einem mentalen Zusammenbruch führen, der mehrere Tage anhält.\n\nNeuralhitze baut sich im Laufe der Zeit wieder automatisch ab. Dieser Prozess kann durch das Tragen von Eltex-Kleidung oder durch Schmerzen beschleunigt werden.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
