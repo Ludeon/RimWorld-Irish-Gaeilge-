@@ -249,7 +249,7 @@
   <MessageSuccessfullyRemovedHediff>D'éirigh le {SURGEON_labelShort} {HEDIFF} {PATIENT_labelShort} a bhaint.</MessageSuccessfullyRemovedHediff>
   
   <!-- EN: Chunks of a spacecraft have impacted nearby. You can deconstruct them to yield resources. -->
-  <MessageShipChunkDrop>Tá smionagar spásloinge tar éis titim ón spéir sa cheantar máguaird. Is féidir é a bhriseadh síos chun acmhainní a fháil.</MessageShipChunkDrop>
+  <MessageShipChunkDrop>Tá smionagar spásloinge tar éis titim ón spéir in aice láimhe. Is féidir é a bhriseadh síos chun acmhainní a fháil.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
   <MessageCannotSellItemsReason>Ní féidir roinnt earraí a thrádáil: </MessageCannotSellItemsReason>

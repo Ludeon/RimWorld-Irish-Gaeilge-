@@ -171,421 +171,421 @@
 
   <!-- Related pawns -->
   <!-- EN: Relationship -->
-  <LetterLabelNoticedRelatedPawns>Verwandtschaft</LetterLabelNoticedRelatedPawns>
+  <LetterLabelNoticedRelatedPawns>Gaol</LetterLabelNoticedRelatedPawns>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of {1}.\n\nKeep in mind that even though they are related, they will still attack each other because of their bad factions relations.\n\nThese people are: -->
-  <LetterRelatedPawnsRaidEnemy>Unter den {lookup: {1}; plural; 7} befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind.\n\nDenke daran, dass sie trotz ihrer Verwandtschaft gegeneinander kämpfen werden, weil ihre Fraktionen untereinander verfeindet sind.\n\nDiese Personen sind:</LetterRelatedPawnsRaidEnemy>
+  <LetterRelatedPawnsRaidEnemy>Tá daoine sa ghrúpa atá gaolta le do choilínigh nó le do phríosúnaigh.\n\nMar eolas, cé go bhfuil siad gaolta, d'fhéadfadh sé go n-ionsóidh siad a chéile má tá drochchaidreamh ann idir na faicsin.\n\nIs iad sin:</LetterRelatedPawnsRaidEnemy>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group of friendly {1}: -->
-  <LetterRelatedPawnsRaidFriendly>Unter den freundlichen {lookup: {1}; plural; 7} befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsRaidFriendly>
+  <LetterRelatedPawnsRaidFriendly>Tá daoine sa ghrúpa atá gaolta le do choilínigh nó le do phríosúnaigh:</LetterRelatedPawnsRaidFriendly>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the arriving group: -->
-  <LetterRelatedPawnsNeutralGroup>In der ankommenden Gruppe befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsNeutralGroup>
+  <LetterRelatedPawnsNeutralGroup>Tá daoine sa ghrúpa atá gaolta le do choilínigh nó le do phríosúnaigh:</LetterRelatedPawnsNeutralGroup>
   <!-- EN: The orbital trader is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradeShip>Der Orbitalhändler verkauft Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsTradeShip>
+  <LetterRelatedPawnsTradeShip>Tá daoine á ndíol ag an spás-trádálaí atá gaolta le do choilíingh nó le do phríosúnaigh:</LetterRelatedPawnsTradeShip>
   <!-- EN: The settlement is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithSettlement>Die Siedlung verkauft Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsTradingWithSettlement>
+  <LetterRelatedPawnsTradingWithSettlement>Tá daoine á ndíol ag an lonnaíocht seo atá gaolta le do choilíingh nó le do phríosúnaigh:</LetterRelatedPawnsTradingWithSettlement>
   <!-- EN: The caravan is selling people who have relationships with your {0} or prisoners: -->
-  <LetterRelatedPawnsTradingWithOtherCaravan>Die Karawane verkauft Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsTradingWithOtherCaravan>
+  <LetterRelatedPawnsTradingWithOtherCaravan>Tá daoine á ndíol ag an gcarbhán seo atá gaolta le do choilíingh nó le do phríosúnaigh:</LetterRelatedPawnsTradingWithOtherCaravan>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the group: -->
-  <LetterRelatedPawnsGroupGeneric>In der Gruppe befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsGroupGeneric>
+  <LetterRelatedPawnsGroupGeneric>Tá daoine á ndíol ag an lonnaíocht seo atá gaolta le do choilíingh nó le do phríosúnaigh:</LetterRelatedPawnsGroupGeneric>
   <!-- EN: There are people who have relationships with your {0} or prisoners in the area where your {0} have landed. -->
-  <LetterRelatedPawnsInMapWherePlayerLanded>Im Gebiet, wo deine {0} gelandet sind, befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind.</LetterRelatedPawnsInMapWherePlayerLanded>
+  <LetterRelatedPawnsInMapWherePlayerLanded>Tá daoine sa ghrúpa atá gaolta le do choilínigh nó le do phríosúnaigh:</LetterRelatedPawnsInMapWherePlayerLanded>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this settlement: -->
-  <LetterRelatedPawnsSettlement>In dieser Siedlung befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsSettlement>
+  <LetterRelatedPawnsSettlement>Tá daoine sa lonnaíocht seo atá gaolta le do choilínigh nó le do phríosúnaigh:</LetterRelatedPawnsSettlement>
   <!-- EN: There are people who have relationships with your {0} or prisoners in this area: -->
-  <LetterRelatedPawnsSite>In diesem Gebiet befinden sich Personen, die in irgendeiner Form verwandt mit deinen {lookup: {0}; plural; 7} oder Gefangenen sind:</LetterRelatedPawnsSite>
+  <LetterRelatedPawnsSite>Tá daoine sa cheantar seo atá gaolta le do choilínigh nó le do phríosúnaigh:</LetterRelatedPawnsSite>
 
   <!-- EN: relationship -->
-  <RelationshipAppendedLetterSuffix>Verwandtschaft</RelationshipAppendedLetterSuffix>
+  <RelationshipAppendedLetterSuffix>Gaol</RelationshipAppendedLetterSuffix>
   <!-- EN: {PAWN_nameDef} has a relationship with a colonist. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextColonist>{PAWN_nameDef} ist in irgendeiner Form verwandt mit einem Kolonisten. {PAWN_pronoun} ist {replace: {RELATIVE_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1}.</RelationshipAppendedLetterTextColonist>
+  <RelationshipAppendedLetterTextColonist>Tá {PAWN_nameDef} gaolta le duine ó do choilíneacht. Is é {PAWN_nameDef} {1} {RELATIVE_labelShort}.</RelationshipAppendedLetterTextColonist>
   <!-- EN: {PAWN_nameDef} has a relationship with one of your prisoners. {PAWN_pronoun} is {RELATIVE_labelShort}'s {1}. -->
-  <RelationshipAppendedLetterTextPrisoner>{PAWN_nameDef} ist in irgendeiner Form verwandt mit einem Gefangenen. {PAWN_pronoun} ist {replace: {RELATIVE_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1}.</RelationshipAppendedLetterTextPrisoner>
+  <RelationshipAppendedLetterTextPrisoner>Tá {PAWN_nameDef} gaolta le duine de do phríosún aigh. Is é {PAWN_nameDef} {1} {RELATIVE_labelShort}.</RelationshipAppendedLetterTextPrisoner>
 
   <!-- Attempt romance / propose interaction -->
   <!-- EN: Affair -->
-  <LetterLabelAffair>Affäre</LetterLabelAffair>
+  <LetterLabelAffair>Caidreamh seachphósta</LetterLabelAffair>
   <!-- EN: {PAWN1_labelShort}, married to {SPOUSE_labelShort}, has begun an affair with {PAWN2_labelShort}. -->
-  <LetterAffair>{PAWN1_labelShort}, {PAWN1_gender ? der : die} mit {SPOUSE_labelShort} verheiratet ist, hat eine Affäre mit {PAWN2_labelShort} begonnen.</LetterAffair>
+  <LetterAffair>Tá {PAWN1_labelShort} tar éis caidreamh seachphósta a thosú le {PAWN2_labelShort}, cé go bhfuil {PAWN1_pronoun} pósta le {SPOUSE_labelShort}.</LetterAffair>
   <!-- EN: New lovers -->
-  <LetterLabelNewLovers>Neue Liebhaber</LetterLabelNewLovers>
+  <LetterLabelNewLovers>Caidreamh úr</LetterLabelNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} now want to sleep together. Consider assigning them a double bed. -->
-  <LetterNewLovers>{PAWN1_labelShort} und {PAWN2_labelShort} wollen nun zusammen schlafen. Erwäge, ihnen ein Doppelbett zuzuweisen.</LetterNewLovers>
+  <LetterNewLovers>Is mian le {PAWN1_labelShort} agus {PAWN2_labelShort} fanacht le chéile anois. Is féidir leaba dúbailte a thabhairt dóibh.</LetterNewLovers>
   <!-- EN: {PAWN1_labelShort} and {PAWN2_labelShort} are no longer in a relationship. -->
-  <LetterNoLongerLovers>{PAWN1_labelShort} und {PAWN2_labelShort} haben ihre Beziehung beendet.</LetterNoLongerLovers>
+  <LetterNoLongerLovers>Níl {PAWN1_labelShort} agus {PAWN2_labelShort} ag siúl amach a thuilleadh.</LetterNoLongerLovers>
   <!-- EN: {PAWN_labelShort} will change {PAWN_possessive} last name back to {PAWN_possessive} birth name. -->
-  <LetterNoLongerLovers_BackToBirthName>{PAWN_labelShort} wird {PAWN_possessive}en Nachnamen wieder in {PAWN_possessive}en Geburtsnamen ändern.</LetterNoLongerLovers_BackToBirthName>
+  <LetterNoLongerLovers_BackToBirthName>Tá sé i gceist ag {PAWN_labelShort} a s {PAWN_possessive}loinne a athrú ar ais.</LetterNoLongerLovers_BackToBirthName>
   <!-- EN: Breakup -->
-  <LetterLabelBreakup>Trennung</LetterLabelBreakup>
+  <LetterLabelBreakup>Scaradh</LetterLabelBreakup>
   <!-- EN: Marriage is on! -->
-  <LetterLabelAcceptedProposal>Hochzeit steht an!</LetterLabelAcceptedProposal>
+  <LetterLabelAcceptedProposal>Tá siad le pósadh!</LetterLabelAcceptedProposal>
   <!-- EN: Rejected proposal -->
-  <LetterLabelRejectedProposal>Heiratsantrag abgelehnt</LetterLabelRejectedProposal>
+  <LetterLabelRejectedProposal>Níor glacadh leis an gcéiliúr pósta</LetterLabelRejectedProposal>
   <!-- EN: At some point in the coming days or quadrums, they will have their marriage ceremony and invite all the colonists. Consider placing a marriage spot if you want to control where the ceremony occurs. -->
-  <LetterAcceptedProposal>Irgendwann in den kommenden Tagen oder Quartalen werden sie ihre Hochzeitszeremonie abhalten und alle Kolonisten dazu einladen. Platziere einen Hochzeitsplatz, wenn die Zeremonie an einem bestimmten Ort stattfinden soll.</LetterAcceptedProposal>
+  <LetterAcceptedProposal>Pósfaidh siad go luath sna laethanta amach romhainn. Tabharfar cuireadh do na coilínigh ar fad chuig an searmanas pósta. Is féidir spóta pósta a chur síos, más maith leat láthair a roghnú don searmanas.</LetterAcceptedProposal>
   <!-- EN: {PAWN_label} will change {PAWN_possessive} last name to {1}. -->
-  <LetterAcceptedProposal_NameChange>{PAWN_label} wird {PAWN_possessive}en Nachnamen in {1} ändern.</LetterAcceptedProposal_NameChange>
+  <LetterAcceptedProposal_NameChange>Athróidh {PAWN_label} a s{PAWN_possessive}loinne go dtí {1}.</LetterAcceptedProposal_NameChange>
   <!-- EN: {INITIATOR_nameFull} is going to be unhappy about this. -->
-  <LetterRejectedProposal>{INITIATOR_nameFull} wird darüber nicht erfreut sein.</LetterRejectedProposal>
+  <LetterRejectedProposal>Ní bheidh {INITIATOR_nameFull} sásta.</LetterRejectedProposal>
 
   <!-- Generalized letter labels -->
   <!-- EN: Hostile: {0} -->
-  <LetterLabelRelationsChange_Hostile>Feindlich: {0}</LetterLabelRelationsChange_Hostile>
+  <LetterLabelRelationsChange_Hostile>Naimhdeach: {0}</LetterLabelRelationsChange_Hostile>
   <!-- EN: Allied: {0} -->
-  <LetterLabelRelationsChange_Ally>Verbündet: {0}</LetterLabelRelationsChange_Ally>
+  <LetterLabelRelationsChange_Ally>Cairdiúil: {0}</LetterLabelRelationsChange_Ally>
   <!-- EN: Enemy now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromHostile>Feindlich, jetzt neutral: {0}</LetterLabelRelationsChange_NeutralFromHostile>
+  <LetterLabelRelationsChange_NeutralFromHostile>Tá faicsean naimhdeach neodrach anois: {0}</LetterLabelRelationsChange_NeutralFromHostile>
   <!-- EN: Ally now neutral: {0} -->
-  <LetterLabelRelationsChange_NeutralFromAlly>Verbündet, jetzt neutral: {0}</LetterLabelRelationsChange_NeutralFromAlly>
+  <LetterLabelRelationsChange_NeutralFromAlly>Tá faicsean cairdiúil neodrach anois: {0}</LetterLabelRelationsChange_NeutralFromAlly>
   <!-- EN: Zzztt... -->
   <LetterLabelShortCircuit>Zzztt...</LetterLabelShortCircuit>
 
   <!-- Bonded animals -->
   <!-- EN: bonded -->
-  <LetterLabelSuffixBondedAnimalDied>gebunden</LetterLabelSuffixBondedAnimalDied>
+  <LetterLabelSuffixBondedAnimalDied>Nasc</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>{ANIMAL_definite} war an {HUMAN_labelShort} gebunden. Das wird die Stimmung von {HUMAN_labelShort} beeinträchtigen.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>Tá nasc ann anois idir {ANIMAL_definite} agus {HUMAN_labelShort}. Beidh tionchar ag an méid sin ar ghiúmar {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
-  <LetterPartBondedAnimalDiedMulti>Es wird die Stimmung der folgenden Personen beeinträchtigen:\n\n{0}</LetterPartBondedAnimalDiedMulti>
+  <LetterPartBondedAnimalDiedMulti>Beidh tionchar ag an méid sin ar ghiúmar na ndaoine seo a leanas:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
   <!-- Prison break -->
   <!-- EN: Prison break -->
-  <LetterLabelPrisonBreak>Gefängnisausbruch</LetterLabelPrisonBreak>
+  <LetterLabelPrisonBreak>Tá príosúnaigh ag éalú</LetterLabelPrisonBreak>
   <!-- EN: Prisoners have staged a breakout! They've somehow defeated the door locks and are making their way out. They may seek weapons, fight, or try to escape. These prisoners are involved:\n\n{0}\n\nPrisoners are more likely to attempt breakout when they are numerous and healthy. -->
-  <LetterPrisonBreak>Gefangene haben einen Ausbruchsversuch gestartet! Sie haben irgendwie die Türschlösser geknackt und bahnen sich ihren Weg nach draußen. Es kann passieren, dass sie nach Waffen suchen, kämpfen oder versuchen zu fliehen. Folgende Gefangene sind daran beteiligt:\n\n{0}\n\nGefangene sind eher zu einem Ausbruchsversuch bereit, wenn viele von ihnen vorhanden und wohlauf sind.</LetterPrisonBreak>
+  <LetterPrisonBreak>Tá príosúnaigh ag éalú! D'éirigh leo na doirse a oscailt, agus tá siad ar an mbealach amach. D'fhéadfadh sé go ndéanfaidh siad iarracht teitheadh, nó tá baol ann go mbeidh siad ag iarraidh do choilínigh a mharú. Tá na príosúnaigh seo a leanas ag éalú:\n\n{0}\n\nIs mó seans go ndéanfaidh príosúnaigh iarracht éalú má tá siad sláintiúil, agus má tá grúpa mór díobh ann.</LetterPrisonBreak>
 
   <!-- Newly addicted -->
   <!-- EN: {0} addiction -->
-  <LetterLabelNewlyAddicted>{0}-süchtig</LetterLabelNewlyAddicted>
+  <LetterLabelNewlyAddicted>Andúil: {0}</LetterLabelNewlyAddicted>
   <!-- EN: {PAWN_labelShort} has developed an addiction to {1}.\n\n{PAWN_pronoun} now has a need for {1}, visible on {PAWN_possessive} Needs tab. {PAWN_pronoun} will automatically consume the drug to fulfil {PAWN_possessive} need. If {PAWN_pronoun} cannot get any {1}, {PAWN_pronoun} will go into withdrawal. -->
-  <LetterNewlyAddicted>{PAWN_labelShort} wurde süchtig nach {1}.\n\n{PAWN_pronoun} benötigt jetzt {1}, sichtbar in {PAWN_possessive}em Bedürfnis-Tab. {PAWN_pronoun} wird die Droge automatisch konsumieren, um {PAWN_possessive}e Sucht zu befriedigen. Wenn {PAWN_pronoun} längere Zeit {1_gender ? keinen : keine : kein} {1} konsumiert, bekommt {PAWN_pronoun} Entzugserscheinungen.</LetterNewlyAddicted>
+  <LetterNewlyAddicted>Tá andúil sa druga '{1}' forbartha ag {PAWN_labelShort}.\n\nNí mór do {PAWN_labelShort} an druga sin a úsáid go rialta anois, agus taispeánfar eolas faoin andúil  sa táb dar teideal "Riachtanais". Déanfaidh {PAWN_pronoun} iarracht an druga a úsáid, agus tiocfaidh comharthaí éirí as ar {PAWN_labelShort} mura mbeidh {PAWN_pronoun} in ann an druga a úsáid.</LetterNewlyAddicted>
 
   <!-- Drug binge -->
   <!-- EN: {0} binge -->
-  <LetterLabelDrugBinge>{0}-Exzess</LetterLabelDrugBinge>
+  <LetterLabelDrugBinge>Ragús: {0}</LetterLabelDrugBinge>
   <!-- EN: {2_label} is binging on {1}. -->
-  <LetterDrugBinge>{2_labelShort} dröhnt sich mit {1} zu.</LetterDrugBinge>
+  <LetterDrugBinge>Níl {2_labelShort} in ann stopadh den druga {1} a thógáil.</LetterDrugBinge>
 
   <!-- Caravan destroyed -->
   <!-- EN: Caravan destroyed -->
-  <LetterLabelAllCaravanColonistsDied>Karawane zerstört</LetterLabelAllCaravanColonistsDied>
+  <LetterLabelAllCaravanColonistsDied>Scriosadh carbhán</LetterLabelAllCaravanColonistsDied>
   <!-- EN: All members of {0} have died. -->
-  <LetterAllCaravanColonistsDied>Alle Mitglieder von {0} sind gestorben.</LetterAllCaravanColonistsDied>
+  <LetterAllCaravanColonistsDied>Cailleadh gach duine a bhí leis an gcarbhán '{0}'.</LetterAllCaravanColonistsDied>
 
   <!-- Caravan entered map -->
   <!-- EN: Caravan arrived at {0_label} -->
-  <LetterLabelCaravanEnteredMap>Karawane hat {lookup: {0_label}; decline; 3} erreicht</LetterLabelCaravanEnteredMap>
+  <LetterLabelCaravanEnteredMap>Shroich carbhán {0_label}</LetterLabelCaravanEnteredMap>
   <!-- EN: {0} has arrived at {1_definite}. -->
-  <LetterCaravanEnteredMap>{0} hat {lookup: {1_label}; decline; 3} erreicht.</LetterCaravanEnteredMap>
+  <LetterCaravanEnteredMap>Shroich {0} {1_definite}.</LetterCaravanEnteredMap>
 
   <!-- Caravan entered enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelCaravanEnteredEnemyBase>Angriff gestartet</LetterLabelCaravanEnteredEnemyBase>
+  <LetterLabelCaravanEnteredEnemyBase>Cuireadh tús le hionsaí</LetterLabelCaravanEnteredEnemyBase>
   <!-- EN: {0} has arrived at {1} and is ready to begin the attack. -->
-  <LetterCaravanEnteredEnemyBase>{0} ist bei {1} angekommen und bereit, den Angriff zu starten.</LetterCaravanEnteredEnemyBase>
+  <LetterCaravanEnteredEnemyBase>Shroic {0} {1} agus táthar réidh le tús a chur leis an ionsaí</LetterCaravanEnteredEnemyBase>
 
   <!-- Transport pods landed in enemy base -->
   <!-- EN: Attack begun -->
-  <LetterLabelTransportPodsLandedInEnemyBase>Angriff gestartet</LetterLabelTransportPodsLandedInEnemyBase>
+  <LetterLabelTransportPodsLandedInEnemyBase>Cuireadh tús le hionsaí</LetterLabelTransportPodsLandedInEnemyBase>
   <!-- EN: Your transport pods have arrived at {0}. -->
-  <LetterTransportPodsLandedInEnemyBase>Deine Transportkapseln sind bei {0} eingetroffen.</LetterTransportPodsLandedInEnemyBase>
+  <LetterTransportPodsLandedInEnemyBase>Tá {0} bainte amach ag do phodanna iompair.</LetterTransportPodsLandedInEnemyBase>
   <!-- EN: The shuttle has arrived at {0}. -->
-  <LetterShuttleLandedInEnemyBase>Das Shuttle ist bei {0} eingetroffen.</LetterShuttleLandedInEnemyBase>
+  <LetterShuttleLandedInEnemyBase>Tá {0} bainte amach ag an tointeálaí.</LetterShuttleLandedInEnemyBase>
 
   <!-- Faction base defeated -->
   <!-- EN: Base destroyed -->
-  <LetterLabelFactionBaseDefeated>Basis zerstört</LetterLabelFactionBaseDefeated>
+  <LetterLabelFactionBaseDefeated>Scriosadh lonnaíocht</LetterLabelFactionBaseDefeated>
   <!-- EN: The enemy settlement {0} has been destroyed.\n\nIn {1}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterFactionBaseDefeated>Die feindliche Siedlung {0} wurde zerstört.\n\nIn (*DateTime){replace: {1}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) werden Feinde deine Karawane angreifen. Sie werden damit beginnen, Truppen zu entsenden, um die Karawane anzugreifen, es sei denn, die Karawane formiert sich neu und zieht ab.</LetterFactionBaseDefeated>
+  <LetterFactionBaseDefeated>Scriosadh an lonnaíocht naimhdeach '{0}'.\n\nI gceann {1}, tiocfaidh fórsaí breise chun do charbhán a ionsú, mura n-imeoidh tú ón gceantar.</LetterFactionBaseDefeated>
   <!-- EN: Since this was their last settlement, {0} has been defeated. -->
-  <LetterFactionBaseDefeated_FactionDestroyed>Dies war ihre letzte Siedlung. Die Fraktion {0} wurde besiegt.</LetterFactionBaseDefeated_FactionDestroyed>
+  <LetterFactionBaseDefeated_FactionDestroyed>Ba é seo an lonnaíocht deireanach de chuid '{0}', agus tá an faicsean imithe anois.</LetterFactionBaseDefeated_FactionDestroyed>
 
   <!-- Quest completed -->
   <!-- EN: Quest completed -->
-  <LetterLabelDefeatAllEnemiesQuestCompleted>Quest abgeschlossen</LetterLabelDefeatAllEnemiesQuestCompleted>
+  <LetterLabelDefeatAllEnemiesQuestCompleted>Críochaíodh misean</LetterLabelDefeatAllEnemiesQuestCompleted>
   <!-- EN: You have defeated the enemy outpost!\n\nThe payment from {0} has arrived, and faction relations have improved by {1}. -->
-  <LetterDefeatAllEnemiesQuestCompleted>Du hast den gegnerischen Außenposten besiegt!\n\nDie Bezahlung von der Fraktion {0} ist eingetroffen und der Ruf bei ihr hat sich um {1} Punkte verbessert.</LetterDefeatAllEnemiesQuestCompleted>
+  <LetterDefeatAllEnemiesQuestCompleted>D'éirigh leat an bunáit naimhdeach a scriosadh!\n\nTá an íocaíocht ó '{0}' tagtha, agus tá an caidreamh idir an dá fhaicsean tar éis feabhsú le {1} pointe.</LetterDefeatAllEnemiesQuestCompleted>
 
   <!-- Long-range mineral scanner -->
   <!-- EN: Distant resource scanned -->
-  <LetterLabelFoundPreciousLump>Ferne Ressource gescannt</LetterLabelFoundPreciousLump>
+  <LetterLabelFoundPreciousLump>Aimsíodh acmhainní leis an scanóir fadraoin</LetterLabelFoundPreciousLump>
   <!-- EN: Using your long-range mineral scanner, {WORKER_labelShort} has found a lump of {0} some distance away.\n\nUnfortunately, it won't last - others will mine it first in {1} days if we don't.\n\n{2}. -->
-  <LetterFoundPreciousLump>{WORKER_labelShort} hat mit dem Langstreckenscanner ein großes {0}vorkommen gefunden.\n\nAllerdings wird es nicht für immer da sein - andere werden es in {1} Tagen abbauen, wenn wir nichts unternehmen.\n\n{2}.</LetterFoundPreciousLump>
+  <LetterFoundPreciousLump>D'éirigh le {WORKER_labelShort} {0} a aimsiú leis an scanóir fadraoin.\n\nFaraor, tá sé i bhfad i gcéin. Aimseoidh faicsean éigean eile é mura ndéanfaimid é a bhaint laistigh de {1} lá.\n\n{2}.</LetterFoundPreciousLump>
 
   <!-- Ground penetrating scanner -->
   <!-- EN: Scanned underground -->
-  <LetterLabelDeepScannerFoundLump>Untergrund gescannt</LetterLabelDeepScannerFoundLump>
+  <LetterLabelDeepScannerFoundLump>Acmhainní aimsithe leis an ngeo-scanóir</LetterLabelDeepScannerFoundLump>
   <!-- EN: {FINDER_nameDef} has found a lump of buried {0} using the ground-penetrating scanner! -->
-  <LetterDeepScannerFoundLump>{FINDER_nameDef} hat mit dem Tiefenscanner ein unterirdisches {0}vorkommen gefunden!</LetterDeepScannerFoundLump>
+  <LetterDeepScannerFoundLump>D'aimsigh {FINDER_nameDef} {0} faoin talamh leis an ngeo-scanóir!</LetterDeepScannerFoundLump>
 
   <!-- Ambush -->
   <!-- EN: Ambush -->
-  <LetterLabelAmbushInExistingMap>Hinterhalt</LetterLabelAmbushInExistingMap>
+  <LetterLabelAmbushInExistingMap>Luíochán!</LetterLabelAmbushInExistingMap>
   <!-- EN: Your {0} have been ambushed! -->
-  <LetterAmbushInExistingMap>Deine {0} sind in einen Hinterhalt geraten!</LetterAmbushInExistingMap>
+  <LetterAmbushInExistingMap>Rinneadh luíochán roimh {0}!</LetterAmbushInExistingMap>
 
   <!-- Peace talks -->
   <!-- EN: Peace talks disaster -->
-  <LetterLabelPeaceTalks_Disaster>Friedensgespräche (Desaster)</LetterLabelPeaceTalks_Disaster>
+  <LetterLabelPeaceTalks_Disaster>Cainteanna síochána (Tubáiste)</LetterLabelPeaceTalks_Disaster>
   <!-- EN: The talks were a disaster. The delegates barely got past their initial greetings before the discussion broke down into insults and recriminations.\n\nAfter your caravan departed early, {0} from {1} caught up with it and attacked!\n\nRelations with {1}: {2}. -->
-  <LetterPeaceTalks_Disaster>Die Friedensgespräche waren desaströs. Kaum hatten die Delegierten ihre einleitenden Grußworte gesprochen, eskalierte die Diskussion in Beleidigungen und Anschuldigungen.\n\nAls deine Karawane vorzeitig abreiste, wurde sie von {lookup: {0}; plural; 3} der Fraktion {1} eingeholt und angegriffen!\n\nRufänderung bei {1}: {2}.</LetterPeaceTalks_Disaster>
+  <LetterPeaceTalks_Disaster>Thit an tóin amach as na cainteanna síochána. Thug na toscairí meas amadáin ar a chéile, agus níor éirigh leo aon rud a phéinteáil .\n\nD'fhág do charbhán, ach tháinig {0} ó '{1}' i do dhiaidh agus d'ionsaigh siad!\n\nCaidreamh leis an bhfaicsean '{1}': {2}.</LetterPeaceTalks_Disaster>
   <!-- EN: Peace talks backfire -->
-  <LetterLabelPeaceTalks_Backfire>Friedensgespräche (Fehlschlag)</LetterLabelPeaceTalks_Backfire>
+  <LetterLabelPeaceTalks_Backfire>Cainteanna síochána (Cúltort)</LetterLabelPeaceTalks_Backfire>
   <!-- EN: The talks have backfired. Despite trading some pleasantries, the delegates made no progress on substantive issues, and multiple statements were interpreted as insults.\n\nRelations with {0}: {1}. -->
-  <LetterPeaceTalks_Backfire>Die Friedensgespräche sind gescheitert. Obwohl Freundlichkeiten ausgetauscht wurden, konnten die Delegierten keinerlei Fortschritte bei den grundlegenden Problemen erzielen, und mehrere Standpunkte wurden als Beleidigungen aufgefasst.\n\nRufänderung bei {0}: {1}.</LetterPeaceTalks_Backfire>
+  <LetterPeaceTalks_Backfire>Níor éirigh go rómhaith leis na cainteanna síochána. Níor éirigh leis na toscairí dul chun cinn a dhéanamh, agus bhain an faicsean eile míbhrí as an rud a bhí le rá againn.\n\nCaidreamh leis an bhfaicsean '{1}': {2}.</LetterPeaceTalks_Backfire>
   <!-- EN: Peace talks flounder -->
-  <LetterLabelPeaceTalks_TalksFlounder>Friedensgespräche (Stillstand)</LetterLabelPeaceTalks_TalksFlounder>
+  <LetterLabelPeaceTalks_TalksFlounder>Cainteanna síochána (Sáinn)</LetterLabelPeaceTalks_TalksFlounder>
   <!-- EN: The talks floundered. Delegates managed to communicate clearly and with basic respect, but were not able to make progress on any genuine issues.\n\nRelations with {0} remain unchanged. -->
-  <LetterPeaceTalks_TalksFlounder>Die Friedensgespräche gerieten ins Stocken. Die Delegierten konnten sich klar und respektvoll verständigen, schafften es aber nicht, Fortschritte bei wichtigen Problemen zu erzielen.\n\nKeine Rufänderung bei {0}.</LetterPeaceTalks_TalksFlounder>
+  <LetterPeaceTalks_TalksFlounder>Tá stop tagtha leis na cainteanna. D'éirigh leis na toscairí cumarsáid dhíreach agus soiléir a dhéanamh, ach níor éirigh leo aon dul chun cinn a dhéanamh maidir le haon cheisteanna móra.\n\nNíor tháinig aon athrú ar an gcaidreamh leis an bhfaicsean '{0}'.</LetterPeaceTalks_TalksFlounder>
   <!-- EN: Peace talks success -->
-  <LetterLabelPeaceTalks_Success>Friedensgespräche (Erfolg)</LetterLabelPeaceTalks_Success>
+  <LetterLabelPeaceTalks_Success>Cainteanna síochána (Rathúil)</LetterLabelPeaceTalks_Success>
   <!-- EN: The talks were a success. The delegates reached new mutual understanding on several substantial issues.\n\nRelations with {0} have improved by {1}. -->
-  <LetterPeaceTalks_Success>Die Friedensgespräche waren erfolgreich. Die Delegierten konnten bei mehreren wichtigen Problemen gegenseitiges Verständnis entwickeln.\n\nDein Ruf bei der Fraktion {0} hat sich um {1} Punkte verbessert.</LetterPeaceTalks_Success>
+  <LetterPeaceTalks_Success>D'éirigh go maith leis na cainteanna. Tháinig na toscairí ar chomhthuiscint maidir le roinnt ceisteanna tábhachtacha.\n\nTá féabhas {1} tagtha ar an gcaidreamh leis an bhfaicsean '{0}'.</LetterPeaceTalks_Success>
   <!-- EN: Peace talks triumph -->
-  <LetterLabelPeaceTalks_Triumph>Friedensgespräche (Triumph)</LetterLabelPeaceTalks_Triumph>
+  <LetterLabelPeaceTalks_Triumph>Cainteanna síochána (Éacht)</LetterLabelPeaceTalks_Triumph>
   <!-- EN: The talks were a great triumph! Delegates connected quickly on a personal level and came to truly see each others' perspective on the most difficult issues of the day.\n\nRelations with {0} have improved by {1}.\n\nAs your caravan departed, {0} offered you a gift:\n\n{2} -->
-  <LetterPeaceTalks_Triumph>Die Friedensgespräche waren triumphal! Die Delegierten fanden schnell einen persönlichen Draht zueinander und konnten die Standpunkte des jeweils anderen nachvollziehen, sodass es ein Leichtes war, selbst für die schwierigsten Probleme eine einvernehmliche Lösung zu finden.\n\nDein Ruf bei der Fraktion {0} hat sich um {1} Punkte verbessert.\n\nZum Abschied überreichte dir {0} ein Geschenk:\n\n{2}</LetterPeaceTalks_Triumph>
+  <LetterPeaceTalks_Triumph>Bhí na cainteanna thar a bheith éachtach! D'éirigh leis na toscairí comhthuiscint a bhaint amach ar an bpointe, agus réitigh siad mórcheisteanna an lae gan stró.\n\nTá féabhas {1} tagtha ar an gcaidreamh leis an bhfaicsean '{0}'.\n\nThug '{0}' bronntanas duit:\n\n{2}</LetterPeaceTalks_Triumph>
   <!-- EN: {PAWN_labelShort}, your negotiator, has gained {1} social experience. -->
-  <PeaceTalksSocialXPGain>Dein Unterhändler {PAWN_labelShort} hat {1} soziale Erfahrungspunkte gesammelt.</PeaceTalksSocialXPGain>
+  <PeaceTalksSocialXPGain>D'éirigh le d'idirbheartaí, {PAWN_labelShort}, a scil sóisialta a fheabhsú.</PeaceTalksSocialXPGain>
 
   <!-- Run wild mental break -->
   <!-- EN: {0} is fed up with civilization.\n\n{PAWN_pronoun} realized that wild creatures are always free. So, {PAWN_pronoun} has decided to leave your faction and live with the animals.\n\nYou can attempt to tame or arrest {PAWN_objective} to get {PAWN_objective} back. -->
-  <LetterRunWildMentalBreak>{0} hat genug von der Zivilisation.\n\n{PAWN_pronoun} hat erkannt, dass wilde Tiere immer frei sind. Aus diesem Grund hat {PAWN_pronoun} beschlossen, deine Fraktion zu verlassen und bei den wilden Tieren zu leben.\n\nDu kannst versuchen, {PAWN_objective} zu zähmen oder zu inhaftieren, um {PAWN_objective} wieder zurückzubekommen.</LetterRunWildMentalBreak>
+  <LetterRunWildMentalBreak>Tá {0} dubh dóite den tsibhialtacht.\n\nTá sé i gceist ag {0} an choilíneacht a fhágáil, agus a s{PAWN_possessive}aol a chaitheamh sa nádúr.\n\nFéadfaidh tú iarracht a dhéanamh a {0} ghabháil nó a cheansú.</LetterRunWildMentalBreak>
 
   <!-- Catatonic mental break -->
   <!-- EN: {0} has suffered a total mental breakdown and entered a catatonic state. {PAWN_pronoun} will recover in several days. -->
-  <LetterCatatonicMentalBreak>{0} hat einen kompletten Nervenzusammenbruch und ist in einem katatonischen Zustand. {PAWN_pronoun} wird sich in ein paar Tagen wieder erholen.</LetterCatatonicMentalBreak>
+  <LetterCatatonicMentalBreak>Tá cliseadh néarógach iomlán tagtha ar {0}, agus tá {PAWN_pronoun} iomlán catatóineach. Tiocfaidh bíseach ar {0} i gceann cúpla lá.</LetterCatatonicMentalBreak>
 
   <!-- EN: Persona Core Offer -->
-  <LetterLabelAICoreOffer>Persona-Kern-Angebot</LetterLabelAICoreOffer>
+  <LetterLabelAICoreOffer>Intleacht shaorga</LetterLabelAICoreOffer>
   <!-- EN: {PAWN_definite} of {1} contacts you with an offer of information: the location of a persona core, which you'll need in order to build a spaceship. They inform you that this item is quite rare and usually its owners have it under heavy guard.\n\nCall them with your comms console if you're interested. -->
-  <LetterAICoreOffer>{PAWN_definite} von der Fraktion {1} kontaktiert dich mit einem Informationsangebot - {PAWN_pronoun} kennt den Standort eines Persona-Kerns. Solche Kerne werden zum Bau von Raumschiffen benötigt. Dieses Objekt ist sehr selten und wird normalerweise schwer bewacht.\n\nKontaktiere {PAWN_objective} über die Funkanlage, wenn du interessiert bist.</LetterAICoreOffer>
+  <LetterAICoreOffer>Déanann {PAWN_definite} ón bhfaicsean {1} teagmháil leat, agus tugann {PAWN_pronoun} eolas duit maidir le hintleacht shaorga. Beidh intleacht shaorga den sórt sin de dhíth ort chun spáslong a thógáil. Deir {PAWN_definite} go bhfuil teicneolaíocht den sórt sin an-luachmhar, agus go bhfuil seans maith ann go mbeidh sí á coinneáil faoi choisaint dhian.\n\nFéadfaidh tú teagmháil a dhéanamh le {PAWN_definite} ar an gconsól cumarsáide chun níos mó eolais a fháil.</LetterAICoreOffer>
 
   <!-- Crafting letters -->
   <!-- EN: Legendary Work -->
-  <LetterCraftedLegendaryLabel>Legendäre Arbeit</LetterCraftedLegendaryLabel>
+  <LetterCraftedLegendaryLabel>Obair den Chéad Scoth</LetterCraftedLegendaryLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessage>{WORKER_labelShort} hat '{CRAFTED_labelShort}' hergestellt.\n\nDie Nachricht über dieses wertvolle Artefakt wird um die Welt gehen.</LetterCraftedLegendaryMessage>
+  <LetterCraftedLegendaryMessage>Chruthaigh {WORKER_labelShort} '{CRAFTED_labelShort}'.\n\nScaipfidh nuacht faoin bpíosa céannródaíoch sin ar fud na cruinne.</LetterCraftedLegendaryMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0}\n\nNews of this valuable artifact will spread across the world. -->
-  <LetterCraftedLegendaryMessageArt>{WORKER_labelShort} hat '{CRAFTED_labelShort}' hergestellt.\n\n{0}\n\nDie Nachricht über dieses wertvolle Artefakt wird um die Welt gehen.</LetterCraftedLegendaryMessageArt>
+  <LetterCraftedLegendaryMessageArt>Chruthaigh {WORKER_labelShort} '{CRAFTED_labelShort}'.\n\nScaipfidh nuacht faoin déantúsán luachmhar sin ar fud na cruinne</LetterCraftedLegendaryMessageArt>
 
   <!-- EN: Masterwork -->
-  <LetterCraftedMasterworkLabel>Meisterwerk</LetterCraftedMasterworkLabel>
+  <LetterCraftedMasterworkLabel>Obair Iontach</LetterCraftedMasterworkLabel>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}. -->
-  <LetterCraftedMasterworkMessage>{WORKER_labelShort} hat '{CRAFTED_labelShort}' hergestellt.</LetterCraftedMasterworkMessage>
+  <LetterCraftedMasterworkMessage>Chruthaigh {WORKER_labelShort} '{CRAFTED_labelShort}'.</LetterCraftedMasterworkMessage>
   <!-- EN: {WORKER_labelShort} has created a {CRAFTED_labelShort}.\n\n{0} -->
-  <LetterCraftedMasterworkMessageArt>{WORKER_labelShort} hat '{CRAFTED_labelShort}' hergestellt.\n\n{0}</LetterCraftedMasterworkMessageArt>
+  <LetterCraftedMasterworkMessageArt>Chruthaigh {WORKER_labelShort} '{CRAFTED_labelShort}'.\n\n{0}</LetterCraftedMasterworkMessageArt>
 
   <!-- Pawns lost because map closed -->
   <!-- EN: Caravan lost -->
-  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Karawane verloren</LetterLabelPawnsLostBecauseMapClosed_Caravan>
+  <LetterLabelPawnsLostBecauseMapClosed_Caravan>Cailleadh carbhán</LetterLabelPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Your caravan has been lost. The following people and animals have been lost with it -->
-  <LetterPawnsLostBecauseMapClosed_Caravan>Deine Karawane ist verloren gegangen. Mit ihr sind folgende Personen und Tiere verschwunden</LetterPawnsLostBecauseMapClosed_Caravan>
+  <LetterPawnsLostBecauseMapClosed_Caravan>D'imigh do charbhán ar strae. Tá na daoine agus ainmhithe seo a leanas imithe</LetterPawnsLostBecauseMapClosed_Caravan>
   <!-- EN: Inhabitants abandoned -->
-  <LetterLabelPawnsLostBecauseMapClosed_Home>Bewohner aufgegeben</LetterLabelPawnsLostBecauseMapClosed_Home>
+  <LetterLabelPawnsLostBecauseMapClosed_Home>Tréigeadh daoine</LetterLabelPawnsLostBecauseMapClosed_Home>
   <!-- EN: The following people and animals have been abandoned -->
-  <LetterPawnsLostBecauseMapClosed_Home>Die folgenden Personen und Tiere wurden aufgegeben</LetterPawnsLostBecauseMapClosed_Home>
+  <LetterPawnsLostBecauseMapClosed_Home>Tréigeadh na daoine agus na hainmhithe seo a leanas</LetterPawnsLostBecauseMapClosed_Home>
 
   <!-- Hibernate complete -->
   <!-- EN: Reactor ready -->
-  <LetterLabelHibernateComplete>Reaktor einsatzbereit</LetterLabelHibernateComplete>
+  <LetterLabelHibernateComplete>Tá an t-imoibreoir réidh</LetterLabelHibernateComplete>
   <!-- EN: (*Name)Charlon Whitestone(/Name) has finished the reactor's hibernation recovery sequence. The reactor is now ready to power a liftoff. -->
-  <LetterHibernateComplete>(*Name)Charlon Whitestone(/Name) hat die Sequenz zum Hochfahren des Reaktors abgeschlossen. Der Reaktor ist jetzt in der Lage, das Schiff einmalig vom Boden abzuheben.</LetterHibernateComplete>
+  <LetterHibernateComplete>Tá (*Name)Charlon Whitestone(/Name) tar éis an t-imoibreoir a thosú. Tá an t-imoibreoir réidh anois chun éirí de thalamh.</LetterHibernateComplete>
   <!-- EN: The reactor's power up sequence is complete. It is now ready to power a liftoff. -->
-  <LetterHibernateCompleteStandalone>Die Sequenz zum Hochfahren des Reaktors ist abgeschlossen. Er ist jetzt in der Lage, das Schiff einmalig vom Boden abzuheben.</LetterHibernateCompleteStandalone>
+  <LetterHibernateCompleteStandalone>Tá an t-imoibreoir réidh anois chun éirí de thalamh.</LetterHibernateCompleteStandalone>
 
   <!-- Visitors gave gift -->
   <!-- EN: Gift from {0} -->
-  <LetterLabelVisitorsGaveGift>Geschenk von '{0}'</LetterLabelVisitorsGaveGift>
+  <LetterLabelVisitorsGaveGift>Brontannas ó '{0}'</LetterLabelVisitorsGaveGift>
   <!-- EN: {0} from {PAWN_factionName} have left a gift:\n\n{1} -->
-  <LetterVisitorsGaveGift>Die {0} der Fraktion {PAWN_factionName} haben ein Geschenk dagelassen:\n\n{1}</LetterVisitorsGaveGift>
+  <LetterVisitorsGaveGift>D'fhág {0} ón bhfaicsean {PAWN_factionName} brontannas duit:\n\n{1}</LetterVisitorsGaveGift>
 
   <!-- Faction base proximity -->
   <!-- EN: Faction base proximity -->
-  <LetterLabelFactionBaseProximity>Nähe zur Basis einer Fraktion</LetterLabelFactionBaseProximity>
+  <LetterLabelFactionBaseProximity>Tá tú cóngarach le faicsin eile</LetterLabelFactionBaseProximity>
   <!-- EN: Because you are so close to other factions, they feel you're encroaching on their territory.\n\nFor the last quadrum, faction relations have been reduced by: -->
-  <LetterFactionBaseProximity>Da du so nahe an anderen Fraktionen bist, sehen sie das als Übergriff auf ihr Land an.\n\nIm letzten Quartal hat sich dein Ruf bei ihnen wie folgt verschlechtert:</LetterFactionBaseProximity>
+  <LetterFactionBaseProximity>Tá do choilíneacht lonnaithe taobh le faicsin eile, agus deir siad go bhfuil tú róchóngarach dá gcríocha.\n\nMar gheall air sin, laghdaíodh do chaidreamh leis an bhfaicsean sin faoi:</LetterFactionBaseProximity>
 
   <!-- Caravans battlefield victory -->
   <!-- EN: Caravan battle won -->
-  <LetterLabelCaravansBattlefieldVictory>Karawanenkampf gewonnen</LetterLabelCaravansBattlefieldVictory>
+  <LetterLabelCaravansBattlefieldVictory>Buadh cath (Carbhán)</LetterLabelCaravansBattlefieldVictory>
   <!-- EN: Your caravan has won the battle.\n\nYou can reform the caravan now in the World screen by selecting the battlefield and choosing the "Reform caravan" option.\n\nThere's no need to collect items manually, the reform caravan tool can do it instantly.\n\nIn {0}, your caravan will be attacked by enemies. They will begin sending forces to attack the caravan, unless it reforms and leaves. -->
-  <LetterCaravansBattlefieldVictory>Deine Karawane hat den Kampf gewonnen.\n\nDu kannst die Karawane jetzt neu formieren, indem du auf der Weltkarte das Schlachtfeld selektierst und die Option "Karawane neu formieren" auswählst.\n\nEs ist nicht notwendig, die Gegenstände manuell einzusammeln - das Karawane-Neu-Formieren-Tool kann das sofort erledigen.\n\nIn (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) werden Feinde deine Karawane angreifen. Sie werden damit beginnen, Truppen zu entsenden, um die Karawane anzugreifen, es sei denn, die Karawane formiert sich neu und zieht ab.</LetterCaravansBattlefieldVictory>
+  <LetterCaravansBattlefieldVictory>D'éirigh le do charbhán an cath a bhuachan.\n\nFéadfaidh tú an carbhán a chur ar bun arís ach "Athchruthaigh carbhán" a roghnú ar léarscáil an domhain.\n\nNí mór duit earraí a roghnú de láimh, baileoidh do choilínigh a gcuid rudaí go huathoibríoch.\n\nTiocfaidh níos mó naimhde i gceann {0} chun do charbhán a ionsú. B'fhearr duit an carbhán a athchruthú agus imeacht ón gceantar chun iad a sheachaint.</LetterCaravansBattlefieldVictory>
 
   <!-- Rescue quest -->
   <!-- EN: Rescuee joins -->
-  <LetterLabelRescueQuestFinished>Geretteter tritt bei</LetterLabelRescueQuestFinished>
+  <LetterLabelRescueQuestFinished>Chuaigh {PAWN_nameDef} le do ghrúpa</LetterLabelRescueQuestFinished>
   <!-- EN: You have rescued {PAWN_nameDef} and {PAWN_pronoun} has joined your group.\n\nYou can take {PAWN_objective} with you by reforming the caravan in the World screen by selecting this area and choosing the "Reform caravan" option. -->
-  <LetterRescueQuestFinished>Du hast {PAWN_nameDef} gerettet. {PAWN_pronoun} beschließt, deiner Gruppe beizutreten.\n\nDu kannst {PAWN_objective} mitnehmen, indem du auf der Weltkarte dieses Gebiet selektierst und die Option "Karawane neu formieren" auswählst.</LetterRescueQuestFinished>
+  <LetterRescueQuestFinished>D'éirigh leat {PAWN_nameDef} a tharrtháil, agus tá {PAWN_pronoun} tar éis dul le do ghrúpa.\n\nFéadfaidh tú a {PAWN_nameDef} thabhairt leat ach an carbhán a athchruthú.</LetterRescueQuestFinished>
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>{PREDATOR_labelShort} jagt {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>Tá {PREDATOR_labelShort} ag seilg {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>{PREDATOR_kindBaseIndef} ist hungrig und macht Jagd auf {PREY_definite}!</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>Tá {PREDATOR_kindBaseIndef} ag iarraidh {PREY_definite} a ithe!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->
-  <LetterDisease_Blocked>{0} blockierte {1} bei</LetterDisease_Blocked>
+  <LetterDisease_Blocked>{0} blocáilte ar {1}</LetterDisease_Blocked>
   <!-- EN: Disease: {0} -->
-  <LetterLabelTraitDisease>Krankheit: {0}</LetterLabelTraitDisease>
+  <LetterLabelTraitDisease>Galar: {0}</LetterLabelTraitDisease>
   <!-- EN: {PAWN_label} has gotten sick from {1}.\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_pronoun} gets proper treatment and spends as much time in bed as possible. -->
-  <LetterTraitDisease>{PAWN_label} ist an {1} erkrankt.\n\nStelle sicher, dass du ein Krankenbett und einen Arzt hast. Sorge dafür, dass {PAWN_pronoun} eine vernünftige Behandlung bekommt und so viel Zeit wie möglich im Bett verbringt, um schnell wieder gesund zu werden.</LetterTraitDisease>
+  <LetterTraitDisease>Tá tinneas tagtha ar {PAWN_label} de bharr {1}.\n\nBí cinnte go bhfuil leaba ospidéil agat agus go bhfuil dochtúir ar fáil, chun go mbeidh {PAWN_pronoun} in ann cóireáil leighis a fháil.</LetterTraitDisease>
 
   <!-- Quests -->
   <!-- EN: A new quest has become available. It is called '{0}'. -->
-  <LetterQuestBecameAvailable>Eine neue Quest ist verfügbar. Sie heißt '{0}'.</LetterQuestBecameAvailable>
+  <LetterQuestBecameAvailable>Tá misean nua ar fáil, dar teideal '{0}'.</LetterQuestBecameAvailable>
   <!-- EN: If you don't accept the quest within {0}, it will expire. -->
-  <LetterQuestRequiresAcceptance>Wenn du die Quest nicht innerhalb von (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) annimmst, wird sie verworfen.</LetterQuestRequiresAcceptance>
+  <LetterQuestRequiresAcceptance>Rachaidh an misean in éag mura nglacfaidh tú leis laistigh de {0}.</LetterQuestRequiresAcceptance>
   <!-- EN: A new quest has become active. It is called '{0}'. -->
-  <LetterQuestBecameActive>Eine neue Quest ist aktiv geworden. Sie heißt '{0}'.</LetterQuestBecameActive>
+  <LetterQuestBecameActive>Cuireadh tús le misean nua dar teideal '{0}'.</LetterQuestBecameActive>
   <!-- EN: Quest active: {0} -->
-  <LetterQuestAutomaticallyAcceptedTitle>Quest aktiv: {0}</LetterQuestAutomaticallyAcceptedTitle>
+  <LetterQuestAutomaticallyAcceptedTitle>Cuireadh tús le misean: {0}</LetterQuestAutomaticallyAcceptedTitle>
   <!-- EN: It will expire in {0}. -->
-  <LetterQuestActiveNowTime>Sie läuft in (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) ab.</LetterQuestActiveNowTime>
+  <LetterQuestActiveNowTime>Rachaidh an misean in éag i gceann {0}.</LetterQuestActiveNowTime>
 
   <!-- Quest drop pods arrived -->
   <!-- EN: Pods arrived -->
-  <LetterLabelQuestDropPodsArrived>Kapseln eingetroffen</LetterLabelQuestDropPodsArrived>
+  <LetterLabelQuestDropPodsArrived>Tá podanna iompair tuirlingthe</LetterLabelQuestDropPodsArrived>
   <!-- EN: Transport pods with the following contents have arrived:\n\n{0} -->
-  <LetterQuestDropPodsArrived>Es sind Transportkapseln mit folgendem Inhalt eingetroffen:\n\n{0}</LetterQuestDropPodsArrived>
+  <LetterQuestDropPodsArrived>Tá podanna iompair tuirlingthe, aguss na rudaí seo a leanas iontu:\n\n{0}</LetterQuestDropPodsArrived>
 
   <!-- Quest items added to caravan inventory -->
   <!-- EN: {CARAVAN_label} received items -->
-  <LetterLabelQuestItemsAddedToCaravanInventory>{CARAVAN_label} hat Gegenstände erhalten</LetterLabelQuestItemsAddedToCaravanInventory>
+  <LetterLabelQuestItemsAddedToCaravanInventory>Cuireadh earraí le {CARAVAN_label}</LetterLabelQuestItemsAddedToCaravanInventory>
   <!-- EN: {CARAVAN_label} has received the following items:\n\n{THINGS} -->
-  <LetterQuestItemsAddedToCaravanInventory>{CARAVAN_label} hat die folgenden Gegenstände erhalten:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
+  <LetterQuestItemsAddedToCaravanInventory>Cuireadh na hearraí seo a leanas le {CARAVAN_label}:\n\n{THINGS}</LetterQuestItemsAddedToCaravanInventory>
 
   <!-- Refugee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRefugeeJoins>{PAWN_nameDef} schließt sich an</LetterLabelRefugeeJoins>
+  <LetterLabelRefugeeJoins>Chuaigh {PAWN_nameDef} leis an gcoilíneacht</LetterLabelRefugeeJoins>
   <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and is joining the colony. -->
-  <LetterRefugeeJoins>{PAWN_nameDef} ist eingetroffen und schließt sich der Kolonie an. {PAWN_pronoun} ist {PAWN_titleIndef}.</LetterRefugeeJoins>
+  <LetterRefugeeJoins>Tá {PAWN_titleIndef} darb ainmn {PAWN_nameDef} tagtha, agus tá {PAWN_pronoun} ag dul leis an gcoilíneacht.</LetterRefugeeJoins>
   
   <!-- Rescuee joins -->
   <!-- EN: {PAWN_nameDef} joins -->
-  <LetterLabelRescueeJoins>{PAWN_nameDef} schließt sich an</LetterLabelRescueeJoins>
+  <LetterLabelRescueeJoins>Chuaigh {PAWN_nameDef} leis an gcoilíneacht</LetterLabelRescueeJoins>
   <!-- EN: {PAWN_nameDef} is thankful that you rescued {PAWN_objective}. {PAWN_pronoun} has decided that {PAWN_pronoun} would rather stay than leave, and is joining your colony. -->
-  <LetterRescueeJoins>{PAWN_nameDef} ist dir dankbar, dass du {PAWN_objective} gerettet hast. {PAWN_pronoun} hat sich entschieden, lieber zu bleiben als zu gehen, und schließt sich deiner Kolonie an.</LetterRescueeJoins>
+  <LetterRescueeJoins>Tá {PAWN_nameDef} an-bhuíoch duit, agus deir {PAWN_pronoun} go bhfuil {PAWN_pronoun} sé ag iarraidh fanacht anseo.</LetterRescueeJoins>
 
   <!-- Pawns arrive and join -->
   <!-- EN: People join -->
-  <LetterLabelPawnsArriveAndJoin>Personen schließen sich an</LetterLabelPawnsArriveAndJoin>
+  <LetterLabelPawnsArriveAndJoin>Chuaigh daoine leis an gcoilíneacht</LetterLabelPawnsArriveAndJoin>
   <!-- EN: The following people have arrived and joined the colony:\n\n{0} -->
-  <LetterPawnsArriveAndJoin>Die folgenden Personen sind eingetroffen und haben sich der Kolonie angeschlossen:\n\n{0}</LetterPawnsArriveAndJoin>
+  <LetterPawnsArriveAndJoin>Tá na daoine seo a leanas tagtha, agus tá siad ag dul leis an gcoilíneacht:\n\n{0}</LetterPawnsArriveAndJoin>
 
   <!-- Pawns arrive -->
   <!-- EN: People arrived -->
-  <LetterLabelPawnsArrive>Personen sind eingetroffen</LetterLabelPawnsArrive>
+  <LetterLabelPawnsArrive>Tá daoine tagtha</LetterLabelPawnsArrive>
   <!-- EN: The following people have arrived:\n\n{0} -->
-  <LetterPawnsArrive>Die folgenden Personen sind eingetroffen:\n\n{0}</LetterPawnsArrive>
+  <LetterPawnsArrive>Tá na daoine seo a leanas tagtha:\n\n{0}</LetterPawnsArrive>
 
   <!-- Pawn leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnLeaving>{0} geht weg</LetterLabelPawnLeaving>
+  <LetterLabelPawnLeaving>Tá {0} ag imeacht</LetterLabelPawnLeaving>
   <!-- EN: {0} is leaving. -->
-  <LetterPawnLeaving>{0} geht weg.</LetterPawnLeaving>
+  <LetterPawnLeaving>Tá {0} ag imeacht.</LetterPawnLeaving>
 
   <!-- Pawns leaving -->
   <!-- EN: {0} leaving -->
-  <LetterLabelPawnsLeaving>{0} gehen weg</LetterLabelPawnsLeaving>
+  <LetterLabelPawnsLeaving>Tá {0} ag imeacht</LetterLabelPawnsLeaving>
   <!-- EN: {0} are leaving. -->
-  <LetterPawnsLeaving>{0} gehen weg.</LetterPawnsLeaving>
+  <LetterPawnsLeaving>Tá {0} ag imeacht.</LetterPawnsLeaving>
   
   <!-- Colonist kidnapped -->
   <!-- EN: {PAWN_nameDef} kidnapped -->
-  <LetterLabelPawnsKidnapped>{PAWN_nameDef} wurde entführt</LetterLabelPawnsKidnapped>
+  <LetterLabelPawnsKidnapped>Fuadaíodh {PAWN_nameDef}</LetterLabelPawnsKidnapped>
   <!-- EN: {PAWN_nameDef} has been kidnapped by {FACTION_name}!
 \nHowever, {PAWN_pronoun} is not lost forever. An opportunity to rescue {PAWN_objective} may present itself in the coming days or years. -->
-  <LetterPawnsKidnapped>{PAWN_nameDef} wurde von der Fraktion {FACTION_name} entführt!\n\nAber {PAWN_pronoun} ist nicht für immer verloren. Vielleicht ergibt sich in den nächsten Tagen oder Jahren die Gelegenheit, {PAWN_objective} zu retten.</LetterPawnsKidnapped>
+  <LetterPawnsKidnapped>Tá {FACTION_name} tar éis {PAWN_nameDef} a fhuadach!\n\nD'fhéadfadh sé go mbeidh deis agat {PAWN_nameDef} a tharrtháil amach anseo.</LetterPawnsKidnapped>
   
   <!-- Techprints -->
   <!-- EN: Techprint applied: {PROJECT_label} -->
-  <LetterTechprintAppliedLabel>Techplan angewendet: {PROJECT_label}</LetterTechprintAppliedLabel>
+  <LetterTechprintAppliedLabel>Úsáideadh teicphrionta: {PROJECT_label}</LetterTechprintAppliedLabel>
   <!-- EN: A techprint has been applied to the research project: {PROJECT_label}. -->
-  <LetterTechprintAppliedPartIntro>Ein Techplan wurde auf das Forschungsprojekt '{PROJECT_label}' angewendet.</LetterTechprintAppliedPartIntro>
+  <LetterTechprintAppliedPartIntro>Úsáideadh teicphrionta mar chuid den tionscadal taighde '{PROJECT_label}'.</LetterTechprintAppliedPartIntro>
   <!-- EN: You've completed the project's techprint requirements! Your researchers can now begin researching how to actually use the technology at your research benches. -->
-  <LetterTechprintAppliedPartJustUnlocked>Du hast die Techplan-Anforderungen des Projekts erfüllt! Deine Forscher können nun damit beginnen zu erforschen, wie die Technologie an deinen Forschertischen konkret genutzt werden kann.</LetterTechprintAppliedPartJustUnlocked>
+  <LetterTechprintAppliedPartJustUnlocked>D'éirigh leat na coillíonnacha a bhaineann leis an tionscadal a chomhlíonadh! Anois, beidh do thaighdeoirí in ann tús a chur leis an obair ag binse taighde.</LetterTechprintAppliedPartJustUnlocked>
   <!-- EN: This project's techprint requirements are not yet satisfied. {0} techprints have been applied so far. The project requires {1} in total. -->
-  <LetterTechprintAppliedPartNotUnlockedYet>Die Techplan-Anforderungen dieses Projekts sind noch nicht erfüllt. Bisher wurden {0} Techpläne angewendet. Das Projekt erfordert insgesamt {1}.</LetterTechprintAppliedPartNotUnlockedYet>
+  <LetterTechprintAppliedPartNotUnlockedYet>Níor comhlíonadh na coinníollacha a bhaineann leis an tionscadal seo. Úsáideadh {0} teicphrionta go dtí seo, ach tá {1} de dhíth.</LetterTechprintAppliedPartNotUnlockedYet>
   <!-- EN: This project's techprint requirements were already satisfied. The extra techprint advanced your research efforts on {PROJECT_label}. Half the remaining research work, {0} points, has been completed. -->
-  <LetterTechprintAppliedPartAlreadyUnlocked>Die Techplan-Anforderungen dieses Projekts wurden bereits erfüllt. Der zusätzliche Techplan hat deine Forschungsbemühungen für {PROJECT_label} vorangetrieben. Die Hälfte der verbleibenden Forschungsarbeit, {0} Punkte, wurde abgeschlossen.</LetterTechprintAppliedPartAlreadyUnlocked>
+  <LetterTechprintAppliedPartAlreadyUnlocked>Comhlíonadh coinníollacha an tionscadail seo cheana féin. Leis an teicphrionta breise, cuireadh do thaighde ar '{PROJECT_label}' chun cinn.</LetterTechprintAppliedPartAlreadyUnlocked>
   <!-- EN: This project is already fully researched, so the techprint didn't advance your knowledge at all. -->
-  <LetterTechprintAppliedPartAlreadyResearched>Dieses Projekt ist bereits vollständig erforscht, daher hat der Techplan deinen Kenntnisstand überhaupt nicht vorangetrieben.</LetterTechprintAppliedPartAlreadyResearched>
+  <LetterTechprintAppliedPartAlreadyResearched>Tá an taighde maidir leis an tionscadal seo críochnaithe, mar sin ní raibh aon éifeacht ag an teicphrionta.</LetterTechprintAppliedPartAlreadyResearched>
   <!-- EN: By applying the techprint, {PAWN_labelShort} gained {0} experience in the {1} skill. -->
-  <LetterTechprintAppliedPartExpAwarded>Durch die Anwendung des Techplans hat {PAWN_labelShort} {0} Erfahrung für {PAWN_possessive}e {1}-Fertigkeit erhalten.</LetterTechprintAppliedPartExpAwarded>
+  <LetterTechprintAppliedPartExpAwarded>D'ardaigh scil '{PAWN_possessive}' {PAWN_labelShort} le {0} pointe.</LetterTechprintAppliedPartExpAwarded>
   
   <!-- Quest Completed -->
   <!-- EN: Quest completed -->
-  <LetterQuestCompletedLabel>Quest abgeschlossen</LetterQuestCompletedLabel>
+  <LetterQuestCompletedLabel>Críochnaíodh misean</LetterQuestCompletedLabel>
   <!-- EN: Quest failed -->
-  <LetterQuestFailedLabel>Quest gescheitert</LetterQuestFailedLabel>
+  <LetterQuestFailedLabel>Theip ort misean a críochnú</LetterQuestFailedLabel>
   <!-- EN: Quest concluded -->
-  <LetterQuestConcludedLabel>Quest beendet</LetterQuestConcludedLabel>
+  <LetterQuestConcludedLabel>Tá deireadh tagtha le misean</LetterQuestConcludedLabel>
   <!-- EN: You have successfully completed the quest '{0}'! -->
-  <LetterQuestCompletedSuccess>Du hast die Quest '{0}' erfolgreich abgeschlossen!</LetterQuestCompletedSuccess>
+  <LetterQuestCompletedSuccess>D'éirigh leat an misean '{0}' a chríochnú!</LetterQuestCompletedSuccess>
   <!-- EN: You have failed the quest '{0}'. -->
-  <LetterQuestCompletedFail>Die Quest '{0}' ist gescheitert.</LetterQuestCompletedFail>
+  <LetterQuestCompletedFail>Theip ort an misean '{0}' a chríochnú.</LetterQuestCompletedFail>
   <!-- EN: You have concluded the quest '{0}'. -->
-  <LetterQuestCompletedConcluded>Du hast die Quest '{0}' beendet.</LetterQuestCompletedConcluded>
+  <LetterQuestCompletedConcluded>Tá deireadh tagtha leis an misean '{0}'.</LetterQuestCompletedConcluded>
 
   <!-- Bladelink -->
   <!-- EN: Persona bond: {PAWN_labelShort} -->
-  <LetterBladelinkWeaponBondedLabel>Persona-Bindung: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
+  <LetterBladelinkWeaponBondedLabel>Nasc: {PAWN_labelShort}</LetterBladelinkWeaponBondedLabel>
   <!-- EN: {PAWN_labelShort} has established a bond with the persona of {WEAPON_labelShort}.
 \nFrom now on, {WEAPON_labelShort} will refuse to be wielded by anyone except {PAWN_labelShort}. -->
-  <LetterBladelinkWeaponBonded>{PAWN_labelShort} hat eine Bindung mit der Persona von {WEAPON_labelShort} hergestellt.\n\nVon nun an weigert sich {WEAPON_labelShort}, von jemand anderem als {PAWN_labelShort} geführt zu werden.</LetterBladelinkWeaponBonded>
+  <LetterBladelinkWeaponBonded>Tá nasc ann anois idir {PAWN_labelShort} agus {WEAPON_labelShort}.\n\nAs seo amach, ní bheidh duine ar bith seachas {PAWN_labelShort} in ann {WEAPON_labelShort} a úsáid.</LetterBladelinkWeaponBonded>
   
   <!-- Mech cluster -->
   <!-- EN: Mechanoids arrived -->
-  <LetterLabelMechClusterArrived>Mechanoiden eingetroffen</LetterLabelMechClusterArrived>
+  <LetterLabelMechClusterArrived>Tá meicea-róbait tagtha</LetterLabelMechClusterArrived>
   <!-- EN: Mechanoids have arrived. -->
-  <LetterMechClusterArrived>Mechanoiden sind eingetroffen.</LetterMechClusterArrived>
+  <LetterMechClusterArrived>Tá meicea-róbait tagtha.</LetterMechClusterArrived>
 
   <!-- EN: Caravan detected -->
-  <LetterLabelSiteCountdownStarted>Karawane entdeckt</LetterLabelSiteCountdownStarted>
+  <LetterLabelSiteCountdownStarted>Aimsíodh do charbhán</LetterLabelSiteCountdownStarted>
   <!-- EN: Your caravan has been detected. In {0}, reinforcing {1} from {2} will begin arriving in the area.\n\nReform your caravan and begin moving to avoid the {1}. A timer counting down to their arrival is now visible. -->
-  <LetterTextSiteCountdownStarted>Deine Karawane wurde entdeckt. In (*DateTime){replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}(/DateTime) werden {1} der Fraktion {2} als Verstärkung im Gebiet eintreffen.\n\nFormiere deine Karawane neu und setze sie in Bewegung, um die {1} zu meiden. Ein Countdown zeigt, wann mit ihrer Ankunft zu rechnen ist.</LetterTextSiteCountdownStarted>
+  <LetterTextSiteCountdownStarted>Aimsíodh do charbhán. I gceann {0}, tiocfaidh {1} ón bhfaicsean {2}.\n\nB'fhiú go mór do charbhán a athchruthú agus imeacht, chun iad a sheachaint.</LetterTextSiteCountdownStarted>
 
   <!-- EN: Unwavering prisoner -->
-  <LetterLabelUnrecruitablePawnCaptured>Unbeugsamer Gefangener</LetterLabelUnrecruitablePawnCaptured>
+  <LetterLabelUnrecruitablePawnCaptured>Príosúnach dílis</LetterLabelUnrecruitablePawnCaptured>
   <!-- EN: {PAWN_nameDef} is unwaveringly loyal to their home and will refuse to be recruited entirely.\n\nYou can see whether someone is unwaveringly loyal by selecting them. -->
-  <LetterTextUnrecruitablePawnCaptured>{PAWN_nameDef} hat {PAWN_possessive}er Heimat absolute Treue geschworen und wird jegliche Rekrutierungsversuche abschmettern.\n\nDu kannst sehen, ob jemand absolut loyal ist, indem du ihn selektierst.</LetterTextUnrecruitablePawnCaptured>
+  <LetterTextUnrecruitablePawnCaptured>Ní bheidh tú in ann {PAWN_nameDef} a earcú, toisc go bhfuil {PAWN_pronoun} chomh dílis sin dá f{PAWN_possessive}aicsean féin.</LetterTextUnrecruitablePawnCaptured>
   <!-- EN: enslave {PAWN_objective} -->
-  <OptionalEnslaveDesc>versklave {PAWN_objective}</OptionalEnslaveDesc>
+  <OptionalEnslaveDesc>déan sclábhaí de {PAWN_objective}</OptionalEnslaveDesc>
 
   <!-- Lung rot -->
   <!-- EN: {PAWN} has gotten sick from {1} due to long-term exposure to rot stink gas (which is given off by rotting corpses).\n\nEnsure you have a medical bed and a doctor. Make sure that {PAWN_definite} gets proper treatment. -->
-  <LetterTextLungRot>{PAWN} ist an {1} erkrankt, weil {PAWN_pronoun} über einen längeren Zeitraum stinkendem Verwesungsgeruch ausgesetzt war (der von verrottenden Leichen abgegeben wird).\n\nStelle sicher, dass du ein Krankenbett und einen Arzt hast. Sorge dafür, dass {PAWN_definite} eine vernünftige Behandlung bekommt, um schnell wieder gesund zu werden.</LetterTextLungRot>
+  <LetterTextLungRot>Tá {1} ar {PAWN}, mar gheall ar nochtú ar ghás tocsaineach (a thagann as corpáin mharbha).\n\nBí cinnte go bhfuil leaba ospidéil agus dochtúir ar fáil chun cóireáil leigheas a chur ar {PAWN}.</LetterTextLungRot>
 
   <!-- Join Offer -->
   <!-- EN: Join offer: {PAWN_nameDef} -->
-  <LetterJoinOfferLabel>Beitrittsangebot: {PAWN_nameDef}</LetterJoinOfferLabel>
+  <LetterJoinOfferLabel>Coilíneach nua: {PAWN_nameDef}</LetterJoinOfferLabel>
   <!-- EN: {PAWN_nameDef} wishes to join your faction. -->
-  <LetterJoinOfferTitle>{PAWN_nameDef} möchte deiner Fraktion beitreten.</LetterJoinOfferTitle>
+  <LetterJoinOfferTitle>Ba mhaith le {PAWN_nameDef} dul leis an gcoilíneacht.</LetterJoinOfferTitle>
   <!-- EN: {PAWN_nameDef} believes that {PAWN_pronoun} is happy at {MAP_definite}. {PAWN_pronoun} wishes to join you permanently. -->
-  <LetterJoinOfferText>{PAWN_nameDef} glaubt, dass {PAWN_pronoun} in {MAP_label} ein glückliches Leben haben wird. {PAWN_pronoun} möchte deiner Kolonie dauerhaft beitreten.</LetterJoinOfferText>
+  <LetterJoinOfferText>Deir {PAWN_nameDef} go bhfuil {PAWN_pronoun} sásta anseo, agus tá {PAWN_pronoun} ag iarraidh fanacht go deo.</LetterJoinOfferText>
   <!-- EN: Accept -->
-  <LetterJoinOfferAccept>Akzeptieren</LetterJoinOfferAccept>
+  <LetterJoinOfferAccept>Glac</LetterJoinOfferAccept>
 
   <!-- Speeches -->
   <!-- EN: {ORGANIZER_labelShort} has finished {ORGANIZER_possessive} speech. -->
-  <LetterFinishedSpeech>{ORGANIZER_labelShort} hat {ORGANIZER_possessive}e Rede beendet.</LetterFinishedSpeech>
+  <LetterFinishedSpeech>Tá óráid {ORGANIZER_labelShort} críochnaithe.</LetterFinishedSpeech>
   <!-- EN: It was truly atrocious - halting, full of awkward jokes and depressing stories. -->
-  <LetterTerribleSpeech>Sie war wirklich schrecklich – stockend, voller peinlicher Witze und deprimierender Geschichten.</LetterTerribleSpeech>
+  <LetterTerribleSpeech>Bhí an óráid go hainnis - bhí sí stadach agus míchompordach.</LetterTerribleSpeech>
   <!-- EN: It was uninspiring - unoriginal, droning and lacking any sense of passion. -->
-  <LetterUninspiringSpeech>Sie war nicht gerade inspirierend – unoriginell, langweilig und ohne jede Spur von Leidenschaft.</LetterUninspiringSpeech>
+  <LetterUninspiringSpeech>Ní raihb an óráid rómhaith - bhí sí leadránach agus gan aon phaisean.</LetterUninspiringSpeech>
   <!-- EN: It was encouraging and well-delivered. -->
-  <LetterEncouragingSpeech>Sie war ermutigend und gut vorgetragen.</LetterEncouragingSpeech>
+  <LetterEncouragingSpeech>Bhí an óráid go maith.</LetterEncouragingSpeech>
   <!-- EN: It was remarkably inspiring, full of intensity and purpose. -->
-  <LetterInspirationalSpeech>Sie war erstaunlich inspirierend, voller Intensität und Entschlossenheit.</LetterInspirationalSpeech>
+  <LetterInspirationalSpeech>Bhí an óráid thar a bheith láidir.</LetterInspirationalSpeech>
   <!-- EN: The following people were particularly moved by the speech and are now inspired: -->
-  <LetterSpeechInspiredListeners>Die folgenden Personen fanden die Rede besonders bewegend und sind nun inspiriert:</LetterSpeechInspiredListeners>
+  <LetterSpeechInspiredListeners>Bhí na daoine seo a leanas an-tógtha leis an óráid, agus tá siad spreagtha anois:</LetterSpeechInspiredListeners>
   <!-- EN: Thanks to {SPEAKER_nameIndef}'s remarkable speech, {PAWN_nameIndef} has experienced an inspiration! -->
-  <LetterSpeechInspiration>Dank der beeindruckenden Rede von {SPEAKER_nameIndef} hat {PAWN_nameIndef} eine Inspiration erfahren!</LetterSpeechInspiration>
+  <LetterSpeechInspiration>Tá ionspráid ar {PAWN_nameIndef} mar gheall ar óráid iontach {SPEAKER_nameIndef} hat {PAWN_nameIndef}!</LetterSpeechInspiration>
   <!-- EN: Because the speech was interrupted after only {0} completed, it wasn't as effective. -->
-  <LetterSpeechInterrupted>Da die Rede nach nur {0} unterbrochen wurde, war sie nicht sehr effektiv.</LetterSpeechInterrupted>
+  <LetterSpeechInterrupted>Cuireadh isteach ar an óráid sula raibh sí críochnaithe, mar sin ní raibh sí chomh héifeachtach.</LetterSpeechInterrupted>
   <!-- EN: {0}'s speech was cancelled before reaching 50% completion. It had no effect. -->
-  <LetterSpeechCancelled>{replace: {0}'s; "s's"-"s'"; "ß's"-"ß'"; "z's"-"z'"; "x's"-"x'"; "ce's"-"ce'"; "'s"-"s"} Rede wurde unterbrochen, bevor diese zu 50% beendet werden konnte. Die Rede hatte keinen Effekt.</LetterSpeechCancelled>
+  <LetterSpeechCancelled>Cuireadh óráid {0} ar ceal sula raibh sí 50%  críochnaithe. Ní raibh aon éifeacht aici.</LetterSpeechCancelled>
   <!-- EN: Speech cancelled -->
-  <LetterLabelSpeechCancelled>Rede abgebrochen</LetterLabelSpeechCancelled>
+  <LetterLabelSpeechCancelled>óráid ar ceal</LetterLabelSpeechCancelled>
 
 </LanguageData>
