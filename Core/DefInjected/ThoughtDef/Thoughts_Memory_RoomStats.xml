@@ -60,77 +60,77 @@
   <JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>Chaith mé roinnt ama i seomra siamsaíochta den chéad scoth.</JoyActivityInImpressiveRecRoom.stages.wondrously_impressive_rec_room.description>
   
   <!-- EN: awful barracks -->
-  <SleptInBarracks.stages.awful_barracks.label>TODO</SleptInBarracks.stages.awful_barracks.label>
+  <SleptInBarracks.stages.awful_barracks.label>beairic uafásach</SleptInBarracks.stages.awful_barracks.label>
   <!-- EN: I had to sleep in an awful barracks. Not only was it a horrible room, but I also had to share it! -->
-  <SleptInBarracks.stages.awful_barracks.description>TODO</SleptInBarracks.stages.awful_barracks.description>
+  <SleptInBarracks.stages.awful_barracks.description>Chodail mé i mbeairic uafásach. Bhí orm an spás a roinnt le daoine eile...</SleptInBarracks.stages.awful_barracks.description>
   <!-- EN: dull barracks -->
-  <SleptInBarracks.stages.dull_barracks.label>TODO</SleptInBarracks.stages.dull_barracks.label>
+  <SleptInBarracks.stages.dull_barracks.label>bearic leamh</SleptInBarracks.stages.dull_barracks.label>
   <!-- EN: I had to sleep in a dull barracks. Not only that, but I also had to share it with other people. -->
-  <SleptInBarracks.stages.dull_barracks.description>TODO</SleptInBarracks.stages.dull_barracks.description>
+  <SleptInBarracks.stages.dull_barracks.description>Chodail mé i mbeairic leamh. Bhí orm an spás a roinnt le daoine eile...</SleptInBarracks.stages.dull_barracks.description>
   <!-- EN: mediocre barracks -->
-  <SleptInBarracks.stages.mediocre_barracks.label>TODO</SleptInBarracks.stages.mediocre_barracks.label>
+  <SleptInBarracks.stages.mediocre_barracks.label>beairic mheasartha</SleptInBarracks.stages.mediocre_barracks.label>
   <!-- EN: I had to sleep in a mediocre barracks with other people around. I really don't like this. -->
-  <SleptInBarracks.stages.mediocre_barracks.description>TODO</SleptInBarracks.stages.mediocre_barracks.description>
+  <SleptInBarracks.stages.mediocre_barracks.description>Chodail mé i mbeairic mheasartha. Bhí orm an spás a roinnt le daoine eile...</SleptInBarracks.stages.mediocre_barracks.description>
   <!-- EN: decent barracks -->
-  <SleptInBarracks.stages.decent_barracks.label>TODO</SleptInBarracks.stages.decent_barracks.label>
+  <SleptInBarracks.stages.decent_barracks.label>beairic dheas</SleptInBarracks.stages.decent_barracks.label>
   <!-- EN: I slept in a decent barracks, but I really dislike sharing a sleeping space. -->
-  <SleptInBarracks.stages.decent_barracks.description>TODO</SleptInBarracks.stages.decent_barracks.description>
+  <SleptInBarracks.stages.decent_barracks.description>Chodail mé i mbeairic dheas, ach is fuath liom mo spás a roinnt le daoine eile...</SleptInBarracks.stages.decent_barracks.description>
   <!-- EN: slightly impressive barracks -->
-  <SleptInBarracks.stages.slightly_impressive_barracks.label>TODO</SleptInBarracks.stages.slightly_impressive_barracks.label>
+  <SleptInBarracks.stages.slightly_impressive_barracks.label>beairic an-dheas</SleptInBarracks.stages.slightly_impressive_barracks.label>
   <!-- EN: I got to sleep in a pretty nice barracks. But I really don't like sharing a room with others. -->
-  <SleptInBarracks.stages.slightly_impressive_barracks.description>TODO</SleptInBarracks.stages.slightly_impressive_barracks.description>
+  <SleptInBarracks.stages.slightly_impressive_barracks.description>Chodail mé i mbeairic an-dheas, ach is fuath liom mo spás a roinnt le daoine eile...</SleptInBarracks.stages.slightly_impressive_barracks.description>
   <!-- EN: impressive barracks -->
-  <SleptInBarracks.stages.impressive_barracks.label>TODO</SleptInBarracks.stages.impressive_barracks.label>
+  <SleptInBarracks.stages.impressive_barracks.label>beairic ghalánta</SleptInBarracks.stages.impressive_barracks.label>
   <!-- EN: I got to sleep in an impressive barracks. It sucks that I had to share it, though. -->
-  <SleptInBarracks.stages.impressive_barracks.description>TODO</SleptInBarracks.stages.impressive_barracks.description>
+  <SleptInBarracks.stages.impressive_barracks.description>Chodail mé i mbeairic ghalánta, ach is fuath liom mo spás a roinnt le daoine eile...</SleptInBarracks.stages.impressive_barracks.description>
   <!-- EN: very impressive barracks -->
-  <SleptInBarracks.stages.very_impressive_barracks.label>TODO</SleptInBarracks.stages.very_impressive_barracks.label>
+  <SleptInBarracks.stages.very_impressive_barracks.label>beairic an-ghalánta</SleptInBarracks.stages.very_impressive_barracks.label>
   <!-- EN: I slept in a very impressive barracks. I don't even mind sharing it. -->
-  <SleptInBarracks.stages.very_impressive_barracks.description>TODO</SleptInBarracks.stages.very_impressive_barracks.description>
+  <SleptInBarracks.stages.very_impressive_barracks.description>Chodail mé i mbeairic dheas.</SleptInBarracks.stages.very_impressive_barracks.description>
   <!-- EN: extremely impressive barracks -->
-  <SleptInBarracks.stages.extremely_impressive_barracks.label>TODO</SleptInBarracks.stages.extremely_impressive_barracks.label>
+  <SleptInBarracks.stages.extremely_impressive_barracks.label>beairic iontach galánta</SleptInBarracks.stages.extremely_impressive_barracks.label>
   <!-- EN: I slept in an extremely impressive barracks. I don't even mind sharing it. -->
-  <SleptInBarracks.stages.extremely_impressive_barracks.description>TODO</SleptInBarracks.stages.extremely_impressive_barracks.description>
+  <SleptInBarracks.stages.extremely_impressive_barracks.description>Chodail mé i mbeairic iontach galánta.</SleptInBarracks.stages.extremely_impressive_barracks.description>
   <!-- EN: unbelievably impressive barracks -->
-  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>TODO</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.label>beairic thar a bheith galánta</SleptInBarracks.stages.unbelievably_impressive_barracks.label>
   <!-- EN: The barracks I slept in was so impressive that I don't even mind sharing it. -->
-  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>TODO</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
+  <SleptInBarracks.stages.unbelievably_impressive_barracks.description>Chodail mé i mbeairic thar a bheith galánta.</SleptInBarracks.stages.unbelievably_impressive_barracks.description>
   <!-- EN: wondrously impressive barracks -->
-  <SleptInBarracks.stages.wondrously_impressive_barracks.label>TODO</SleptInBarracks.stages.wondrously_impressive_barracks.label>
+  <SleptInBarracks.stages.wondrously_impressive_barracks.label>beairic den chéad scoth</SleptInBarracks.stages.wondrously_impressive_barracks.label>
   <!-- EN: I slept in a barracks that was simply wondrous. Even sharing such a space makes me happy. -->
-  <SleptInBarracks.stages.wondrously_impressive_barracks.description>TODO</SleptInBarracks.stages.wondrously_impressive_barracks.description>
+  <SleptInBarracks.stages.wondrously_impressive_barracks.description>Chodail mé i mbeairic den chéad scoth.</SleptInBarracks.stages.wondrously_impressive_barracks.description>
   
   <!-- EN: awful bedroom -->
-  <SleptInBedroom.stages.awful_bedroom.label>TODO</SleptInBedroom.stages.awful_bedroom.label>
+  <SleptInBedroom.stages.awful_bedroom.label>seomra leapa uafásach</SleptInBedroom.stages.awful_bedroom.label>
   <!-- EN: I had to sleep in an awful room. -->
-  <SleptInBedroom.stages.awful_bedroom.description>TODO</SleptInBedroom.stages.awful_bedroom.description>
+  <SleptInBedroom.stages.awful_bedroom.description>Chodail mé i seomra leapa uafásach.</SleptInBedroom.stages.awful_bedroom.description>
   <!-- EN: decent bedroom -->
-  <SleptInBedroom.stages.decent_bedroom.label>TODO</SleptInBedroom.stages.decent_bedroom.label>
+  <SleptInBedroom.stages.decent_bedroom.label>seomra leapa measartha</SleptInBedroom.stages.decent_bedroom.label>
   <!-- EN: I got to sleep in a pretty decent bedroom. -->
-  <SleptInBedroom.stages.decent_bedroom.description>TODO</SleptInBedroom.stages.decent_bedroom.description>
+  <SleptInBedroom.stages.decent_bedroom.description>Chodail mé i seomra leapa measartha.</SleptInBedroom.stages.decent_bedroom.description>
   <!-- EN: slightly impressive bedroom -->
-  <SleptInBedroom.stages.slightly_impressive_bedroom.label>TODO</SleptInBedroom.stages.slightly_impressive_bedroom.label>
+  <SleptInBedroom.stages.slightly_impressive_bedroom.label>seomra leapa deas</SleptInBedroom.stages.slightly_impressive_bedroom.label>
   <!-- EN: I got to sleep in a slightly impressive bedroom. I like it. -->
-  <SleptInBedroom.stages.slightly_impressive_bedroom.description>TODO</SleptInBedroom.stages.slightly_impressive_bedroom.description>
+  <SleptInBedroom.stages.slightly_impressive_bedroom.description>Chodail mé i seomra leapa deas.</SleptInBedroom.stages.slightly_impressive_bedroom.description>
   <!-- EN: impressive bedroom -->
-  <SleptInBedroom.stages.impressive_bedroom.label>TODO</SleptInBedroom.stages.impressive_bedroom.label>
+  <SleptInBedroom.stages.impressive_bedroom.label>seomra leapa an-deas</SleptInBedroom.stages.impressive_bedroom.label>
   <!-- EN: I slept in an impressive bedroom. It was great. -->
-  <SleptInBedroom.stages.impressive_bedroom.description>TODO</SleptInBedroom.stages.impressive_bedroom.description>
+  <SleptInBedroom.stages.impressive_bedroom.description>Chodail mé i seomra leapa an-deas.</SleptInBedroom.stages.impressive_bedroom.description>
   <!-- EN: very impressive bedroom -->
-  <SleptInBedroom.stages.very_impressive_bedroom.label>TODO</SleptInBedroom.stages.very_impressive_bedroom.label>
+  <SleptInBedroom.stages.very_impressive_bedroom.label>seomra leapa galánta</SleptInBedroom.stages.very_impressive_bedroom.label>
   <!-- EN: I slept in a very impressive bedroom. I love it. -->
-  <SleptInBedroom.stages.very_impressive_bedroom.description>TODO</SleptInBedroom.stages.very_impressive_bedroom.description>
+  <SleptInBedroom.stages.very_impressive_bedroom.description>Chodail mé i seomra leapa galánta. Is breá liom é.</SleptInBedroom.stages.very_impressive_bedroom.description>
   <!-- EN: extremely impressive bedroom -->
-  <SleptInBedroom.stages.extremely_impressive_bedroom.label>TODO</SleptInBedroom.stages.extremely_impressive_bedroom.label>
+  <SleptInBedroom.stages.extremely_impressive_bedroom.label>seomra leapa an-ghalánta</SleptInBedroom.stages.extremely_impressive_bedroom.label>
   <!-- EN: I slept in an extremely impressive bedroom. It was marvelous. -->
-  <SleptInBedroom.stages.extremely_impressive_bedroom.description>TODO</SleptInBedroom.stages.extremely_impressive_bedroom.description>
+  <SleptInBedroom.stages.extremely_impressive_bedroom.description>Chodail mé i seomra leapa an-ghalánta. Bhí sé go hiontach.</SleptInBedroom.stages.extremely_impressive_bedroom.description>
   <!-- EN: unbelievably impressive bedroom -->
-  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>TODO</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.label>semora leapa iontach thar a bheith galánta</SleptInBedroom.stages.unbelievably_impressive_bedroom.label>
   <!-- EN: I slept in an unbelievably impressive bedroom. It was truly astounding. -->
-  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>TODO</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
+  <SleptInBedroom.stages.unbelievably_impressive_bedroom.description>Chodail mé i seomra leapa thar a bheith galánta.</SleptInBedroom.stages.unbelievably_impressive_bedroom.description>
   <!-- EN: wondrously impressive bedroom -->
-  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>TODO</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.label>seomra leapa den chéad scoth</SleptInBedroom.stages.wondrously_impressive_bedroom.label>
   <!-- EN: I slept in a heavenly bedroom. It was wondrous. -->
-  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>TODO</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
+  <SleptInBedroom.stages.wondrously_impressive_bedroom.description>Chodail mé i seomra leapa den chéad scoth.</SleptInBedroom.stages.wondrously_impressive_bedroom.description>
   
 </LanguageData>
