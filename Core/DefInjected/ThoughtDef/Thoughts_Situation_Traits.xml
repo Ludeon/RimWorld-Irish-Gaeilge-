@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: ascetic has awful bedroom -->
-  <Ascetic.stages.ascetic_has_awful_bedroom.label>TODO</Ascetic.stages.ascetic_has_awful_bedroom.label>
+  <Ascetic.stages.ascetic_has_awful_bedroom.label>tá seomra leapa uafásach agam</Ascetic.stages.ascetic_has_awful_bedroom.label>
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
-  <Ascetic.stages.ascetic_has_awful_bedroom.description>TODO</Ascetic.stages.ascetic_has_awful_bedroom.description>
+  <Ascetic.stages.ascetic_has_awful_bedroom.description>Is aiséiteach mé, agus is breá liom mo sheomra leapa. Tá sé an-simplí.</Ascetic.stages.ascetic_has_awful_bedroom.description>
   <!-- EN: ascetic has dull bedroom -->
   <Ascetic.stages.ascetic_has_dull_bedroom.label>TODO</Ascetic.stages.ascetic_has_dull_bedroom.label>
   <!-- EN: My bedroom is just how I want it to be. Very humble and simple. -->
@@ -43,17 +43,17 @@
   <Ascetic.stages.ascetic_has_impressive_bedroom-6.description>TODO</Ascetic.stages.ascetic_has_impressive_bedroom-6.description>
   
   <!-- EN: brawler has ranged weapon -->
-  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>TODO</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>tá arm fadraoin agam</BrawlerUnhappy.stages.brawler_has_ranged_weapon.label>
   <!-- EN: I hate shooting from a distance. I want to get up close and personal! -->
-  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>TODO</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
+  <BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>Is dornálaí mé, ach tá arm fadraoin agam!</BrawlerUnhappy.stages.brawler_has_ranged_weapon.description>
   
   <!-- EN: constraining clothes -->
-  <ClothedNudist.stages.constraining_clothes.label>TODO</ClothedNudist.stages.constraining_clothes.label>
+  <ClothedNudist.stages.constraining_clothes.label>tá éadaí orm</ClothedNudist.stages.constraining_clothes.label>
   <!-- EN: I'm a nudist but I have to wear these clothes. It's not unbearable - but I still feel constrained and uncomfortable. -->
-  <ClothedNudist.stages.constraining_clothes.description>TODO</ClothedNudist.stages.constraining_clothes.description>
+  <ClothedNudist.stages.constraining_clothes.description>Is fuath liom éadaí. B'fhearr liom a bheith lomnocht.</ClothedNudist.stages.constraining_clothes.description>
   
   <!-- EN: greedy for impressive bedroom -->
-  <Greedy.stages.greedy_for_impressive_bedroom-0.label>TODO</Greedy.stages.greedy_for_impressive_bedroom-0.label>
+  <Greedy.stages.greedy_for_impressive_bedroom-0.label>tá seomra leapa </Greedy.stages.greedy_for_impressive_bedroom-0.label>
   <!-- EN: I'm greedy. I want a really impressive bedroom. -->
   <Greedy.stages.greedy_for_impressive_bedroom-0.description>TODO</Greedy.stages.greedy_for_impressive_bedroom-0.description>
   <!-- EN: greedy for impressive bedroom -->

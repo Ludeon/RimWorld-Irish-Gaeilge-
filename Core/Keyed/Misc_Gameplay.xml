@@ -1604,13 +1604,13 @@
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
   <PawnTooltipPsychicEntropyStats>Ráta íslithe: {0} / s ({1}s fágtha)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Neuralhitze nimmt zu, wenn eine mentale Kraft gewirkt wird. Das Überschreiten des normalen Limits kann zu einem mentalen Zusammenbruch führen, der mehrere Tage anhält.\n\nNeuralhitze baut sich im Laufe der Zeit wieder automatisch ab. Dieser Prozess kann durch das Tragen von Eltex-Kleidung oder durch Schmerzen beschleunigt werden.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Tagann teas inchinne ar dhaoine tar éis dóibh cumhachtaí síceacha a úsáid. Má thagann an iomarca teas inchinne ar dhuine, d'fhéadfadh cliseadh néarógach teacht air.\n\nLaghdaíonn teas inchinne go nádúrtha le himeacht ama. Is féidir an próiseas sin a dhéanamh níos tápúla trí héadaí áirithe a chaitheamh, nó laghdóigh an teas inchinne níos tápúla má ghortaítear an duine.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>Schmerzboost\n\nSchmerz fokussiert den Geist und erhöht die Neuralhitzerückgangsrate.\n\nSchmerzniveau: {0}\n\nBonus auf Hitzerückgangsrate: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Pian\n\nCuireann pian leis an bhfócas, agus laghdaíonn teas inchinne níos tapúla má bhíonn duine i bpian.\n\Leibhéal péine: {0}\n\nBónas: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>Schalte den Neuralhitzebegrenzer ein/aus.\n\nDas Überschreiten des Hitzelimits kann zu einem mentalen Zusammenbruch führen, der mehrere Tage anhält, aber keine bleibenden Schäden hinterlässt.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>Leis seo, cuirfear srian ar an teas inchinne.\n\nMá sháraítear an teorainn, d'fhéadfadh cliseadh néarógach teacht ar an duine. Ní dhéanfaidh an cliseadh sin aon damáiste buan, áfach.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
-  <PawnTooltipPsyfocus>Psyfokus: {0}</PawnTooltipPsyfocus>
+  <PawnTooltipPsyfocus>Síceafhócas: {0}</PawnTooltipPsyfocus>
 
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
@@ -1618,112 +1618,112 @@
 
   <!-- Rewards -->
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive in a transport pod {0_relationInfoInParentheses} -->
-  <Reward_Pawn_DropPod>{replace: ^{0_titleDef}; "^der "-"ein {0_age}-jähriger "; "^die "-"eine {0_age}-jährige "; "^das "-"ein {0_age}-jähriges "; "^"-""} namens {0_nameDef} mit einer Transportkapsel eintreffen {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
+  <Reward_Pawn_DropPod>Tá {0_title} darb ainm {0_nameDef} ag teacht i bpod iompair {0_relationInfoInParentheses}</Reward_Pawn_DropPod>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will arrive and join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_WalkIn>{replace: ^{0_titleDef}; "^der "-"ein {0_age}-jähriger "; "^die "-"eine {0_age}-jährige "; "^das "-"ein {0_age}-jähriges "; "^"-""} namens {0_nameDef} eintreffen und deiner Kolonie beitreten {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
+  <Reward_Pawn_WalkIn>Tá {0_title} darb ainm {0_nameDef} ag teacht {0_relationInfoInParentheses}. Rachaidh {0_nameDef} leis an gcoilíneacht {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
-  <Reward_Pawn_Caravan>{replace: ^{0_titleDef}; "^der "-"ein {0_age}-jähriger "; "^die "-"eine {0_age}-jährige "; "^das "-"ein {0_age}-jähriges "; "^"-""} namens {0_nameDef} deiner Kolonie beitreten {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
+  <Reward_Pawn_Caravan>Tá {0_title} darb ainm {0_nameDef} ag teacht {0_relationInfoInParentheses}. Rachaidh {0_nameDef} leis an gcoilíneacht {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
   <!-- EN: transport pods with the following resources will arrive (total value {1}):
 \n{0} -->
-  <Reward_Items>dir Folgendes via Transportkapseln zugesendet (Gesamtwert {1}):\n\n{0}</Reward_Items>
+  <Reward_Items>Tiocfaidh pod iompair ina bhfuil na hearraí seo a leanas (luach iomlán {1}):\n\n{0}</Reward_Items>
   <!-- EN: you will receive (total value {1}):
 \n{0} -->
-  <Reward_Items_Caravan>dir Folgendes überreicht (Gesamtwert {1}):\n\n{0}</Reward_Items_Caravan>
+  <Reward_Items_Caravan>gheobhaidh tú (luach iomlán {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
-  <Reward_Goodwill>dein Ruf bei der Fraktion '{0_name}' um {1} Punkte verbessert</Reward_Goodwill>
+  <Reward_Goodwill>feabhsóidh do chaidreamh leis an bhfaicsean '{0_name}' le {1}</Reward_Goodwill>
   <!-- EN: you will be taken to the stars -->
-  <Reward_PassageOffworld>du wirst in die Sterne geschickt</Reward_PassageOffworld>
+  <Reward_PassageOffworld>éalóidh tú ón bpláinéad seo</Reward_PassageOffworld>
   <!-- EN: Passage offworld -->
-  <Reward_PassageOffworld_Label>Überfahrt von hier weg</Reward_PassageOffworld_Label>
+  <Reward_PassageOffworld_Label>Éalú ón bpláinéad</Reward_PassageOffworld_Label>
   <!-- EN: you can loot everything from the camp -->
-  <Reward_CampLoot>du kannst alles aus dem Lager mitnehmen</Reward_CampLoot>
+  <Reward_CampLoot>féadfaidh tú gach rud ón gcampa a thógáil</Reward_CampLoot>
   <!-- EN: Camp loot -->
-  <Reward_CampLoot_Label>Beute des Lagers</Reward_CampLoot_Label>
+  <Reward_CampLoot_Label>TODO</Reward_CampLoot_Label>
   <!-- EN: It is unclear what will happen if you accept this quest -->
-  <Reward_Unknown>TODO</Reward_Unknown>
+  <Reward_Unknown>Ní fios céard a tharlóidh má ghlacann tú leis an misean seo</Reward_Unknown>
   <!-- EN: Unknown -->
-  <Reward_Unknown_Label>TODO</Reward_Unknown_Label>
+  <Reward_Unknown_Label>Ní fios</Reward_Unknown_Label>
   <!-- EN: the visitors will work and fight for you -->
-  <Reward_VisitorsHelp>die Besucher werden für dich arbeiten und kämpfen</Reward_VisitorsHelp>
+  <Reward_VisitorsHelp>beidh na cuairteoirí sásta obair a dhéanamh duit agus troid ar do shon</Reward_VisitorsHelp>
   <!-- EN: Visitors' help -->
-  <Reward_VisitorsHelp_Label>Unterstützung der Besucher</Reward_VisitorsHelp_Label>
+  <Reward_VisitorsHelp_Label>Cúnamh cuairteoirí</Reward_VisitorsHelp_Label>
   <!-- EN: New psylink level -->
-  <Reward_BestowingCeremony_Label>Neue Psylinkstufe</Reward_BestowingCeremony_Label>
+  <Reward_BestowingCeremony_Label>Leibheal síceanaisc nua</Reward_BestowingCeremony_Label>
   <!-- EN: {PAWNNAME} gains psylink -->
-  <Reward_BestowingCeremony>{PAWNNAME} erhält Psylink</Reward_BestowingCeremony>
+  <Reward_BestowingCeremony>Faigheann {PAWNNAME} síceanasc</Reward_BestowingCeremony>
   <!-- EN: Shuttle loot -->
-  <Reward_ShuttleLoot_Label>Shuttle-Beute</Reward_ShuttleLoot_Label>
+  <Reward_ShuttleLoot_Label>Tointeálaí</Reward_ShuttleLoot_Label>
   <!-- EN: you can deconstruct and loot the shuttle -->
-  <Reward_ShuttleLoot>du kannst das Shuttle abreißen und plündern</Reward_ShuttleLoot>
+  <Reward_ShuttleLoot>beidh tú in ann an toineálaí a bhriseadh síos agus na hearraí istigh a thógáil</Reward_ShuttleLoot>
   <!-- EN: Possible future reward -->
-  <Reward_PossibleFutureReward_Label>Mögliche zukünftige Belohnung</Reward_PossibleFutureReward_Label>
+  <Reward_PossibleFutureReward_Label>Duais amach anseo</Reward_PossibleFutureReward_Label>
   <!-- EN: a reward possibly granted in the future -->
-  <Reward_PossibleFutureReward>eine Belohnung, die du eventuell zu einem späteren Zeitpunkt erhältst</Reward_PossibleFutureReward>
+  <Reward_PossibleFutureReward>d'fhéadfadh sé go gheobhaidh tú luach saothair amach anseo</Reward_PossibleFutureReward>
   <!-- EN: {TITLE} title -->
-  <Reward_Title_Label>{TITLE}-Titel</Reward_Title_Label>
+  <Reward_Title_Label>Teideal '{TITLE}'</Reward_Title_Label>
   <!-- EN: {PAWNNAME} gains {TITLE} title from {FACTION} -->
-  <Reward_Title>{PAWNNAME} erhält den {TITLE}-Titel von der Fraktion '{FACTION}'</Reward_Title>
+  <Reward_Title>Gheobhaidh {PAWNNAME} an teideal '{TITLE}' ón bhfaicsean '{FACTION}'</Reward_Title>
   <!-- EN: value {0} -->
-  <TotalValue>Wert {0}</TotalValue>
+  <TotalValue>luach {0}</TotalValue>
 
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
-  <BondedWith>Gebunden an: {0}</BondedWith>
+  <BondedWith>Nasctha le: {0}</BondedWith>
   <!-- EN: Not yet bonded -->
-  <NotBonded>Noch nicht gebunden</NotBonded>
+  <NotBonded>Níl aon nasc ann</NotBonded>
   <!-- EN: bonded to someone else -->
-  <BladelinkBondedToSomeoneElse>an jemand anderen gebunden</BladelinkBondedToSomeoneElse>
+  <BladelinkBondedToSomeoneElse>nasctha le duine eile</BladelinkBondedToSomeoneElse>
   <!-- EN: (existing bond) -->
-  <BladelinkAlreadyBonded>(bereits gebunden)</BladelinkAlreadyBonded>
+  <BladelinkAlreadyBonded>(tá nasc ann cheana)</BladelinkAlreadyBonded>
   <!-- EN: A person can only bond with one persona weapon at a time.\n\nTo equip and bond with {WEAPON_labelShort}, {PAWN_nameDef}'s currently bonded weapon {BONDEDWEAPON_labelShort} must first be destroyed. -->
-  <BladelinkAlreadyBondedDialog>Eine Person kann sich immer nur mit einer Persona-Waffe verbinden.\n\nWenn {PAWN_nameDef} die Waffe '{WEAPON_labelShort}' ausrüsten und eine Bindung mit ihr eingehen soll, muss zuerst {PAWN_possessive}e derzeit gebundene Waffe '{BONDEDWEAPON_labelShort}' zerstört werden.</BladelinkAlreadyBondedDialog>
+  <BladelinkAlreadyBondedDialog>Ní féidir le duine nascadh ach le harm amháin.\n\nChun go mbeidh {PAWN_nameDef} in ann nascadh le '{WEAPON_labelShort}', ní mór an t-arm lena bhfuil {PAWN_pronoun} nasctha faoi láthair, '{BONDEDWEAPON_labelShort}', a scriosadh.</BladelinkAlreadyBondedDialog>
   <!-- EN: {PAWN_nameDef} is already bonded to {BONDEDWEAPON_labelShort} -->
-  <BladelinkAlreadyBondedMessage>{PAWN_nameDef} ist bereits an {BONDEDWEAPON_labelShort} gebunden</BladelinkAlreadyBondedMessage>
+  <BladelinkAlreadyBondedMessage>Tá {PAWN_nameDef} nasctha le {BONDEDWEAPON_labelShort} cheana</BladelinkAlreadyBondedMessage>
 
   <!-- Biocoded weapons -->
   <!-- EN: biocoded {0} -->
-  <Biocoded>{1_gender ? biokodierter : biokodierte : biokodiertes} {0}</Biocoded>
+  <Biocoded>{0} bithchódaithe</Biocoded>
   <!-- EN: Biocoding: {0} -->
-  <CodedFor>Biokodierung: {0}</CodedFor>
+  <CodedFor>Ag bithchódú: {0}</CodedFor>
   <!-- EN: biocoded -->
-  <BiocodedCodedForSomeoneElse>biokodiert</BiocodedCodedForSomeoneElse>
+  <BiocodedCodedForSomeoneElse>bithchódaithe</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
   <!-- EN: Intercepts {0} every {1} -->
-  <InterceptsProjectilesEvery>Wehrt {0} alle {1} ab</InterceptsProjectilesEvery>
+  <InterceptsProjectilesEvery>Stopfar {0} gach {1}</InterceptsProjectilesEvery>
   <!-- EN: Intercepts {0} -->
-  <InterceptsProjectiles>Wehrt {0} ab</InterceptsProjectiles>
+  <InterceptsProjectiles>Stopfar {0}</InterceptsProjectiles>
   <!-- EN: ground projectiles -->
-  <InterceptsProjectiles_GroundProjectiles>Bodenprojektile</InterceptsProjectiles_GroundProjectiles>
+  <InterceptsProjectiles_GroundProjectiles>diúracáin talaimh</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
-  <InterceptsProjectiles_AerialProjectiles>Luftprojektile</InterceptsProjectiles_AerialProjectiles>
+  <InterceptsProjectiles_AerialProjectiles>diúracáin aeir</InterceptsProjectiles_AerialProjectiles>
 
   <!-- Condition causers -->
   <!-- EN: Affected gender -->
-  <AffectedGender>Betroffenes Geschlecht</AffectedGender>
+  <AffectedGender>An t-inscne atá i gceist:</AffectedGender>
 
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
-  <CausedByHediff>Verursacht durch: {0}</CausedByHediff>
+  <CausedByHediff>De bharr: {0}</CausedByHediff>
 
   <!-- EN: {DAMAGE_label} weakness -->
-  <DamageFactorWeakness>TODO</DamageFactorWeakness>
+  <DamageFactorWeakness>leochaileacht roimh '{DAMAGE_label}'</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
-  <DamageFactorResistance>TODO</DamageFactorResistance>
+  <DamageFactorResistance>frithsheasmhacht i gcoinne '{DAMAGE_label}'</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
-  <DamageFactor>TODO</DamageFactor>
+  <DamageFactor>Déanfar an damáiste '{DAMAGE_label}' a dhéantar don duine/don ainmhí seo a iolrú faoin luacht seo.</DamageFactor>
 
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
-  <HealingHealHediff>TODO</HealingHealHediff>
+  <HealingHealHediff>Leigheasadh {1} {0_nameDef}.</HealingHealHediff>
   <!-- EN: {0_nameDef}'s {1} was restored. -->
-  <HealingRestoreBodyPart>{replace: {0_nameDef}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1} wurde wiederhergestellt.</HealingRestoreBodyPart>
+  <HealingRestoreBodyPart>Tugadh {1} {0_nameDef} ar ais.</HealingRestoreBodyPart>
 
   <!-- EN: Caution: Placing a building here will anger {FACTION_name}! -->
-  <WarningBuildingCausesHostility>Achtung: Wenn du hier ein Bauwerk platzierst, verärgert das die Fraktion {FACTION_name}!</WarningBuildingCausesHostility>
+  <WarningBuildingCausesHostility>Rabhadh: Má chuirtear struchtúr anseo, ní bheidh {FACTION_name} sásta!</WarningBuildingCausesHostility>
 
   <!-- EN: Choose landing site -->
-  <ChooseLandingSite>Landeplatz wählen</ChooseLandingSite>
+  <ChooseLandingSite>Roghnaigh suíomh leaindeála</ChooseLandingSite>
 
   <!-- LordJobs -->
   <!-- EN: Outcome chances at {0} quality -->
@@ -1733,10 +1733,10 @@
 
   <!-- Rituals -->
   <!-- EN: ritual -->
-  <Ritual>Ritual</Ritual>
+  <Ritual>Deasghnáth</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>Veranstaltungsort</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
   <RitualTargetThingDefsInfo>{0_gender ? Beliebiger : Beliebige : Beliebiges} {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
@@ -1818,44 +1818,44 @@
   <DateRitualNoObligation>Ní mór {0} a dhéanamh ar dháta ar leith. Beidh tú in ann tús a chur leis i gceann {1}, ar an {2}.</DateRitualNoObligation>
 
   <!-- EN: Replace with -->
-  <PreceptReplaceWith>Remplacer par</PreceptReplaceWith>
+  <PreceptReplaceWith>Ionadaigh le</PreceptReplaceWith>
   <!-- EN: Ritual seat of {IDEOS} -->
-  <RitualSeatOf>Siège cérémoniel de {IDEOS}</RitualSeatOf>
+  <RitualSeatOf>Is é seo suíochán {IDEOS}</RitualSeatOf>
   <!-- EN: Expected quality -->
-  <ExpectedLordJobQuality>TODO</ExpectedLordJobQuality>
+  <ExpectedLordJobQuality>cáilíocht a bhfuiltear ag súil léi</ExpectedLordJobQuality>
   <!-- EN: Starting quality -->
-  <StartingQuality>Qualité de départ</StartingQuality>
+  <StartingQuality>cáilíocht thosaigh</StartingQuality>
   <!-- EN: {PAWN_labelShort}'s {1} -->
-  <RitualPredictedOutcomeDescPawnStat>{replace: {PAWN_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1}</RitualPredictedOutcomeDescPawnStat>
+  <RitualPredictedOutcomeDescPawnStat>{1} {PAWN_labelShort}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
-  <RitualPredictedOutcomeDescRoomBeauty>Raumattraktivität</RitualPredictedOutcomeDescRoomBeauty>
+  <RitualPredictedOutcomeDescRoomBeauty>áilleacht an tseomra</RitualPredictedOutcomeDescRoomBeauty>
   <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>Teilnehmer</RitualPredictedOutcomeDescParticipantCount>
+  <RitualPredictedOutcomeDescParticipantCount>rannpháirtithe</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
-  <RitualPredictedOutcomeDescPawnExpectations>{replace: {PAWN_labelShort}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} Erwartungen</RitualPredictedOutcomeDescPawnExpectations>
+  <RitualPredictedOutcomeDescPawnExpectations>ionchais {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
-  <RitualOutcomeLovedOnePresentLabel>Geliebte anwesend</RitualOutcomeLovedOnePresentLabel>
+  <RitualOutcomeLovedOnePresentLabel>Tá duine muinteartha i láthair</RitualOutcomeLovedOnePresentLabel>
   <!-- EN: Any person that {PAWN_labelShort} considers their friend or more. -->
-  <RitualOutcomeLovedOnePresentTip>Jede Person, die {PAWN_labelShort} als {PAWN_possessive}en Freund oder mehr betrachtet.</RitualOutcomeLovedOnePresentTip>
+  <RitualOutcomeLovedOnePresentTip>Duine ar bith a bhfuil gaol maith ag {PAWN_labelShort} leis.</RitualOutcomeLovedOnePresentTip>
 
   <!-- EN: Any of these -->
-  <RitualOutcomeLabelAnyOfThese>N'importe lequel</RitualOutcomeLabelAnyOfThese>
+  <RitualOutcomeLabelAnyOfThese>Aon cheann</RitualOutcomeLabelAnyOfThese>
   <!-- EN: Replaces {PAWN_labelShort} -->
-  <RitualRoleReplaces>Ersetzt {PAWN_labelShort}</RitualRoleReplaces>
+  <RitualRoleReplaces>Cuirfear an ról seo in ionad {PAWN_labelShort}</RitualRoleReplaces>
 
   <!-- EN: present -->
-  <Present>aktuell</Present>
+  <Present>i láthair</Present>
   <!-- EN: {0} used -->
-  <Used>{0} benutzt</Used>
+  <Used>{0} úsáidte</Used>
   <!-- EN: {0} starting quality -->
-  <StartingRitualQuality>{0} Startqualität</StartingRitualQuality>
+  <StartingRitualQuality>cáilíocht bhunaidh: {0}</StartingRitualQuality>
 
   <!-- EN: up to {0} quality -->
   <OutcomeBonusDesc_Quality>suas le cáilíocht {0}</OutcomeBonusDesc_Quality>
   <!-- EN: {0} quality -->
   <OutcomeBonusDesc_QualitySingleOffset>cáilíocht {0}</OutcomeBonusDesc_QualitySingleOffset>
   <!-- EN: {OUTCOMELABEL} {RITUALLABEL} -->
-  <OutcomeLetterLabel>{lookup: {OUTCOMELABEL}es Ritual: {RITUALLABEL}; ritual}</OutcomeLetterLabel>
+  <OutcomeLetterLabel>{OUTCOMELABEL} {RITUALLABEL}</OutcomeLetterLabel>
   <!-- EN: {0} max -->
   <MaxValue>{0} uasta</MaxValue>
 
@@ -1894,7 +1894,7 @@
   <!-- EN: {0_labelShort} is participating in {1}. -->
   <AbilityDisabledInRitual>Tá {0_labelShort} páirteach i '{1}'.</AbilityDisabledInRitual>
   <!-- EN: Charges -->
-  <Charges>Ladungen</Charges>
+  <Charges>lánáin</Charges>
 
   <!-- EN: {0_nameDef} is in a mental state. -->
   <PawnIsInMentalState>Tá cliseadh néarógach ar {0_nameDef}.</PawnIsInMentalState>
@@ -2021,10 +2021,10 @@
   <AboutToExplode>ar tí pléascadh</AboutToExplode>
 
   <!-- EN: New Anomaly expansion available now! -->
-  <MainScreen_AnomalyAvailableNow>TODO</MainScreen_AnomalyAvailableNow>
+  <MainScreen_AnomalyAvailableNow>Tá RimWorld:Anomaly ar fáil anois!</MainScreen_AnomalyAvailableNow>
 
   <!-- EN: Disabled by scenario -->
-  <DisabledByScenario>TODO</DisabledByScenario>
+  <DisabledByScenario>díghníomhachtaithe</DisabledByScenario>
 
   <!-- EN: blocked by roof -->
   <BlockedByRoof>tá díon sa bhealach</BlockedByRoof>

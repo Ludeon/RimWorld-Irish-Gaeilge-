@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: botched my surgery -->
-  <BotchedMySurgery.stages.botched_my_surgery.label>TODO</BotchedMySurgery.stages.botched_my_surgery.label>
+  <BotchedMySurgery.stages.botched_my_surgery.label>rinneadh praiseach den obráid</BotchedMySurgery.stages.botched_my_surgery.label>
   
   <!-- EN: broke up with me -->
-  <BrokeUpWithMe.stages.broke_up_with_me.label>TODO</BrokeUpWithMe.stages.broke_up_with_me.label>
+  <BrokeUpWithMe.stages.broke_up_with_me.label>scaradh</BrokeUpWithMe.stages.broke_up_with_me.label>
   
   <!-- EN: broken up with by {0} -->
-  <BrokeUpWithMeMood.stages.broken_up_with_by.label>TODO</BrokeUpWithMeMood.stages.broken_up_with_by.label>
+  <BrokeUpWithMeMood.stages.broken_up_with_by.label>bhris {0} suas liom</BrokeUpWithMeMood.stages.broken_up_with_by.label>
   <!-- EN: I was just dumped like a load of garbage. -->
-  <BrokeUpWithMeMood.stages.broken_up_with_by.description>TODO</BrokeUpWithMeMood.stages.broken_up_with_by.description>
+  <BrokeUpWithMeMood.stages.broken_up_with_by.description>Bhris {0} suas liom...</BrokeUpWithMeMood.stages.broken_up_with_by.description>
   
   <!-- EN: cheated on me -->
-  <CheatedOnMe.stages.cheated_on_me.label>TODO</CheatedOnMe.stages.cheated_on_me.label>
+  <CheatedOnMe.stages.cheated_on_me.label>mídhílseacht</CheatedOnMe.stages.cheated_on_me.label>
   
   <!-- EN: cheated on by {0} -->
-  <CheatedOnMeMood.stages.cheated_on_by.label>TODO</CheatedOnMeMood.stages.cheated_on_by.label>
+  <CheatedOnMeMood.stages.cheated_on_by.label>Bhí {0} ag siúl le duine eile</CheatedOnMeMood.stages.cheated_on_by.label>
   <!-- EN: How could someone cheat on me! -->
-  <CheatedOnMeMood.stages.cheated_on_by.description>TODO</CheatedOnMeMood.stages.cheated_on_by.description>
+  <CheatedOnMeMood.stages.cheated_on_by.description>Bhí {0} ag siúl amach le duine eile...</CheatedOnMeMood.stages.cheated_on_by.description>
   
   <!-- EN: chitchat -->
-  <Chitchat.stages.chitchat.label>TODO</Chitchat.stages.chitchat.label>
+  <Chitchat.stages.chitchat.label>caint agus comhrá</Chitchat.stages.chitchat.label>
   
   <!-- EN: crashed together -->
   <CrashedTogether.stages.crashed_together.label>TODO</CrashedTogether.stages.crashed_together.label>

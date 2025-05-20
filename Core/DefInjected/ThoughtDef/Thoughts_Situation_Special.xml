@@ -2,59 +2,59 @@
 <LanguageData>
   
   <!-- EN: beautiful aurora -->
-  <Aurora.stages.beautiful_aurora.label>TODO</Aurora.stages.beautiful_aurora.label>
+  <Aurora.stages.beautiful_aurora.label>aróir álainn</Aurora.stages.beautiful_aurora.label>
   <!-- EN: The view is amazing. -->
-  <Aurora.stages.beautiful_aurora.description>TODO</Aurora.stages.beautiful_aurora.description>
+  <Aurora.stages.beautiful_aurora.description>Tá radharc iontach ann.</Aurora.stages.beautiful_aurora.description>
   
   <!-- EN: colonist left unburied -->
-  <ColonistLeftUnburied.stages.colonist_left_unburied.label>TODO</ColonistLeftUnburied.stages.colonist_left_unburied.label>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.label>tá coilíneach le hadhlacadh</ColonistLeftUnburied.stages.colonist_left_unburied.label>
   <!-- EN: One of us died and we're just leaving them lying in the open. Nobody should be left like that. People deserve a decent burial. -->
-  <ColonistLeftUnburied.stages.colonist_left_unburied.description>TODO</ColonistLeftUnburied.stages.colonist_left_unburied.description>
+  <ColonistLeftUnburied.stages.colonist_left_unburied.description>Cailleadh duine ón gcoilíneacht, agus ní raibh aon torramh ann.</ColonistLeftUnburied.stages.colonist_left_unburied.description>
   
   <!-- EN: minor passion for my work -->
-  <DoingPassionateWork.stages.minor_passion_for_my_work.label>TODO</DoingPassionateWork.stages.minor_passion_for_my_work.label>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.label>Tá spéis agam i mo chuid oibre</DoingPassionateWork.stages.minor_passion_for_my_work.label>
   <!-- EN: I enjoy my work. -->
-  <DoingPassionateWork.stages.minor_passion_for_my_work.description>TODO</DoingPassionateWork.stages.minor_passion_for_my_work.description>
+  <DoingPassionateWork.stages.minor_passion_for_my_work.description>Is maith liom mo chuid oibre</DoingPassionateWork.stages.minor_passion_for_my_work.description>
   <!-- EN: burning passion for my work -->
-  <DoingPassionateWork.stages.burning_passion_for_my_work.label>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.label>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.label>Tá mé paiseanta faoi mo chuid oibre</DoingPassionateWork.stages.burning_passion_for_my_work.label>
   <!-- EN: I love my work. I could do this all day, every day. -->
-  <DoingPassionateWork.stages.burning_passion_for_my_work.description>TODO</DoingPassionateWork.stages.burning_passion_for_my_work.description>
+  <DoingPassionateWork.stages.burning_passion_for_my_work.description>Tá mé paiseanta faoi mo chuid oibre.</DoingPassionateWork.stages.burning_passion_for_my_work.description>
   
   <!-- UNUSED -->
-  <GeneticChemicalDependency.stages.genetic_chemical_dependency.label>genetische chemische Abhängigkeit</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
-  <GeneticChemicalDependency.stages.genetic_chemical_dependency.description>Ich brauche {CHEMICAL_label} wegen eines genetischen Defekts. Es wäre wieder einmal so weit.</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
+  <GeneticChemicalDependency.stages.genetic_chemical_dependency.label>TODO</GeneticChemicalDependency.stages.genetic_chemical_dependency.label>
+  <GeneticChemicalDependency.stages.genetic_chemical_dependency.description>TODO</GeneticChemicalDependency.stages.genetic_chemical_dependency.description>
   
   <!-- EN: joywire -->
-  <Joywire.stages.joywire.label>TODO</Joywire.stages.joywire.label>
+  <Joywire.stages.joywire.label>spraoi-sreang</Joywire.stages.joywire.label>
   <!-- EN: It feels amazing. -->
-  <Joywire.stages.joywire.description>TODO</Joywire.stages.joywire.description>
+  <Joywire.stages.joywire.description>Is iontach an mothú é!</Joywire.stages.joywire.description>
   
   <!-- EN: missing tongue -->
-  <MissingTongue.stages.missing_tongue.label>TODO</MissingTongue.stages.missing_tongue.label>
+  <MissingTongue.stages.missing_tongue.label>níl aon teanga agam</MissingTongue.stages.missing_tongue.label>
   <!-- EN: I am missing my tongue. It is so frustrating not being able to speak! -->
-  <MissingTongue.stages.missing_tongue.description>TODO</MissingTongue.stages.missing_tongue.description>
+  <MissingTongue.stages.missing_tongue.description>Chaill mé mo theanga. Cuireann sé an-frustrachas orm nach bhfuil mé in ann labhairt a thuilleadh!</MissingTongue.stages.missing_tongue.description>
   
   <!-- EN: naked -->
-  <Naked.stages.naked.label>TODO</Naked.stages.naked.label>
+  <Naked.stages.naked.label>táim lomnocht</Naked.stages.naked.label>
   <!-- EN: I'm naked. This is humiliating. -->
-  <Naked.stages.naked.description>TODO</Naked.stages.naked.description>
+  <Naked.stages.naked.description>Táim lomnocht. Tá náire orm!</Naked.stages.naked.description>
   
   <!-- EN: minor pain -->
-  <Pain.stages.minor_pain.label>TODO</Pain.stages.minor_pain.label>
+  <Pain.stages.minor_pain.label>tá pian orm</Pain.stages.minor_pain.label>
   <!-- EN: Ow... That hurts. -->
-  <Pain.stages.minor_pain.description>TODO</Pain.stages.minor_pain.description>
+  <Pain.stages.minor_pain.description>Och... Gortaíonn sé.</Pain.stages.minor_pain.description>
   <!-- EN: serious pain -->
-  <Pain.stages.serious_pain.label>TODO</Pain.stages.serious_pain.label>
+  <Pain.stages.serious_pain.label>tá drochphian orm</Pain.stages.serious_pain.label>
   <!-- EN: Ughhh... When will it end? -->
-  <Pain.stages.serious_pain.description>TODO</Pain.stages.serious_pain.description>
+  <Pain.stages.serious_pain.description>Ugh... Cathain a bheidh deireadh leis an bpian?</Pain.stages.serious_pain.description>
   <!-- EN: intense pain -->
-  <Pain.stages.intense_pain.label>TODO</Pain.stages.intense_pain.label>
+  <Pain.stages.intense_pain.label>tá pian uafásach orm</Pain.stages.intense_pain.label>
   <!-- EN: Make it stop... make it stop... make it stop... -->
-  <Pain.stages.intense_pain.description>TODO</Pain.stages.intense_pain.description>
+  <Pain.stages.intense_pain.description>Och... Tá mé ag fulaingt!</Pain.stages.intense_pain.description>
   <!-- EN: mind-shattering pain -->
-  <Pain.stages.mindshattering_pain.label>TODO</Pain.stages.mindshattering_pain.label>
+  <Pain.stages.mindshattering_pain.label>tá pian tromchúiseach orm </Pain.stages.mindshattering_pain.label>
   <!-- EN: AAAAAHHH! -->
-  <Pain.stages.mindshattering_pain.description>TODO</Pain.stages.mindshattering_pain.description>
+  <Pain.stages.mindshattering_pain.description>AAAAAHHH!</Pain.stages.mindshattering_pain.description>
   
   <!-- EN: psychic soothe -->
   <PsychicDrone.stages.psychic_soothe.label>TODO</PsychicDrone.stages.psychic_soothe.label>
