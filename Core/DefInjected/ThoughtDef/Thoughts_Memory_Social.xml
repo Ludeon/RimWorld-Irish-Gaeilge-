@@ -24,170 +24,170 @@
   <Chitchat.stages.chitchat.label>caint agus comhrá</Chitchat.stages.chitchat.label>
   
   <!-- EN: crashed together -->
-  <CrashedTogether.stages.crashed_together.label>TODO</CrashedTogether.stages.crashed_together.label>
+  <CrashedTogether.stages.crashed_together.label>tuirlingt de thuairt</CrashedTogether.stages.crashed_together.label>
   
   <!-- EN: deep talk -->
-  <DeepTalk.stages.deep_talk.label>TODO</DeepTalk.stages.deep_talk.label>
+  <DeepTalk.stages.deep_talk.label>comhrá domhain</DeepTalk.stages.deep_talk.label>
   
   <!-- EN: divorced me -->
-  <DivorcedMe.stages.divorced_me.label>TODO</DivorcedMe.stages.divorced_me.label>
+  <DivorcedMe.stages.divorced_me.label>colscaradh</DivorcedMe.stages.divorced_me.label>
   
   <!-- EN: divorced by {0} -->
-  <DivorcedMeMood.stages.divorced_by.label>TODO</DivorcedMeMood.stages.divorced_by.label>
+  <DivorcedMeMood.stages.divorced_by.label>scair mé le {0}</DivorcedMeMood.stages.divorced_by.label>
   <!-- EN: We made a commitment, and they just tore it apart. -->
-  <DivorcedMeMood.stages.divorced_by.description>TODO</DivorcedMeMood.stages.divorced_by.description>
+  <DivorcedMeMood.stages.divorced_by.description>Theip ar an bpósadh, agus níor oibrigh rud ar bith amach...</DivorcedMeMood.stages.divorced_by.description>
   
   <!-- EN: failed to romance me -->
-  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>TODO</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
+  <FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>theip ar an gcliúsaíocht</FailedRomanceAttemptOnMe.stages.failed_to_romance_me.label>
   
   <!-- EN: had to rebuff {0} -->
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>TODO</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>bhí orm diúltú do {0}</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.label>
   <!-- EN: Someone I don't like tried to romance me. -->
-  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>TODO</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
+  <FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>rinne duine nach dtaitníonn liom iarracht mé a mhealladh</FailedRomanceAttemptOnMeLowOpinionMood.stages.had_to_rebuff.description>
   
   <!-- EN: forced me to take drugs -->
-  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>TODO</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
+  <ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>cuireadh iachall orm drugaí a thógáil</ForcedMeToTakeDrugs.stages.forced_me_to_take_drugs.label>
   
   <!-- EN: forced to take drugs -->
-  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>TODO</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>cuireadh iachall orm drugaí a thógáil</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.label>
   <!-- EN: I'm a teetotaler; I would never take drugs by choice. But I was forced! I feel unclean. -->
-  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>TODO</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
+  <ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>Is fuath liom drugaí, ach cuireadh iachall orm iad a thógáil.</ForcedMeToTakeDrugsMood.stages.forced_to_take_drugs.description>
   
   <!-- EN: forced me to take luciferium -->
-  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>TODO</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
+  <ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>cuireadh iachall orm lúicifiream a thógáil</ForcedMeToTakeLuciferium.stages.forced_me_to_take_luciferium.label>
   
   <!-- EN: forced to take luciferium -->
-  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>TODO</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>cuireadh iachall orm lúicifiream a thógáil</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.label>
   <!-- EN: I'm a body purist; I would never take luciferium by choice. But I was forced! I feel unclean. -->
-  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>TODO</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
+  <ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>Is fuath liom drugaí, ach cuireadh iachall orm lúicifiream a thógáil.</ForcedMeToTakeLuciferiumMood.stages.forced_to_take_luciferium.description>
   
   <!-- EN: got some lovin' -->
-  <GotSomeLovin.stages.got_some_lovin.label>TODO</GotSomeLovin.stages.got_some_lovin.label>
+  <GotSomeLovin.stages.got_some_lovin.label>caidreamh collaí</GotSomeLovin.stages.got_some_lovin.label>
   <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
-  <GotSomeLovin.stages.got_some_lovin.description>TODO</GotSomeLovin.stages.got_some_lovin.description>
+  <GotSomeLovin.stages.got_some_lovin.description>Ní rud ar bith chomh deas le collaíocht chun ardú meanman a chur ort...</GotSomeLovin.stages.got_some_lovin.description>
   
   <!-- EN: angering fight -->
-  <HadAngeringFight.stages.angering_fight.label>TODO</HadAngeringFight.stages.angering_fight.label>
+  <HadAngeringFight.stages.angering_fight.label>troid</HadAngeringFight.stages.angering_fight.label>
   
   <!-- EN: cathartic fight -->
-  <HadCatharticFight.stages.cathartic_fight.label>TODO</HadCatharticFight.stages.cathartic_fight.label>
+  <HadCatharticFight.stages.cathartic_fight.label>troid</HadCatharticFight.stages.cathartic_fight.label>
   
   <!-- EN: harmed me -->
-  <HarmedMe.stages.harmed_me.label>TODO</HarmedMe.stages.harmed_me.label>
+  <HarmedMe.stages.harmed_me.label>gortaíodh mé</HarmedMe.stages.harmed_me.label>
   
   <!-- EN: honeymoon phase -->
-  <HoneymoonPhase.stages.honeymoon_phase.label>TODO</HoneymoonPhase.stages.honeymoon_phase.label>
+  <HoneymoonPhase.stages.honeymoon_phase.label>mí na meala</HoneymoonPhase.stages.honeymoon_phase.label>
   
   <!-- EN: insulted -->
-  <Insulted.stages.insulted.label>TODO</Insulted.stages.insulted.label>
+  <Insulted.stages.insulted.label>maslaíodh mé</Insulted.stages.insulted.label>
   
   <!-- EN: insulted -->
-  <InsultedMood.stages.insulted.label>TODO</InsultedMood.stages.insulted.label>
+  <InsultedMood.stages.insulted.label>maslaíodh mé</InsultedMood.stages.insulted.label>
   <!-- EN: I've been directly insulted! What an awful person! -->
-  <InsultedMood.stages.insulted.description>TODO</InsultedMood.stages.insulted.description>
+  <InsultedMood.stages.insulted.description>Maslaíodh mé! Níl mé róshásta!</InsultedMood.stages.insulted.description>
   
   <!-- EN: I rejected their proposal -->
-  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>TODO</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
+  <IRejectedTheirProposal.stages.I_rejected_their_proposal.label>níor ghlac mé le céiliúr pósta</IRejectedTheirProposal.stages.I_rejected_their_proposal.label>
   
   <!-- EN: killed my bonded animal -->
-  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>TODO</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
+  <KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>maraíodh m'ainmhí nasctha</KilledMyBondedAnimal.stages.killed_my_bonded_animal.label>
   
   <!-- EN: killed my brother -->
-  <KilledMyBrother.stages.killed_my_brother.label>TODO</KilledMyBrother.stages.killed_my_brother.label>
+  <KilledMyBrother.stages.killed_my_brother.label>maraíodh m'ainmhí nasctha</KilledMyBrother.stages.killed_my_brother.label>
   
   <!-- EN: killed my daughter -->
-  <KilledMyDaughter.stages.killed_my_daughter.label>TODO</KilledMyDaughter.stages.killed_my_daughter.label>
+  <KilledMyDaughter.stages.killed_my_daughter.label>maraíodh m'iníon</KilledMyDaughter.stages.killed_my_daughter.label>
   
   <!-- EN: killed my father -->
-  <KilledMyFather.stages.killed_my_father.label>TODO</KilledMyFather.stages.killed_my_father.label>
+  <KilledMyFather.stages.killed_my_father.label>maraíodh m'athair</KilledMyFather.stages.killed_my_father.label>
   
   <!-- EN: killed my fiance -->
-  <KilledMyFiance.stages.killed_my_fiance.label>TODO</KilledMyFiance.stages.killed_my_fiance.label>
+  <KilledMyFiance.stages.killed_my_fiance.label>maraíodh mo fiancé</KilledMyFiance.stages.killed_my_fiance.label>
   
   <!-- EN: killed my friend -->
-  <KilledMyFriend.stages.killed_my_friend.label>TODO</KilledMyFriend.stages.killed_my_friend.label>
+  <KilledMyFriend.stages.killed_my_friend.label>maraíodh mo chara</KilledMyFriend.stages.killed_my_friend.label>
   
   <!-- EN: killed my kin -->
-  <KilledMyKin.stages.killed_my_kin.label>TODO</KilledMyKin.stages.killed_my_kin.label>
+  <KilledMyKin.stages.killed_my_kin.label>maraíodh mo ghaol</KilledMyKin.stages.killed_my_kin.label>
   
   <!-- EN: killed my lover -->
-  <KilledMyLover.stages.killed_my_lover.label>TODO</KilledMyLover.stages.killed_my_lover.label>
+  <KilledMyLover.stages.killed_my_lover.label>maraíodh mo pháirtí</KilledMyLover.stages.killed_my_lover.label>
   
   <!-- EN: killed my mother -->
-  <KilledMyMother.stages.killed_my_mother.label>TODO</KilledMyMother.stages.killed_my_mother.label>
+  <KilledMyMother.stages.killed_my_mother.label>maraíodh mo mháthair</KilledMyMother.stages.killed_my_mother.label>
   
   <!-- EN: killed my rival -->
-  <KilledMyRival.stages.killed_my_rival.label>TODO</KilledMyRival.stages.killed_my_rival.label>
+  <KilledMyRival.stages.killed_my_rival.label>maraíodh mo naimhde</KilledMyRival.stages.killed_my_rival.label>
   
   <!-- EN: killed my sister -->
-  <KilledMySister.stages.killed_my_sister.label>TODO</KilledMySister.stages.killed_my_sister.label>
+  <KilledMySister.stages.killed_my_sister.label>maraíodh mo dheirfiúr</KilledMySister.stages.killed_my_sister.label>
   
   <!-- EN: killed my son -->
-  <KilledMySon.stages.killed_my_son.label>TODO</KilledMySon.stages.killed_my_son.label>
+  <KilledMySon.stages.killed_my_son.label>maraíodh mo mhac</KilledMySon.stages.killed_my_son.label>
   
   <!-- EN: killed my spouse -->
-  <KilledMySpouse.stages.killed_my_spouse.label>TODO</KilledMySpouse.stages.killed_my_spouse.label>
+  <KilledMySpouse.stages.killed_my_spouse.label>maraíodh mo chéile</KilledMySpouse.stages.killed_my_spouse.label>
   
   <!-- EN: kind words -->
-  <KindWords.stages.kind_words.label>TODO</KindWords.stages.kind_words.label>
+  <KindWords.stages.kind_words.label>focail dheasa</KindWords.stages.kind_words.label>
   
   <!-- EN: kind words -->
-  <KindWordsMood.stages.kind_words.label>TODO</KindWordsMood.stages.kind_words.label>
+  <KindWordsMood.stages.kind_words.label>focail dheasa</KindWordsMood.stages.kind_words.label>
   <!-- EN: I've been bestowed with kind words! What a nice person! -->
-  <KindWordsMood.stages.kind_words.description>TODO</KindWordsMood.stages.kind_words.description>
+  <KindWordsMood.stages.kind_words.description>Dúirt duine rudaí deasa fúm.</KindWordsMood.stages.kind_words.description>
   
   <!-- EN: rapport built -->
-  <RapportBuilt.stages.rapport_built.label>TODO</RapportBuilt.stages.rapport_built.label>
+  <RapportBuilt.stages.rapport_built.label>comhthuiscint</RapportBuilt.stages.rapport_built.label>
   
   <!-- EN: rebuffed me -->
-  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>TODO</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
+  <RebuffedMyRomanceAttempt.stages.rebuffed_me.label>diúltaíodh dom</RebuffedMyRomanceAttempt.stages.rebuffed_me.label>
   
   <!-- EN: rebuffed by {0} -->
-  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>TODO</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>dhiúltaigh {0} dom</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.label>
   <!-- EN: I attempted to create a romance, but I got the cold shoulder. Feels bad man. -->
-  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>TODO</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
+  <RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>Rinne mé iarracht dul i mbun cliúsaíochta, ach diúltaíodh dom...</RebuffedMyRomanceAttemptMood.stages.rebuffed_by.description>
   
   <!-- EN: recruited me -->
-  <RecruitedMe.stages.recruited_me.label>TODO</RecruitedMe.stages.recruited_me.label>
+  <RecruitedMe.stages.recruited_me.label>earcaíodh mé</RecruitedMe.stages.recruited_me.label>
   
   <!-- EN: rejected my proposal -->
-  <RejectedMyProposal.stages.rejected_my_proposal.label>TODO</RejectedMyProposal.stages.rejected_my_proposal.label>
+  <RejectedMyProposal.stages.rejected_my_proposal.label>níor glacadh le mo cheiliúr pósta</RejectedMyProposal.stages.rejected_my_proposal.label>
   
   <!-- EN: my proposal was rejected by {0} -->
-  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>TODO</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>níor ghlac le mo cheiliúr pósta</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.label>
   <!-- EN: I thought we were meant to marry. But I was just shot down. -->
-  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>TODO</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
+  <RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>D'iarr mé ar dhuine mé a phósadh, ach diúltaigh sé...</RejectedMyProposalMood.stages.my_proposal_was_rejected_by.description>
   
   <!-- EN: rescued me -->
-  <RescuedMe.stages.rescued_me.label>TODO</RescuedMe.stages.rescued_me.label>
+  <RescuedMe.stages.rescued_me.label>tarrtháladh mé</RescuedMe.stages.rescued_me.label>
   
   <!-- EN: rescued me -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.label>TODO</RescuedMeByOfferingHelp.stages.rescued_me.label>
+  <RescuedMeByOfferingHelp.stages.rescued_me.label>tarrtháladh mé</RescuedMeByOfferingHelp.stages.rescued_me.label>
   <!-- EN: I was rescued by someone! I almost thought I was done for back there. I'm so thankful. -->
-  <RescuedMeByOfferingHelp.stages.rescued_me.description>TODO</RescuedMeByOfferingHelp.stages.rescued_me.description>
+  <RescuedMeByOfferingHelp.stages.rescued_me.description>Tarrtháladh mé! Ta mé chomh buíoch.</RescuedMeByOfferingHelp.stages.rescued_me.description>
   
   <!-- EN: slighted -->
-  <Slighted.stages.slighted.label>TODO</Slighted.stages.slighted.label>
+  <Slighted.stages.slighted.label>maslaíodh mé </Slighted.stages.slighted.label>
   
   <!-- EN: bonded animal given away -->
-  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>tugadh m'ainmhí nasctha uainn</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
   <!-- EN: My special bonded animal was given away! -->
-  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.description>Tugadh m'ainmhí nasctha uainn!</SoldMyBondedAnimal.stages.bonded_animal_given_away.description>
   <!-- EN: gave away my bonded animal -->
-  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
+  <SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>Tugadh m'ainmhí nasctha uainn!</SoldMyBondedAnimal.stages.bonded_animal_given_away.labelSocial>
   
   <!-- EN: bonded animal given away -->
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>tugadh m'ainmhí nasctha uainn</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.label>
   <!-- EN: My special bonded animal was given away! -->
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>Tugadh m'ainmhí nasctha uainn!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.description>
   <!-- EN: gave away my bonded animal -->
-  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>TODO</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
+  <SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>Tugadh m'ainmhí nasctha uainn!</SoldMyBondedAnimalMood.stages.bonded_animal_given_away.labelSocial>
   
   <!-- EN: loved one sold -->
-  <SoldMyLovedOne.stages.loved_one_sold.label>TODO</SoldMyLovedOne.stages.loved_one_sold.label>
+  <SoldMyLovedOne.stages.loved_one_sold.label>díoladh duine muinteartha</SoldMyLovedOne.stages.loved_one_sold.label>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
-  <SoldMyLovedOne.stages.loved_one_sold.description>TODO</SoldMyLovedOne.stages.loved_one_sold.description>
+  <SoldMyLovedOne.stages.loved_one_sold.description>Díoladh duine muinteartha ónár gcoilíneacht mar a bheadh feoil ann... Tá sé déistineach! </SoldMyLovedOne.stages.loved_one_sold.description>
   <!-- EN: sold my loved one -->
-  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>TODO</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
+  <SoldMyLovedOne.stages.loved_one_sold.labelSocial>díoladh duine muinteartha</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   
 </LanguageData>

@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: chemical want -->
-  <DrugDesireFascination.stages.chemical_want.label>TODO</DrugDesireFascination.stages.chemical_want.label>
+  <DrugDesireFascination.stages.chemical_want.label>dúil i gceimiceáin</DrugDesireFascination.stages.chemical_want.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them more. -->
-  <DrugDesireFascination.stages.chemical_want.description>TODO</DrugDesireFascination.stages.chemical_want.description>
+  <DrugDesireFascination.stages.chemical_want.description>Tá mé faoi gheasa ag drugaí. Tá tuilleadh drugaí uaim!</DrugDesireFascination.stages.chemical_want.description>
   <!-- EN: chemical hunger -->
-  <DrugDesireFascination.stages.chemical_hunger.label>TODO</DrugDesireFascination.stages.chemical_hunger.label>
+  <DrugDesireFascination.stages.chemical_hunger.label>ocras ceimiceach</DrugDesireFascination.stages.chemical_hunger.label>
   <!-- EN: I'm fascinated by drugs. I want to experience them a lot harder. -->
-  <DrugDesireFascination.stages.chemical_hunger.description>TODO</DrugDesireFascination.stages.chemical_hunger.description>
+  <DrugDesireFascination.stages.chemical_hunger.description>Tá spéis agam i ndrugaí. Tá mé ag iarraidh tuilleadh drugaí!</DrugDesireFascination.stages.chemical_hunger.description>
   <!-- EN: chemical starvation -->
-  <DrugDesireFascination.stages.chemical_starvation.label>TODO</DrugDesireFascination.stages.chemical_starvation.label>
+  <DrugDesireFascination.stages.chemical_starvation.label>i ndíth drugaí</DrugDesireFascination.stages.chemical_starvation.label>
   <!-- EN: I'm fascinated by drugs. I want them! More intensity! -->
-  <DrugDesireFascination.stages.chemical_starvation.description>TODO</DrugDesireFascination.stages.chemical_starvation.description>
+  <DrugDesireFascination.stages.chemical_starvation.description>Tá spéis agam i ndrugaí. Tá mé ag iarraidh tuilleadh drugaí!</DrugDesireFascination.stages.chemical_starvation.description>
   
   <!-- EN: chemical comfort -->
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>TODO</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.label>compord ceimiceach</DrugDesireFascinationSatisfied.stages.chemical_comfort.label>
   <!-- EN: I'm fascinated by drugs, and I love satisfying my desires. -->
-  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>TODO</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
+  <DrugDesireFascinationSatisfied.stages.chemical_comfort.description>Tá dúil agam i ndrugaí, agus ba mhaith liom tuilleadh drugaí a thógáil.</DrugDesireFascinationSatisfied.stages.chemical_comfort.description>
   <!-- EN: chemical satisfaction -->
-  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>TODO</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
+  <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>sásamh cheimiceach</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.label>
   <!-- EN: I'm fascinated by drugs, and I am fully satisfied with my drug consumption. -->
   <DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>TODO</DrugDesireFascinationSatisfied.stages.chemical_satisfaction.description>
   
