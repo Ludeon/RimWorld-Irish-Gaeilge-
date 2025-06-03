@@ -2,135 +2,135 @@
 <LanguageData>
   
   <!-- EN: cook fine meal -->
-  <CookMealFine.label>TODO</CookMealFine.label>
+  <CookMealFine.label>déan béile deas</CookMealFine.label>
   <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
-  <CookMealFine.description>TODO</CookMealFine.description>
+  <CookMealFine.description>Déan béile deas as meascán de chomhábhair.</CookMealFine.description>
   <!-- EN: protein -->
-  <CookMealFine.ingredients.0.filter.customSummary>TODO</CookMealFine.ingredients.0.filter.customSummary>
+  <CookMealFine.ingredients.0.filter.customSummary>próitéin</CookMealFine.ingredients.0.filter.customSummary>
   <!-- EN: Cooking fine meal. -->
-  <CookMealFine.jobString>TODO</CookMealFine.jobString>
+  <CookMealFine.jobString>ag déanamh béile deas.</CookMealFine.jobString>
   
   <!-- EN: cook carnivore fine meal -->
-  <CookMealFine_Meat.label>TODO</CookMealFine_Meat.label>
+  <CookMealFine_Meat.label>déan béile deas (feoiliteoir)</CookMealFine_Meat.label>
   <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
-  <CookMealFine_Meat.description>TODO</CookMealFine_Meat.description>
+  <CookMealFine_Meat.description>Déan béile deas as feoil.</CookMealFine_Meat.description>
   <!-- EN: Cooking carnivore fine meal. -->
-  <CookMealFine_Meat.jobString>TODO</CookMealFine_Meat.jobString>
+  <CookMealFine_Meat.jobString>Ag déanamh béile deas (feoiliteoir).</CookMealFine_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal -->
-  <CookMealFine_Veg.label>TODO</CookMealFine_Veg.label>
+  <CookMealFine_Veg.label>déan béile deas (veigeatóir)</CookMealFine_Veg.label>
   <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
-  <CookMealFine_Veg.description>TODO</CookMealFine_Veg.description>
+  <CookMealFine_Veg.description>Déan béile deas as plandaí.</CookMealFine_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealFine_Veg.ingredients.0.filter.customSummary>TODO</CookMealFine_Veg.ingredients.0.filter.customSummary>
+  <CookMealFine_Veg.ingredients.0.filter.customSummary>comhábhair veigeatóracha</CookMealFine_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian fine meal. -->
-  <CookMealFine_Veg.jobString>TODO</CookMealFine_Veg.jobString>
+  <CookMealFine_Veg.jobString>Ag déanamh béile deas (veigeatóir).</CookMealFine_Veg.jobString>
   
   <!-- EN: cook fine meal x4 -->
-  <CookMealFineBulk.label>TODO</CookMealFineBulk.label>
+  <CookMealFineBulk.label>déan béile deas x4</CookMealFineBulk.label>
   <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
-  <CookMealFineBulk.description>TODO</CookMealFineBulk.description>
+  <CookMealFineBulk.description>Déan 4 bhéile deas as meascán de chomhábhair.</CookMealFineBulk.description>
   <!-- EN: protein -->
-  <CookMealFineBulk.ingredients.0.filter.customSummary>TODO</CookMealFineBulk.ingredients.0.filter.customSummary>
+  <CookMealFineBulk.ingredients.0.filter.customSummary>próitéin</CookMealFineBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 fine meals. -->
-  <CookMealFineBulk.jobString>TODO</CookMealFineBulk.jobString>
+  <CookMealFineBulk.jobString>Ag déanamh 4 bhéile deas.</CookMealFineBulk.jobString>
   
   <!-- EN: cook carnivore fine meal x4 -->
-  <CookMealFineBulk_Meat.label>TODO</CookMealFineBulk_Meat.label>
+  <CookMealFineBulk_Meat.label>déan beile deas (feoiliteoir) x4</CookMealFineBulk_Meat.label>
   <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Meat.description>TODO</CookMealFineBulk_Meat.description>
+  <CookMealFineBulk_Meat.description>Déan 4 bhéile deas as feoil.</CookMealFineBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore fine meals. -->
-  <CookMealFineBulk_Meat.jobString>TODO</CookMealFineBulk_Meat.jobString>
+  <CookMealFineBulk_Meat.jobString>Ag déanamh 4 bhéile deas (feoiliteoir).</CookMealFineBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian fine meal x4 -->
-  <CookMealFineBulk_Veg.label>TODO</CookMealFineBulk_Veg.label>
+  <CookMealFineBulk_Veg.label>déan béile deas (veigeatóir) </CookMealFineBulk_Veg.label>
   <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealFineBulk_Veg.description>TODO</CookMealFineBulk_Veg.description>
+  <CookMealFineBulk_Veg.description>Déan 4 bhéile deas as plandaí.</CookMealFineBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
+  <CookMealFineBulk_Veg.ingredients.0.filter.customSummary>comhábhair veigeatóracha</CookMealFineBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian fine meals. -->
-  <CookMealFineBulk_Veg.jobString>TODO</CookMealFineBulk_Veg.jobString>
+  <CookMealFineBulk_Veg.jobString>Ag déanamh 4 bhéile deas (veigeatóir).</CookMealFineBulk_Veg.jobString>
   
   <!-- EN: cook lavish meal -->
-  <CookMealLavish.label>TODO</CookMealLavish.label>
+  <CookMealLavish.label>déan béile álainn</CookMealLavish.label>
   <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
-  <CookMealLavish.description>TODO</CookMealLavish.description>
+  <CookMealLavish.description>Déan béile álainn as meascán de chomhábhair.</CookMealLavish.description>
   <!-- EN: protein -->
-  <CookMealLavish.ingredients.0.filter.customSummary>TODO</CookMealLavish.ingredients.0.filter.customSummary>
+  <CookMealLavish.ingredients.0.filter.customSummary>próitéin</CookMealLavish.ingredients.0.filter.customSummary>
   <!-- EN: Cooking lavish meal. -->
-  <CookMealLavish.jobString>TODO</CookMealLavish.jobString>
+  <CookMealLavish.jobString>Ag déanamh béile álainn.</CookMealLavish.jobString>
   
   <!-- EN: cook carnivore lavish meal -->
-  <CookMealLavish_Meat.label>TODO</CookMealLavish_Meat.label>
+  <CookMealLavish_Meat.label>déan béile álainn (feoiliteoir)</CookMealLavish_Meat.label>
   <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavish_Meat.description>TODO</CookMealLavish_Meat.description>
+  <CookMealLavish_Meat.description>Déan béile álainn as feoil.</CookMealLavish_Meat.description>
   <!-- EN: Cooking carnivore lavish meal. -->
-  <CookMealLavish_Meat.jobString>TODO</CookMealLavish_Meat.jobString>
+  <CookMealLavish_Meat.jobString>ag déanamh béile álainn (feoiliteoir).</CookMealLavish_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal -->
-  <CookMealLavish_Veg.label>TODO</CookMealLavish_Veg.label>
+  <CookMealLavish_Veg.label>déan béile álainn (veigeatóir)</CookMealLavish_Veg.label>
   <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavish_Veg.description>TODO</CookMealLavish_Veg.description>
+  <CookMealLavish_Veg.description>Déan béile álainn as plandaí.</CookMealLavish_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealLavish_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavish_Veg.ingredients.0.filter.customSummary>
+  <CookMealLavish_Veg.ingredients.0.filter.customSummary>comhábhair veigeatóracha</CookMealLavish_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking vegetarian lavish meal. -->
-  <CookMealLavish_Veg.jobString>TODO</CookMealLavish_Veg.jobString>
+  <CookMealLavish_Veg.jobString>Ag déanamh béile álainn (veigeatóir).</CookMealLavish_Veg.jobString>
   
   <!-- EN: cook lavish meal x4 -->
-  <CookMealLavishBulk.label>TODO</CookMealLavishBulk.label>
+  <CookMealLavishBulk.label>déan béile álainn x4</CookMealLavishBulk.label>
   <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
-  <CookMealLavishBulk.description>TODO</CookMealLavishBulk.description>
+  <CookMealLavishBulk.description>Déan 4 bhéile álainn as meascán de chomhábhair.</CookMealLavishBulk.description>
   <!-- EN: protein -->
-  <CookMealLavishBulk.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk.ingredients.0.filter.customSummary>
+  <CookMealLavishBulk.ingredients.0.filter.customSummary>próitéin</CookMealLavishBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 lavish meals. -->
-  <CookMealLavishBulk.jobString>TODO</CookMealLavishBulk.jobString>
+  <CookMealLavishBulk.jobString>Ag déanamh 4 bhéile álainn.</CookMealLavishBulk.jobString>
   
   <!-- EN: cook carnivore lavish meal x4 -->
-  <CookMealLavishBulk_Meat.label>TODO</CookMealLavishBulk_Meat.label>
+  <CookMealLavishBulk_Meat.label>déan béile álainn (feoiliteoir) x4</CookMealLavishBulk_Meat.label>
   <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Meat.description>TODO</CookMealLavishBulk_Meat.description>
+  <CookMealLavishBulk_Meat.description>Déan 4 bhéile álainn as feoil.</CookMealLavishBulk_Meat.description>
   <!-- EN: Cooking 4 carnivore lavish meals. -->
-  <CookMealLavishBulk_Meat.jobString>TODO</CookMealLavishBulk_Meat.jobString>
+  <CookMealLavishBulk_Meat.jobString>Ag déanamh 4 bhéile álainn (feoiliteoir).</CookMealLavishBulk_Meat.jobString>
   
   <!-- EN: cook vegetarian lavish meal x4 -->
-  <CookMealLavishBulk_Veg.label>TODO</CookMealLavishBulk_Veg.label>
+  <CookMealLavishBulk_Veg.label>déan béile álainn (veigeatóir) x4</CookMealLavishBulk_Veg.label>
   <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
-  <CookMealLavishBulk_Veg.description>TODO</CookMealLavishBulk_Veg.description>
+  <CookMealLavishBulk_Veg.description>Déan 4 bhéile álainn as plandaí.</CookMealLavishBulk_Veg.description>
   <!-- EN: vegetarian ingredients -->
-  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>TODO</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
+  <CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>comhábhair veigeatóracha</CookMealLavishBulk_Veg.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 vegetarian lavish meals. -->
-  <CookMealLavishBulk_Veg.jobString>TODO</CookMealLavishBulk_Veg.jobString>
+  <CookMealLavishBulk_Veg.jobString>Ag déanamh 4 bhéile álainn (veigeatóir).</CookMealLavishBulk_Veg.jobString>
   
   <!-- EN: cook simple meal -->
-  <CookMealSimple.label>TODO</CookMealSimple.label>
+  <CookMealSimple.label>déan béile simplí</CookMealSimple.label>
   <!-- EN: Cook a straightforward meal from one ingredient. -->
-  <CookMealSimple.description>TODO</CookMealSimple.description>
+  <CookMealSimple.description>Déan béile simplí ina bhfuil comhábhar amháin.</CookMealSimple.description>
   <!-- EN: Cooking simple meal. -->
-  <CookMealSimple.jobString>TODO</CookMealSimple.jobString>
+  <CookMealSimple.jobString>Ag déanamh béile simplí.</CookMealSimple.jobString>
   
   <!-- EN: cook simple meal x4 -->
-  <CookMealSimpleBulk.label>TODO</CookMealSimpleBulk.label>
+  <CookMealSimpleBulk.label>déan béile simplí x4</CookMealSimpleBulk.label>
   <!-- EN: Cook 4 straightforward meals from one ingredient. -->
-  <CookMealSimpleBulk.description>TODO</CookMealSimpleBulk.description>
+  <CookMealSimpleBulk.description>Déan 4 bhéile simplí, ina bhfuil comhábhar amháin.</CookMealSimpleBulk.description>
   <!-- EN: Cooking 4 simple meals. -->
-  <CookMealSimpleBulk.jobString>TODO</CookMealSimpleBulk.jobString>
+  <CookMealSimpleBulk.jobString>Ag déanamh 4 bhéile simplí.</CookMealSimpleBulk.jobString>
   
   <!-- EN: cook packaged survival meal -->
-  <CookMealSurvival.label>TODO</CookMealSurvival.label>
+  <CookMealSurvival.label>déan béile fadmharthain</CookMealSurvival.label>
   <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvival.description>TODO</CookMealSurvival.description>
+  <CookMealSurvival.description>Déan béile fadmharthain as feoil agus plandaí.</CookMealSurvival.description>
   <!-- EN: protein -->
-  <CookMealSurvival.ingredients.0.filter.customSummary>TODO</CookMealSurvival.ingredients.0.filter.customSummary>
+  <CookMealSurvival.ingredients.0.filter.customSummary>próitéin</CookMealSurvival.ingredients.0.filter.customSummary>
   <!-- EN: Cooking survival meal. -->
-  <CookMealSurvival.jobString>TODO</CookMealSurvival.jobString>
+  <CookMealSurvival.jobString>Ag déanamh béile fadmharthain.</CookMealSurvival.jobString>
   
   <!-- EN: cook packaged survival meal x4 -->
-  <CookMealSurvivalBulk.label>TODO</CookMealSurvivalBulk.label>
+  <CookMealSurvivalBulk.label>déan béile fadmharthain x4</CookMealSurvivalBulk.label>
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
-  <CookMealSurvivalBulk.description>TODO</CookMealSurvivalBulk.description>
+  <CookMealSurvivalBulk.description>Déan 4 bhéile fadmharthain as feoil agus plandaí.</CookMealSurvivalBulk.description>
   <!-- EN: protein -->
   <CookMealSurvivalBulk.ingredients.0.filter.customSummary>TODO</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 survival meals. -->
-  <CookMealSurvivalBulk.jobString>TODO</CookMealSurvivalBulk.jobString>
+  <CookMealSurvivalBulk.jobString>Ag déanamh 4 bhéile fadmharthain.</CookMealSurvivalBulk.jobString>
   
 </LanguageData>

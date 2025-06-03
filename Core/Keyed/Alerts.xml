@@ -218,7 +218,7 @@
   <!-- EN: All of your colonists will lack warm clothes when the cold season comes. -->
   <NeedWarmClothesDesc1All>Ní bheidh éadaí te ag do choilínigh nuair a thiocfaidh an aimsir fhuar.</NeedWarmClothesDesc1All>
   <!-- EN: The outdoor temperature is going to reach {0}.\n\nYou can tailor warm clothes at the tailoring bench, or buy them from traders. -->
-  <NeedWarmClothesDesc2>Táthar ag súil leis go rachaidh an teocht lasmuigh chomh íseal le {0}.\n\nIs féidir éadaí té a dhéanamh ag tábla tailliúra, nó iad a cheannach ó thrádálaithe.</NeedWarmClothesDesc2>
+  <NeedWarmClothesDesc2>Táthar ag súil leis go mbeidh an teocht lasmuigh chomh híseal le {0}.\n\nIs féidir éadaí té a dhéanamh ag tábla tailliúra, nó iad a cheannach ó thrádálaithe.</NeedWarmClothesDesc2>
 
   <!-- EN: Immobile caravan -->
   <ImmobileCaravan>Tá carbhán i sáinn</ImmobileCaravan>

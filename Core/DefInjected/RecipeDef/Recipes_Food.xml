@@ -2,28 +2,28 @@
 <LanguageData>
   
   <!-- EN: make kibble -->
-  <Make_Kibble.label>TODO</Make_Kibble.label>
+  <Make_Kibble.label>déan fodar</Make_Kibble.label>
   <!-- EN: Make animal kibble by combining raw meat and plants. -->
-  <Make_Kibble.description>TODO</Make_Kibble.description>
+  <Make_Kibble.description>Déan fodar d'ainmhithe le feoil amh agus plandaí.</Make_Kibble.description>
   <!-- EN: protein -->
-  <Make_Kibble.ingredients.0.filter.customSummary>TODO</Make_Kibble.ingredients.0.filter.customSummary>
+  <Make_Kibble.ingredients.0.filter.customSummary>próitéin</Make_Kibble.ingredients.0.filter.customSummary>
   <!-- EN: greens -->
-  <Make_Kibble.ingredients.1.filter.customSummary>TODO</Make_Kibble.ingredients.1.filter.customSummary>
+  <Make_Kibble.ingredients.1.filter.customSummary>plandaí</Make_Kibble.ingredients.1.filter.customSummary>
   <!-- EN: Making kibble. -->
-  <Make_Kibble.jobString>TODO</Make_Kibble.jobString>
+  <Make_Kibble.jobString>Ag déanamh fodair</Make_Kibble.jobString>
   
   <!-- EN: make pemmican -->
-  <Make_Pemmican.label>TODO</Make_Pemmican.label>
+  <Make_Pemmican.label>déan peimicean</Make_Pemmican.label>
   <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_Pemmican.description>TODO</Make_Pemmican.description>
+  <Make_Pemmican.description>Déan peimicean, bia déanta as feoil agus plandaí. Níl blas ródheas air, ach maireann sé tamall fada.</Make_Pemmican.description>
   <!-- EN: Making pemmican. -->
-  <Make_Pemmican.jobString>TODO</Make_Pemmican.jobString>
+  <Make_Pemmican.jobString>Ag déanamh peimicean.</Make_Pemmican.jobString>
   
   <!-- EN: make pemmican x4 -->
-  <Make_PemmicanBulk.label>TODO</Make_PemmicanBulk.label>
+  <Make_PemmicanBulk.label>déan peimicean x4</Make_PemmicanBulk.label>
   <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
-  <Make_PemmicanBulk.description>TODO</Make_PemmicanBulk.description>
+  <Make_PemmicanBulk.description>Déan peimicean ar an mórchóir, bia déanta as feoil agus plandaí. Níl blas ródheas air, ach maireann sé tamall fada.</Make_PemmicanBulk.description>
   <!-- EN: Making bulk pemmican. -->
-  <Make_PemmicanBulk.jobString>TODO</Make_PemmicanBulk.jobString>
+  <Make_PemmicanBulk.jobString>Ag déanamh peimicean x4.</Make_PemmicanBulk.jobString>
   
 </LanguageData>

@@ -4,22 +4,22 @@
   <!-- EN: butcher creature -->
   <ButcherCorpseFlesh.label>búistéireacht</ButcherCorpseFlesh.label>
   <!-- EN: Butcher a creature to obtain its meat, leather, and other body products. -->
-  <ButcherCorpseFlesh.description>TODO</ButcherCorpseFlesh.description>
+  <ButcherCorpseFlesh.description>Déan créatúr a ghearradh suas chun feoil, leathar nó táirgí eile a fháil.</ButcherCorpseFlesh.description>
   <!-- EN: Butchering. -->
-  <ButcherCorpseFlesh.jobString>TODO</ButcherCorpseFlesh.jobString>
+  <ButcherCorpseFlesh.jobString>Ag búistéireacht.</ButcherCorpseFlesh.jobString>
   
   <!-- EN: shred mechanoid -->
-  <ButcherCorpseMechanoid.label>TODO</ButcherCorpseMechanoid.label>
+  <ButcherCorpseMechanoid.label>scrios meicea-róbat</ButcherCorpseMechanoid.label>
   <!-- EN: Shred a dead mechanoid to try to salvage usable material. -->
-  <ButcherCorpseMechanoid.description>TODO</ButcherCorpseMechanoid.description>
+  <ButcherCorpseMechanoid.description>Déan meicea-róbat marbh a bhriseadh síos chun táirgí a fháil.</ButcherCorpseMechanoid.description>
   <!-- EN: Shredding mechanoid. -->
-  <ButcherCorpseMechanoid.jobString>TODO</ButcherCorpseMechanoid.jobString>
+  <ButcherCorpseMechanoid.jobString>Ag scriosadh meicea-róbait.</ButcherCorpseMechanoid.jobString>
   
   <!-- EN: smash mechanoid -->
-  <SmashCorpseMechanoid.label>TODO</SmashCorpseMechanoid.label>
+  <SmashCorpseMechanoid.label>bris suas meicea-róbat</SmashCorpseMechanoid.label>
   <!-- EN: Smash a dead mechanoid with simple hand tools to salvage usable material. -->
-  <SmashCorpseMechanoid.description>TODO</SmashCorpseMechanoid.description>
+  <SmashCorpseMechanoid.description>Déan meicea-róbat marbh a bhriseadh le huirlisí simplí chun táirgí a fháil.</SmashCorpseMechanoid.description>
   <!-- EN: Smashing mechanoid. -->
-  <SmashCorpseMechanoid.jobString>TODO</SmashCorpseMechanoid.jobString>
+  <SmashCorpseMechanoid.jobString>Ag briseadh suas meicea-róbait</SmashCorpseMechanoid.jobString>
   
 </LanguageData>
