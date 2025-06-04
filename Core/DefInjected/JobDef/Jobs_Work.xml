@@ -2,210 +2,210 @@
 <LanguageData>
   
   <!-- EN: Analyzing TargetA. -->
-  <AnalyzeItem.reportString>TODO</AnalyzeItem.reportString>
+  <AnalyzeItem.reportString>ag déanamh anailís ar TargetA.</AnalyzeItem.reportString>
   
   <!-- EN: arresting TargetA. -->
-  <Arrest.reportString>TODO</Arrest.reportString>
+  <Arrest.reportString>ag gabháil TargetA.</Arrest.reportString>
   
   <!-- EN: building roof. -->
-  <BuildRoof.reportString>TODO</BuildRoof.reportString>
+  <BuildRoof.reportString>ag tógáil dín.</BuildRoof.reportString>
   
   <!-- EN: capturing TargetA. -->
-  <Capture.reportString>TODO</Capture.reportString>
+  <Capture.reportString>ag gabháil TargetA.</Capture.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnDrafted.reportString>TODO</CarryDownedPawnDrafted.reportString>
+  <CarryDownedPawnDrafted.reportString>ag iompar TargetA.</CarryDownedPawnDrafted.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToExit.reportString>TODO</CarryDownedPawnToExit.reportString>
+  <CarryDownedPawnToExit.reportString>ag iompar TargetA.</CarryDownedPawnToExit.reportString>
   
   <!-- EN: carrying TargetA. -->
-  <CarryDownedPawnToPortal.reportString>TODO</CarryDownedPawnToPortal.reportString>
+  <CarryDownedPawnToPortal.reportString>ag iompar TargetA.</CarryDownedPawnToPortal.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasket.reportString>TODO</CarryToCryptosleepCasket.reportString>
+  <CarryToCryptosleepCasket.reportString>ag iompar TargetA chuig cónra criptea-chodlata.</CarryToCryptosleepCasket.reportString>
   
   <!-- EN: carrying TargetA to cryptosleep casket. -->
-  <CarryToCryptosleepCasketDrafted.reportString>TODO</CarryToCryptosleepCasketDrafted.reportString>
+  <CarryToCryptosleepCasketDrafted.reportString>ag iompar TargetA chuig cónra criptea-chodlata.</CarryToCryptosleepCasketDrafted.reportString>
   
   <!-- EN: arresting TargetA. -->
-  <CarryToPrisonerBedDrafted.reportString>TODO</CarryToPrisonerBedDrafted.reportString>
+  <CarryToPrisonerBedDrafted.reportString>ag gabháil TargetA.</CarryToPrisonerBedDrafted.reportString>
   
   <!-- EN: cleaning TargetA. -->
-  <Clean.reportString>TODO</Clean.reportString>
+  <Clean.reportString>ag glanadh TargetA.</Clean.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlant.reportString>TODO</CutPlant.reportString>
+  <CutPlant.reportString>ag gearradh TargetA.</CutPlant.reportString>
   
   <!-- EN: cutting TargetA. -->
-  <CutPlantDesignated.reportString>TODO</CutPlantDesignated.reportString>
+  <CutPlantDesignated.reportString>ag gearradh TargetA.</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <Deconstruct.reportString>TODO</Deconstruct.reportString>
+  <Deconstruct.reportString>ag díthógái TargetA.</Deconstruct.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <DeliverFood.reportString>TODO</DeliverFood.reportString>
+  <DeliverFood.reportString>ag tabhairt TargetA do TargetB.</DeliverFood.reportString>
   
   <!-- EN: doing bill at TargetA. -->
-  <DoBill.reportString>TODO</DoBill.reportString>
+  <DoBill.reportString>ag déanamh bille ag TargetA.</DoBill.reportString>
   
   <!-- EN: escorting prisoner TargetA. -->
-  <EscortPrisonerToBed.reportString>TODO</EscortPrisonerToBed.reportString>
+  <EscortPrisonerToBed.reportString>ag dul leis an bpríosúnach TargetA.</EscortPrisonerToBed.reportString>
   
   <!-- EN: extracting skull from TargetA. -->
-  <ExtractSkull.reportString>extrait le crâne de TargetA.</ExtractSkull.reportString>
+  <ExtractSkull.reportString>ag baint na blaoisce de TargetA.</ExtractSkull.reportString>
   
   <!-- EN: extracting TargetA. -->
-  <ExtractTree.reportString>TODO</ExtractTree.reportString>
+  <ExtractTree.reportString>ag baint TargetA.</ExtractTree.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
-  <FeedPatient.reportString>TODO</FeedPatient.reportString>
+  <FeedPatient.reportString>ag tabhairt TargetA do TargetB.</FeedPatient.reportString>
   
   <!-- EN: building TargetA. -->
-  <FinishFrame.reportString>TODO</FinishFrame.reportString>
+  <FinishFrame.reportString>ag tógáil TargetA.</FinishFrame.reportString>
   
   <!-- EN: replacing broken components in TargetA. -->
-  <FixBrokenDownBuilding.reportString>TODO</FixBrokenDownBuilding.reportString>
+  <FixBrokenDownBuilding.reportString>ag deisiú comhpháirteanna i TargetA.</FixBrokenDownBuilding.reportString>
   
   <!-- EN: executing TargetA. -->
-  <GuiltyColonistExecution.reportString>TODO</GuiltyColonistExecution.reportString>
+  <GuiltyColonistExecution.reportString>ag marú TargetA.</GuiltyColonistExecution.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <Harvest.reportString>TODO</Harvest.reportString>
+  <Harvest.reportString>ag baint TargetA.</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToCell.reportString>TODO</HaulToCell.reportString>
+  <HaulToCell.reportString>ag baint TargetA.</HaulToCell.reportString>
   
   <!-- EN: hauling TargetA. -->
-  <HaulToContainer.reportString>TODO</HaulToContainer.reportString>
+  <HaulToContainer.reportString>ag bogadh TargetA.</HaulToContainer.reportString>
   
   <!-- EN: hunting TargetA. -->
-  <Hunt.reportString>TODO</Hunt.reportString>
+  <Hunt.reportString>ag seilg TargetA.</Hunt.reportString>
   
   <!-- EN: kidnapping TargetA. -->
-  <Kidnap.reportString>TODO</Kidnap.reportString>
+  <Kidnap.reportString>ag gabháil TargetA.</Kidnap.reportString>
   
   <!-- EN: milking TargetA. -->
-  <Milk.reportString>TODO</Milk.reportString>
+  <Milk.reportString>ag crú TargetA.</Milk.reportString>
   
   <!-- EN: digging at TargetA. -->
-  <Mine.reportString>TODO</Mine.reportString>
+  <Mine.reportString>ag tochailt ag TargetA.</Mine.reportString>
   
   <!-- EN: drilling at TargetA. -->
-  <OperateDeepDrill.reportString>TODO</OperateDeepDrill.reportString>
+  <OperateDeepDrill.reportString>ag druileáil ag TargetA.</OperateDeepDrill.reportString>
   
   <!-- EN: scanning at TargetA. -->
-  <OperateScanner.reportString>TODO</OperateScanner.reportString>
+  <OperateScanner.reportString>ag scanadh ag TargetA.</OperateScanner.reportString>
   
   <!-- EN: painting TargetA. -->
-  <PaintBuilding.reportString>TODO</PaintBuilding.reportString>
+  <PaintBuilding.reportString>ag péinteáil TargetA.</PaintBuilding.reportString>
   
   <!-- EN: painting TargetA. -->
-  <PaintFloor.reportString>TODO</PaintFloor.reportString>
+  <PaintFloor.reportString>ag péinteáil TargetA.</PaintFloor.reportString>
   
   <!-- EN: building TargetA. -->
-  <PlaceNoCostFrame.reportString>TODO</PlaceNoCostFrame.reportString>
+  <PlaceNoCostFrame.reportString>ag tógáil TargetA.</PlaceNoCostFrame.reportString>
   
   <!-- EN: planting TargetA. -->
-  <PlantSeed.reportString>TODO</PlantSeed.reportString>
+  <PlantSeed.reportString>ag cur TargetA.</PlantSeed.reportString>
   
   <!-- EN: attempting to recruit TargetA. -->
-  <PrisonerAttemptRecruit.reportString>TODO</PrisonerAttemptRecruit.reportString>
+  <PrisonerAttemptRecruit.reportString>a dhéanamh iarracht TargetA a earcú.</PrisonerAttemptRecruit.reportString>
   
   <!-- EN: executing TargetA. -->
-  <PrisonerExecution.reportString>TODO</PrisonerExecution.reportString>
+  <PrisonerExecution.reportString>ag marú TargetA.</PrisonerExecution.reportString>
   
   <!-- EN: releasing TargetA into the wild. -->
-  <ReleaseAnimalToWild.reportString>TODO</ReleaseAnimalToWild.reportString>
+  <ReleaseAnimalToWild.reportString>ag scaoileadh TargetA saor</ReleaseAnimalToWild.reportString>
   
   <!-- EN: releasing TargetA. -->
-  <ReleasePrisoner.reportString>TODO</ReleasePrisoner.reportString>
+  <ReleasePrisoner.reportString>ag scaoileadh TargetA saor</ReleasePrisoner.reportString>
   
   <!-- EN: removing floor. -->
-  <RemoveFloor.reportString>TODO</RemoveFloor.reportString>
+  <RemoveFloor.reportString>ag baint urláir.</RemoveFloor.reportString>
   
   <!-- EN: removing paint from TargetA. -->
-  <RemovePaintBuilding.reportString>TODO</RemovePaintBuilding.reportString>
+  <RemovePaintBuilding.reportString>ag baint péint de TargetA.</RemovePaintBuilding.reportString>
   
   <!-- EN: removing paint from TargetA. -->
-  <RemovePaintFloor.reportString>TODO</RemovePaintFloor.reportString>
+  <RemovePaintFloor.reportString>ag baint péint de TargetA.</RemovePaintFloor.reportString>
   
   <!-- EN: removing roof. -->
-  <RemoveRoof.reportString>TODO</RemoveRoof.reportString>
+  <RemoveRoof.reportString>ag baint dín.</RemoveRoof.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <Repair.reportString>TODO</Repair.reportString>
+  <Repair.reportString>ag deisiú TargetA.</Repair.reportString>
   
   <!-- EN: replanting TargetA. -->
-  <Replant.reportString>TODO</Replant.reportString>
+  <Replant.reportString>ag athchur TargetA.</Replant.reportString>
   
   <!-- EN: rescuing TargetA. -->
-  <Rescue.reportString>TODO</Rescue.reportString>
+  <Rescue.reportString>ag tarrtháil TargetA.</Rescue.reportString>
   
   <!-- EN: researching. -->
-  <Research.reportString>TODO</Research.reportString>
+  <Research.reportString>i mbun taighde</Research.reportString>
   
   <!-- EN: leading TargetA to hitching spot. -->
-  <RopeRoamerToHitchingPost.reportString>TODO</RopeRoamerToHitchingPost.reportString>
+  <RopeRoamerToHitchingPost.reportString>ag tógáil TargetA chuig carbhán.</RopeRoamerToHitchingPost.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeRoamerToUnenclosedPen.reportString>TODO</RopeRoamerToUnenclosedPen.reportString>
+  <RopeRoamerToUnenclosedPen.reportString>ag tógáil TargetA chuig TargetC.</RopeRoamerToUnenclosedPen.reportString>
   
   <!-- EN: leading TargetA to TargetC. -->
-  <RopeToPen.reportString>TODO</RopeToPen.reportString>
+  <RopeToPen.reportString>ag tógáil TargetA chuig TargetC.</RopeToPen.reportString>
   
   <!-- EN: shearing TargetA. -->
-  <Shear.reportString>TODO</Shear.reportString>
+  <Shear.reportString>ag gearradh TargetA.</Shear.reportString>
   
   <!-- EN: slaughtering TargetA. -->
-  <Slaughter.reportString>TODO</Slaughter.reportString>
+  <Slaughter.reportString>ar marú TargetA.</Slaughter.reportString>
   
   <!-- EN: smoothing floor. -->
-  <SmoothFloor.reportString>TODO</SmoothFloor.reportString>
+  <SmoothFloor.reportString>ag líomhadh an urláir.</SmoothFloor.reportString>
   
   <!-- EN: smoothing wall. -->
-  <SmoothWall.reportString>TODO</SmoothWall.reportString>
+  <SmoothWall.reportString>ag líomhadh an bhalla.</SmoothWall.reportString>
   
   <!-- EN: sowing TargetA. -->
-  <Sow.reportString>TODO</Sow.reportString>
+  <Sow.reportString>ag cur TargetA.</Sow.reportString>
   
   <!-- EN: stealing TargetA. -->
-  <Steal.reportString>TODO</Steal.reportString>
+  <Steal.reportString>ag goid TargetA.</Steal.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyInteract.reportString>TODO</StudyInteract.reportString>
+  <StudyInteract.reportString>ag déanamh staidéar ar TargetA.</StudyInteract.reportString>
   
   <!-- EN: Studying TargetA. -->
-  <StudyItem.reportString>analysiert TargetA.</StudyItem.reportString>
+  <StudyItem.reportString>ag déanamh staidéar ar TargetA.</StudyItem.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeDownedPawnToBedDrafted.reportString>TODO</TakeDownedPawnToBedDrafted.reportString>
+  <TakeDownedPawnToBedDrafted.reportString>ag tógáil TargetA chuig leaba.</TakeDownedPawnToBedDrafted.reportString>
   
   <!-- EN: taking TargetA to bed. -->
-  <TakeToBedToOperate.reportString>TODO</TakeToBedToOperate.reportString>
+  <TakeToBedToOperate.reportString>ag tógáil TargetA chuig leaba.</TakeToBedToOperate.reportString>
   
   <!-- EN: taking wounded prisoner TargetA. -->
-  <TakeWoundedPrisonerToBed.reportString>TODO</TakeWoundedPrisonerToBed.reportString>
+  <TakeWoundedPrisonerToBed.reportString>ag tógáil príosúnach gortaithe chuig   </TakeWoundedPrisonerToBed.reportString>
   
   <!-- EN: taming TargetA. -->
-  <Tame.reportString>TODO</Tame.reportString>
+  <Tame.reportString>ag ceansú TargetA.</Tame.reportString>
   
   <!-- EN: tending to TargetA. -->
-  <TendPatient.reportString>TODO</TendPatient.reportString>
+  <TendPatient.reportString>ag cóireáil TargetA.</TendPatient.reportString>
   
   <!-- EN: training TargetA. -->
-  <Train.reportString>TODO</Train.reportString>
+  <Train.reportString>ag traenáil TargetA.</Train.reportString>
   
   <!-- EN: uninstalling TargetA. -->
-  <Uninstall.reportString>TODO</Uninstall.reportString>
+  <Uninstall.reportString>ag dífheistiú TargetA.</Uninstall.reportString>
   
   <!-- EN: unroping TargetA. -->
-  <Unrope.reportString>TODO</Unrope.reportString>
+  <Unrope.reportString>ag dírópáil TargetA.</Unrope.reportString>
   
   <!-- EN: using comms console. -->
-  <UseCommsConsole.reportString>TODO</UseCommsConsole.reportString>
+  <UseCommsConsole.reportString>ag úsáid consól cumarsáide</UseCommsConsole.reportString>
   
 </LanguageData>

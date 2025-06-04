@@ -1985,75 +1985,75 @@
   <!-- EN: [PAWN_nameDef] awoke on a dangerous planet with no resources and few survival skills. [PAWN_pronoun] bounced between camps, doing whatever work needed to be done, just to see the sun rise once more. -->
   <Vagabond73.description>TODO</Vagabond73.description>
   <!-- EN: vagabond -->
-  <Vagabond73.title>TODO</Vagabond73.title>
+  <Vagabond73.title>seachránaí</Vagabond73.title>
   <!-- EN: vagabond -->
-  <Vagabond73.titleShort>TODO</Vagabond73.titleShort>
+  <Vagabond73.titleShort>seachránaí</Vagabond73.titleShort>
 
   <!-- EN: A violent drifter without a home, [PAWN_nameDef] and [PAWN_possessive] father fought many battles across hundreds of years. [PAWN_pronoun] became a grizzled fighter and crack shot.\n\nAfter [PAWN_possessive] father's death in battle, [PAWN_nameDef] began exploring the stars alone, seeking [PAWN_possessive] father's killer, on the hunt for revenge. -->
-  <VengefulExplorer54.description>TODO</VengefulExplorer54.description>
+  <VengefulExplorer54.description>Chaith [PAWN_nameDef] na céadta bliain ag taisteal ar fud an ghrianchórais lena deartháir, gan aon bhaile. Nuair a maraíodh deartháir [PAWN_nameDef] i dtroid le grúpa ruathairí, gheall [PAWN_pronoun] go mbainfeadh [PAWN_pronoun] díoltas amach ar an té a rinne an feall.</VengefulExplorer54.description>
   <!-- EN: vengeful explorer -->
-  <VengefulExplorer54.title>TODO</VengefulExplorer54.title>
+  <VengefulExplorer54.title>taisceálaí díoltasach</VengefulExplorer54.title>
   <!-- EN: explorer -->
-  <VengefulExplorer54.titleShort>TODO</VengefulExplorer54.titleShort>
+  <VengefulExplorer54.titleShort>taisceálaí</VengefulExplorer54.titleShort>
 
   <!-- EN: After refusing the wild demands of a tyrannical king, [PAWN_nameDef]'s nomad band was marked as an outlaw group and systematically hunted.\n\n[PAWN_nameDef]'s family was eventually captured. Those who weren't killed were taken as slaves. Sold to the owner of a manufactory, [PAWN_nameDef] swore that one day [PAWN_pronoun] would have [PAWN_possessive] revenge. -->
-  <VengefulNomad67.description>TODO</VengefulNomad67.description>
+  <VengefulNomad67.description>Chónaigh [PAWN_nameDef] le grúpa fánaithe. Nuair a ghéill siad an ghlúin a fheacadh do rí tíoránta, maraíodh leath den ghrúpa agus tógadh an leath eile mar sclábhaithe. Ghéill [PAWN_nameDef] go mbainfeadh [PAWN_pronoun] díoltas amach orthu siúd a scrios a t[PAWN_possessive]reabh.</VengefulNomad67.description>
   <!-- EN: vengeful nomad -->
-  <VengefulNomad67.title>TODO</VengefulNomad67.title>
+  <VengefulNomad67.title>fánaí díoltasach</VengefulNomad67.title>
   <!-- EN: nomad -->
-  <VengefulNomad67.titleShort>TODO</VengefulNomad67.titleShort>
+  <VengefulNomad67.titleShort>fánaí</VengefulNomad67.titleShort>
 
   <!-- EN: Spending [PAWN_possessive] later teenage years in a colony of settlers, [PAWN_pronoun] offered what little skills [PAWN_pronoun] had to anyone who would take him.\n\nBeing a quick learner, [PAWN_pronoun] honed many of [PAWN_possessive] skills and, apart from [PAWN_possessive] crippling inability to understand fire, is now a fully functioning adult. -->
-  <VersatileWorker13.description>TODO</VersatileWorker13.description>
+  <VersatileWorker13.description>Tógadh [PAWN_nameDef] i gcoilíneacht, agus d'fhoghlaim [PAWN_pronoun] conas jabanna agus tascanna éagsúla a láimhseáil go cumasach - seachas aon rud a bhain le tine.</VersatileWorker13.description>
   <!-- EN: versatile worker -->
-  <VersatileWorker13.title>TODO</VersatileWorker13.title>
+  <VersatileWorker13.title>oibrí ilchuimsitheach</VersatileWorker13.title>
   <!-- EN: worker -->
-  <VersatileWorker13.titleShort>TODO</VersatileWorker13.titleShort>
+  <VersatileWorker13.titleShort>oibrí</VersatileWorker13.titleShort>
 
   <!-- EN: Too awkward to socialize, [PAWN_nameDef] found comfort in the production of videos. Oddly, people enjoyed [PAWN_possessive] videos, calling them "perfect sitcom dramas".\n\n[PAWN_nameDef] took advantage of this and broadcast more, ever hopeful that [PAWN_pronoun] would be contacted by the Wizards. -->
-  <VideoProducer83.description>TODO</VideoProducer83.description>
+  <VideoProducer83.description>Bhí [PAWN_pronoun] róchuathalach labhairt le daoine eile, ach thaitin forbairt físeáin go mór le [PAWN_nameDef]. Bhain daoine eile sult as na físeáin agus na sraitheanna a d'fhorbair [PAWN_pronoun].</VideoProducer83.description>
   <!-- EN: video producer -->
-  <VideoProducer83.title>TODO</VideoProducer83.title>
+  <VideoProducer83.title>léiritheoir físeáin</VideoProducer83.title>
   <!-- EN: producer -->
-  <VideoProducer83.titleShort>TODO</VideoProducer83.titleShort>
+  <VideoProducer83.titleShort>léiritheoir</VideoProducer83.titleShort>
 
   <!-- EN: After rising to the top of [PAWN_possessive] criminal band, [PAWN_nameDef] was taught the arts of villainy, from handling firearms to developing new weapons technologies. [PAWN_pronoun] excelled at bending others to [PAWN_possessive] will. -->
-  <Villain89.description>TODO</Villain89.description>
+  <Villain89.description>Bhí [PAWN_nameDef] i gceannas ar drong coirpeach. Tá [PAWN_nameDef] in ann gunnaí a úsáid agus airm úra a fhorbairt, agus ba mhinic gur ghéill daoine dá m[PAWN_possessive]ianta.</Villain89.description>
   <!-- EN: villain -->
-  <Villain89.title>TODO</Villain89.title>
+  <Villain89.title>bithiúnach</Villain89.title>
   <!-- EN: villain -->
-  <Villain89.titleShort>TODO</Villain89.titleShort>
+  <Villain89.titleShort>bithiúnach</Villain89.titleShort>
 
   <!-- EN: After prohibition came to Aracena VI, [PAWN_nameDef] expanded [PAWN_possessive] underground liquor business until it dominated the market on two continents. They called [PAWN_objective] the Vinho King.\n\nThough [PAWN_pronoun] mostly controlled [PAWN_possessive] competition by masterful political maneuvering, [PAWN_pronoun] was not above the occasional beat-down or stiletto assassination. -->
-  <VinhoKing98.description>TODO</VinhoKing98.description>
+  <VinhoKing98.description>Nuair a cuireadh cosc ar alcól i bhfeidhm ar an bpláinéad Arcána VI, chuir [PAWN_nameDef] tús le gnó alcóil - go mídhleathach. D'éirigh le [PAWN_nameDef] alcól agus fíon a smugláil isteach tríd an trádbhac, agus thuill [PAWN_pronoun] go leor airgid á dhéanamh.</VinhoKing98.description>
   <!-- EN: vinho king -->
-  <VinhoKing98.title>TODO</VinhoKing98.title>
+  <VinhoKing98.title>fíoncheannaí</VinhoKing98.title>
   <!-- EN: booze king -->
-  <VinhoKing98.titleShort>TODO</VinhoKing98.titleShort>
+  <VinhoKing98.titleShort>fíoncheannaí</VinhoKing98.titleShort>
 
   <!-- EN: Craving adventure and glory, [PAWN_nameDef] set out across the void with a raider band, swearing [PAWN_possessive] loyalty to [PAWN_possessive] band and brothers, and spreading their glory through the stars with [PAWN_possessive] blade and pistol in hand. -->
-  <VoidRaider74.description>TODO</VoidRaider74.description>
+  <VoidRaider74.description>Chuaigh [PAWN_nameDef] sa tóir ar onóir agus glóir, agus chuaigh amach sa spás le grúpa píoráidí. Bhí [PAWN_pronoun] dílis go deo lena cuid bráithre, agus chuaigh siad ó áit go háit le gunnaí agus lanna i ngréim láimhe.</VoidRaider74.description>
   <!-- EN: void raider -->
-  <VoidRaider74.title>TODO</VoidRaider74.title>
+  <VoidRaider74.title>ruathaire spáis</VoidRaider74.title>
   <!-- EN: Pirate -->
-  <VoidRaider74.titleShort>TODO</VoidRaider74.titleShort>
+  <VoidRaider74.titleShort>píoráid</VoidRaider74.titleShort>
 
   <!-- EN: After years of seeking the assassin that broke up [PAWN_possessive] family, [PAWN_nameDef] was offered a place with a group of space-faring raiders. [PAWN_pronoun] accepted, hoping to find the killer [PAWN_pronoun] sought.\n\nDue to [PAWN_possessive] seemingly-unending ability to narrowly escape danger, [PAWN_pronoun] earned the nickname 'Blackjack' in recognition of [PAWN_possessive] luck. -->
-  <VoidspaceRaider94.description>TODO</VoidspaceRaider94.description>
+  <VoidspaceRaider94.description>Chaith [PAWN_nameDef] na blianta le grúpa ruathairí sa spás. Robálaithe, dúnmharfóirí agus rógairí a bhí iontu.</VoidspaceRaider94.description>
   <!-- EN: voidspace raider -->
-  <VoidspaceRaider94.title>TODO</VoidspaceRaider94.title>
+  <VoidspaceRaider94.title>ruathaire spáis</VoidspaceRaider94.title>
   <!-- EN: Pirate -->
-  <VoidspaceRaider94.titleShort>TODO</VoidspaceRaider94.titleShort>
+  <VoidspaceRaider94.titleShort>ruathaire</VoidspaceRaider94.titleShort>
 
   <!-- EN: [PAWN_nameDef] continued to follow [PAWN_possessive] parents' nomadic ways, supporting [PAWN_objective]self with [PAWN_possessive] crafting skills. But wandering is a hard life, and [PAWN_pronoun] often thought of finding somewhere to settle down and put [PAWN_possessive] skills to good use. -->
-  <WanderingCrafter42.description>TODO</WanderingCrafter42.description>
+  <WanderingCrafter42.description>Bhí saol an fhánaí ag [PAWN_nameDef], agus chuaigh [PAWN_pronoun] ó áit go háit ag lorg oibre - ach bhí an saol sin deacair.</WanderingCrafter42.description>
   <!-- EN: wandering crafter -->
-  <WanderingCrafter42.title>TODO</WanderingCrafter42.title>
+  <WanderingCrafter42.title>ceardaí fánach</WanderingCrafter42.title>
   <!-- EN: crafter -->
-  <WanderingCrafter42.titleShort>TODO</WanderingCrafter42.titleShort>
+  <WanderingCrafter42.titleShort>ceardaí</WanderingCrafter42.titleShort>
 
   <!-- EN: [PAWN_nameDef] studied to be a doctor, but was dissatisfied with [PAWN_possessive] practice on an otherwise peaceful midworld.\n\nInstead, [PAWN_pronoun] chose to pull up roots and travel to the rimworlds in order to care for people who needed [PAWN_objective] most. -->
-  <WanderingHealer52.description>TODO</WanderingHealer52.description>
+  <WanderingHealer52.description>Chuaigh [PAWN_nameDef] i mbun staidéir le bheith ina d[PAWN_possessive]ochtúir, agus chuaigh [PAWN_pronoun] ag obair ar fud an ghrianchórais.</WanderingHealer52.description>
   <!-- EN: wandering healer -->
   <WanderingHealer52.title>cneasaí</WanderingHealer52.title>
   <!-- EN: healer -->

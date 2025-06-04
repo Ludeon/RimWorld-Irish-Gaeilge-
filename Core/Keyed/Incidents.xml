@@ -8,7 +8,7 @@
   <!-- EN: Mad {0} -->
   <LetterLabelAnimalInsanityMultiple>{0} fiáin</LetterLabelAnimalInsanityMultiple>
   <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
-  <AnimalInsanityMultiple>Eine Art übersinnliche Welle ist über das Land hinweggefegt. Deinen Kolonisten geht es gut, aber...\n\nScheinbar sind einige {0} verrückt geworden.</AnimalInsanityMultiple>
+  <AnimalInsanityMultiple>Tá tonn síceach tagtha anuas ar an gceantar. Tá na coilínigh ceart go leor, ach...\n\nIs cosúil go bhfuil roinnt {0} ón gceantar imithe le báiní.</AnimalInsanityMultiple>
 
   <!-- EN: Blight: {PLANTDEF_labelPlural} -->
   <LetterLabelCropBlight>Smol: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
@@ -105,53 +105,53 @@
   <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
   <MessageAnimalInsanityPulse>Tá bíog shíceach tagtha ón {SOURCE_definite}, agus tá na hainmhithe sa cheantar imithe la báiní.</MessageAnimalInsanityPulse>
   <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
-  <LetterShipPartDroveColonistInsane>Das abgestürzte Schiffsteil hat einen gebündelten übersinnlichen Impuls ausgesendet, der den Kolonisten {0} durchdrehen lässt.</LetterShipPartDroveColonistInsane>
+  <LetterShipPartDroveColonistInsane>Tá bíog shíceach tagtha ón gcompháirt spásloinge, agus tá an coilíneach {0} imithe le báiní!</LetterShipPartDroveColonistInsane>
   <!-- EN: Awoke {0} days ago -->
-  <AwokeDaysAgo>Erwachte vor {0} Tagen</AwokeDaysAgo>
+  <AwokeDaysAgo>Múscailte {0} lá ó shin</AwokeDaysAgo>
   <!-- EN: Activated {0} days ago -->
-  <ActivatedDaysAgo>Aktiviert vor {0} Tagen</ActivatedDaysAgo>
+  <ActivatedDaysAgo>Gníomhachtaithe {0} lá ó shin</ActivatedDaysAgo>
   <!-- EN: Opened {0} days ago -->
-  <OpenedDaysAgo>Geöffnet vor {0} Tagen</OpenedDaysAgo>
+  <OpenedDaysAgo>Oscailte {0} lá ó shin</OpenedDaysAgo>
   <!-- EN: Psychic drone level: {0} -->
-  <PsychicDroneLevel>Intensität des übersinnl. Brummens: {0}</PsychicDroneLevel>
+  <PsychicDroneLevel>Leibhéal an dordáin shícigh: {0}</PsychicDroneLevel>
   <!-- EN: Drone intensifies -->
-  <LetterLabelPsychicDroneLevelIncreased>Brummen verstärkt</LetterLabelPsychicDroneLevelIncreased>
+  <LetterLabelPsychicDroneLevelIncreased>Tá an dordán éirithe níos láidre</LetterLabelPsychicDroneLevelIncreased>
   <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
-  <LetterPsychicDroneLevelIncreased>Das abgestürzte Schiffsteil strahlt nun eine verstärkte Version des übersinnlichen Brummens aus. Alle menschlichen Wesen {0}en Geschlechts in der Region fühlen sich jetzt noch gestörter, ängstlicher und paranoider.</LetterPsychicDroneLevelIncreased>
+  <LetterPsychicDroneLevelIncreased>Tá an dordán atá ag teacht ón gcomhpháirt spásloinge éirithe níos láidre. Mothaíonn gach {0} sa cheantar níos measa.</LetterPsychicDroneLevelIncreased>
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
-  <LetterLabelAgentRevealed>Agent</LetterLabelAgentRevealed>
+  <LetterLabelAgentRevealed>Spiaire </LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
-  <LetterAgentRevealed>{0} wurde als Agent der gegnerischen Fraktion {1} entlarvt.\n\n{0_pronoun} versucht zu fliehen.</LetterAgentRevealed>
+  <LetterAgentRevealed>Nochtadh {0} mar spiaire ón bhfaicsean naimhdeach '{1}'.\n\nTá {0_pronoun} ag éalú anois.</LetterAgentRevealed>
 
   <!-- Beavers -->
   <!-- EN: Beavers! -->
-  <LetterLabelBeaversArrived>Biber!</LetterLabelBeaversArrived>
+  <LetterLabelBeaversArrived>Béabhair!</LetterLabelBeaversArrived>
   <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
-  <BeaversArrived>Eine Gruppe hungriger Alphabiber ist gerade angekommen.\n\nVersuche sie zu töten, bevor sie sämtliche Holzvorkommen in der Region dezimieren.</BeaversArrived>
+  <BeaversArrived>Tá grúpa alfabéabhair tagtha.\n\nDéan iarracht iad a mharu, sula scriosfaidh siad gach píosa admhaid sa cheantar.</BeaversArrived>
   
   <!-- Self-tame -->
   <!-- EN: {1_kind} self-tamed -->
-  <LetterLabelAnimalSelfTame>{1_kindBaseIndef} wurde zahm</LetterLabelAnimalSelfTame>
+  <LetterLabelAnimalSelfTame>Ceansaithe: {1_kindBaseIndef}</LetterLabelAnimalSelfTame>
   <!-- EN: {0} has become tame. -->
-  <LetterAnimalSelfTame>{0} wurde zahm.</LetterAnimalSelfTame>
+  <LetterAnimalSelfTame>Ceansaíodh {0}.</LetterAnimalSelfTame>
   <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndNameNumerical>{ANIMAL_kindBaseIndef} wurde zahm. Das Tier trägt nun den Namen '{ANIMAL_nameFull}'.</LetterAnimalSelfTameAndNameNumerical>
+  <LetterAnimalSelfTameAndNameNumerical>Tá {ANIMAL_kindBaseIndef} ceansaithe anois. Tabharfar '{ANIMAL_nameFull}' air as seo amach.</LetterAnimalSelfTameAndNameNumerical>
   <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
-  <LetterAnimalSelfTameAndName>{ANIMAL_kindBaseIndef} wurde zahm. Deine Kolonisten nennen das Tier '{ANIMAL_nameFull}'.</LetterAnimalSelfTameAndName>
+  <LetterAnimalSelfTameAndName>Tá {ANIMAL_kindBaseIndef} ceansaithe anois. Chinn na coilínigh '{ANIMAL_nameFull}' a thabhairt air.</LetterAnimalSelfTameAndName>
 
   <!-- Farm animals wander in -->
   <!-- EN: {0} join -->
-  <LetterLabelFarmAnimalsWanderIn>{0} schließen sich an</LetterLabelFarmAnimalsWanderIn>
+  <LetterLabelFarmAnimalsWanderIn>Tá {0} tagtha</LetterLabelFarmAnimalsWanderIn>
   <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
-  <LetterFarmAnimalsWanderIn>Eine Gruppe ausgesetzter oder verirrter {0} hat das Gebiet betreten.\n\nSie scheinen Menschen zu vertrauen und schließen sich der Kolonie an.</LetterFarmAnimalsWanderIn>
+  <LetterFarmAnimalsWanderIn>Tá grúpa {0} tagtha.\n\nIs cosúil go bhfuil siad compordach le daoine, agus tá siad ag dul leis an gcoilíneacht.</LetterFarmAnimalsWanderIn>
   
   <!-- Thrumbo passes -->
   <!-- EN: Rare thrumbos -->
-  <LetterLabelThrumboPasses>Seltene Thrumbos</LetterLabelThrumboPasses>
+  <LetterLabelThrumboPasses>Trumbónna</LetterLabelThrumboPasses>
   <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
-  <LetterThrumboPasses>Eine kleine Herde Thrumbos ist in die Region gewandert.\n\nDiese seltenen Kreaturen sind von Natur aus friedlich. Allerdings können sie auch sehr gefährlich werden, wenn sie angegriffen werden. Einige Händler sind bereit, eine beträchtliche Summe für ihr wertvolles Leder und Horn zu zahlen.\n\nDie Thrumbos werden das Gebiet in ein paar Tagen verlassen.</LetterThrumboPasses>
+  <LetterThrumboPasses>Tá grúpa trumbónna tagtha isteach sa cheantar.\n\nTá na hainmhithe móra seo síochánta, ach tá siad thar a bheith dáinséarach. Bíonn a gcraiceann agus a adharca an-luachmhar.\n\nFanfaidh na trumbónna sa cheantar ar feadh cúpla lá.</LetterThrumboPasses>
   
   <!-- Trader caravan -->
   <!-- EN: {1} from {0} -->
@@ -173,76 +173,76 @@
   
   <!-- Journey-related -->
   <!-- EN: Ship found -->
-  <EscapeShipFoundLabel>Raumschiff gefunden</EscapeShipFoundLabel>
+  <EscapeShipFoundLabel>Aimsíodh spáslong</EscapeShipFoundLabel>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
-  <EscapeShipFound>Du hast die von (*Name)Charlon Whitestone(/Name) gesendeten Koordinaten erreicht und das versteckte Raumschiff entdeckt.\n\nDer Reaktor des Schiffes befindet sich im Tiefschlafmodus und muss zuerst hochgefahren werden. Interagiere mit dem Computerkern, um die Startsequenz einzuleiten.\n\n(*Name)Charlon Whitestone(/Name) warnt dich, dass das Hochfahren etwa 15 Tage in Anspruch nimmt und die Energiesignatur schon aus großer Entfernung messbar sein wird. Diese Art von Energiesignatur deutet auf interstellare Flugtauglichkeit hin und wird sowohl verzweifelte Raider als auch tödliche Mechanoiden anlocken.\n\nDu wirst mit einer noch nie dagewesenen Intensität angegriffen werden. Sorge zuerst dafür, dass deine Verteidigung steht.</EscapeShipFound>
+  <EscapeShipFound>Bhain tú amach na comhordanáidí a thug (*Name)Charlon Whitestone(/Name) duit, agus d'aimsigh tú an spáslong rúnda.\n\nTá imoibreoir na spásloinge múchta, mar sin ní fhéadfaidh sé eitilt go fóill. Féadfaidh tú an spáslong a ghníomhachtú ach cliceáil ar an gconsól.</EscapeShipFound>
   <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
-  <EscapeShipFoundPeaceful>Du hast die von (*Name)Charlon Whitestone(/Name) gesendeten Koordinaten erreicht und das versteckte Raumschiff entdeckt.\n\nDer Reaktor des Schiffes befindet sich im Tiefschlafmodus und muss zuerst hochgefahren werden. Interagiere mit dem Computerkern, um die Startsequenz einzuleiten.\n\n(*Name)Charlon Whitestone(/Name) warnt dich, dass das Hochfahren etwa 15 Tage in Anspruch nimmt.</EscapeShipFoundPeaceful>
+  <EscapeShipFoundPeaceful>Bhain tú amach na comhordanáidí a thug (*Name)Charlon Whitestone(/Name) duit, agus d'aimsigh tú an spáslong rúnda.\n\nTá imoibreoir na spásloinge múchta, mar sin ní fhéadfaidh sé eitilt go fóill. Féadfaidh tú an spáslong a ghníomhachtú ach cliceáil ar an gconsól.\n\nDeir (*Name)Charlon Whitestone(/Name) leat go dtógfaidh sé thart ar 15 lá an spáslong a ghíomhachtú go hiomlán.</EscapeShipFoundPeaceful>
 
   <!-- Caravan meeting -->
   <!-- EN: Caravan meeting by {0} -->
-  <CaravanMeetingTitle>Karawanentreffen mit {0}</CaravanMeetingTitle>
+  <CaravanMeetingTitle>Aimsíodh carbhán ({0})</CaravanMeetingTitle>
   <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
-  <CaravanMeeting>{0} hat eine friedliche Karawane der Fraktion {1} getroffen. Ihre Karawane besteht aus:\n\n{2}</CaravanMeeting>
+  <CaravanMeeting>Bhuail {0} le carbhán ón bhfaicsean '{1}'. Tá an carbhán eile déanta suas de:\n\n{2}</CaravanMeeting>
   <!-- EN: Trade -->
-  <CaravanMeeting_Trade>Handeln</CaravanMeeting_Trade>
+  <CaravanMeeting_Trade>Trádáil</CaravanMeeting_Trade>
   <!-- EN: Attack -->
-  <CaravanMeeting_Attack>Angreifen</CaravanMeeting_Attack>
+  <CaravanMeeting_Attack>Ionsaigh</CaravanMeeting_Attack>
   <!-- EN: Move on -->
-  <CaravanMeeting_MoveOn>Weiterziehen</CaravanMeeting_MoveOn>
+  <CaravanMeeting_MoveOn>Lean ar aghaidh</CaravanMeeting_MoveOn>
   <!-- EN: no caravan members capable of trading -->
-  <CaravanMeeting_TradeIncapable>niemand aus der Karawane kann handeln</CaravanMeeting_TradeIncapable>
+  <CaravanMeeting_TradeIncapable>níl aon duine in ann trádáil</CaravanMeeting_TradeIncapable>
   <!-- EN: need a trader with the title of {0} from {1_name} -->
-  <CaravanMeeting_NoPermit>brauchen einen Händler mit dem Titel {0} von {1_name}</CaravanMeeting_NoPermit>
+  <CaravanMeeting_NoPermit>tá trádálaí a bhfuil an teideal {0} ón bhfaicsean {1_name} aige de dhíth</CaravanMeeting_NoPermit>
   
   <!-- Caravan request -->
   <!-- EN: Caravan request -->
-  <LetterLabelCaravanRequest>Karawanenanfrage</LetterLabelCaravanRequest>
+  <LetterLabelCaravanRequest>Iarradh ar charbhán</LetterLabelCaravanRequest>
   <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
-  <LetterCaravanRequest>Eine nahe Siedlung, {0}, kontaktiert dich mit einer speziellen Handelsanfrage. Sie brauchen dringend:\n\n  {1} (Wert {2})\n\nSie bieten Folgendes als Gegenleistung an:\n\n  {3} (Wert {4})\n\nDiese Anfrage ist gültig für: {5}\n\nWenn du an diesem Handel interessiert bist, sende ihnen eine Karawane mit den geforderten Waren. Die geschätzte Reisezeit liegt bei {6}. Du kannst dir dieses Angebot noch einmal ansehen, indem du {0} auf der Weltkarte auswählst.</LetterCaravanRequest>
+  <LetterCaravanRequest>Déanann lonnaíocht atá suite in aice láimhe, {0}, teagmháil leat agus iarrann siad gar ort. Ba mhaith leo na rudaí seo a leanas a cheannach:\n\n  {1} (luach {2})\n\nTá siad sásta na rudaí seo a leanas a thrádáil leat:\n\n  {3} (luach {4})\n\nRachaidh an t-iarratas seo in éag i gceann: {5}\n\nMás maith leat trádáil leo, féadfaidh tú carbhán a sheoladh chuchu leis na hearraí a iarradh. Meastar go dtógfaidh sé {6} taisteal ann. Féadfaidh tú breathnú ar an tairiscint seo arís ach {0} a roghnú ar an léarscáil domhanda.</LetterCaravanRequest>
   <!-- EN: Requesting: {0} ({2}) ({1} left) -->
-  <CaravanRequestInfo>Benötigt: {0} ({2}) (noch {1})</CaravanRequestInfo>
+  <CaravanRequestInfo>Iarrtha: {0} ({2}) ({1} fágtha)</CaravanRequestInfo>
   <!-- EN: normal quality or better -->
-  <NormalQualityOrBetter>normale Qualität oder besser</NormalQualityOrBetter>
+  <NormalQualityOrBetter>cáilíocht normálta nó níos fearr</NormalQualityOrBetter>
   <!-- EN: not tainted -->
-  <NotTainted>nicht verunreinigt</NotTainted>
+  <NotTainted>ní cheadaítear earraí truaillithe</NotTainted>
 
   <!-- Caravan demand -->
   <!-- EN: Caravan demand by {0} -->
-  <CaravanDemandTitle>Karawanenforderung von {0}</CaravanDemandTitle>
+  <CaravanDemandTitle>Luíochán ({0})</CaravanDemandTitle>
   <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
-  <CaravanDemand>{0} wurde von einer {2}-köpfigen Gruppe {4} der Fraktion {1} aufgelauert. Sie werden angreifen, es sei denn, du gibst ihnen:\n\n{3}</CaravanDemand>
+  <CaravanDemand>Rinne grúpa ón bhfaicsean {1} luíochan ar {0}. Ionsóidh siad mura dtabharfar na rudaí seo a leanas dóibh:\n\n{3}</CaravanDemand>
   <!-- EN: Give and pass -->
-  <CaravanDemand_Give>Geben und weiterziehen</CaravanDemand_Give>
+  <CaravanDemand_Give>Géill agus lean ort</CaravanDemand_Give>
   <!-- EN: Refuse and fight -->
-  <CaravanDemand_Fight>Ablehnen und kämpfen</CaravanDemand_Fight>
+  <CaravanDemand_Fight>Diúltaigh agus troid</CaravanDemand_Fight>
 
   <!-- Site no longer hostile -->
   <!-- EN: Quest no longer available -->
-  <LetterLabelSiteNoLongerHostile>Ort nicht mehr verfügbar</LetterLabelSiteNoLongerHostile>
+  <LetterLabelSiteNoLongerHostile>Níl misean ar fháil a thuilleadh</LetterLabelSiteNoLongerHostile>
   <!-- EN: Quests no longer available -->
-  <LetterLabelSiteNoLongerHostileMulti>Orte nicht mehr verfügbar</LetterLabelSiteNoLongerHostileMulti>
+  <LetterLabelSiteNoLongerHostileMulti>Níl misin ar fháil a thuilleadh</LetterLabelSiteNoLongerHostileMulti>
   <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
-  <LetterSiteNoLongerHostile>Da du nicht mehr mit der Fraktion '{0}' verfeindet bist, ist der Ort '{1}' nicht mehr verfügbar.</LetterSiteNoLongerHostile>
+  <LetterSiteNoLongerHostile>Os rud é nach bhfuil tú naimhdeach leis an bhfaicsean '{0}' a thuilleadh, níl '{1}' ar fáil níos mó.</LetterSiteNoLongerHostile>
   <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
-  <LetterSiteNoLongerHostileMulti>Da du nicht mehr mit der Fraktion '{0}' verfeindet bist, sind die folgenden Orte nicht mehr verfügbar</LetterSiteNoLongerHostileMulti>
+  <LetterSiteNoLongerHostileMulti>Os rud é nach bhfuil tú naimhdeach leis an bhfaicsean '{0}' a thuilleadh, níl na suíomhanna seo a leanas ar fáil níos mó</LetterSiteNoLongerHostileMulti>
 
   <!-- Quest asker faction hostile -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerFactionHostile>Quest gescheitert</LetterLabelQuestAskerFactionHostile>
+  <LetterLabelQuestAskerFactionHostile>Theip ort misean a chríochnú</LetterLabelQuestAskerFactionHostile>
   <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
-  <LetterQuestAskerFactionHostile>Die Quest kann nicht mehr abgeschlossen werden, weil die Fraktion {FACTION_name} feindlich gesinnt ist.</LetterQuestAskerFactionHostile>
+  <LetterQuestAskerFactionHostile>Níl an misean seo ar fáil a thuilleadh toisc go bhfuil an faicsean '{FACTION_name}' naimhdeach anois.</LetterQuestAskerFactionHostile>
 
   <!-- Quest asker captured -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerCaptured>Quest gescheitert</LetterLabelQuestAskerCaptured>
+  <LetterLabelQuestAskerCaptured>Theip ort misean a chríochnú</LetterLabelQuestAskerCaptured>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
-  <LetterQuestAskerCaptured>Die Quest kann nicht mehr abgeschlossen werden, weil {SUBJECT_definite} eingefangen wurde.</LetterQuestAskerCaptured>
+  <LetterQuestAskerCaptured>Ní féidir an misean seo a chríochnú níos mó, os rud é gur gabhadh {SUBJECT_definite}.</LetterQuestAskerCaptured>
 
   <!-- Quest asker died -->
   <!-- EN: Quest failed -->
-  <LetterLabelQuestAskerDied>Quest gescheitert</LetterLabelQuestAskerDied>
+  <LetterLabelQuestAskerDied>Theip ort misean a chríochnú</LetterLabelQuestAskerDied>
   <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
-  <LetterQuestAskerDied>Die Quest kann nicht mehr abgeschlossen werden, weil {SUBJECT_definite} gestorben ist.</LetterQuestAskerDied>
+  <LetterQuestAskerDied>Ní féidir an misean seo a chríochnú níos mó, os rud é gur maraíodh {SUBJECT_definite}.</LetterQuestAskerDied>
 
 </LanguageData>

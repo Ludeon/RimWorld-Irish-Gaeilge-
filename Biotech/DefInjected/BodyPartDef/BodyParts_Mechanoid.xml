@@ -2,76 +2,76 @@
 <LanguageData>
   
   <!-- EN: bulb turret -->
-  <BulbTurret.label>Kugelturm</BulbTurret.label>
+  <BulbTurret.label>túirín bleibíneach</BulbTurret.label>
   
   <!-- EN: hypercapacitor -->
-  <DiabolusCapacitor.label>Hyperkondensator</DiabolusCapacitor.label>
+  <DiabolusCapacitor.label>hípeartoilleoir</DiabolusCapacitor.label>
   
   <!-- EN: fifth body ring -->
-  <MechanicalDiabolusBodyFifthRing.label>fünfter Körperring</MechanicalDiabolusBodyFifthRing.label>
+  <MechanicalDiabolusBodyFifthRing.label>cúigiú tóracs</MechanicalDiabolusBodyFifthRing.label>
   <!-- EN: body ring -->
-  <MechanicalDiabolusBodyFifthRing.labelShort>Körperring</MechanicalDiabolusBodyFifthRing.labelShort>
+  <MechanicalDiabolusBodyFifthRing.labelShort>tóracs</MechanicalDiabolusBodyFifthRing.labelShort>
   
   <!-- EN: first body ring -->
-  <MechanicalDiabolusBodyFirstRing.label>erster Körperring</MechanicalDiabolusBodyFirstRing.label>
+  <MechanicalDiabolusBodyFirstRing.label>céad thóracs</MechanicalDiabolusBodyFirstRing.label>
   <!-- EN: body ring -->
-  <MechanicalDiabolusBodyFirstRing.labelShort>Körperring</MechanicalDiabolusBodyFirstRing.labelShort>
+  <MechanicalDiabolusBodyFirstRing.labelShort>tóracs</MechanicalDiabolusBodyFirstRing.labelShort>
   
   <!-- EN: fourth body ring -->
-  <MechanicalDiabolusBodyFourthRing.label>vierter Körperring</MechanicalDiabolusBodyFourthRing.label>
+  <MechanicalDiabolusBodyFourthRing.label>ceathrú tóracs</MechanicalDiabolusBodyFourthRing.label>
   <!-- EN: body ring -->
-  <MechanicalDiabolusBodyFourthRing.labelShort>Körperring</MechanicalDiabolusBodyFourthRing.labelShort>
+  <MechanicalDiabolusBodyFourthRing.labelShort>tóracs</MechanicalDiabolusBodyFourthRing.labelShort>
   
   <!-- EN: second body ring -->
-  <MechanicalDiabolusBodySecondRing.label>zweiter Körperring</MechanicalDiabolusBodySecondRing.label>
+  <MechanicalDiabolusBodySecondRing.label>dara tóracs</MechanicalDiabolusBodySecondRing.label>
   <!-- EN: body ring -->
-  <MechanicalDiabolusBodySecondRing.labelShort>Körperring</MechanicalDiabolusBodySecondRing.labelShort>
+  <MechanicalDiabolusBodySecondRing.labelShort>tóracs</MechanicalDiabolusBodySecondRing.labelShort>
   
   <!-- EN: sixth body ring -->
-  <MechanicalDiabolusBodySixthRing.label>sechster Körperring</MechanicalDiabolusBodySixthRing.label>
+  <MechanicalDiabolusBodySixthRing.label>séú tóracs</MechanicalDiabolusBodySixthRing.label>
   <!-- EN: body ring -->
-  <MechanicalDiabolusBodySixthRing.labelShort>Körperring</MechanicalDiabolusBodySixthRing.labelShort>
+  <MechanicalDiabolusBodySixthRing.labelShort>tóracs</MechanicalDiabolusBodySixthRing.labelShort>
   
   <!-- EN: third body ring -->
-  <MechanicalDiabolusBodyThirdRing.label>dritter Körperring</MechanicalDiabolusBodyThirdRing.label>
+  <MechanicalDiabolusBodyThirdRing.label>tríú tóracs</MechanicalDiabolusBodyThirdRing.label>
   <!-- EN: body ring -->
-  <MechanicalDiabolusBodyThirdRing.labelShort>Körperring</MechanicalDiabolusBodyThirdRing.labelShort>
+  <MechanicalDiabolusBodyThirdRing.labelShort>tóracs</MechanicalDiabolusBodyThirdRing.labelShort>
   
   <!-- EN: fifth body ring -->
-  <MechanicalWarqueenBodyFifthRing.label>fünfter Körperring</MechanicalWarqueenBodyFifthRing.label>
+  <MechanicalWarqueenBodyFifthRing.label>cúigiú tóracs</MechanicalWarqueenBodyFifthRing.label>
   <!-- EN: body ring -->
-  <MechanicalWarqueenBodyFifthRing.labelShort>Körperring</MechanicalWarqueenBodyFifthRing.labelShort>
+  <MechanicalWarqueenBodyFifthRing.labelShort>tóracs</MechanicalWarqueenBodyFifthRing.labelShort>
   
   <!-- EN: first body ring -->
-  <MechanicalWarqueenBodyFirstRing.label>erster Körperring</MechanicalWarqueenBodyFirstRing.label>
+  <MechanicalWarqueenBodyFirstRing.label>céad thóracs</MechanicalWarqueenBodyFirstRing.label>
   <!-- EN: body ring -->
-  <MechanicalWarqueenBodyFirstRing.labelShort>Körperring</MechanicalWarqueenBodyFirstRing.labelShort>
+  <MechanicalWarqueenBodyFirstRing.labelShort>tóracs</MechanicalWarqueenBodyFirstRing.labelShort>
   
   <!-- EN: fourth body ring -->
-  <MechanicalWarqueenBodyFourthRing.label>vierter Körperring</MechanicalWarqueenBodyFourthRing.label>
+  <MechanicalWarqueenBodyFourthRing.label>ceathrú tóracs</MechanicalWarqueenBodyFourthRing.label>
   <!-- EN: body ring -->
-  <MechanicalWarqueenBodyFourthRing.labelShort>Körperring</MechanicalWarqueenBodyFourthRing.labelShort>
+  <MechanicalWarqueenBodyFourthRing.labelShort>tóracs</MechanicalWarqueenBodyFourthRing.labelShort>
   
   <!-- EN: second body ring -->
-  <MechanicalWarqueenBodySecondRing.label>zweiter Körperring</MechanicalWarqueenBodySecondRing.label>
+  <MechanicalWarqueenBodySecondRing.label>dara tóracs</MechanicalWarqueenBodySecondRing.label>
   <!-- EN: body ring -->
-  <MechanicalWarqueenBodySecondRing.labelShort>Körperring</MechanicalWarqueenBodySecondRing.labelShort>
+  <MechanicalWarqueenBodySecondRing.labelShort>tóracs</MechanicalWarqueenBodySecondRing.labelShort>
   
   <!-- EN: third body ring -->
-  <MechanicalWarqueenBodyThirdRing.label>dritter Körperring</MechanicalWarqueenBodyThirdRing.label>
+  <MechanicalWarqueenBodyThirdRing.label>tríú tóracs</MechanicalWarqueenBodyThirdRing.label>
   <!-- EN: body ring -->
-  <MechanicalWarqueenBodyThirdRing.labelShort>Körperring</MechanicalWarqueenBodyThirdRing.labelShort>
+  <MechanicalWarqueenBodyThirdRing.labelShort>tóracs</MechanicalWarqueenBodyThirdRing.labelShort>
   
   <!-- EN: forming sack -->
-  <MechanicalWarqueenFormingPod.label>Formsack</MechanicalWarqueenFormingPod.label>
+  <MechanicalWarqueenFormingPod.label>sac foirmlithe</MechanicalWarqueenFormingPod.label>
   
   <!-- EN: power claw -->
-  <PowerClaw.label>Powerkralle</PowerClaw.label>
+  <PowerClaw.label>crúb chumhachta</PowerClaw.label>
   
   <!-- EN: small foot -->
-  <SmallMechanicalFoot.label>Füßchen</SmallMechanicalFoot.label>
+  <SmallMechanicalFoot.label>cos bheag</SmallMechanicalFoot.label>
   
   <!-- EN: small leg -->
-  <SmallMechanicalLeg.label>Beinchen</SmallMechanicalLeg.label>
+  <SmallMechanicalLeg.label>cos bheag</SmallMechanicalLeg.label>
   
 </LanguageData>

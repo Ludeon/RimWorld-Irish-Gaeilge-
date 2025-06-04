@@ -4,7 +4,7 @@
   <!-- EN: rough pig union -->
   <OutlanderRoughPig.label>muc-dhaoine fíocmhara</OutlanderRoughPig.label>
   <!-- EN: A loose union of hardy pigskin townships. They're willing to make friends, even with thinsnouts, but they're also ready to toss a bomb and gnaw human gristle when it suits them. Treat them with respect and they'll offer a trotter to an ally in need. Turn against them and the last thing you hear might be a triumphant battle squeal. -->
-  <OutlanderRoughPig.description>Cónaidhm scaoilte de mhuc-dhaoine. Bíonn siad sásta plé le stráinséirí, ach uaireanta bíonn siad chomh sásta céanna buamaí a chaitheamh agus craiceann daoine a ithe. Léirigh meas orthu, agus seans go dtiocfaidh siad i gcabhair ort. Má léiríonn tú dímheas orthu, seans go gcloisfidh tú scréach cogaidh agus iad ag déanamh ionsaí ort.</OutlanderRoughPig.description>
+  <OutlanderRoughPig.description>Cónaidhm scaoilte de mhuc-dhaoine. Bíonn siad sásta plé le stráinséirí, ach uaireanta bíonn siad chomh sásta céanna buamaí a chaitheamh agus craiceann daoine a ithe. Má léiríonn tú meas orthu, tá seans ann go dtiocfaidh siad i gcabhair ort. Má léiríonn tú dímheas orthu, tá seans ann go gcloisfidh tú scréach cogaidh agus iad ag déanamh ionsaí ort i lár na hoíche.</OutlanderRoughPig.description>
   <!-- EN: prime councilor -->
   <OutlanderRoughPig.leaderTitle>príomh-chomhairleoir</OutlanderRoughPig.leaderTitle>
   <OutlanderRoughPig.leaderTitleFemale>príomh-chomhairleoir</OutlanderRoughPig.leaderTitleFemale>
@@ -14,9 +14,9 @@
   <OutlanderRoughPig.pawnsPlural>muc-dhuine</OutlanderRoughPig.pawnsPlural>
 
   <!-- EN: waster pirates -->
-  <PirateWaster.label>píoráidí tocsacha</PirateWaster.label>
+  <PirateWaster.label>píoráidí tocsaineacha</PirateWaster.label>
   <!-- EN: A loose collection of violent pirate bands made up primarily of wasters - xenohumans engineered to thrive around toxins and pollution. They have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <PirateWaster.description>Cónaidhm scaoilte de phíoráidí atá déanta suas de thocsaitheoirí den chuid is mó - xéinea-daoine a ndearnadh innealtóireacht ghéiniteach orthu chun go mbeadh siad in ann maireachtáil i gceantair truaillithe.\n\nNí bhíonn píoráidí ag plé le cúrsaí taidhleoireachta, agus is annamh go mbíonn siad ag trádáil. Tá siad tiomanta ag cultúr fuilteach ina leagtar béim ar an láidreacht agus ar an bhforéigean. Déanann siad a saibhreas trí dhaoine eile a robáil.\n\nBíonn leibheil teicneolaíochta éagsúla ag píoráidí. Is minic go mbíonn gunnaí acu, ach is fearr le grúpaí áirithe úsáid a bhaint as sciain agus lanna.</PirateWaster.description>
+  <PirateWaster.description>Cónaidhm scaoilte de phíoráidí, atá déanta suas de thocsaitheoirí den chuid is mó - xéinea-daoine a ndearnadh innealtóireacht ghéiniteach orthu chun go mbeadh siad in ann maireachtáil i gceantair thruaillithe.\n\nNí bhíonn píoráidí ag plé le cúrsaí taidhleoireachta, agus is annamh go mbíonn siad ag trádáil. Tá siad tiomanta ag cultúr fuilteach ina leagtar béim ar an láidreacht agus ar an bhforéigean. Déanann siad a saibhreas trí dhaoine eile a robáil.\n\nBíonn leibhéil teicneolaíochta éagsúla ag píoráidí. Is minic go mbíonn gunnaí acu, ach is fearr le grúpaí áirithe úsáid a bhaint as sciain agus lanna.</PirateWaster.description>
   <!-- EN: boss -->
   <PirateWaster.leaderTitle>ceananasaí</PirateWaster.leaderTitle>
   <!-- EN: waster -->
@@ -27,7 +27,7 @@
   <!-- EN: yttakin pirates -->
   <PirateYttakin.label>píoráidí iatúiteacha</PirateYttakin.label>
   <!-- EN: A close-knit band of hulking, fur-bodied pirates of the yttakin xenotype. They refuse to deal with outsiders and are quick to call their animal warriors against those who disrespect them - or whose wealth they intend to take.\n\nOriginally engineered to populate the icy planet Yttak, yttakin now pursue their traditional lifestyle on many worlds. -->
-  <PirateYttakin.description>Grúpa an-dlúth de phíoráidí iatúiteacha - píoráidí ón xéini-tíop iatúiteach, a bhfuil clúmh ar a gcraiceann.\n\nRinneadh innealtóireacht ghéiniteach orthu fadó chun go mbeadh siad in ann maireachtáil ar an bpláinéad reoite Iatúite, agus anois leanann siad an stíl maireachtála sin ar go leor pláinéad.</PirateYttakin.description>
+  <PirateYttakin.description>Grúpa an-dlúth de phíoráidí iatúiteacha - píoráidí den xéini-tíop iatúiteach, a bhfuil clúmh ar a gcraiceann.\n\nRinneadh innealtóireacht ghéiniteach ar na daoine seo fadó chun go mbeadh siad in ann maireachtáil ar an bpláinéad reoite Iatúite, agus anois leanann siad an stíl maireachtála ársa sin ar an bpláinéad seo.</PirateYttakin.description>
   <!-- EN: boss -->
   <PirateYttakin.leaderTitle>ceannasaí</PirateYttakin.leaderTitle>
   <!-- EN: yttakin -->

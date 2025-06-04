@@ -142,13 +142,13 @@
   <TargetedTantrum.recoveryMessage>Níl tacht feirge ar {0} níos mó.</TargetedTantrum.recoveryMessage>
   
   <!-- EN: sitting alone -->
-  <Wander_OwnRoom.label>i bhfolach</Wander_OwnRoom.label>
+  <Wander_OwnRoom.label>ag dul i bhfolach</Wander_OwnRoom.label>
   <!-- EN: Mental state: Hiding in room -->
   <Wander_OwnRoom.baseInspectLine>Cliseadh néarógach: ag dul i bhfolach</Wander_OwnRoom.baseInspectLine>
   <!-- EN: {0} is hiding in [PAWN_possessive] room. -->
   <Wander_OwnRoom.beginLetter>Tá {0} i bhfolach ina s[PAWN_possessive]eomra.</Wander_OwnRoom.beginLetter>
   <!-- EN: hide in room -->
-  <Wander_OwnRoom.beginLetterLabel>i bhfolach sa seomra</Wander_OwnRoom.beginLetterLabel>
+  <Wander_OwnRoom.beginLetterLabel>ag dul i bhfolach sa seomra</Wander_OwnRoom.beginLetterLabel>
   <!-- EN: {0} is no longer hiding in [PAWN_possessive] room. -->
   <Wander_OwnRoom.recoveryMessage>Níl {0} i bhfolach ina s[PAWN_possessive]eomra níos mó.</Wander_OwnRoom.recoveryMessage>
   

@@ -86,9 +86,9 @@ na Trócaire
 na Beannachta
 na Céille
 na Cinniúna
-an Neart
+an Nirt
 na Cumhachta
-an Fhulaingt
+na Fulaingthe
 an Fhuinnimh
 an Aicsin
 na Troda
@@ -99,3 +99,51 @@ an Laochais
 an Údaráis
 na Dílseachta
 na Cinnteoireachta
+Sheáin
+Mháire
+Liam
+Nóra
+Pheadair
+Eoin
+Aoife
+Tomáis
+Bríd
+Mhicil
+Róis
+Dhiarmada
+Caitlín
+Shéamais
+Eibhlín
+Antaine
+Gráinne
+Pádraig
+Sinéad
+Fhionnáin
+Orla
+Mhuiris
+Clíodhna
+Aindriú
+Siobhán
+Uí Dhomhnaill
+Uí Bhriain
+Uí Néill
+Uí Chonchúir
+Uí Cheallaigh
+Uí Mhaolmhuaidh
+Uí Shúilleabháin
+Uí Raghallaigh
+Uí Chléirigh
+Mhic Cárthaigh
+Uí Fhlannagáin
+Uí Chathasaigh
+Uí Dhuibhne
+Uí Mhaoil Eoin
+Uí Dhálaigh
+Mhic Gabhann
+Uí Chonmhaic
+Mhic Aodha
+Mhic an Bháird
+Mhic an tSaoir
+Mhic Dhomhnaill
+Mhic Íomhair
+Mhic Giolla Phádraig

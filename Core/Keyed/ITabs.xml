@@ -435,19 +435,19 @@
   <AutocutUnenclosedPenTip>Das Gehege ist nicht umzäunt; Pflanzen werden nicht automatisch entfernt.</AutocutUnenclosedPenTip>
 
   <!-- EN: Auto-cut blocking plants -->
-  <WindTurbineAutoCut_EnabledCheckbox>Blockierende Pflanzen auto-entfernen</WindTurbineAutoCut_EnabledCheckbox>
+  <WindTurbineAutoCut_EnabledCheckbox>Gearr plandaí </WindTurbineAutoCut_EnabledCheckbox>
   
   <!-- Study tab  -->
   <!-- EN: Study progress -->
-  <StudyNotesTab_StudyProgress>TODO</StudyNotesTab_StudyProgress>
+  <StudyNotesTab_StudyProgress>Dul chun cinn</StudyNotesTab_StudyProgress>
   <!-- EN: Ongoing -->
-  <StudyNotesTab_StudyProgressOngoing>TODO</StudyNotesTab_StudyProgressOngoing>
+  <StudyNotesTab_StudyProgressOngoing>Ar lean</StudyNotesTab_StudyProgressOngoing>
   <!-- EN: Completed -->
-  <StudyNotesTab_StudyProgressCompleted>TODO</StudyNotesTab_StudyProgressCompleted>
+  <StudyNotesTab_StudyProgressCompleted>Críochnaithe</StudyNotesTab_StudyProgressCompleted>
   <!-- EN: Toggle study -->
-  <StudyNotesTab_ToggleStudy>TODO</StudyNotesTab_ToggleStudy>
+  <StudyNotesTab_ToggleStudy>Tosaigh/Stop</StudyNotesTab_ToggleStudy>
   <!-- EN: No discoveries yet -->
-  <StudyNotesTab_NoDiscoveries>TODO</StudyNotesTab_NoDiscoveries>
+  <StudyNotesTab_NoDiscoveries>Níor aimsíodh aon rud go fóill</StudyNotesTab_NoDiscoveries>
 
   <!-- UNUSED -->
   <NonRecruitableTipCannotConvert>Seine Loyalität bezieht sich auch auf seinen Glauben. Er kann nicht bekehrt werden.</NonRecruitableTipCannotConvert>

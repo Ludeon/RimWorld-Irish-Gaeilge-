@@ -1736,31 +1736,31 @@
   <Ritual>Deasghnáth</Ritual>
 
   <!-- EN: Takes place at -->
-  <RitualTakesPlaceAt>TODO</RitualTakesPlaceAt>
+  <RitualTakesPlaceAt>Áit:</RitualTakesPlaceAt>
   <!-- EN: Any {0} -->
-  <RitualTargetThingDefsInfo>{0_gender ? Beliebiger : Beliebige : Beliebiges} {0}</RitualTargetThingDefsInfo>
+  <RitualTargetThingDefsInfo>Aon {0}</RitualTargetThingDefsInfo>
   <!-- EN: Attending {0} -->
-  <LordReportAttending>Nimmt an {0} teil</LordReportAttending>
+  <LordReportAttending>Ag freastal ar {0}</LordReportAttending>
   <!-- EN: {0} has been canceled. -->
-  <RitualCalledOff>{0} wurde abgesagt.</RitualCalledOff>
+  <RitualCalledOff>Cuireadh {0} ar ceal.</RitualCalledOff>
   <!-- EN: {0} was not completed because of lack of attendance. -->
-  <RitualNobodyAttended>{0} wurde mangels Zuschauer nicht abgeschlossen.</RitualNobodyAttended>
+  <RitualNobodyAttended>Níor críochnaíodh {0} mar gheall ar easpa tinrimh.</RitualNobodyAttended>
   <!-- EN: {0} has been completed. -->
-  <RitualFinished>{0} wurde abgeschlossen.</RitualFinished>
+  <RitualFinished>Críochnaíodh {0}.</RitualFinished>
   <!-- EN: ends in {0} -->
-  <RitualEndsIn>endet in {replace: {0}; "Tage"-"Tagen"; "Jahre"-"Jahren"}</RitualEndsIn>
+  <RitualEndsIn>ag críochnú i gceann {0}</RitualEndsIn>
   <!-- EN: Can start any time -->
-  <RitualStartAnyTime>Kann jederzeit starten</RitualStartAnyTime>
+  <RitualStartAnyTime>Is féidir tosú ag am ar bith</RitualStartAnyTime>
   <!-- EN: Can start after event -->
-  <RitualStartEvent>Kann nach Ereignis starten</RitualStartEvent>
+  <RitualStartEvent>Is féidir tosú tar éis na heachtra</RitualStartEvent>
   <!-- EN: Focus objects -->
-  <RitualFocusObjects>Fokusobjekte</RitualFocusObjects>
+  <RitualFocusObjects>Earraí</RitualFocusObjects>
   <!-- EN: Participating roles -->
-  <RitualParticipatingRoles>Teilnehmende Rollen</RitualParticipatingRoles>
+  <RitualParticipatingRoles>Róil atá páirteach</RitualParticipatingRoles>
   <!-- EN: Organizers -->
-  <Organizers>Organisatoren</Organizers>
+  <Organizers>Eagraitheoirí</Organizers>
   <!-- EN: Quality factors -->
-  <QualityFactors>Qualitätsfaktoren</QualityFactors>
+  <QualityFactors>Cáilíocht</QualityFactors>
   <!-- EN: This condition may be fulfilled, depending on how things play out.\n\nIf it is fulfilled, the quality bonus will apply. -->
   <QualityFactorTooltipUncertain>Diese Bedingung kann je nach Ablauf erfüllt werden.\n\nSollte sie erfüllt werden, wird der Qualitätsbonus gewährt.</QualityFactorTooltipUncertain>
   <!-- EN: This condition is not fulfilled.\n\nThe quality bonus will not apply. -->

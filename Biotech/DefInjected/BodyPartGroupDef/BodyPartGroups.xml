@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: bulb turret -->
-  <BulbTurret.label>Kugelturm</BulbTurret.label>
+  <BulbTurret.label>túirín bleibíneach</BulbTurret.label>
   
   <!-- EN: left power claw -->
-  <LeftPowerClaw.label>linke Powerkralle</LeftPowerClaw.label>
+  <LeftPowerClaw.label>crúb chumhachta chlé</LeftPowerClaw.label>
   <!-- EN: power claw -->
-  <LeftPowerClaw.labelShort>Powerkralle</LeftPowerClaw.labelShort>
+  <LeftPowerClaw.labelShort>crúb chumhachta</LeftPowerClaw.labelShort>
   
   <!-- EN: right power claw -->
-  <RightPowerClaw.label>rechte Powerkralle</RightPowerClaw.label>
+  <RightPowerClaw.label>crúb chumhachta dheas</RightPowerClaw.label>
   <!-- EN: power claw -->
-  <RightPowerClaw.labelShort>Powerkralle</RightPowerClaw.labelShort>
+  <RightPowerClaw.labelShort>crúb chumhachta</RightPowerClaw.labelShort>
   
 </LanguageData>

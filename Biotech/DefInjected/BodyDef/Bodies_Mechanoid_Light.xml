@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: light mech with blade -->
-  <Mech_Agrihand.label>leichter Mech mit Klingen</Mech_Agrihand.label>
+  <Mech_Agrihand.label>meicea-róbat éadrom a bhfuil lann air</Mech_Agrihand.label>
   <!-- EN: sight sensor -->
-  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>TODO</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
+  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>braiteoir radhairc</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
   <!-- EN: hearing sensor -->
-  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>TODO</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+  <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>braiteoir fuaime</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
   <!-- EN: right shoulder -->
-  <Mech_Agrihand.corePart.parts.right_shoulder.customLabel>rechte Schulter</Mech_Agrihand.corePart.parts.right_shoulder.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.customLabel>gualainn dheas</Mech_Agrihand.corePart.parts.right_shoulder.customLabel>
   <!-- EN: right arm -->
-  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>rechter Arm</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>lámh dheas</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.customLabel>
   <!-- EN: right blade -->
-  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>rechte Klinge</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
+  <Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>lann dheas</Mech_Agrihand.corePart.parts.right_shoulder.parts.right_arm.parts.right_blade.customLabel>
   <!-- EN: left leg -->
-  <Mech_Agrihand.corePart.parts.left_leg.customLabel>linkes Bein</Mech_Agrihand.corePart.parts.left_leg.customLabel>
+  <Mech_Agrihand.corePart.parts.left_leg.customLabel>cos chlé</Mech_Agrihand.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>linker Fuß</Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>cos chlé</Mech_Agrihand.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Mech_Agrihand.corePart.parts.right_leg.customLabel>rechtes Bein</Mech_Agrihand.corePart.parts.right_leg.customLabel>
+  <Mech_Agrihand.corePart.parts.right_leg.customLabel>cos dheas</Mech_Agrihand.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>rechter Fuß</Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>cos dheas</Mech_Agrihand.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- UNUSED -->
   <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker Optiksensor</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>linker Akustiksensor</Mech_Agrihand.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   
   <!-- EN: light mech -->
-  <Mech_Light.label>leichter Mech</Mech_Light.label>
+  <Mech_Light.label>meicea-róbat éadrom</Mech_Light.label>
   <!-- EN: sight sensor -->
-  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>TODO</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
+  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>braiteoir radhairc</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.sight_sensor.customLabel>
   <!-- EN: hearing sensor -->
-  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>TODO</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
+  <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>braiteoir fuaime</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.hearing_sensor.customLabel>
   <!-- EN: left leg -->
-  <Mech_Light.corePart.parts.left_leg.customLabel>linkes Bein</Mech_Light.corePart.parts.left_leg.customLabel>
+  <Mech_Light.corePart.parts.left_leg.customLabel>cos chlé</Mech_Light.corePart.parts.left_leg.customLabel>
   <!-- EN: left foot -->
-  <Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>linker Fuß</Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>
+  <Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>cos chlé</Mech_Light.corePart.parts.left_leg.parts.left_foot.customLabel>
   <!-- EN: right leg -->
-  <Mech_Light.corePart.parts.right_leg.customLabel>rechtes Bein</Mech_Light.corePart.parts.right_leg.customLabel>
+  <Mech_Light.corePart.parts.right_leg.customLabel>cos dheas</Mech_Light.corePart.parts.right_leg.customLabel>
   <!-- EN: right foot -->
-  <Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>rechter Fuß</Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>
+  <Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>cos dheas</Mech_Light.corePart.parts.right_leg.parts.right_foot.customLabel>
   
   <!-- UNUSED -->
   <Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>linker Optiksensor</Mech_Light.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>

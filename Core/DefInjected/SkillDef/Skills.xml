@@ -19,7 +19,18 @@
     <li>subject->wildlife</li>
     <li>subject->poultry</li>
   -->
-  <Animals.generalRules.rulesStrings>TODO</Animals.generalRules.rulesStrings>
+  <Animals.generalRules.rulesStrings>
+    <li>subject->hainmhithe</li>
+    <li>subject->tréadaíocht</li>
+    <li>subject->haoireacht</li>
+    <li>subject->beostoc</li>
+    <li>subject->hainmhithe a cheansú</li>
+    <li>subject->zó-eolaíocht</li>
+    <li>subject->fana</li>
+    <li>subject->fiadhúlra</li>
+    <li>subject->héanlath</li>
+
+  </Animals.generalRules.rulesStrings>
   <!-- EN: animals -->
   <Animals.skillLabel>ainmhithe</Animals.skillLabel>
   

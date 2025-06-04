@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: starting people -->
-  <ConfigPage_ConfigureStartingPawns.label>TODO</ConfigPage_ConfigureStartingPawns.label>
+  <ConfigPage_ConfigureStartingPawns.label>daoine tosaigh</ConfigPage_ConfigureStartingPawns.label>
   
   <!-- EN: Player faction -->
-  <PlayerFaction.label>TODO</PlayerFaction.label>
+  <PlayerFaction.label>faicsean an imreora</PlayerFaction.label>
   
   <!-- EN: arrival method -->
-  <PlayerPawnsArriveMethod.label>TODO</PlayerPawnsArriveMethod.label>
+  <PlayerPawnsArriveMethod.label>bealach tagtha</PlayerPawnsArriveMethod.label>
   
 </LanguageData>

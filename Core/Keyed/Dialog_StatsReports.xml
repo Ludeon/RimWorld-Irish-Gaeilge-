@@ -499,7 +499,7 @@
   <!-- EN: Milking interval -->
   <Stat_Animal_MilkGrowthTime>Idirthréimhse</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>An t-am atá de dhíth sula mbeifear in ann an t-ainmhí seo a chrú arís.</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>An idirthréimhse a bhíonn i gceist sular féidir an t-ainmhí seo a chrú arís.</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
   <Stat_Animal_MilkPerYear>Bainne in aghaidh na bliana</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
@@ -509,33 +509,33 @@
   <!-- EN: The value of one unit of this creature's milk. -->
   <Stat_Animal_MilkValueDesc>An luach atá ar aonad bainne ón ainmhí seo.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
-  <Stat_Animal_MilkValuePerYear>Luach bainne in aghaidh na bliana</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYear>Luach an bhainne in aghaidh na bliana</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
-  <Stat_Animal_MilkValuePerYearDesc>Der Marktwert der Milch, die diese Kreatur in einem Jahr produziert, unter der Annahme, dass sie nie hungert und am Ende jedes Melkintervalls sofort gemolken wird.\n\nDieser Wert errechnet sich aus der Milchmenge pro Jahr und dem Milch-Marktwert.</Stat_Animal_MilkValuePerYearDesc>
+  <Stat_Animal_MilkValuePerYearDesc>An luach margaidh iomlán atá ar an mbainne ón ainmhí seo in aon bhliain amháin - ar an gcoinníoll nach mbíonn ocras ar an ainmhí agus go ndéantar é a chrú a luaithe is féidir gach uair.</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->
-  <Stat_Animal_WoolType>Wollart</Stat_Animal_WoolType>
+  <Stat_Animal_WoolType>Cineál olainn</Stat_Animal_WoolType>
   <!-- EN: The type of wool produced by this creature. -->
-  <Stat_Animal_WoolTypeDesc>Die Art von Wolle, die von dieser Kreatur produziert wird.</Stat_Animal_WoolTypeDesc>
+  <Stat_Animal_WoolTypeDesc>An cineál olainn a tháirgeann an t-ainmhí seo.</Stat_Animal_WoolTypeDesc>
   <!-- EN: Wool amount -->
-  <Stat_Animal_WoolAmount>Wollmenge</Stat_Animal_WoolAmount>
+  <Stat_Animal_WoolAmount>Méid olainn</Stat_Animal_WoolAmount>
   <!-- EN: The amount of wool yielded by this creature each time it is shorn. -->
-  <Stat_Animal_WoolAmountDesc>Die Menge an Wolle, die beim Scheren dieser Kreatur anfällt.</Stat_Animal_WoolAmountDesc>
+  <Stat_Animal_WoolAmountDesc>An méid olainn a fhaigtear ón ainmhí seo gach uair a bhearrtar é.</Stat_Animal_WoolAmountDesc>
   <!-- EN: Wool shearing interval -->
-  <Stat_Animal_WoolGrowthTime>Wollschurintervall</Stat_Animal_WoolGrowthTime>
+  <Stat_Animal_WoolGrowthTime>Idirthréimhse</Stat_Animal_WoolGrowthTime>
   <!-- EN: The time after shearing before this creature can be shorn again. -->
-  <Stat_Animal_WoolGrowthTimeDesc>Die Zeit nach dem Scheren, bevor diese Kreatur wieder geschoren werden kann.</Stat_Animal_WoolGrowthTimeDesc>
+  <Stat_Animal_WoolGrowthTimeDesc>An idirthréimhse a bhíonn i gceist sular féidir an t-olann a bhearradh ón ainmhí seo arís.</Stat_Animal_WoolGrowthTimeDesc>
   <!-- EN: Wool amount per year -->
-  <Stat_Animal_WoolPerYear>Wollmenge pro Jahr</Stat_Animal_WoolPerYear>
+  <Stat_Animal_WoolPerYear>Méid olainn in aghaidh na bliana</Stat_Animal_WoolPerYear>
   <!-- EN: The amount of wool produced by this creature per year.\n\nThis is calculated from wool amount and wool shearing interval. -->
-  <Stat_Animal_WoolPerYearDesc>Die Menge an Wolle, die diese Kreatur pro Jahr produziert.\n\nDieser Wert errechnet sich aus der Wollmenge und dem Wollschurintervall.</Stat_Animal_WoolPerYearDesc>
+  <Stat_Animal_WoolPerYearDesc>An méid olainn a tháirgeann an t-ainmhí seo in aghaidh na bliana.</Stat_Animal_WoolPerYearDesc>
   <!-- EN: Wool market value -->
-  <Stat_Animal_WoolValue>Wolle-Marktwert</Stat_Animal_WoolValue>
+  <Stat_Animal_WoolValue>Luach margaidh olainn</Stat_Animal_WoolValue>
   <!-- EN: The market value of one unit of this creature's wool. -->
-  <Stat_Animal_WoolValueDesc>Der Marktwert einer Einheit Wolle dieser Kreatur.</Stat_Animal_WoolValueDesc>
+  <Stat_Animal_WoolValueDesc>An luach margaidh atá ar aonad olainn amháin ón ainmhí seo.</Stat_Animal_WoolValueDesc>
   <!-- EN: Wool value per year -->
-  <Stat_Animal_WoolValuePerYear>Wolle-Wert pro Jahr</Stat_Animal_WoolValuePerYear>
+  <Stat_Animal_WoolValuePerYear>Luach olainn in aghaidh na bliana</Stat_Animal_WoolValuePerYear>
   <!-- EN: The market value of one year's worth of wool from this creature.\n\nThis is calculated from wool amount per year and wool market value. -->
-  <Stat_Animal_WoolValuePerYearDesc>Der Marktwert der Wolle, die diese Kreatur in einem Jahr produziert.\n\nDieser Wert errechnet sich aus der Wollmenge pro Jahr und dem Wolle-Marktwert.</Stat_Animal_WoolValuePerYearDesc>
+  <Stat_Animal_WoolValuePerYearDesc>An luach margaidh atá ar an olainn ón ainmhí seo in aghaidh na bliana.</Stat_Animal_WoolValuePerYearDesc>
 
   <!-- EN: How much of the total possible study you have performed on this object. -->
   <Stat_Studiable_Desc>An céatadán den staidéar iomlán atá déanta agat ar an rud seo.</Stat_Studiable_Desc>

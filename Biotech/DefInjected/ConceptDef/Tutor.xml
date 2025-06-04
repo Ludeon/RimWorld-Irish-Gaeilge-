@@ -12,9 +12,9 @@
   <Children.helpText>Mar a théann leanaí in aois, forbraíonn siad réimsí spéise agus scileanna, agus bíonn siad in ann plé le cineálacha éagsúla oibre.\n\nNí mór do leanaí foghlaim, agus tá roinnt bealaí ann an riachtanas sin a chomhlíonadh. Is féidir breathnú ar na riachtanais foghlama atá ag leanaí ach cliceáil ar an táb "Riachtanais". Ní dhéanfaidh leanaí ghníomhaíochtaí foghlama ach amhain nuair a roghnaítear "Siamsaíocht" nó "Aon Rud" ar an sceideal. Nuair a chomhlíontar riachtanais foghlama leanaí, fásfaidh sé níos tapúla agus beidh tuilleadh roghanna agat maidir lena gcuid scileanna.\n\nNí mór do leanaí éadaí speisialta do leanaí a chaitheamh.\n\nFásann leanaí ina ndaoine fásta nuair a shroicheann siad 13 bliana d'aois. De ghnáth, fásanna leanaí 4x níos tapúla ná daoine fásta, ach is féidir na socruithe sin a athrú.</Children.helpText>
   
   <!-- EN: Deathrest -->
-  <Deathrest.label>Todesschlaf</Deathrest.label>
+  <Deathrest.label>Codladh báis</Deathrest.label>
   <!-- EN: Colonists with the deathrest gene must periodically regenerate themselves in a special coma called deathrest. This takes several days.\n\nSpecial machines placed near the casket can give bonuses to the deathrester. A person can only connect to a limited number of machines - this number is shown by their deathrest capacity.\n\nYou can increase deathrest capacity by injecting deathrest capacity serums. These can be purchased from traders. -->
-  <Deathrest.helpText>Kolonisten mit dem Todesschlaf-Gen müssen sich regelmäßig in ein spezielles Koma namens Todesschlaf versetzen, um sich zu regenerieren. Dies nimmt mehrere Tage in Anspruch.\n\nSpezielle Maschinen, die in der Nähe des Sarges platziert werden, können dem Todesschläfer Boni verleihen. Jede Person kann nur an eine begrenzte Anzahl von Maschinen angeschlossen werden - wie viele es genau sind, verrät ihre Todesschlafkapazität.\n\nDie Todesschlafkapazität kann durch Injizieren von Todesschlafkapazität-Seren erhöht werden. Solche Seren können in der Regel bei Händlern erworben werden.</Deathrest.helpText>
+  <Deathrest.helpText>Ní mór do choilínigh a bhfuil an ghéin seo acu iad féin a athghiniúint i gcóma speisialta ar a thugtar codladh báis. Tógann an próiseas sin cúpla lá.\n\nIs féidir leas a bhaint as meaisíní speisialta ach iad a chur taobh leis na cónraí codlata.</Deathrest.helpText>
   
   <!-- EN: Genes and xenotypes -->
   <GenesAndXenotypes.label>Géinte agus Xéini-tíopaí</GenesAndXenotypes.label>
@@ -34,6 +34,6 @@
   <!-- EN: polluted terrain -->
   <PollutedTerrain.label>talamh truaillithe</PollutedTerrain.label>
   <!-- EN: Keep your colonists away from polluted terrain. Whenever they are on polluted terrain, they will continuously gain toxic buildup. This eventually becomes lethal.\n\nClean polluted terrain by placing a POLLUTION REMOVAL AREA. Colonists will convert the pollution into toxic wastepacks, which must be kept frozen.\n\nCertain apparel, implants and gene modifications can protect from toxic buildup.\n\nNormal crops cannot survive on polluted terrain. -->
-  <PollutedTerrain.helpText>TODO.</PollutedTerrain.helpText>
+  <PollutedTerrain.helpText>Coinnigh do choilínigh amach ó thalamh truaillithe. Má bhíonn siad i gceantar truaillithe, tiocfaidh canrach toscaineach orthu, agus gheobhaidh siad bás ar deireadh má éiríonn sé ró-ard.\n\nIs féidir le coilínigh truailliú a bhaint agus a chur i bpacaí dramhaíola, ach ní mór iad a choinneáil reoite nó scapfaidh an truailliú.\n\nIs féidir do choilínigh a chosaint ó thruailliú le héadaí, ionphlanduithe agus géinte áirithe.\n\nNí féidir gnáthphlandaí a fhás i dtalamh truaillithe.</PollutedTerrain.helpText>
   
 </LanguageData>
