@@ -2,51 +2,51 @@
 <LanguageData>
   
   <!-- EN: age -->
-  <Age.label>TODO</Age.label>
+  <Age.label>aois</Age.label>
   
   <!-- EN: allowed area -->
-  <AllowedArea.label>TODO</AllowedArea.label>
+  <AllowedArea.label>zón ceadaithe</AllowedArea.label>
   
   <!-- EN: allowed area -->
-  <AllowedAreaWide.label>TODO</AllowedAreaWide.label>
+  <AllowedAreaWide.label>zón ceadaithe</AllowedAreaWide.label>
   
   <!-- EN: carry -->
-  <Carry.label>TODO</Carry.label>
+  <Carry.label>pioc suas</Carry.label>
   
   <!-- EN: drug policy -->
-  <DrugPolicy.label>TODO</DrugPolicy.label>
+  <DrugPolicy.label>polasaí drugaí</DrugPolicy.label>
   
   <!-- EN: food policy -->
-  <FoodRestriction.label>TODO</FoodRestriction.label>
+  <FoodRestriction.label>polasaí bia</FoodRestriction.label>
   
   <!-- EN: Hostility response -->
-  <HostilityResponse.headerTip>TODO</HostilityResponse.headerTip>
+  <HostilityResponse.headerTip>freagairt ar fhoréigean</HostilityResponse.headerTip>
   
   <!-- EN: name -->
-  <Label.label>TODO</Label.label>
+  <Label.label>ainm</Label.label>
   <!-- EN: Name -->
-  <Label.headerTip>TODO</Label.headerTip>
+  <Label.headerTip>Ainm</Label.headerTip>
   
   <!-- EN: name -->
-  <LabelShortWithIcon.label>TODO</LabelShortWithIcon.label>
+  <LabelShortWithIcon.label>ainm</LabelShortWithIcon.label>
   <!-- EN: Name -->
-  <LabelShortWithIcon.headerTip>TODO</LabelShortWithIcon.headerTip>
+  <LabelShortWithIcon.headerTip>Ainm</LabelShortWithIcon.headerTip>
   
   <!-- EN: name -->
-  <LabelWithIcon.label>TODO</LabelWithIcon.label>
+  <LabelWithIcon.label>ainm</LabelWithIcon.label>
   <!-- EN: Name -->
-  <LabelWithIcon.headerTip>TODO</LabelWithIcon.headerTip>
+  <LabelWithIcon.headerTip>Ainm</LabelWithIcon.headerTip>
   
   <!-- EN: master -->
-  <Master.label>TODO</Master.label>
+  <Master.label>máistir</Master.label>
   
   <!-- EN: Medical care -->
-  <MedicalCare.headerTip>TODO</MedicalCare.headerTip>
+  <MedicalCare.headerTip>cóir leighis</MedicalCare.headerTip>
   
   <!-- EN: apparel policy -->
-  <Outfit.label>TODO</Outfit.label>
+  <Outfit.label>polasaí éadaí</Outfit.label>
   
   <!-- EN: reading policy -->
-  <Reading.label>TODO</Reading.label>
+  <Reading.label>polasaí léitheoireachta</Reading.label>
   
 </LanguageData>

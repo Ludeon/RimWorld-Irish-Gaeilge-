@@ -4,7 +4,11 @@
   <!-- EN:
     <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby camp have been raiding their caravans. The camp is controlled by [siteFaction_name].\n\n[asker_nameDef] is asking us to destroy the camp, which means eliminating all enemies and turrets. [asker_label] says that [sitePart0_description].</li>
   -->
-  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>TODO</OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
+  
+      <li>questDescription->Tá teachtaireacht taghta ó [asker_nameFull], [asker_faction_leaderTitle], ón bhfaicsean [asker_faction_name]. Is cosúil go bhfuil ruathairí i gcampa ag cur isteach orthu. Tá an campa faoi smacht [siteFaction_name].\n\nTá [asker_nameDef] ag iarradh orainn an campa a scriosadh, rud a chiallíonn go mbeadh orainn fáil réidh le gach naimhde agus gach túirín. Deir[asker_label] go bhfuil [sitePart0_description].</li>
+  
+  </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->The [bandit] [camp]</li>
     <li>questName->[bandit] [camp]</li>

@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: architect -->
-  <Architect.label>TODO</Architect.label>
+  <Architect.label>ailtire</Architect.label>
   <!-- EN: General-use controls for the architect mode menu. -->
-  <Architect.description>TODO</Architect.description>
+  <Architect.description>Cnaipí a úsáidtear sa roghchlár Ailtireachta.</Architect.description>
   
   <!-- EN: debug menu -->
-  <DebugMenu.label>TODO</DebugMenu.label>
+  <DebugMenu.label>roghchlár debug</DebugMenu.label>
   <!-- EN: Controls used in debug menus. Active in development mode only. -->
-  <DebugMenu.description>TODO</DebugMenu.description>
+  <DebugMenu.description>Rialaitheoirí a úsáidtear sa roghchlár debug. Ní bhíonn an roghchlár debug ar fáil ach amháin i mód forbróra.</DebugMenu.description>
   
   <!-- EN: developer tools -->
-  <Development.label>TODO</Development.label>
+  <Development.label>uirlisí forbróra</Development.label>
   <!-- EN: Controls for developers and modders. Active in development mode only. -->
-  <Development.description>TODO</Development.description>
+  <Development.description>Rialaitheoirí d'fhorbróirí. Ní bhíonn na uirlisí seo ar fáil ach amháin i mód forbróra.</Development.description>
   
   <!-- EN: in-game global -->
-  <Game.label>TODO</Game.label>
+  <Game.label>ginearálta</Game.label>
   <!-- EN: Colony mode controls that apply in most situations. -->
-  <Game.description>TODO</Game.description>
+  <Game.description>Rialaitheoirí a mbíonn feidhm acu go ginearálta.</Game.description>
   
   <!-- EN: camera -->
-  <GameMapCamera.label>TODO</GameMapCamera.label>
+  <GameMapCamera.label>ceamara</GameMapCamera.label>
   <!-- EN: Controls for the camera. -->
-  <GameMapCamera.description>TODO</GameMapCamera.description>
+  <GameMapCamera.description>Rialaitheoirí lena rialaítear chun an ceamara a rialú.</GameMapCamera.description>
   
   <!-- EN: main tabs -->
-  <MainTabs.label>TODO</MainTabs.label>
+  <MainTabs.label>príomh-roghchláir</MainTabs.label>
   <!-- EN: Controls for the main tabs. -->
-  <MainTabs.description>TODO</MainTabs.description>
+  <MainTabs.description>Rialaitheoirí a úsáidtear sna príomh-roghchláir.</MainTabs.description>
   
   <!-- EN: modifiers -->
-  <Modifiers.label>TODO</Modifiers.label>
+  <Modifiers.label>athraitheoirí</Modifiers.label>
   <!-- EN: Controls used to modify other actions. -->
-  <Modifiers.description>TODO</Modifiers.description>
+  <Modifiers.description>Rialaitheoirí a úsáidtear chun gníomhaíochtaí eile a rialú.</Modifiers.description>
   
   <!-- EN: misc -->
-  <SelectionMisc.label>TODO</SelectionMisc.label>
+  <SelectionMisc.label>eile</SelectionMisc.label>
   <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
-  <SelectionMisc.description>TODO</SelectionMisc.description>
+  <SelectionMisc.description>Rialaitheoirí ginearálta a úsáidtear go minic le linn an chluiche.</SelectionMisc.description>
   
   <!-- EN: special -->
-  <SelectionSpecial.label>TODO</SelectionSpecial.label>
+  <SelectionSpecial.label>speisialta</SelectionSpecial.label>
   <!-- EN: Special controls reserved for specific functions on specific objects. -->
-  <SelectionSpecial.description>TODO</SelectionSpecial.description>
+  <SelectionSpecial.description>Rialaitheoirí speisialta nach n-úsáidtear ach i gcásanna áirithe.</SelectionSpecial.description>
   
 </LanguageData>

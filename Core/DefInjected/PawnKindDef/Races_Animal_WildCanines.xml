@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: arctic fox -->
-  <Fox_Arctic.label>TODO</Fox_Arctic.label>
+  <Fox_Arctic.label>sionnach arctach</Fox_Arctic.label>
   <!-- EN: arctic foxes -->
-  <Fox_Arctic.labelPlural>TODO</Fox_Arctic.labelPlural>
+  <Fox_Arctic.labelPlural>sionnaigh arctacha</Fox_Arctic.labelPlural>
   <!-- EN: arctic fox puppy -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>TODO</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.label>sionnach arctach óg</Fox_Arctic.lifeStages.arctic_fox_puppy.label>
   <!-- EN: arctic fox puppies -->
-  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>TODO</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
+  <Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>sionnaigh arctacha óga</Fox_Arctic.lifeStages.arctic_fox_puppy.labelPlural>
   
   <!-- EN: fennec fox -->
-  <Fox_Fennec.label>TODO</Fox_Fennec.label>
+  <Fox_Fennec.label>sionnach feinneach</Fox_Fennec.label>
   <!-- EN: fennec foxes -->
-  <Fox_Fennec.labelPlural>TODO</Fox_Fennec.labelPlural>
+  <Fox_Fennec.labelPlural>sionnaigh fheinneacha</Fox_Fennec.labelPlural>
   <!-- EN: fennec fox puppy -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.label>sionnach feinneach óga</Fox_Fennec.lifeStages.fennec_fox_puppy.label>
   <!-- EN: fennec fox puppies -->
-  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>TODO</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
+  <Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>sionnaigh fheinneacha óga</Fox_Fennec.lifeStages.fennec_fox_puppy.labelPlural>
   
   <!-- EN: red fox -->
-  <Fox_Red.label>TODO</Fox_Red.label>
+  <Fox_Red.label>sionnach rua</Fox_Red.label>
   <!-- EN: red foxes -->
-  <Fox_Red.labelPlural>TODO</Fox_Red.labelPlural>
+  <Fox_Red.labelPlural>sionnaigh rua</Fox_Red.labelPlural>
   <!-- EN: red fox puppy -->
-  <Fox_Red.lifeStages.red_fox_puppy.label>TODO</Fox_Red.lifeStages.red_fox_puppy.label>
+  <Fox_Red.lifeStages.red_fox_puppy.label>sionnach rua óg</Fox_Red.lifeStages.red_fox_puppy.label>
   <!-- EN: red fox puppies -->
-  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>TODO</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
+  <Fox_Red.lifeStages.red_fox_puppy.labelPlural>sionnaigh rua óga</Fox_Red.lifeStages.red_fox_puppy.labelPlural>
   
   <!-- EN: arctic wolf -->
-  <Wolf_Arctic.label>TODO</Wolf_Arctic.label>
+  <Wolf_Arctic.label>mac tíre arctach</Wolf_Arctic.label>
   <!-- EN: arctic wolves -->
-  <Wolf_Arctic.labelPlural>TODO</Wolf_Arctic.labelPlural>
+  <Wolf_Arctic.labelPlural>mic tíre acrtacha</Wolf_Arctic.labelPlural>
   <!-- EN: arctic wolf puppy -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>TODO</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>mac tíre óg</Wolf_Arctic.lifeStages.arctic_wolf_puppy.label>
   <!-- EN: arctic wolf puppies -->
-  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>TODO</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
+  <Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>míc tíre óga</Wolf_Arctic.lifeStages.arctic_wolf_puppy.labelPlural>
   
   <!-- EN: timber wolf -->
-  <Wolf_Timber.label>TODO</Wolf_Timber.label>
+  <Wolf_Timber.label>mac tíre</Wolf_Timber.label>
   <!-- EN: timber wolves -->
-  <Wolf_Timber.labelPlural>TODO</Wolf_Timber.labelPlural>
+  <Wolf_Timber.labelPlural>mic tíre</Wolf_Timber.labelPlural>
   <!-- EN: timber wolf puppy -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.label>mac tíre óg</Wolf_Timber.lifeStages.timber_wolf_puppy.label>
   <!-- EN: timber wolf puppies -->
-  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>TODO</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
+  <Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>míc tíre óga</Wolf_Timber.lifeStages.timber_wolf_puppy.labelPlural>
   
 </LanguageData>

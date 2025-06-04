@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN: cassowary -->
-  <Cassowary.label>TODO</Cassowary.label>
+  <Cassowary.label>casabhara</Cassowary.label>
   <!-- EN: cassowaries -->
-  <Cassowary.labelPlural>TODO</Cassowary.labelPlural>
+  <Cassowary.labelPlural>casabharaí</Cassowary.labelPlural>
   
   <!-- EN: emu -->
-  <Emu.label>TODO</Emu.label>
+  <Emu.label>éamú</Emu.label>
   
   <!-- EN: ostrich -->
-  <Ostrich.label>TODO</Ostrich.label>
+  <Ostrich.label>ostrais</Ostrich.label>
   <!-- EN: ostriches -->
-  <Ostrich.labelPlural>TODO</Ostrich.labelPlural>
+  <Ostrich.labelPlural>ostraisí</Ostrich.labelPlural>
   
 </LanguageData>

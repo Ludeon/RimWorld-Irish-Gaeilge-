@@ -242,7 +242,7 @@
   <!-- EN: bonded -->
   <LetterLabelSuffixBondedAnimalDied>Nasc</LetterLabelSuffixBondedAnimalDied>
   <!-- EN: {ANIMAL_definite} was bonded to {HUMAN_labelShort}. It will affect {HUMAN_labelShort}'s mood. -->
-  <LetterPartBondedAnimalDied>Tá nasc ann anois idir {ANIMAL_definite} agus {HUMAN_labelShort}. Beidh tionchar ag an méid sin ar ghiúmar {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
+  <LetterPartBondedAnimalDied>Bhí nasc ann idir {ANIMAL_definite} agus {HUMAN_labelShort}. Beidh tionchar ag an méid sin ar ghiúmar {HUMAN_labelShort}.</LetterPartBondedAnimalDied>
   <!-- EN: It will affect mood of the following people:\n\n{0} -->
   <LetterPartBondedAnimalDiedMulti>Beidh tionchar ag an méid sin ar ghiúmar na ndaoine seo a leanas:\n\n{0}</LetterPartBondedAnimalDiedMulti>
 
@@ -418,9 +418,9 @@
 
   <!-- Predator hunting colonist -->
   <!-- EN: {PREDATOR_labelShort} hunting {PREY_definite} -->
-  <LetterLabelPredatorHuntingColonist>Tá {PREDATOR_labelShort} ag seilg {PREY_definite}</LetterLabelPredatorHuntingColonist>
+  <LetterLabelPredatorHuntingColonist>Tá {PREDATOR} ag seilg {PREY_definite}</LetterLabelPredatorHuntingColonist>
   <!-- EN: {PREDATOR} is hunting {PREY_definite} for food! -->
-  <LetterPredatorHuntingColonist>Tá {PREDATOR_kindBaseIndef} ag iarraidh {PREY_definite} a ithe!</LetterPredatorHuntingColonist>
+  <LetterPredatorHuntingColonist>Tá {PREDATOR} ag iarraidh {PREY_definite} a ithe!</LetterPredatorHuntingColonist>
 
   <!-- Disease -->
   <!-- EN: {0} blocked {1} on -->

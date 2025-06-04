@@ -738,6 +738,6 @@
   <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
   <MechanoidsDisabledContentWarning>Mura roghnaítear, {0} laghdófar éagsúlacht na misean agus na mbagairtí.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
-  <FactionsDisabledWarning>Mura mbeidh aon fhaicsean eile ann, ní tharlóidh ruathair agus misean mar is gnáth, agus ní bheidh tú in ann trádáil le daoine eile.</FactionsDisabledWarning>
+  <FactionsDisabledWarning>Mura mbeidh aon fhaicsean eile ann, ní tharlóidh ruathair agus misin mar is gnáth, agus ní bheidh tú in ann trádáil le daoine eile.</FactionsDisabledWarning>
 
 </LanguageData>

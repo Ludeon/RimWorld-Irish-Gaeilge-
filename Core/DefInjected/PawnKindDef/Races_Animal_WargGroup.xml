@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: warg -->
-  <Warg.label>TODO</Warg.label>
+  <Warg.label>varg</Warg.label>
   <!-- EN: warg puppy -->
-  <Warg.lifeStages.warg_puppy.label>TODO</Warg.lifeStages.warg_puppy.label>
+  <Warg.lifeStages.warg_puppy.label>varg óg</Warg.lifeStages.warg_puppy.label>
   <!-- EN: warg puppies -->
-  <Warg.lifeStages.warg_puppy.labelPlural>TODO</Warg.lifeStages.warg_puppy.labelPlural>
+  <Warg.lifeStages.warg_puppy.labelPlural>varganna óga</Warg.lifeStages.warg_puppy.labelPlural>
   
 </LanguageData>

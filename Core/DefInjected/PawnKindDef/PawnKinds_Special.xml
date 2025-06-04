@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: slave -->
-  <Slave.label>TODO</Slave.label>
+  <Slave.label>sclábhaí</Slave.label>
   
   <!-- EN: stranger in black -->
-  <StrangerInBlack.label>TODO</StrangerInBlack.label>
+  <StrangerInBlack.label>stráinséar mistéireach</StrangerInBlack.label>
   <!-- EN: woman in black -->
-  <StrangerInBlack.labelFemale>TODO</StrangerInBlack.labelFemale>
+  <StrangerInBlack.labelFemale>stráinséar mistéireach</StrangerInBlack.labelFemale>
   <!-- EN: man in black -->
-  <StrangerInBlack.labelMale>TODO</StrangerInBlack.labelMale>
+  <StrangerInBlack.labelMale>stráinséar mistéireach</StrangerInBlack.labelMale>
   <!-- EN: strangers in black -->
-  <StrangerInBlack.labelPlural>TODO</StrangerInBlack.labelPlural>
+  <StrangerInBlack.labelPlural>stráinséirí mistéireacha</StrangerInBlack.labelPlural>
   
   <!-- EN: wild man -->
-  <WildMan.label>TODO</WildMan.label>
+  <WildMan.label>fear fiáin</WildMan.label>
   <!-- EN: wild woman -->
-  <WildMan.labelFemale>TODO</WildMan.labelFemale>
+  <WildMan.labelFemale>bean fhiáin</WildMan.labelFemale>
   <!-- EN: wild women -->
-  <WildMan.labelFemalePlural>TODO</WildMan.labelFemalePlural>
+  <WildMan.labelFemalePlural>mná fiáine</WildMan.labelFemalePlural>
   <!-- EN: wild men -->
-  <WildMan.labelPlural>TODO</WildMan.labelPlural>
+  <WildMan.labelPlural>fir fhiáine</WildMan.labelPlural>
   
 </LanguageData>

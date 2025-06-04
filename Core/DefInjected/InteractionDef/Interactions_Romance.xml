@@ -28,7 +28,7 @@
   </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
-  <RomanceAttempt.label>TODO</RomanceAttempt.label>
+  <RomanceAttempt.label>rómánsúlacht</RomanceAttempt.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
     <li>wooed->tried to flirt with</li>
@@ -91,6 +91,31 @@
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   -->
-  <RomanceAttempt.logRulesInitiator.rulesStrings>TODO</RomanceAttempt.logRulesInitiator.rulesStrings>
+  <RomanceAttempt.logRulesInitiator.rulesStrings>
+  
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [wooed] le [RECIPIENT_nameDef] trí [wootactic].</li>
+    <li>wooed->cliúsaíocht a dhéanamh</li>
+    <li>wooed->labhairt go rómánsúil</li>
+    <li>wooed->labhairt ar bhealach rómánsúil</li>
+    <li>wooed->draíocht a chur ar</li>
+    <li>wooed->dul</li>
+    <li>wootactic->scéal a insint maidir le [TalkTopicAny]</li>
+    <li>wootactic->scéal greannmhar a insint maidir le [TalkTopicAny]</li>
+    <li>wootactic->jóc a dhéanamh maidir le [TalkTopicAny]</li>
+    <li>wootactic->comparáid a dhéanamh idir [RECIPIENT_objective] agus [romantic_noun]</li>
+    <li>wootactic->cur síos a dhéanamh ar [RECIPIENT_objective] mar a bheadh [romantic_noun] ann</li>
+    <li>romantic_noun->bláth</li>
+    <li>romantic_noun->an tEarrach</li>
+    <li>romantic_noun->abhann</li>
+    <li>romantic_noun->réalt</li>
+    <li>romantic_noun->an gealach</li>
+    <li>romantic_noun->an ghriain</li>
+    <li>romantic_noun->teach</li>
+    <li>romantic_noun->aróir</li>
+    <li>romantic_noun->[TreeType]</li>
+    <li>romantic_noun(p=2)->[TerrainFeature]</li>
+    <li>romantic_noun(p=2)->[NaturalObject]</li>
+  
+  </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

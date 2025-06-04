@@ -495,21 +495,21 @@
   <!-- EN: Milk amount -->
   <Stat_Animal_MilkAmount>Milchmenge</Stat_Animal_MilkAmount>
   <!-- EN: The amount of milk this creature produces each time it is milked. -->
-  <Stat_Animal_MilkAmountDesc>Die Menge an Milch, die diese Kreatur pro Melkvorgang produziert.</Stat_Animal_MilkAmountDesc>
+  <Stat_Animal_MilkAmountDesc>An líon bainne a fhaightear as an ainmhí seo gach uair a chrúitear é.</Stat_Animal_MilkAmountDesc>
   <!-- EN: Milking interval -->
-  <Stat_Animal_MilkGrowthTime>Melkintervall</Stat_Animal_MilkGrowthTime>
+  <Stat_Animal_MilkGrowthTime>Idirthréimhse</Stat_Animal_MilkGrowthTime>
   <!-- EN: The amount of time this creature needs between milkings. -->
-  <Stat_Animal_MilkGrowthTimeDesc>Die Zeit, die diese Kreatur zwischen zwei Melkvorgängen benötigt.</Stat_Animal_MilkGrowthTimeDesc>
+  <Stat_Animal_MilkGrowthTimeDesc>An t-am atá de dhíth sula mbeifear in ann an t-ainmhí seo a chrú arís.</Stat_Animal_MilkGrowthTimeDesc>
   <!-- EN: Milk per year -->
-  <Stat_Animal_MilkPerYear>Milch pro Jahr</Stat_Animal_MilkPerYear>
+  <Stat_Animal_MilkPerYear>Bainne in aghaidh na bliana</Stat_Animal_MilkPerYear>
   <!-- EN: The amount of milk produced by this animal over the course of a year.\n\nThis is calculated from milk amount and milking interval. -->
-  <Stat_Animal_MilkPerYearDesc>Die Milchmenge, die dieses Tier im Laufe eines Jahres produziert.\n\nDieser Wert errechnet sich aus der Milchmenge und dem Melkintervall.</Stat_Animal_MilkPerYearDesc>
+  <Stat_Animal_MilkPerYearDesc>An bainne a chruthóidh an t-ainmhí seo in aon bhliain amháin.</Stat_Animal_MilkPerYearDesc>
   <!-- EN: Milk market value -->
-  <Stat_Animal_MilkValue>Milch-Marktwert</Stat_Animal_MilkValue>
+  <Stat_Animal_MilkValue>Luach bainne</Stat_Animal_MilkValue>
   <!-- EN: The value of one unit of this creature's milk. -->
-  <Stat_Animal_MilkValueDesc>Der Marktwert einer Einheit Milch dieser Kreatur.</Stat_Animal_MilkValueDesc>
+  <Stat_Animal_MilkValueDesc>An luach atá ar aonad bainne ón ainmhí seo.</Stat_Animal_MilkValueDesc>
   <!-- EN: Milk value per year -->
-  <Stat_Animal_MilkValuePerYear>Milch-Wert pro Jahr</Stat_Animal_MilkValuePerYear>
+  <Stat_Animal_MilkValuePerYear>Luach bainne in aghaidh na bliana</Stat_Animal_MilkValuePerYear>
   <!-- EN: The market value of one year's worth of milk from this creature, assuming it never goes hungry and is milked instantly at the end of each milk interval.\n\nThis is calculated from milk per year and milk market value. -->
   <Stat_Animal_MilkValuePerYearDesc>Der Marktwert der Milch, die diese Kreatur in einem Jahr produziert, unter der Annahme, dass sie nie hungert und am Ende jedes Melkintervalls sofort gemolken wird.\n\nDieser Wert errechnet sich aus der Milchmenge pro Jahr und dem Milch-Marktwert.</Stat_Animal_MilkValuePerYearDesc>
   <!-- EN: Wool type -->

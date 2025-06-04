@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
+  <!-- Are these possibly causing random articles to show up in menus ? -->
+
   <!-- EN: a -->
   <IndefiniteArticle />
   <!-- EN: the -->

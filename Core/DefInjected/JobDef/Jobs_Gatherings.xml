@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: talking. -->
-  <GiveSpeech.reportString>TODO</GiveSpeech.reportString>
+  <GiveSpeech.reportString>ag caint.</GiveSpeech.reportString>
   
   <!-- EN: marrying TargetA. -->
-  <MarryAdjacentPawn.reportString>TODO</MarryAdjacentPawn.reportString>
+  <MarryAdjacentPawn.reportString>ag pósadh TargetA.</MarryAdjacentPawn.reportString>
   
   <!-- EN: spectating. -->
-  <SpectateCeremony.reportString>TODO</SpectateCeremony.reportString>
+  <SpectateCeremony.reportString>ag breathnú.</SpectateCeremony.reportString>
   
   <!-- EN: relaxing socially. -->
-  <StandAndBeSociallyActive.reportString>TODO</StandAndBeSociallyActive.reportString>
+  <StandAndBeSociallyActive.reportString>ag spaisteoireacht.</StandAndBeSociallyActive.reportString>
   
 </LanguageData>

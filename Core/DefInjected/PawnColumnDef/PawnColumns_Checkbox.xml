@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: Follow master while the master is drafted. -->
-  <FollowDrafted.headerTip>TODO</FollowDrafted.headerTip>
+  <FollowDrafted.headerTip>Lean máistir nuair atá an máistir dréachtaithe.</FollowDrafted.headerTip>
   
   <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
-  <FollowFieldwork.headerTip>TODO</FollowFieldwork.headerTip>
+  <FollowFieldwork.headerTip>Lean máistir nuair atá obair ar siúl ag an máistir (sealgaireacht nó ceansú ainmhithe).</FollowFieldwork.headerTip>
   
   <!-- EN: Mark animals to be hunted by your hunters. -->
-  <Hunt.headerTip>TODO</Hunt.headerTip>
+  <Hunt.headerTip>Roghnaigh ainmhithe atá le seilg.</Hunt.headerTip>
   
   <!-- EN: Release to wild -->
-  <ReleaseAnimalToWild.headerTip>TODO</ReleaseAnimalToWild.headerTip>
+  <ReleaseAnimalToWild.headerTip>Scaoil saor</ReleaseAnimalToWild.headerTip>
   
   <!-- EN: Slaughter -->
-  <Slaughter.headerTip>TODO</Slaughter.headerTip>
+  <Slaughter.headerTip>Maraigh</Slaughter.headerTip>
   
   <!-- EN: Sterilize -->
-  <Sterile.headerTip>TODO</Sterile.headerTip>
+  <Sterile.headerTip>Steiriligh</Sterile.headerTip>
   
   <!-- EN: Tame a wild animal. -->
-  <Tame.headerTip>TODO</Tame.headerTip>
+  <Tame.headerTip>Ceansaigh ainmhí fiáin.</Tame.headerTip>
   
 </LanguageData>

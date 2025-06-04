@@ -5,34 +5,34 @@
   <Chinchilla.label>TODO</Chinchilla.label>
   
   <!-- EN: deer -->
-  <Deer.label>TODO</Deer.label>
+  <Deer.label>fia</Deer.label>
   <!-- EN: doe -->
-  <Deer.labelFemale>TODO</Deer.labelFemale>
+  <Deer.labelFemale>fia</Deer.labelFemale>
   <!-- EN: buck -->
-  <Deer.labelMale>TODO</Deer.labelMale>
+  <Deer.labelMale>fia</Deer.labelMale>
   <!-- EN: deer -->
-  <Deer.labelPlural>TODO</Deer.labelPlural>
+  <Deer.labelPlural>fia</Deer.labelPlural>
   
   <!-- EN: gazelle -->
-  <Gazelle.label>TODO</Gazelle.label>
+  <Gazelle.label>gasail</Gazelle.label>
   
   <!-- EN: ibex -->
-  <Ibex.label>TODO</Ibex.label>
+  <Ibex.label>ibeach</Ibex.label>
   <!-- EN: ibex doe -->
-  <Ibex.labelFemale>TODO</Ibex.labelFemale>
+  <Ibex.labelFemale>ibeach</Ibex.labelFemale>
   <!-- EN: ibex ram -->
-  <Ibex.labelMale>TODO</Ibex.labelMale>
+  <Ibex.labelMale>ibeach</Ibex.labelMale>
   <!-- EN: ibexes -->
-  <Ibex.labelPlural>TODO</Ibex.labelPlural>
+  <Ibex.labelPlural>ibigh</Ibex.labelPlural>
   
   <!-- EN: pig -->
-  <Pig.label>TODO</Pig.label>
+  <Pig.label>muc</Pig.label>
   <!-- EN: sow -->
-  <Pig.labelFemale>TODO</Pig.labelFemale>
+  <Pig.labelFemale>muc</Pig.labelFemale>
   <!-- EN: piglet -->
-  <Pig.lifeStages.piglet.label>TODO</Pig.lifeStages.piglet.label>
+  <Pig.lifeStages.piglet.label>muicín</Pig.lifeStages.piglet.label>
   
   <!-- EN: wild boar -->
-  <WildBoar.label>TODO</WildBoar.label>
+  <WildBoar.label>torc allta</WildBoar.label>
   
 </LanguageData>
