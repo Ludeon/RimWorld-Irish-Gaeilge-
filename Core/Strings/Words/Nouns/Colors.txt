@@ -1,7 +1,6 @@
 ﻿
 //Simple colors only, no mauve and puce
 
-
 dearg
 gorm
 glas

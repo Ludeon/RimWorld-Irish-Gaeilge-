@@ -1,39 +1,25 @@
-﻿sadness 
-despair 
-loss 
-depression 
-emptiness 
-solitude 
-distance 
-thought
-contemplation
-loneliness
-isolation
-seclusion
-silence
-confinement
-detachment
-lonesomeness
-quietude
-decay
-desolation
-destruction
-devastation
-exhaustion
-defeat
-failure
-cataclysm
-death
-poverty
-desire
-need
-debt
-hardship
-helplessness
-scarcity
-starvation
-thirst
-hunger
-difficulty
-challenge
-pain
+﻿//Concepts are used in the genitive case with the article - this means they can be used as adjectives throughout the RulePacks
+ 
+an bhróin 
+an éadóchais 
+an chaillteanais 
+an dúlagair 
+an fholúis 
+an uaignis 
+an achair
+na smaointe
+an mhachnaimh
+na hiargúltachta
+na scoiteachta
+an chiúnais
+an bhraighdeanais
+an mheatha
+an duaircis
+an scriosta
+an léirscriosta
+na tuirse
+an chliste
+an bháis
+an bhochtanais
+na cinniúna
+an anró

@@ -133,6 +133,7 @@
 
   <NamerFactionPirate.rulePack.rulesStrings>
     <li>r_name->[pirate_word] [world_ending]</li>
+    <li>r_name->[pirate_word] [ConceptBadass]</li>
     <li>pirate_word->Drong</li>
     <li>pirate_word->Grúpa</li>
     <li>pirate_word->Foireann</li>
@@ -202,7 +203,11 @@
   -->
   <NamerSettlementOutlander.rulePack.rulesFiles>
     <li>townname_fixed->Names/OutlanderTown</li>
+    <li>community->Words/Nouns/Communities</li>
+    <li>concept_positive->Words/Nouns/Concepts_Positive</li>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
   </NamerSettlementOutlander.rulePack.rulesFiles>
+
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>
     <li>r_name(p=6)->[townname_fixed]</li>
@@ -257,6 +262,8 @@
   -->
   <NamerSettlementOutlander.rulePack.rulesStrings>
      <li>r_name->[townname_fixed]</li>
+     <li>r_name->[community] [concept_positive]</li>
+     <li>r_name->[community] [world_ending]</li>
   </NamerSettlementOutlander.rulePack.rulesStrings>
 
   <!-- EN:

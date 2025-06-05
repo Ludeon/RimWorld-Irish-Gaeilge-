@@ -1,41 +1,22 @@
-﻿suffering
-victory
-murder
-death
-thrusting
-power
-force
-godlessness
-god
-pain
-triumph
-blood
-cash
-vengeance
-revenge
-agony
-fever
-illness
-injury
-torment
-anguish
-misery
-persecution
-torture
-suffering
-tyranny
-oppression
-cruelty
-terrorism
-terror
-chaos
-trouble
-unrest
-anarchy
-combat
-violence
-war
-bloodshed
-hostility
-strife
-struggle
+﻿//Concepts are used in the genitive case with the article - this means they can be used as adjectives throughout the RulePacks
+
+na fulaingthe
+an bhua
+an bháis
+shlí na fírinne
+na cumhachta
+an fhórsa
+Dé
+an phiain
+na fola
+an airgid
+an díoltais
+an tinnis
+na ngortuithe
+an chrá
+an chéasta
+an chiaptha
+na tíorántachta
+an ansmachta
+na cruálachta
+na danarthachta

@@ -1,33 +1,15 @@
-﻿hope
-love
-strength
-struggle
-family
-loyalty
-fun
-bliss
-plenty
-growth
-happiness
-togetherness
-community
-affection
-intimacy
-fellowship
-friendship
-goodwill
-devotion
-harmony
-solidarity
-compassion
-mercy
-patience
-sympathy
-honesty
-kindness
-grace
-decency
-elegance
-camraderie
-brotherhood
-safety
+﻿//Concepts are used in the genitive case with the article - this means they can be used as adjectives throughout the RulePacks
+
+an dóchais
+an ghrá
+na láidreachta
+na clainne
+na dílseachta
+na fairsinge
+an fháis
+an tsonais
+an mhuintearais
+an phobail
+na deá-mhéine
+na dlúthpháirtíochta
+na trócaire

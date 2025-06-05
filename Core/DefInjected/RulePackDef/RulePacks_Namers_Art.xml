@@ -45,7 +45,7 @@
     <li>maybe_adjective->[Color]</li>
   -->
   <NamerArtCommon.rulePack.rulesStrings>
-      <li>r_art_name(p=4)->[Artwork] agus [ConceptAny]</li>
+    <li>r_art_name(p=4)->[Artwork] agus [ConceptAny]</li>
     <li>r_art_name(p=4)->[Artwork]</li>
     <li>r_art_name->[ConceptAny]</li>
     <li>r_art_name->[TerrainFeature]</li>
