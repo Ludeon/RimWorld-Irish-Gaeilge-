@@ -129,9 +129,9 @@
   <Unlocks>Baintear amach</Unlocks>
 
   <!-- EN: {0} corpse -->
-  <CorpseLabel>{0} marbhán</CorpseLabel>
+  <CorpseLabel>{0} (marbh)</CorpseLabel>
   <!-- EN: Dead body of a {0}. -->
-  <CorpseDesc>Marbhán {0}.</CorpseDesc>
+  <CorpseDesc>{0} marbh.</CorpseDesc>
   <!-- EN: {1_label} (dead) -->
   <DeadLabel>{1_label} (marbh)</DeadLabel>
 

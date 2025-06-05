@@ -2,154 +2,154 @@
 <LanguageData>
   
   <!-- EN: allow biocoded apparel -->
-  <AllowBiocodedApparel.label>TODO</AllowBiocodedApparel.label>
+  <AllowBiocodedApparel.label>éadaí bithchódaithe</AllowBiocodedApparel.label>
   
   <!-- EN: allow biocoded weapons -->
-  <AllowBiocodedWeapons.label>TODO</AllowBiocodedWeapons.label>
+  <AllowBiocodedWeapons.label>airm bhithchódaithe</AllowBiocodedWeapons.label>
   
   <!-- EN: animals -->
-  <AllowBookAnimals.label>TODO</AllowBookAnimals.label>
+  <AllowBookAnimals.label>ainmhithe</AllowBookAnimals.label>
   <!-- EN: Allow books which teach animal-related skills. -->
-  <AllowBookAnimals.description>TODO</AllowBookAnimals.description>
+  <AllowBookAnimals.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna a bhaineann le hainmhithe.</AllowBookAnimals.description>
   
   <!-- EN: artistic -->
-  <AllowBookArtistic.label>TODO</AllowBookArtistic.label>
+  <AllowBookArtistic.label>ealaíon</AllowBookArtistic.label>
   <!-- EN: Allow books which teach art skills. -->
-  <AllowBookArtistic.description>TODO</AllowBookArtistic.description>
+  <AllowBookArtistic.description>Ceadaigh leabhair ina bhfuil eolais maidir le scileanna ealaíona.</AllowBookArtistic.description>
   
   <!-- EN: construction -->
-  <AllowBookConstruction.label>TODO</AllowBookConstruction.label>
+  <AllowBookConstruction.label>tógáil</AllowBookConstruction.label>
   <!-- EN: Allow books which teach construction skills. -->
-  <AllowBookConstruction.description>TODO</AllowBookConstruction.description>
+  <AllowBookConstruction.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna tógála.</AllowBookConstruction.description>
   
   <!-- EN: cooking -->
-  <AllowBookCooking.label>TODO</AllowBookCooking.label>
+  <AllowBookCooking.label>cócaireacht</AllowBookCooking.label>
   <!-- EN: Allow books which teach cooking skills. -->
-  <AllowBookCooking.description>TODO</AllowBookCooking.description>
+  <AllowBookCooking.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna cócaireachta.</AllowBookCooking.description>
   
   <!-- EN: crafting -->
-  <AllowBookCrafting.label>TODO</AllowBookCrafting.label>
+  <AllowBookCrafting.label>ceardaíocht</AllowBookCrafting.label>
   <!-- EN: Allow books which teach crafting skills. -->
-  <AllowBookCrafting.description>TODO</AllowBookCrafting.description>
+  <AllowBookCrafting.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna cócaireachta.</AllowBookCrafting.description>
   
   <!-- EN: intellectual -->
-  <AllowBookIntellectual.label>TODO</AllowBookIntellectual.label>
+  <AllowBookIntellectual.label>intleachtúil</AllowBookIntellectual.label>
   <!-- EN: Allow books which teach intellectual skills. -->
-  <AllowBookIntellectual.description>TODO</AllowBookIntellectual.description>
+  <AllowBookIntellectual.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna intleachtúla</AllowBookIntellectual.description>
   
   <!-- EN: medical -->
-  <AllowBookMedicine.label>TODO</AllowBookMedicine.label>
+  <AllowBookMedicine.label>leigheas</AllowBookMedicine.label>
   <!-- EN: Allow books which teach medical skills. -->
-  <AllowBookMedicine.description>TODO</AllowBookMedicine.description>
+  <AllowBookMedicine.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna leighis.</AllowBookMedicine.description>
   
   <!-- EN: melee -->
-  <AllowBookMelee.label>TODO</AllowBookMelee.label>
+  <AllowBookMelee.label>melee</AllowBookMelee.label>
   <!-- EN: Allow books which teach melee skills. -->
-  <AllowBookMelee.description>TODO</AllowBookMelee.description>
+  <AllowBookMelee.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna melee.</AllowBookMelee.description>
   
   <!-- EN: mining -->
-  <AllowBookMining.label>TODO</AllowBookMining.label>
+  <AllowBookMining.label>mianadóireacht</AllowBookMining.label>
   <!-- EN: Allow books which teach mining skills. -->
-  <AllowBookMining.description>TODO</AllowBookMining.description>
+  <AllowBookMining.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna mianadóireachta.</AllowBookMining.description>
   
   <!-- EN: plants -->
-  <AllowBookPlants.label>TODO</AllowBookPlants.label>
+  <AllowBookPlants.label>plandaí</AllowBookPlants.label>
   <!-- EN: Allow books which teach plant-related skills. -->
-  <AllowBookPlants.description>TODO</AllowBookPlants.description>
+  <AllowBookPlants.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna luibeolaíochta.</AllowBookPlants.description>
   
   <!-- EN: shooting -->
-  <AllowBookShooting.label>TODO</AllowBookShooting.label>
+  <AllowBookShooting.label>lámhach</AllowBookShooting.label>
   <!-- EN: Allow books which teach shooting skills. -->
-  <AllowBookShooting.description>TODO</AllowBookShooting.description>
+  <AllowBookShooting.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna lámhaigh.</AllowBookShooting.description>
   
   <!-- EN: social -->
-  <AllowBookSocial.label>TODO</AllowBookSocial.label>
+  <AllowBookSocial.label>sóisialta</AllowBookSocial.label>
   <!-- EN: Allow books which teach social skills. -->
-  <AllowBookSocial.description>TODO</AllowBookSocial.description>
+  <AllowBookSocial.description>Ceadaigh leabhair ina bhfuil eolas maidir le scileanna sóisialta.</AllowBookSocial.description>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableApparel.label>TODO</AllowBurnableApparel.label>
+  <AllowBurnableApparel.label>inlasta</AllowBurnableApparel.label>
   
   <!-- EN: allow burnable -->
-  <AllowBurnableWeapons.label>TODO</AllowBurnableWeapons.label>
+  <AllowBurnableWeapons.label>inlasta</AllowBurnableWeapons.label>
   
   <!-- EN: allow colonist corpses -->
-  <AllowCorpsesColonist.label>TODO</AllowCorpsesColonist.label>
+  <AllowCorpsesColonist.label>corpáin coilíneach</AllowCorpsesColonist.label>
   <!-- EN: Allow the dead bodies of colonists. -->
-  <AllowCorpsesColonist.description>TODO</AllowCorpsesColonist.description>
+  <AllowCorpsesColonist.description>Ceadaigh corpáin coilíneach.</AllowCorpsesColonist.description>
   
   <!-- EN: allow stranger corpses -->
-  <AllowCorpsesStranger.label>TODO</AllowCorpsesStranger.label>
+  <AllowCorpsesStranger.label>corpáin strainséirí</AllowCorpsesStranger.label>
   <!-- EN: Allow the dead bodies of strangers and enemies. -->
-  <AllowCorpsesStranger.description>TODO</AllowCorpsesStranger.description>
+  <AllowCorpsesStranger.description>Ceadaigh corpáin strainséirí agus naimhde.</AllowCorpsesStranger.description>
   
   <!-- EN: allow tainted apparel -->
-  <AllowDeadmansApparel.label>TODO</AllowDeadmansApparel.label>
+  <AllowDeadmansApparel.label>éadaí truaillithe</AllowDeadmansApparel.label>
   <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowDeadmansApparel.description>TODO</AllowDeadmansApparel.description>
+  <AllowDeadmansApparel.description>Ceadaigh éadaí a baineadh ó chorpán. Is iondúil nach mbíonn daoine sásta éadaí a baineadh ó chorp marbh a chaitheamh, agus ní ghlacfaidh trádálaithe leo.</AllowDeadmansApparel.description>
   
   <!-- EN: allow females -->
-  <AllowFemaleGender.label>TODO</AllowFemaleGender.label>
+  <AllowFemaleGender.label>mná</AllowFemaleGender.label>
   <!-- EN: Allow female individuals. -->
-  <AllowFemaleGender.description>TODO</AllowFemaleGender.description>
+  <AllowFemaleGender.description>Ceadaigh mná.</AllowFemaleGender.description>
   
   <!-- EN: allow fresh -->
-  <AllowFresh.label>TODO</AllowFresh.label>
+  <AllowFresh.label>úr</AllowFresh.label>
   <!-- EN: Allow organic things which haven't started to rot yet. -->
-  <AllowFresh.description>TODO</AllowFresh.description>
+  <AllowFresh.description>Ceadaigh rudaí orgánacha úra, nach bhfuil ag lobhadh.</AllowFresh.description>
   
   <!-- EN: allow large corpses -->
-  <AllowLargeCorpses.label>TODO</AllowLargeCorpses.label>
+  <AllowLargeCorpses.label>ceadaigh corpáin mhóra</AllowLargeCorpses.label>
   <!-- EN: Allow large, dead bodies. -->
-  <AllowLargeCorpses.description>TODO</AllowLargeCorpses.description>
+  <AllowLargeCorpses.description>Ceadaigh corpáin mhóra.</AllowLargeCorpses.description>
   
   <!-- EN: normal research -->
-  <AllowMainResearch.label>TODO</AllowMainResearch.label>
+  <AllowMainResearch.label>gnáth-thaighde</AllowMainResearch.label>
   <!-- EN: Allow books which advance research of normal research projects. -->
-  <AllowMainResearch.description>TODO</AllowMainResearch.description>
+  <AllowMainResearch.description>Ceadaigh leabhair a chuireann gnáth-thionscadal taighde chun cinn.</AllowMainResearch.description>
   
   <!-- EN: allow males -->
-  <AllowMaleGender.label>TODO</AllowMaleGender.label>
+  <AllowMaleGender.label>fir</AllowMaleGender.label>
   <!-- EN: Allow male individuals. -->
-  <AllowMaleGender.description>TODO</AllowMaleGender.description>
+  <AllowMaleGender.description>Ceadaigh fir.</AllowMaleGender.description>
   
   <!-- EN: allow non-biocoded apparel -->
-  <AllowNonBiocodedApparel.label>TODO</AllowNonBiocodedApparel.label>
+  <AllowNonBiocodedApparel.label>éadaí neamh-bhithchódaithe</AllowNonBiocodedApparel.label>
   
   <!-- EN: allow non-biocoded weapons -->
-  <AllowNonBiocodedWeapons.label>TODO</AllowNonBiocodedWeapons.label>
+  <AllowNonBiocodedWeapons.label>airm neamh-bhithchódaithe</AllowNonBiocodedWeapons.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableApparel.label>TODO</AllowNonBurnableApparel.label>
+  <AllowNonBurnableApparel.label>so-lasta</AllowNonBurnableApparel.label>
   
   <!-- EN: allow non-burnable -->
-  <AllowNonBurnableWeapons.label>TODO</AllowNonBurnableWeapons.label>
+  <AllowNonBurnableWeapons.label>so-lasta</AllowNonBurnableWeapons.label>
   
   <!-- EN: allow clean apparel -->
-  <AllowNonDeadmansApparel.label>TODO</AllowNonDeadmansApparel.label>
+  <AllowNonDeadmansApparel.label>éadaí glana</AllowNonDeadmansApparel.label>
   <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
-  <AllowNonDeadmansApparel.description>TODO</AllowNonDeadmansApparel.description>
+  <AllowNonDeadmansApparel.description>Ceadaigh éadaí nár baineadh ó chorp marbh. Is iondúil nach mbíonn daoine sásta éadaí a baineadh ó chorp marbh a chaitheamh, agus ní ghlacfaidh trádálaithe leo.</AllowNonDeadmansApparel.description>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableApparel.label>TODO</AllowNonSmeltableApparel.label>
+  <AllowNonSmeltableApparel.label>neamh-inbhruithnithe</AllowNonSmeltableApparel.label>
   
   <!-- EN: allow non-smeltable -->
-  <AllowNonSmeltableWeapons.label>TODO</AllowNonSmeltableWeapons.label>
+  <AllowNonSmeltableWeapons.label>neamh-inbhruithnithe</AllowNonSmeltableWeapons.label>
   
   <!-- EN: allow plant food -->
-  <AllowPlantFood.label>TODO</AllowPlantFood.label>
+  <AllowPlantFood.label>bia plandaí</AllowPlantFood.label>
   <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
-  <AllowPlantFood.description>TODO</AllowPlantFood.description>
+  <AllowPlantFood.description>Ceadaigh bia atá déanta as plandaí amha, amhail féar tirim.</AllowPlantFood.description>
   
   <!-- EN: allow rotten -->
-  <AllowRotten.label>TODO</AllowRotten.label>
+  <AllowRotten.label>lofa</AllowRotten.label>
   <!-- EN: Allow organic things which have started to rot. -->
-  <AllowRotten.description>TODO</AllowRotten.description>
+  <AllowRotten.description>Ceadaigh rudaí orgánacha, atá ag lobhadh.</AllowRotten.description>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltable.label>TODO</AllowSmeltable.label>
+  <AllowSmeltable.label>inbhruithnithe</AllowSmeltable.label>
   
   <!-- EN: allow smeltable -->
-  <AllowSmeltableApparel.label>TODO</AllowSmeltableApparel.label>
+  <AllowSmeltableApparel.label>inbhruithnithe</AllowSmeltableApparel.label>
   
 </LanguageData>

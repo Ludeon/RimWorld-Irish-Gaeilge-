@@ -2,17 +2,17 @@
 <LanguageData>
   
   <!-- EN: novel -->
-  <Novel.label>úrscéal</Novel.label>
+  <Novel.label>úrscéalta</Novel.label>
   <!-- EN: A book containing fictional or true stories for the pleasure and edification of the reader. -->
   <Novel.description>Leabhar ina bhfuil scéalta ficseanúil nó fíorscéala. Is foinse siamsaíochta é an leabhar seo.</Novel.description>
   
   <!-- EN: schematic -->
-  <Schematic.label>scéimléaráid</Schematic.label>
+  <Schematic.label>scéimléaráidí</Schematic.label>
   <!-- EN: A book which describes technology and methods for using it. Reading schematics can help unlock new technologies. -->
   <Schematic.description>Leabhar ina ndéantar cur síos ar theicneolaíocht agus bealaí chun an teicneolaíocht a úsáid. Is féidir teicneolaíochtaí nua a aimsiú leis an leabhar seo.</Schematic.description>
   
   <!-- EN: textbook -->
-  <TextBook.label>téácsleabhar</TextBook.label>
+  <TextBook.label>téacsleabhair</TextBook.label>
   <!-- EN: A book which focuses on teaching skills. -->
   <TextBook.description>Leabhar ina ndírítear ar scileanna a mhúineadh don léitheoir.</TextBook.description>
   

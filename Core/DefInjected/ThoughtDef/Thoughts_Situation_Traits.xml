@@ -136,58 +136,58 @@
   <ProsthophileHappy.stages.machine_body_is_complete.description>Táim an-tógtha leis an modhnú coirp a rinneadh orm.</ProsthophileHappy.stages.machine_body_is_complete.description>
   
   <!-- EN: body modder frustrated -->
-  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>TODO</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.label>frustrachas (modhnóir coirp)</ProsthophileNoProsthetic.stages.body_modder_frustrated.label>
   <!-- EN: Flesh is so limiting. I wish I had some kind of artificial body part. -->
-  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>TODO</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
+  <ProsthophileNoProsthetic.stages.body_modder_frustrated.description>Tá teorainn le mo chorp. Ba bhreá liom dá mbeadh proistéiteach agam.</ProsthophileNoProsthetic.stages.body_modder_frustrated.description>
   
   <!-- EN: body purist squeamish -->
-  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>TODO</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.label>éisealach (íonaí coirp)</ProsthophobeUnhappy.stages.body_purist_squeamish.label>
   <!-- EN: I hate having this unnatural enhancement. I feel filthy! -->
-  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>TODO</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
+  <ProsthophobeUnhappy.stages.body_purist_squeamish.description>Is fuath liom an t-athrú saorga a rinneadh ar mo chorp!</ProsthophobeUnhappy.stages.body_purist_squeamish.description>
   <!-- EN: body purist disgusted -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>TODO</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.label>déistin (íonaí coirp)</ProsthophobeUnhappy.stages.body_purist_disgusted.label>
   <!-- EN: Two artificial enhancements are sullying my natural, pure body. It makes me sick to think of it. -->
-  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>TODO</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
+  <ProsthophobeUnhappy.stages.body_purist_disgusted.description>Is fuath liom na hathruithe saorga a rinneadh ar mo chorp.</ProsthophobeUnhappy.stages.body_purist_disgusted.description>
   <!-- EN: body purist violated -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.label>TODO</ProsthophobeUnhappy.stages.body_purist_violated.label>
+  <ProsthophobeUnhappy.stages.body_purist_violated.label>truaillithe (íonaí coirp)</ProsthophobeUnhappy.stages.body_purist_violated.label>
   <!-- EN: Three artificial enhancements violate my body's pure flesh. I shudder when I think of it... and these objects shudder with me. -->
-  <ProsthophobeUnhappy.stages.body_purist_violated.description>TODO</ProsthophobeUnhappy.stages.body_purist_violated.description>
+  <ProsthophobeUnhappy.stages.body_purist_violated.description>Is fuath liom na hathruithe saorga a rinneadh ar mo chorp...</ProsthophobeUnhappy.stages.body_purist_violated.description>
   <!-- EN: body purist horrified -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.label>TODO</ProsthophobeUnhappy.stages.body_purist_horrified.label>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.label>uafás (íonaí coirp)</ProsthophobeUnhappy.stages.body_purist_horrified.label>
   <!-- EN: I have four artificial enhancements; it's like I'm becoming a robot. What a horrifying sensation. -->
-  <ProsthophobeUnhappy.stages.body_purist_horrified.description>TODO</ProsthophobeUnhappy.stages.body_purist_horrified.description>
+  <ProsthophobeUnhappy.stages.body_purist_horrified.description>Is fuath liom na hathruithe saorga a rinneadh ar mo chorp... Tá mé ar nós róbait...</ProsthophobeUnhappy.stages.body_purist_horrified.description>
   <!-- EN: body purist nightmare -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>TODO</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.label>tromlúi (íonaí coirp)</ProsthophobeUnhappy.stages.body_purist_nightmare.label>
   <!-- EN: Five artificial enhancements... Is there anything left of me? Or am I just a robot that thinks it's human? -->
-  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>TODO</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
+  <ProsthophobeUnhappy.stages.body_purist_nightmare.description>Rinneadh an iomarca athruithe saorga orm... Tá mé mar a bheadh meaisín ann...</ProsthophobeUnhappy.stages.body_purist_nightmare.description>
   <!-- EN: I have become what I hate -->
-  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>TODO</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>féinfhuath (íonaí coirp)</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.label>
   <!-- EN: I asked for the exact opposite of this! -->
-  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>TODO</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
+  <ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>Is fuath liom mo chorp!</ProsthophobeUnhappy.stages.I_have_become_what_I_hate.description>
   
   <!-- EN: pyromaniac has incendiary weapon -->
-  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>TODO</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>arm loiscneach (pireamáineach)</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.label>
   <!-- EN: It makes me think of flame and fire. I can't wait to use it. -->
-  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>TODO</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
+  <PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>Ritheann smaointe liom maidir le tinte agus lasracha... Tá mé ag súil go mór leis an arm seo a úsáid...</PyromaniacHappy.stages.pyromaniac_has_incendiary_weapon.description>
   
   <!-- EN: beautiful fire -->
-  <PyromaniacNearFire.stages.beautiful_fire.label>TODO</PyromaniacNearFire.stages.beautiful_fire.label>
+  <PyromaniacNearFire.stages.beautiful_fire.label>tine álainn</PyromaniacNearFire.stages.beautiful_fire.label>
   <!-- EN: The sinuous flame dances, warm like love, bright like freedom, all-consuming. -->
-  <PyromaniacNearFire.stages.beautiful_fire.description>TODO</PyromaniacNearFire.stages.beautiful_fire.description>
+  <PyromaniacNearFire.stages.beautiful_fire.description>Is breá liom breathnú isteach sna tinte. Tá siad álainn agus uilechuimsitheach...</PyromaniacNearFire.stages.beautiful_fire.description>
   
   <!-- EN: undergrounder indoors -->
-  <UndergrounderIndoors.stages.undergrounder_indoors.label>TODO</UndergrounderIndoors.stages.undergrounder_indoors.label>
+  <UndergrounderIndoors.stages.undergrounder_indoors.label>laistigh</UndergrounderIndoors.stages.undergrounder_indoors.label>
   <!-- EN: I like working or simply being indoors. -->
-  <UndergrounderIndoors.stages.undergrounder_indoors.description>TODO</UndergrounderIndoors.stages.undergrounder_indoors.description>
+  <UndergrounderIndoors.stages.undergrounder_indoors.description>Is maith liom am a chaitheamh faoin talamh nó faoi dhíon.</UndergrounderIndoors.stages.undergrounder_indoors.description>
   
   <!-- EN: undergrounder outdoors -->
-  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>TODO</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.label>lasmuigh</UndergrounderOutdoors.stages.undergrounder_outdoors.label>
   <!-- EN: I don't like being outside. I want to get back to the underground. -->
-  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>TODO</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
+  <UndergrounderOutdoors.stages.undergrounder_outdoors.description>B'fhearr liom fanacht faoin talamh nó faoi dhíon.</UndergrounderOutdoors.stages.undergrounder_outdoors.description>
   
   <!-- EN: underground -->
-  <UndergrounderUnderground.stages.underground.label>TODO</UndergrounderUnderground.stages.underground.label>
+  <UndergrounderUnderground.stages.underground.label>faoin talamh</UndergrounderUnderground.stages.underground.label>
   <!-- EN: I love working or simply being in the underground. -->
-  <UndergrounderUnderground.stages.underground.description>TODO</UndergrounderUnderground.stages.underground.description>
+  <UndergrounderUnderground.stages.underground.description>Is maith liom am a chaitheamh faoin talamh nó faoi dhíon.</UndergrounderUnderground.stages.underground.description>
   
 </LanguageData>

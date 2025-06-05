@@ -29,7 +29,7 @@
   <!-- EN: normal -->
   <StoragePriorityNormal>normálta</StoragePriorityNormal>
   <!-- EN: preferred -->
-  <StoragePriorityPreferred>tosaíochta</StoragePriorityPreferred>
+  <StoragePriorityPreferred>ard</StoragePriorityPreferred>
   <!-- EN: important -->
   <StoragePriorityImportant>tábachtach</StoragePriorityImportant>
   <!-- EN: critical -->
