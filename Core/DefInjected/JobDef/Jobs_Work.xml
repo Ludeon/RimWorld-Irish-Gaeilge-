@@ -74,7 +74,7 @@
   <Harvest.reportString>ag baint TargetA.</Harvest.reportString>
   
   <!-- EN: harvesting TargetA. -->
-  <HarvestDesignated.reportString>TODO</HarvestDesignated.reportString>
+  <HarvestDesignated.reportString>ag baint TargetA.</HarvestDesignated.reportString>
   
   <!-- EN: hauling TargetA. -->
   <HaulToCell.reportString>ag baint TargetA.</HaulToCell.reportString>

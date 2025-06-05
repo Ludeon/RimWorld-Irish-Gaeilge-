@@ -4,7 +4,9 @@
   <!-- EN:
     <li>questDescription->Using your long-range mineral scanner, [worker_definite] has found a lump of [targetMineable_label] nearby.\n\nUnfortunately, it won't last - others will mine it first in [timeoutTicks_duration] if we don't.[lumpThreatDescription]</li>
   -->
-  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>TODO</LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+  <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+      <li>questDescription->D'aimsigh [worker_definite] [targetMineable_label] sa cheantar máguaird leis an scanóir fadraoin.\n\nFaraor, is cosúil go bhfuil daoine eile ar an eolas maidir leis an bhféith freisin, agus beidh sí imithe mura mbainfimid í laistigh de [timeoutTicks_duration].</li>
+  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[lump] of [targetMineableThing_label]</li>
     <li>questName->[targetMineableThing_label] [lump]</li>
@@ -26,10 +28,16 @@
     <li>discovered->found</li>
     <li>discovered->scanned</li>
   -->
-  <LongRangeMineralScannerLump.questNameRules.rulesStrings>TODO</LongRangeMineralScannerLump.questNameRules.rulesStrings>
+  <LongRangeMineralScannerLump.questNameRules.rulesStrings>
+    <li>questName->[lump] [targetMineableThing_label]</li>
+    <li>lump->taisce</li>
+    <li>lump->féith</li>
+    <li>lump->fosú</li>
+    <li>lump->leadhb</li>
+  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>TODO</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Misean imithe in éag: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->
-  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>TODO</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
+  <LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>D'éirigh le daoine eile na mianraí a bhaint ón talamh. Tá an misean [resolvedQuestName] imithe in éag.</LongRangeMineralScannerLump.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

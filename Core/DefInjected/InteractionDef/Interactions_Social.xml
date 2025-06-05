@@ -23,7 +23,7 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-     <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef]  maidir le [subject].</li>
+     <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->[commentedabout] [INITIATOR_nameDef] le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->Luaigh [INITIATOR_nameDef] rud éigean le [RECIPIENT_nameDef] maidir le [subject].</li>
@@ -38,7 +38,6 @@
     <li>talkedabout->Bhí díospóireacht</li>
     <li>commentedabout->Bhí comhrá ag</li>
     <li>commentedabout->Labhair</li>
-    <li>commentedabout->Bhí comhrá ag</li>
     </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->

@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: affair -->
-  <Affair.stages.affair.label>TODO</Affair.stages.affair.label>
+  <Affair.stages.affair.label>caidreamh seachphósta</Affair.stages.affair.label>
   
   <!-- EN: annoying voice -->
-  <AnnoyingVoice.stages.annoying_voice.label>TODO</AnnoyingVoice.stages.annoying_voice.label>
+  <AnnoyingVoice.stages.annoying_voice.label>guth ciapach</AnnoyingVoice.stages.annoying_voice.label>
   
   <!-- EN: ate raw humanlike meat -->
-  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>TODO</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
+  <AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>d'ith mé feoil daonna</AteRawHumanlikeMeat.stages.ate_raw_humanlike_meat.label>
   
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-0.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-0.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-0.label>déistin (ionaí coirp)</BodyPuristDisgust.stages.body_purist_disgust-0.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-1.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-1.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-1.label>déistin (ionaí coirp)</BodyPuristDisgust.stages.body_purist_disgust-1.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-2.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-2.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-2.label>déistin (ionaí coirp)</BodyPuristDisgust.stages.body_purist_disgust-2.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-3.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-3.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-3.label>déistin (ionaí coirp)</BodyPuristDisgust.stages.body_purist_disgust-3.label>
   <!-- EN: body purist disgust -->
-  <BodyPuristDisgust.stages.body_purist_disgust-4.label>TODO</BodyPuristDisgust.stages.body_purist_disgust-4.label>
+  <BodyPuristDisgust.stages.body_purist_disgust-4.label>déistin (ionaí coirp)</BodyPuristDisgust.stages.body_purist_disgust-4.label>
   
   <!-- EN: {0}'s master -->
-  <BondedAnimalMaster.stages.s_master.label>TODO</BondedAnimalMaster.stages.s_master.label>
+  <BondedAnimalMaster.stages.s_master.label>máistir {0}</BondedAnimalMaster.stages.s_master.label>
   <!-- EN: Being together with my bonded animal makes me feel better. -->
-  <BondedAnimalMaster.stages.s_master.description>TODO</BondedAnimalMaster.stages.s_master.description>
+  <BondedAnimalMaster.stages.s_master.description>Is maith liom am a chaitheamh le m'ainmhí.</BondedAnimalMaster.stages.s_master.description>
   <!-- EN: master of {0} -->
-  <BondedAnimalMaster.stages.master_of.label>TODO</BondedAnimalMaster.stages.master_of.label>
+  <BondedAnimalMaster.stages.master_of.label>máistir {0}</BondedAnimalMaster.stages.master_of.label>
   <!-- EN: Being together with my bonded animals makes me feel better. -->
-  <BondedAnimalMaster.stages.master_of.description>TODO</BondedAnimalMaster.stages.master_of.description>
+  <BondedAnimalMaster.stages.master_of.description>Is maith liom am a chaitheamh le mo chuid ainmhithe.</BondedAnimalMaster.stages.master_of.description>
   
   <!-- EN: chemical interest vs teetotaler -->
   <ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>TODO</ChemicalInterestVsTeetotaler.stages.chemical_interest_vs_teetotaler.label>
   
   <!-- EN: creepy breathing -->
-  <CreepyBreathing.stages.creepy_breathing.label>TODO</CreepyBreathing.stages.creepy_breathing.label>
+  <CreepyBreathing.stages.creepy_breathing.label>garbhanálú</CreepyBreathing.stages.creepy_breathing.label>
   
   <!-- EN: disfigured -->
-  <Disfigured.stages.disfigured.label>TODO</Disfigured.stages.disfigured.label>
+  <Disfigured.stages.disfigured.label>máchail</Disfigured.stages.disfigured.label>
   
   <!-- EN: drunk -->
-  <Drunk.stages.drunk.label>TODO</Drunk.stages.drunk.label>
+  <Drunk.stages.drunk.label>ar meisce</Drunk.stages.drunk.label>
   
   <!-- EN: executed prisoner -->
-  <ExecutedPrisoner.stages.executed_prisoner.label>TODO</ExecutedPrisoner.stages.executed_prisoner.label>
+  <ExecutedPrisoner.stages.executed_prisoner.label>maraíodh príosúnach</ExecutedPrisoner.stages.executed_prisoner.label>
   
   <!-- EN: hard worker vs lazy -->
   <HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>TODO</HardWorkerVsLazy.stages.hard_worker_vs_lazy.label>
   
   <!-- EN: holding me prisoner -->
-  <HoldingMePrisoner.stages.holding_me_prisoner.label>TODO</HoldingMePrisoner.stages.holding_me_prisoner.label>
+  <HoldingMePrisoner.stages.holding_me_prisoner.label>is príosúnach mé</HoldingMePrisoner.stages.holding_me_prisoner.label>
   
   <!-- EN: incestuous -->
-  <Incestuous.stages.incestuous.label>TODO</Incestuous.stages.incestuous.label>
+  <Incestuous.stages.incestuous.label>ciorrú coil</Incestuous.stages.incestuous.label>
   
   <!-- EN: killed colonist -->
-  <KilledColonist.stages.killed_colonist.label>TODO</KilledColonist.stages.killed_colonist.label>
+  <KilledColonist.stages.killed_colonist.label>maraíodh coilíneach</KilledColonist.stages.killed_colonist.label>
   
   <!-- EN: killed colony animal -->
-  <KilledColonyAnimal.stages.killed_colony_animal.label>TODO</KilledColonyAnimal.stages.killed_colony_animal.label>
+  <KilledColonyAnimal.stages.killed_colony_animal.label>maraíodh ainmhí</KilledColonyAnimal.stages.killed_colony_animal.label>
   
   <!-- EN: man -->
-  <Man.stages.man.label>TODO</Man.stages.man.label>
+  <Man.stages.man.label>fear</Man.stages.man.label>
   
   <!-- EN: not {0}'s master -->
   <NotBondedAnimalMaster.stages.not_s_master.label>TODO</NotBondedAnimalMaster.stages.not_s_master.label>

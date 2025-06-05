@@ -37,6 +37,27 @@
     <li>desc_pawn->looking [AdjectiveAny]</li>
     <li>desc_pawn->covered in [Gore]</li>
   -->
-  <TalelessImages.rulePack.rulesStrings>TODO</TalelessImages.rulePack.rulesStrings>
+  <TalelessImages.rulePack.rulesStrings>
+    <li>image->[Character] aonair</li>
+    <li>image->[Character] aonair [desc_pawn] taobh le [TerrainFeature]</li>
+    <li>image->[Character] [desc_pawn] near a [Community]</li>
+    <li>image->[Character]</li>
+    <li>image->[Character] [desc_pawn] agus [Weapon] ina lámh</li>
+    <li>image->[Community]</li>
+    <li>image->[TerrainFeature]</li>
+    <li>image->[Weapon]</li>
+    <li>image->[TreeType]</li>
+    <li>image->[NaturalObject]</li>
+    <li>image->[Weapon]</li>
+    <li>image->[Vegetable]</li>
+    <li>image->[Apparel]</li>
+    <li>image->[Shape]</li>
+    <li>desc_pawn(p=12)-></li>
+    <li>desc_pawn->atá suas san aer</li>
+    <li>desc_pawn->atá ag bogadh tríd an aer</li>
+    <li>desc_pawn->atá ag bogadh</li>
+    <li>desc_pawn->atá ag labhairt</li>
+    <li>desc_pawn->atá ag breathnú thart</li>
+  </TalelessImages.rulePack.rulesStrings>
   
 </LanguageData>

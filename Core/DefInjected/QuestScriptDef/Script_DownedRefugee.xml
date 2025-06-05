@@ -7,17 +7,23 @@
     <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
     <li>pawnInvolvedInQuestInfo-></li>
   -->
-  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Déanann [refugee_nameDef] teagmháil leat agus iarrann [refugee_pronoun] cúnamh uait. Tá [refugee_pronoun] gortaithe agus níl [refugee_pronoun] in ann gluaiseacht.\n\n. Deir [refugee_nameDef] go mbeidh [refugee_pronoun] sásta dul leis an gcoilíneacht má chuidíonn tú.\n\nDeir [refugee_nameDef] go bhfuil[allSitePartsDescriptionsExceptFirst][pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo(priority=1)->[refugee_pawnInvolvedInQuestInfo]</li>
+    <li>pawnInvolvedInQuestInfo-></li>
+  </OpportunitySite_DownedRefugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [refugee_nameDef]</li>
     <li>questName->The Rescue of [refugee_nameDef]</li>
     <li>questName->[refugee_nameDef]'s Rescue</li>
     <li>questName->[refugee_nameDef]'s Salvation</li>
   -->
-  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>TODO</OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+  <OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
+    <li>questName->Tarrtháil [refugee_nameDef]</li>
+  </OpportunitySite_DownedRefugee.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>Misean imithe in éag: [resolvedQuestName]</OpportunitySite_DownedRefugee.LetterLabelQuestExpired.slateRef>
   <!-- EN: [refugee_nameDef]'s signal has been lost, and [refugee_pronoun] can no longer be rescued. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>Tá an comhartha rólag chun teagmháil a dhéanamh le [refugee_nameDef], agus tá an misean '[resolvedQuestName]' imithe in éag.</OpportunitySite_DownedRefugee.LetterTextQuestExpired.slateRef>
   
 </LanguageData>

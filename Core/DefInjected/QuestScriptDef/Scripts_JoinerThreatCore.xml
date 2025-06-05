@@ -6,7 +6,11 @@
     <li>introduction(childCount==1,priority=1)->A [joiner_age]-year-old child</li>
     <li>introduction->A [joiner_age]-year-old [joiner_title]</li>
   -->
-  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>TODO</ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->Tá teachtaireacht tagtha ó [introduction] darb ainm [joiner_nameDef]. Tá [enemyFaction_pawnsPlural] ón bhfaicsean [enemyFaction_name] sa tóir ar [joiner_nameDef]!\n\nIarrann [joiner_pronoun] cúnamh uait agus deir [joiner_pronoun] go mbeidh [joiner_pronoun] sásta fanacht leat ag [map_definite].[joiner_relationInfo]\n\nMá tá tú sásta cuidiú le [joiner_nameDef], beidh ort troid i gcoinne na naimhde atá á leanúint. Tá an grúpa déanta suas de: \n\n[raid/raidPawnKinds]\n\nNí thugann [joiner_nameDef] aon eolas eile.</li>
+    <li>introduction(childCount==1,priority=1)->leanbh atá [joiner_age] bliain d'aois</li>
+    <li>introduction->[joiner_title] atá [joiner_age] bliain d'aois</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [runnerIndef]</li>
     <li>questName->The Salvation of [runnerIndef]</li>
@@ -22,10 +26,14 @@
     <li>runnerIndef->a Refugee</li>
     <li>runnerIndef(childCount==1,priority=1)->a child</li>
   -->
-  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>TODO</ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>questName->Cúnamh do [runnerIndef]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
-  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>TODO</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>Tá {BASELABEL} sa tóir ar [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
-  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>TODO</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
+  <ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>Tá na [enemyFaction_pawnsPlural] tagtha chun [../joiner_nameDef] a aimsiú.</ThreatReward_Raid_Joiner.LetterTextChasing.value.slateRef>
   
 </LanguageData>

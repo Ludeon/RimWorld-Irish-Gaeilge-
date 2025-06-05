@@ -9,7 +9,7 @@
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Tá an iomarca coilíneachtaí agat</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
-  <MaxNumberOfPlayerSettlements.helpText>Rabhadh: Dearadh RimWorld chun mbeadh coilineacht amháin ag an imreoir. \n\nMá imríonn tú le níos mó ná coilíneacht amháin, tá gach seans ann nach bhfeidhmeoidh an cluiche i gceart agus d'fhéadfadh sé go gcuirfear isteach ar fheidhmiú an chluiche. Moltar imirt le coilíneacht amháin, mura bhfuil cur amach agat ar an rud atá tú a dhéanamh!</MaxNumberOfPlayerSettlements.helpText>
+  <MaxNumberOfPlayerSettlements.helpText>Rabhadh: Dearadh RimWorld chun go mbeadh coilineacht amháin ag an imreoir. \n\nMá imríonn tú le níos mó ná coilíneacht amháin, tá gach seans ann nach bhfeidhmeoidh an cluiche i gceart agus d'fhéadfadh sé go gcuirfear isteach ar fheidhmiú an chluiche. Moltar imirt le coilíneacht amháin!</MaxNumberOfPlayerSettlements.helpText>
 
   <!-- EN: Steam Deck controls -->
   <SteamDeckControlsGame.label>Steam Deck</SteamDeckControlsGame.label>

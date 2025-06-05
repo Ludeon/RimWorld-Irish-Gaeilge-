@@ -4,10 +4,12 @@
   <!-- EN:
     <li>questDescription->A friendly AI from your past named (*Name)Charlon Whitestone(/Name) has sent you a message!\n\nHe reveals that he has a starship hidden on this planet, and sends you its world coordinates.\n\nThe starship is in deep hibernation mode. You'll have to start it up when you arrive, then defend it from raiders trying to steal it until the startup sequence completes. It will be a long, difficult series of battles.\n\nIf you can get the ship off the ground, (*Name)Charlon Whitestone(/Name) will take you off this rimworld, to the stars.</li>
   -->
-  <EndGame_ShipEscape.questDescriptionRules.rulesStrings>TODO</EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+  <EndGame_ShipEscape.questDescriptionRules.rulesStrings>
+    <li>questDescription->Tá teachtaireacht tagtha ó Intleacht Shaorga darb ainm (*Name)Charlon Whitestone(/Name)!\n\nDeir sé go bhfuil spáslong rúnda i bhfolach ar an bpláinéad seo, agus go bhfuil na comhordanáidí aige.\n\nTá an spáslong díghníomhaichte, agus beidh ort í a chur ar siúl nuair a aimsíonn tú í. Beidh ort an spáslong a chosaint ó ruathairí ansin, go dtí go mbeidh sí réidh le heitilt. Beidh sé iontach deacair, agus beidh cosaintí láidre de dhíth ort.\n\nMá éiríonn leat an spáslong a chur ar siúl, deir (*Name)Charlon Whitestone(/Name) go mbeidh sé sásta cuidiú leat éalú ón bpláinéad seo, chun na réaltaí.</li>
+  </EndGame_ShipEscape.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Ship to the Stars</li>
   -->
-  <EndGame_ShipEscape.questNameRules.rulesStrings>TODO</EndGame_ShipEscape.questNameRules.rulesStrings>
+  <EndGame_ShipEscape.questNameRules.rulesStrings>Spáslong chun na Réaltaí</EndGame_ShipEscape.questNameRules.rulesStrings>
   
 </LanguageData>

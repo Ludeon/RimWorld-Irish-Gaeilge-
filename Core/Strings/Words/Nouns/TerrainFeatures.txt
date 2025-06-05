@@ -1,7 +1,6 @@
 ﻿machaire
 machaire
 féarach
-ardchlár
 féarthalamh
 fásach
 páirc
@@ -19,20 +18,16 @@ carraig
 sliabh
 cnoc
 méasa
-aill
 leathaill
 crag
 mullach
 gleann
 cainneon
 scornach
-
-ósais
 cluain
 
 pluais
 
-abhann
 cainéal
 sruthán
 cuaisín
@@ -44,7 +39,6 @@ cóbh
 loch
 farraige
 lochán
-abhantrach
 murlach
 poll
 seascann

@@ -6,7 +6,11 @@
     <li>qualityInfo(requestedThingHasQuality==True,priority=1)->of normal+ quality </li>
     <li>qualityInfo-></li>
   -->
-  <TradeRequest.questDescriptionRules.rulesStrings>TODO</TradeRequest.questDescriptionRules.rulesStrings>
+  <TradeRequest.questDescriptionRules.rulesStrings>
+    <li>questDescription->Tá iarratas trádála ag [settlement_label]. Ba mhaith leo na rudaí seo a leanas a cheannach:\n\n  [requestedThingCount]x [requestedThing_label] [qualityInfo](luach [requestedThingMarketValue_money])\n\nMás maith leat trádáil leo, seol carbhán chuchu leis na rudaí a iarradh. Tógfaidh sé [estimatedTravelTime_duration] ort taisteal ann.</li>
+    <li>qualityInfo(requestedThingHasQuality==True,priority=1)->ar cháilíocht normalta nó níos airde </li>
+    <li>qualityInfo-></li>
+  </TradeRequest.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Caravan to [settlement_label]</li>
     <li>questName->Trade with [settlement_label]</li>
@@ -21,14 +25,18 @@
     <li>trade->Deal</li>
     <li>trade->Offer</li>
   -->
-  <TradeRequest.questNameRules.rulesStrings>TODO</TradeRequest.questNameRules.rulesStrings>
+  <TradeRequest.questNameRules.rulesStrings>
+    <li>questName->Carbhán chuig [settlement_label]</li>
+    <li>questName->Trádáil le [settlement_label]</li>
+    <li>questName->Soláthairtí do [settlement_label]</li>
+  </TradeRequest.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <TradeRequest.LetterLabelQuestFailed.slateRef>TODO</TradeRequest.LetterLabelQuestFailed.slateRef>
+  <TradeRequest.LetterLabelQuestFailed.slateRef>Theip ort an misean a chríochnú: [resolvedQuestName]</TradeRequest.LetterLabelQuestFailed.slateRef>
   <!-- EN: [faction_name] became hostile to you. -->
-  <TradeRequest.LetterTextQuestFailed.slateRef>TODO</TradeRequest.LetterTextQuestFailed.slateRef>
+  <TradeRequest.LetterTextQuestFailed.slateRef>Tá [faction_name] naimhdeach.</TradeRequest.LetterTextQuestFailed.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <TradeRequest.LetterLabelFavorReceiver.slateRef>TODO</TradeRequest.LetterLabelFavorReceiver.slateRef>
+  <TradeRequest.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</TradeRequest.LetterLabelFavorReceiver.slateRef>
   <!-- EN: Who should be credited with [asker_faction_royalFavorLabel] for fulfilling the trade request? -->
-  <TradeRequest.LetterTextFavorReceiver.slateRef>TODO</TradeRequest.LetterTextFavorReceiver.slateRef>
+  <TradeRequest.LetterTextFavorReceiver.slateRef>Roghnaigh coilíneach chun [asker_faction_royalFavorLabel] a fháil as an iarratas a chomhlíonadh?</TradeRequest.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

@@ -100,6 +100,8 @@
     <li>forest_word->Coill</li>
     <li>forest_word->Garrán</li>
     <li>forest_word->Doire</li>
+    <li>forest_word->Cill</li>
+    <li>forest_word->Talamh</li>
   </NamerBorealForest.rulePack.rulesStrings>
   
   <!-- EN:
@@ -158,9 +160,13 @@
     <li>forest_noun_fir->An Tranglam</li>
     <li>forest_noun_fir->An Garrán</li>
     <li>forest_noun_bean->An Fhoraois</li>
-    <li>forest_word_ganalt->An Choill</li>
+    <li>forest_word_ganalt->Coill</li>
     <li>forest_word_ganalt->Garrán</li>
     <li>forest_word_ganalt->Doire</li>
+    <li>forest_word_ganalt->Talamh</li>
+    <li>forest_word_ganalt->Ard</li>
+    <li>forest_word_ganalt->Cnoc</li>
+    <li>forest_word_ganalt->Foraois</li>
     <li>adjective_fir->Gorm</li>
     <li>adjective_fir->Bán</li>
     <li>adjective_fir->Glas</li>
@@ -203,6 +209,12 @@
     <li>ice_sheet_noun->An tOighear Mór</li>
     <li>ice_sheet_noun->An Chlúid Mhór</li>
     <li>ice_sheet_noun->An Steip</li>
+    <li>ice_sheet_noun->An Taobh</li>
+    <li>ice_sheet_noun->An Fánlach</li>
+    <li>ice_sheet_noun->An Learg</li>
+    <li>ice_sheet_noun->An Treathan</li>
+    <li>ice_sheet_noun->An Grúm</li>
+    <li>ice_sheet_noun->An tOighearmhá</li>
   </NamerIceSheet.rulePack.rulesStrings>
   
   <!-- EN:
@@ -272,6 +284,7 @@
     <li>water_noun_ganalt->Uiscí</li>
     <li>water_noun_ganalt->Lochán</li>
     <li>water_noun_ganalt->Lochóg</li>
+    <li>water_noun_ganalt->Uisce</li>
   </NamerLake.rulePack.rulesStrings>
   
   <!-- EN:
@@ -393,6 +406,7 @@
 
   <NamerPeninsula.rulePack.rulesStrings>
     <li>r_name->Ceann [world_ending]</li>
+    <li>r_name->Barr [world_ending]</li>
   </NamerPeninsula.rulePack.rulesStrings>
   
   <!-- EN:
@@ -499,15 +513,14 @@
   <NamerTropicalRainforest.rulePack.rulesStrings>
     <li>r_name->[rainforest_word_ganalt] [world_ending]</li>
     <li>rainforest_word_ganalt->Foraois</li>
-    <li>rainforest_word_ganalt->Foraois bhaístí</li>
     <li>rainforest_word_ganalt->Teochreasa</li>
     <li>rainforest_word_ganalt->Teochrios</li>
     <li>rainforest_word_ganalt->Tropaic</li>
     <li>rainforest_word_ganalt->Tropaicí</li>
     <li>rainforest_word_ganalt->Láthair</li>
-    <li>rainforest_word_ganalt->Fásach</li>  
-    <li>rainforest_word_ganalt->Seisceann</li>  
-    <li>rainforest_word_ganalt->Coill</li>  
+    <li>rainforest_word_ganalt->Fásach</li>
+    <li>rainforest_word_ganalt->Seisceann</li>
+    <li>rainforest_word_ganalt->Coill</li>
   </NamerTropicalRainforest.rulePack.rulesStrings>
   
   <!-- EN:

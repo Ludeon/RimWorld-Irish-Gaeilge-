@@ -6,7 +6,7 @@
   -->
   <OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   
-      <li>questDescription->Tá teachtaireacht taghta ó [asker_nameFull], [asker_faction_leaderTitle], ón bhfaicsean [asker_faction_name]. Is cosúil go bhfuil ruathairí i gcampa ag cur isteach orthu. Tá an campa faoi smacht [siteFaction_name].\n\nTá [asker_nameDef] ag iarradh orainn an campa a scriosadh, rud a chiallíonn go mbeadh orainn fáil réidh le gach naimhde agus gach túirín. Deir[asker_label] go bhfuil [sitePart0_description].</li>
+      <li>questDescription->Tá teachtaireacht taghta ó [asker_nameFull], [asker_faction_leaderTitle], ón bhfaicsean '[asker_faction_name]'. Is cosúil go bhfuil ruathairí i gcampa ag cur isteach orthu. Tá an campa faoi smacht '[siteFaction_name]'.\n\nTá [asker_nameDef] ag iarradh orainn an campa a scriosadh, rud a chiallíonn go mbeadh orainn fáil réidh le gach naimhde agus gach túirín ar an láthair.</li>
   
   </OpportunitySite_BanditCamp.questDescriptionRules.rulesStrings>
   <!-- EN:
@@ -26,22 +26,33 @@
     <li>bandit->Robber</li>
     <li>bandit->Brigand</li>
   -->
-  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>TODO</OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+  <OpportunitySite_BanditCamp.questNameRules.rulesStrings>
+    <li>questName->[camp] [bandit]</li>
+    <li>camp->Campa</li>
+    <li>camp->Lonnaíocht</li>
+    <li>camp->Bunáit</li>
+    <li>camp->Longfort</li>
+    <li>bandit->na Meirleach</li>
+    <li>bandit->na Ruathairí</li>
+    <li>bandit->na n-Eisreachtaithe</li>
+    <li>bandit->na Robálaithe</li>
+    <li>bandit->na Rógairí</li>
+  </OpportunitySite_BanditCamp.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>Misean imithe in éag: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestExpired.slateRef>
   <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>Tá na ruathairí tar éis a gcampa a bhogadh. Tá an misean [resolvedQuestName] imithe in éag.</OpportunitySite_BanditCamp.LetterTextQuestExpired.slateRef>
   <!-- EN: Quest failed: [resolvedQuestName] -->
-  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>Theip ort misean a chríochnú: [resolvedQuestName]</OpportunitySite_BanditCamp.LetterLabelQuestFailed.slateRef>
   <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
-  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>Tá na ruathairí imithe. Tá an misean [resolvedQuestName] imithe in éag.</OpportunitySite_BanditCamp.LetterTextQuestFailed.slateRef>
   <!-- EN: Payment arrived -->
-  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>Íocaíocht tagtha</OpportunitySite_BanditCamp.LetterLabelPaymentArrived.slateRef>
   <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived. -->
-  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>D'éirigh leat na ruathairí a chur faoi chois! Tá íocaíocht tagtha ó '[asker_faction_name]'.</OpportunitySite_BanditCamp.LetterTextPaymentArrived.slateRef>
   <!-- EN: [asker_faction_royalFavorLabel] -->
-  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</OpportunitySite_BanditCamp.LetterLabelFavorReceiver.slateRef>
   <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
-  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>TODO</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
+  <OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>Bhí na coilínigh seo a leanas páirteach sa mhisean '[resolvedQuestName]'. Ní féidir [royalFavorReward_amount] [asker_faction_royalFavorLabel] a thabhairt ach do dhuine amháin acu.</OpportunitySite_BanditCamp.LetterTextFavorReceiver.slateRef>
   
 </LanguageData>

@@ -49,7 +49,7 @@
   <!-- EN: wind turbine -->
   <WindTurbine.label>tuirbín gaoithe</WindTurbine.label>
   <!-- EN: A wind-powered electrical generator. Requires a large clear space in front and behind for optimal air flow. -->
-  <WindTurbine.description>Is féidir cumhacht a ghiniúint as an ngaoth leis an gineadóir seo. Ní mór go mbeidh spás folamh ann os comhair an tuirbín agus taobh thiar de.</WindTurbine.description>
+  <WindTurbine.description>Is féidir cumhacht a ghiniúint as an ngaoth leis an ngineadóir seo. Ní mór go mbeidh spás folamh ann os comhair an tuirbín agus taobh thiar de.</WindTurbine.description>
   
   <!-- EN: wood-fired generator -->
   <WoodFiredGenerator.label>gineadóir adhmaid</WoodFiredGenerator.label>

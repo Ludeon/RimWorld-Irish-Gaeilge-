@@ -8,7 +8,13 @@
     <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
     <li>underArmedGuard-></li>
   -->
-  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>TODO</OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription->D'éirigh le príosúnach ag [siteFaction_name] teachtaireacht a chur chugat!\n\nTá [prisoner_nameDef] a choinneáil ag [map_definite][underArmedGuard]. Má éiríonn leat [siteFaction_name] a tharrtáil, beidh [prisoner_pronoun] sé sásta dul le do choilíneacht. Deir [prisoner_pronoun] go bhfuil [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nMura n-éiríonn leat [prisoner_nameDef] a tharrtháil, ní fios an mbeidh deis eile agat amach anseo.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> faoi gharda</li>
+    <li>underArmedGuard-></li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[prisoner_nameDef]'s Salvation</li>
     <li>questName->[prisoner_nameDef]'s Rescue</li>
@@ -17,6 +23,11 @@
     <li>questName->Saving [prisoner_nameDef]</li>
     <li>questName->Breaking [prisoner_nameDef] Out</li>
   -->
-  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>TODO</OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName->Tarrtháil [prisoner_nameDef]</li>
+    <li>questName->Briseadh Amach [prisoner_nameDef]</li>
+    <li>questName->Éirí Amach [prisoner_nameDef]</li>
+
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
   
 </LanguageData>
