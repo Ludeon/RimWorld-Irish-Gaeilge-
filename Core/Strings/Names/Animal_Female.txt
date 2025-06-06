@@ -52,7 +52,7 @@ Dóirín
 Eibhlín
 Eibhlín
 Eibhlín
-Eilionóir,
+Eilionóir
 Éilís
 Eilís,
 Éimhear 
@@ -73,7 +73,7 @@ Gráinne
 Gráinne
 Íde
 Íde
-Laoiseach,
+Laoiseach
 Lára
 Lasairíona
 Léan

@@ -1,15 +1,8 @@
 ﻿ealaín
-ealaín
 píosa
-píosa
-píosa
-
 obair
 léiriúchán
 iarracht
-gan teideal
-le teideal
-
 cruth
 foirm
 íomhá
@@ -17,31 +10,23 @@ iarracht
 pictiúr
 pictiúr
 seait
-
 dán
-
 suantraí
 amhrán
 tiún
 streancán
 tiún
-
 coidéacs 
 leabhar
-
 ciúb
 sféar
-parabóileach
-ciúbach
 cuarach
 cuar
-
 scáthán
 lá
 múisc
 allas
 scáth
-
 saoirse
 fís
 grá 

@@ -13,8 +13,8 @@
     <li>r_art_description->[physical_description_root] [context_sentence]</li>
     <li>circumstance_group->[circumstance_phrase]</li>
     <li>desc_sentence_group->[desc_sentence] [style_group]</li>
-    <li>context_sentence->Déanann [depiction] seo cur síos ar '[tale_noun]' ar [DATE].</li>
-    <li>context_sentence->Baineann [depiction] seo le '[tale_noun]' ar [DATE].</li>
+    <li>context_sentence->Déanann [depiction] seo cur síos ar [tale_noun] ar [DATE].</li>
+    <li>context_sentence->Baineann [depiction] seo le [tale_noun] ar [DATE].</li>
   </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:

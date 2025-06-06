@@ -20,17 +20,17 @@
     <li>maybe_adjective->[AdjectiveBadass]</li>
   -->
   <NamerTraderGeneral.rulePack.rulesStrings>
-    <li>r_name->[business_name] [business_adjective]</li>
-    <li>business_name->Údarás</li>
-    <li>business_name->Údarás Trádála</li>
-    <li>business_name->Idirnasc</li>
-    <li>business_name->Grúpa Trádála</li>
-    <li>business_name->Comharghnó</li>
-    <li>business_name->Comhar</li>
-    <li>business_name->Tráchtáil</li>
-    <li>business_name->Tarlóirí</li>
-    <li>business_name->Grúpa Last-Táille</li>
-    <li>business_name->Sindeacáit Trádála</li>
+    <li>r_name->[business_type] [business_adjective]</li>
+    <li>business_type->Údarás</li>
+    <li>business_type->Údarás Trádála</li>
+    <li>business_type->Idirnasc</li>
+    <li>business_type->Grúpa Trádála</li>
+    <li>business_type->Comharghnó</li>
+    <li>business_type->Comhar</li>
+    <li>business_type->Tráchtáil</li>
+    <li>business_type->Tarlóirí</li>
+    <li>business_type->Grúpa Last-Táille</li>
+    <li>business_type->Sindeacáit Trádála</li>
     <li>business_adjective->Helios</li>
     <li>business_adjective->AstraSys</li>
     <li>business_adjective->Nova</li>

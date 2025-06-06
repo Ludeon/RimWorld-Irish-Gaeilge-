@@ -4,13 +4,13 @@
   <!-- Are these possibly causing random articles to show up in menus ? -->
 
   <!-- EN: a -->
-  <IndefiniteArticle />
+  <IndefiniteArticle></IndefiniteArticle>
   <!-- EN: the -->
-  <DefiniteArticle>an</DefiniteArticle>
+  <DefiniteArticle></DefiniteArticle>
   <!-- EN: a {0} -->
-  <IndefiniteForm />
+  <IndefiniteForm></IndefiniteForm>
   <!-- EN: the {0} -->
-  <DefiniteForm>an</DefiniteForm>
+  <DefiniteForm></DefiniteForm>
 
   <!-- EN: its -->
   <Proits>h</Proits>

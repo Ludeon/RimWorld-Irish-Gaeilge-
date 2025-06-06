@@ -780,71 +780,9 @@ Teach na Seiceamar
 Baile Thancaird
 Teamhair Bheag
 Teamhair Mhór
-An Tamhnaigh Íochtarach
-An Tamhnaigh Uachtarach
+An Tamhnaigh
 An Téad Bheag
 An Téad Mhór
-Na Téada Íochtaracha
-Na Téada Uachtaracha
+Na Téada
 Téadach
 Toinneach
-Camas Àird an t-Sabhail 
-Rathad na h-Àirde Fhric 
-Baile a' Bhràghaid 
-Beàrnasdal 
-Cuairt-cheum Bhuirbh 
-Bracadal 
-Cidhe an Àth Leathainn 
-Taobh an Uillt 
-A' Chlach Àrd 
-An Clachan 
-Dail a' Bhil 
-An t-Aodann Bàn 
-Na Fangan 
-An Fheòirlig 
-Camas Fhiosgabhaig 
-Ceann Rathad Ghrìsinis 
-Inbhir Arais 
-Ceann Sàil Eighre 
-Lothairgil 
-Rathad na Muilne 
-A' Mhaoile 
-Gob na h-Èist 
-An Seann Mhuileann 
-Cuairt-cheum Ploc a' Chaoil 
-Cidhe Phort nan Long 
-Ceann Rathad Phraboist 
-Rubha Hùinis 
-Camas Shanndaig 
-Drochaid Sgeitheaboist 
-Rathad Stafainn 
-An t-Aodann Bàn 
-Baile a' Bhràghaid 
-Beàrnasdal 
-Bhatan 
-Bracadal 
-Camas Àird an t-Sabhail 
-Camas Fhiosgabhaig 
-Camas Shanndaig 
-Cidhe an Àth Leathainn 
-Cidhe Phort nan Long 
-An Clachan 
-Cuairt-cheum Bhuirbh 
-Cuairt-cheum Ploc a' Chaoil 
-Dail a' Bhil 
-Drochaid Sgeitheaboist 
-Na Fangan 
-An Fheòirlig 
-Na Gilean 
-Gleann an Dubh Lochain 
-Gob na h-Èist 
-Inbhir Arais 
-Lothairgil 
-A' Mhaoile 
-Rathad a' Ghlìob 
-Ceann Rathad Ghrìsinis 
-Ceann Rathad Phraboist 
-Ceann Sàil Eighre 
-A' Chlach Àrd 
-Rathad na h-Àirde Fhric 
-Rathad na Muilne 

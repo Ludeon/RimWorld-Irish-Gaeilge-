@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN:
@@ -18,13 +18,13 @@
   <Combat_DeflectIncludes.rulePack.rulesStrings>TODO</Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite]</li>
-    <li>action->[INITIATOR_definite] [tried] to [damaged_inf] [RECIPIENT_definite] with [implement]</li>
-    <li>action->[INITIATOR_definite] [tried] to use [implement] to [damaged_inf] [RECIPIENT_definite]</li>
-    <li>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</li>
+    <li>action->[INITIATOR] [tried] to [damaged_inf] [INITIATOR]</li>
+    <li>action->[INITIATOR] [tried] to [damaged_inf] [INITIATOR] with [implement]</li>
+    <li>action->[INITIATOR] [tried] to use [implement] to [damaged_inf] [INITIATOR]</li>
+    <li>action->[INITIATOR] swung [INITIATOR_possessive] [WEAPON_label] at [INITIATOR]</li>
+    <li>action(p=0.3)->[INITIATOR] [verb_genericattack] [towardsat] [INITIATOR] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR] [verb_genericattack] [towardsat] [INITIATOR]</li>
+    <li>action(p=0.3)->[INITIATOR] [verb_genericattack] with [implement]</li>
     <li>towardsat->towards</li>
     <li>towardsat->at</li>
     <li>verb_genericattack->swung</li>
@@ -34,20 +34,9 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>
-    <li>action->Rinne [INITIATOR_definite] iarracht [RECIPIENT_definite] [damaged_inf]</li>
-    <li>action->Rinne [INITIATOR_definite] iarracht [RECIPIENT_definite] [damaged_inf]</li>
-    <li>action->Rinne [INITIATOR_definite] iarracht [implement] a úsáid chun [RECIPIENT_definite] [damaged_inf]</li>
-    <li>action->[INITIATOR_definite] swung [INITIATOR_possessive] [WEAPON_label] at [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite] with [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] [towardsat] [RECIPIENT_definite]</li>
-    <li>action(p=0.3)->[INITIATOR_definite] [verb_genericattack] with [implement]</li>
-    <li>towardsat->towards</li>
-    <li>towardsat->at</li>
-    <li>verb_genericattack->swung</li>
-    <li>verb_genericattack->flailed</li>
-    <li>verb_genericattack->thrashed</li>
-    <li>tried->tried</li>
-    <li>tried->attempted</li>
+    <li>action->Rinne [INITIATOR] iarracht [INITIATOR] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR] iarracht [INITIATOR] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR] iarracht [implement] a úsáid chun [INITIATOR] [damaged_inf]</li>
   </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
@@ -122,40 +111,16 @@
     <li>r_logentry(priority=-10)->[action].</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
     <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->a [WEAPON_label]'s [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->a [WEAPON_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=1)->[TOOL_label] ([WEAPON_label])</li>
+    <li>implement(IMPLEMENTOWNER_type==weapon,p=0.5)->[WEAPON_label]</li>
     <li>implement(IMPLEMENTOWNER_type==bodypart,p=2)->[INITIATOR_possessive] [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[INITIATOR_possessive] [WEAPON_label]'s [TOOL_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [WEAPON_label]</li>
-    <li>implement(IMPLEMENTOWNER_type==hediff,p=1)->[INITIATOR_possessive] [TOOL_label]</li>
+    <li>implement(IMPLEMENTOWNER_type==hediff,p=2)->[WEAPON_label] [INITIATOR_possessive]</li>
     <li>targetlist(recipient_part_count==1)->[recipient_part0_label]</li>
-    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</li>
-    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</li>
-    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</li>
-    <li>damaged_present(deflected!=True)->wounding</li>
-    <li>damaged_present(deflected!=True)->injuring</li>
-    <li>destroyed(p=0.5)->destroyed</li>
-    <li>destroyed(p=0.5)->demolished</li>
-    <li>destroyed(p=0.5)->ruined</li>
-    <li>destroyed(p=0.5)->wrecked</li>
-    <li>wince(recipient_flesh==Normal)->wince</li>
-    <li>wince(recipient_flesh==Normal)->grimace</li>
-    <li>wince(recipient_flesh==Normal)->cringe</li>
-    <li>wince(recipient_flesh==Normal)->groan</li>
-    <li>wince(recipient_flesh!=Mechanoid)->scream</li>
-    <li>wince(recipient_flesh!=Mechanoid)->shout</li>
-    <li>wince->recoil</li>
-    <li>wince->stumble</li>
-    <li>painstate->in</li>
-    <li>painstate->with</li>
-    <li>painstate->from the</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] pain</li>
-    <li>painevent(recipient_flesh!=Mechanoid)->[painstate] agony</li>
-    <li>painevent(recipient_flesh==Normal)->with misery</li>
-    <li>painevent->from the injury</li>
-    <li>painevent->from the wound</li>
-    <li>to->to</li>
-    <li>to->into</li>
+    <li>targetlist(recipient_part_count==2)->[recipient_part0_label] agus [recipient_part1_label]</li>
+    <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], agus [recipient_part2_label]</li>
+    <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], agus [recipient_part3_label]</li>
+    <li>damaged_present(deflected!=True)->gortaíodh</li>
+    <li>destroyed(p=0.5)->scriosadh</li>
   </Combat_MeleeIncludes.rulePack.rulesStrings>
   
   <!-- EN:

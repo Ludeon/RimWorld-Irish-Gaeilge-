@@ -36,19 +36,19 @@
   <Maneuver_Bite.rulePack.rulesStrings>TODO</Maneuver_Bite.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
-    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
+    <li>r_logentry->[INITIATOR] tried to kick [TOOL_label] in [INITIATOR]'s eyes, but [INITIATOR] dodged out of the way.</li>
+    <li>r_logentry->[INITIATOR] tried to kick [TOOL_label] in [INITIATOR]'s eyes, but [INITIATOR] blocked it.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+    <li>r_logentry->[INITIATOR] kicked [TOOL_label] in [INITIATOR]'s eyes.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR] kicked a spray of [TOOL_label] in [INITIATOR]'s eyes.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
+    <li>r_logentry->[INITIATOR] tried to kick [TOOL_label] in [INITIATOR]'s eyes, but missed.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   

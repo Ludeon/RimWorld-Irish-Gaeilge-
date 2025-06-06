@@ -311,11 +311,11 @@
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>Taispeáin cách</ShowAll>
+  <ShowAll>Cách</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>Taispeáin Comhrac</ShowCombat>
+  <ShowCombat>Comhrac</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>Taispeáin Sóisialta</ShowSocial>
+  <ShowSocial>Sóisialta</ShowSocial>
   <!-- EN: no recent entries -->
   <NoRecentEntries>Níl aon iontrálacha ann</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->

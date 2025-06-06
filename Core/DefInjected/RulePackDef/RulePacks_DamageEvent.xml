@@ -20,11 +20,9 @@
     <li>destroyed_present->breaking</li>
   -->
   <DamageEvent_Ceiling.rulePack.rulesStrings>
-      <li>damage_source->[collapsed] [roof] ar</li>
+    <li>damage_source->thit [roof] ar</li>
     <li>roof->an díon</li>
     <li>roof->an tsíleáil</li>
-    <li>collapsed->Thit</li>
-    <li>collapsed->Ghéill</li>
     <li>damaged_present->gortaíodh</li>
     <li>damaged_present->buaileadh</li>
     <li>damaged_present->ballbhrúdh</li>

@@ -12,7 +12,7 @@
   <!-- EN: Many menus allow you to click and drag a setting to 'paint' it over many entries. This even works for things like outfits or food restrictions. -->
   <GameplayTips.SettingPainting>Is féidir socruithe a chliceáil agus a tharraingt chun iad a 'pheinteáil' ar rudaí éagsúla. Oibríonn sé le rudaí ar nós éadaí nó roghanna bia.</GameplayTips.SettingPainting>
   <!-- EN: In the work tab's manual priorities mode, 1 is first priority, while 4 is last priority. -->
-  <GameplayTips.ManualPriorities>Sa táb oibre, tugtar tosaíocht do rudaí a bhfuil uimhir a 1 leo, agus tugtar tosaíocht íseal do rudaí a bhfuil uimhir a 4 leo.</GameplayTips.ManualPriorities>
+  <GameplayTips.ManualPriorities>Sa táb oibre, tugtar tosaíocht do rudaí a bhfuil 1 leo, agus tugtar tosaíocht íseal do rudaí a bhfuil 4 leo.</GameplayTips.ManualPriorities>
   <!-- EN: Each colonists' mood is displayed in the background of their icon in the colonist bar at the top of the screen. -->
   <GameplayTips.ColonistMood>Taispeántar giúmar gach coilíneach taobh thiar dá pictiúir ar an mbarra ag barr an scáileáin.</GameplayTips.ColonistMood>
   <!-- EN: Shift-clicking the name of a work type in the Work tab changes settings for all colonists at once. -->

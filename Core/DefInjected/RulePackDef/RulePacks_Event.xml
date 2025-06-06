@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR] used [ABILITY_label] on [SUBJECT_definite].</li>
   -->
   <Event_AbilityUsed.rulePack.rulesStrings>
-      <li>r_logentry->D'úsáid [INITIATOR_definite] [ABILITY_label] ar [SUBJECT_definite].</li>
+      <li>r_logentry->D'úsáid [INITIATOR] [ABILITY_label] ar [SUBJECT_definite].</li>
   </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR] used [ITEM_indefinite] on [SUBJECT_definite].</li>
   -->
   <Event_ItemUsed.rulePack.rulesStrings>
-      <li>r_logentry->D'úsáid [INITIATOR_definite] [ITEM_indefinite] ar [SUBJECT_definite].</li>
+      <li>r_logentry->D'úsáid [INITIATOR] [ITEM_indefinite] ar [SUBJECT_definite].</li>
   </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
-    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR]'s attack.</li>
     <li>stunned(p=3)->stunned</li>
     <li>stunned->staggered</li>
     <li>stunned->dazed</li>
     <li>stunned->disoriented</li>
     <li>r_logentry->[SUBJECT_definite] [staggered].</li>
     <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
-    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR]'s attack.</li>
     <li>staggered(p=3)->staggered</li>
     <li>staggered->faltered</li>
     <li>staggered->wobbled</li>
@@ -37,8 +37,8 @@
     <li>stumbled->staggered</li>
   -->
   <Event_Stun.rulePack.rulesStrings>
-      <li>r_logentry->Baineadh [stunned] as [SUBJECT_definite] leis an ionsaí.</li>
-    <li>r_logentry->Bhain ionsaí [INITIATOR_definite] [stunned] as [SUBJECT_definite].</li>
+    <li>r_logentry->Baineadh [stunned] as [SUBJECT_definite] leis an ionsaí.</li>
+    <li>r_logentry->Bhain ionsaí [INITIATOR] [stunned] as [SUBJECT_definite].</li>
     <li>stunned(p=3)->staingeadh</li>
     <li>stunned->stangaire</li>
     <li>stunned->geit</li>

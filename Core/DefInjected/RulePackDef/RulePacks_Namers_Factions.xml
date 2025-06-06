@@ -309,11 +309,26 @@
     <li>townendevil->thad</li>
   -->
    <NamerSettlementPirate.rulePack.rulesFiles>
-    <li>townname_fixed->Names/OutlanderTown</li>
+    <li>townname_outlander->Names/OutlanderTown</li>
+    <li>concept_badass->Words/Nouns/Concepts_Badass</li>
+    <li>concept_angsty->Words/Nouns/Concepts_Angsty</li>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
   </NamerSettlementPirate.rulePack.rulesFiles>
 
   <NamerSettlementPirate.rulePack.rulesStrings>
-     <li>r_name->[townname_fixed]</li>
+    <li>r_name->[townname_outlander]</li>
+    <li>r_name->[piratesettlement] [angsty]</li>
+    <li>r_name->[piratesettlement] [world_ending]</li>
+    <li>piratesettlement->Drong</li>
+    <li>piratesettlement->Lucht</li>
+    <li>piratesettlement->Muintir</li>
+    <li>piratesettlement->Complacht</li>
+    <li>piratesettlement->Píoráidí</li>
+    <li>piratesettlement->Craobh</li>
+    <li>piratesettlement->Meitheal</li>
+    <li>piratesettlement->Cumann</li>
+    <li>piratesettlement->Bád</li>
+    <li>piratesettlement->Conradh</li>
   </NamerSettlementPirate.rulePack.rulesStrings>
 
   <!-- EN:

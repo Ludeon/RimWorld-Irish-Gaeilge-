@@ -158,7 +158,7 @@
   <MyWifeDied.stages.my_wife_died.description>Cailleadh mo bhean chéile. Tá mé i m'aonar sa domhan seo.</MyWifeDied.stages.my_wife_died.description>
   
   <!-- EN: my rival {0} died -->
-  <PawnWithBadOpinionDied.stages.my_rival_died.label>cailleadh mo naimhde,{0}</PawnWithBadOpinionDied.stages.my_rival_died.label>
+  <PawnWithBadOpinionDied.stages.my_rival_died.label>cailleadh mo naimhde, {0}</PawnWithBadOpinionDied.stages.my_rival_died.label>
   <!-- EN: Serves them right. At least there's some justice in this world. -->
   <PawnWithBadOpinionDied.stages.my_rival_died.description>Is léir go bhfuil ceartas de shórt éigin sa domhan seo.</PawnWithBadOpinionDied.stages.my_rival_died.description>
   

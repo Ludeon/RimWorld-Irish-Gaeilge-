@@ -81,7 +81,7 @@
   <MessageInsectTameDesignated>Tá an tréith 'bá le feithidí' de dhíth chun {INSECT_indefinite} a cheansú.</MessageInsectTameDesignated>
 
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
-  <MessageInsectsHostileOnTaming>Rabhadh: Tá {PAWN_kindBaseDef} míchairdiúil agus ionsóidh sé do choilíneach.</MessageInsectsHostileOnTaming>
+  <MessageInsectsHostileOnTaming>Rabhadh: Tá {PAWN_kindBaseDef} naimhdeach agus ionsóidh sé do choilíneach.</MessageInsectsHostileOnTaming>
   
   <!-- EN: New recruit -->
   <LetterLabelMessageRecruitSuccess>Nuatheachtaí</LetterLabelMessageRecruitSuccess>
