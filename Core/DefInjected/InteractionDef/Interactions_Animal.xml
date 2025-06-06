@@ -28,28 +28,13 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</li>
-    <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</li>
-    <li>tamed->made calming noises towards</li>
-    <li>tamed->offered slow, friendly gestures to</li>
-    <li>tamed->made shushing noises at</li>
-    <li>tamed->made happy clicking noises at</li>
-    <li>tamed->gestured gently and approached</li>
-    <li>tamed->slowly approached</li>
-    <li>tamed->gently touched</li>
-    <li>tamed->calmed and encouraged</li>
-    <li>tamed->matched breathing with</li>
-    <li>tamed->took a low stance while approaching</li>
-    <li>tamed->showed no fear or anger to</li>
-    <li>tamed->feigned inattention towards</li>
-    <li>tamed->gently hummed a song at</li>
-    <li>tamed->sang an old lullaby at</li>
-    <li>tamed->firmly yet softly touched</li>
-    <li>tamed->showed a relaxed attitude towards</li>
-    <li>tamed->sat patiently near</li>
-    <li>tamed->whispered a story about [TalkTopicAny] to</li>
+    <li>r_logentry(p=5)->Dúirt [INITIATOR_nameDef] [tamed] le [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Shuígh [INITIATOR_nameDef] taobh le [RECIPIENT_nameDef], agus labhair [INITIATOR_pronoun] maidir le [TalkTopicAny].</li>
+    <li>r_logentry->Tháinig [INITIATOR_nameDef] suas chuig [RECIPIENT_nameDef], agus labhair [INITIATOR_pronoun] maidir le [TalkTopicAny].</li>
+    <li>tamed->cúpla rud deas</li>
+    <li>tamed->cúpla focal</li>
+    <li>tamed->cúpla rud dearfach</li>
+    <li>tamed->scéal maidir le [TalkTopicAny]</li>
   </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->

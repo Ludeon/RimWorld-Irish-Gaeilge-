@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: concert -->
-  <Concert.label>concert</Concert.label>
+  <Concert.label>ceolchoirm</Concert.label>
   <!-- EN: The concert has been cancelled. -->
-  <Concert.calledOffMessage>Le concert a été annulé.</Concert.calledOffMessage>
+  <Concert.calledOffMessage>Cuireadh ceolchoirm ar ceal.</Concert.calledOffMessage>
   <!-- EN: The concert has concluded. -->
-  <Concert.finishedMessage>Le concert est terminé.</Concert.finishedMessage>
+  <Concert.finishedMessage>Tá deireadh tagtha leis an gceolchoirm.</Concert.finishedMessage>
   <!-- EN: {ORGANIZER_labelShort} is holding a concert! Everyone who goes will gain recreation and social energy, and a lasting positive mood boost, both from social contact and from the music itself. -->
-  <Concert.letterText>{ORGANIZER_labelShort} organise un concert ! Tous ceux qui s'y rendront satisferont leurs besoins récréatifs et sociaux et y gagneront également une bonne humeur durable, grâce à la musique et aux contacts sociaux.</Concert.letterText>
+  <Concert.letterText>Tá ceolchoirm á héagrú ag {ORGANIZER_labelShort}! Beidh craic agus ceol ann, agus beidh dea-ghiúmar ar gach coilíneach a bheidh i láthair.</Concert.letterText>
   <!-- EN: Concert -->
-  <Concert.letterTitle>Concert</Concert.letterTitle>
+  <Concert.letterTitle>Ceolchoirm</Concert.letterTitle>
   
 </LanguageData>

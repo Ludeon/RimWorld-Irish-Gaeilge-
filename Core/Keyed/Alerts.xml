@@ -155,7 +155,7 @@
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>Tá coilínigh gan obair</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
-  <ColonistsIdleDesc>Tá na coilínigh seo thíos dímhaoin, agus tá siad ag fánaíocht:\n\n{0}\n\nB'fhiú obair a shannadh orthu.</ColonistsIdleDesc>
+  <ColonistsIdleDesc>Tá na coilínigh thíos dímhaoin, agus tá siad ag fánaíocht:\n\n{0}\n\nB'fhiú obair a shannadh orthu.</ColonistsIdleDesc>
   
   <!-- EN: Caravan idle -->
   <CaravanIdle>Tá carbhán dímhaoin</CaravanIdle>

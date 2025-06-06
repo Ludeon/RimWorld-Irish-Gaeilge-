@@ -80,31 +80,31 @@
   </Transition_DiedExplosive.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
-    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [die].</li>
-    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
-    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
-    <li>r_logentry->[SUBJECT_definite] [died].</li>
-    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_label] to [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_label] to [die].</li>
+    <li>r_logentry->[SUBJECT_label] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_label] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_label] [died].</li>
+    <li>r_logentry->[SUBJECT_label] [died] [flavorsuffix].</li>
   -->
   <Transition_DiedInclude.rulePack.rulesStrings>
-    <li>r_logentry(p=1.5)->Mharaigh [CULPRITHEDIFF_labelNoun] [SUBJECT_definite].</li>
-    <li>r_logentry->Maraíodh [SUBJECT_definite] le [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
-    <li>r_logentry->Fuair [SUBJECT_definite] bás mar gheal ar[CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
-    <li>r_logentry->Fuair [SUBJECT_definite] bás.</li>
-    <li>r_logentry->Básaíodh [SUBJECT_definite].</li>
-    <li>r_logentry->[Died] [SUBJECT_definite].</li>
-    <li>r_logentry->[Died] [SUBJECT_definite] [flavorsuffix].</li>
+    <li>r_logentry(p=1.5)->Mharaigh [CULPRITHEDIFF_labelNoun] [SUBJECT_label].</li>
+    <li>r_logentry->Maraíodh [SUBJECT_label] le [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->Fuair [SUBJECT_label] bás mar gheal ar[CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->Fuair [SUBJECT_label] bás.</li>
+    <li>r_logentry->Cailleadh [SUBJECT_label].</li>
+    <li>r_logentry->[Died] [SUBJECT_label].</li>
+    <li>r_logentry->[Died] [SUBJECT_label] [flavorsuffix].</li>
   </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
-    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [collapsemeta].</li>
-    <li>r_logentry->[CULPRITHEDIFF_labelNoun] made [SUBJECT_definite] [collapsemeta].</li>
-    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] made [SUBJECT_definite] [collapsemeta].</li>
-    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
-    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
-    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_label] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_label] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] made [SUBJECT_label] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] made [SUBJECT_label] [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_label] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_label] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_label] [collapsedmeta].</li>
     <li>collapse->collapse</li>
     <li>collapse->drop</li>
     <li>collapse(SUBJECT_flesh!=Mechanoid)->crumple</li>
@@ -128,8 +128,8 @@
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
   <Transition_Downed.rulePack.rulesStrings>
-    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_definite].</li>
-    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_definite] amach.</li>
+    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_label].</li>
+    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_label] amach.</li>
   </Transition_Downed.rulePack.rulesStrings>
   
   <!-- EN:

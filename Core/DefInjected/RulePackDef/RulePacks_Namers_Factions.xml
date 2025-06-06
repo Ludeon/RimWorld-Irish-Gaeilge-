@@ -127,7 +127,7 @@
     <li>r_name->[ConceptBadass] [groupname]</li>
   -->
 
- <NamerFactionPirate.rulePack.rulesFiles>
+  <NamerFactionPirate.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
   </NamerFactionPirate.rulePack.rulesFiles>
 
@@ -167,7 +167,7 @@
     <li>r_name->The [political_union_tribal] of the [TerrainFeature]</li>
   -->
 
- <NamerFactionTribal.rulePack.rulesFiles>
+  <NamerFactionTribal.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
   </NamerFactionTribal.rulePack.rulesFiles>
 

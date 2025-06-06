@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: outlander refugee group -->
-  <OutlanderRefugee.label>groupe de réfugiés étrangers</OutlanderRefugee.label>
+  <OutlanderRefugee.label>teifigh</OutlanderRefugee.label>
   <!-- EN: A group of outlander refugees claiming to have lost their home. -->
-  <OutlanderRefugee.description>Un groupe de réfugiés étrangers affirmant avoir perdu leur foyer.</OutlanderRefugee.description>
+  <OutlanderRefugee.description>Grúpa teifeach, a deir go bhfuil a mbaile caillte.</OutlanderRefugee.description>
   <!-- EN: leader -->
-  <OutlanderRefugee.leaderTitle>meneur</OutlanderRefugee.leaderTitle>
+  <OutlanderRefugee.leaderTitle>ceannaire</OutlanderRefugee.leaderTitle>
   <!-- EN: refugee -->
-  <OutlanderRefugee.pawnSingular>réfugié</OutlanderRefugee.pawnSingular>
+  <OutlanderRefugee.pawnSingular>teifeach</OutlanderRefugee.pawnSingular>
   <!-- EN: refugees -->
-  <OutlanderRefugee.pawnsPlural>réfugiés</OutlanderRefugee.pawnsPlural>
+  <OutlanderRefugee.pawnsPlural>teifigh</OutlanderRefugee.pawnsPlural>
   
 </LanguageData>

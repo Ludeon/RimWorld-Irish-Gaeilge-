@@ -17,7 +17,7 @@
   <!-- EN: dealing with -->
   <BasicWorker.gerundLabel>Obair shimplí</BasicWorker.gerundLabel>
   <!-- EN: basic -->
-  <BasicWorker.labelShort>Simplí</BasicWorker.labelShort>
+  <BasicWorker.labelShort>obair shimplí</BasicWorker.labelShort>
   <!-- EN: Worker -->
   <BasicWorker.pawnLabel>Oibrí</BasicWorker.pawnLabel>
   <!-- EN: Deal with -->
@@ -26,7 +26,7 @@
   <!-- EN: Clear snow, pollution and clean the floor in the home area. -->
   <Cleaning.description>Déanfaidh na daoine seo sneachta agus bruscar a ghlanadh, agus glanfaidh siad an t-urlár sa zón baile.</Cleaning.description>
   <!-- EN: cleaning -->
-  <Cleaning.gerundLabel>Glan</Cleaning.gerundLabel>
+  <Cleaning.gerundLabel>glanadh</Cleaning.gerundLabel>
   <!-- EN: clean -->
   <Cleaning.labelShort>glan</Cleaning.labelShort>
   <!-- EN: Cleaner -->
@@ -37,7 +37,7 @@
   <!-- EN: Build things that you've designated, and fix damaged or broken-down buildings. -->
   <Construction.description>Déanfaidh na daoine seo rudaí agus struchtúir a thógail, agus déanfaidh siad struchtúir a dheisiú.</Construction.description>
   <!-- EN: constructing -->
-  <Construction.gerundLabel>Tógáil</Construction.gerundLabel>
+  <Construction.gerundLabel>tógáil</Construction.gerundLabel>
   <!-- EN: construct -->
   <Construction.labelShort>tóg</Construction.labelShort>
   <!-- EN: Constructor -->
@@ -48,7 +48,7 @@
   <!-- EN: Prepare meals and butcher meat. -->
   <Cooking.description>Réiteoidh na daoine seo béilí agus gearrfaidh siad feoil.</Cooking.description>
   <!-- EN: cooking -->
-  <Cooking.gerundLabel>ag cócaireacht</Cooking.gerundLabel>
+  <Cooking.gerundLabel>cócaireacht</Cooking.gerundLabel>
   <!-- EN: cook -->
   <Cooking.labelShort>cócairigh</Cooking.labelShort>
   <!-- EN: Cook -->
@@ -59,7 +59,7 @@
   <!-- EN: Do general low-skilled labor at work stations. This includes stonecutting, smelting, and more. -->
   <Crafting.description>Déanfaidh na coilínigh seo obair déantúsaíochta ag stáisiúin oibre (gearradh cloch, bruithniú agus mar sin de).</Crafting.description>
   <!-- EN: crafting -->
-  <Crafting.gerundLabel>ag cruthú</Crafting.gerundLabel>
+  <Crafting.gerundLabel>cruthú</Crafting.gerundLabel>
   <!-- EN: craft -->
   <Crafting.labelShort>cruthaigh</Crafting.labelShort>
   <!-- EN: Crafter -->
@@ -70,7 +70,7 @@
   <!-- EN: Treat the sick, bring them food, cheer them up, and perform assigned surgeries. Doctors will care for both colonists and prisoners. -->
   <Doctor.description>Pléifidh na coilínigh seo le daoine a bhfuil tinneas orthu, tabhairfidh siad bia dóibh, agus déanfaidh siad obráidí orthu. Tabhairfidh dochtúirí aire do choilínigh agus do phríosúnaigh araon.</Doctor.description>
   <!-- EN: doctoring -->
-  <Doctor.gerundLabel>Dochtúireacht</Doctor.gerundLabel>
+  <Doctor.gerundLabel>dochtúireacht</Doctor.gerundLabel>
   <!-- EN: doctor -->
   <Doctor.labelShort>Dochtúir</Doctor.labelShort>
   <!-- EN: Doctor -->
@@ -81,7 +81,7 @@
   <!-- EN: Extinguish fires in the colony. -->
   <Firefighter.description>Múchfaidh na daoine seo aon dóiteáin sa choilíneacht.</Firefighter.description>
   <!-- EN: firefighting -->
-  <Firefighter.gerundLabel>Comhrac dóiteáin</Firefighter.gerundLabel>
+  <Firefighter.gerundLabel>comhrac dóiteáin</Firefighter.gerundLabel>
   <!-- EN: firefight -->
   <Firefighter.labelShort>Dóiteáin</Firefighter.labelShort>
   <!-- EN: Firefighter -->
@@ -92,7 +92,7 @@
   <!-- EN: Plant seeds, harvest crops, and forage for wild plants. -->
   <Growing.description>Cuirfidh na daoine seo síolraí, bainfidh siad barraí, agus aimseoidh siad plandaí fiáine.</Growing.description>
   <!-- EN: growing -->
-  <Growing.gerundLabel>Fás</Growing.gerundLabel>
+  <Growing.gerundLabel>fás</Growing.gerundLabel>
   <!-- EN: grow -->
   <Growing.labelShort>fás</Growing.labelShort>
   <!-- EN: Grower -->
@@ -125,7 +125,7 @@
   <!-- EN: Kill animals which are designated to be hunted. -->
   <Hunting.description>Maróidh na coilínigh seo ainmhithe atá marcáilte don tsealgaireacht.</Hunting.description>
   <!-- EN: hunting -->
-  <Hunting.gerundLabel>ag sealgaireacht</Hunting.gerundLabel>
+  <Hunting.gerundLabel>sealgaireacht</Hunting.gerundLabel>
   <!-- EN: hunt -->
   <Hunting.labelShort>Sealg. </Hunting.labelShort>
   <!-- EN: Hunter -->
@@ -147,7 +147,7 @@
   <!-- EN: Go to a medical bed for treatment if you have an immediately life-threatening health condition. -->
   <Patient.description>Rachaidh na daoine seo chuig leaba dochtúra chun cóireáil leighis a fháil má tá siad gortaithe.</Patient.description>
   <!-- EN: patienting -->
-  <Patient.gerundLabel>TODO</Patient.gerundLabel>
+  <Patient.gerundLabel>othar</Patient.gerundLabel>
   <!-- EN: patient -->
   <Patient.labelShort>Othar</Patient.labelShort>
   <!-- EN: Patient -->
@@ -158,7 +158,7 @@
   <!-- EN: Rest in bed to recuperate from not-immediately-life-threatening medical problems. -->
   <PatientBedRest.description>Rachaidh na daoine seo chuig leaba dochtúra chun cóireáil leighis a fháil má tá siad gortaithe.</PatientBedRest.description>
   <!-- EN: resting in bed -->
-  <PatientBedRest.gerundLabel>Sos leaba</PatientBedRest.gerundLabel>
+  <PatientBedRest.gerundLabel>sos leaba</PatientBedRest.gerundLabel>
   <!-- EN: bed rest -->
   <PatientBedRest.labelShort>Sos</PatientBedRest.labelShort>
   <!-- EN: Bed rester -->
@@ -169,20 +169,20 @@
   <!-- EN: Cut or harvest plants as designated. -->
   <PlantCutting.description>Déanfaidh na daoine seo plandaí a ghearradh nó a bhaint, de réir a gcuid orduithe.</PlantCutting.description>
   <!-- EN: plant cutting -->
-  <PlantCutting.gerundLabel>TODO</PlantCutting.gerundLabel>
+  <PlantCutting.gerundLabel>gearradh</PlantCutting.gerundLabel>
   <!-- EN: plant cut -->
   <PlantCutting.labelShort>Gearr</PlantCutting.labelShort>
   <!-- EN: Plant cutter -->
-  <PlantCutting.pawnLabel>TODO</PlantCutting.pawnLabel>
+  <PlantCutting.pawnLabel>Gearrthóir</PlantCutting.pawnLabel>
   <!-- EN: Cut -->
-  <PlantCutting.verb>TODO</PlantCutting.verb>
+  <PlantCutting.verb>Gearr</PlantCutting.verb>
 
   <!-- EN: Perform research work. -->
   <Research.description>Déanfaidh na daoine seo taighde.</Research.description>
   <!-- EN: researching -->
-  <Research.gerundLabel>Taighde</Research.gerundLabel>
+  <Research.gerundLabel>taighde</Research.gerundLabel>
   <!-- EN: research -->
-  <Research.labelShort>Taighde</Research.labelShort>
+  <Research.labelShort>taighde</Research.labelShort>
   <!-- EN: Researcher -->
   <Research.pawnLabel>Taighdeoir</Research.pawnLabel>
   <!-- EN: Research at -->
@@ -191,7 +191,7 @@
   <!-- EN: Create weapons and tools from raw materials, either as a blacksmith or by machining. Also repair mechanoids, if the colonist is a mechanitor. -->
   <Smithing.description>Cruthóidh na daoine seo airm agus uirlisí ó ábhair éagsúla, de láimh nó le meaisíní. Féadfaidh na coilínigh seo meicea-róbait a dheisiú freisin, más Meicnitheoirí iad.</Smithing.description>
   <!-- EN: smithing -->
-  <Smithing.gerundLabel>Ceardaíocht</Smithing.gerundLabel>
+  <Smithing.gerundLabel>ceardaíocht</Smithing.gerundLabel>
   <!-- EN: smith -->
   <Smithing.labelShort>Ceard. </Smithing.labelShort>
   <!-- EN: Smith -->

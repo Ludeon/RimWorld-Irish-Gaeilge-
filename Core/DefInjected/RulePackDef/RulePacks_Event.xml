@@ -2,56 +2,56 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR] used [ABILITY_label] on [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR_label] used [ABILITY_label] on [SUBJECT_label].</li>
   -->
   <Event_AbilityUsed.rulePack.rulesStrings>
-      <li>r_logentry->D'úsáid [INITIATOR] [ABILITY_label] ar [SUBJECT_definite].</li>
+      <li>r_logentry->D'úsáid [INITIATOR_label] [ABILITY_label] ar [SUBJECT_label].</li>
   </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR] used [ITEM_indefinite] on [SUBJECT_definite].</li>
+    <li>r_logentry->[INITIATOR_label] used [ITEM_indefinite] on [SUBJECT_label].</li>
   -->
   <Event_ItemUsed.rulePack.rulesStrings>
-      <li>r_logentry->D'úsáid [INITIATOR] [ITEM_indefinite] ar [SUBJECT_definite].</li>
+      <li>r_logentry->D'úsáid [INITIATOR_label] [ITEM_indefinite] ar [SUBJECT_label].</li>
   </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
-    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR]'s attack.</li>
+    <li>r_logentry->[SUBJECT_label] was [stunned] by the attack.</li>
+    <li>r_logentry->[SUBJECT_label] was [stunned] by [INITIATOR_label]'s attack.</li>
     <li>stunned(p=3)->stunned</li>
     <li>stunned->staggered</li>
     <li>stunned->dazed</li>
     <li>stunned->disoriented</li>
-    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
-    <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
-    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR]'s attack.</li>
+    <li>r_logentry->[SUBJECT_label] [staggered].</li>
+    <li>r_logentry->[SUBJECT_label] [staggered] from the attack.</li>
+    <li>r_logentry->[SUBJECT_label] [staggered] from [INITIATOR_label]'s attack.</li>
     <li>staggered(p=3)->staggered</li>
     <li>staggered->faltered</li>
     <li>staggered->wobbled</li>
     <li>staggered->wavered</li>
-    <li>r_logentry->[SUBJECT_definite] [stumbled] around blearily.</li>
-    <li>r_logentry->[SUBJECT_definite] [stumbled] around in confusion.</li>
+    <li>r_logentry->[SUBJECT_label] [stumbled] around blearily.</li>
+    <li>r_logentry->[SUBJECT_label] [stumbled] around in confusion.</li>
     <li>stumbled(p=3)->stumbled</li>
     <li>stumbled->wavered</li>
     <li>stumbled->wobbled</li>
     <li>stumbled->staggered</li>
   -->
   <Event_Stun.rulePack.rulesStrings>
-    <li>r_logentry->Baineadh [stunned] as [SUBJECT_definite] leis an ionsaí.</li>
-    <li>r_logentry->Bhain ionsaí [INITIATOR] [stunned] as [SUBJECT_definite].</li>
+    <li>r_logentry->Baineadh [stunned] as [SUBJECT_label] leis an ionsaí.</li>
+    <li>r_logentry->Bhain ionsaí [INITIATOR_label] [stunned] as [SUBJECT_label].</li>
     <li>stunned(p=3)->staingeadh</li>
     <li>stunned->stangaire</li>
     <li>stunned->geit</li>
-    <li>r_logentry->Baineadh [staggered] as [SUBJECT_definite].</li>
-    <li>r_logentry->Cuireadh isteach ar [SUBJECT_definite].</li>
-    <li>r_logentry->Chuir an ionsaí isteach ar [SUBJECT_definite].</li>
+    <li>r_logentry->Baineadh [staggered] as [SUBJECT_label].</li>
+    <li>r_logentry->Cuireadh isteach ar [SUBJECT_label].</li>
+    <li>r_logentry->Chuir an ionsaí isteach ar [SUBJECT_label].</li>
     <li>staggered(p=3)->geit</li>
     <li>staggered->staingeadh</li>
     <li>staggered->tuisle</li>
     <li>staggered->stangaire</li>
-    <li>r_logentry->Tháinig mearbhall ar [SUBJECT_definite].</li>
-    <li>r_logentry->Tá [SUBJECT_definite] ag siúil thart go místuama mar gheall ar an ionsaí.</li>
-    <li>r_logentry->Tá [SUBJECT_definite] ag siúil thart go tuisleach mar gheall ar an ionsaí.</li>
+    <li>r_logentry->Tháinig mearbhall ar [SUBJECT_label].</li>
+    <li>r_logentry->Tá [SUBJECT_label] ag siúil thart go místuama mar gheall ar an ionsaí.</li>
+    <li>r_logentry->Tá [SUBJECT_label] ag siúil thart go tuisleach mar gheall ar an ionsaí.</li>
     <li>stumbled(p=3)->stumbled</li>
     <li>stumbled->wavered</li>
     <li>stumbled->wobbled</li>

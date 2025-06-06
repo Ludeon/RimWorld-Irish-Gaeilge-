@@ -60,63 +60,48 @@
     <li>endSyl->gur</li>
   -->
   <NamerWeaponBladelink.rulePack.rulesStrings>
-    <!-- NOTE: "Nom d'armes Bladelink" à vérifier dans le jeu -->
-    <li>r_weapon_name(p=3)->[verber] de [noun]</li>
-    <li>r_weapon_name(p=2)->[beginSyl][middleSyl][endSyl]</li>
-    <li>r_weapon_name(p=1)->[beginSyl][middleSyl][middleSyl][endSyl]</li>
-    <li>r_weapon_name(p=1)->[beginSyl][endSyl]</li>
+    <li>r_weapon_name(p=3)->[verber] [noun]</li>
+    <li>r_weapon_name(p=2)->[beginSyl][endSyl]</li>
     <li>r_weapon_name(p=1)->[NamePerson]</li>
     <li>r_weapon_name(p=1)->[nameAnimal]</li>
     <li>nameAnimal->[NameAnimalUnisex]</li>
     <li>nameAnimal->[NameAnimalMale]</li>
     <li>nameAnimal->[NameAnimalFemale]</li>
-    <li>noun->serment</li>
-    <li>noun->promesse</li>
-    <li>noun->mort</li>
-    <li>noun->douleur</li>
-    <li>noun->sang</li>
-    <li>noun->destin</li>
-    <li>noun->meurtre</li>
-    <li>noun->justice</li>
-    <li>noun->la peur</li>
-    <li>noun->la terreur</li>
-    <li>noun->chaos</li>
-    <li>noun->l'ordre</li>
-    <li>noun->la guerre</li>
-    <li>noun->silence</li>
-    <li>noun->dette</li>
-    <li>verber->gardien</li>
-    <li>verber->porteur</li>
-    <li>verber->expéditeur</li>
-    <li>verber->donneur</li>
-    <li>verber->faiseur</li>
-    <li>verber->broyeur</li>
-    <li>verber->briseur</li>
-    <li>verber->démolisseur</li>
-    <li>verber->coup</li>
-    <li>verber->connaisseur</li>
-    <li>verber->chargé</li>
-    <li>beginSyl->Vi</li>
-    <li>beginSyl->Na</li>
-    <li>beginSyl->Lo</li>
-    <li>beginSyl->Ra</li>
-    <li>beginSyl->To</li>
-    <li>beginSyl->Ger</li>
+    <li>noun->na cinniúna</li>
+    <li>noun->na ngealltanas</li>
+    <li>noun->an bháis</li>
+    <li>noun->an phiain</li>
+    <li>noun->na fola</li>
+    <li>noun->an tsaoil</li>
+    <li>noun->an cheartais</li>
+    <li>noun->na heagla</li>
+    <li>noun->an anoird</li>
+    <li>noun->an oird</li>
+    <li>noun->an chogaidh</li>
+    <li>noun->an chiúnais</li>
+    <li>verber->coimeádaí</li>
+    <li>verber->cosantóir</li>
+    <li>verber->brostóir</li>
+    <li>verber->bristeoir</li>
+    <li>verber->scriostóir</li>
+    <li>beginSyl->Val</li>
+    <li>beginSyl->Nal</li>
+    <li>beginSyl->Lor</li>
+    <li>beginSyl->Ran</li>
+    <li>beginSyl->Tor</li>
+    <li>beginSyl->Gar</li>
     <li>beginSyl->Xan</li>
-    <li>beginSyl->Kel</li>
-    <li>middleSyl->ser</li>
+    <li>beginSyl->Cal</li>
+    <li>middleSyl->sar</li>
     <li>middleSyl->gar</li>
-    <li>middleSyl->lor</li>
-    <li>middleSyl->ven</li>
+    <li>middleSyl->lar</li>
+    <li>middleSyl->van</li>
     <li>middleSyl->zan</li>
-    <li>middleSyl->xal</li>
-    <li>endSyl->ys</li>
-    <li>endSyl->or</li>
-    <li>endSyl->ar</li>
-    <li>endSyl->sum</li>
-    <li>endSyl->dor</li>
-    <li>endSyl->mar</li>
-    <li>endSyl->gur</li>
+    <li>middleSyl->sal</li>
+    <li>endSyl->óir</li>
+    <li>endSyl->cúbhar</li>
+    <li>endSyl->aoise</li>
+    <li>endSyl->tasar</li>
   </NamerWeaponBladelink.rulePack.rulesStrings>
   
 </LanguageData>

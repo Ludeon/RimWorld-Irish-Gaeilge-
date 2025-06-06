@@ -32,9 +32,9 @@
   <DrugLab.description>Is féidir drugaí a chruthú ag an mbinse oibre seo.</DrugLab.description>
   
   <!-- EN: electric crematorium -->
-  <ElectricCrematorium.label>créamatóiriam leictreach</ElectricCrematorium.label>
+  <ElectricCrematorium.label>créamatóiriam</ElectricCrematorium.label>
   <!-- EN: A huge stone crematorium which vaporizes corpses with extremely high temperatures. -->
-  <ElectricCrematorium.description>Créamatóiriam mór leictreach, a scriosann marbháin le teas an-ard.</ElectricCrematorium.description>
+  <ElectricCrematorium.description>Créamatóiriam mór leictreach, a scriosann corpáin le teas an-ard.</ElectricCrematorium.description>
   
   <!-- EN: electric smelter -->
   <ElectricSmelter.label>bruithneoir leictreach</ElectricSmelter.label>

@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: shuttle -->
-  <TravelingShuttle.label>navette</TravelingShuttle.label>
+  <TravelingShuttle.label>tointeálaí</TravelingShuttle.label>
   <!-- EN: A shuttle in flight. -->
-  <TravelingShuttle.description>Une navette en vol.</TravelingShuttle.description>
+  <TravelingShuttle.description>Tointeálaí, atá ag eitilt.</TravelingShuttle.description>
   
 </LanguageData>

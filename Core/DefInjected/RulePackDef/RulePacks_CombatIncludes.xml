@@ -15,16 +15,29 @@
     <li>scraped_past->skipped</li>
     <li>scraped_past->skated</li>
   -->
-  <Combat_DeflectIncludes.rulePack.rulesStrings>TODO</Combat_DeflectIncludes.rulePack.rulesStrings>
+  <Combat_DeflectIncludes.rulePack.rulesStrings>
+    <li>scraped_present->glancing</li>
+    <li>scraped_present->bouncing</li>
+    <li>scraped_present->grazing</li>
+    <li>scraped_present->caroming</li>
+    <li>scraped_present->skipping</li>
+    <li>scraped_present->skating</li>
+    <li>scraped_past->glanced</li>
+    <li>scraped_past->bounced</li>
+    <li>scraped_past->grazed</li>
+    <li>scraped_past->caromed</li>
+    <li>scraped_past->skipped</li>
+    <li>scraped_past->skated</li>
+  </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>action->[INITIATOR] [tried] to [damaged_inf] [INITIATOR]</li>
-    <li>action->[INITIATOR] [tried] to [damaged_inf] [INITIATOR] with [implement]</li>
-    <li>action->[INITIATOR] [tried] to use [implement] to [damaged_inf] [INITIATOR]</li>
-    <li>action->[INITIATOR] swung [INITIATOR_possessive] [WEAPON_label] at [INITIATOR]</li>
-    <li>action(p=0.3)->[INITIATOR] [verb_genericattack] [towardsat] [INITIATOR] with [implement]</li>
-    <li>action(p=0.3)->[INITIATOR] [verb_genericattack] [towardsat] [INITIATOR]</li>
-    <li>action(p=0.3)->[INITIATOR] [verb_genericattack] with [implement]</li>
+    <li>action->[INITIATOR_label] [tried] to [damaged_inf] [INITIATOR_label]</li>
+    <li>action->[INITIATOR_label] [tried] to [damaged_inf] [INITIATOR_label] with [implement]</li>
+    <li>action->[INITIATOR_label] [tried] to use [implement] to [damaged_inf] [INITIATOR_label]</li>
+    <li>action->[INITIATOR_label] swung [INITIATOR_possessive] [WEAPON_label] at [INITIATOR_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] [towardsat] [INITIATOR_label] with [implement]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] [towardsat] [INITIATOR_label]</li>
+    <li>action(p=0.3)->[INITIATOR_label] [verb_genericattack] with [implement]</li>
     <li>towardsat->towards</li>
     <li>towardsat->at</li>
     <li>verb_genericattack->swung</li>
@@ -34,9 +47,9 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>
-    <li>action->Rinne [INITIATOR] iarracht [INITIATOR] [damaged_inf]</li>
-    <li>action->Rinne [INITIATOR] iarracht [INITIATOR] [damaged_inf]</li>
-    <li>action->Rinne [INITIATOR] iarracht [implement] a úsáid chun [INITIATOR] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_label] iarracht [INITIATOR_label] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_label] iarracht [INITIATOR_label] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_label] iarracht [implement] a úsáid chun [INITIATOR_label] [damaged_inf]</li>
   </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
