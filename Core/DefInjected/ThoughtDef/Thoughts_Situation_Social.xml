@@ -64,26 +64,26 @@
   <Man.stages.man.label>fear</Man.stages.man.label>
   
   <!-- EN: not {0}'s master -->
-  <NotBondedAnimalMaster.stages.not_s_master.label>TODO</NotBondedAnimalMaster.stages.not_s_master.label>
+  <NotBondedAnimalMaster.stages.not_s_master.label>níl mé i mo mháistir ar {0}</NotBondedAnimalMaster.stages.not_s_master.label>
   <!-- EN: I should be together with my bonded animal. -->
-  <NotBondedAnimalMaster.stages.not_s_master.description>TODO</NotBondedAnimalMaster.stages.not_s_master.description>
+  <NotBondedAnimalMaster.stages.not_s_master.description>Ba cheart go mbeidh mé le m'ainmhí.</NotBondedAnimalMaster.stages.not_s_master.description>
   <!-- EN: not master of {0} -->
-  <NotBondedAnimalMaster.stages.not_master_of.label>TODO</NotBondedAnimalMaster.stages.not_master_of.label>
+  <NotBondedAnimalMaster.stages.not_master_of.label>níl mé i mo mháistir ar {0}</NotBondedAnimalMaster.stages.not_master_of.label>
   <!-- EN: I should be together with my bonded animals. -->
-  <NotBondedAnimalMaster.stages.not_master_of.description>TODO</NotBondedAnimalMaster.stages.not_master_of.description>
+  <NotBondedAnimalMaster.stages.not_master_of.description>Ba cheart go mbeidh mé le mo chuid ainmhithe.</NotBondedAnimalMaster.stages.not_master_of.description>
   
   <!-- EN: opinion of my {0} {1} -->
-  <OpinionOfMyLover.stages.opinion_of_my.label>TODO</OpinionOfMyLover.stages.opinion_of_my.label>
+  <OpinionOfMyLover.stages.opinion_of_my.label>mo thuairim faoi {1} ({0})</OpinionOfMyLover.stages.opinion_of_my.label>
   <!-- EN: Being with them makes me feel this way. -->
-  <OpinionOfMyLover.stages.opinion_of_my.description>TODO</OpinionOfMyLover.stages.opinion_of_my.description>
+  <OpinionOfMyLover.stages.opinion_of_my.description>Mothaim mar seo nuair a bhím leo.</OpinionOfMyLover.stages.opinion_of_my.description>
   
   <!-- EN: physically appealing -->
-  <Pretty.stages.physically_appealing.label>TODO</Pretty.stages.physically_appealing.label>
+  <Pretty.stages.physically_appealing.label>dathúil</Pretty.stages.physically_appealing.label>
   <!-- EN: physically stunning -->
-  <Pretty.stages.physically_stunning.label>TODO</Pretty.stages.physically_stunning.label>
+  <Pretty.stages.physically_stunning.label>an-dathúil</Pretty.stages.physically_stunning.label>
   
   <!-- EN: sold prisoner to slavery -->
-  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>TODO</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
+  <SoldPrisoner.stages.sold_prisoner_to_slavery.label>díoladh príosúnach isteach sa sclábhaíocht</SoldPrisoner.stages.sold_prisoner_to_slavery.label>
   
   <!-- EN: teetotaler vs addict -->
   <TeetotalerVsAddict.stages.teetotaler_vs_addict.label>TODO</TeetotalerVsAddict.stages.teetotaler_vs_addict.label>
@@ -103,16 +103,16 @@
   <TranshumanistAppreciation.stages.body_modder_appreciation-4.label>TODO</TranshumanistAppreciation.stages.body_modder_appreciation-4.label>
   
   <!-- EN: physically unsightly -->
-  <Ugly.stages.physically_unsightly.label>TODO</Ugly.stages.physically_unsightly.label>
+  <Ugly.stages.physically_unsightly.label>gránna</Ugly.stages.physically_unsightly.label>
   <!-- EN: physically hideous -->
-  <Ugly.stages.physically_hideous.label>TODO</Ugly.stages.physically_hideous.label>
+  <Ugly.stages.physically_hideous.label>thar a bheith gránna</Ugly.stages.physically_hideous.label>
   
   <!-- EN: sleeping alone -->
-  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>ag codladh i m'aonar</WantToSleepWithSpouseOrLover.stages.sleeping_alone.label>
   <!-- EN: I should be sleeping with a lover or spouse. -->
-  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>TODO</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
+  <WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>Ba cheart go mbeidh mé ag roinnt leapa le mo pháirtí...</WantToSleepWithSpouseOrLover.stages.sleeping_alone.description>
   
   <!-- EN: woman -->
-  <Woman.stages.woman.label>TODO</Woman.stages.woman.label>
+  <Woman.stages.woman.label>bean</Woman.stages.woman.label>
   
 </LanguageData>

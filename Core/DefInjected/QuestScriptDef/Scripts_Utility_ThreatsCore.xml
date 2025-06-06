@@ -13,7 +13,7 @@
     <li>threatDescription->[enemyFaction_pawnsPlural] from [enemyFaction_name] will attack you. Their group is composed of:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
   -->
   <Util_Raid.questDescriptionRules.rulesStrings>
-      <li>threatDescription->Ionsóidh [enemyFaction_pawnsPlural] ón bhfaicsean [enemyFaction_name]. Tá a ngrúpa déanta suas de na daoine seo a leanas:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
+      <li>threatDescription->Ionsóidh [enemyFaction_pawnsPlural] ón bhfaicsean [enemyFaction_name]. Tá an grúpa déanta suas de:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
   </Util_Raid.questDescriptionRules.rulesStrings>
   
   <!-- EN:
@@ -26,6 +26,15 @@
     <li>numGroupsOf(raidCount==3)->three groups of</li>
     <li>numGroupsOf(raidCount>=4)->[raidCount] groups of</li>
   -->
-  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>TODO</Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+  <Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+    <li>pawnKindsParagraph(raidCount==1)->Tá an grúpa [enemyFaction_pawnsPlural] déanta suas de: \n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
+    <li>pawnKindsParagraph(raidCount==2)->Tá an chéad ghrúpa [enemyFaction_pawnsPlural] déanta suas de: \n\n[raid0/raidPawnKinds]\n\nTiocfaidh an dara grúpa níos déanaí.</li>
+    <li>pawnKindsParagraph(raidCount==3)->Tá an chéad ghrúpa [enemyFaction_pawnsPlural] déanta suas de: \n\n[raid0/raidPawnKinds]\n\nTiocfaidh an dara grúpa agus an tríú grúpa níos déanaí.</li>
+    <li>pawnKindsParagraph(raidCount>=4)->Tá an chéad ghrúpa [enemyFaction_pawnsPlural] déanta suas de: \n\n[raid0/raidPawnKinds]\n\nTiocfaidh grúpaí eile níos déanaí.</li>
+    <li>numGroupsOf(raidCount==1)-></li>
+    <li>numGroupsOf(raidCount==2)->2 ghrúpa</li>
+    <li>numGroupsOf(raidCount==3)->3 ghrúpa</li>
+    <li>numGroupsOf(raidCount>=4)->[raidCount] ghrúpa</li>
+  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
   
 </LanguageData>

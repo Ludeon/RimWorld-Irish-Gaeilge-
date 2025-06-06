@@ -51,7 +51,7 @@
   <!-- EN: Low food -->
   <LowFood>Tá níos mó bia de dhíth</LowFood>
   <!-- EN: You are dangerously low on food.\n\n    Full bars worth of food in storage: {0}\n    Colonists and prisoners getting food: {1}\n    Days worth of food in storage: {2}\n\nGrow, buy, find, or kill some food. -->
-  <LowFoodDesc>Tá líon bia an-íseal agat!\n\nLíon iomlán an bhia atá stóráilte agat: {0}    Coilínigh agus priosúnaigh atá ag fáil bia: {1}\nLaethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a fhás, a aismiú nó a mharú.</LowFoodDesc>
+  <LowFoodDesc>Tá níos mó bia de dhíth ort!\n\nLíon iomlán an bhia atá stóráilte agat: {0}    Líon na gcoilíneach agus príosúnach: {1}\nLaethanta a mhairfidh do bhia stóráilte: {2}\n\nNí mór tuilleadh bia a aimsiú.</LowFoodDesc>
 
   <!-- EN: Low medicine -->
   <LowMedicine>Tá cógas de dhíth</LowMedicine>

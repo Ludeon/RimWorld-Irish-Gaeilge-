@@ -4,128 +4,128 @@
   <!-- EN: [PAWN_nameDef] was a quick witted, funny child. One day, [PAWN_pronoun] wandered off on [PAWN_possessive] wealthy parents, and was ultimately lost in a supposedly unused ore warehouse. Due to cloning technology, [PAWN_possessive] parents decided that the time looking for [PAWN_objective] was better spent on just cloning a better son. -->
   <AbandonedChild30.description>TODO</AbandonedChild30.description>
   <!-- EN: abandoned child -->
-  <AbandonedChild30.title>TODO</AbandonedChild30.title>
+  <AbandonedChild30.title>leanbh tréigthe</AbandonedChild30.title>
   <!-- EN: abandoned -->
-  <AbandonedChild30.titleShort>TODO</AbandonedChild30.titleShort>
+  <AbandonedChild30.titleShort>tréigthe</AbandonedChild30.titleShort>
   
   <!-- EN: Abandoned at birth, young [PAWN_nameDef] started [PAWN_possessive] life in an orphanage.\n\nA rascal and a scoundrel, [PAWN_pronoun] became a clever troublemaker. -->
   <AbandonedOrphan61.description>TODO</AbandonedOrphan61.description>
   <!-- EN: abandoned orphan -->
-  <AbandonedOrphan61.title>TODO</AbandonedOrphan61.title>
+  <AbandonedOrphan61.title>dílleachta</AbandonedOrphan61.title>
   <!-- EN: orphan -->
-  <AbandonedOrphan61.titleShort>TODO</AbandonedOrphan61.titleShort>
+  <AbandonedOrphan61.titleShort>dílleachta</AbandonedOrphan61.titleShort>
   
   <!-- EN: [PAWN_nameDef] was abducted at a young age and forced to do menial labor on a pirate ship. -->
   <Abductee43.description>TODO</Abductee43.description>
   <!-- EN: abductee -->
-  <Abductee43.title>TODO</Abductee43.title>
+  <Abductee43.title>fuadaithe</Abductee43.title>
   <!-- EN: abductee -->
-  <Abductee43.titleShort>TODO</Abductee43.titleShort>
+  <Abductee43.titleShort>fuadaithe</Abductee43.titleShort>
   
   <!-- EN: [PAWN_nameDef] was abducted by xenohumans when [PAWN_pronoun] was still a baby. They experimented on [PAWN_objective] to understand [PAWN_possessive] genetic structure.\n\nAs [PAWN_pronoun] grew up, [PAWN_nameDef] grew a little bit too big and strong for [PAWN_possessive] captors and escaped. -->
   <Abductee7.description>TODO</Abductee7.description>
   <!-- EN: abductee -->
-  <Abductee7.title>TODO</Abductee7.title>
+  <Abductee7.title>fuadaithe </Abductee7.title>
   <!-- EN: abductee -->
-  <Abductee7.titleShort>TODO</Abductee7.titleShort>
+  <Abductee7.titleShort>fuadaithe</Abductee7.titleShort>
   
   <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. [PAWN_pronoun] was very tall and was known for [PAWN_possessive] good looks.\n\nThough [PAWN_pronoun] worried more about [PAWN_possessive] hairstyle than [PAWN_possessive] grades, [PAWN_pronoun] still somehow passed the final exams. -->
   <AcademyStudent58.description>TODO</AcademyStudent58.description>
   <!-- EN: academy student -->
-  <AcademyStudent58.title>TODO</AcademyStudent58.title>
+  <AcademyStudent58.title>scoláire</AcademyStudent58.title>
   <!-- EN: student -->
-  <AcademyStudent58.titleShort>TODO</AcademyStudent58.titleShort>
+  <AcademyStudent58.titleShort>scoláire</AcademyStudent58.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness and brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
   <AccursedChild88.description>TODO</AccursedChild88.description>
   <!-- EN: accursed child -->
-  <AccursedChild88.title>TODO</AccursedChild88.title>
+  <AccursedChild88.title>leanbh mallaithe</AccursedChild88.title>
   <!-- EN: cursed -->
-  <AccursedChild88.titleShort>TODO</AccursedChild88.titleShort>
+  <AccursedChild88.titleShort>mallaithe</AccursedChild88.titleShort>
   
   <!-- EN: [PAWN_nameDef] was raised to become an engineer. For years, [PAWN_pronoun] planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after [PAWN_possessive] parents fell asleep, [PAWN_pronoun] managed to sneak on board a cargo ship just before it left port. -->
   <AdventuringChild30.description>TODO</AdventuringChild30.description>
   <!-- EN: adventuring child -->
-  <AdventuringChild30.title>TODO</AdventuringChild30.title>
+  <AdventuringChild30.title>taiscéalaí óg</AdventuringChild30.title>
   <!-- EN: adventurer -->
-  <AdventuringChild30.titleShort>TODO</AdventuringChild30.titleShort>
+  <AdventuringChild30.titleShort>taiscéalaí</AdventuringChild30.titleShort>
   
   <!-- EN: [PAWN_nameDef] explored all around [PAWN_possessive] family's large estate, uncovering little natural wonders hidden in nearby catacombs, rivers, and caves.\n\nDuring [PAWN_possessive] teenage years, [PAWN_nameDef] made numerous enemies -->
   <AdventurousYouth70.description>TODO</AdventurousYouth70.description>
   <!-- EN: adventurous youth -->
-  <AdventurousYouth70.title>TODO</AdventurousYouth70.title>
+  <AdventurousYouth70.title>taiscéalaí óg</AdventurousYouth70.title>
   <!-- EN: adventurer -->
-  <AdventurousYouth70.titleShort>TODO</AdventurousYouth70.titleShort>
+  <AdventurousYouth70.titleShort>taiscéalaí</AdventurousYouth70.titleShort>
   
   <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through [PAWN_possessive] telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
   <AmateurAstronomer77.description>TODO</AmateurAstronomer77.description>
   <!-- EN: amateur astronomer -->
-  <AmateurAstronomer77.title>TODO</AmateurAstronomer77.title>
+  <AmateurAstronomer77.title>réalteolaí óg</AmateurAstronomer77.title>
   <!-- EN: astronomer -->
-  <AmateurAstronomer77.titleShort>TODO</AmateurAstronomer77.titleShort>
+  <AmateurAstronomer77.titleShort>réalteolaí</AmateurAstronomer77.titleShort>
   
   <!-- EN: Spending many summers crawling through dirt, [PAWN_nameDef] found [PAWN_pronoun] had quite the green thumb. Instead of learning to cook the food [PAWN_pronoun] grew, [PAWN_pronoun] just grew more and more. -->
   <AmateurBotanist79.description>TODO</AmateurBotanist79.description>
   <!-- EN: amateur botanist -->
-  <AmateurBotanist79.title>TODO</AmateurBotanist79.title>
+  <AmateurBotanist79.title>luibheolaí óg</AmateurBotanist79.title>
   <!-- EN: botanist -->
-  <AmateurBotanist79.titleShort>TODO</AmateurBotanist79.titleShort>
+  <AmateurBotanist79.titleShort>luibheolaí</AmateurBotanist79.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a family with a military and engineering background. [PAWN_pronoun] wanted to join the army but [PAWN_possessive] father didn't like the idea, so [PAWN_possessive] interest turned to great flying machines and works of engineering. [PAWN_pronoun] secretly hoped that this would one day lead [PAWN_objective] to a life of galactic exploration. -->
   <AmateurEngineer3.description>TODO</AmateurEngineer3.description>
   <!-- EN: amateur engineer -->
-  <AmateurEngineer3.title>TODO</AmateurEngineer3.title>
+  <AmateurEngineer3.title>innealtóir óg</AmateurEngineer3.title>
   <!-- EN: engineer -->
-  <AmateurEngineer3.titleShort>TODO</AmateurEngineer3.titleShort>
+  <AmateurEngineer3.titleShort>innealtóir</AmateurEngineer3.titleShort>
   
   <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for [PAWN_possessive] hometown's local council.\n\nFor reasons [PAWN_pronoun] never quite understood, [PAWN_pronoun] was bullied relentlessly by [PAWN_possessive] classmates. [PAWN_pronoun] chose to repress [PAWN_possessive] rage. -->
   <AngryStudent88.description>TODO</AngryStudent88.description>
   <!-- EN: angry student -->
-  <AngryStudent88.title>TODO</AngryStudent88.title>
+  <AngryStudent88.title>scoláire crosta</AngryStudent88.title>
   <!-- EN: student -->
-  <AngryStudent88.titleShort>TODO</AngryStudent88.titleShort>
+  <AngryStudent88.titleShort>scoláire</AngryStudent88.titleShort>
   
   <!-- EN: Born on a medieval farm, [PAWN_nameDef] was tasked with caring for domestic animals. [PAWN_pronoun] grew to love them.\n\nWith time, [PAWN_pronoun] learned to tame wild animals. [PAWN_pronoun] dreamed of one day meeting a thrumbo and taming it. -->
   <AnimalCaretaker20.description>TODO</AnimalCaretaker20.description>
   <!-- EN: animal caretaker -->
-  <AnimalCaretaker20.title>TODO</AnimalCaretaker20.title>
+  <AnimalCaretaker20.title>feighlí ainmhithe</AnimalCaretaker20.title>
   <!-- EN: caretaker -->
-  <AnimalCaretaker20.titleShort>TODO</AnimalCaretaker20.titleShort>
+  <AnimalCaretaker20.titleShort>feighlí</AnimalCaretaker20.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked as a technician in a lab studying animals.\n\n[PAWN_pronoun] spent [PAWN_possessive] days taking care of the animals and cleaning up after them. [PAWN_pronoun] dreamed of having [PAWN_possessive] own lab one day. -->
   <AnimalLabTech39.description>TODO</AnimalLabTech39.description>
   <!-- EN: animal lab tech -->
-  <AnimalLabTech39.title>TODO</AnimalLabTech39.title>
+  <AnimalLabTech39.title>teicneoir saotharlainne</AnimalLabTech39.title>
   <!-- EN: lab tech -->
-  <AnimalLabTech39.titleShort>TODO</AnimalLabTech39.titleShort>
+  <AnimalLabTech39.titleShort>teicneoir</AnimalLabTech39.titleShort>
   
   <!-- EN: [PAWN_nameDef] lacked typical social skills, and avoided social interaction.\n\n[PAWN_pronoun] gained satisfaction only from steady work. [PAWN_pronoun] especially disliked speaking with overly creative or outgoing individuals. -->
   <AntisocialChild83.description>TODO</AntisocialChild83.description>
   <!-- EN: antisocial child -->
-  <AntisocialChild83.title>TODO</AntisocialChild83.title>
+  <AntisocialChild83.title>leanbh frithshóisialta</AntisocialChild83.title>
   <!-- EN: antisocial -->
-  <AntisocialChild83.titleShort>TODO</AntisocialChild83.titleShort>
+  <AntisocialChild83.titleShort>frithshóisialta</AntisocialChild83.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent [PAWN_possessive] childhood on a post-apocalyptic world. [PAWN_pronoun] fought for survival from a young age, on a planet where trust did not exist.\n\n[PAWN_pronoun] told everyone that [PAWN_pronoun] had no luck. -->
   <ApocalypseChild23.description>TODO</ApocalypseChild23.description>
   <!-- EN: apocalypse child -->
-  <ApocalypseChild23.title>TODO</ApocalypseChild23.title>
+  <ApocalypseChild23.title>leanbh apacailipsis</ApocalypseChild23.title>
   <!-- EN: apocalypse -->
-  <ApocalypseChild23.titleShort>TODO</ApocalypseChild23.titleShort>
+  <ApocalypseChild23.titleShort>apacailipsis</ApocalypseChild23.titleShort>
   
   <!-- EN: [PAWN_nameDef] was chosen at an early age by the village elders to keep the sacred rituals of the Oracle.\n\nAn irrepressibly curious child, [PAWN_nameDef] caused a religious crisis for [PAWN_possessive] tribe when [PAWN_pronoun] accidentally flipped a switch to open the "tombs" of the Gods - cryptosleep caskets inhabited by some very confused ancestors. -->
   <ApprenticeOracle83.description>TODO</ApprenticeOracle83.description>
   <!-- EN: apprentice oracle -->
-  <ApprenticeOracle83.title>TODO</ApprenticeOracle83.title>
+  <ApprenticeOracle83.title>oracal óg</ApprenticeOracle83.title>
   <!-- EN: oracle -->
-  <ApprenticeOracle83.titleShort>TODO</ApprenticeOracle83.titleShort>
+  <ApprenticeOracle83.titleShort>oracal</ApprenticeOracle83.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up helping in [PAWN_possessive] father's smithy.\n\nThey were some of the last smiths on the planet that to use traditional smithing methods. They even collect some materials themselves.\n\nSometimes, after work, [PAWN_nameDef] would practice using the swords [PAWN_pronoun] forged. -->
   <ApprenticeSmith37.description>TODO</ApprenticeSmith37.description>
   <!-- EN: apprentice smith -->
-  <ApprenticeSmith37.title>TODO</ApprenticeSmith37.title>
+  <ApprenticeSmith37.title>gaibhneoir óg</ApprenticeSmith37.title>
   <!-- EN: apprentice -->
-  <ApprenticeSmith37.titleShort>TODO</ApprenticeSmith37.titleShort>
+  <ApprenticeSmith37.titleShort>gaibhneoir</ApprenticeSmith37.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up on one of the urbworlds and had to fend for [PAWN_objective]self all [PAWN_possessive] life. [PAWN_pronoun] never trusted anyone, relying on [PAWN_possessive] persuasiveness and cunning to survive.\n\n[PAWN_pronoun] soon became skilled with firearms and knives as well as words. -->
   <ArtfulDodger78.description>TODO</ArtfulDodger78.description>

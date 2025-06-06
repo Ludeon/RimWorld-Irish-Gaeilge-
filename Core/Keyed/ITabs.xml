@@ -43,7 +43,7 @@
   <!-- EN: Food -->
   <TabPenFood>Bia</TabPenFood>
   <!-- EN: Auto-cut -->
-  <TabPenAutoCut>Gearr go huath.</TabPenAutoCut>
+  <TabPenAutoCut>Plandaí</TabPenAutoCut>
   <!-- EN: Caravan -->
   <TabFormingCaravan>Carbhán</TabFormingCaravan>
   <!-- EN: Contents -->
@@ -57,7 +57,7 @@
   <!-- EN: Study -->
   <TabStudyNotesContents>Staidéar</TabStudyNotesContents>
   <!-- EN: Auto-cut -->
-  <TabWindTurbineAutoCut>Gearr go huath.</TabWindTurbineAutoCut>
+  <TabWindTurbineAutoCut>Plandaí</TabWindTurbineAutoCut>
   
   <!-- Bills tab  -->
   <!-- EN: Add bill -->
@@ -311,131 +311,131 @@
   
   <!-- Log tab -->
   <!-- EN: Show all -->
-  <ShowAll>Zeige alles</ShowAll>
+  <ShowAll>Taispeáin cách</ShowAll>
   <!-- EN: Show combat -->
-  <ShowCombat>Zeige Kämpfe</ShowCombat>
+  <ShowCombat>Taispeáin Comhrac</ShowCombat>
   <!-- EN: Show social -->
-  <ShowSocial>Zeige Sozial</ShowSocial>
+  <ShowSocial>Taispeáin Sóisialta</ShowSocial>
   <!-- EN: no recent entries -->
-  <NoRecentEntries>Keine Einträge in letzter Zeit</NoRecentEntries>
+  <NoRecentEntries>Níl aon iontrálacha ann</NoRecentEntries>
   <!-- EN: Copy log to the clipboard. -->
-  <CopyLogTip>Kopiere das Logbuch in die Zwischenablage.</CopyLogTip>
+  <CopyLogTip>Cóipeáil an loga chuig an gearrthaisce.</CopyLogTip>
 
   <!-- Forming caravan tab -->
   <!-- EN: Gathering animals -->
-  <FormingCaravanStatus_GatheringAnimals>Sammelt Tiere ein</FormingCaravanStatus_GatheringAnimals>
+  <FormingCaravanStatus_GatheringAnimals>Tá na hainmhithe á mbailiú</FormingCaravanStatus_GatheringAnimals>
   <!-- EN: Gathering animals (waiting) -->
-  <FormingCaravanStatus_GatheringAnimals_Pause>Sammelt Tiere ein (wartet)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <FormingCaravanStatus_GatheringAnimals_Pause>Tá na hainmhithe á mbailiú (ag fanacht)</FormingCaravanStatus_GatheringAnimals_Pause>
   <!-- EN: Gathering items -->
-  <FormingCaravanStatus_GatheringItems>Sammelt Waren ein</FormingCaravanStatus_GatheringItems>
+  <FormingCaravanStatus_GatheringItems>Tá na hearraí á mbailiú (ag fanacht)</FormingCaravanStatus_GatheringItems>
   <!-- EN: Gathering items (waiting) -->
-  <FormingCaravanStatus_GatheringItems_Pause>Sammelt Waren ein (wartet)</FormingCaravanStatus_GatheringItems_Pause>
+  <FormingCaravanStatus_GatheringItems_Pause>Tá na hearraí á mbailiú (ag fanacht)</FormingCaravanStatus_GatheringItems_Pause>
   <!-- EN: Gathering downed people -->
-  <FormingCaravanStatus_GatheringDownedPawns>Sammelt am Boden liegende Leute ein</FormingCaravanStatus_GatheringDownedPawns>
+  <FormingCaravanStatus_GatheringDownedPawns>Tá daoine á mbailiú</FormingCaravanStatus_GatheringDownedPawns>
   <!-- EN: Gathering downed people (waiting) -->
-  <FormingCaravanStatus_GatheringDownedPawns_Pause>Sammelt am Boden liegende Leute ein (wartet)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Tá daoine á mbailiú (ag fanacht)</FormingCaravanStatus_GatheringDownedPawns_Pause>
   <!-- EN: Leaving -->
-  <FormingCaravanStatus_Leaving>Reist ab</FormingCaravanStatus_Leaving>
+  <FormingCaravanStatus_Leaving>Ag imeacht</FormingCaravanStatus_Leaving>
   <!-- EN: Leaving (waiting) -->
-  <FormingCaravanStatus_Leaving_Pause>Reist ab (wartet)</FormingCaravanStatus_Leaving_Pause>
+  <FormingCaravanStatus_Leaving_Pause>Ag imeacht (ag fanacht)</FormingCaravanStatus_Leaving_Pause>
   <!-- EN: Waiting -->
-  <FormingCaravanStatus_Waiting>Wartet</FormingCaravanStatus_Waiting>
+  <FormingCaravanStatus_Waiting>Ag fanacht</FormingCaravanStatus_Waiting>
   <!-- EN: Members -->
-  <CaravanMembers>Mitglieder</CaravanMembers>
+  <CaravanMembers>Daoine</CaravanMembers>
   <!-- EN: Animals -->
-  <CaravanAnimals>Tiere</CaravanAnimals>
+  <CaravanAnimals>Ainmhithe</CaravanAnimals>
   <!-- EN: To load -->
-  <ItemsToLoad>Zu Laden</ItemsToLoad>
+  <ItemsToLoad>Le lódáil</ItemsToLoad>
   <!-- EN: Loaded -->
-  <LoadedItems>Geladen</LoadedItems>
+  <LoadedItems>Lódáilte</LoadedItems>
   <!-- EN: pack animals -->
-  <PackAnimalsCountLower>Lasttiere</PackAnimalsCountLower>
+  <PackAnimalsCountLower>ainmhithe paca</PackAnimalsCountLower>
   <!-- EN: mentally broken -->
-  <InMentalStateCountLower>Mentaler Zusammenbruch</InMentalStateCountLower>
+  <InMentalStateCountLower>cliseadh néarógach</InMentalStateCountLower>
 
   <!-- Transporter contents -->
   <!-- EN: Remove {{0}}x {0} -->
-  <RemoveSliderText>Entferne {{0}}x {0}</RemoveSliderText>
+  <RemoveSliderText>Bain {{0}}x {0}</RemoveSliderText>
   <!-- EN: Contained items -->
-  <ContainedItems>Enthält</ContainedItems>
+  <ContainedItems>Istigh</ContainedItems>
   <!-- EN: Do you really want to remove {0}? -->
-  <ConfirmRemoveItemDialog>Willst du '{0}' wirklich entfernen?</ConfirmRemoveItemDialog>
+  <ConfirmRemoveItemDialog>An bhfuil tú ag iarraidh '{0}' a bhaint?</ConfirmRemoveItemDialog>
   
   <!-- Quests tab -->
   <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
-  <DismissQuest>Verwirf diese Quest und verschiebe sie in den Historisch-Tab.\n\nDie Quest kann jederzeit wieder aufgenommen werden. Ihre Auswirkungen und Ablaufzeiten verlaufen normal. Du wirst keine Benachrichtigungen über verworfene Quests erhalten.</DismissQuest>
+  <DismissQuest>Diúltaigh don misean seo, agus cuir é leis an liosta 'Seanmisean'.\n\nFéadfaidh tú an misean a aimsiú arís ón táb sin ag am ar bith. Léanfaidh spriocdhátaí an mhisin ar aghaidh mar is gnáth, áfach. Ní gheobhaidh tú aon fhógraí maidir le misin a diúltaigh tú dóibh.</DismissQuest>
   <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
-  <UnDismissQuest>Nimm diese Quest wieder auf.\n\nDie Quest wird zurück in den Verfügbar- oder Aktiv-Tab verschoben, und die Benachrichtigungen werden wieder aktiviert.</UnDismissQuest>
+  <UnDismissQuest>Cuir an misean seo leis an liosta arís.\n\nCuirfear an misean seo le liosta na misean gníomhach arís, agus cuirfear fógraí ar siúl.</UnDismissQuest>
   <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
-  <QuestDismissed>Diese Quest ist hier, weil sie verworfen wurde.\n\nDu kannst sie bis zum Ablauf der Frist wieder aufnehmen.</QuestDismissed>
+  <QuestDismissed>Diúltaíodh don mhisean seo.\n\nFéadfaidh tú an misean seo a chur leis an liosta gníomhach arís sula rachaidh sé in éag.</QuestDismissed>
   <!-- EN: Delete this quest and remove it from the quest list forever. -->
-  <DeleteQuest>Lösche diese Quest und entferne sie unwiderruflich aus der Quest-Liste.</DeleteQuest>
+  <DeleteQuest>Scrios an misean seo. Bainfear an misean ón liosta go deo.</DeleteQuest>
 
   <!-- Animal pen food tab -->
   <!-- EN: enclose the pen marker to calculate food information -->
-  <PenFoodTab_NotEnclosed>umzäune die Gehegemarkierung für Informationen zum Futter</PenFoodTab_NotEnclosed>
+  <PenFoodTab_NotEnclosed>ní mór go mbeidh an marcóir pionna timpeallaithe chun eolas maidir le bia a ríomh</PenFoodTab_NotEnclosed>
 
   <!-- EN: Nutrition stockpiled -->
-  <PenFoodTab_StockpileTotal>Nährwert auf Lager</PenFoodTab_StockpileTotal>
+  <PenFoodTab_StockpileTotal>bia atá ar fáil</PenFoodTab_StockpileTotal>
   <!-- EN: The total nutrition of stockpiled food in the pen. -->
-  <PenFoodTab_StockpileTotalDescription>Der Gesamtnährwert des gelagerten Futters im Gehege.</PenFoodTab_StockpileTotalDescription>
+  <PenFoodTab_StockpileTotalDescription>An líon iomlan bia atá á choimeád sa phionna.</PenFoodTab_StockpileTotalDescription>
   <!-- EN: Days to stockpile exhaustion -->
-  <PenFoodTab_StockpileEmptyDays>Tage bis Lager leer ist</PenFoodTab_StockpileEmptyDays>
+  <PenFoodTab_StockpileEmptyDays>laethanta bia atá fágtha</PenFoodTab_StockpileEmptyDays>
   <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
-  <PenFoodTab_StockpileEmptyDaysDescription>Der Nährwertverbrauch übersteigt die Nährwertwachstumsrate in diesem Gehege. Die Tiere werden früher oder später das gesamte Lager leer fressen und verhungern.</PenFoodTab_StockpileEmptyDaysDescription>
+  <PenFoodTab_StockpileEmptyDaysDescription>Tá an tomhaltas bia níos airde ná an ráta fáis sa phionna seo. Ithfidh na hainmhithe an bia ar fad atá ar fáil, agus tiocfaidh ocras orthu.</PenFoodTab_StockpileEmptyDaysDescription>
 
   <!-- EN: Animal type -->
-  <PenFoodTab_AnimalType>Tierart</PenFoodTab_AnimalType>
+  <PenFoodTab_AnimalType>Cineál</PenFoodTab_AnimalType>
   <!-- EN: Count -->
-  <PenFoodTab_Count>Anzahl</PenFoodTab_Count>
+  <PenFoodTab_Count>Líon</PenFoodTab_Count>
   <!-- EN: Today -->
-  <PenFoodTab_CurrentDay>Heute</PenFoodTab_CurrentDay>
+  <PenFoodTab_CurrentDay>Inniu</PenFoodTab_CurrentDay>
   <!-- EN: nutrition -->
-  <PenFoodTab_Nutrition_Unit>Nährwert</PenFoodTab_Nutrition_Unit>
+  <PenFoodTab_Nutrition_Unit>cothú</PenFoodTab_Nutrition_Unit>
   <!-- EN: per day -->
-  <PenFoodTab_NutritionPerDay_Unit>pro Tag</PenFoodTab_NutritionPerDay_Unit>
+  <PenFoodTab_NutritionPerDay_Unit>in aghaidh an lae</PenFoodTab_NutritionPerDay_Unit>
   <!-- EN: Force display animal... -->
-  <PenFoodTab_AddAnimal>Anderes Tier anzeigen...</PenFoodTab_AddAnimal>
+  <PenFoodTab_AddAnimal>Taispeáin ainmhí...</PenFoodTab_AddAnimal>
 
   <!-- EN: Nutrition growth -->
-  <PenFoodTab_NaturalNutritionGrowthRate>Nährwertwachstumsrate</PenFoodTab_NaturalNutritionGrowthRate>
+  <PenFoodTab_NaturalNutritionGrowthRate>Ráta fáis</PenFoodTab_NaturalNutritionGrowthRate>
   <!-- EN: Growth per season -->
-  <PenFoodTab_GrowthPerSeason>Wachstumsrate pro Jahreszeit</PenFoodTab_GrowthPerSeason>
+  <PenFoodTab_GrowthPerSeason>Ráta fáis in aghaidh an tséasúir</PenFoodTab_GrowthPerSeason>
   <!-- EN: Nutrition consumption -->
-  <PenFoodTab_TotalNutritionConsumptionRate>Nährwertverbrauch</PenFoodTab_TotalNutritionConsumptionRate>
+  <PenFoodTab_TotalNutritionConsumptionRate>Tomhaltas bia</PenFoodTab_TotalNutritionConsumptionRate>
   <!-- EN: The average nutrition provided by edible plants in this pen. -->
-  <PenFoodTab_NaturalNutritionGrowthRateDescription>Der durchschnittliche Nährwert aller essbaren Pflanzen in diesem Gehege.</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>An meánluach cothaithe atá le fáil ó na plandaí inite sa phionna seo.</PenFoodTab_NaturalNutritionGrowthRateDescription>
   <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
-  <PenFoodTab_NutritionConsumptionDescription>Der Nährwert, den die Tiere derzeit in diesem Gehege benötigen.\n\nWenn du mehr Futter benötigst, vergrößere das Gehege, um mehr Wildpflanzen wachsen zu lassen, oder bringe lagerfähiges Futter wie Heugras in das Gehege.</PenFoodTab_NutritionConsumptionDescription>
+  <PenFoodTab_NutritionConsumptionDescription>An méid bia atá de dhíth ó na hainmhithe atá sa phionna seo faoi láthair.\n\nChun ráta cothaithe níos airde a bhaint amach, leathnaigh an pionna chun níos mó plandaí fiáine a chumhdach, nó tabhair bia amhail féar tirim chuig an bpionna.</PenFoodTab_NutritionConsumptionDescription>
   <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
-  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Hinweis: Die Wachstumsrate der Pflanzen variiert je nach Jahreszeit, Wetter, Wildverbiss und andere Faktoren. Die berechneten Werte sind nur Schätzwerte.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>Nóta: Athraíonn an ráta fáis ó shéasúr go séasúr, mar gheall ar an aimsir agus tosca eile. Níl i gceist anseo ach garmheastachán.</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
 
   <!-- EN: Total consumption -->
-  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Gesamtverbrauch</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Tomhaltas iomlán</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
   <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
-  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>Der Gesamtnährwert, der jeden Tag von allen Tierarten in diesem Gehege konsumiert wird.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>An méid bia a ithfidh na hainmhithe sa phionna seo in aghaidh an lae.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
   <!-- EN: Daily consumption per {ANIMALDEF_label} -->
-  <PenFoodTab_NutritionConsumedPerDay>Täglicher Verbrauch pro {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
+  <PenFoodTab_NutritionConsumedPerDay>Tomhaltas iomlán ({ANIMALDEF_label})</PenFoodTab_NutritionConsumedPerDay>
   <!-- EN: each {CONSUMEDAMOUNT} -->
-  <PenFoodTab_NutritionConsumedEachAnimalLabel>{CONSUMEDAMOUNT} pro Tier</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>gach {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
   <!-- EN: Count that could be supported with no other animals in the pen -->
-  <PenFoodTab_AnimalTypeAnimalCapacity>Anzahl, die ohne andere Tiere im Gehege möglich wäre</PenFoodTab_AnimalTypeAnimalCapacity>
+  <PenFoodTab_AnimalTypeAnimalCapacity>An líon iomlán den ainmhí seo a d'fhéadfadh maireachtáil sa phionna seo, gan aon ainmhithe eile a bheith i láthair.</PenFoodTab_AnimalTypeAnimalCapacity>
 
   <!-- EN: Edible now -->
-  <PenFoodTab_EdibleNow>Jetzt essbar</PenFoodTab_EdibleNow>
+  <PenFoodTab_EdibleNow>Inite anois</PenFoodTab_EdibleNow>
 
   <!-- EN: Auto-cut plants in pen -->
-  <PenAutoCut_EnabledCheckbox>Pflanzen automatisch entfernen</PenAutoCut_EnabledCheckbox>
+  <PenAutoCut_EnabledCheckbox>Gearr plandaí sa phionna</PenAutoCut_EnabledCheckbox>
   <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
-  <PenAutoCut_EnabledCheckboxTip>Ungenießbare Pflanzen automatisch zum Entfernen markieren. Dadurch wird Platz für das Wachstum essbarer Pflanzen geschaffen, die deine Tiere dann fressen können.\n\nDiese automatische Markierung erfolgt in regelmäßigen Abständen und gilt nur für bestimmte Pflanzen.\n\nDas funktioniert nur, wenn das Gehege umzäunt ist.</PenAutoCut_EnabledCheckboxTip>
+  <PenAutoCut_EnabledCheckboxTip>Leis seo, is féidir plandaí neamh-inite a ghearradh go huathoibríoch, rud a chiallaíonn go mbeidh spás ann do phlandaí inite.\n\nNí bhaineann an socrú seo ach le plandaí áirithe.\n\nNí oibríonn an socrú seo ach amháin nuair a bhíonn an pionna timpeallaithe.</PenAutoCut_EnabledCheckboxTip>
 
   <!-- EN: Pen is not enclosed -->
-  <AutocutUnenclosedPen>Gehege ist nicht umzäunt</AutocutUnenclosedPen>
+  <AutocutUnenclosedPen>Níl an pionna timpeallaithe</AutocutUnenclosedPen>
   <!-- EN: Pen is not enclosed now, so auto-cut won't occur. -->
-  <AutocutUnenclosedPenTip>Das Gehege ist nicht umzäunt; Pflanzen werden nicht automatisch entfernt.</AutocutUnenclosedPenTip>
+  <AutocutUnenclosedPenTip>Níl an pionna timpeallaithe, mar sin ní dhéanfar plandaí a ghearradh go huathoibríoch.</AutocutUnenclosedPenTip>
 
   <!-- EN: Auto-cut blocking plants -->
-  <WindTurbineAutoCut_EnabledCheckbox>Gearr plandaí </WindTurbineAutoCut_EnabledCheckbox>
+  <WindTurbineAutoCut_EnabledCheckbox>Gearr plandaí atá sa</WindTurbineAutoCut_EnabledCheckbox>
   
   <!-- Study tab  -->
   <!-- EN: Study progress -->
