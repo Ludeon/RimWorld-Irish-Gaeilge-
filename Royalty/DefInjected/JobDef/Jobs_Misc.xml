@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: bestowing at TargetA -->
-  <BestowingCeremony.reportString>se faisant promouvoir par TargetA</BestowingCeremony.reportString>
+  <BestowingCeremony.reportString>ag bronnadh ag TargetA</BestowingCeremony.reportString>
   
   <!-- EN: linking at TargetA -->
-  <LinkPsylinkable.reportString>liant à TargetA</LinkPsylinkable.reportString>
+  <LinkPsylinkable.reportString>ag nascadh ag TargetA</LinkPsylinkable.reportString>
   
   <!-- EN: meditating royally at -->
-  <Reign.reportString>méditant royalement à</Reign.reportString>
+  <Reign.reportString>ag idirghabháil ag</Reign.reportString>
   
 </LanguageData>

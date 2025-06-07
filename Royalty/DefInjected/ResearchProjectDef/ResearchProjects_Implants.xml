@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: artificial metabolism -->
-  <ArtificialMetabolism.label>métabolisme artificiel</ArtificialMetabolism.label>
+  <ArtificialMetabolism.label>meitibileacht</ArtificialMetabolism.label>
   <!-- EN: Craft bionics that process food more safely or efficiently than a biological stomach. -->
-  <ArtificialMetabolism.description>Vous apprend à fabriquer des bioniques qui traitent les aliments de manière plus sûre ou plus efficace qu'un estomac biologique.</ArtificialMetabolism.description>
+  <ArtificialMetabolism.description>Leis seo, féadfaidh tú orgáin bhitheonacha a chruthú chun bia a phróiseáil ar bhealach níos éifeachtaí i gcomparáid le bolg nádúrtha.</ArtificialMetabolism.description>
   <!-- EN:
     <li>subject->artificial metabolism</li>
     <li>subject_story->developed a hunger so all-consuming that the installation of an artificial stomach was the only solution</li>
@@ -16,9 +16,9 @@
   <ArtificialMetabolism.generalRules.rulesStrings>TODO</ArtificialMetabolism.generalRules.rulesStrings>
   
   <!-- EN: brain wiring -->
-  <BrainWiring.label>câblage du cerveau</BrainWiring.label>
+  <BrainWiring.label>athsreangú intinne</BrainWiring.label>
   <!-- EN: Craft brain implants that induce or prevent blunt sensations like joy or pain. -->
-  <BrainWiring.description>Vous apprend à fabriquer des implants cérébraux qui provoquent ou empêchent des sensations vives tel que la joie ou la douleur.</BrainWiring.description>
+  <BrainWiring.description>Leis seo, féadfaidh tú ionphlanduithe a chruthú chun bac a chur ar mhothúcháin áirithe san inchinn, amhail pian nó áthas.</BrainWiring.description>
   <!-- EN:
     <li>subject->brain implants</li>
     <li>subject_story->wrote a paper about the masochist cults use of mindscrews to improve their morale</li>
@@ -29,9 +29,9 @@
   <BrainWiring.generalRules.rulesStrings>TODO</BrainWiring.generalRules.rulesStrings>
   
   <!-- EN: circadian influence -->
-  <CircadianInfluence.label>influence circadienne</CircadianInfluence.label>
+  <CircadianInfluence.label>ionphlandú codlata</CircadianInfluence.label>
   <!-- EN: Craft brain implants that chemically manipulate the circadian rhythm, reducing or altering the need to sleep. -->
-  <CircadianInfluence.description>Vous apprend à fabriquer des implants cérébraux qui manipulent chimiquement le rythme circadien, réduisant ou altérant le besoin de dormir.</CircadianInfluence.description>
+  <CircadianInfluence.description>Leis seo, féadfaidh tú ionphlandú a chruthú chun rithim laethúil an úsáideora a athrú, rud a chiallaíonn nach mbeidh air codladh chomh minic céanna.</CircadianInfluence.description>
   <!-- EN:
     <li>subject->sleep reduction implant</li>
     <li>subject_story->studied unihemispheric sleep patterns in cetaceans and proposed a new form of circadian half-cycler</li>
@@ -42,9 +42,9 @@
   <CircadianInfluence.generalRules.rulesStrings>TODO</CircadianInfluence.generalRules.rulesStrings>
   
   <!-- EN: compact weaponry -->
-  <CompactWeaponry.label>armement compact</CompactWeaponry.label>
+  <CompactWeaponry.label>airm bheaga</CompactWeaponry.label>
   <!-- EN: Craft compact, concealable bionic weapons which can be embedded in various body parts. -->
-  <CompactWeaponry.description>Vous apprend à fabriquer des armes bioniques compactes et dissimulables qui peuvent être intégrées dans diverses parties du corps.</CompactWeaponry.description>
+  <CompactWeaponry.description>Leis seo, féadfaidh tú airm bhitheonacha a chruthú, ar féidir iad a chur i bhfolach faoi chraiceann an úsáideora.</CompactWeaponry.description>
   <!-- EN:
     <li>subject->compact weaponry</li>
     <li>subject_story->was employed as a detective and was saved more than once by the concealed knee spike</li>
@@ -55,9 +55,9 @@
   <CompactWeaponry.generalRules.rulesStrings>TODO</CompactWeaponry.generalRules.rulesStrings>
   
   <!-- EN: flesh shaping -->
-  <FleshShaping.label>façonnage de la chair</FleshShaping.label>
+  <FleshShaping.label>múnlú craicinn</FleshShaping.label>
   <!-- EN: Craft bionics which induce the reshaping of natural flesh, usually for the purposes of aesthetic enhancement or personal pleasure. -->
-  <FleshShaping.description>Vous apprend à fabriquer des implants bioniques qui induisent le remodelage des chairs naturelles, généralement à des fins d'amélioration esthétique ou de plaisir personnel.</FleshShaping.description>
+  <FleshShaping.description>Leis seo, féadfaidh tú bitheonaic a chruthú chun craiceann duine a athmhúnlú. Is minic go n-úsáidtear ionphlanduithe den sórt seo chun críoch aeistéitice.</FleshShaping.description>
   <!-- EN:
     <li>subject->aesthetic surgery</li>
     <li>subject_story->halted the population decline on the urbworld, by distributing free love enhancers and lavish drugs</li>
@@ -68,9 +68,9 @@
   <FleshShaping.generalRules.rulesStrings>TODO</FleshShaping.generalRules.rulesStrings>
   
   <!-- EN: healing factors -->
-  <HealingFactors.label>facteurs de guérison</HealingFactors.label>
+  <HealingFactors.label>fachtóir leighis</HealingFactors.label>
   <!-- EN: Craft bionics that enhance natural healing processes. -->
-  <HealingFactors.description>Vous apprend à fabriquer des implants bioniques qui améliorent les processus de guérison naturels.</HealingFactors.description>
+  <HealingFactors.description>Leis seo, féadfaidh tú bitheonaic a chruthú a chuireann le próisis leighis agus cneasaithe an choirp.</HealingFactors.description>
   <!-- EN:
     <li>subject->healing bionics</li>
     <li>subject_story->studied the Imperial royalty, to see if they had blue blood. They did not, but it did coagulate implausibly quickly</li>
@@ -81,9 +81,9 @@
   <HealingFactors.generalRules.rulesStrings>TODO</HealingFactors.generalRules.rulesStrings>
   
   <!-- EN: molecular analysis -->
-  <MolecularAnalysis.label>analyse moléculaire</MolecularAnalysis.label>
+  <MolecularAnalysis.label>anailís mhóilíneach</MolecularAnalysis.label>
   <!-- EN: Craft bionics with molecular analyzers for assisting the immune system or analyzing food. -->
-  <MolecularAnalysis.description>Vous apprend à fabriquer des implants bioniques avec des analyseurs moléculaires pour assister le système immunitaire ou l'analyse des aliments.</MolecularAnalysis.description>
+  <MolecularAnalysis.description>Leis seo, féadfaidh tú bitheonaic a chruthú a bhfuil feidhmeanna anailíse móilíní acu, d'fhonn an córas imdhíonachta a neartú nó anailís a dhéanamh ar bhia.</MolecularAnalysis.description>
   <!-- EN:
     <li>subject->molecular analysis bionics</li>
     <li>subject_story->explained to the chefs of the cooking school that they must never get aesthetic noses, lest their gastro-analyzers fail</li>
@@ -94,9 +94,9 @@
   <MolecularAnalysis.generalRules.rulesStrings>TODO</MolecularAnalysis.generalRules.rulesStrings>
   
   <!-- EN: neural computation -->
-  <NeuralComputation.label>calcul neuronal</NeuralComputation.label>
+  <NeuralComputation.label>ríomhaire néarach</NeuralComputation.label>
   <!-- EN: Craft brain implants that assist thought and learning by use of a direct, shallow brain-computer interface. -->
-  <NeuralComputation.description>Vous apprend à fabriquer des implants cérébraux qui aident à la réflexion et à l'apprentissage en utilisant une interface cerveau-ordinateur directe et superficielle.</NeuralComputation.description>
+  <NeuralComputation.description>Leis seo, féadfaidh tú ionphlanduithe inchinne a chruthú a chuidíonn le daoine smaoineamh go soiléir. Cuireann na bitheonaic seo le scileanna taighde.</NeuralComputation.description>
   <!-- EN:
     <li>subject->brain implants</li>
     <li>subject->neural computation</li>
@@ -108,9 +108,9 @@
   <NeuralComputation.generalRules.rulesStrings>TODO</NeuralComputation.generalRules.rulesStrings>
   
   <!-- EN: skin hardening -->
-  <SkinHardening.label>renforcement de la peau</SkinHardening.label>
+  <SkinHardening.label>treaisiú craicinn</SkinHardening.label>
   <!-- EN: Craft bionic implants which induce the toughening of natural skin, producing an armor-like effect. -->
-  <SkinHardening.description>Vous apprend à fabriquer des implants bioniques qui induisent le durcissement de la peau naturelle, produisant un effet semblable à une armure.</SkinHardening.description>
+  <SkinHardening.description>Leis seo, féadfaidh tú ionphlanduithe a chruthú lena dtreisítear an craiceann, mar a bheadh armúr nádúrtha ann.</SkinHardening.description>
   <!-- EN:
     <li>subject->subdermal implants</li>
     <li>subject_story->researched the glands of the barkskin dryads and reasoned they could be adapted to humanity</li>
@@ -121,9 +121,9 @@
   <SkinHardening.generalRules.rulesStrings>TODO</SkinHardening.generalRules.rulesStrings>
   
   <!-- EN: specialized limbs -->
-  <SpecializedLimbs.label>membres spécialisés</SpecializedLimbs.label>
+  <SpecializedLimbs.label>géaga speisialaithe</SpecializedLimbs.label>
   <!-- EN: Craft specialized bionic limbs built for specific purposes - both combat and labor. -->
-  <SpecializedLimbs.description>Vous apprend à fabriquer des membres bioniques spécialisés construits à des fins spécifiques, aussi bien pour le combat que le travail.</SpecializedLimbs.description>
+  <SpecializedLimbs.description>Leis seo, féadfaidh tú bitheonaic speisialta a chruthú a bhfuil feidhmeanna ar leith acu, comhrac agus cúrsaí oibre san áireamh.</SpecializedLimbs.description>
   <!-- EN:
     <li>subject->specialized prosthetics</li>
     <li>subject_story->interviewed the indentured farmers of a feudal world, before and after their field hand installations</li>
@@ -134,9 +134,9 @@
   <SpecializedLimbs.generalRules.rulesStrings>TODO</SpecializedLimbs.generalRules.rulesStrings>
   
   <!-- EN: poison synthesis -->
-  <VenomSynthesis.label>synthèse de poison</VenomSynthesis.label>
+  <VenomSynthesis.label>sintéis nimhe</VenomSynthesis.label>
   <!-- EN: Craft bionics that synthesize venom from internal chemical reactors for use in toxifying attacks. -->
-  <VenomSynthesis.description>Vous apprend à fabriquer des implants bioniques qui synthétisent du venin dans des réacteurs chimiques internes pour permettre l'utilisation d'attaques toxiques.</VenomSynthesis.description>
+  <VenomSynthesis.description>Leis seo, féadfaidh tú ionphlanduithe a chruthú chun nimh a shintéisiú sa chorp.</VenomSynthesis.description>
   <!-- EN:
     <li>subject->venomous bionics</li>
     <li>subject_story->worked on chemical reactors at small scales, which could be shrunk and stored internally</li>

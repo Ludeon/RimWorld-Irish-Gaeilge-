@@ -2,25 +2,25 @@
 <LanguageData>
   
   <!-- EN: aesthetic nose -->
-  <AestheticNose.label>nez esthétique</AestheticNose.label>
+  <AestheticNose.label>srón aeistéitiúil</AestheticNose.label>
   <!-- EN: An installed aesthetic nose. Can be shaped to the user's desired form, matching prevalent beauty standards and enhancing physical impressions. -->
-  <AestheticNose.description>Un nez esthétique installé.</AestheticNose.description>
+  <AestheticNose.description>Tá srón aeistéitiúil feistithe.</AestheticNose.description>
   <!-- EN: an aesthetic nose -->
-  <AestheticNose.labelNoun>un nez esthétique</AestheticNose.labelNoun>
+  <AestheticNose.labelNoun>srón aeistéitiúil</AestheticNose.labelNoun>
   
   <!-- EN: aesthetic shaper -->
-  <AestheticShaper.label>modificateur corporel</AestheticShaper.label>
+  <AestheticShaper.label>múnlaitheoir aeistéitiúil</AestheticShaper.label>
   <!-- EN: An installed aesthetic shaper. A sophisticated package of hormonal and mechanite influences shapes the muscles and fat on the body, adding non-functional aesthetic tissue where needed to achieve a desired appearance. This implant can be configured to form various body shapes according to the user's taste - or that of their partner. -->
-  <AestheticShaper.description>Un modificateur corporel installé.</AestheticShaper.description>
+  <AestheticShaper.description>Tá múnlaitheoir coirp feistithe.</AestheticShaper.description>
   <!-- EN: an aesthetic shaper -->
-  <AestheticShaper.labelNoun>un modificateur corporel</AestheticShaper.labelNoun>
+  <AestheticShaper.labelNoun>múnlaitheoir aeistéitiúil</AestheticShaper.labelNoun>
   
   <!-- EN: armorskin gland -->
-  <ArmorskinGland.label>glande d'armure</ArmorskinGland.label>
+  <ArmorskinGland.label>feaireog armúir</ArmorskinGland.label>
   <!-- EN: An installed armorskin gland. Releases chemicals and nanomachines that toughen the skin and add flexible subdermal keratin plates at strategic points. This makes the user more resistant to damage across their whole body. Unfortunately, these changes make the skin appear leathery, with wrinkles across the whole body and face, which is generally considered ugly. -->
-  <ArmorskinGland.description>Une glande d'armure installée.</ArmorskinGland.description>
+  <ArmorskinGland.description>Tá faireog armúir feistithe.</ArmorskinGland.description>
   <!-- EN: a armorskin gland -->
-  <ArmorskinGland.labelNoun>une glande d'armure</ArmorskinGland.labelNoun>
+  <ArmorskinGland.labelNoun>feaireog armúir</ArmorskinGland.labelNoun>
   
   <!-- EN: circadian assistant -->
   <CircadianAssistant.label>assistant circadien</CircadianAssistant.label>

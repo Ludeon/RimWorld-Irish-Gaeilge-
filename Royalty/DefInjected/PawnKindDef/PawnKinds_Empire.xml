@@ -2,174 +2,110 @@
 <LanguageData>
   
   <!-- EN: imperial laborer -->
-  <Empire_Common_Laborer.label>travailleur impérial</Empire_Common_Laborer.label>
-  <Empire_Common_Laborer.labelFemale>travailleuse impériale</Empire_Common_Laborer.labelFemale>
-  <Empire_Common_Laborer.labelFemalePlural>travailleuses impériales</Empire_Common_Laborer.labelFemalePlural>
-  <Empire_Common_Laborer.labelMale>travailleur impérial</Empire_Common_Laborer.labelMale>
-  <Empire_Common_Laborer.labelMalePlural>travailleurs impériaux</Empire_Common_Laborer.labelMalePlural>
-  <Empire_Common_Laborer.labelPlural>travailleurs impériaux</Empire_Common_Laborer.labelPlural>
+  <Empire_Common_Laborer.label>oibrí impiriúil</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.labelPlural>oibrithe impiriúla</Empire_Common_Laborer.labelPlural>
   
   <!-- EN: imperial citizen -->
-  <Empire_Common_Lodger.label>citoyen impérial</Empire_Common_Lodger.label>
-  <Empire_Common_Lodger.labelFemale>citoyenne impériale</Empire_Common_Lodger.labelFemale>
-  <Empire_Common_Lodger.labelFemalePlural>citoyennes impériales</Empire_Common_Lodger.labelFemalePlural>
-  <Empire_Common_Lodger.labelMale>citoyen impérial</Empire_Common_Lodger.labelMale>
-  <Empire_Common_Lodger.labelMalePlural>citoyens impériaux</Empire_Common_Lodger.labelMalePlural>
-  <Empire_Common_Lodger.labelPlural>citoyens impériaux</Empire_Common_Lodger.labelPlural>
+  <Empire_Common_Lodger.label>saoránach impiriúil</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.labelPlural>saoránaigh impiriúla</Empire_Common_Lodger.labelPlural>
   
   <!-- EN: imperial trader -->
-  <Empire_Common_Trader.label>commerçant impérial</Empire_Common_Trader.label>
-  <Empire_Common_Trader.labelFemale>commerçante impériale</Empire_Common_Trader.labelFemale>
-  <Empire_Common_Trader.labelFemalePlural>commerçantes impériales</Empire_Common_Trader.labelFemalePlural>
-  <Empire_Common_Trader.labelMale>commerçant impérial</Empire_Common_Trader.labelMale>
-  <Empire_Common_Trader.labelMalePlural>commerçants impériaux</Empire_Common_Trader.labelMalePlural>
-  <Empire_Common_Trader.labelPlural>commerçants impériaux</Empire_Common_Trader.labelPlural>
+  <Empire_Common_Trader.label>trádálaí impiriúil</Empire_Common_Trader.label>
+  <Empire_Common_Trader.labelPlural>trádálaithe impiriúla</Empire_Common_Trader.labelPlural>
   
   <!-- EN: cataphract -->
-  <Empire_Fighter_Cataphract.label>cataphracte</Empire_Fighter_Cataphract.label>
-  <Empire_Fighter_Cataphract.labelFemale>cataphracte</Empire_Fighter_Cataphract.labelFemale>
-  <Empire_Fighter_Cataphract.labelFemalePlural>cataphractes</Empire_Fighter_Cataphract.labelFemalePlural>
-  <Empire_Fighter_Cataphract.labelMale>cataphracte</Empire_Fighter_Cataphract.labelMale>
-  <Empire_Fighter_Cataphract.labelMalePlural>cataphractes</Empire_Fighter_Cataphract.labelMalePlural>
-  <Empire_Fighter_Cataphract.labelPlural>cataphractes</Empire_Fighter_Cataphract.labelPlural>
+  <Empire_Fighter_Cataphract.label>catafracht</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.labelPlural>catafrachta</Empire_Fighter_Cataphract.labelPlural>
   
   <!-- EN: champion -->
-  <Empire_Fighter_Champion.label>champion</Empire_Fighter_Champion.label>
-  <Empire_Fighter_Champion.labelFemale>championne</Empire_Fighter_Champion.labelFemale>
-  <Empire_Fighter_Champion.labelFemalePlural>championnes</Empire_Fighter_Champion.labelFemalePlural>
-  <Empire_Fighter_Champion.labelMale>champion</Empire_Fighter_Champion.labelMale>
-  <Empire_Fighter_Champion.labelMalePlural>champions</Empire_Fighter_Champion.labelMalePlural>
-  <Empire_Fighter_Champion.labelPlural>champions</Empire_Fighter_Champion.labelPlural>
+  <Empire_Fighter_Champion.label>seaimpín</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.labelPlural>seaimpíní</Empire_Fighter_Champion.labelPlural>
   
   <!-- EN: imperial grenadier -->
-  <Empire_Fighter_Grenadier.label>grenadier impérial</Empire_Fighter_Grenadier.label>
-  <Empire_Fighter_Grenadier.labelFemale>grenadière impériale</Empire_Fighter_Grenadier.labelFemale>
-  <Empire_Fighter_Grenadier.labelFemalePlural>grenadières impériales</Empire_Fighter_Grenadier.labelFemalePlural>
-  <Empire_Fighter_Grenadier.labelMale>grenadier impérial</Empire_Fighter_Grenadier.labelMale>
-  <Empire_Fighter_Grenadier.labelMalePlural>grenadiers impériaux</Empire_Fighter_Grenadier.labelMalePlural>
-  <Empire_Fighter_Grenadier.labelPlural>grenadiers impériaux</Empire_Fighter_Grenadier.labelPlural>
+  <Empire_Fighter_Grenadier.label>gránádóir impiriúil</Empire_Fighter_Grenadier.label>
+  <Empire_Fighter_Grenadier.labelPlural>gránádóirí impiriúla</Empire_Fighter_Grenadier.labelPlural>
   
   <!-- EN: janissary -->
-  <Empire_Fighter_Janissary.label>janissaire</Empire_Fighter_Janissary.label>
-  <Empire_Fighter_Janissary.labelMale>janissaire</Empire_Fighter_Janissary.labelMale>
-  <Empire_Fighter_Janissary.labelMalePlural>janissaires</Empire_Fighter_Janissary.labelMalePlural>
-  <Empire_Fighter_Janissary.labelPlural>janissaires</Empire_Fighter_Janissary.labelPlural>
+  <Empire_Fighter_Janissary.label>geanasóir</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.labelPlural>geanasóirí</Empire_Fighter_Janissary.labelPlural>
   
   <!-- EN: stellic warden -->
-  <Empire_Fighter_StellicGuardMelee.label>gardien stellaire</Empire_Fighter_StellicGuardMelee.label>
-  <Empire_Fighter_StellicGuardMelee.labelFemale>gardienne stellaire</Empire_Fighter_StellicGuardMelee.labelFemale>
-  <Empire_Fighter_StellicGuardMelee.labelFemalePlural>gardiennes stellaires</Empire_Fighter_StellicGuardMelee.labelFemalePlural>
-  <Empire_Fighter_StellicGuardMelee.labelMale>gardien stellaire</Empire_Fighter_StellicGuardMelee.labelMale>
-  <Empire_Fighter_StellicGuardMelee.labelMalePlural>gardiens stellaires</Empire_Fighter_StellicGuardMelee.labelMalePlural>
-  <Empire_Fighter_StellicGuardMelee.labelPlural>gardiens stellaires</Empire_Fighter_StellicGuardMelee.labelPlural>
+  <Empire_Fighter_StellicGuardMelee.label>garda réaltach</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.labelPlural>gardaí réaltach</Empire_Fighter_StellicGuardMelee.labelPlural>
   
   <!-- EN: stellic defender -->
-  <Empire_Fighter_StellicGuardRanged.label>défenseur stellaire</Empire_Fighter_StellicGuardRanged.label>
-  <Empire_Fighter_StellicGuardRanged.labelMale>défenseur stellaire</Empire_Fighter_StellicGuardRanged.labelMale>
-  <Empire_Fighter_StellicGuardRanged.labelMalePlural>défenseurs stellaires</Empire_Fighter_StellicGuardRanged.labelMalePlural>
-  <Empire_Fighter_StellicGuardRanged.labelPlural>défenseurs stellaires</Empire_Fighter_StellicGuardRanged.labelPlural>
+  <Empire_Fighter_StellicGuardRanged.label>cosantóir réaltach</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.labelPlural>cosantóir réaltach</Empire_Fighter_StellicGuardRanged.labelPlural>
   
   <!-- EN: trooper -->
-  <Empire_Fighter_Trooper.label>soldat</Empire_Fighter_Trooper.label>
-  <Empire_Fighter_Trooper.labelFemale>soldate</Empire_Fighter_Trooper.labelFemale>
-  <Empire_Fighter_Trooper.labelFemalePlural>soldates</Empire_Fighter_Trooper.labelFemalePlural>
-  <Empire_Fighter_Trooper.labelMale>soldat</Empire_Fighter_Trooper.labelMale>
-  <Empire_Fighter_Trooper.labelMalePlural>soldats</Empire_Fighter_Trooper.labelMalePlural>
-  <Empire_Fighter_Trooper.labelPlural>soldats</Empire_Fighter_Trooper.labelPlural>
+  <Empire_Fighter_Trooper.label>saighdiúr</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.labelPlural>saighdiúirí</Empire_Fighter_Trooper.labelPlural>
   
   <!-- EN: acolyte -->
-  <Empire_Royal_Acolyte.label>écuyer</Empire_Royal_Acolyte.label>
-  <Empire_Royal_Acolyte.labelFemale>écuyère</Empire_Royal_Acolyte.labelFemale>
-  <Empire_Royal_Acolyte.labelFemalePlural>écuyères</Empire_Royal_Acolyte.labelFemalePlural>
-  <Empire_Royal_Acolyte.labelMale>écuyer</Empire_Royal_Acolyte.labelMale>
-  <Empire_Royal_Acolyte.labelMalePlural>écuyers</Empire_Royal_Acolyte.labelMalePlural>
-  <Empire_Royal_Acolyte.labelPlural>écuyers</Empire_Royal_Acolyte.labelPlural>
+  <Empire_Royal_Acolyte.label>acalaí</Empire_Royal_Acolyte.label>
+  <Empire_Royal_Acolyte.labelPlural>acalaithe</Empire_Royal_Acolyte.labelPlural>
   
   <!-- EN: baron -->
-  <Empire_Royal_Baron.label>baron</Empire_Royal_Baron.label>
+  <Empire_Royal_Baron.label>barún</Empire_Royal_Baron.label>
   <!-- EN: baroness -->
-  <Empire_Royal_Baron.labelFemale>baronne</Empire_Royal_Baron.labelFemale>
-  <Empire_Royal_Baron.labelFemalePlural>baronnes</Empire_Royal_Baron.labelFemalePlural>
-  <Empire_Royal_Baron.labelMale>baron</Empire_Royal_Baron.labelMale>
-  <Empire_Royal_Baron.labelMalePlural>barons</Empire_Royal_Baron.labelMalePlural>
-  <Empire_Royal_Baron.labelPlural>barons</Empire_Royal_Baron.labelPlural>
+  <Empire_Royal_Baron.labelFemale>banbharún</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Baron.labelFemalePlural>banbharúin</Empire_Royal_Baron.labelFemalePlural>
+  <Empire_Royal_Baron.labelMale>barún</Empire_Royal_Baron.labelMale>
+  <Empire_Royal_Baron.labelMalePlural>barúin</Empire_Royal_Baron.labelMalePlural>
+  <Empire_Royal_Baron.labelPlural>barúin</Empire_Royal_Baron.labelPlural>
   
   <!-- EN: bestower -->
-  <Empire_Royal_Bestower.label>émissaire</Empire_Royal_Bestower.label>
-  <Empire_Royal_Bestower.labelFemale>émissaire</Empire_Royal_Bestower.labelFemale>
-  <Empire_Royal_Bestower.labelFemalePlural>émissaires</Empire_Royal_Bestower.labelFemalePlural>
-  <Empire_Royal_Bestower.labelMale>émissaire</Empire_Royal_Bestower.labelMale>
-  <Empire_Royal_Bestower.labelMalePlural>émissaires</Empire_Royal_Bestower.labelMalePlural>
-  <Empire_Royal_Bestower.labelPlural>émissaires</Empire_Royal_Bestower.labelPlural>
+  <Empire_Royal_Bestower.label>teachta</Empire_Royal_Bestower.label>
+  <Empire_Royal_Bestower.labelPlural>teachtaí</Empire_Royal_Bestower.labelPlural>
   
   <!-- EN: consul -->
-  <Empire_Royal_Consul.label>consul</Empire_Royal_Consul.label>
-  <Empire_Royal_Consul.labelFemale>consule</Empire_Royal_Consul.labelFemale>
-  <Empire_Royal_Consul.labelFemalePlural>consules</Empire_Royal_Consul.labelFemalePlural>
-  <Empire_Royal_Consul.labelMale>consul</Empire_Royal_Consul.labelMale>
-  <Empire_Royal_Consul.labelMalePlural>consuls</Empire_Royal_Consul.labelMalePlural>
-  <Empire_Royal_Consul.labelPlural>consuls</Empire_Royal_Consul.labelPlural>
+  <Empire_Royal_Consul.label>consal</Empire_Royal_Consul.label>
+  <Empire_Royal_Consul.labelPlural>consail</Empire_Royal_Consul.labelPlural>
   
   <!-- EN: count -->
-  <Empire_Royal_Count.label>comte</Empire_Royal_Count.label>
+  <Empire_Royal_Count.label>cunta</Empire_Royal_Count.label>
   <!-- EN: countess -->
-  <Empire_Royal_Count.labelFemale>comtesse</Empire_Royal_Count.labelFemale>
-  <Empire_Royal_Count.labelFemalePlural>comtesses</Empire_Royal_Count.labelFemalePlural>
-  <Empire_Royal_Count.labelMale>comte</Empire_Royal_Count.labelMale>
-  <Empire_Royal_Count.labelMalePlural>comtes</Empire_Royal_Count.labelMalePlural>
-  <Empire_Royal_Count.labelPlural>comtes</Empire_Royal_Count.labelPlural>
+  <Empire_Royal_Count.labelFemale>cuntaois</Empire_Royal_Count.labelFemale>
+  <Empire_Royal_Count.labelFemalePlural>cuntaoisí</Empire_Royal_Count.labelFemalePlural>
+  <Empire_Royal_Count.labelMale>cunta</Empire_Royal_Count.labelMale>
+  <Empire_Royal_Count.labelMalePlural>cuntaí</Empire_Royal_Count.labelMalePlural>
+  <Empire_Royal_Count.labelPlural>cuntaí</Empire_Royal_Count.labelPlural>
   
   <!-- EN: duke -->
-  <Empire_Royal_Duke.label>duc</Empire_Royal_Duke.label>
+  <Empire_Royal_Duke.label>diúc</Empire_Royal_Duke.label>
   <!-- EN: duchess -->
-  <Empire_Royal_Duke.labelFemale>duchesse</Empire_Royal_Duke.labelFemale>
-  <Empire_Royal_Duke.labelFemalePlural>duchesses</Empire_Royal_Duke.labelFemalePlural>
-  <Empire_Royal_Duke.labelMale>duc</Empire_Royal_Duke.labelMale>
-  <Empire_Royal_Duke.labelMalePlural>ducs</Empire_Royal_Duke.labelMalePlural>
-  <Empire_Royal_Duke.labelPlural>ducs</Empire_Royal_Duke.labelPlural>
+  <Empire_Royal_Duke.labelFemale>bandiúc</Empire_Royal_Duke.labelFemale>
+  <Empire_Royal_Duke.labelFemalePlural>bandiúic</Empire_Royal_Duke.labelFemalePlural>
+  <Empire_Royal_Duke.labelMale>diúc</Empire_Royal_Duke.labelMale>
+  <Empire_Royal_Duke.labelMalePlural>diúic</Empire_Royal_Duke.labelMalePlural>
+  <Empire_Royal_Duke.labelPlural>diúic</Empire_Royal_Duke.labelPlural>
   
   <!-- EN: knight -->
-  <Empire_Royal_Knight.label>chevalier</Empire_Royal_Knight.label>
+  <Empire_Royal_Knight.label>ridire</Empire_Royal_Knight.label>
   <!-- EN: dame -->
-  <Empire_Royal_Knight.labelFemale>chevaleresse</Empire_Royal_Knight.labelFemale>
-  <Empire_Royal_Knight.labelFemalePlural>chevaleresses</Empire_Royal_Knight.labelFemalePlural>
-  <Empire_Royal_Knight.labelMale>chevalier</Empire_Royal_Knight.labelMale>
-  <Empire_Royal_Knight.labelMalePlural>chevaliers</Empire_Royal_Knight.labelMalePlural>
-  <Empire_Royal_Knight.labelPlural>chevaliers</Empire_Royal_Knight.labelPlural>
+  <Empire_Royal_Knight.labelFemale>bantiarna</Empire_Royal_Knight.labelFemale>
+  <Empire_Royal_Knight.labelFemalePlural>bantiarnaí</Empire_Royal_Knight.labelFemalePlural>
+  <Empire_Royal_Knight.labelMale>ridire</Empire_Royal_Knight.labelMale>
+  <Empire_Royal_Knight.labelMalePlural>ridirí</Empire_Royal_Knight.labelMalePlural>
+  <Empire_Royal_Knight.labelPlural>ridirí</Empire_Royal_Knight.labelPlural>
   
   <!-- EN: noble -->
-  <Empire_Royal_NobleWimp.label>noble</Empire_Royal_NobleWimp.label>
-  <Empire_Royal_NobleWimp.labelFemale>noble</Empire_Royal_NobleWimp.labelFemale>
-  <Empire_Royal_NobleWimp.labelFemalePlural>nobles</Empire_Royal_NobleWimp.labelFemalePlural>
-  <Empire_Royal_NobleWimp.labelMale>noble</Empire_Royal_NobleWimp.labelMale>
-  <Empire_Royal_NobleWimp.labelMalePlural>nobles</Empire_Royal_NobleWimp.labelMalePlural>
-  <Empire_Royal_NobleWimp.labelPlural>nobles</Empire_Royal_NobleWimp.labelPlural>
+  <Empire_Royal_NobleWimp.label>uasal</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_NobleWimp.labelPlural>uaisle</Empire_Royal_NobleWimp.labelPlural>
   
   <!-- EN: praetor -->
-  <Empire_Royal_Praetor.label>préteur</Empire_Royal_Praetor.label>
-  <Empire_Royal_Praetor.labelFemale>prétrice</Empire_Royal_Praetor.labelFemale>
-  <Empire_Royal_Praetor.labelFemalePlural>prétrices</Empire_Royal_Praetor.labelFemalePlural>
-  <Empire_Royal_Praetor.labelMale>préteur</Empire_Royal_Praetor.labelMale>
-  <Empire_Royal_Praetor.labelMalePlural>préteurs</Empire_Royal_Praetor.labelMalePlural>
-  <Empire_Royal_Praetor.labelPlural>préteurs</Empire_Royal_Praetor.labelPlural>
+  <Empire_Royal_Praetor.label>praetóir</Empire_Royal_Praetor.label>
+  <Empire_Royal_Praetor.labelPlural>praetóirí</Empire_Royal_Praetor.labelPlural>
   
   <!-- EN: stellarch -->
-  <Empire_Royal_Stellarch.label>gouverneur stellaire</Empire_Royal_Stellarch.label>
-  <Empire_Royal_Stellarch.labelFemale>gouverneure stellaire</Empire_Royal_Stellarch.labelFemale>
-  <Empire_Royal_Stellarch.labelFemalePlural>gouverneures stellaires</Empire_Royal_Stellarch.labelFemalePlural>
-  <Empire_Royal_Stellarch.labelMale>gouverneur stellaire</Empire_Royal_Stellarch.labelMale>
-  <Empire_Royal_Stellarch.labelMalePlural>gouverneurs stellaires</Empire_Royal_Stellarch.labelMalePlural>
-  <Empire_Royal_Stellarch.labelPlural>gouverneurs stellaires</Empire_Royal_Stellarch.labelPlural>
+  <Empire_Royal_Stellarch.label>réaltarcach</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Stellarch.labelPlural>réaltarcaigh</Empire_Royal_Stellarch.labelPlural>
   
   <!-- EN: yeoman -->
-  <Empire_Royal_Yeoman.label>mandataire</Empire_Royal_Yeoman.label>
-  <Empire_Royal_Yeoman.labelFemale>mandataire</Empire_Royal_Yeoman.labelFemale>
-  <Empire_Royal_Yeoman.labelFemalePlural>mandataires</Empire_Royal_Yeoman.labelFemalePlural>
-  <Empire_Royal_Yeoman.labelMale>mandataire</Empire_Royal_Yeoman.labelMale>
-  <Empire_Royal_Yeoman.labelMalePlural>mandataires</Empire_Royal_Yeoman.labelMalePlural>
-  <Empire_Royal_Yeoman.labelPlural>mandataires</Empire_Royal_Yeoman.labelPlural>
+  <Empire_Royal_Yeoman.label>scológ</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.labelPlural>scológa</Empire_Royal_Yeoman.labelPlural>
   
   <!-- EN: slave -->
-  <Slave_Empire.label>esclave</Slave_Empire.label>
+  <Slave_Empire.label>sclábhaí</Slave_Empire.label>
   
 </LanguageData>

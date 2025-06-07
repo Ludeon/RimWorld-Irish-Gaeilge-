@@ -88,7 +88,7 @@
   <MultiAnalyzer.generalRules.rulesStrings>TODO</MultiAnalyzer.generalRules.rulesStrings>
   
   <!-- EN: marine armor -->
-  <PoweredArmor.label>cumhachtarmúr saighdiúra</PoweredArmor.label>
+  <PoweredArmor.label>cumhachtarmúr trom</PoweredArmor.label>
   <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
   <PoweredArmor.description>Tóg cumhachtarmúr saighdiúra. Bíonn an t-armúr seo in úsáid go forleathan ag saighdiúirí agus trúpaí. Tá comhpháirteanna ardleihbéil ag teastáil chun an t-armúr seo a thógáil.</PoweredArmor.description>
   <!-- EN:

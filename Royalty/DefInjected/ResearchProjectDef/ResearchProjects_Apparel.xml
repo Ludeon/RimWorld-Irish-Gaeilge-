@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: cataphract armor -->
-  <CataphractArmor.label>armure de cataphracte</CataphractArmor.label>
+  <CataphractArmor.label>armúr catafrachta</CataphractArmor.label>
   <!-- EN: Craft cataphract armor, heavy powered armor that slows the user but which can absorb extreme punishment. Note that these also require advanced components. -->
-  <CataphractArmor.description>Vous apprend à fabriquer des armures de cataphracte, des armures lourdes qui ralentissent l'utilisateur, mais qui peuvent absorber des dégats extrêmes. Notez que celles-ci nécessitent également des composants avancés.</CataphractArmor.description>
+  <CataphractArmor.description>Tá armúr catafrachta mall, ach tá sé thar a bheith cumhachtach agus tugann sé cosaint an-ard. Bíonn comhpháirteanna ardleibhéil de dhíth chun an t-armúr seo a thógáil.</CataphractArmor.description>
   <!-- EN:
     <li>subject->cataphract armor</li>
     <li>subject_story->first developed [ANYPAWN_possessive] cataphract-equivalent armor as a method of exploring active volcanoes</li>
@@ -15,9 +15,9 @@
   <CataphractArmor.generalRules.rulesStrings>TODO</CataphractArmor.generalRules.rulesStrings>
   
   <!-- EN: gunlink -->
-  <Gunlink.label>ordinateur de ciblage</Gunlink.label>
+  <Gunlink.label>nasc gunna</Gunlink.label>
   <!-- EN: Build wearable gunlinks to enhance your soldiers' shooting accuracy. -->
-  <Gunlink.description>Vous apprend à construire un ordinateur de ciblage portatif pour améliorer la précision de tir de vos soldats.</Gunlink.description>
+  <Gunlink.description>Leis seo, féadfaidh tú naisc gunna a thógáil. Cuireann an gléas seo leis an gcruinneas lámhaigh.</Gunlink.description>
   <!-- EN:
     <li>subject->accuracy enhancement</li>
     <li>subject_story->converted a glitterworld ocular implant into a more generic targeting computer</li>
@@ -28,9 +28,9 @@
   <Gunlink.generalRules.rulesStrings>TODO</Gunlink.generalRules.rulesStrings>
   
   <!-- EN: jump packs -->
-  <JumpPack.label>packs dorsaux</JumpPack.label>
+  <JumpPack.label>paca scipeála</JumpPack.label>
   <!-- EN: Build jump packs to perform aerial assaults during combat. -->
-  <JumpPack.description>Vous apprend à construire des packs dorsaux pour effectuer des assauts aériens pendant le combat.</JumpPack.description>
+  <JumpPack.description>Leis seo, féadfaidh tú pacaí scipeála a thógáil. Úsáidtear na málaí inchaite seo chun léimt in airde sa spéir le linn comhraic.</JumpPack.description>
   <!-- EN:
     <li>subject->jump packs</li>
     <li>subject->short-distance flight</li>
@@ -43,9 +43,9 @@
   <JumpPack.generalRules.rulesStrings>TODO</JumpPack.generalRules.rulesStrings>
   
   <!-- EN: noble apparel -->
-  <NobleApparel.label>vêtement noble</NobleApparel.label>
+  <NobleApparel.label>éadaí uasail</NobleApparel.label>
   <!-- EN: Tailor noble-specific apparel like formal shirts and top hats. -->
-  <NobleApparel.description>Vous apprend à tailler des vêtements spécifiques aux nobles comme des chemises solennelles et des robes royales.</NobleApparel.description>
+  <NobleApparel.description>Leis seo, beidh tú in ann éadaí uasail a chruthú.</NobleApparel.description>
   <!-- EN:
     <li>subject->formal apparel</li>
     <li>subject->noble apparel</li>
@@ -58,9 +58,9 @@
   <NobleApparel.generalRules.rulesStrings>TODO</NobleApparel.generalRules.rulesStrings>
   
   <!-- EN: royal apparel -->
-  <RoyalApparel.label>vêtement royal</RoyalApparel.label>
+  <RoyalApparel.label>éadaí ríoga</RoyalApparel.label>
   <!-- EN: Tailor royal apparel of the highest tier, like royal robes and crowns. -->
-  <RoyalApparel.description>Vous apprend à tailler des vêtements royaux du meilleur goût, comme les robes et les couronnes royales.</RoyalApparel.description>
+  <RoyalApparel.description>Leis seo, beidh tú in ann éadaí ríoga den leibhéal is airde a chruthú, amhail róbaí agus corónacha.</RoyalApparel.description>
   <!-- EN:
     <li>subject->royal apparel</li>
     <li>subject_story->worked for an entire year to create royal robes for a coronation</li>

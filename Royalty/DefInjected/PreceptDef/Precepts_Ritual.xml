@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: anima tree linking -->
-  <AnimaTreeLinking.label>liaison d'arbre anima</AnimaTreeLinking.label>
+  <AnimaTreeLinking.label>nasc anama</AnimaTreeLinking.label>
   <!-- EN: One person will link with an anima tree. The linker will meditate in front of the anima tree, forming a psychic link. Others gather in a circle to watch and add psychic strength to the ritual. -->
-  <AnimaTreeLinking.description>Une personne fera le lien avec un arbre anima; elle méditera devant l'arbre anima, formant un lien psychique. Les autres se rassembleront en cercle pour regarder et ajouter une force psychique au rituel.</AnimaTreeLinking.description>
+  <AnimaTreeLinking.description>Nacfaidh duine amháin le crann anama; Ní mór don nascóir dianmhachnamh a dhéanamh taobh leis an gcrann chun nasc síceach a chruthú. Baileoidh daoine eile timpeall ar an nascóir le breathnú.</AnimaTreeLinking.description>
   
   <!-- EN: throne speech -->
-  <ThroneSpeech.label>discours du trône</ThroneSpeech.label>
+  <ThroneSpeech.label>óráid ón ríchathaoir</ThroneSpeech.label>
   <!-- EN: Initiate a speech from the throne. {ORGANIZER_labelShort} will go to {ORGANIZER_possessive} throne and call all colonists to listen to a speech there. If all goes well, listeners will feel inspired, and gain respect for {ORGANIZER_labelShort}. If it goes poorly, the speech will do social damage. The outcome depends on {ORGANIZER_labelShort}'s social abilities. -->
-  <ThroneSpeech.description>Lancer un discours du trône. {ORGANIZER_labelShort} se rendra sur son trône et convoquera tous les colons pour écouter son discours.  Si tout se passe bien, les auditeurs se sentiront inspirés et respecteront {ORGANIZER_labelShort}. Si ça se passe mal, le discours fera des dégâts sociaux. Le résultat dépend des capacités sociales de {ORGANIZER_labelShort}.</ThroneSpeech.description>
+  <ThroneSpeech.description>Cuir tús le hóráid ón ríchathaoir. Rachaidh {ORGANIZER_labelShort} chuig an gcathaoir agus glaofaidh {ORGANIZER_pronoun} ar na coilínigh uile bailiú agus éisteach.</ThroneSpeech.description>
   
 </LanguageData>

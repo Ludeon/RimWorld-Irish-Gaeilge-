@@ -22,22 +22,21 @@
   -->
   <Sophiamunda.placeRules.rulesStrings>
     <li>place_name->Sóifia</li>
-    <li>place_adjective->Sophian</li>
-    <li>place_summary->monde techno-féodal</li>
-    <li>place_community->château</li>
-    <li>place_community->palace</li>
-    <li>place_job->chevalier</li>
-    <li>place_job->écuyer</li>
-    <li>place_job->duc</li>
-    <li>place_job->servante</li>
-    <li>place_job->forgeron</li>
-    <li>place_personalWeapon->épée plasmique consciente</li>
-    <li>place_personalWeapon->marteau de guerre</li>
-    <li>place_massWeapon->un cibleur orbital d'escouade mécanoïde</li>
-    <li>place_massWeapon->une peste bio-ingénierie</li>
-    <li>place_massWeapon->une armée de chevaliers déchus</li>
-    <li>place_foeLeader->révolutionnaire</li>
-    <li>place_foeSoldiers->rebelles</li>
+    <li>place_adjective->Sóifiach</li>
+    <li>place_summary->domhan teic-fheodach</li>
+    <li>place_community->caiselán</li>
+    <li>place_community->pálás</li>
+    <li>place_job->ridire</li>
+    <li>place_job->scuibhéir </li>
+    <li>place_job->diúc</li>
+    <li>place_job->searbhónta</li>
+    <li>place_personalWeapon->claíomh comhfhiosach</li>
+    <li>place_personalWeapon->casúr cogaidh</li>
+    <li>place_massWeapon->meicea-charn fithiseach</li>
+    <li>place_massWeapon->plá saorga</li>
+    <li>place_massWeapon->complacht ridirí</li>
+    <li>place_foeLeader->réabhlóideach</li>
+    <li>place_foeSoldiers->reibiliúnaithe</li>
   </Sophiamunda.placeRules.rulesStrings>
   
 </LanguageData>

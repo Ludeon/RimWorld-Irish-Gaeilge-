@@ -10,7 +10,7 @@
   <!-- EN: baron -->
   <Baron.label>barún</Baron.label>
   <!-- EN: The title of baron is the lowest of the middle nobility. While lower titles focus on personal service at war or commerce under a lord, barons hold title as semi-independent rulers. Each baron is subordinate to his liege lord, but his obligations are mostly in supplying wealth and troops, and not in personal service.\n\nIn the Empire, a baron will typically own a city sector, mining colony, or similar outfit. At wartime, a baron may captain a capital ship in name, or control a regiment of troops. -->
-  <Baron.description>Baineann an teideal 'barún' leis leibhéal is ísle an meánaicme. Bíonn teidil eile dírithe ar an tseirbhís phearsanta a chuireann siad ar fáil dá dtiarnaí, ach feidhmíonn barúin mar cheannairí astu féin - cé go mbíonn neamhspléachas teoranta acu. Oibríonn gach barún faoi thiarna, ach is minic go mbíonn sé de dhualgas orthu trúpaí nó airgead a chur ar fáil dóibh.\n\nSan Impireacht, is minic go mbíonn barún i gceannas ar chontae, comhairle cathrach nó coilíneacht. In aimsigh chogaidh, uaireanta cuirtear barúin i gceannas ar spáslonga móra nó reisimintí trúpaí.</Baron.description>
+  <Baron.description>Baineann an teideal 'barún' leis leibhéal is ísle den mheánaicme. Bíonn teidil eile dírithe ar an tseirbhís phearsanta a chuireann siad ar fáil dá dtiarnaí, ach feidhmíonn barúin mar cheannairí astu féin - cé go mbíonn neamhspléachas teoranta acu. Oibríonn gach barún faoi thiarna, ach is minic go mbíonn sé de dhualgas orthu trúpaí nó airgead a chur ar fáil dóibh.\n\nSan Impireacht, is minic go mbíonn barún i gceannas ar chontae, comhairle cathrach nó coilíneacht. In aimsigh chogaidh, uaireanta cuirtear barúin i gceannas ar spáslonga móra nó reisimintí trúpaí.</Baron.description>
   <!-- EN: baroness -->
   <Baron.labelFemale>barún</Baron.labelFemale>
   
@@ -47,27 +47,27 @@
   <Freeholder.description>Úsáidtear an teideal seo chun ómós a léiriú ar dhuine aonair. Baineann an chuid is mó de shaoránaigh na hImpireachtaí an teideal seo amach agus iad óg, tríd obair dheonach nó seirbhís mhíleata. Tugtar an teideal seo do dhaoine ón taobh amuigh freisin, má léiríonn siad ónóir i leith na hImpireachta.</Freeholder.description>
   
   <!-- EN: knight -->
-  <Knight.label>chevalier</Knight.label>
+  <Knight.label>ridire</Knight.label>
   <!-- EN: The title of knight is held by nobles who have largely passed their training, but who have not ascended to higher leadership roles. Many knights never advance further, and spend their lives as respected managers, advisors, or warriors.\n\nMost knights have some wealth, but a few remain quite poor while others may be very rich.\n\nIn peacetime, a knight may manage a factory complex, commercial district, or small farming region. In war, some knights lead troop companies and assault squadrons, while psychic-focused knights engage in espionage, sabotage, and battlefield psychic combat. -->
-  <Knight.description>Le titre de chevalier est détenu par des nobles qui ont fini leur formation, mais qui n'ont pas accédé à des postes de direction plus élevés. De nombreux chevaliers n'avancent jamais plus loin et passent leur vie en tant que gestionnaires, conseillers ou guerriers respectés.\n\nLa plupart des chevaliers ont une certaine richesse, mais certains restent assez pauvres alors que d'autres peuvent être très riches.\n\nEn temps de paix, un chevalier peut gérer un complexe industriel, un quartier commercial ou une petite région agricole. En temps de guerre, certains chevaliers dirigent des compagnies de soldats et des escadrons d'assaut, tandis que les chevaliers psychiques se consacrent à l'espionnage, au sabotage et aux combats psychiques sur le champ de bataille.</Knight.description>
+  <Knight.description>Tugtar an teideal seo do huaisle a bhfuil a gcuid oiliúint curtha i gcrích acu, sula dtéann siad isteach i róil cheannaireachta. Is minic go bhfanann ridirí ar an ngrád seo, agus bíonn siad ina gcomhairleoirí, ina mbainisteoirí agus ina saighdiúirí.\n\nIs iondúil nach mbíonn ridirí gann ar airgead, ach braitheann a saibhreas ar an gcúlra atá acu.\n\nIn aimsir síochána, is iondúil go mbíonn ridirí i gceannas ar mhonarchana, ar cheantair tráchtála nó ar fheirmeacha móra. In aimsir chogaidh, bíonn ridirí ina gceannairí ar chompántais agus scuadrúin.</Knight.description>
   <!-- EN: dame -->
-  <Knight.labelFemale>chevaleresse</Knight.labelFemale>
+  <Knight.labelFemale>banridire</Knight.labelFemale>
   
   <!-- EN: praetor -->
-  <Praetor.label>préteur</Praetor.label>
+  <Praetor.label>praetóir</Praetor.label>
   <!-- EN: The title of praetor is a bridge between the service-oriented lower titles below and the power-holding nobility above.\n\nDuring peacetime, a praetor will usually manage a city district, asteroid sector, or agricultural region. During war, they take authority over the smallest combat units that fight independently - terrestrial troop cohorts, or space-borne destroyers or combat groups. -->
-  <Praetor.description>Le titre de préteur est un pont entre les titres inférieurs axés sur le service et la noblesse détentrice du pouvoir.\n\nEn temps de paix, les préteurs détiennent généralement l'autorité sur un district urbain, un secteur d'astéroïdes ou une région agricole. En temps de guerre, ils ont autorité sur les plus petites unités de combat qui combattent indépendamment. Sur le terrain, un préteur dirigera une cohorte de soldats. Dans la flotte spatiale, un préteur dirigera un destroyer ou un groupe de combat.</Praetor.description>
-  <Praetor.labelFemale>prétrice</Praetor.labelFemale>
+  <Praetor.description>Baineann an teideal 'praetóir' leis an bpointe idir an ísealaicme agus an mheánaicme.\n\nDe ghnáth, bíonn siad i gceannas ar dhúichí nó réigiúin. In aimsir chogaidh, bíonn siad freagrach as na haonaid neamhspleácha is beaga a stiúradh.</Praetor.description>
+  <Praetor.labelFemale>praetóir</Praetor.labelFemale>
   
   <!-- EN: stellarch -->
   <Stellarch.label>réaltarcach</Stellarch.label>
   <!-- EN: The Imperial title of stellarch represents dominion over an entire star system.\n\nIn the Empire, since interstellar travel times are years long, stellarchs rule their systems with a great degree of independence. They each swear fealty to the Emperor, but since the Emperor may be many light-years away, a stellarch may go years or decades without interacting with him. -->
-  <Stellarch.description>Le titre impérial de gouverneur stellaire représente la domination sur un système stellaire tout entier.\n\nDans l'Empire, étant donné que les temps de voyage interstellaires durent des années, ceux-ci gouvernent leurs systèmes avec une grande indépendance. Chacun jure fidélité à l'empereur, mais comme l'empereur peut être à de nombreuses années-lumière, un gouverneur peut passer des années ou des décennies sans interagir avec lui.</Stellarch.description>
+  <Stellarch.description>Bíonn smacht ag réaltarcach ar réaltchóras iomlán.\n\nSan Impireacht, tógann sé blianta taisteal idir-réaltach a dhéanamh idir na pláinéad agus idir na réaltchórais, mar sin bíonn neamhspleáchas iomlán ag na réaltarcaigh laistigh dá gcórais féin. Bíonn siad iomlán dílis don Impire - ach i gcásanna áirithe bíonn réaltarcaigh lonnaithe cúpla solasbhliain ón áit ina bhfuil an chuid eile den Impireacht, agus d'fhéadfadh siad na blianta a chaitheamh gan aon chur isteach on taobh amuigh.</Stellarch.description>
   <Stellarch.labelFemale>réaltarcach</Stellarch.labelFemale>
   
   <!-- EN: yeoman -->
-  <Yeoman.label>gíománach</Yeoman.label>
+  <Yeoman.label>scológ</Yeoman.label>
   <!-- EN: The Imperial title of yeoman is held by those who serve a noble lord in an important, specific way. While it is not a noble title, it does give the holder the right to use low-level psychic abilities.\n\nThis title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals. Many important people spend their entire lives as yeomen, seeking success outside the strictures of nobility. -->
-  <Yeoman.description>Le titre impérial de mandataire est détenu par ceux et celles qui servent un noble seigneur d'une manière importante et spécifique. Bien que ce ne soit pas un titre de noblesse, il donne au titulaire le droit d'utiliser des capacités psychiques de bas niveau.\n\nCe titre est souvent détenu par des soldats de haut niveau, des pilotes de chasse, des espions, des conseillers, des diplomates, des agents d'intervention et d'autres personnes clés. De nombreuses personnalités passent leur vie entière en tant que mandataires, cherchant le succès sans les restrictions de la noblesse.</Yeoman.description>
+  <Yeoman.description>Bronntar an teideal 'scológ' orthu siúd a chuireann seirbhís ar leith ar fáil do thiarna nó don Impireacht. Cé nach teideal ríoga é, bíonn cead ag scológa cumhachtaí síceacha íseal-leibhéil a úsáid.\n\nIs minic go mbronntar an teideal seo ar shaighdiúirí sinsearacha, píolótaí, spiairí, comhairleoirí taidhleoirí agus daoine tábhachtacha eile.</Yeoman.description>
   
 </LanguageData>

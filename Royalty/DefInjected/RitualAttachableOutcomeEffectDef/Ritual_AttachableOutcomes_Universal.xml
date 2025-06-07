@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: recharge psyfocus -->
-  <RechargePsyfocus.label>recharge la concentration psychique</RechargePsyfocus.label>
+  <RechargePsyfocus.label>athluchtaigh síceafócas</RechargePsyfocus.label>
   <!-- EN: the psyfocus of all participants will be recharged to full. -->
-  <RechargePsyfocus.effectDesc>la concentration psychique de tous les participants sera rechargé au maximum.</RechargePsyfocus.effectDesc>
+  <RechargePsyfocus.effectDesc>déanfar síceafócas gach rannphairtí a athluchtú go hiomlán.</RechargePsyfocus.effectDesc>
   <!-- EN: The psyfocus of all participants has been fully recharged. -->
-  <RechargePsyfocus.letterInfoText>La concentration psychique de tous les participants a était complétement rechargée.</RechargePsyfocus.letterInfoText>
+  <RechargePsyfocus.letterInfoText>Athluchtaíodh síceafócas na rannpháirtithe uile.</RechargePsyfocus.letterInfoText>
   
 </LanguageData>

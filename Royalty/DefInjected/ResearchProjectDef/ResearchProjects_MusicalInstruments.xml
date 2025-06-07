@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: harp -->
-  <Harp.label>harpe</Harp.label>
+  <Harp.label>cláirseach</Harp.label>
   <!-- EN: Craft the harp, a simple stationary musical instrument popular among nobility in some cultures. -->
-  <Harp.description>Vous permet de construire des harpes, des instruments de musique stationnaires simples populaires parmi la noblesse de certaines cultures.</Harp.description>
+  <Harp.description>Leis seo, féadfaidh tú an chláirseach a thógáil agus a seinm. Bíonn na huaisle an-tógtha leis an uirlis seo.</Harp.description>
   <!-- EN:
     <li>subject->harps</li>
     <li>subject->simple string instruments</li>
@@ -18,9 +18,9 @@
   <Harp.generalRules.rulesStrings>TODO</Harp.generalRules.rulesStrings>
   
   <!-- EN: harpsichord -->
-  <Harpsichord.label>clavecin</Harpsichord.label>
+  <Harpsichord.label>cruitchlár</Harpsichord.label>
   <!-- EN: Craft the harpsichord, a complex stationary musical instrument. -->
-  <Harpsichord.description>Vous permet de construire des clavecins, des instruments de musique stationnaires complexes.</Harpsichord.description>
+  <Harpsichord.description>Leis seo, féadfaidh tú an cruitchlár a thógáil. Tá an uirlis seo an-chásta, agus bíonn scil de dhíth ar an gceoltóir.</Harpsichord.description>
   <!-- EN:
     <li>subject->harpsichord</li>
     <li>subject_story->led a renaissance in the harpsichord in the coreworld systems</li>
@@ -32,9 +32,9 @@
   <Harpsichord.generalRules.rulesStrings>TODO</Harpsichord.generalRules.rulesStrings>
   
   <!-- EN: piano -->
-  <Piano.label>piano</Piano.label>
+  <Piano.label>pianó</Piano.label>
   <!-- EN: Craft the piano, an advanced stationary musical instrument. -->
-  <Piano.description>Vous permet de construire des pianos, des instruments de musique stationnaires très avancés.</Piano.description>
+  <Piano.description>Leis seo, féadfaidh tú pianó a thógáil.</Piano.description>
   <!-- EN:
     <li>subject->piano</li>
     <li>subject_story->was acquainted with the entire corpus of stringed instruments</li>

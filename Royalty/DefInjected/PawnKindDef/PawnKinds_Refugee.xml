@@ -2,11 +2,7 @@
 <LanguageData>
   
   <!-- EN: refugee -->
-  <Refugee.label>réfugié</Refugee.label>
-  <Refugee.labelFemale>réfugiée</Refugee.labelFemale>
-  <Refugee.labelFemalePlural>réfugiées</Refugee.labelFemalePlural>
-  <Refugee.labelMale>réfugié</Refugee.labelMale>
-  <Refugee.labelMalePlural>réfugiés</Refugee.labelMalePlural>
-  <Refugee.labelPlural>réfugiés</Refugee.labelPlural>
+  <Refugee.label>teifeach</Refugee.label>
+  <Refugee.labelPlural>teifigh</Refugee.labelPlural>
   
 </LanguageData>

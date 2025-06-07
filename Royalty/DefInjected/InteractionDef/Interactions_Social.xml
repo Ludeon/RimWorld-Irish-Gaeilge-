@@ -2,48 +2,48 @@
 <LanguageData>
   
   <!-- EN: word of inspiration -->
-  <WordOfInspiration.label>mot d'inspiration</WordOfInspiration.label>
+  <WordOfInspiration.label>moladh síceach</WordOfInspiration.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] used words and psychic suggestion to inspire [RECIPIENT_nameDef].</li>
   -->
   <WordOfInspiration.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] a utilisé des mots et des suggestions psychiques pour inspirer [RECIPIENT_nameDef].</li>
+    <li>r_logentry->D'úsáid [INITIATOR_nameDef] moladh síceach chun [RECIPIENT_nameDef] a ghríosú.</li>
   </WordOfInspiration.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of joy -->
-  <WordOfJoy.label>mot de joie</WordOfJoy.label>
+  <WordOfJoy.label>áthas síceach</WordOfJoy.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] psychically hypnotized [RECIPIENT_nameDef] into a warm, pleasant state of mind.</li>
   -->
   <WordOfJoy.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] a psychiquement plongé [RECIPIENT_nameDef] dans un état d'esprit chaleureux et agréable.</li>
+    <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun [RECIPIENT_nameDef] a ghríosú.</li>
   </WordOfJoy.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of love -->
-  <WordOfLove.label>mot d'amour</WordOfLove.label>
+  <WordOfLove.label>grá síceach</WordOfLove.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] should feel a new romantic desire.</li>
   -->
   <WordOfLove.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] a psychiquement suggéré à [RECIPIENT_nameDef] de ressentir un nouveau désir romantique.</li>
+    <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun smaointe rómánsúla a thabhairt do [RECIPIENT_nameDef].</li>
   </WordOfLove.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of serenity -->
-  <WordOfSerenity.label>mot de sérénité</WordOfSerenity.label>
+  <WordOfSerenity.label>suaimhneas síceach</WordOfSerenity.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] calm down, ending [RECIPIENT_possessive] mental break.</li>
   -->
   <WordOfSerenity.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] a psychiquement suggéré à [RECIPIENT_nameDef] de se calmer, mettant ainsi fin à sa crise de nerfs.</li>
+    <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun [RECIPIENT_nameDef] a shocrú, agus tháinig deireadh le cliseadh néarógach [RECIPIENT_nameDef].</li>
   </WordOfSerenity.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of trust -->
-  <WordOfTrust.label>mot de confiance</WordOfTrust.label>
+  <WordOfTrust.label>muinín shíceach</WordOfTrust.label>
   <!-- EN:
     <li>r_logentry->[INITIATOR_nameDef] psychically suggested that [RECIPIENT_nameDef] drop [RECIPIENT_possessive] guard.</li>
   -->
   <WordOfTrust.logRulesInitiator.rulesStrings>
-    <li>r_logentry->[INITIATOR_nameDef] a psychiquement suggéré à [RECIPIENT_nameDef] de moins être sur ses gardes.</li>
+    <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun múinín a chruthú le [RECIPIENT_nameDef].</li>
   </WordOfTrust.logRulesInitiator.rulesStrings>
   
 </LanguageData>
