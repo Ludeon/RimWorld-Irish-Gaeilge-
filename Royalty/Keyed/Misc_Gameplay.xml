@@ -3,17 +3,17 @@
 
   <!-- Royalty and throne -->
   <!-- EN: Satisfies title -->
-  <ThroneMaxSatisfiedTitle>Satisfait au titre</ThroneMaxSatisfiedTitle>
+  <ThroneMaxSatisfiedTitle>Comhlíonann seo an teideal</ThroneMaxSatisfiedTitle>
   <!-- EN: ({0} impressiveness) -->
-  <ThroneRoomImpressivenessInfo>({0} impressionnant)</ThroneRoomImpressivenessInfo>
+  <ThroneRoomImpressivenessInfo>({0} áilleacht)</ThroneRoomImpressivenessInfo>
   <!-- EN: Throne must be placed indoors. -->
-  <ThroneMustBePlacedInside>Le trône doit être placé en intérieur.</ThroneMustBePlacedInside>
+  <ThroneMustBePlacedInside>Ní mór an ríchathaoir a chur laistigh.</ThroneMustBePlacedInside>
   <!-- EN: Minimum title ({FACTION_name}): {TITLE} -->
-  <MinimumRoyalTitleInspectString>Titre minimum requis : {TITLE} de ({FACTION_name})</MinimumRoyalTitleInspectString>
+  <MinimumRoyalTitleInspectString>Teideal íosta: {TITLE} ó ({FACTION_name})</MinimumRoyalTitleInspectString>
   <!-- EN: Trading here requires title: {0} -->
-  <RequiresTradePermission>Négocier ici nécessite le titre de {0}</RequiresTradePermission>
+  <RequiresTradePermission>Tá an teideal {0} de dhíth chun plé leis an bhfaicsean seo</RequiresTradePermission>
   <!-- EN: Personal bedroom (partner allowed) -->
-  <RequirementPersonalBedroom>Chambre personnelle (partenaire autorisé)</RequirementPersonalBedroom>
+  <RequirementPersonalBedroom>Seomra pearsanta (ceadaítear pairtí)</RequirementPersonalBedroom>
   
   <!-- Generated neurotrainers -->
   <!-- EN: psytrainer ({0}) -->
@@ -164,9 +164,9 @@
   <CannotLoadIntoShuttle>TODO</CannotLoadIntoShuttle>
 
   <!-- EN: no heat to dump. -->
-  <AbilityNoEntropyToDump>aucune échauffement à décharger.</AbilityNoEntropyToDump>
+  <AbilityNoEntropyToDump>níl aon teas néarógach le scaoileadh.</AbilityNoEntropyToDump>
 
   <!-- EN: level {0} -->
-  <LevelNum>Niveau {0}</LevelNum> <!-- Psylink level as reported in health tab-->
+  <LevelNum>leibhéal {0}</LevelNum> <!-- Psylink level as reported in health tab-->
 
 </LanguageData>

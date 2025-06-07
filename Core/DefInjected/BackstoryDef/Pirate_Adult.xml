@@ -41,9 +41,9 @@
   <SpaceMarine16.description>Gaiscíoch ab ea [PAWN_nameDef] i gcabhla Impireachta. Bhí sé de dhualgas ar [PAWN_nameDef] briseadh isteach i spáslonga an namhad, an criú a mharú agus an spáslong a ghabháil. Bhí [PAWN_pronoun] go maith ag an obair sin.</SpaceMarine16.description>
   <SpaceMarine16.baseDesc>Gaiscíoch ab ea [PAWN_nameDef] i gcabhla Impireachta. Bhí sé de dhualgas ar [PAWN_nameDef] briseadh isteach i spáslonga an namhad, an criú a mharú agus an spáslong a ghabháil. Bhí [PAWN_pronoun] go maith ag an obair sin.</SpaceMarine16.baseDesc>
   <!-- EN: space marine -->
-  <SpaceMarine16.title>spás-shaighdiúir</SpaceMarine16.title>
+  <SpaceMarine16.title>spás-saighdiúir</SpaceMarine16.title>
   <!-- EN: marine -->
-  <SpaceMarine16.titleShort>spás-shaighdiúir</SpaceMarine16.titleShort>
+  <SpaceMarine16.titleShort>spás-saighdiúir</SpaceMarine16.titleShort>
   
   <!-- EN: Piracy appears everywhere that governments are weak and society spread thin. [PAWN_nameDef] was part of this age-old part of human existence, extorting and smashing peaceful trade ships for profit. -->
   <SpacePirate55.description>Bhí [PAWN_nameDef] gafa leis an bpíoráideacht ar bord spásloinge, ag déanamh ionsaí ar longa trádála chun airgead agus stoc a ghoid.</SpacePirate55.description>

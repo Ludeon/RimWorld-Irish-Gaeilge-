@@ -64,7 +64,7 @@
   <!-- EN: marine armor -->
   <Apparel_PowerArmor.label>armúr saighdiúra</Apparel_PowerArmor.label>
   <!-- EN: A suit of powered armor. Layered plasteel-weave plates are very effective at stopping attacks, with few vulnerable joint sections. Neuro-memetic assistors allow a human to wear the armor and still move easily.\n\nArmor like this is often used by rapid-incursion space marines. -->
-  <Apparel_PowerArmor.description>Armúr cumhachtaithe, déanta as plaisti-miotal. Tugann sé cosaint an-mhaith ar ionsaithe, agus is beag laigí atá ag an armúr seo. Tá braiteoirí leictreacha san armúr a chudíonn leis an úsáideoir gluaiseacht go héasca.\n\nIs minic go mbíonn armúr den sórt seo in úsáid ag spás-shaighdiúirí proifisiúnta.</Apparel_PowerArmor.description>
+  <Apparel_PowerArmor.description>Armúr cumhachtaithe, déanta as plaisti-miotal. Tugann sé cosaint an-mhaith ar ionsaithe, agus is beag laigí atá ag an armúr seo. Tá braiteoirí leictreacha san armúr a chudíonn leis an úsáideoir gluaiseacht go héasca.\n\nIs minic go mbíonn armúr den sórt seo in úsáid ag spás-saighdiúirí proifisiúnta.</Apparel_PowerArmor.description>
   
   <!-- EN: robe -->
   <Apparel_Robe.label>róba</Apparel_Robe.label>
