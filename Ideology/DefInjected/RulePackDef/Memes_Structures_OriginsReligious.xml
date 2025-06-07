@@ -20,7 +20,7 @@
     <li>adj->tout-puissant</li>
     <li>adj->omnipotent</li>
     <li>adj->universel</li>
-  </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
+ </DietyTypeMakerAbrahamic.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_deityName(p=3)->God</li>
@@ -35,7 +35,7 @@
     <li>r_deityName->Christ</li>
     <li>r_deityName->Jésus [Color]</li>
     <li>r_deityName->Christ [Color]</li>
-  </NamerDeityChristian.rulePack.rulesStrings>
+ </NamerDeityChristian.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_deityName(p=8)->Allah</li>
@@ -72,6 +72,6 @@
     <li>r_deityName->Al-Fattah</li>
     <li>r_deityName->Al-Alim</li>
     <li>r_deityName->Al-Hakam</li>
-  </NamerDeityIslamic.rulePack.rulesStrings>
+ </NamerDeityIslamic.rulePack.rulesStrings>
   
 </LanguageData>

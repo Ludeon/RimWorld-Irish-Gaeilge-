@@ -263,7 +263,7 @@
   <DoctorRescue.verb>a tharrtháil</DoctorRescue.verb>
   
   <!-- EN: tend to patients with urgent needs -->
-  <DoctorTendEmergency.label>tabhair aire d'othair a bhfuil riachtanais </DoctorTendEmergency.label>
+  <DoctorTendEmergency.label>tabhair aire d'othair a bhfuil riachtanais</DoctorTendEmergency.label>
   <!-- EN: tending to -->
   <DoctorTendEmergency.gerund>ag tabhairt aire do</DoctorTendEmergency.gerund>
   <!-- EN: tend to -->

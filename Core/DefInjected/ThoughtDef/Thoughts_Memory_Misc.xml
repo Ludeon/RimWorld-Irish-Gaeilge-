@@ -7,7 +7,7 @@
   <AteWithoutTable.stages.ate_without_table.description>D'ith mé béile gan aon troscán. Ba cheart go mbeidh bord againn.</AteWithoutTable.stages.ate_without_table.description>
   
   <!-- EN: bonded animal {0} banished -->
-  <BondedAnimalBanished.stages.bonded_animal_banished.label>ruaigeadh {0} </BondedAnimalBanished.stages.bonded_animal_banished.label>
+  <BondedAnimalBanished.stages.bonded_animal_banished.label>ruaigeadh {0}</BondedAnimalBanished.stages.bonded_animal_banished.label>
   <!-- EN: My bonded animal was banished! -->
   <BondedAnimalBanished.stages.bonded_animal_banished.description>Ruaigeadh {0}! Bhí nasc agam leis an ainmhí sin...</BondedAnimalBanished.stages.bonded_animal_banished.description>
   
@@ -40,7 +40,7 @@
   <ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>Níl muid in ann smacht a choinneáil ar ár ndaoine fein, fiú. D'fhéadfadh rud ar bith tarlú dom san áit seo.</ColonyPrisonerEscaped.stages.Colonist_prisoner_escaped.description>
   
   <!-- EN: defeated hostile leader {0} -->
-  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>mharaigh mé ceannaire naimhdeach, {0} </DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
+  <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>mharaigh mé ceannaire naimhdeach, {0}</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.label>
   <!-- EN: They were leading efforts to destroy us, and I took them down! -->
   <DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>Chuir mé deireadh le ceannaire ár naimhde!</DefeatedHostileFactionLeader.stages.defeated_hostile_leader.description>
   

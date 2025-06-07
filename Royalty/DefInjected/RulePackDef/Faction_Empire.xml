@@ -39,7 +39,7 @@
     <li>ofThing->na Foirfeachta</li>
     <li>ofThing->na Síoraíochta</li>
     <li>ofThing->an Spioraid</li>
-  </NamerFactionEmpire.rulePack.rulesStrings>
+ </NamerFactionEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
@@ -50,7 +50,7 @@
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
-  </NamerPersonSophian.rulePack.rulesStrings>
+ </NamerPersonSophian.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
@@ -61,7 +61,7 @@
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
-  </NamerPersonSophianFemale.rulePack.rulesStrings>
+ </NamerPersonSophianFemale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
@@ -128,6 +128,6 @@
     <li>empire_settelment_end->in</li>
     <li>empire_settelment_end->tam</li>
     <li>empire_settelment_end->mátras</li>
-  </NamerSettlementEmpire.rulePack.rulesStrings>
+ </NamerSettlementEmpire.rulePack.rulesStrings>
   
 </LanguageData>

@@ -394,7 +394,7 @@
     <li>enemyNameSingularMas->Sanguophage</li>
     <li>enemyNameSingularFem->Sanguophagin</li>
     <li>enemyNameSingularFem->Frau ohne Augen</li>
-    <li>enemyNameSingularMas->Mann, der einen Haken als Hand hat, </li>
+    <li>enemyNameSingularMas->Mann, der einen Haken als Hand hat,</li>
     <li>enemyNameSingularMasDat->[AdjectiveBadass]en [EnemyDat]</li>
     <li>enemyNameSingularFemDat->[AdjectiveBadass]en [EnemyFemale]</li>
     <li>enemyNameSingularMasDat->[AdjectiveBadass]en [AnimalBadassMasDat]</li>
@@ -412,7 +412,7 @@
     <li>enemyNameSingularMasDat->Sanguophagen</li>
     <li>enemyNameSingularFemDat->Sanguophagin</li>
     <li>enemyNameSingularFemDat->Frau ohne Augen</li>
-    <li>enemyNameSingularMasDat->Mann, der einen Haken als Hand hat, </li>
-  </GrowthMomentFlavor.rulePack.rulesStrings>
+    <li>enemyNameSingularMasDat->Mann, der einen Haken als Hand hat,</li>
+ </GrowthMomentFlavor.rulePack.rulesStrings>
   
 </LanguageData>

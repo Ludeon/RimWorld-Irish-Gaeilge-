@@ -6,7 +6,7 @@
   -->
   <LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
       <li>questDescription->D'aimsigh [worker_definite] [targetMineable_label] sa cheantar máguaird leis an scanóir fadraoin.\n\nFaraor, is cosúil go bhfuil daoine eile ar an eolas maidir leis an bhféith freisin, agus beidh sí imithe mura mbainfimid í laistigh de [timeoutTicks_duration].</li>
-  </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
+ </LongRangeMineralScannerLump.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[lump] of [targetMineableThing_label]</li>
     <li>questName->[targetMineableThing_label] [lump]</li>
@@ -34,7 +34,7 @@
     <li>lump->féith</li>
     <li>lump->fosú</li>
     <li>lump->leadhb</li>
-  </LongRangeMineralScannerLump.questNameRules.rulesStrings>
+ </LongRangeMineralScannerLump.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>Misean imithe in éag: [resolvedQuestName]</LongRangeMineralScannerLump.LetterLabelQuestExpired.slateRef>
   <!-- EN: Others have mined the lump of [targetMineable_label]. The quest [resolvedQuestName] has expired. -->

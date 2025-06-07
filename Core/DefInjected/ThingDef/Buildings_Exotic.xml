@@ -9,7 +9,7 @@
   <!-- EN: ship part (psychic droner) -->
   <PsychicDronerShipPart.label>comhpháirt spásloinge (bonnán síceach)</PsychicDronerShipPart.label>
   <!-- EN: An ancient ship part, torn off of a craft of unknown origin. It might be thousands of years old.\n\nThis one contains a psychic disturbance device. Using incomprehensible archotechnologies, it generates a psychic signal that drives people and animals mad within a wide radius around itself. -->
-  <PsychicDronerShipPart.description>Baineadh an chomhpháirt ársa seo de spáslong.\n\nCruthaíonn an uirlis seo dordán síceach, a chuireann isteach ar ainmhithe agus daoine sa cheantar maguaird. </PsychicDronerShipPart.description>
+  <PsychicDronerShipPart.description>Baineadh an chomhpháirt ársa seo de spáslong.\n\nCruthaíonn an uirlis seo dordán síceach, a chuireann isteach ar ainmhithe agus daoine sa cheantar maguaird.</PsychicDronerShipPart.description>
   
   <!-- EN: ship chunk -->
   <ShipChunk.label>leadhb spásloinge</ShipChunk.label>

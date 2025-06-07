@@ -8,7 +8,7 @@
   <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
     <li>questDescription(askerIsNull==true)->D'aimsigh muid roinnt teachtaireachtaí maidir le stoc-charn earraí dar luach [itemStashContentsValue] nach bhfuil i bhfad uainn. Tá na rudaí seo a leanas sa stoc-charn:\n\n[itemStashContents].</li>
     <li>questDescription(asker_factionLeader==True)->Fuair muid teachtaireacht ón bhfaicsean [asker_faction_name], agus deir siad go bhfuil stoc-charn earraí dar luach [itemStashContentsValue] lonnaithe sa cheantar máguaird. Tá na rudaí seo a leanas sa stoc-charn:\n\n[itemStashContents]\n\n.</li>
-  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+ </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
     <li>questName->[stash] of [treasure]</li>
@@ -30,7 +30,7 @@
     <li>treasure->Seod</li>
     <li>treasure->Earraí Luachmhara</li>
     <li>treasure->Soláthairtí</li>
-  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+ </OpportunitySite_ItemStash.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Misean imithe in éag: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
   <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->

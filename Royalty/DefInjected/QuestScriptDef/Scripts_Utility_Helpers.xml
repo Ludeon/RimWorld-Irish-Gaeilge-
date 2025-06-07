@@ -46,7 +46,7 @@
     <li>helpersArrivingPawnsLabelDef(helpersCount>=2)->les [helperKind_labelPlural]</li>
     <li>helpersNodeLetterText(helpersCount==1)->[helpersArrivingPawnsLabelDef] [helpersSent] par [asker_nameDef] pour vous aider [helpersHasHave] passé trop de temps avec vous. [helpers0_pronoun] va partir maintenant.</li>
     <li>helpersNodeLetterText(helpersCount>=2)->[helpersArrivingPawnsLabelDef] [helpersSent] par [asker_nameDef] pour vous aider [helpersHasHave] passé trop de temps avec vous. Ils vont partir maintenant.</li>
-  </Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
+ </Util_MaybeGenerateHelpers.questDescriptionRules.rulesStrings>
   <!-- EN: [helpersLabelSingOrPlural] arrived -->
   <Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>[helpersLabelSingOrPlural] [helpersArrived]</Util_MaybeGenerateHelpers.LetterLabelHelpersArrived.value.slateRef>
   <!-- EN: The [helpersLabelSingOrPlural] sent by [asker_nameDef] [helpersHasHave] arrived to aid you with the quest '[resolvedQuestName]'. -->

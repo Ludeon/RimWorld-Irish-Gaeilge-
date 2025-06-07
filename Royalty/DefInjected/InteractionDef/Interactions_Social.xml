@@ -8,7 +8,7 @@
   -->
   <WordOfInspiration.logRulesInitiator.rulesStrings>
     <li>r_logentry->D'úsáid [INITIATOR_nameDef] moladh síceach chun [RECIPIENT_nameDef] a ghríosú.</li>
-  </WordOfInspiration.logRulesInitiator.rulesStrings>
+ </WordOfInspiration.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of joy -->
   <WordOfJoy.label>áthas síceach</WordOfJoy.label>
@@ -17,7 +17,7 @@
   -->
   <WordOfJoy.logRulesInitiator.rulesStrings>
     <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun [RECIPIENT_nameDef] a ghríosú.</li>
-  </WordOfJoy.logRulesInitiator.rulesStrings>
+ </WordOfJoy.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of love -->
   <WordOfLove.label>grá síceach</WordOfLove.label>
@@ -26,7 +26,7 @@
   -->
   <WordOfLove.logRulesInitiator.rulesStrings>
     <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun smaointe rómánsúla a thabhairt do [RECIPIENT_nameDef].</li>
-  </WordOfLove.logRulesInitiator.rulesStrings>
+ </WordOfLove.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of serenity -->
   <WordOfSerenity.label>suaimhneas síceach</WordOfSerenity.label>
@@ -35,7 +35,7 @@
   -->
   <WordOfSerenity.logRulesInitiator.rulesStrings>
     <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun [RECIPIENT_nameDef] a shocrú, agus tháinig deireadh le cliseadh néarógach [RECIPIENT_nameDef].</li>
-  </WordOfSerenity.logRulesInitiator.rulesStrings>
+ </WordOfSerenity.logRulesInitiator.rulesStrings>
   
   <!-- EN: word of trust -->
   <WordOfTrust.label>muinín shíceach</WordOfTrust.label>
@@ -44,6 +44,6 @@
   -->
   <WordOfTrust.logRulesInitiator.rulesStrings>
     <li>r_logentry->D'úsáid [INITIATOR_nameDef] cumhachtaí síceacha chun múinín a chruthú le [RECIPIENT_nameDef].</li>
-  </WordOfTrust.logRulesInitiator.rulesStrings>
+ </WordOfTrust.logRulesInitiator.rulesStrings>
   
 </LanguageData>

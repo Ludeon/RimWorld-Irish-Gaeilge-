@@ -15,7 +15,7 @@
   <!-- EN: blood loss -->
   <BloodLoss.label>cailleadh fola</BloodLoss.label>
   <!-- EN: A reduction in the normal blood volume. Minor blood loss has relatively mild effects, but when blood loss becomes severe, oxygen transport becomes badly impaired and the victim loses the ability to move. Extreme blood loss leads to death.\n\nBlood loss naturally recovers over time as the body slowly regenerates its blood supply. -->
-  <BloodLoss.description>Laghdú ar an bhfuil sa chorp. Ní bhíonn éifeacht an-láidir ag cailleadh fola ar leibhéal íseal, ach nuair a bhíonn cailleadh fola trom ar dhuine, ní bheidh an corp in ann ocsaigin a ionsú mar is ceart agus ní bheidh an t-othar in ann gluaiseacht. Gheobhaidh an t-othar bás má chailleadh an iomarca fola. </BloodLoss.description>
+  <BloodLoss.description>Laghdú ar an bhfuil sa chorp. Ní bhíonn éifeacht an-láidir ag cailleadh fola ar leibhéal íseal, ach nuair a bhíonn cailleadh fola trom ar dhuine, ní bheidh an corp in ann ocsaigin a ionsú mar is ceart agus ní bheidh an t-othar in ann gluaiseacht. Gheobhaidh an t-othar bás má chailleadh an iomarca fola.</BloodLoss.description>
   <!-- EN: minor -->
   <BloodLoss.stages.minor-0.label>an-íseal</BloodLoss.stages.minor-0.label>
   <!-- EN: minor -->

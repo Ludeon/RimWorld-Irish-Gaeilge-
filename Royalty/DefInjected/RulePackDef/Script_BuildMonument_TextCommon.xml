@@ -58,7 +58,7 @@
     <li>glory->sa famille</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->Vous avez raté la quête '[resolvedQuestName]'.</li>
     <li>failLetterEndingCommon->Vous avez raté la quête '[resolvedQuestName]'.\n\nVos relations avec [asker_faction_name] ont diminué de [goodwillPenalty].</li>
-  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+ </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>questName->[constAdj] [construction]</li>
@@ -143,6 +143,6 @@
     <li>construction_fem(p=2)->structure</li>
     <li>construction_fem->édifice</li>
     <li>construction_fem->assemblage</li>
-  </QuestConstructionNameCommon.rulePack.rulesStrings>
+ </QuestConstructionNameCommon.rulePack.rulesStrings>
   
 </LanguageData>

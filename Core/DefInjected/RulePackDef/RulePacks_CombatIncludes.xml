@@ -28,7 +28,7 @@
     <li>scraped_past->caromed</li>
     <li>scraped_past->skipped</li>
     <li>scraped_past->skated</li>
-  </Combat_DeflectIncludes.rulePack.rulesStrings>
+ </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>action->[INITIATOR_label] [tried] to [damaged_inf] [INITIATOR_label]</li>
@@ -50,7 +50,7 @@
     <li>action->Rinne [INITIATOR_label] iarracht [INITIATOR_label] [damaged_inf]</li>
     <li>action->Rinne [INITIATOR_label] iarracht [INITIATOR_label] [damaged_inf]</li>
     <li>action->Rinne [INITIATOR_label] iarracht [implement] a úsáid chun [INITIATOR_label] [damaged_inf]</li>
-  </Combat_FailIncludes.rulePack.rulesStrings>
+ </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
@@ -77,7 +77,7 @@
     <li>flavortext_consequence->agus fágadh gortú</li>
     <li>flavortext_consequence->go dona</li>
     <li>flavortext_consequence->go han-dona</li>
-  </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
+ </Combat_MeleeDamageIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[action], [result].</li>
@@ -134,7 +134,7 @@
     <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], agus [recipient_part3_label]</li>
     <li>damaged_present(deflected!=True)->gortaíodh</li>
     <li>destroyed(p=0.5)->scriosadh</li>
-  </Combat_MeleeIncludes.rulePack.rulesStrings>
+ </Combat_MeleeIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>skillDescMelee->[wielding] [INITIATOR_possessive] [WEAPON_label] [skillAdv]</li>
@@ -217,7 +217,7 @@
     <li>skillAdv(INITIATOR_skill>=16)->go tiarnasach</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->go meicniúil</li>
     <li>skillAdv(initiator_flesh==Mechanoid)->go róbatúil</li>
-  </Combat_SkillIncludes.rulePack.rulesStrings>
+ </Combat_SkillIncludes.rulePack.rulesStrings>
   
   <!-- EN:
     <li>destroyed_targets(recipient_part_destroyed_count==1)->[recipient_part_destroyed0_label]</li>
@@ -238,6 +238,6 @@
     <li>damaged_targets(recipient_part_damaged_count==2)->[recipient_part_damaged0_label] agus [recipient_part_damaged1_label]</li>
     <li>damaged_targets(recipient_part_damaged_count==3)->[recipient_part_damaged0_label], [recipient_part_damaged1_label], agus [recipient_part_damaged2_label]</li>
     <li>damaged_targets->[recipient_part_damaged0_label], [recipient_part_damaged1_label], [recipient_part_damaged2_label], agus [recipient_part_damaged3_label]</li>
-  </Combat_WoundIncludes.rulePack.rulesStrings>
+ </Combat_WoundIncludes.rulePack.rulesStrings>
   
 </LanguageData>

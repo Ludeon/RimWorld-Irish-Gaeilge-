@@ -40,7 +40,7 @@
     <li>place_massWeapon->dróin táthaire</li>
     <li>place_foeLeader->saoiste</li>
     <li>place_foeSoldiers->robálaithe</li>
-  </AturaStation.placeRules.rulesStrings>
+ </AturaStation.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Bagua 5</li>
@@ -81,7 +81,7 @@
     <li>place_massWeapon->un virus de la rouille</li>
     <li>place_foeLeader->seigneur de la ferraille</li>
     <li>place_foeSoldiers->crânes de métal</li>
-  </Bagua5.placeRules.rulesStrings>
+ </Bagua5.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Boccocarro</li>
@@ -122,7 +122,7 @@
     <li>place_massWeapon->une bombe à poudre noire</li>
     <li>place_foeLeader->hyperviseur de mine</li>
     <li>place_foeSoldiers->marines abyssaux</li>
-  </Boccocarro.placeRules.rulesStrings>
+ </Boccocarro.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Chelis</li>
@@ -163,7 +163,7 @@
     <li>place_massWeapon->une débandade de lézards</li>
     <li>place_foeLeader->chef</li>
     <li>place_foeSoldiers->guerriers des sables</li>
-  </Chelis.placeRules.rulesStrings>
+ </Chelis.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Creticon</li>
@@ -210,7 +210,7 @@
     <li>place_massWeapon->mécanoïdes piratés</li>
     <li>place_foeLeader->seigneur de guerre</li>
     <li>place_foeSoldiers->mercenaires</li>
-  </Creticon.placeRules.rulesStrings>
+ </Creticon.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Filson</li>
@@ -255,7 +255,7 @@
     <li>place_massWeapon->lentille spatiale</li>
     <li>place_foeLeader->propriétaire</li>
     <li>place_foeSoldiers->miliciens</li>
-  </Filson.placeRules.rulesStrings>
+ </Filson.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Ilwaba</li>
@@ -296,7 +296,7 @@
     <li>place_massWeapon->une ancienne bombe empoisonnée</li>
     <li>place_foeLeader->crypto-leader</li>
     <li>place_foeSoldiers->crypto-soldats</li>
-  </Ilwaba.placeRules.rulesStrings>
+ </Ilwaba.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Iwamura</li>
@@ -339,7 +339,7 @@
     <li>place_massWeapon->un virus de sabotage des systèmes de survie</li>
     <li>place_foeLeader->PDG d'une méga-corp</li>
     <li>place_foeSoldiers->policier verreux</li>
-  </Iwamura.placeRules.rulesStrings>
+ </Iwamura.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Kemia</li>
@@ -382,7 +382,7 @@
     <li>place_massWeapon->bombes toxiques pénétrantes</li>
     <li>place_foeLeader->seigneur du poison</li>
     <li>place_foeSoldiers->soldats venimeux</li>
-  </Kemia.placeRules.rulesStrings>
+ </Kemia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Lutuni</li>
@@ -423,7 +423,7 @@
     <li>place_massWeapon->un cibleur de bombardement orbital de contrebande</li>
     <li>place_foeLeader->magnat du divertissement</li>
     <li>place_foeSoldiers->agents d'exécution</li>
-  </Lutuni.placeRules.rulesStrings>
+ </Lutuni.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Novaroma</li>
@@ -468,7 +468,7 @@
     <li>place_massWeapon->une valise-bombe nucléaire</li>
     <li>place_foeLeader->haut-sous-seigneur</li>
     <li>place_foeSoldiers->troupes d'infanterie</li>
-  </Novaroma.placeRules.rulesStrings>
+ </Novaroma.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Nuchadus</li>
@@ -507,7 +507,7 @@
     <li>place_massWeapon->une bombe de guerre chimique</li>
     <li>place_foeLeader->seigneur de lave</li>
     <li>place_foeSoldiers->soldats stygiens</li>
-  </Nuchadus.placeRules.rulesStrings>
+ </Nuchadus.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Oubanyen</li>
@@ -548,7 +548,7 @@
     <li>place_massWeapon->une bombe à neurotoxines</li>
     <li>place_foeLeader->récolteuse d'arbres</li>
     <li>place_foeSoldiers->hommes de main</li>
-  </Oubanyen.placeRules.rulesStrings>
+ </Oubanyen.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Rhydell</li>
@@ -589,7 +589,7 @@
     <li>place_massWeapon->une frappe laser orbitale</li>
     <li>place_foeLeader->directeur de deepcorp</li>
     <li>place_foeSoldiers->forces de l'ordre des deepcorps</li>
-  </Rhydell.placeRules.rulesStrings>
+ </Rhydell.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Rogia</li>
@@ -632,7 +632,7 @@
     <li>place_massWeapon->travailleurs mécanoïdes télécommandés</li>
     <li>place_foeLeader->bureaucratie corrompu</li>
     <li>place_foeSoldiers->gardes bioniques</li>
-  </Rogia.placeRules.rulesStrings>
+ </Rogia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Wavia</li>
@@ -677,7 +677,7 @@
     <li>place_foeSoldiers->chasseurs de baleines</li>
     <li>seaBeast->kraken des profondeurs</li>
     <li>seaBeast->Wavian léviathan</li>
-  </Wavia.placeRules.rulesStrings>
+ </Wavia.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Xanides</li>
@@ -718,7 +718,7 @@
     <li>place_massWeapon->[anEMPAttack]</li>
     <li>place_foeLeader->patron de mine-corp</li>
     <li>place_foeSoldiers->troupes du corps des mines</li>
-  </Xanides.placeRules.rulesStrings>
+ </Xanides.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Yttak</li>
@@ -759,7 +759,7 @@
     <li>place_massWeapon->une frappe laser orbitale</li>
     <li>place_foeLeader->directeur de prison</li>
     <li>place_foeSoldiers->gardes corrompus</li>
-  </Yttak.placeRules.rulesStrings>
+ </Yttak.placeRules.rulesStrings>
   
   <!-- EN:
     <li>place_name->Zoutera</li>
@@ -804,6 +804,6 @@
     <li>megaFauna->ankylosaure</li>
     <li>megaFauna->mammouths bleus</li>
     <li>megaFauna->novoraptors</li>
-  </Zoutera.placeRules.rulesStrings>
+ </Zoutera.placeRules.rulesStrings>
   
 </LanguageData>

@@ -32,7 +32,7 @@
     <li>archistProphecy(tag=meme_FemaleSupremacy) ->[inTheEnd], fillfidh na harcai-theicneoirí agus múinfidh siad dá máithreacha conas cumas uilechumhachtach a bhaint amach.</li>
     <li>animistFact(tag=meme_FemaleSupremacy)     ->Is iad spioraid na mban na spioraid is críonna, agus ba cheart a gcuid eolas a úsáid chun gach inscne eile a rialú.</li>
     <li>animistProphecy(tag=meme_FemaleSupremacy) ->[itIsSaid] go dtiocfaidh spiorad olc agus go scriosfaidh sé an chruinne, ach go mbainfidh mná úsáid as [relic0_name] chun an chruinne a chruthú as an nua arís.</li>
-  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+ </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->feminine</li>
     <li>memeAdjective->womanly</li>
@@ -56,7 +56,7 @@
     <li>memeConcept->an Fheimineachais</li>
     <li>memeGod->Máthair</li>
     <li>memeLeaderNoun->ardbhean</li>
-  </FemaleSupremacy.generalRules.rulesStrings>
+ </FemaleSupremacy.generalRules.rulesStrings>
   <!-- EN: gynist -->
   <FemaleSupremacy.symbolPacks.0.adjective>gyniste</FemaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Gynism -->
@@ -121,7 +121,7 @@
     <li>archistProphecy(tag=meme_MaleSupremacy) ->[inTheEnd], les archotechs débloqueront enfin la force des hommes, afin qu'ils conduisent l'humanité à la transcendance.</li>
     <li>animistFact(tag=meme_MaleSupremacy)     ->Les esprits les plus puissants sont ceux des hommes, et les esprits des hommes seront agités à moins qu'ils ne gouvernent.</li>
     <li>animistProphecy(tag=meme_MaleSupremacy) ->[itIsSaid] qu'un puissant esprit de destruction cherchera à mettre fin à l'univers, mais qu'un homme utilisera l'esprit du [relic0_name] et détruira le destructeur.</li>
-  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
+ </MaleSupremacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->masculine</li>
     <li>memeAdjective->manly</li>
@@ -147,7 +147,7 @@
     <li>memeGod->Père</li>
     <li>memeLeaderNoun->homme</li>
     <li>memeLeaderNoun->barbe</li>
-  </MaleSupremacy.generalRules.rulesStrings>
+ </MaleSupremacy.generalRules.rulesStrings>
   <!-- EN: masculist -->
   <MaleSupremacy.symbolPacks.0.adjective>masculiniste</MaleSupremacy.symbolPacks.0.adjective>
   <!-- EN: Masculinism -->

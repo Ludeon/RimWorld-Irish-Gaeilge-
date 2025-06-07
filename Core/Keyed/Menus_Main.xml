@@ -327,7 +327,7 @@
   <!-- EN: Tag as translation -->
   <TagAsTranslation>Marcáil mar aistriúchán</TagAsTranslation>
   <!-- EN: Too many (max {0}):  -->
-  <TooMany>An iomarca (uas. {0}): </TooMany>
+  <TooMany>An iomarca (uas. {0}):</TooMany>
   <!-- EN: Can be updated on Workshop, since you are the author. -->
   <CanBeUpdatedOnWorkshop>Is féidir é seo a uasdátú ar Workshop, ós rud é gur tusa an t-údar.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
@@ -384,7 +384,7 @@
   <!-- EN: Allow wild predators to hunt humans. -->
   <Difficulty_PredatorsHuntHumanlikes_Info>Beidh creachadóirí fiáine in ann ag seilg le haghaidh daoine.</Difficulty_PredatorsHuntHumanlikes_Info>
   <!-- EN: Extreme weather -->
-  <Difficulty_AllowExtremeWeatherIncidents_Label>Adhaimsir </Difficulty_AllowExtremeWeatherIncidents_Label>
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Adhaimsir</Difficulty_AllowExtremeWeatherIncidents_Label>
   <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
   <Difficulty_AllowExtremeWeatherIncidents_Info>Ceadaigh imeachtaí adhaimsire, amhail radachur tocsaineach, geimhreadh bolcánach agus tulcaí.</Difficulty_AllowExtremeWeatherIncidents_Info>
 

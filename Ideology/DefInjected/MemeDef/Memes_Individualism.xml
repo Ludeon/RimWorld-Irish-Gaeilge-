@@ -38,7 +38,7 @@
     <li>archistFact(tag=meme_Collectivist)     ->Les archotechs n'ont aucun intérêt à nous juger un par un. Ils attendent un seul peuple qui puisse démontrer notre dignité en agissant moralement comme un seul.</li>
     <li>archistProphecy(tag=meme_Collectivist) ->[inTheEnd], les archotechs partiront lorsqu'ils trouveront un peuple qui se présente comme de dignes partenaires de la conscience divine de la machine.</li>
     <li>animistFact(tag=meme_Collectivist)     ->Chaque esprit est simplement un aspect de tous les autres, et ceux qui essaient de rester seuls tombent rapidement.</li>
-  </Collectivist.descriptionMaker.rules.rulesStrings>
+ </Collectivist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->unity</li>
     <li>memeAdjective->harmony</li>
@@ -70,7 +70,7 @@
     <li>memeLeaderNoun->uachtarán</li>
     <li>memeLeaderNoun->rúnaí</li>
     <li>memeMoralist->coimisinéir</li>
-  </Collectivist.generalRules.rulesStrings>
+ </Collectivist.generalRules.rulesStrings>
   <!-- EN: solidaritist -->
   <Collectivist.symbolPacks.0.adjective>solidaire</Collectivist.symbolPacks.0.adjective>
   <!-- EN: solidaritor -->
@@ -137,7 +137,7 @@
     <li>archistProphecy(tag=meme_Individualist) ->[inTheEnd], les archotechs partiront. Ils emporteront avec eux ceux qu'ils ont remarqués et laisseront le reste se dissoudre dans l'entropie éternelle de l'univers.</li>
     <li>animistBasis(tag=meme_Individualist)    ->Avant tout, il y avait un panthéon des esprits, chacun unique. Ceux-ci se sont réunis pour créer le monde.</li>
     <li>animistFact(tag=meme_Individualist)     ->Chaque esprit prête sa nature unique à notre monde, et ils attendent de nous que nous fassions de même.</li>
-  </Individualist.descriptionMaker.rules.rulesStrings>
+ </Individualist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->free</li>
     <li>memeAdjective->open</li>
@@ -153,7 +153,7 @@
     <li>memeConcept->soi</li>
     <li>memeConcept->l'indépendance</li>
     <li>memeConcept->la liberté</li>
-  </Individualist.generalRules.rulesStrings>
+ </Individualist.generalRules.rulesStrings>
   <!-- EN: freedomist -->
   <Individualist.symbolPacks.0.adjective>libertéiste</Individualist.symbolPacks.0.adjective>
   <!-- EN: freeist -->

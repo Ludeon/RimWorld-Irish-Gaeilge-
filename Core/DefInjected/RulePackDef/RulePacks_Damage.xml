@@ -25,7 +25,7 @@
     <li>destroyed_past->Brúisceadh</li>
     <li>destroyed_past->Scriosadh</li>
     <li>destroyed_past->Rinneadh slad ar</li>
-  </Damage_Bomb.rulePack.rulesStrings>
+ </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->electrified</li>
@@ -102,7 +102,7 @@
     <li>destroyed_present->scriosadh</li>
     <li>destroyed_present->milleadh</li>
     <li>destroyed_present->loiteadh</li>
-  </Damage_Flame.rulePack.rulesStrings>
+ </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_past->smoked</li>

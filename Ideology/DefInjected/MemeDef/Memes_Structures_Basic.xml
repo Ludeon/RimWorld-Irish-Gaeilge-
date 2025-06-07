@@ -26,7 +26,7 @@
     <li>memeMoralist->chaman</li>
     <li>memeMoralist->prêtre</li>
     <li>memeMoralist->aîné</li>
-  </Structure_Animist.generalRules.rulesStrings>
+ </Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
   <Structure_Animist.symbolPacks.0.adjective>anamaí</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
@@ -75,7 +75,7 @@
     <li>memeMoralist->clerc</li>
     <li>memeMoralist->recteur</li>
     <li>memeMoralist->abbé</li>
-  </Structure_Archist.generalRules.rulesStrings>
+ </Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
   <Structure_Archist.symbolPacks.0.adjective>archotechnique</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
@@ -130,7 +130,7 @@
     <li>memeMoralist->penseur</li>
     <li>memeMoralist->académicien</li>
     <li>memeMoralist->sophiste</li>
-  </Structure_Ideological.generalRules.rulesStrings>
+ </Structure_Ideological.generalRules.rulesStrings>
   <!-- EN: ethical -->
   <Structure_Ideological.symbolPacks.0.adjective>éthique</Structure_Ideological.symbolPacks.0.adjective>
   <!-- EN: Ethics -->
@@ -203,7 +203,7 @@
     <li>memeMoralist->précheur</li>
     <li>memeMoralist->recteur</li>
     <li>memeMoralist->abbé</li>
-  </Structure_TheistAbstract.generalRules.rulesStrings>
+ </Structure_TheistAbstract.generalRules.rulesStrings>
   <!-- EN: spiritual -->
   <Structure_TheistAbstract.symbolPacks.0.adjective>spirituel</Structure_TheistAbstract.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
@@ -268,7 +268,7 @@
     <li>memeLeaderAdjective->divin</li>
     <li>memeMoralist->prêtre</li>
     <li>memeMoralist->clerc</li>
-  </Structure_TheistEmbodied.generalRules.rulesStrings>
+ </Structure_TheistEmbodied.generalRules.rulesStrings>
   <!-- EN: spiritual -->
   <Structure_TheistEmbodied.symbolPacks.0.adjective>spirituel</Structure_TheistEmbodied.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->

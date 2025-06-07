@@ -9,11 +9,11 @@
 
   <EmpireNameUtility.rulePack.rulesFiles>
     <li>empire_name->Names/Imperial_First_Unisex</li>
-  </EmpireNameUtility.rulePack.rulesFiles>
+ </EmpireNameUtility.rulePack.rulesFiles>
 
   <EmpireNameUtility.rulePack.rulesStrings>
     <li>r_name(p=2)->[empire_name]</li>
-  </EmpireNameUtility.rulePack.rulesStrings>
+ </EmpireNameUtility.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name(p=2)->[WordTribal] [WordTribal]</li>
@@ -29,6 +29,6 @@
     <li>r_name->[Animal] [Color]</li>
     <li>r_name->[Animal] [Animal]</li>
     <li>r_name->[Color] [Animal]</li>
-  </NamerPersonCorunan.rulePack.rulesStrings>
+ </NamerPersonCorunan.rulePack.rulesStrings>
 
 </LanguageData>

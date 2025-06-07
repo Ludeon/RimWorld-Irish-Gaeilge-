@@ -6,13 +6,13 @@
   -->
   <ChangeRoyalHeir.questDescriptionRules.rulesStrings>
     <li>questDescription->\nAfin de consacrer [titleHeir_nameFull] comme étant l'héritier du titre de [titleHolder_nameFull], vous devez construire un monument.\n\nLa taille de ce monument sera [monumentSize] et il nécessitera les ressources suivantes (valeur totale [monumentRequiredResourcesMarketValue_money]) :\n\n[monumentRequiredResources]\n\nNe pas avoir terminé le monument dans les 20 jours est considéré comme profanant le rituel. Vos relations avec [asker_factionName] diminueraient de 25 et l'héritier ne serait pas changé.\n\nSi ce monument est détruit dans les [keepMonumentTicks_duration] jours après la construction, vos relations avec la faction [asker_factionName] diminueront de [goodwillChangeIfMonumentDestroyed].</li>
-  </ChangeRoyalHeir.questDescriptionRules.rulesStrings>
+ </ChangeRoyalHeir.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[titleHeir_nameDef]'s inheritance</li>
   -->
   <ChangeRoyalHeir.questNameRules.rulesStrings>
     <li>questName->l'héritage de [titleHeir_nameDef]</li>
-  </ChangeRoyalHeir.questNameRules.rulesStrings>
+ </ChangeRoyalHeir.questNameRules.rulesStrings>
   <!-- EN: Time left: {0} -->
   <ChangeRoyalHeir.InspectStringTimeLeft.slateRef>Temps restant : {0}</ChangeRoyalHeir.InspectStringTimeLeft.slateRef>
   <!-- EN: [titleHolder_nameDef]'s heir change failed -->

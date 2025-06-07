@@ -19,18 +19,18 @@
     <li>Der(escortees0_genderResolved==Male)->Der</li>
     <li>Der(escortees0_genderResolved==Female)->Die</li>
     <li>Der(escortees0_genderResolved==Neuter)->Das</li>
-  </Bossgroup.questContentRules.rulesStrings>
+ </Bossgroup.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->bossgroup</li>
   -->
   <Bossgroup.questDescriptionRules.rulesStrings>
     <li>questDescription->Bossgruppe</li>
-  </Bossgroup.questDescriptionRules.rulesStrings>
+ </Bossgroup.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->bossgroup</li>
   -->
   <Bossgroup.questNameRules.rulesStrings>
     <li>questName->Bossgruppe</li>
-  </Bossgroup.questNameRules.rulesStrings>
+ </Bossgroup.questNameRules.rulesStrings>
   
 </LanguageData>

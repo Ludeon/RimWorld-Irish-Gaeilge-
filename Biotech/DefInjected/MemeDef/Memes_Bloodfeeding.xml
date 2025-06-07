@@ -62,7 +62,7 @@
     <li>place_personalWeapon_dat_indef->einem [place_personalWeapon_mas]</li>
     <li>place_personalWeapon_dat_indef->einer [place_personalWeapon_fem]</li>
     <li>place_personalWeapon_dat_indef->einem [place_personalWeapon_neu]</li>
-  </Bloodfeeding.descriptionMaker.rules.rulesStrings>
+ </Bloodfeeding.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->blood</li>
     <li>memeAdjective->blood hungry</li>
@@ -100,6 +100,6 @@
     <li>memeLeaderNounCon->blutsauger</li>
     <li>memeMoralist->Seneschall</li>
     <li>memeMoralist->Sanguinist</li>
-  </Bloodfeeding.generalRules.rulesStrings>
+ </Bloodfeeding.generalRules.rulesStrings>
   
 </LanguageData>

@@ -14,7 +14,7 @@
     <li>raidsDescription(allowViolence==false)-></li>
     <li>droneDetectionMethod(enemyFactionNeolithic==true)->repérer le drone pendant sa descente</li>
     <li>droneDetectionMethod(enemyFactionNeolithic==false)->détecter la signature énergétique du drone</li>
-  </Hack_Spacedrone.questDescriptionRules.rulesStrings>
+ </Hack_Spacedrone.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[droneAdj] [drone] hack</li>
     <li>questName->[drone] [data] hack</li>
@@ -42,6 +42,6 @@
     <li>data->des données</li>
     <li>data->des secrets</li>
     <li>data->des informations</li>
-  </Hack_Spacedrone.questNameRules.rulesStrings>
+ </Hack_Spacedrone.questNameRules.rulesStrings>
   
 </LanguageData>

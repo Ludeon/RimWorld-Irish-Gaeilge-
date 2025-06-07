@@ -36,7 +36,7 @@
     <li>factionAdj(pilgrimFaction==true)-></li>
     <li>factionAdj(pilgrimCount==1,pilgrimFaction==false)->[faction_pawnSingular]</li>
     <li>factionAdj(pilgrimCount>=2,pilgrimFaction==false)->[faction_pawnsPlural]</li>
-  </ReliquaryPilgrims.questContentRules.rulesStrings>
+ </ReliquaryPilgrims.questContentRules.rulesStrings>
   <!-- EN:
     <li>pilgrimsLabel->[pawns0_nameDef]</li>
     <li>pilgrimsLabelPlural->[faction_pawnsPlural]</li>
@@ -54,7 +54,7 @@
     <li>hasHave(pilgrimCount>=2)->ont</li>
     <li>isAre(pilgrimCount==1)->est</li>
     <li>isAre(pilgrimCount>=2)->sont</li>
-  </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
+ </ReliquaryPilgrims.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[pilgrimsLabelSingularOrPlural] [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
     <li>questDescription(pilgrimCount==1,childCount==1,priority=1)->[pilgrimsLabelSingularOrPlural], a child, [hasHave] arrived to venerate the [relic_name].\n\nIf you ensure [pronounSingularOrPlural] [isAre] safe and respected while [pronounSingularOrPlural] [visitSingularOrPlural] the ancient relic, [pronounSingularOrPlural] may offer you a reward.</li>
@@ -83,7 +83,7 @@
     <li>pilgrimArrived(pilgrimCount==1,pawns0_gender==Female)->arrivée</li>
     <li>pilgrimArrived(pilgrimCount==1,pawns0_gender==None)->arrivé</li>
     <li>pilgrimArrived(pilgrimCount>=2)->arrivés</li>
-  </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
+ </ReliquaryPilgrims.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(pilgrimCount==1)->[pilgrimsLabelSingularOrPlural]'s [visitAdj] [visit]</li>
     <li>questName(pilgrimCount>=2)->[pilgrimsLabelSingularOrPlural] [visitAdj] [visit]</li>
@@ -134,6 +134,6 @@
     <li>visitFem->expédition</li>
     <li>visitFem->excursion</li>
     <li>visitFem->vénération</li>
-  </ReliquaryPilgrims.questNameRules.rulesStrings>
+ </ReliquaryPilgrims.questNameRules.rulesStrings>
   
 </LanguageData>

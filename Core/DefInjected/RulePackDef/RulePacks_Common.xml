@@ -5,8 +5,8 @@
     <li Class="Rule_File">
       <keyword>Placename_Village</keyword>
       <path>Strings/Names/TribalVillage</path>
-    </li>
-  </rulesRaw>
+   </li>
+ </rulesRaw>
 
   <!-- EN:
     <li>PlaceOutlander->[SylE][place_end]</li>

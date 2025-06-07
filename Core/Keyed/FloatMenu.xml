@@ -155,7 +155,7 @@
   <!-- EN: unroofed -->
   <CantSowCavePlantBecauseUnroofed>gan díon</CantSowCavePlantBecauseUnroofed>
   <!-- EN: incapable of deconstruction -->
-  <IncapableOfDeconstruction>ní féidir </IncapableOfDeconstruction>
+  <IncapableOfDeconstruction>ní féidir</IncapableOfDeconstruction>
   <!-- EN: incapable of mining -->
   <IncapableOfMining>mianadóireacht coiscthe</IncapableOfMining>
   <!-- EN: tree marked for extraction -->
@@ -540,7 +540,7 @@
     "ag scriosadh"-"a scriosadh";
     "ag dílódáil"-"a dhílódáil";
     "ag tabhairt cuairt ar"-"a fheiceáil";} {2_labelShort} cheana féin.
-  </CannotGenericAlreadyAm>
+ </CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
 
@@ -648,7 +648,7 @@
     "ag scriosadh"-"a scriosadh";
     "ag dílódáil"-"a dhílódáil";
     "ag tabhairt cuairt ar"-"a fheiceáil";}
-  </PrioritizeGeneric>
+ </PrioritizeGeneric>
   
   <!-- EN: Drop at edge -->
   <DropAtEdge>Leaindáil ag an taobh</DropAtEdge>

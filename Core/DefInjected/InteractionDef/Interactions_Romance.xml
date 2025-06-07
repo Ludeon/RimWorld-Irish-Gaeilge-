@@ -13,7 +13,7 @@
     <li>r_logentry->D'iarr [INITIATOR_nameDef] spás ar [RECIPIENT_nameDef].</li>
     <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] nach bhfuil cúrsaí ag oibriú amach.</li>
     <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] gurbh fhearr briseadh suas.</li>
-  </Breakup.logRulesInitiator.rulesStrings>
+ </Breakup.logRulesInitiator.rulesStrings>
   
   <!-- EN: marriage proposal -->
   <MarriageProposal.label>ceiliúr pósta</MarriageProposal.label>
@@ -25,7 +25,7 @@
   <MarriageProposal.logRulesInitiator.rulesStrings>
     <li>r_logentry->Chuir [INITIATOR_nameDef] céiliúr pósta ar [RECIPIENT_nameDef].</li>
     <li>r_logentry->Dúirt [INITIATOR_nameDef] le [RECIPIENT_nameDef] go bhfuil [INITIATOR_pronoun] ag iarraidh an chuid eile dá s[INITIATOR_possessive]ol a chaitheamh le [RECIPIENT_nameDef].</li>
-  </MarriageProposal.logRulesInitiator.rulesStrings>
+ </MarriageProposal.logRulesInitiator.rulesStrings>
   
   <!-- EN: romance attempt -->
   <RomanceAttempt.label>rómánsúlacht</RomanceAttempt.label>
@@ -116,6 +116,6 @@
     <li>romantic_noun(p=2)->[TerrainFeature]</li>
     <li>romantic_noun(p=2)->[NaturalObject]</li>
   
-  </RomanceAttempt.logRulesInitiator.rulesStrings>
+ </RomanceAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

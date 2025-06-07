@@ -24,7 +24,7 @@
   <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
     <li>sent->Tá [RECIPIENT_nameDef] ag siúl amach le [INITIATOR_nameDef] anois.</li>
     <li>sent->Tá [RECIPIENT_nameDef] ag dul le [INITIATOR_nameDef] anois.</li>
-    </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+   </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>

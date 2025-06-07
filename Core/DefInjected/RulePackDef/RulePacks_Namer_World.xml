@@ -29,6 +29,6 @@
     <li>r_name(p=0.5)->[celestial_name] [RomanNumeral]</li>
     <li>r_name(p=0.5)->[celestial_name]-[RomanNumeral]</li>
     <li>r_name(p=0.5)->[celestial_name]-[numbers]</li>
-  </NamerWorld.rulePack.rulesStrings>
+ </NamerWorld.rulePack.rulesStrings>
   
 </LanguageData>

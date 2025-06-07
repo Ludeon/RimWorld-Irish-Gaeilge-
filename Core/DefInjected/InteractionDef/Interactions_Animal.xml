@@ -35,7 +35,7 @@
     <li>tamed->cúpla focal</li>
     <li>tamed->cúpla rud dearfach</li>
     <li>tamed->scéal maidir le [TalkTopicAny]</li>
-  </AnimalChat.logRulesInitiator.rulesStrings>
+ </AnimalChat.logRulesInitiator.rulesStrings>
   
   <!-- EN: nuzzle -->
   <Nuzzle.label>ainmhithe</Nuzzle.label>
@@ -75,7 +75,7 @@
     <li>nuzzleadverb->go cairdiúil</li>
     <li>nuzzleadverb->go ceanúil</li>
     <li>nuzzleadverb->go muirneach</li>
-  </Nuzzle.logRulesInitiator.rulesStrings>
+ </Nuzzle.logRulesInitiator.rulesStrings>
   
   <!-- EN: release to the wild -->
   <ReleaseToWild.label>ainmhí a scaoileadh saor</ReleaseToWild.label>
@@ -98,7 +98,7 @@
     <li>farewell->Dúirt [INITIATOR_nameDef] cúpla rud deas le [RECIPIENT_nameDef]</li>
     <li>released->agus d'imigh [RECIPIENT_objective] ar ais chuig an nádúr.</li>
     <li>released->agus d'imigh [RECIPIENT_objective].</li>
-  </ReleaseToWild.logRulesInitiator.rulesStrings>
+ </ReleaseToWild.logRulesInitiator.rulesStrings>
   
   <!-- EN: tame attempt -->
   <TameAttempt.label>ceansú</TameAttempt.label>
@@ -124,7 +124,7 @@
     <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nameDef] a chur faoi smacht.</li>
     <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht cúpla rud a mhúineadh do [RECIPIENT_nameDef].</li>
     <li>r_logentry->Thug [INITIATOR_nameDef] ordú do [RECIPIENT_nameDef].</li>
-  </TameAttempt.logRulesInitiator.rulesStrings>
+ </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->
   <TrainAttempt.label>traenáil</TrainAttempt.label>
@@ -147,6 +147,6 @@
     <li>training->cleas úr</li>
     <li>training->scil úr</li>
     <li>training->scil nua</li>
-  </TrainAttempt.logRulesInitiator.rulesStrings>
+ </TrainAttempt.logRulesInitiator.rulesStrings>
   
 </LanguageData>

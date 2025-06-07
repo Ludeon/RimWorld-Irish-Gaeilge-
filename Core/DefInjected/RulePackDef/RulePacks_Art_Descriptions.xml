@@ -15,7 +15,7 @@
     <li>desc_sentence_group->[desc_sentence] [style_group]</li>
     <li>context_sentence->Déanann [depiction] seo cur síos ar [tale_noun] ar [DATE].</li>
     <li>context_sentence->Baineann [depiction] seo le [tale_noun] ar [DATE].</li>
-  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+ </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_art_description->[physical_description_root]</li>
@@ -24,7 +24,7 @@
   <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
     <li>r_art_description->[physical_description_root]</li>
     <li>desc_sentence_group->[style_group]</li>
-  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+ </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
   
   <!-- EN:
     <li>style_group->[artextra_clause]. [style_clause].</li>
@@ -371,6 +371,6 @@
     <li>artstyle_adj->erotic</li>
     <li>artstyle_adj->sensual</li>
     <li>artstyle_adj->heartfelt</li>
-  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+ </ArtDescriptionUtility_Global.rulePack.rulesStrings>
   
 </LanguageData>

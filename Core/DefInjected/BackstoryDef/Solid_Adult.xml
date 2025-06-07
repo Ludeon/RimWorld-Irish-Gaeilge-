@@ -74,9 +74,9 @@
   <!-- EN: [PAWN_pronoun] was trapped in an uninspired life. One day, [PAWN_pronoun] jumped on a ship to learn archaeology and see the universe.\n\n[PAWN_pronoun] learned how to survive. [PAWN_pronoun] also learned about people - although [PAWN_pronoun] understood the dead better than the living. -->
   <Archaeologist85.description>Seandálaí ab ea [PAWN_nameDef]. Thaisteal [PAWN_pronoun] ar fud na cruinne agus chonaic [PAWN_pronoun] go leor pláinéad. Tá tuiscint mhaith ag [PAWN_nameDef] ar dhaoine eile - go háirithe ar na mairbh.</Archaeologist85.description>
   <!-- EN: archaeologist -->
-  <Archaeologist85.title>seandálaí </Archaeologist85.title>
+  <Archaeologist85.title>seandálaí</Archaeologist85.title>
   <!-- EN: explorer -->
-  <Archaeologist85.titleShort>seandálaí </Archaeologist85.titleShort>
+  <Archaeologist85.titleShort>seandálaí</Archaeologist85.titleShort>
 
   <!-- EN: [PAWN_nameDef] researched archotech intelligences.\n\nStudying a mysterious archotechnological object from orbit, [PAWN_pronoun] became convinced that it was communicating directly with [PAWN_objective]. Eventually [PAWN_possessive] colleagues caught [PAWN_objective] transmitting secret information directed towards the dark sphere, and he was forced to flee. -->
   <ArchotechSpy75.description>D'oibrigh [PAWN_nameDef] mar thaighdeoir i saotharlann. Dhírigh [PAWN_pronoun] ar an arcai-theicneolaíocht, ach d'imir an teicneolaíocht drochtionchar ar shláinte agus intinn na dtaighdeoirí, agus cuireadh deireadh leis an tionscadal.</ArchotechSpy75.description>
@@ -135,7 +135,7 @@
   <ArtStudent79.titleShort>ealaíontóir</ArtStudent79.titleShort>
 
   <!-- EN: [PAWN_nameDef] was specially trained as an operative to be used for high-risk assassinations. [PAWN_possessive] skill with a rifle was unrivalled.\n\n[PAWN_pronoun] was eventually betrayed by [PAWN_possessive] superiors when a target found out about the hit and offered to fund their future projects. [PAWN_nameDef] swore to never trust anyone again. -->
-  <Assassin7.description>Dúnmharfóir ar fostú ab ea [PAWN_nameDef]. Mharaigh [PAWN_pronoun] daoine do chliaint, agus is beag muinín a chuireann [PAWN_nameDef] i ndaoine eile mar gheall ar an obair sin. </Assassin7.description>
+  <Assassin7.description>Dúnmharfóir ar fostú ab ea [PAWN_nameDef]. Mharaigh [PAWN_pronoun] daoine do chliaint, agus is beag muinín a chuireann [PAWN_nameDef] i ndaoine eile mar gheall ar an obair sin.</Assassin7.description>
   <!-- EN: assassin -->
   <Assassin7.title>feallmharfóir</Assassin7.title>
   <!-- EN: assassin -->
@@ -144,16 +144,16 @@
   <!-- EN: [PAWN_nameDef] was an infantryman. When [PAWN_pronoun] was informed of [PAWN_possessive] assignment to the Xennoa-Zartza War, [PAWN_pronoun] decided [PAWN_pronoun] did not want to be a soldier. [PAWN_pronoun] was able to escape via military spacejet. -->
   <AWOLSoldier49.description>Saighdiúir ab ea [PAWN_nameDef], ach thréig [PAWN_pronoun] an t-aonad nuair a fuair [PAWN_pronoun] amach go raibh [PAWN_pronoun] le seoladh chuig an gcogadh ar an bpláinéad Xéina-Zarta. Ghoid [PAWN_pronoun] spáslong agus d'éalaigh [PAWN_pronoun].</AWOLSoldier49.description>
   <!-- EN: AWOL soldier -->
-  <AWOLSoldier49.title>tréigtheoir </AWOLSoldier49.title>
+  <AWOLSoldier49.title>tréigtheoir</AWOLSoldier49.title>
   <!-- EN: soldier -->
-  <AWOLSoldier49.titleShort>tréigtheoir </AWOLSoldier49.titleShort>
+  <AWOLSoldier49.titleShort>tréigtheoir</AWOLSoldier49.titleShort>
 
   <!-- EN: [PAWN_nameDef] rose up the ranks of the crime organization, eventually becoming the leader of one of their most remote cells of bandits. [PAWN_possessive] dog Rest never left [PAWN_possessive] side. -->
   <BanditLeader74.description>Bhí céim ard ag [PAWN_nameDef] in eagraíocht choiriúil, agus bhí [PAWN_pronoun] mar cheannaire ar ghrúpa cumhachta.</BanditLeader74.description>
   <!-- EN: bandit leader -->
   <BanditLeader74.title>meirleach</BanditLeader74.title>
   <!-- EN: bandit -->
-  <BanditLeader74.titleShort>meirleach </BanditLeader74.titleShort>
+  <BanditLeader74.titleShort>meirleach</BanditLeader74.titleShort>
 
   <!-- EN: [PAWN_nameDef] became the most physically intimidating of the slaves, spending [PAWN_possessive] little free time obsessively sculpting [PAWN_possessive] body. [PAWN_possessive] efforts eventually paid off when the lord offered [PAWN_objective] a job as a personal bodyguard.\n\nLater, when [PAWN_pronoun] plotted to use [PAWN_possessive] position to kill the lord and free the slaves, [PAWN_pronoun] was discovered and barely escaped with [PAWN_possessive] life. -->
   <BanishedSoldier85.description>Sclábhaí ab ea [PAWN_nameDef], agus chuaigh [PAWN_pronoun] le grúpa sclábhaithe a raibh sé ar intinn acu éalú ón ngéibheann. Sular éalaigh siad, mharaigh siad an tiarna ríoga  a bhí mar úinéir orthu - agus ba bheag nár maraíodh iad ar fad agus iad ag iarraidh éalú.</BanishedSoldier85.description>
@@ -265,7 +265,7 @@
   <!-- EN: business gangster -->
   <BusinessGangster58.title>drongadóir</BusinessGangster58.title>
   <!-- EN: gangster -->
-  <BusinessGangster58.titleShort>drongadóir </BusinessGangster58.titleShort>
+  <BusinessGangster58.titleShort>drongadóir</BusinessGangster58.titleShort>
 
   <!-- EN: [PAWN_nameDef] was the leader of a caravan. [PAWN_pronoun] was responsible for the safety of [PAWN_possessive] caravan and was the head negotiator in countless trade deals.\n\n[PAWN_pronoun] and [PAWN_possessive] people prospered, but their wealth made them a target for brigands. They often had to take up arms to fend off bandits and highwaymen. -->
   <Caravaneer53.description>D'oibrigh  [PAWN_nameDef] le carbhán mór, ag taisteal ó háit go háit le hainmhithe, lastas agus feithiclí. Tá scileanna iontacha trádála ag [PAWN_nameDef] mar gheall ar an taithí sin.</Caravaneer53.description>
@@ -492,7 +492,7 @@
   <CriminalKingpin36.titleShort>barún</CriminalKingpin36.titleShort>
 
   <!-- EN: Being near many injured fellow criminals, [PAWN_nameDef] took it upon [PAWN_objective]self to work on them. Although many people died, [PAWN_pronoun] did get better at using knives. -->
-  <CriminalSurgeon99.description>D'oibrigh [PAWN_nameDef] mar mháinlia i ndrong coirpeach. Cailleadh go leor daoine, ach scileanna maithe leighis ag [PAWN_nameDef]. </CriminalSurgeon99.description>
+  <CriminalSurgeon99.description>D'oibrigh [PAWN_nameDef] mar mháinlia i ndrong coirpeach. Cailleadh go leor daoine, ach scileanna maithe leighis ag [PAWN_nameDef].</CriminalSurgeon99.description>
   <!-- EN: criminal surgeon -->
   <CriminalSurgeon99.title>máinlia coiriúil</CriminalSurgeon99.title>
   <!-- EN: surgeon -->
@@ -1497,7 +1497,7 @@
   <!-- EN: sanitation captain -->
   <SanitationCaptain29.title>príomhfheighlí</SanitationCaptain29.title>
   <!-- EN: janitor -->
-  <SanitationCaptain29.titleShort>feighlí </SanitationCaptain29.titleShort>
+  <SanitationCaptain29.titleShort>feighlí</SanitationCaptain29.titleShort>
 
   <!-- EN: [PAWN_nameDef] was a hunter of mysterious creatures that many didn't even believe existed. Sometimes the people were right - and sometimes they were wrong.\n\nAlong the way, [PAWN_pronoun] helped people in need. -->
   <SelflessHunter61.description>TODO</SelflessHunter61.description>

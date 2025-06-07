@@ -18,7 +18,7 @@
     <li>cultureLeaderAdjective->premier</li>
     <li>cultureLeaderAdjective->grand</li>
     <li>cultureLeaderNoun->chef</li>
-  </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
+ </LeaderTitleMaker_Corunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderAdjective->high</li>
@@ -39,7 +39,7 @@
     <li>cultureLeaderNoun->directeur</li>
     <li>cultureLeaderNoun->gouverneur</li>
     <li>cultureLeaderNoun->chef</li>
-  </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
+ </LeaderTitleMaker_GenericContent.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle(p=6)->[memeLeaderAdjective] [memeLeaderNoun]</li>
@@ -52,7 +52,7 @@
     <li>r_leaderTitle(p=3)->[memeLeaderNoun] [cultureLeaderAdjective]</li>
     <li>r_leaderTitle(p=1)->[cultureLeaderNoun] [memeLeaderAdjective]</li>
     <li>r_leaderTitle(p=1)->[cultureLeaderTitle]</li>
-  </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
+ </LeaderTitleMaker_GlobalStructure.rulePack.rulesStrings>
   
   <!-- EN:
     <li>memeLeaderNoun(priority=1)->[cultureLeaderNoun]</li>
@@ -78,7 +78,7 @@
     <li>cultureLeaderNoun->fromage</li>
     <li>cultureLeaderNoun->pistolet</li>
     <li>cultureLeaderNoun->chien</li>
-  </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
+ </LeaderTitleMaker_Kriminul.rulePack.rulesStrings>
   
   <!-- EN:
     <li>cultureLeaderTitle->[cultureLeaderAdjective] [cultureLeaderNoun]</li>
@@ -99,13 +99,13 @@
     <li>cultureLeaderNoun->ministre</li>
     <li>cultureLeaderNoun->guide</li>
     <li>cultureLeaderNoun->timonier</li>
-  </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
+ </LeaderTitleMaker_Rustican.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_leaderTitle->high stellarch</li>
   -->
   <LeaderTitleMaker_Sophian.rulePack.rulesStrings>
     <li>r_leaderTitle->grand stellaire</li>
-  </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
+ </LeaderTitleMaker_Sophian.rulePack.rulesStrings>
   
 </LanguageData>

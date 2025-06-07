@@ -5,8 +5,8 @@
     <li Class="Rule_File">
       <keyword>world_ending</keyword>
       <path>/Words/Adjectives/WorldEndings</path>
-    </li>
-  </rulesRaw>
+   </li>
+ </rulesRaw>
 
   <!-- EN:
     <li>r_name->[msyl][msyl] [mechhive]</li>
@@ -45,7 +45,7 @@
     <li>msyl->na Meaisín</li>
     <li>msyl->na Giarsraithe</li>
     <li>msyl->an Mheicneitheora</li>
-    </NamerFactionMechanoid.rulePack.rulesStrings>
+   </NamerFactionMechanoid.rulePack.rulesStrings>
 
   <!-- EN:
     <li>political_union_outlander->Words/Nouns/PoliticalUnions_Outlander</li>
@@ -55,7 +55,7 @@
   <!-- <NamerFactionOutlander.rulePack.rulesFiles>
     <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
     <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
-  </NamerFactionOutlander.rulePack.rulesFiles> -->
+ </NamerFactionOutlander.rulePack.rulesFiles> -->
 
   <!-- EN:
     <li>r_name(p=3)->[nearnameinitial]</li>
@@ -69,7 +69,7 @@
 
  <NamerFactionOutlander.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
-  </NamerFactionOutlander.rulePack.rulesFiles>
+ </NamerFactionOutlander.rulePack.rulesFiles>
 
   <NamerFactionOutlander.rulePack.rulesStrings>
     <li>r_name->[outlandersettlement] [world_ending]</li>
@@ -86,7 +86,7 @@
     <li>outlandersettlement->Complacht</li>
     <li>outlandersettlement->Gasra</li>
     <li>outlandersettlement->Meitheal</li>
-  </NamerFactionOutlander.rulePack.rulesStrings>
+ </NamerFactionOutlander.rulePack.rulesStrings>
 
     <!-- EN:
     <li>groupname->Words/Nouns/GroupNames</li>
@@ -95,7 +95,7 @@
   <!-- <NamerFactionPirate.rulePack.rulesFiles>
    <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
    <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
-  </NamerFactionPirate.rulePack.rulesFiles> -->
+ </NamerFactionPirate.rulePack.rulesFiles> -->
 
   <!-- EN:
     <li>r_name->The [AnimalBadass]s</li>
@@ -129,7 +129,7 @@
 
   <NamerFactionPirate.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
-  </NamerFactionPirate.rulePack.rulesFiles>
+ </NamerFactionPirate.rulePack.rulesFiles>
 
   <NamerFactionPirate.rulePack.rulesStrings>
     <li>r_name->[pirate_word] [world_ending]</li>
@@ -148,7 +148,7 @@
     <li>pirate_word->Gasra</li>
     <li>pirate_word->Bráithre</li>
     <li>pirate_word->Bráithreachas</li>
-  </NamerFactionPirate.rulePack.rulesStrings>
+ </NamerFactionPirate.rulePack.rulesStrings>
 
   <!-- EN:
     <li>political_union_tribal->Words/Nouns/PoliticalUnions_Tribal</li>
@@ -156,7 +156,7 @@
   <!-- <NamerFactionTribal.rulePack.rulesFiles>
    <li>outlander_genitive->Words/Genitive/PoliticalUnionsGenitive.txt</li>
    <li>outlander_union->Words/Nouns/PoliticalUnions_Outlander.txt</li>
-  </NamerFactionTribal.rulePack.rulesFiles> -->
+ </NamerFactionTribal.rulePack.rulesFiles> -->
 
   <!-- EN:
     <li>r_name->[WordTribal] [political_union_tribal]</li>
@@ -169,7 +169,7 @@
 
   <NamerFactionTribal.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
-  </NamerFactionTribal.rulePack.rulesFiles>
+ </NamerFactionTribal.rulePack.rulesFiles>
 
   <NamerFactionTribal.rulePack.rulesStrings>
     <li>r_name->[tribalsettlement] [world_ending]</li>
@@ -180,14 +180,14 @@
     <li>tribalsettlement->Dúchas</li>
     <li>tribalsettlement->Craobh</li>
     <li>tribalsettlement->Meitheal</li>
-  </NamerFactionTribal.rulePack.rulesStrings>
+ </NamerFactionTribal.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name->Colony</li>
   -->
   <NamerInitialSettlementColony.rulePack.rulesStrings>
     <li>r_name->Coilíneacht</li>
-  </NamerInitialSettlementColony.rulePack.rulesStrings>
+ </NamerInitialSettlementColony.rulePack.rulesStrings>
 
 
   <!-- EN:
@@ -195,7 +195,7 @@
   -->
   <NamerInitialSettlementTribe.rulePack.rulesStrings>
     <li>r_name->Baile</li>
-  </NamerInitialSettlementTribe.rulePack.rulesStrings>
+ </NamerInitialSettlementTribe.rulePack.rulesStrings>
 
   <!-- EN:
     <li>townname_fixed->Names/OutlanderTown</li>
@@ -206,7 +206,7 @@
     <li>community->Words/Nouns/Communities</li>
     <li>concept_positive->Words/Nouns/Concepts_Positive</li>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
-  </NamerSettlementOutlander.rulePack.rulesFiles>
+ </NamerSettlementOutlander.rulePack.rulesFiles>
 
   <!-- EN:
     <li>r_name(p=12)->[townname_wordgen]</li>
@@ -264,7 +264,7 @@
      <li>r_name->[townname_fixed]</li>
      <li>r_name->[community] [concept_positive]</li>
      <li>r_name->[community] [world_ending]</li>
-  </NamerSettlementOutlander.rulePack.rulesStrings>
+ </NamerSettlementOutlander.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name(p=4)->[townname_combo]</li>
@@ -313,7 +313,7 @@
     <li>concept_badass->Words/Nouns/Concepts_Badass</li>
     <li>concept_angsty->Words/Nouns/Concepts_Angsty</li>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
-  </NamerSettlementPirate.rulePack.rulesFiles>
+ </NamerSettlementPirate.rulePack.rulesFiles>
 
   <NamerSettlementPirate.rulePack.rulesStrings>
     <li>r_name->[townname_outlander]</li>
@@ -329,7 +329,7 @@
     <li>piratesettlement->Cumann</li>
     <li>piratesettlement->Bád</li>
     <li>piratesettlement->Conradh</li>
-  </NamerSettlementPirate.rulePack.rulesStrings>
+ </NamerSettlementPirate.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name(p=2)->[WordTribal]</li>
@@ -344,15 +344,15 @@
     <li Class="Rule_File">
       <keyword>Placename_Village</keyword>
       <path>Strings/Names/TribalVillage</path>
-    </li>
-  </rulesRaw>
+   </li>
+ </rulesRaw>
 
   <NamerSettlementTribal.rulePack.rulesFiles>
     <li>townname_tribal->Names/TribalVillage</li>
-  </NamerSettlementTribal.rulePack.rulesFiles>
+ </NamerSettlementTribal.rulePack.rulesFiles>
 
   <NamerSettlementTribal.rulePack.rulesStrings>
     <li>r_name->[townname_tribal]</li>
-  </NamerSettlementTribal.rulePack.rulesStrings>
+ </NamerSettlementTribal.rulePack.rulesStrings>
 
 </LanguageData>

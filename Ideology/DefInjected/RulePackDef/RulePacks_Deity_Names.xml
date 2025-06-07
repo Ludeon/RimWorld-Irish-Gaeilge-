@@ -24,7 +24,7 @@
     <li>end->teo</li>
     <li>end->teas</li>
     <li>end->dio</li>
-  </GodContent_Byzantine.rulePack.rulesStrings>
+ </GodContent_Byzantine.rulePack.rulesStrings>
   
   <!-- EN:
     <li>name->[start][middle][end]</li>
@@ -241,7 +241,7 @@
     <li>end->tor</li>
     <li>end->ton</li>
     <li>end->tar</li>
-  </GodContent_English.rulePack.rulesStrings>
+ </GodContent_English.rulePack.rulesStrings>
   
   <!-- EN:
     <li>name->[syl][end]</li>
@@ -266,13 +266,13 @@
     <li>end->brin</li>
     <li>end->bai</li>
     <li>end->bust</li>
-  </NamerDeityCorunan.rulePack.rulesStrings>
+ </NamerDeityCorunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_deityName->[name]</li>
   -->
   <NamerDeityGlobal.rulePack.rulesStrings>
     <li>r_deityName->[name]</li>
-  </NamerDeityGlobal.rulePack.rulesStrings>
+ </NamerDeityGlobal.rulePack.rulesStrings>
   
 </LanguageData>

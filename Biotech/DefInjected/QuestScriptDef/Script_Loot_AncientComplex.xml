@@ -10,7 +10,7 @@
     <li>questDescription->[discoveryDesc], der die Überreste eines längst verstorbenen Mechanitors enthält.\n\nMechanitoren können Arbeits- und Kampfmechanoiden erschaffen, kontrollieren und manipulieren. Wenn du in den Komplex eindringst und den Leichnam des Mechanitors findest, kannst du seinen Mechlink extrahieren und einen deiner Kolonisten zu einem Mechanitor machen.\n\nAber Vorsicht - solche Strukturen können viele Gefahren enthalten. Außerdem können deine Aktivitäten im Komplex unerwünschte Aufmerksamkeit erregen.</li>
     <li>discoveryDesc(discovered==false)->Du hast von einem antiken Komplex in der Nähe erfahren</li>
     <li>discoveryDesc(discovered==true)->Du hast den Standort eines antiken Komplexes in der Nähe lokalisiert</li>
-  </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+ </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] mechanitor [complex]</li>
     <li>questName->mechanitor [complex]</li>
@@ -50,6 +50,6 @@
     <li>complex->[complexMas]</li>
     <li>complex->[complexFem]</li>
     <li>complex(p=0.33)->[complexNeu]</li>
-  </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+ </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
   
 </LanguageData>

@@ -26,7 +26,7 @@
   <!-- EN: Right-click and drag to have your drafted fighters form a line. Bunched-up targets are easy to hit! -->
   <GameplayTips.GunfightSpread>Deaschliceáil agus tarraing chun do chóilínigh dhréachtaithe a chur i líne. Tá sé éasca targaidí atá in aice lena chéile a bhualadh!</GameplayTips.GunfightSpread>
   <!-- EN: Smoke totally prevents turrets from detecting targets, but people can still shoot with reduced accuracy. -->
-  <GameplayTips.ShootingAccuracySmoke>Má tá deatach ann, ní bheidh túiríní in ann targaidí a aimsiú. Is féidir iad a úsáid, ach ní bheidh siad chomh cruinn céanna! </GameplayTips.ShootingAccuracySmoke>
+  <GameplayTips.ShootingAccuracySmoke>Má tá deatach ann, ní bheidh túiríní in ann targaidí a aimsiú. Is féidir iad a úsáid, ach ní bheidh siad chomh cruinn céanna!</GameplayTips.ShootingAccuracySmoke>
   <!-- EN: When designing defences, assume enemies will get inside using drop pods or tunnels. Build internal defensive positions. -->
   <GameplayTips.DesignDefenses>Agus do chosaint á tógáil, ná déan dearmad go bhféadfaidh naimhde teacht anuas ón spéir nó aníos ón talamh. Bí cinnte go bhfuil cosaint inmheánach agat.</GameplayTips.DesignDefenses>
   <!-- EN: Foggy or rainy weather reduces the accuracy of ranged weapons. -->

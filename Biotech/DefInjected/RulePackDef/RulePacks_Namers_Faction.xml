@@ -7,7 +7,7 @@
   <ImpidUtility.rulePack.rulesFiles>
     <li>SylI->WordParts/Syllables_Impid</li>
     <li>SylICap->WordParts/Syllables_Impid_Cap</li>
-  </ImpidUtility.rulePack.rulesFiles>
+ </ImpidUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>placeNameCore->[SylI][SylI]</li>
     <li>placeNameCore->[SylI][SylI][SylI]</li>
@@ -55,14 +55,14 @@
     <li>placeEnd->ken</li>
     <li>placeEnd->kev</li>
     <li>placeEnd->vel</li>
-  </ImpidUtility.rulePack.rulesStrings>
+ </ImpidUtility.rulePack.rulesStrings>
 
   <!-- EN:
     <li>political_union_outlander->Words/Nouns/PoliticalUnions_Outlander</li>
   -->
   <NamerFactionOutlanderPig.rulePack.rulesFiles>
     <li>political_union_outlander->Words/Nouns/PoliticalUnions_Outlander</li>
-  </NamerFactionOutlanderPig.rulePack.rulesFiles>
+ </NamerFactionOutlanderPig.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=2)->[nameCore]</li>
     <li>r_name->[nameCore] [political_union_outlander]</li>
@@ -119,7 +119,7 @@
     <li>endCap->Pog</li>
     <li>endCap->Mok</li>
     <li>endCap->Mm</li>
-  </NamerFactionOutlanderPig.rulePack.rulesStrings>
+ </NamerFactionOutlanderPig.rulePack.rulesStrings>
 
   <!-- EN:
     <li>groupname->Words/Nouns/GroupNames</li>
@@ -127,7 +127,7 @@
   <NamerFactionPirateWaster.rulePack.rulesFiles>
     <li>groupname->Words/Nouns/GroupNames</li>
     <li>groupname_low->Words/Nouns/GroupNames_Low</li>
-  </NamerFactionPirateWaster.rulePack.rulesFiles>
+ </NamerFactionPirateWaster.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[poison] [groupname]</li>
     <li>r_name->[poison] [men]</li>
@@ -162,7 +162,7 @@
     <li>men->Verderber</li>
     <li>men->Glitscher</li>
     <li>men->Plagen</li>
-  </NamerFactionPirateWaster.rulePack.rulesStrings>
+ </NamerFactionPirateWaster.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -194,7 +194,7 @@
     <li>faction->Pelzsippe</li>
     <li>faction->Fellclan</li>
     <li>faction->Fellsippe</li>
-  </NamerFactionPirateYttakin.rulePack.rulesStrings>
+ </NamerFactionPirateYttakin.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
@@ -217,14 +217,14 @@
     <li>faction->Sprintschaft</li>
     <li>faction->Flammenheim</li>
     <li>faction->Feuerheim</li>
-  </NamerFactionTribalImpid.rulePack.rulesStrings>
+ </NamerFactionTribalImpid.rulePack.rulesStrings>
 
   <!-- EN:
     <li>political_union_tribal->Words/Nouns/PoliticalUnions_Tribal</li>
   -->
   <NamerFactionTribalNeanderthal.rulePack.rulesFiles>
     <li>political_union_tribal->Words/Nouns/PoliticalUnions_Tribal</li>
-  </NamerFactionTribalNeanderthal.rulePack.rulesFiles>
+ </NamerFactionTribalNeanderthal.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[placeNameCore] [political_union_]</li>
@@ -234,7 +234,7 @@
     <li>r_name(p=2)->[placeNameCore]</li>
     <li>r_name->[placeNameCore]-[political_union_tribal]</li>
     <li>r_name->[political_union_tribal] der [placeNameCore]</li>
-  </NamerFactionTribalNeanderthal.rulePack.rulesStrings>
+ </NamerFactionTribalNeanderthal.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
@@ -321,7 +321,7 @@
     <li>townendCap->Welg</li>
     <li>townendCap->Op</li>
     <li>townendCap->Pig</li>
-  </NamerSettlementOutlanderPig.rulePack.rulesStrings>
+ </NamerSettlementOutlanderPig.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name->[townNameWordgen]</li>
@@ -375,28 +375,28 @@
     <li>townLow->basis</li>
     <li>townLow->fort</li>
     <li>townLow->hafen</li>
-  </NamerSettlementPirateWaster.rulePack.rulesStrings>
+ </NamerSettlementPirateWaster.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
   -->
   <NamerSettlementPirateYttakin.rulePack.rulesStrings>
     <li>r_name->[placeNameCore]</li>
-  </NamerSettlementPirateYttakin.rulePack.rulesStrings>
+ </NamerSettlementPirateYttakin.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
   -->
   <NamerSettlementTribalImpid.rulePack.rulesStrings>
     <li>r_name->[placeNameCore]</li>
-  </NamerSettlementTribalImpid.rulePack.rulesStrings>
+ </NamerSettlementTribalImpid.rulePack.rulesStrings>
 
   <!-- EN:
     <li>r_name->[placeNameCore]</li>
   -->
   <NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
     <li>r_name->[placeNameCore]</li>
-  </NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
+ </NamerSettlementTribalNeaderthal.rulePack.rulesStrings>
 
   <!-- EN:
     <li>SylN->WordParts/Syllables_Neanderthal</li>
@@ -404,7 +404,7 @@
   <NeanderthalUtility.rulePack.rulesFiles>
     <li>SylN->WordParts/Syllables_Neanderthal</li>
     <li>SylNCap->WordParts/Syllables_Neanderthal_Cap</li>
-  </NeanderthalUtility.rulePack.rulesFiles>
+ </NeanderthalUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>maybeApo(p=8)-></li>
     <li>maybeApo->'</li>
@@ -456,7 +456,7 @@
     <li>placeEnd->sil</li>
     <li>placeEnd->sonk</li>
     <li>placeEnd->soud</li>
-  </NeanderthalUtility.rulePack.rulesStrings>
+ </NeanderthalUtility.rulePack.rulesStrings>
 
   <!-- EN:
     <li>poison->poison</li>
@@ -497,7 +497,7 @@
     <li>poison->Abfall</li>
     <li>poison->Pest</li>
     <li>poison->Seuchen</li>
-  </WasterUtility.rulePack.rulesStrings>
+ </WasterUtility.rulePack.rulesStrings>
 
   <!-- EN:
     <li>SylY->WordParts/Syllables_Yttakin</li>
@@ -505,7 +505,7 @@
   <YttakinUtility.rulePack.rulesFiles>
     <li>SylY->WordParts/Syllables_Yttakin</li>
     <li>SylYCap->WordParts/Syllables_Yttakin_Cap</li>
-  </YttakinUtility.rulePack.rulesFiles>
+ </YttakinUtility.rulePack.rulesFiles>
   <!-- EN:
     <li>placeNameCore->[SylY][SylY]</li>
     <li>placeNameCore->[SylY][SylY][SylY]</li>
@@ -555,6 +555,6 @@
     <li>placeEnd->ytt</li>
     <li>placeEnd->ys</li>
     <li>placeEnd->yn</li>
-  </YttakinUtility.rulePack.rulesStrings>
+ </YttakinUtility.rulePack.rulesStrings>
 
 </LanguageData>

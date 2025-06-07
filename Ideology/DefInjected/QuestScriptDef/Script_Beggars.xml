@@ -22,7 +22,7 @@
     <li>wasWere(beggarCount>=2)->étaient</li>
     <li>groupLabelSingleOrPlural(beggarCount==1)->voyageur</li>
     <li>groupLabelSingleOrPlural(beggarCount>=2)->voyageurs</li>
-  </Beggars.questContentRules.rulesStrings>
+ </Beggars.questContentRules.rulesStrings>
   <!-- EN:
     <li>groupLabelPlural->travelers</li>
     <li>groupLabelPlural(allChildren==true,priority=1)->children</li>
@@ -104,7 +104,7 @@
     <li>interactionInfo(beggarCount>=2)->Vous pouvez donner les objets aux [groupLabelPlural] en sélectionnant un colon et en faisant un clic droit sur [beggars0_nameDef]</li>
     <li>moveOnInfo(beggarCount==1)->[beggars0_nameDef] partira après [visitDurationTicks_duration]</li>
     <li>moveOnInfo(beggarCount>=2)->Les [groupLabelPlural] partiront après [visitDurationTicks_duration]</li>
-  </Beggars.questDescriptionRules.rulesStrings>
+ </Beggars.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(beggarCount==1)->[beggarSingle] [seekingSingle] [alms]</li>
     <li>questName(beggarCount==1,childCount==1,priority=1)->young [beggarSingle] [seekingSingle] [alms]</li>
@@ -158,6 +158,6 @@
     <li>alms->de l'aide</li>
     <li>alms->la charité</li>
     <li>alms->des ressources</li>
-  </Beggars.questNameRules.rulesStrings>
+ </Beggars.questNameRules.rulesStrings>
   
 </LanguageData>

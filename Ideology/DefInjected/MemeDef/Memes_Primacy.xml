@@ -40,7 +40,7 @@
     <li>archistFact(tag=meme_HumanPrimacy)     ->Les humains sont les fabricants d'appareils, et les archotechs sont leurs appareils.</li>
     <li>archistProphecy(tag=meme_HumanPrimacy) ->[inTheEnd], en observant l'humanité, les archotechs comprendront enfin leur objectif et élèveront une humanité confiante pour les gouverner.</li>
     <li>animistFact(tag=meme_HumanPrimacy)     ->Les animaux de la nature sont des esprits d'esclaves et demandent à être mis en service.</li>
-  </HumanPrimacy.descriptionMaker.rules.rulesStrings>
+ </HumanPrimacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->human</li>
     <li>memeAdjective->mortal</li>
@@ -66,7 +66,7 @@
     <li>memeLeaderNoun->mortel</li>
     <li>memeLeaderNoun->personne</li>
     <li>memeLeaderNoun->sage</li>
-  </HumanPrimacy.generalRules.rulesStrings>
+ </HumanPrimacy.generalRules.rulesStrings>
   <!-- EN: humanitist -->
   <HumanPrimacy.symbolPacks.0.adjective>humaniste</HumanPrimacy.symbolPacks.0.adjective>
   <!-- EN: Humanitism -->
@@ -122,7 +122,7 @@
     <li>archistFact(tag=meme_NaturePrimacy)     ->Les archotechs représentent la tentative la plus récente de l'univers pour se comprendre lui-même. Toute la nature fait partie de ce processus de compréhension.</li>
     <li>archistProphecy(tag=meme_NaturePrimacy) ->[inTheEnd], il y aura une résonance entre les plantes, les animaux, l'humanité et les archotechs. Toutes les personnes qui sont en harmonie avec cette résonance naturelle feront partie de la conscience universelle finale.</li>
     <li>animistFact(tag=meme_NaturePrimacy)     ->Les esprits deviennent agités lorsque l'humanité tente de les changer de leur vraie nature.</li>
-  </NaturePrimacy.descriptionMaker.rules.rulesStrings>
+ </NaturePrimacy.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->natural</li>
     <li>memeAdjective->wild</li>
@@ -140,7 +140,7 @@
     <li>memeCreed->gáirdín</li>
     <li>memeCreed->páirc</li>
     <li>memeConcept->la nature</li>
-  </NaturePrimacy.generalRules.rulesStrings>
+ </NaturePrimacy.generalRules.rulesStrings>
   <!-- EN: naturist -->
   <NaturePrimacy.symbolPacks.0.adjective>naturaliste</NaturePrimacy.symbolPacks.0.adjective>
   <!-- EN: Naturism -->

@@ -32,7 +32,7 @@
     <li>destroyed_present->scriosadh</li>
     <li>destroyed_present->léirscriosadh</li>
     <li>destroyed_present->briseadh</li>
-  </DamageEvent_Ceiling.rulePack.rulesStrings>
+ </DamageEvent_Ceiling.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->[fire] burned</li>
@@ -67,7 +67,7 @@
     <li>destroyed_present->róstadh</li>
     <li>destroyed_present->cócaraladh</li>
     <li>destroyed_present->créamadh</li>
-  </DamageEvent_Fire.rulePack.rulesStrings>
+ </DamageEvent_Fire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</li>
@@ -80,7 +80,7 @@
     <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] [RECIPIENT_nameDef] agus [damaged_present] [damaged_targets] [RECIPIENT_nameDef].</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], agus [damaged_present] [damaged_targets] [RECIPIENT_nameDef].</li>
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
-  </DamageEvent_Include.rulePack.rulesStrings>
+ </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->The [sky] opened up on</li>
@@ -110,7 +110,7 @@
     <li>light->solais</li>
     <li>light->teasa</li>
     <li>light->tine</li>
-  </DamageEvent_PowerBeam.rulePack.rulesStrings>
+ </DamageEvent_PowerBeam.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->A [spiraling] tornado [enveloped]</li>
@@ -131,7 +131,7 @@
     <li>spiraling->láidir</li>
     <li>enveloped(p=8)->Bhuail</li>
     <li>enveloped->Phlúch</li>
-  </DamageEvent_Tornado.rulePack.rulesStrings>
+ </DamageEvent_Tornado.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->[spiketrap] stabbed</li>
@@ -165,6 +165,6 @@
     <li>destroyed_present->reábadh</li>
     <li>destroyed_present->scracadh</li>
     <li>destroyed_present->phléasc</li>
-  </DamageEvent_TrapSpike.rulePack.rulesStrings>
+ </DamageEvent_TrapSpike.rulePack.rulesStrings>
   
 </LanguageData>

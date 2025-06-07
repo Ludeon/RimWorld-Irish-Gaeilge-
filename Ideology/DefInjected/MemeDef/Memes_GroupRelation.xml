@@ -46,7 +46,7 @@
     <li>archistProphecy(tag=meme_Guilty) ->[inTheEnd], si quelques-uns peuvent renoncer à leur fierté et se réconcilier avec les archotechs, ils peuvent nous élever à un niveau d'existence plus élevé.</li>
     <li>animistBasis(tag=meme_Guilty)    ->Une tribu de mauvais esprits a été punie en étant ensevelie dans la chair. Nous sommes ces esprits.</li>
     <li>animistFact(tag=meme_Guilty)     ->Nous ne pourrons jamais compenser correctement ce que nous avons fait aux esprits purs qui nous entourent, mais une contrition appropriée et continue peut soulager notre culpabilité.</li>
-  </Guilty.descriptionMaker.rules.rulesStrings>
+ </Guilty.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->low</li>
     <li>memeAdjective->unworthy</li>
@@ -78,7 +78,7 @@
     <li>memeLeaderNoun->pécheur</li>
     <li>memeMoralist->excuseur</li>
     <li>memeMoralist->expiateur</li>
-  </Guilty.generalRules.rulesStrings>
+ </Guilty.generalRules.rulesStrings>
   <!-- EN: guiltist -->
   <Guilty.symbolPacks.0.adjective>culpabilisant</Guilty.symbolPacks.0.adjective>
   <!-- EN: Guiltism -->
@@ -156,7 +156,7 @@
     <li>animistBasis(tag=meme_Loyalist)    ->There are three tribes of spirits: The tribe of warmongers and murderers, the tribe of surrenderers and whiners, and the one noble tribe of the strong and loyal. Tá trí ghrúpa spiorad ann: iad siúd a mharaíonn, iad siúd atá lag, agus iad siúd atá láidir agus dílis.</li>
     <li>animistFact(tag=meme_Loyalist)     ->Troideann na spioraid i gcoinne na daoine sin a thréigeann a gcairde agus a ndaoine, agus cinntíonn na spioraid chéanna go mbeidh drochrath ar na daoine sin i gcónaí.</li>
     <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] go rugfar duine a nochtfaidh an fhírinne dá dhaoine, agus go mbeidh deireadh go deo ansin le gach fealltóir agus le gach gríosóir cogaidh.</li>
-  </Loyalist.descriptionMaker.rules.rulesStrings>
+ </Loyalist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->loyal</li>
     <li>memeAdjective->patriotic</li>
@@ -172,7 +172,7 @@
     <li>memeConcept->na Clanna</li>
     <li>memeConcept->na nGealltanas</li>
     <li>memeMoralist->Dílsitheoir</li>
-  </Loyalist.generalRules.rulesStrings>
+ </Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
   <Loyalist.symbolPacks.0.adjective>dílis</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
@@ -237,7 +237,7 @@
     <li>archistProphecy(tag=meme_Supremacist) ->Ní nglacfaidh na harcai-theicneoirí linn go dtí go mbeidh an lámh in uachtar againn thar gach cine eile.</li>
     <li>animistFact(tag=meme_Supremacist)     ->Bronnann na spioraid cumhacht ar an gcine tofa, chun go bhféadfaidh siad daoine eile a chur faoi chois.</li>
     <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] go gcruthófar ord domhanda nua nuair a bheidh an cine daonna aontaithe faoi aon rialathóir amháin.</li>
-  </Supremacist.descriptionMaker.rules.rulesStrings>
+ </Supremacist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->supreme</li>
     <li>memeAdjective->high</li>
@@ -283,7 +283,7 @@
     <li>memeLeaderNoun->deachtóir</li>
     <li>memeLeaderNoun->concaire</li>
     <li>memeLeaderNoun->buaiteoir</li>
-  </Supremacist.generalRules.rulesStrings>
+ </Supremacist.generalRules.rulesStrings>
   <!-- EN: dominant -->
   <Supremacist.symbolPacks.0.adjective>ceannasach</Supremacist.symbolPacks.0.adjective>
   <!-- EN: dominator -->

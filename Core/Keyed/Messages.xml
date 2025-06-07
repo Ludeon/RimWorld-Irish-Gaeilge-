@@ -252,7 +252,7 @@
   <MessageShipChunkDrop>Tá smionagar spásloinge tar éis titim ón spéir in aice láimhe. Is féidir é a bhriseadh síos chun acmhainní a fháil.</MessageShipChunkDrop>
 
   <!-- EN: Some items cannot be traded because of:  -->
-  <MessageCannotSellItemsReason>Ní féidir roinnt earraí a thrádáil: </MessageCannotSellItemsReason>
+  <MessageCannotSellItemsReason>Ní féidir roinnt earraí a thrádáil:</MessageCannotSellItemsReason>
 
   <!-- EN: {WORKER_labelShort} failed while constructing a {0}. Some resources have been wasted. -->
   <MessageConstructionFailed>Theip ar {WORKER_labelShort} agus '{0}' á thógáil. Cuireadh roinnt acmhainní amú.</MessageConstructionFailed>

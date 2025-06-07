@@ -14,7 +14,7 @@
   -->
   <Util_Raid.questDescriptionRules.rulesStrings>
       <li>threatDescription->Ionsóidh [enemyFaction_pawnsPlural] ón bhfaicsean [enemyFaction_name]. Tá an grúpa déanta suas de:\n\n[raidPawnKinds]\n\n[raidArrivalModeInfo]</li>
-  </Util_Raid.questDescriptionRules.rulesStrings>
+ </Util_Raid.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>pawnKindsParagraph(raidCount==1)->The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid0/raidPawnKinds]\n\n[raid0/raidArrivalModeInfo]</li>
@@ -35,6 +35,6 @@
     <li>numGroupsOf(raidCount==2)->2 ghrúpa</li>
     <li>numGroupsOf(raidCount==3)->3 ghrúpa</li>
     <li>numGroupsOf(raidCount>=4)->[raidCount] ghrúpa</li>
-  </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
+ </Util_RaidDelayRepeatable.questDescriptionRules.rulesStrings>
   
 </LanguageData>

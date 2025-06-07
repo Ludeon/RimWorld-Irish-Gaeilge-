@@ -27,7 +27,7 @@
     <li>place_community->caiselán</li>
     <li>place_community->pálás</li>
     <li>place_job->ridire</li>
-    <li>place_job->scuibhéir </li>
+    <li>place_job->scuibhéir</li>
     <li>place_job->diúc</li>
     <li>place_job->searbhónta</li>
     <li>place_personalWeapon->claíomh comhfhiosach</li>
@@ -37,6 +37,6 @@
     <li>place_massWeapon->complacht ridirí</li>
     <li>place_foeLeader->réabhlóideach</li>
     <li>place_foeSoldiers->reibiliúnaithe</li>
-  </Sophiamunda.placeRules.rulesStrings>
+ </Sophiamunda.placeRules.rulesStrings>
   
 </LanguageData>

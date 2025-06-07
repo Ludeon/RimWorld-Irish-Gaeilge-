@@ -57,7 +57,7 @@
     <li>speechtopic->la structure sociale de la communauté</li>
     <li>speechtopic->assumer ses responsabilités</li>
     <li>speechtopic->faire passer son rôle avant ses intérêts personnels</li>
-  </Speech_AcceptRole.logRulesInitiator.rulesStrings>
+ </Speech_AcceptRole.logRulesInitiator.rulesStrings>
   
   <!-- EN: blinding speech -->
   <Speech_Blinding.label>discours aveuglant</Speech_Blinding.label>
@@ -92,7 +92,7 @@
     <li>speechtopic->d'explorer sans voir ni bouger</li>
     <li>speechtopic->des vraies couches de la réalité sous l'aspect visuel</li>
     <li>speechtopic->des connexions psychiques</li>
-  </Speech_Blinding.logRulesInitiator.rulesStrings>
+ </Speech_Blinding.logRulesInitiator.rulesStrings>
   
   <!-- EN: conversion speech -->
   <Speech_Conversion.label>discours de conversion</Speech_Conversion.label>
@@ -131,7 +131,7 @@
     <li>speechtopic->de rejoindre et d'appartenir</li>
     <li>speechtopic->des fausses croyances</li>
     <li>speechtopic->du progrès vers l'avenir</li>
-  </Speech_Conversion.logRulesInitiator.rulesStrings>
+ </Speech_Conversion.logRulesInitiator.rulesStrings>
   
   <!-- EN: celebration speech -->
   <Speech_DateRitual.label>discours de célébration</Speech_DateRitual.label>
@@ -156,7 +156,7 @@
     <li>praisetopic->d'être ensemble</li>
     <li>praisetopic->de partager ses idées</li>
     <li>praisetopic->de son propre groupe</li>
-  </Speech_DateRitual.logRulesInitiator.rulesStrings>
+ </Speech_DateRitual.logRulesInitiator.rulesStrings>
   
   <!-- EN: duel speech -->
   <Speech_Duel.label>discours de duel</Speech_Duel.label>
@@ -183,7 +183,7 @@
     <li>praisetopic->d'une mort par lame</li>
     <li>praisetopic->d'une mort douloureuse</li>
     <li>praisetopic->d'une mort honorable</li>
-    <li>praisetopic->d'un combat honorable </li>
+    <li>praisetopic->d'un combat honorable</li>
     <li>praisetopic->du courage et de la lutte</li>
     <li>praisetopic->des armes et des combattants [AdjectiveBadass]</li>
     <li>praisetopic->de la pureté du conflit physique</li>
@@ -195,7 +195,7 @@
     <li>praisetopic->de la vie et du drame</li>
     <li>praisetopic->de la colère et de l'espoir</li>
     <li>praisetopic->de la rage et de la force</li>
-  </Speech_Duel.logRulesInitiator.rulesStrings>
+ </Speech_Duel.logRulesInitiator.rulesStrings>
   
   <!-- EN: exceution speech -->
   <Speech_Execution.label>discours d'exécution</Speech_Execution.label>
@@ -222,7 +222,7 @@
     <li>speechtopic->du symbolisme de la mort</li>
     <li>speechtopic->de la peine capitale et son histoire</li>
     <li>speechtopic->des raisons de l'exécution</li>
-  </Speech_Execution.logRulesInitiator.rulesStrings>
+ </Speech_Execution.logRulesInitiator.rulesStrings>
   
   <!-- EN: funeral speech -->
   <Speech_Funeral.label>discours de funérailles</Speech_Funeral.label>
@@ -255,7 +255,7 @@
     <li>speechtopic->des amis absents</li>
     <li>speechtopic->de la vie et de la joie</li>
     <li>speechtopic->de poursuivre le travail inachevé</li>
-  </Speech_Funeral.logRulesInitiator.rulesStrings>
+ </Speech_Funeral.logRulesInitiator.rulesStrings>
   
   <!-- EN: leader speech -->
   <Speech_Leader.label>discours de chef</Speech_Leader.label>
@@ -342,7 +342,7 @@
     <li>speechtopic(p=0.25)->de la mort comme motivation</li>
     <li>speechtopic(p=0.25)->des mains et des cœurs forts</li>
     <li>speechtopic(p=0.25)->du droit de survivre</li>
-  </Speech_Leader.logRulesInitiator.rulesStrings>
+ </Speech_Leader.logRulesInitiator.rulesStrings>
   
   <!-- EN: role removal speech -->
   <Speech_RemoveRole.label>discours de suppression de rôle</Speech_RemoveRole.label>
@@ -388,7 +388,7 @@
     <li>speechtopic->de la structure sociale de la communauté</li>
     <li>speechtopic->de meilleurs candidats</li>
     <li>speechtopic->de faire passer les intérêts de la communauté avant ses intérêts personnels</li>
-  </Speech_RemoveRole.logRulesInitiator.rulesStrings>
+ </Speech_RemoveRole.logRulesInitiator.rulesStrings>
   
   <!-- EN: sacrifice speech -->
   <Speech_Sacrifice.label>discours de sacrifice</Speech_Sacrifice.label>
@@ -438,7 +438,7 @@
     <li>crazy->a gloussé</li>
     <li>crazy->a brandi une lame</li>
     <li>crazy->murmura de façon répétitive</li>
-  </Speech_Sacrifice.logRulesInitiator.rulesStrings>
+ </Speech_Sacrifice.logRulesInitiator.rulesStrings>
   
   <!-- EN: scarification speech -->
   <Speech_Scarification.label>discours de scarification</Speech_Scarification.label>
@@ -483,7 +483,7 @@
     <li>crazy->a gloussé</li>
     <li>crazy->a brandi une lame</li>
     <li>crazy->murmura de façon répétitive</li>
-  </Speech_Scarification.logRulesInitiator.rulesStrings>
+ </Speech_Scarification.logRulesInitiator.rulesStrings>
   
   <!-- EN: tree connection speech -->
   <Speech_TreeConnection.label>discours de connexion aux arbres</Speech_TreeConnection.label>
@@ -516,6 +516,6 @@
     <li>speechtopic->du rôle de l'humanité sous les arbres</li>
     <li>speechtopic->de la vie végétale et de l'éternité</li>
     <li>speechtopic->de la connexion avec la nature</li>
-  </Speech_TreeConnection.logRulesInitiator.rulesStrings>
+ </Speech_TreeConnection.logRulesInitiator.rulesStrings>
   
 </LanguageData>

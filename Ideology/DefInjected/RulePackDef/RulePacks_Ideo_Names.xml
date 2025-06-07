@@ -16,14 +16,14 @@
     <li>globalAdjective->interstellaire</li>
     <li>globalHyphenPrefix->astro</li>
     <li>globalHyphenPrefix->stello</li>
-  </CultureSpacer.rulePack.rulesStrings>
+ </CultureSpacer.rulePack.rulesStrings>
   
   <!-- EN:
     <li>globalAdjective(p=15)->Tribal</li>
   -->
   <NamerIdeoCorunan.rulePack.rulesStrings>
     <li>globalAdjective(p=15)->Tribale</li>
-  </NamerIdeoCorunan.rulePack.rulesStrings>
+ </NamerIdeoCorunan.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_ideoName->[keyDeity]ism</li>
@@ -76,9 +76,9 @@
     <li>creed(priority=1)->[memeCreed]</li>
     <li>creed->[genericCreed]</li>
     <li>genericCreed->mana</li>
-    <li>genericCreed->teagasc </li>
-    <li>genericCreed->bealach </li>
-    <li>genericCreed->cónair </li>
+    <li>genericCreed->teagasc</li>
+    <li>genericCreed->bealach</li>
+    <li>genericCreed->cónair</li>
     <li>hyphenPrefix->[globalHyphenPrefix]</li>
     <li>hyphenPrefix->[memeHyphenPrefix]</li>
     <li>globalHyphenPrefix(p=4)->nua</li>
@@ -86,6 +86,6 @@
     <li>globalHyphenPrefix->nóva</li>
     <li>globalHyphenPrefix->arca</li>
     <li>globalHyphenPrefix->hipear</li>
-  </NamerIdeoGlobal.rulePack.rulesStrings>
+ </NamerIdeoGlobal.rulePack.rulesStrings>
   
 </LanguageData>

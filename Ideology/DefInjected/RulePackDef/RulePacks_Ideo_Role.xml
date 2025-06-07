@@ -28,7 +28,7 @@
     <li>firstPart->des museaux</li>
     <li>secondPart(p=4)->spécialiste</li>
     <li>secondPart(p=4)->connaisseur</li>
-  </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
+ </NamerRoleAnimalsSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->berserker</li>
@@ -61,7 +61,7 @@
     <li>firstPart->coupeur</li>
     <li>firstPart->frappeur</li>
     <li>firstPart->écraseur</li>
-  </NamerRoleBrawler.rulePack.rulesStrings>
+ </NamerRoleBrawler.rulePack.rulesStrings>
   
   <!-- EN:
     <li>firstPart->health</li>
@@ -82,7 +82,7 @@
     <li>firstPart->sanitaire</li>
     <li>firstPart->chirurgical</li>
     <li>firstPart->clinique</li>
-  </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
+ </NamerRoleMedicalSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->spelunker</li>
@@ -115,7 +115,7 @@
     <li>firstPart->des trous</li>
     <li>firstPart->des tunnels</li>
     <li>firstPart->des fissures</li>
-  </NamerRoleMiner.rulePack.rulesStrings>
+ </NamerRoleMiner.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName(p=4)->[memeMoralist]</li>
@@ -136,7 +136,7 @@
     <li>r_roleName->[memeMoralist] de [chosenIdeoName]</li>
     <li>r_roleName->[memeMoralist] [chosenAdjective]</li>
     <li>r_roleName->[memeMoralist] de [keyDeity]</li>
-  </NamerRoleMoralist.rulePack.rulesStrings>
+ </NamerRoleMoralist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->manufactor</li>
@@ -157,7 +157,7 @@
     <li>firstPart->constructeur</li>
     <li>firstPart->manutentionnaire</li>
     <li>firstPart->de la production</li>
-  </NamerRoleProductionSpecialist.rulePack.rulesStrings>
+ </NamerRoleProductionSpecialist.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->highmind</li>
@@ -182,7 +182,7 @@
     <li>firstPart->neuronal</li>
     <li>firstPart->de la réflexion</li>
     <li>firstPart->des idées</li>
-  </NamerRoleResearcher.rulePack.rulesStrings>
+ </NamerRoleResearcher.rulePack.rulesStrings>
   
   <!-- EN:
     <li>firstPart->gun</li>
@@ -207,7 +207,7 @@
     <li>firstPart->de la visée</li>
     <li>firstPart->du tir</li>
     <li>secondPart(p=4)->connaisseur</li>
-  </NamerRoleShooter.rulePack.rulesStrings>
+ </NamerRoleShooter.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName->fertilizer</li>
@@ -242,7 +242,7 @@
     <li>firstPart->des graines</li>
     <li>firstPart->du sol</li>
     <li>firstPart->des racines</li>
-  </NamerRoleSower.rulePack.rulesStrings>
+ </NamerRoleSower.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_roleName(p=7)->[firstPart][secondPart]</li>
@@ -297,6 +297,6 @@
     <li>secondPart->admirateur</li>
     <li>secondPart->promoteur</li>
     <li>secondPart->pourvoyeur</li>
-  </NamerRoleSpecialistUtility.rulePack.rulesStrings>
+ </NamerRoleSpecialistUtility.rulePack.rulesStrings>
   
 </LanguageData>

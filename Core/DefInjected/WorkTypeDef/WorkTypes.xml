@@ -127,7 +127,7 @@
   <!-- EN: hunting -->
   <Hunting.gerundLabel>sealgaireacht</Hunting.gerundLabel>
   <!-- EN: hunt -->
-  <Hunting.labelShort>Sealg. </Hunting.labelShort>
+  <Hunting.labelShort>Sealg.</Hunting.labelShort>
   <!-- EN: Hunter -->
   <Hunting.pawnLabel>Sealgaire</Hunting.pawnLabel>
   <!-- EN: Hunt -->
@@ -138,7 +138,7 @@
   <!-- EN: mining -->
   <Mining.gerundLabel>Mianadóireacht</Mining.gerundLabel>
   <!-- EN: mine -->
-  <Mining.labelShort>Mian. </Mining.labelShort>
+  <Mining.labelShort>Mian.</Mining.labelShort>
   <!-- EN: Miner -->
   <Mining.pawnLabel>Mianadóir</Mining.pawnLabel>
   <!-- EN: Mine -->
@@ -193,7 +193,7 @@
   <!-- EN: smithing -->
   <Smithing.gerundLabel>ceardaíocht</Smithing.gerundLabel>
   <!-- EN: smith -->
-  <Smithing.labelShort>Ceard. </Smithing.labelShort>
+  <Smithing.labelShort>Ceard.</Smithing.labelShort>
   <!-- EN: Smith -->
   <Smithing.pawnLabel>Ceardaíocht</Smithing.pawnLabel>
   <!-- EN: Smith at -->
@@ -204,7 +204,7 @@
   <!-- EN: tailoring -->
   <Tailoring.gerundLabel>táilliúireacht</Tailoring.gerundLabel>
   <!-- EN: tailor -->
-  <Tailoring.labelShort>Táill. </Tailoring.labelShort>
+  <Tailoring.labelShort>Táill.</Tailoring.labelShort>
   <!-- EN: Tailor -->
   <Tailoring.pawnLabel>táilliúireacht</Tailoring.pawnLabel>
   <!-- EN: Tailor at -->

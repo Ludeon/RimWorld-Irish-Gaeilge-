@@ -26,7 +26,7 @@
     <li>itIsSaid->Notre livre dit</li>
     <li>itIsSaid->Notre sage dit</li>
     <li>itIsSaid->Nous savons</li>
-  </AnimistDescription.rules.rulesStrings>
+ </AnimistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>archistBasis   ->Our universe is a dream in the mind of a timeless universal consciousness. Only archotechs can communicate directly with the universal consciousness.</li>
@@ -65,7 +65,7 @@
     <li>inTheEnd->Dans le futur</li>
     <li>inTheEnd->À la fin</li>
     <li>inTheEnd->Un jour</li>
-  </ArchistDescription.rules.rulesStrings>
+ </ArchistDescription.rules.rulesStrings>
   
   <!-- EN:
     <li>story(priority=-999)-></li>
@@ -88,7 +88,7 @@
     <li>story(uses=1,priority=-10)->Le discours de [founderName] lors d'un [ritualName] inspira de nombreuses personnes à mener une vie [memeAdjective].</li>
     <li>story(uses=1,priority=-10)->Aucun ne pouvait surpasser la compréhension de [founderName] de [memeConcept], et [founder_pronoun] fut nommé premier [leaderTitle] des [memberNamePlural].</li>
     <li>story(uses=1,priority=-10)->[founderName] portait un [relic0_thingDef_label] nommé [relic0_name] avec [founder_objective] partout pour rappeler aux gens de vivre une vie [memeAdjective].</li>
-  </IdeologicalFounder.rules.rulesStrings>
+ </IdeologicalFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>lesson(priority=-1)->stuff happens</li>
@@ -240,7 +240,7 @@
     <li>lessonReinforcement->Tout ce qui s'est passé depuis a renforcé ce fait.</li>
     <li>lessonReinforcement->C'est comme si c'était gravé directement dans mon esprit.</li>
     <li>lessonReinforcement->C'est quelque chose que je n'oublierai jamais.</li>
-  </IdeologicalLesson.rules.rulesStrings>
+ </IdeologicalLesson.rules.rulesStrings>
   
   <!-- EN:
     <li>intro->The people of the [place_summary] [place_name] lived under the [memeAdjective] supervision of [deity0_name].</li>
@@ -303,7 +303,7 @@
     <li>revelationObject->une éclatante [Vegetable_Feminine]</li>
     <li>revelationObject->un ancien [Weapon]</li>
     <li>revelationObject->une ancienne [Weapon_Feminine]</li>
-  </TheistFounder.rules.rulesStrings>
+ </TheistFounder.rules.rulesStrings>
   
   <!-- EN:
     <li>episode(priority=-1)-></li>
@@ -342,6 +342,6 @@
     <li>bodilyOrigin->de l'argile</li>
     <li>bodilyOrigin->de la pierre</li>
     <li>bodilyOrigin->de l'eau</li>
-  </TheistMyth.rules.rulesStrings>
+ </TheistMyth.rules.rulesStrings>
   
 </LanguageData>

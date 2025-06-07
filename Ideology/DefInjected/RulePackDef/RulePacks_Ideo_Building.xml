@@ -12,7 +12,7 @@
     <li>buildingName->tombeau</li>
     <li>buildingName->chœur</li>
     <li>buildingName->plateforme</li>
-  </NamerAltar.rulePack.rulesStrings>
+ </NamerAltar.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->totem</li>
@@ -23,7 +23,7 @@
     <li>buildingName->totem</li>
     <li>buildingName->effigie</li>
     <li>buildingName->bûcher</li>
-  </NamerBurnTarget.rulePack.rulesStrings>
+ </NamerBurnTarget.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->platter</li>
@@ -36,7 +36,7 @@
     <li>buildingName->assiette</li>
     <li>buildingName->festin</li>
     <li>buildingName->porchumain</li>
-  </NamerCannibalPlatter.rulePack.rulesStrings>
+ </NamerCannibalPlatter.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->tree</li>
@@ -45,7 +45,7 @@
   <NamerChristmasTree.rulePack.rulesStrings>
     <li>buildingName->arbre</li>
     <li>buildingName->sapin</li>
-  </NamerChristmasTree.rulePack.rulesStrings>
+ </NamerChristmasTree.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_ideoBuildingName(p=2)->[memeAdjective] [buildingName]</li>
@@ -64,7 +64,7 @@
     <li>r_ideoBuildingName->[buildingName] de [keyDeity]</li>
     <li>r_ideoBuildingName->[buildingName] de [memeConcept]</li>
     <li>r_ideoBuildingName->[buildingName] de [chosenIdeoName]</li>
-  </NamerIdeoBuilding.rulePack.rulesStrings>
+ </NamerIdeoBuilding.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->ideogram</li>
@@ -85,7 +85,7 @@
     <li>buildingName->figure</li>
     <li>buildingName->image</li>
     <li>buildingName->logo</li>
-  </NamerIdeogram.rulePack.rulesStrings>
+ </NamerIdeogram.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->statue</li>
@@ -102,7 +102,7 @@
     <li>buildingName->image</li>
     <li>buildingName->forme</li>
     <li>buildingName->silhouette</li>
-  </NamerIdeoSculpture.rulePack.rulesStrings>
+ </NamerIdeoSculpture.rulePack.rulesStrings>
   
   <!-- EN:
     <li>buildingName->smoker</li>
@@ -115,6 +115,6 @@
     <li>buildingName->fumeur</li>
     <li>buildingName->fumeur</li>
     <li>buildingName->fumeur</li>
-  </NamerSmoker.rulePack.rulesStrings>
+ </NamerSmoker.rulePack.rulesStrings>
   
 </LanguageData>

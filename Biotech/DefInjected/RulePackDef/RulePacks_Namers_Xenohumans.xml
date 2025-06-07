@@ -7,7 +7,7 @@
   <NamerPersonDirtmole_Female.rulePack.rulesFiles>
     <li>Syl->WordParts/Syllables_Dirtmole</li>
     <li>SylCap->WordParts/Syllables_Dirtmole_Cap</li>
-  </NamerPersonDirtmole_Female.rulePack.rulesFiles>
+ </NamerPersonDirtmole_Female.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[firstName] [Syl][End]</li>
     <li>End->cate</li>
@@ -75,7 +75,7 @@
     <li>End->vite</li>
     <li>End->zite</li>
     <li>End->drite</li>
-  </NamerPersonDirtmole_Female.rulePack.rulesStrings>
+ </NamerPersonDirtmole_Female.rulePack.rulesStrings>
   
   <!-- EN:
     <li>Syl->WordParts/Syllables_Dirtmole</li>
@@ -83,7 +83,7 @@
   <NamerPersonDirtmole_Male.rulePack.rulesFiles>
     <li>Syl->WordParts/Syllables_Dirtmole</li>
     <li>SylCap->WordParts/Syllables_Dirtmole_Cap</li>
-  </NamerPersonDirtmole_Male.rulePack.rulesFiles>
+ </NamerPersonDirtmole_Male.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[firstName] [Syl][End]</li>
     <li>End->cate</li>
@@ -151,7 +151,7 @@
     <li>End->vite</li>
     <li>End->zite</li>
     <li>End->drite</li>
-  </NamerPersonDirtmole_Male.rulePack.rulesStrings>
+ </NamerPersonDirtmole_Male.rulePack.rulesStrings>
   
   <!-- EN:
     <li>SylI->WordParts/Syllables_Impid</li>
@@ -159,7 +159,7 @@
   <NamerPersonImpid.rulePack.rulesFiles>
     <li>SylI->WordParts/Syllables_Impid</li>
     <li>SylICap->WordParts/Syllables_Impid_Cap</li>
-  </NamerPersonImpid.rulePack.rulesFiles>
+ </NamerPersonImpid.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
     <li>firstName(p=0.5)->[SylI]</li>
@@ -219,7 +219,7 @@
     <li>nameEnd->nav</li>
     <li>nameEnd->naz</li>
     <li>nameEnd->nath</li>
-  </NamerPersonImpid.rulePack.rulesStrings>
+ </NamerPersonImpid.rulePack.rulesStrings>
   
   <!-- EN:
     <li>SylP->WordParts/Syllables_Pig</li>
@@ -229,7 +229,7 @@
     <li>SylP->WordParts/Syllables_Pig</li>
     <li>SylPCap->WordParts/Syllables_Pig_Cap</li>
     <li>nicknamePig->Names/Nick_Unisex_Pig</li>
-  </NamerPersonPigskin.rulePack.rulesFiles>
+ </NamerPersonPigskin.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
     <li>r_name->[firstName] '[nickName]' [lastName]</li>
@@ -289,7 +289,7 @@
     <li>nameEnd->obb</li>
     <li>nameEnd->oik</li>
     <li>nameEnd->oin</li>
-  </NamerPersonPigskin.rulePack.rulesStrings>
+ </NamerPersonPigskin.rulePack.rulesStrings>
   
   <!-- EN:
     <li>Syl->WordParts/Syllables_Waster</li>
@@ -299,7 +299,7 @@
     <li>Syl->WordParts/Syllables_Waster</li>
     <li>SylCap->WordParts/Syllables_Waster_Cap</li>
     <li>nicknameWaster->Names/Nick_Unisex_Waster</li>
-  </NamerPersonWaster.rulePack.rulesFiles>
+ </NamerPersonWaster.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
     <li>r_name->[firstName] '[nicknameWaster]' [lastName]</li>
@@ -367,7 +367,7 @@
     <li>End->smoke</li>
     <li>End->waste</li>
     <li>End->y</li>
-  </NamerPersonWaster.rulePack.rulesStrings>
+ </NamerPersonWaster.rulePack.rulesStrings>
   
   <!-- EN:
     <li>SylY->WordParts/Syllables_Yttakin</li>
@@ -375,7 +375,7 @@
   <NamerPersonYttakin.rulePack.rulesFiles>
     <li>SylY->WordParts/Syllables_Yttakin</li>
     <li>SylYCap->WordParts/Syllables_Yttakin_Cap</li>
-  </NamerPersonYttakin.rulePack.rulesFiles>
+ </NamerPersonYttakin.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[firstName] [lastName]</li>
     <li>firstName(p=0.5)->[SylY]</li>
@@ -425,6 +425,6 @@
     <li>nameEnd->ysh</li>
     <li>nameEnd->ys</li>
     <li>nameEnd->yn</li>
-  </NamerPersonYttakin.rulePack.rulesStrings>
+ </NamerPersonYttakin.rulePack.rulesStrings>
   
 </LanguageData>

@@ -125,7 +125,7 @@
     <li>hostedSingOrPlural(lodgerCount>=2)->hébergés</li>
     <li>lodgersLeavingLetterLabel->[lodgersLabelSingularOrPlural] sur le départ</li>
     <li>lodgersLeavingLetterText->{FACTION_leaderNameDef} vous remercie de [lodgersObjectiveIndirect] avoir permis de rester à [map_definite] pendant [questDurationTicks_duration]. {FACTION_leaderPronoun} va maintenant retourner vers son peuple.\n\n{FACTION_leaderNameDef} dit qu'{FACTION_leaderPronoun} n'oubliera pas ce que vous avez fait.</li>
-  </Hospitality_Refugee.questContentRules.rulesStrings>
+ </Hospitality_Refugee.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
     <li>lodgersLabelPlural->refugees</li>
@@ -133,7 +133,7 @@
   <Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
     <li>lodgersLabel->réfugié</li>
     <li>lodgersLabelPlural->réfugiés</li>
-  </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
+ </Hospitality_Refugee.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>offer(lodgerCount==1)->offers</li>
     <li>offer(lodgerCount>=2)->offer</li>
@@ -228,7 +228,7 @@
     <li>travelerInfo(lodgerCount==1,asker_gender==Female)->Cette [asker_kind] ne fait</li>
     <li>travelerInfo(lodgerCount==1,asker_gender!=Female)->Ce [asker_kind] ne fait</li>
     <li>travelerInfo(lodgerCount>=2)->Ces [faction_pawnsPlural] ne font</li>
-  </Hospitality_Refugee.questDescriptionRules.rulesStrings>
+ </Hospitality_Refugee.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(lodgerCount==1)->[asker_nameDef] the [lodgerAdj]</li>
     <li>questName(lodgerCount==1)->[athe] [lodgerAdj] [lodgerSingle]</li>
@@ -324,7 +324,7 @@
     <li>lodgerPlural->survivants</li>
     <li>lodgerPlural->nomades</li>
     <li>lodgerPlural->vagabonds</li>
-  </Hospitality_Refugee.questNameRules.rulesStrings>
+ </Hospitality_Refugee.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
@@ -357,7 +357,7 @@
     <li>otherMembers(lodgerCount==1)-></li>
     <li>otherMembers(lodgerCount>=2)-> et tous les autres membres de [faction_name]</li>
     <li>questOver->La quête "[resolvedQuestName]" est terminée.</li>
-  </RefugeeBetrayal.questContentRules.rulesStrings>
+ </RefugeeBetrayal.questContentRules.rulesStrings>
   <!-- EN:
     <li>lodgersLabel->refugee</li>
     <li>lodgersLabelPlural->refugees</li>
@@ -366,7 +366,7 @@
     <li>lodgersLabel->réfugié</li>
     <li>lodgersLabel_fem->réfugiée</li>
     <li>lodgersLabelPlural->réfugiés</li>
-  </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
+ </RefugeeBetrayal.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>questDescription->[factionOpponent_nameDef], a [factionOpponent_faction_pawnSingular] of [factionOpponent_faction_name], has learned that [asker_nameDef] [otherLodgers] [areIs] being hosted at [map_definite]. [factionOpponent_pronoun] is enemies with [asker_nameDef] and wants to see [asker_objective] dead.\n\n[factionOpponent_pronoun] will send you the following reward if you kill all members of [faction_name] (total value [betrayalRewardMarketValue_money]):\n\n[betrayalRewards]</li>
     <li>lodgersLabelSingularOrPlural(lodgerCount==1)->[lodgersLabel]</li>
@@ -403,13 +403,13 @@
     <li>hostedSingOrPlural(lodgerCount==1,asker_gender==Female)->hébergée</li>
     <li>hostedSingOrPlural(lodgerCount==1,asker_gender!=Female)->hébergé</li>
     <li>hostedSingOrPlural(lodgerCount>=2)->hébergés</li>
-  </RefugeeBetrayal.questDescriptionRules.rulesStrings>
+ </RefugeeBetrayal.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Betrayal offer: [factionOpponent_nameDef]</li>
   -->
   <RefugeeBetrayal.questNameRules.rulesStrings>
     <li>questName->Proposition de trahison : [factionOpponent_nameDef]</li>
-  </RefugeeBetrayal.questNameRules.rulesStrings>
+ </RefugeeBetrayal.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>rewardLetterLabel->Hospitality reward</li>
@@ -418,18 +418,18 @@
   <RefugeeDelayedReward.questContentRules.rulesStrings>
     <li>rewardLetterLabel->Récompense d'accueil</li>
     <li>rewardLetterText->[rewardGiver_nameDef] vous a contacté. il y a [rewardDelayTicks_duration], vous l'avez aidé dans des circonstances désespérées.\n\nDepuis, [rewardGiver_pronoun] a repris pied, et maintenant [rewardGiver_pronoun] veut vous récompenser convenablement pour votre aide. [rewardGiver_pronoun] vous envoie ce qui suit via une capsule de largage :\n\n[listOfRewards]</li>
-  </RefugeeDelayedReward.questContentRules.rulesStrings>
+ </RefugeeDelayedReward.questContentRules.rulesStrings>
   <!-- EN:
     <li>questDescription->a delayed reward for refugee quest</li>
   -->
   <RefugeeDelayedReward.questDescriptionRules.rulesStrings>
     <li>une récompense différée pour la quête du réfugié</li>
-  </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
+ </RefugeeDelayedReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Refugee delayed reward</li>
   -->
   <RefugeeDelayedReward.questNameRules.rulesStrings>
     <li>questName->Récompense différée du réfugié</li>
-  </RefugeeDelayedReward.questNameRules.rulesStrings>
+ </RefugeeDelayedReward.questNameRules.rulesStrings>
   
 </LanguageData>

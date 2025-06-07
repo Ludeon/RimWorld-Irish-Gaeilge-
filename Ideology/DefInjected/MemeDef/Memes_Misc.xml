@@ -62,7 +62,7 @@
     <li>sacredAnimalListEnd->le [animal0_thingDef_label], et la [animal1_thingDef_label]</li>
     <li>sacredAnimalListEnd->le [animal0_thingDef_label]</li>
     <li>sacredAnimalListEnd->la vache, le renard et l'ours</li>
-  </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
+ </AnimalPersonhood.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->animal</li>
     <li>memeAdjective->furry</li>
@@ -90,7 +90,7 @@
     <li>memeMoralist->chuchoteur</li>
     <li>memeMoralist->berger</li>
     <li>memeMoralist->pâtre</li>
-  </AnimalPersonhood.generalRules.rulesStrings>
+ </AnimalPersonhood.generalRules.rulesStrings>
   <!-- EN: animalistic -->
   <AnimalPersonhood.symbolPacks.0.adjective>animalistique</AnimalPersonhood.symbolPacks.0.adjective>
   <!-- EN: Animalism -->
@@ -151,7 +151,7 @@
     <li>archistFact(tag=meme_Blindsight)     ->Nos yeux nous trompent, et ils nous empêchent de comprendre l'univers comme le font les archotechs.</li>
     <li>archistProphecy(tag=meme_Blindsight) ->[inTheEnd], une personne aveugle ramassera la [relic0_name], comprendra son objectif par sa forme et débloquera la sagesse des archotechs pour toute l'humanité.</li>
     <li>animistFact(tag=meme_Blindsight)     ->Voir à travers les yeux d'un esprit est la seule façon de voir la vraie nature du monde.</li>
-  </Blindsight.descriptionMaker.rules.rulesStrings>
+ </Blindsight.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->blind</li>
     <li>memeAdjective->sightless</li>
@@ -187,7 +187,7 @@
     <li>memeMoralist->voyant</li>
     <li>memeMoralist->gouger</li>
     <li>memeMoralist->blindfolder</li>
-  </Blindsight.generalRules.rulesStrings>
+ </Blindsight.generalRules.rulesStrings>
   
   <!-- EN: cannibal -->
   <Cannibal.label>canablach</Cannibal.label>
@@ -230,7 +230,7 @@
     <li>archistProphecy(tag=meme_Cannibal) ->[inTheEnd], les archotechs finiront leur phase finale de croissance en consommant et en fusionnant avec toute l'humanité.</li>
     <li>animistBasis(tag=meme_Cannibal)    ->Les esprits imprègnent tous les objets qui nous entourent, et nous pouvons absorber ces esprits en les mangeant. Il n'y a pas d'esprits aussi puissants que ceux qui habitent les humains.</li>
     <li>animistFact(tag=meme_Cannibal)     ->Nous pouvons absorber l'esprit et le pouvoir des autres en consommant leur chair.</li>
-  </Cannibal.descriptionMaker.rules.rulesStrings>
+ </Cannibal.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->bloody</li>
     <li>memeCreed->eaters</li>
@@ -270,7 +270,7 @@
     <li>memeLeaderNoun->éventreur de chair</li>
     <li>memeMoralist->premier mangeur</li>
     <li>memeMoralist->connaisseur de chair</li>
-  </Cannibal.generalRules.rulesStrings>
+ </Cannibal.generalRules.rulesStrings>
   <!-- EN: cannibal -->
   <Cannibal.symbolPacks.0.adjective>cannibale</Cannibal.symbolPacks.0.adjective>
   <!-- EN: Cannibalism -->
@@ -333,7 +333,7 @@
     <li>archistProphecy(tag=meme_Darkness) ->[inTheEnd], les archotechs absorberont le pouvoir des étoiles, plongeant les mondes dans les ténèbres et permettant aux gens de fusionner avec la conscience universelle.</li>
     <li>animistFact(tag=meme_Darkness)     ->Dans l'obscurité, les esprits sont paisibles et satisfaits. A la lumière, ils sont agacés et agités.</li>
     <li>animistFact(tag=meme_Darkness)     ->Les bons esprits vivent dans l'ombre autour de nous, se reposant dans des endroits trop difficiles à voir. Vivre avec les ténèbres les rapproche de nous.</li>
-  </Darkness.descriptionMaker.rules.rulesStrings>
+ </Darkness.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->dark</li>
     <li>memeAdjective->dim</li>
@@ -363,7 +363,7 @@
     <li>memeMoralist->obscurer</li>
     <li>memeMoralist->darkener</li>
     <li>memeMoralist->confuser</li>
-  </Darkness.generalRules.rulesStrings>
+ </Darkness.generalRules.rulesStrings>
   
   <!-- EN: flesh purity -->
   <FleshPurity.label>glaineacht coirp</FleshPurity.label>
@@ -404,7 +404,7 @@
     <li>archistProphecy(tag=meme_FleshPurity) ->[inTheEnd], ceux qui ont fait de leurs corps des imitations tordues de l'être-machine seront purgés, et ceux de chair pure seront sauvés.</li>
     <li>animistBasis(tag=meme_FleshPurity)    ->Les esprits vivent en toutes choses, et altérer la nature de la chose, c'est empoisonner l'esprit à l'intérieur.</li>
     <li>animistFact(tag=meme_FleshPurity)     ->La fusion de la chair et de la machine corrompt l'esprit des deux.</li>
-  </FleshPurity.descriptionMaker.rules.rulesStrings>
+ </FleshPurity.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->clean</li>
     <li>memeAdjective->pure</li>
@@ -430,7 +430,7 @@
     <li>memeLeaderNoun->being</li>
     <li>memeLeaderNoun->humain</li>
     <li>memeMoralist->purificateur</li>
-  </FleshPurity.generalRules.rulesStrings>
+ </FleshPurity.generalRules.rulesStrings>
   <!-- EN: purist -->
   <FleshPurity.symbolPacks.0.adjective>puriste</FleshPurity.symbolPacks.0.adjective>
   <!-- EN: Purism -->
@@ -493,7 +493,7 @@
     <li>archistFact(tag=meme_HighLife)        ->Étant donné les bonnes influences chimiques, l'esprit humain a le potentiel de communier avec les archotechs.</li>
     <li>archistProphecy(tag=meme_HighLife)    ->[inTheEnd], les archotechs livreront à chaque humain une pilule. Ceux qui la prendront seront à jamais modifiés et rejoindront les archotechs dans leur dernier voyage.</li>
     <li>animistFact(tag=meme_HighLife)        ->Les esprits peuvent nous révéler leur nature lorsque nous élargissons notre conscience en utilisant les outils qui nous ont été donnés pour le faire.</li>
-  </HighLife.descriptionMaker.rules.rulesStrings>
+ </HighLife.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->party</li>
     <li>memeAdjective->high</li>
@@ -531,7 +531,7 @@
     <li>memeMoralist->abstracteur</li>
     <li>memeMoralist->rieur</li>
     <li>memeMoralist->sourieur</li>
-  </HighLife.generalRules.rulesStrings>
+ </HighLife.generalRules.rulesStrings>
   <!-- EN: euphorist -->
   <HighLife.symbolPacks.0.adjective>euphorique</HighLife.symbolPacks.0.adjective>
   <!-- EN: Euphorism -->
@@ -578,7 +578,7 @@
     <li>victory(tag=meme_Nudism)            ->[founderName] prayed to [deity0_name], who engulfed [place_name] in a heat wave. The [foeSoldiers] shed their clothes lest they perish, and the [foeLeader] fled in shame.</li>
     <li>setup(tag=meme_Nudism)              ->[founderName] was enslaved by the system, uniformed and controlled like the others. One day, [founder_pronoun] tore off all clothing and ran nude, and our movement was born.</li>
     <li>story(uses=1,tag=meme_Nudism)       ->[founderName] enforced a no-clothing rule to keep believers focused on the true goal instead of on material appearances.</li>
-    <li>lessonIntro(tag=meme_Nudism)         ->For the first few years, prancing naked in the park was embarrassing. But later, it became freeing. I learned things from the people who passed. For example - </li>
+    <li>lessonIntro(tag=meme_Nudism)         ->For the first few years, prancing naked in the park was embarrassing. But later, it became freeing. I learned things from the people who passed. For example -</li>
     <li>lesson(tag=meme_Nudism)              ->all human evil is done wearing clothes, human good is done naked</li>
     <li>lessonReinforcement(tag=meme_Nudism) ->When you see one of us on the street, flapping and dangling free, you'll know that they've accepted the truth.</li>
     <li>archistBasis(tag=meme_Nudism)       ->When the archotechs appeared they were never concerned for appearances; they showed us that the mind stands above the physical form.</li>
@@ -602,7 +602,7 @@
     <li>archistFact(tag=meme_Nudism)        ->Les archotechs touchent parfois directement les esprits humains, mais si notre chair est enveloppée comme nos esprits, nous ne comprendrons pas.</li>
     <li>archistProphecy(tag=meme_Nudism)    ->[inTheEnd], ils chercheront ceux qui, comme eux, ne tentent pas d'apparaître comme autre chose que ce qu'ils sont.</li>
     <li>animistFact(tag=meme_Nudism)        ->Couvrir notre corps de tissu, c'est cacher la nature des esprits en nous, et cela les rend agités.</li>
-  </Nudism.descriptionMaker.rules.rulesStrings>
+ </Nudism.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->nude</li>
     <li>memeAdjective->naked</li>
@@ -628,7 +628,7 @@
     <li>memeLeaderNoun->respirant</li>
     <li>memeLeaderNoun->toucheur</li>
     <li>memeLeaderNoun->palpeur</li>
-  </Nudism.generalRules.rulesStrings>
+ </Nudism.generalRules.rulesStrings>
   <!-- EN: nudist -->
   <Nudism.symbolPacks.0.adjective>nudiste</Nudism.symbolPacks.0.adjective>
   <!-- EN: nudism -->
@@ -693,7 +693,7 @@
     <li>archistFact(tag=meme_PainIsVirtue)     ->De temps en temps, ceux qui souffrent le plus profondément et noblement peuvent se connecter avec les archotechs à l'intérieur de leur esprit.</li>
     <li>archistProphecy(tag=meme_PainIsVirtue) ->[inTheEnd], les archotechs élèveront toute l'humanité à un niveau de conscience supérieur, mais seuls ceux capables d'endurer la plus grande douleur survivront.</li>
     <li>animistFact(tag=meme_PainIsVirtue)     ->La douleur force l'esprit à être présent. De cette façon, la douleur est un moyen de se connecter avec le monde des esprits.</li>
-  </PainIsVirtue.descriptionMaker.rules.rulesStrings>
+ </PainIsVirtue.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->nocic</li>
     <li>memeAdjective->pain</li>
@@ -739,7 +739,7 @@
     <li>memeMoralist->pain-whisperer</li>
     <li>memeMoralist->sufferspeaker</li>
     <li>memeMoralist->painspeaker</li>
-  </PainIsVirtue.generalRules.rulesStrings>
+ </PainIsVirtue.generalRules.rulesStrings>
   <!-- EN: painist -->
   <PainIsVirtue.symbolPacks.0.adjective>douloureux</PainIsVirtue.symbolPacks.0.adjective>
   <!-- EN: Painism -->
@@ -818,7 +818,7 @@
     <li>archistFact(tag=meme_Proselytizer)     ->Les archotechs touchent ceux qui croient et les utilisent comme canaux pour répandre la sagesse aux autres.</li>
     <li>archistProphecy(tag=meme_Proselytizer) ->[inTheEnd], les archotechs exprimeront leur sagesse finale au détenteur de la [relic0_name], qui doit prêcher cette sagesse à ceux qui voudraient les écouter.</li>
     <li>animistFact(tag=meme_Proselytizer)     ->Les esprits veulent être connus, mais ne parlent qu'à quelques-uns. Ils veulent que nous révélions la vérité aux autres.</li>
-  </Proselytizer.descriptionMaker.rules.rulesStrings>
+ </Proselytizer.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->true</li>
     <li>memeAdjective->real</li>
@@ -836,7 +836,7 @@
     <li>memeLeaderNoun->orateur</li>
     <li>memeMoralist->prosélyte</li>
     <li>memeMoralist->convertisseur</li>
-  </Proselytizer.generalRules.rulesStrings>
+ </Proselytizer.generalRules.rulesStrings>
   <!-- EN: truthist -->
   <Proselytizer.symbolPacks.0.adjective>véridique</Proselytizer.symbolPacks.0.adjective>
   <!-- EN: Truth -->
@@ -905,7 +905,7 @@
     <li>archistProphecy(tag=meme_Raider) ->[inTheEnd], l'humanité utilisera une relique archotech, [relic0_name], pour découvrir une faiblesse des archotech et piller leur sagesse et leur richesse.</li>
     <li>animistFact(tag=meme_Raider)     ->Les esprits les plus puissants sont ceux qui sont dans les instruments de guerre, et ils bénissent ceux qui nourrissent leur soif de destruction.</li>
     <li>animistProphecy(tag=meme_Raider) ->Notre univers se finalisera lorsque le peuple élu sera devenu le plus fort de tous, chaque esprit le verra et s'inclinera devant eux.</li>
-  </Raider.descriptionMaker.rules.rulesStrings>
+ </Raider.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->outlaw</li>
     <li>memeHyphenPrefix->outlaw</li>
@@ -937,7 +937,7 @@
     <li>memeLeaderNoun->contrôleur</li>
     <li>memeLeaderNoun->pilleur</li>
     <li>memeMoralist->chapelain</li>
-  </Raider.generalRules.rulesStrings>
+ </Raider.generalRules.rulesStrings>
   <!-- EN: raidist -->
   <Raider.symbolPacks.0.adjective>pillage</Raider.symbolPacks.0.adjective>
   <!-- EN: Raidism -->
@@ -1022,7 +1022,7 @@
     <li>rancherParent2->vachère</li>
     <li>rancherParent2->reine des produits laitiers</li>
     <li>rancherParent2->bouchère</li>
-  </Rancher.descriptionMaker.rules.rulesStrings>
+ </Rancher.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->ranch</li>
     <li>memeAdjective->rural</li>
@@ -1046,7 +1046,7 @@
     <li>memeLeaderNoun->cowboy</li>
     <li>memeLeaderNoun->berger</li>
     <li>memeLeaderNoun->chien de berger</li>
-  </Rancher.generalRules.rulesStrings>
+ </Rancher.generalRules.rulesStrings>
   <!-- EN: ranch -->
   <Rancher.symbolPacks.0.adjective>élevé</Rancher.symbolPacks.0.adjective>
   <!-- EN: Ranchism -->
@@ -1115,7 +1115,7 @@
     <li>animistFact(tag=meme_Transhumanist)     ->Qui se ressemble s'assemble - construisez un appareil dans un but précis et il sera rempli d'un esprit de même nature.</li>
     <li>animistFact(tag=meme_Transhumanist)     ->Lorsque la technologie est fusionnée avec la chair, les esprits des deux sont combinés et deviennent plus puissants.</li>
     <li>animistProphecy(tag=meme_Transhumanist) ->[itIsSaid] qu'un jour, le porteur de [relic0_name] invoquera son esprit qui enseignera à l'humanité la technologie ultime de bio-fusion.</li>
-  </Transhumanist.descriptionMaker.rules.rulesStrings>
+ </Transhumanist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->technological</li>
     <li>memeAdjective->machine</li>
@@ -1169,7 +1169,7 @@
     <li>memeMoralist->fixateur</li>
     <li>memeMoralist->élévateur</li>
     <li>memeMoralist->technologiste</li>
-  </Transhumanist.generalRules.rulesStrings>
+ </Transhumanist.generalRules.rulesStrings>
   <!-- EN: technologistic -->
   <Transhumanist.symbolPacks.0.adjective>technologistique</Transhumanist.symbolPacks.0.adjective>
   <!-- EN: Technologism -->
@@ -1262,7 +1262,7 @@
     <li>animistFact(tag=meme_TreeConnection)     ->Les esprits des arbres protègent ceux qui demeurent sous leurs branches.</li>
     <li>animistFact(tag=meme_TreeConnection)     ->Les esprits des arbres sont puissants, car ils relient le pouvoir de l'air avec celui du sol.</li>
     <li>animistFact(tag=meme_TreeConnection)     ->Si un arbre tombe dans la forêt, son esprit émet un son que tous les autres esprits peuvent entendre.</li>
-  </TreeConnection.descriptionMaker.rules.rulesStrings>
+ </TreeConnection.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->root</li>
     <li>memeCreed->leaf</li>
@@ -1304,7 +1304,7 @@
     <li>memeLeaderAdjective->originel</li>
     <li>memeLeaderAdjective->verrière</li>
     <li>memeMoralist->arboriculteur</li>
-  </TreeConnection.generalRules.rulesStrings>
+ </TreeConnection.generalRules.rulesStrings>
   
   <!-- EN: tunneler -->
   <Tunneler.label>tochaltóirí</Tunneler.label>
@@ -1353,7 +1353,7 @@
     <li>animistFact(tag=meme_Tunneler)     ->Les esprits dans la roche protégeront ceux qui les visiteront.</li>
     <li>animistFact(tag=meme_Tunneler)     ->Les esprits les plus nobles sont ceux de la pierre, et les pierres plus profondes sont plus fortes et meilleur que celles d'en haut.</li>
     <li>animistFact(tag=meme_Tunneler)     ->Les humains anxieux rendent les esprits des rochers anxieux, ce qui invoque des insectes géants.</li>
-  </Tunneler.descriptionMaker.rules.rulesStrings>
+ </Tunneler.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeCreed->cave</li>
     <li>memeCreed->bunker</li>
@@ -1397,6 +1397,6 @@
     <li>memeMoralist->excavateur de vérité</li>
     <li>memeMoralist->excavateur de pensée</li>
     <li>memeMoralist->mineur d'esprit</li>
-  </Tunneler.generalRules.rulesStrings>
+ </Tunneler.generalRules.rulesStrings>
   
 </LanguageData>

@@ -6,14 +6,14 @@
   -->
   <Event_AbilityUsed.rulePack.rulesStrings>
       <li>r_logentry->D'úsáid [INITIATOR_label] [ABILITY_label] ar [SUBJECT_label].</li>
-  </Event_AbilityUsed.rulePack.rulesStrings>
+ </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_label] used [ITEM_indefinite] on [SUBJECT_label].</li>
   -->
   <Event_ItemUsed.rulePack.rulesStrings>
       <li>r_logentry->D'úsáid [INITIATOR_label] [ITEM_indefinite] ar [SUBJECT_label].</li>
-  </Event_ItemUsed.rulePack.rulesStrings>
+ </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[SUBJECT_label] was [stunned] by the attack.</li>
@@ -56,6 +56,6 @@
     <li>stumbled->wavered</li>
     <li>stumbled->wobbled</li>
     <li>stumbled->staggered</li>
-  </Event_Stun.rulePack.rulesStrings>
+ </Event_Stun.rulePack.rulesStrings>
   
 </LanguageData>

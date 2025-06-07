@@ -32,13 +32,13 @@
     <li>festival->festival</li>
     <li>festival->jubilé</li>
     <li>festival->fiesta</li>
-  </NamerFestivalGlobal.rulePack.rulesStrings>
+ </NamerFestivalGlobal.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_ritualName->[festivalName]</li>
   -->
   <NamerRitualFestival.rulePack.rulesStrings>
     <li>r_ritualName->[festivalName]</li>
-  </NamerRitualFestival.rulePack.rulesStrings>
+ </NamerRitualFestival.rulePack.rulesStrings>
   
 </LanguageData>

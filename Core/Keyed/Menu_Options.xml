@@ -153,7 +153,7 @@
 
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
-  <RestoreToDefaultSettingsLabel>Gabh ar ais chuig na réamhshocruithe </RestoreToDefaultSettingsLabel>
+  <RestoreToDefaultSettingsLabel>Gabh ar ais chuig na réamhshocruithe</RestoreToDefaultSettingsLabel>
   <!-- EN: Restore defaults -->
   <RestoreToDefaultSettings>Réamhshocruithe...</RestoreToDefaultSettings>
   <!-- EN: All settings have been reset. The game will now restart automatically. -->

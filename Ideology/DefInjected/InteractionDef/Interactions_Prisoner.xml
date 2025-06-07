@@ -14,7 +14,7 @@
     <li>r_logentry->[INITIATOR_nameDef] a informé [RECIPIENT_nameDef] qu'[RECIPIENT_pronoun] devait obéir aux ordres et travailler.</li>
     <li>r_logentry->[INITIATOR_nameDef] a ordonné à [RECIPIENT_nameDef] de se préparer à une vie de travail forcé.</li>
     <li>r_logentry->[INITIATOR_nameDef] a expliqué à [RECIPIENT_nameDef] qu'[RECIPIENT_pronoun] devait travailler ou qu'il serait puni.</li>
-  </EnslaveAttempt.logRulesInitiator.rulesStrings>
+ </EnslaveAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: try to reduce will -->
   <ReduceWill.label>essaye de réduire la volonté</ReduceWill.label>
@@ -103,6 +103,6 @@
     <li>givein->de se rendre</li>
     <li>givein->de se soumettre</li>
     <li>givein->de s'abandonner</li>
-  </ReduceWill.logRulesInitiator.rulesStrings>
+ </ReduceWill.logRulesInitiator.rulesStrings>
   
 </LanguageData>

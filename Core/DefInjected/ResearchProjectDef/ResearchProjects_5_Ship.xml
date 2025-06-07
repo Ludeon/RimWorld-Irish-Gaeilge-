@@ -48,7 +48,7 @@
   <ShipCryptosleep.generalRules.rulesStrings>TODO</ShipCryptosleep.generalRules.rulesStrings>
   
   <!-- EN: Johnson-Tanaka drive -->
-  <ShipEngine.label>inneall Johnson-Tanaka </ShipEngine.label>
+  <ShipEngine.label>inneall Johnson-Tanaka</ShipEngine.label>
   <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
   <ShipEngine.description>Tóg inneall Johnson-Tanaka le haghaidh do spásloinge. Úsáideann an t-inneall seo teicneolaíocht ar an leibhéal candamach chun spáslong a choinneáil ag gluaiseacht tríd an spás. Níl sé chomh tapa le luas an tsolais, áfach - mar sin tógfaidh sé na blianta ort pláinéid eile a bhaint amach.</ShipEngine.description>
   <!-- EN:

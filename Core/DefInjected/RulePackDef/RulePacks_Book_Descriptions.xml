@@ -216,18 +216,18 @@
     <li>desc->[maybe_intro][schematic_desc].\n\n[maybe_medium][author_story]. [linkage][subject_consequence].</li>
     <li>desc(p=2)->[maybe_medium][author_story]. [linkage][subject_primary_story]. [maybe_outro]</li>
     <li>maybe_intro(p=6)-></li>
-    <li>maybe_intro->[appearance]. </li>
-    <li>maybe_intro->[subject_intro]. </li>
+    <li>maybe_intro->[appearance].</li>
+    <li>maybe_intro->[subject_intro].</li>
     <li>maybe_subject_intro(p=6)-></li>
-    <li>maybe_subject_intro->[subject_intro]. </li>
+    <li>maybe_subject_intro->[subject_intro].</li>
     <li>maybe_medium(p=6)-></li>
-    <li>maybe_medium->[medium]. </li>
+    <li>maybe_medium->[medium].</li>
     <li>maybe_outro(p=5)-></li>
-    <li>maybe_outro->[aftermath]. </li>
-    <li>maybe_outro->[dates]. </li>
-    <li>maybe_outro->[appearance]. </li>
+    <li>maybe_outro->[aftermath].</li>
+    <li>maybe_outro->[dates].</li>
+    <li>maybe_outro->[appearance].</li>
     <li>maybe_physical_adjective-></li>
-    <li>maybe_physical_adjective->[physical_adjective] </li>
+    <li>maybe_physical_adjective->[physical_adjective]</li>
     <li>maybe_date(p=3)-></li>
     <li>maybe_date->[dates]</li>
     <li>subject_intro->the [schematic_synonym] [shows_synonym_verb]s a [state_adjective] [diagram_type] about [subject]</li>
@@ -239,7 +239,7 @@
     <li>subject_intro->[device_synonym]s associated with [subject_primary] and [subject_secondary] are [shows_synonym_verb1]ed in this [maybe_physical_adjective][schematic_synonym]</li>
     <li>schematic_desc->[schematic_desc_first][schematic_desc_second]</li>
     <li>schematic_desc_first->the ancient technology described here for [subject_primary_gerund] is [negative_adjective] compared to present systems</li>
-    <li>schematic_desc_first->this is only a fragment of a full [schematic_synonym] for [subject_primary_gerund] </li>
+    <li>schematic_desc_first->this is only a fragment of a full [schematic_synonym] for [subject_primary_gerund]</li>
     <li>schematic_desc_first->this [schematic_synonym] is [negative_adjective] in several places</li>
     <li>schematic_desc_first->the [schematic_synonym] for [subject_primary_gerund] is incomplete</li>
     <li>schematic_desc_first->[subject_primary_gerund] with these [schematic_synonym]s is complicated by contradictory annotations</li>
@@ -411,13 +411,13 @@
     <li>authorTitle->author</li>
     <li>authorTitle->scribe</li>
     <li>authorTitle->writer</li>
-    <li>linkage->this inspired [ANYPAWN_objective] and [ANYPAWN_pronoun] </li>
-    <li>linkage->this proved useful later when [ANYPAWN_pronoun] </li>
-    <li>linkage->using this knowledge, [ANYPAWN_pronoun] </li>
-    <li>linkage->[ANYPAWN_pronoun] found this useful when [ANYPAWN_pronoun] </li>
-    <li>linkage->that was why [ANYPAWN_pronoun] </li>
-    <li>linkage->on [worldname], [ANYPAWN_pronoun] used [ANYPAWN_possessive] insight and </li>
-    <li>linkage->to master it, [ANYPAWN_pronoun] traveled to [worldname] where [ANYPAWN_pronoun] </li>
+    <li>linkage->this inspired [ANYPAWN_objective] and [ANYPAWN_pronoun]</li>
+    <li>linkage->this proved useful later when [ANYPAWN_pronoun]</li>
+    <li>linkage->using this knowledge, [ANYPAWN_pronoun]</li>
+    <li>linkage->[ANYPAWN_pronoun] found this useful when [ANYPAWN_pronoun]</li>
+    <li>linkage->that was why [ANYPAWN_pronoun]</li>
+    <li>linkage->on [worldname], [ANYPAWN_pronoun] used [ANYPAWN_possessive] insight and</li>
+    <li>linkage->to master it, [ANYPAWN_pronoun] traveled to [worldname] where [ANYPAWN_pronoun]</li>
     <li>notable_adjective->famous</li>
     <li>notable_adjective->obscure</li>
     <li>notable_adjective->iconic</li>
@@ -496,11 +496,11 @@
     <li>scent->sweet boomrat juice</li>
     <li>scent->Glitterworld spice</li>
     <li>scent->fresh Gauranlen seeds</li>
-    <li>conjunction->and </li>
-    <li>conjunction->but </li>
-    <li>conjunction->yet </li>
-    <li>conjunction->though </li>
-    <li>conjunction->besides </li>
+    <li>conjunction->and</li>
+    <li>conjunction->but</li>
+    <li>conjunction->yet</li>
+    <li>conjunction->though</li>
+    <li>conjunction->besides</li>
     <li>conjunction->. In addition,</li>
     <li>author(p=4)->author</li>
     <li>author(p=4)->writer</li>
@@ -651,7 +651,7 @@
     <li>midworld->Haihan</li>
     <li>midworld->Seolure</li>
     <li>midworld->Panga</li>
-    <li>midworld->New London CXI </li>
+    <li>midworld->New London CXI</li>
     <li>midworld->San Delenda</li>
     <li>mineworld->Xanides</li>
     <li>mineworld->Bingham</li>
@@ -1084,7 +1084,7 @@
     <li>glassworld->Yelhazor</li>
     <li>glitterworld->Kalthas IV</li>
     <li>glitterworld->Amen-Ti</li>
-    <li>glitterworld->Sophiamunda </li>
+    <li>glitterworld->Sophiamunda</li>
     <li>glitterworld->Rogia</li>
     <li>glitterworld->Utmaior</li>
     <li>glitterworld->Caspian</li>
@@ -1115,7 +1115,7 @@
     <li>midworld->Haihan</li>
     <li>midworld->Seolure</li>
     <li>midworld->Panga</li>
-    <li>midworld->New London CXI </li>
+    <li>midworld->New London CXI</li>
     <li>midworld->San Delenda</li>
     <li>mineworld->Xanides</li>
     <li>mineworld->Bingham</li>

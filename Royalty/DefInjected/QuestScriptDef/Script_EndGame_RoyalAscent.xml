@@ -20,7 +20,7 @@
     <li>intro(sameQuestsCount>=1)->Une nouvelle chance de bénédiction royale vous est donnée.\n\n</li>
     <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nD'autres vont profiter de l'opportunité pour essayer de tuer le [asker_faction_leaderTitle] et attaqueront avec une grande intensité. Préparez vos défenses.</li>
     <li>threatsInfo-></li>
-  </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+ </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(sameQuestsCount==0)->Royal Ascent</li>
     <li>questName(sameQuestsCount>=1)->Royal [titleEnd]</li>
@@ -41,7 +41,7 @@
     <li>titleEnd_fem->Ascension</li>
     <li>titleEnd_fem->Ascendance</li>
     <li>titleEnd_fem->Victoire</li>
-  </EndGame_RoyalAscent.questNameRules.rulesStrings>
+ </EndGame_RoyalAscent.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Quête échouée : [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
   <!-- EN: [faction_name] became hostile to you.  -->

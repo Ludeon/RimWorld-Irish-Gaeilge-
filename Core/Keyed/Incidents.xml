@@ -121,7 +121,7 @@
   
   <!-- Agent revealed -->
   <!-- EN: Agent -->
-  <LetterLabelAgentRevealed>Spiaire </LetterLabelAgentRevealed>
+  <LetterLabelAgentRevealed>Spiaire</LetterLabelAgentRevealed>
   <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
   <LetterAgentRevealed>Nochtadh {0} mar spiaire ón bhfaicsean naimhdeach '{1}'.\n\nTá {0_pronoun} ag éalú anois.</LetterAgentRevealed>
 

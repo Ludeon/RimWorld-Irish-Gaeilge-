@@ -27,7 +27,7 @@
     <li>asker_escaped(asker_gender==Male)->échappé</li>
     <li>asker_escaped(asker_gender==Female)->échappée</li>
     <li>asker_escaped(asker_gender==None)->échappé</li>
-  </Intro_Wimp.questDescriptionRules.rulesStrings>
+ </Intro_Wimp.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->the [adjAny] [asker_royalTitleInCurrentFaction]</li>
     <li>adjAny->hunted</li>
@@ -46,7 +46,7 @@
     <li>adjAny(asker_gender==Female)->solitaire</li>
     <li>adjAny(asker_gender==Female)->prise en embuscade</li>
     <li>adjAny->en fuite</li>
-  </Intro_Wimp.questNameRules.rulesStrings>
+ </Intro_Wimp.questNameRules.rulesStrings>
   <!-- EN: [animalKindDef_label] arrived -->
   <Intro_Wimp.LetterLabelAnimalArrived.slateRef>[animalKindDef_label] [manhuntingBeastArrived]</Intro_Wimp.LetterLabelAnimalArrived.slateRef>
   <!-- EN: The [animalKindDef_label] that [asker_nameDef] was fleeing has arrived.\n\nIt turned out to be quite gentle and not aggressive at all. -->

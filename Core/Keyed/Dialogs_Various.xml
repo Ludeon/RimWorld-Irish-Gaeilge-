@@ -651,7 +651,7 @@
   <!-- EN: Trader is not willing to buy this. -->
   <TraderWillNotTrade>Níl an trádálaí sásta seo a cheananch.</TraderWillNotTrade>
   <!-- EN: Negotiator -->
-  <Negotiator>Idirbheartaí </Negotiator>
+  <Negotiator>Idirbheartaí</Negotiator>
   <!-- EN: Negotiator: {0} (+{1}) -->
   <NegotiatorTradeDialogInfo>Idirbheartaí: {0} (+{1})</NegotiatorTradeDialogInfo>
   <!-- EN: Your negotiator {1_labelShort} cannot talk properly because of poor health. -->

@@ -194,6 +194,6 @@
   <!-- EN: Non-{ADJECTIVE}-style surroundings -->
   <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>Environnement de style non {ADJECTIVE}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.label>
   <!-- EN: I am surrounded by non-{ADJECTIVE} constructions. That's fine, but I'd prefer being in a more {ADJECTIVE} environment with constructions that match style(s) that reflect my {ADJECTIVE} beliefs. My beliefs are reflected by these styles: {STYLES} -->
-  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>Je suis entouré de constructions non {ADJECTIVE}. C'est bien, mais je préférerais être dans un environnement plus {ADJECTIVE} avec des constructions correspondant à un ou plusieurs styles qui reflètent mes croyances {ADJECTIVE}. Mes convictions sont reflétées par ces styles : {STYLES} </IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
+  <IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>Je suis entouré de constructions non {ADJECTIVE}. C'est bien, mais je préférerais être dans un environnement plus {ADJECTIVE} avec des constructions correspondant à un ou plusieurs styles qui reflètent mes croyances {ADJECTIVE}. Mes convictions sont reflétées par ces styles : {STYLES}</IdeoDiversity_Standard_StyleDominance.stages.Nonstyle_surroundings.description>
   
 </LanguageData>

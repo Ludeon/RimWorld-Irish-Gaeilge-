@@ -167,7 +167,7 @@
   <RescuedMeByOfferingHelp.stages.rescued_me.description>Tarrtháladh mé! Ta mé chomh buíoch.</RescuedMeByOfferingHelp.stages.rescued_me.description>
   
   <!-- EN: slighted -->
-  <Slighted.stages.slighted.label>maslaíodh mé </Slighted.stages.slighted.label>
+  <Slighted.stages.slighted.label>maslaíodh mé</Slighted.stages.slighted.label>
   
   <!-- EN: bonded animal given away -->
   <SoldMyBondedAnimal.stages.bonded_animal_given_away.label>tugadh m'ainmhí nasctha uainn</SoldMyBondedAnimal.stages.bonded_animal_given_away.label>
@@ -186,7 +186,7 @@
   <!-- EN: loved one sold -->
   <SoldMyLovedOne.stages.loved_one_sold.label>díoladh duine muinteartha</SoldMyLovedOne.stages.loved_one_sold.label>
   <!-- EN: Someone I love was sold to a trader like a piece of meat! -->
-  <SoldMyLovedOne.stages.loved_one_sold.description>Díoladh duine muinteartha ónár gcoilíneacht mar a bheadh feoil ann... Tá sé déistineach! </SoldMyLovedOne.stages.loved_one_sold.description>
+  <SoldMyLovedOne.stages.loved_one_sold.description>Díoladh duine muinteartha ónár gcoilíneacht mar a bheadh feoil ann... Tá sé déistineach!</SoldMyLovedOne.stages.loved_one_sold.description>
   <!-- EN: sold my loved one -->
   <SoldMyLovedOne.stages.loved_one_sold.labelSocial>díoladh duine muinteartha</SoldMyLovedOne.stages.loved_one_sold.labelSocial>
   
