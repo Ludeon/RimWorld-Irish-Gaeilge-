@@ -51,7 +51,13 @@
     <li>subject->impressionism</li>
     <li>subject->artistry</li>
   -->
-  <Artistic.generalRules.rulesStrings>TODO</Artistic.generalRules.rulesStrings>
+  <Artistic.generalRules.rulesStrings>
+    <li>subject->healaíon</li>
+    <li>subject->ceardaíocht</li>
+    <li>subject->péinteáil</li>
+    <li>subject->cruthaitheacht</li>
+    <li>subject->dearadh</li>
+  </Artistic.generalRules.rulesStrings>
   <!-- EN: artistic -->
   <Artistic.skillLabel>ealaíon</Artistic.skillLabel>
   

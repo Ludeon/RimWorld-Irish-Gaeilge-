@@ -231,7 +231,7 @@
   <!-- EN: Workshop ID -->
   <WorkshopId>Workshop-ID</WorkshopId>
   <!-- EN: Display fulfilled requirements -->
-  <ModDisplayFulfilledRequirements>Féach riachtanais chríochnaithe</ModDisplayFulfilledRequirements>
+  <ModDisplayFulfilledRequirements>Féach riachtanais eile</ModDisplayFulfilledRequirements>
   <!-- EN: Click to select. -->
   <ModClickToSelect>Cliceáil le roghnú.</ModClickToSelect>
   <!-- EN: Click to go to website. -->
@@ -541,9 +541,9 @@
   <!-- EN: Biome not implemented -->
   <BiomeNotImplemented>Bithóm díghníomhachtaithe</BiomeNotImplemented>
   <!-- EN: You cannot land on impassable mountains. -->
-  <CannotLandImpassableMountains>Ní féidir leandáil ar shléibhte nach féidir iad a thrasnú.</CannotLandImpassableMountains>
+  <CannotLandImpassableMountains>Ní féidir leandáil ar shléibhte móra.</CannotLandImpassableMountains>
   <!-- EN: {0} already have a base there. -->
-  <BaseAlreadyThere>Tá bunáit ag an bhfaicsean '{0}' ar an suíomh seo cheana.</BaseAlreadyThere>
+  <BaseAlreadyThere>Tá lonnaíocht ag an bhfaicsean {0} ar an suíomh seo cheana.</BaseAlreadyThere>
   <!-- EN: You already have a base there. -->
   <YourBaseAlreadyThere>Tá bunáit agat ansin cheana.</YourBaseAlreadyThere>
   <!-- EN: This tile is occupied. -->

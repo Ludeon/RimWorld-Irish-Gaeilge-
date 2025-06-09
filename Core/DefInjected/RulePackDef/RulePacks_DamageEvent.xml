@@ -76,9 +76,9 @@
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   -->
   <DamageEvent_Include.rulePack.rulesStrings>
-      <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] [RECIPIENT_nameDef].</li>
-    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] [RECIPIENT_nameDef] agus [damaged_present] [damaged_targets] [RECIPIENT_nameDef].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], agus [damaged_present] [damaged_targets] [RECIPIENT_nameDef].</li>
+      <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] [RECIPIENT_nameDef] agus [damaged_present] [damaged_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], agus [damaged_present] [damaged_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
  </DamageEvent_Include.rulePack.rulesStrings>
   

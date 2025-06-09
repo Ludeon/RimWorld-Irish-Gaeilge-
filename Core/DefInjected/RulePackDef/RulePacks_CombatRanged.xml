@@ -125,18 +125,18 @@
     <li>missed->narrowly missed</li>
   -->
   <Combat_RangedDamage.rulePack.rulesStrings>
-     <li>r_logentry->[destroyed_past] [projectile] [INITIATOR_label] [destroyed_targets] [RECIPIENT_label].</li>
+     <li>r_logentry->[destroyed_past] [projectile] [INITIATOR_label] [destroyed_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
     <li>r_logentry->D'fhág [projectile] [INITIATOR_label] [destroyed_targets] [RECIPIENT_label] [destroyed_suffix].</li>
-    <li>r_logentry(p=2)->Theip ar [projectile] [INITIATOR_label] [ORIGINALTARGET_definite] a bhaint amach, agus [destroyed_present] [destroyed_targets] [RECIPIENT_label].</li>
-    <li>r_logentry(p=2)->Níor aimsigh [projectile] [INITIATOR_label] [ORIGINALTARGET_definite], agus [destroyed_present] sé [destroyed_targets] [RECIPIENT_label].</li>
-    <li>r_logentry->[destroyed_present] [destroyed_targets] [INITIATOR_label] mar gheall ar [projectile] [RECIPIENT_labelDefinite].</li>
-    <li>r_logentry->Fágadh [destroyed_targets] [RECIPIENT_label] [destroyed_suffix] mar gheal ar [projectile] [INITIATOR_label].</li>
+    <li>r_logentry(p=2)->Theip ar [projectile] [INITIATOR_label] [ORIGINALTARGET_definite] a bhaint amach, agus [destroyed_present] [destroyed_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
+    <li>r_logentry(p=2)->Níor aimsigh [projectile] [INITIATOR_label] [ORIGINALTARGET_definite], agus [destroyed_present] sé [destroyed_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
+    <li>r_logentry->[destroyed_present] [destroyed_targets] [INITIATOR_label] mar gheall ar [projectile] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
+    <li>r_logentry->Fágadh [destroyed_targets] [RECIPIENT_label] [destroyed_suffix] mar gheal ar [projectile] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_present] [projectile] [INITIATOR_label] [damaged_targets] [RECIPIENT_labelDefinite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Theip ar [projectile] [INITIATOR_label] [ORIGINALTARGET_definite] a bhaint amach, agus [damaged_present] sé [damaged_targets] [RECIPIENT_labelDefinite].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Níor aimsigh [projectile] [INITIATOR_label] [ORIGINALTARGET_definite], agus [damaged_present] sé[damaged_targets] [RECIPIENT_labelDefinite].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Theip ar [projectile] [INITIATOR_label] [ORIGINALTARGET_definite] a bhaint amach, agus [damaged_present] sé [damaged_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Níor aimsigh [projectile] [INITIATOR_label] [ORIGINALTARGET_definite], agus [damaged_present] sé [damaged_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_present] [projectile] [INITIATOR_label] [damaged_targets] [RECIPIENT_label].</li>
     <li>r_logentry(p=3)->[destroyed_past] [projectile] [INITIATOR_label] [destroyed_targets] [RECIPIENT_label] agus [damaged_past] sé [damaged_targets] [RECIPIENT_label].</li>
-    <li>r_logentry(p=6)->Chuaigh [projectile] [INITIATOR_label] thar [ORIGINALTARGET_definite], agus [destroyed_past] sé [destroyed_targets] [RECIPIENT_label].</li>
+    <li>r_logentry(p=6)->Chuaigh [projectile] [INITIATOR_label] thar [ORIGINALTARGET_definite], agus [destroyed_past] sé [destroyed_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
     <li>r_logentry(p=0.2)->Bhuail [projectile] [INITIATOR_label] [INITIATOR_label].</li>
     <li>r_logentry(p=0.2)->D'aimsigh [projectile] [INITIATOR_label] [INITIATOR_label].</li>
     <li>r_logentry(p=0.4)->Níor aimsigh [projectile] [INITIATOR_label] [ORIGINALTARGET_definite], ach bhuail sé [INITIATOR_label].</li>
