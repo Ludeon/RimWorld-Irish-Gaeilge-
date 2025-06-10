@@ -76,7 +76,7 @@
   <!-- EN: Warning: {ANIMAL_kindBasePlural} have a {1} base chance to attack when harmed. Chance depends on range and hunter stealth stat. -->
   <MessageAnimalsGoPsychoHunted>Rabhadh: Tá dóchúlacht {1} ann go n-ionsóidh {ANIMAL_kindBasePlural} má ghortaítear iad. Braitheann an dóchúlacht deiridh ar scileanna an seagaire.</MessageAnimalsGoPsychoHunted>
   <!-- EN: Warning: {ANIMAL_kindBasePlural} may attack upon failed taming attempts ({1} chance). -->
-  <MessageAnimalManhuntsOnTameFailed>Rabhadh: Tá baol ann go n-ionsóidh{ANIMAL_kindBasePlural} má dhéantar an iomarca iarrachtaí iad a cheansú (Dóchúlacht: {1}).</MessageAnimalManhuntsOnTameFailed>
+  <MessageAnimalManhuntsOnTameFailed>Rabhadh: Tá baol ann go n-ionsóidh {ANIMAL_kindBasePlural} má dhéantar an iomarca iarrachtaí iad a cheansú (Dóchúlacht: {1}).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>Tá an tréith 'bá le feithidí' de dhíth chun {INSECT_indefinite} a cheansú.</MessageInsectTameDesignated>
 

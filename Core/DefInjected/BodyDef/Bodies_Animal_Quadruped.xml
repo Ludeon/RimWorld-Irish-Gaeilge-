@@ -351,39 +351,39 @@
   <QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>crúb chúil dheas</QuadrupedAnimalWithHoovesTusksAndTrunk.corePart.parts.rear_right_leg.parts.rear_right_hoof.customLabel>
   
   <!-- EN: quadruped animal -->
-  <QuadrupedAnimalWithPaws.label>TODO</QuadrupedAnimalWithPaws.label>
+  <QuadrupedAnimalWithPaws.label>ainmhí ceathairchosach</QuadrupedAnimalWithPaws.label>
   <!-- EN: left lung -->
-  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>scámhóg chlé</QuadrupedAnimalWithPaws.corePart.parts.left_lung.customLabel>
   <!-- EN: right lung -->
-  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>scámhóg dheas</QuadrupedAnimalWithPaws.corePart.parts.right_lung.customLabel>
   <!-- EN: left kidney -->
-  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>duán deas</QuadrupedAnimalWithPaws.corePart.parts.left_kidney.customLabel>
   <!-- EN: right kidney -->
-  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>duán clé</QuadrupedAnimalWithPaws.corePart.parts.right_kidney.customLabel>
   <!-- EN: left eye -->
-  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>súil chlé</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_eye.customLabel>
   <!-- EN: right eye -->
-  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>súil dheas</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_eye.customLabel>
   <!-- EN: left ear -->
-  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>cluas chlé</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.left_ear.customLabel>
   <!-- EN: right ear -->
-  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>cluas dheas</QuadrupedAnimalWithPaws.corePart.parts.Neck.parts.Head.parts.right_ear.customLabel>
   <!-- EN: front left leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>cos thosaigh chlé</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left paw -->
-  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>cos thosaigh chlé</QuadrupedAnimalWithPaws.corePart.parts.front_left_leg.parts.front_left_paw.customLabel>
   <!-- EN: front right leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>cos thosaigh dheas</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right paw -->
-  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>cos thosaigh dheas</QuadrupedAnimalWithPaws.corePart.parts.front_right_leg.parts.front_right_paw.customLabel>
   <!-- EN: rear left leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>cos chúil chlé</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left paw -->
-  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>cos chúil chlé</QuadrupedAnimalWithPaws.corePart.parts.rear_left_leg.parts.rear_left_paw.customLabel>
   <!-- EN: rear right leg -->
-  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>cos chúil dheas</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right paw -->
-  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>TODO</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
+  <QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>cos chúil dheas</QuadrupedAnimalWithPaws.corePart.parts.rear_right_leg.parts.rear_right_paw.customLabel>
   
   <!-- EN: quadruped animal -->
   <QuadrupedAnimalWithPawsAndTail.label>ainmhí ceathairchosach</QuadrupedAnimalWithPawsAndTail.label>
