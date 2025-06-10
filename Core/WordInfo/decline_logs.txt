@@ -1,7 +1,7 @@
 NOM;1_GEN_SG;2_GEN_PL;3_NOM_DEF;
 
-// Declension for special cases in Irish
-// NOM: Nominative Singular (e.g., fear)
+// Declension for special cases in Irish - this file contains tags so that it will work with the RulePackDefs where Labels include colour info.
+// NOM: Nominative Singular (no article) (e.g., fear)
 // 1_GEN_SG: Genitive Singular (with article) (e.g., an fhir)
 // 2_GEN_PL: Genitive Plural (optional, with article) (e.g., na bhfear)
 // 3_NOM_DEF: Definite Nominative Singular (with article) (e.g., an fear)

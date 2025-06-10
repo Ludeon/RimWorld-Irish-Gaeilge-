@@ -126,9 +126,27 @@
     <li>result->but stumbled at the last second</li>
     <li>result(initiator_flesh!=Mechanoid)->but hesitated at the last second</li>
   -->
-  <Combat_Miss.rulePack.rulesStrings>
-    <li>r_logentry(p=0.3)->Sheachain [INITIATOR_label] buille.</li>
-    <li>r_logentry(p=0.3)->Níor aimsigh [INITIATOR_label] [INITIATOR_label] le buille.</li>
- </Combat_Miss.rulePack.rulesStrings>
-  
+
+<Combat_Miss.rulePack.rulesStrings>
+
+  <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+  <li>INITIATOR->[INITIATOR_label]</li>
+  <li>RECIPIENT->[RECIPIENT_label]</li>
+
+  <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+  <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+  <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+  <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+  <!-- DEBUGGING LINES -->
+  <li>r_logentry(p=0.1)->DEBUG: INITIATOR=[INITIATOR_label] RECIPIENT=[RECIPIENT_label]</li>
+  <li>r_logentry(p=0.1)->DEBUG LOOKUPS: INIT_GEN=[INITIATOR_genitive] RECIP_NOM_DEF=[RECIPIENT_nominative_definite]</li>
+
+  <!-- ACTUAL GAME LINES -->
+  <li>r_logentry(p=0.3)->Sheachain [RECIPIENT_nominative_definite] buille [INITIATOR_genitive].</li>
+  <li>r_logentry(p=0.3)->Níor aimsigh [INITIATOR_nominative_definite] [RECIPIENT_nominative_definite] le buille.</li>
+
+</Combat_Miss.rulePack.rulesStrings>
+
 </LanguageData>
