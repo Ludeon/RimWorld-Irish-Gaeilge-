@@ -1,4 +1,4 @@
-﻿//Concepts are used in the genitive case with the article - this means they can be used as adjectives throughout the RulePacks
+﻿//Concepts are used in the genitive case with the article - this means they can be used as descriptors throughout the RulePacks
 
 na fulaingthe
 an bhua

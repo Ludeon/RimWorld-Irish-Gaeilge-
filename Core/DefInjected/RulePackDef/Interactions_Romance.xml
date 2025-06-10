@@ -35,7 +35,8 @@
     <li>sent->[RECIPIENT_nameDef] did not respond.</li>
     <li>sent->[RECIPIENT_nameDef] turned [INITIATOR_objective] down.</li>
   -->
-  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings><li>sent->Níor thug [RECIPIENT_nameDef] aon fhreagra ar [INITIATOR_nameDef].</li>
+  <Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->Níor thug [RECIPIENT_nameDef] aon fhreagra ar [INITIATOR_nameDef].</li>
     <li>sent->Níor thug [RECIPIENT_nameDef] aon aird ar [INITIATOR_nameDef].</li>
     <li>sent->Dhiúltaigh [RECIPIENT_nameDef] le [INITIATOR_nameDef].</li>
     <li>sent->Níor thug [RECIPIENT_nameDef] aon fhreagra.</li>

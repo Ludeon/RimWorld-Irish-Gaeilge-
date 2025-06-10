@@ -1,15 +1,14 @@
-// Tribal words and names are based on Scottish Gaelic place names
+// Tribal words and names are based on Scottish Gaelic place names - it is planned to eventually implement more of this linguistic diversity in to the other Names and RulePacks when the translation is being improved
 
 Coille nan Croitearan
-Cuairt a' Chùrra
-Cuairt-cheum an Achaidh Bhig
-Cuairt-cheum an t-Sruthain
-Cuairt-cheum Dhrochaid an Aonachain
-Cuairt-cheum Mhalaig
-Cuairt-cheum Phàirc Àlainn
-Cuairt-choille Achadh na h-Àtha
-Cuairt-choille nan Croitearan
-Cuairtean-coille Cheann Loch Mùideart
+An Achaidh Bhig
+An t-Sruthain
+Drochaid an Aonachain
+Malaig
+Pàirc Àlainn
+Achadh na h-Àtha
+nan Croitearan
+ceann Loch Mùideart
 Cùil a' Charraich
 An Doirlinn
 Drochaid an Aonachain
@@ -29,42 +28,40 @@ Loch Àlainn
 Loch an Nostaraidh
 Loch Bhlàthain
 Malaig air Cuairt-cheum
-Meadhan taobh Gàrradh Achadh an Todhair
-Mullach Meall a’ Chruidh
+Achadh an Todhair
+Meall a’ Chruidh
 Na Sanndaichean
-Parcadh Ceumannan Phort Uairce
+Port Uairce
 Port a’ Bhàta
 Port Uairce
 Rathad an t-Sìthein
-Rathad Àrd taobh Ionaltradh Àird na Staing
-Rathad-mòine gu Gleann Nibheis
-Rubha Àird nam Murchan
+Rathad Àrd
+Rathad-mòine
+Rubha Àird
 Sanna
-Seann Chaisteal Inbhir Lòchaidh
-Slighean Meall a’ Chruidh
-Slighean Mòr-choille Chille Chonaid
+Seann Chaisteal Inbhir
+Meall a’ Chruidh
+Mòr-choille Chille Chonaid
 Slighean na Bana-bhuidsich
 Staidhre Neptune
-Stèisean Drochaid an Aonachain
-Taigh-solais Àird nam Murchan
-Tèarmann Nàdair Nàiseanta Àirigh
+Drochaid an Aonachain
+Taigh-solais nam Murchan
+Tèarmann Àirigh
 Fhionndail
 Tom a’ Charraich
 Tom na Faire
 Tòrr Lundaidh
-Tràigh a’ Chamais Dharaich
+Tràigh a’ Chamais
 Tràigh Bhuarblaich
-Achadh an Todhair Uarach
+Achadh an Todhair
 Achadh na h-Àtha
 Achadh Osnaich
 An t-Achadh Riabhach
 An Àird Mholach
 Àird na Staing
 Àirigh Fhionndail
-Àite-faire Bhlàr Magh Faoilteach
 An Canàl Cailleannach
 An t-Aonach Mòr
-Àth airson siubhal le Eich
 Bàgh MhicNèill
 Baile nan Albannach
 Blàthan

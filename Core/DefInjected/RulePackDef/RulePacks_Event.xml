@@ -16,14 +16,25 @@
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
 
     <!-- ACTUAL GAME LINES -->
-      <li>r_logentry->D'úsáid [INITIATOR_nominative_definite] [ABILITY_label] ar [SUBJECT_label].</li>
+      <li>r_logentry->D'úsáid [INITIATOR_nominative_definite] [ABILITY_label] ar [RECIPIENT_nominative_definite].</li>
  </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_label] used [ITEM_indefinite] on [SUBJECT_label].</li>
   -->
   <Event_ItemUsed.rulePack.rulesStrings>
-      <li>r_logentry->D'úsáid [INITIATOR_label] [ITEM_indefinite] ar [SUBJECT_label].</li>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+      <li>r_logentry->D'úsáid [INITIATOR_label] [ITEM_indefinite] ar [RECIPIENT_nominative_definite].</li>
  </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
@@ -74,10 +85,6 @@
     <li>r_logentry->Tháinig mearbhall ar [RECIPIENT_nominative_definite].</li>
     <li>r_logentry->Tá [RECIPIENT_nominative_definite] ag siúil thart go místuama mar gheall ar an ionsaí.</li>
     <li>r_logentry->Tá [RECIPIENT_nominative_definite] ag siúil thart go tuisleach mar gheall ar an ionsaí.</li>
-    <li>stumbled(p=3)->stumbled</li>
-    <li>stumbled->wavered</li>
-    <li>stumbled->wobbled</li>
-    <li>stumbled->staggered</li>
  </Event_Stun.rulePack.rulesStrings>
   
 </LanguageData>

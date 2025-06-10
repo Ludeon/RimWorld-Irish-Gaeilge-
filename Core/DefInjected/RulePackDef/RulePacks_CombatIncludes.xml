@@ -22,12 +22,6 @@
     <li>scraped_present->caroming</li>
     <li>scraped_present->skipping</li>
     <li>scraped_present->skating</li>
-    <li>scraped_past->glanced</li>
-    <li>scraped_past->bounced</li>
-    <li>scraped_past->grazed</li>
-    <li>scraped_past->caromed</li>
-    <li>scraped_past->skipped</li>
-    <li>scraped_past->skated</li>
  </Combat_DeflectIncludes.rulePack.rulesStrings>
   
   <!-- EN:
@@ -200,6 +194,7 @@
   <Combat_SkillIncludes.rulePack.rulesStrings>
     <li>skillDescMelee->[skillAdv] [using] [implement].</li>
     <li>using->ag baint úsáid as</li>
+    <li>implement->[WEAPON_label]</li>
     <li>skillAdv(INITIATOR_skill<=3)->go mí-éifeachtach</li>
     <li>skillAdv(INITIATOR_skill<=3)->go neamhinniúil</li>
     <li>skillAdv(INITIATOR_skill<=3)->go neamhábalta</li>

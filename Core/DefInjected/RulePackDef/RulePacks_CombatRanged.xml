@@ -63,7 +63,7 @@
     <li>projectile->[WEAPON_projectile_label]</li>
   -->
   <Combat_RangedBase.rulePack.rulesStrings>
-      <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
+    <li>projectile(WEAPON_missing==True, p=3)->[PROJECTILE_label]</li>
     <li>projectile->[WEAPON_projectile_label]</li>
  </Combat_RangedBase.rulePack.rulesStrings>
   
@@ -155,20 +155,20 @@
     <li>r_logentry(p=0.2)->D'aimsigh [projectile] [INITIATOR_genitive] [INITIATOR_label].</li>
     <li>r_logentry(p=0.4)->Níor aimsigh [projectile] [INITIATOR_genitive] [ORIGINAL_nominative_definite], ach bhuail sé [RECIPIENT_nominative_definite].</li>
     <li>r_logentry(p=0.4)->Níor bhuail [INITIATOR_nominative_definite] [ORIGINAL_nominative_definite], ach bualadh [RECIPIENT_nominative_definite].</li>
-    <li>r_logentry(p=0.2)->Bhí sé [INITIATOR_nominative_definite] ag iarraidh[ORIGINAL_nominative_definite] a bhualadh, ach bhuail sé [RECIPIENT_nominative_definite].</li>
+    <li>r_logentry(p=0.2)->Bhí [INITIATOR_nominative_definite] ag iarraidh[ORIGINAL_nominative_definite] a bhualadh, ach bhuail [INITIATOR_pronoun] [RECIPIENT_nominative_definite].</li>
     <li>projectile(p=0.05)->urchar</li>
-    <li>destroyed_past->Bhris</li>
-    <li>destroyed_past->Bhrúisc</li>
-    <li>destroyed_past->Scrios</li>
-    <li>destroyed_past->Tholl</li>
-    <li>destroyed_past->Sháigh</li>
-    <li>destroyed_past->Bhuail</li>
-    <li>destroyed_past_saorbhriathar->Briseadh</li>
-    <li>destroyed_past_saorbhriathar->Brúisceadh</li>
-    <li>destroyed_past_saorbhriathar->Scriosadh</li>
-    <li>destroyed_past_saorbhriathar->Tolladh</li>
-    <li>destroyed_past_saorbhriathar->Sádh</li>
-    <li>destroyed_past_saorbhriathar->Buaileadh</li>
+    <li>destroyed_past->bhris</li>
+    <li>destroyed_past->bhrúisc</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->tholl</li>
+    <li>destroyed_past->sháigh</li>
+    <li>destroyed_past->bhuail</li>
+    <li>destroyed_past_saorbhriathar->briseadh</li>
+    <li>destroyed_past_saorbhriathar->brúisceadh</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->tolladh</li>
+    <li>destroyed_past_saorbhriathar->sádh</li>
+    <li>destroyed_past_saorbhriathar->buaileadh</li>
     <li>destroyed_suffix->ina smidiríní</li>
     <li>destroyed_suffix->ina smionagar</li>
     <li>destroyed_suffix->i bpíosaí</li>
@@ -181,9 +181,9 @@
     <li>damaged_past->bhuail</li>
     <li>damaged_past->rop</li>
     <li>damaged_past->ghortaigh</li>
-    <li>damaged_past->D'aimsigh</li>
-    <li>missed->Níor aimsigh</li>
-    <li>missed->Chuaigh</li>
+    <li>damaged_past->d'aimsigh</li>
+    <li>missed->níor aimsigh</li>
+    <li>missed->chuaigh</li>
  </Combat_RangedDamage.rulePack.rulesStrings>
   
   <!-- EN:
@@ -266,7 +266,7 @@
     <li>verb_shot->fired</li>
     <li>verb_shot(p=0.2)->discharged</li>
   -->
-  
+
   <Combat_RangedFire.rulePack.rulesStrings>
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
