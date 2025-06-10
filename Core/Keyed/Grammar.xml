@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Are these possibly causing random articles to show up in menus ? -->
+  <!-- Removed the definite article "an" here completely to avoid errors in in-game logs, not sure if this causes issues elsewhere.-->
 
   <!-- EN: a -->
   <IndefiniteArticle></IndefiniteArticle>
@@ -30,7 +30,7 @@
   <!-- EN: him -->
   <ProhimObj>é</ProhimObj>
   <!-- EN: her -->
-  <ProherObj>a</ProherObj>
+  <ProherObj>í</ProherObj>
   <!-- EN: It -->
   <ProitObjCap>É</ProitObjCap>
   <!-- EN: Him -->

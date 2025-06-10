@@ -7,14 +7,14 @@ NOM;1_GEN_SG;2_GEN_PL;3_NOM_DEF;
 // 3_NOM_DEF: Definite Nominative Singular (with article) (e.g., an fear)
 
 // DefInjected\FactionDef\* (\w+\.pawnsPlural)
-coilínigh;;;;
-feithidí;;;;
-lonnaitheoir;;;;
-lonnaitheoirí;;;;
-meicea-róbat;;;;
-píoráidí;;;;
-seanóir;;;;
-treabhaithe;;;;
+coilínigh;;na gcoilíneach;;
+feithidí;;na bhfeithidí;;
+lonnaitheoir;an lonnaitheoir;na lonnaitheoirí;an lonnaitheora;
+lonnaitheoirí;;na lonnaitheoirí;;
+meicea-róbat;an meicea-róbat;na meicea-róbat;an mheicea-róbait;
+píoráidí;;na bpíoráidí;;
+seanóir;;na seanóirí;;
+treabhaithe;;na dtreabhaithe;;
 
 // DefInjected\PawnKindDef\* (.+\.label)
 aithríoch;;;;
@@ -96,7 +96,9 @@ lincse óg;;;;
 mac tíre;;;;
 mac tíre arctach;;;;
 mac tíre óg;;;;
-meigeaspadán;an mheigeaspadáin;na meigeaspadán;an meigeaspadán;
+
+<color=#D09B61FF>meigeaspadán</color>;<color=#D09B61FF>an mheigeaspadáin</color>;<color=#D09B61FF>na meigeaspadán</color>;<color=#D09B61FF>an meigeaspadán</color>;
+
 moncaí;;;;
 muabhall;;;;
 muabhall óg;;;;
@@ -105,7 +107,9 @@ muc ghuine;;;;
 muicín;;;;
 óglach;;;;
 ollbhéar;;;;
+
 <color=#D09B61FF>olldhamhán</color>;<color=#D09B61FF>an olldhamháin</color>;<color=#D09B61FF>na n-olldhamhán</color>;<color=#D09B61FF>an t-olldhamhán</color>;
+
 <color=#D09B61FF>ollscarab</color>;<color=#D09B61FF>an ollscaraib</color>;<color=#D09B61FF>na n-ollscarab</color>;<color=#D09B61FF>an t-ollscarab</color>;
 ostrais;;;;
 pantar;;;;

@@ -28,9 +28,20 @@
     <li>tamed->whispered a story about [TalkTopicAny] to</li>
   -->
   <AnimalChat.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=5)->Dúirt [INITIATOR_nameDef] [tamed] le [RECIPIENT_nameDef].</li>
-    <li>r_logentry->Shuígh [INITIATOR_nameDef] taobh le [RECIPIENT_nameDef], agus labhair [INITIATOR_pronoun] maidir le [TalkTopicAny].</li>
-    <li>r_logentry->Tháinig [INITIATOR_nameDef] suas chuig [RECIPIENT_nameDef], agus labhair [INITIATOR_pronoun] maidir le [TalkTopicAny].</li>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry(p=5)->Dúirt [INITIATOR_nominative_definite] [tamed] le [RECIPIENT_nameDef].</li>
+    <li>r_logentry->Shuígh [INITIATOR_nominative_definite] taobh le [RECIPIENT_nameDef], agus labhair [INITIATOR_pronoun] maidir le [TalkTopicAny].</li>
+    <li>r_logentry->Tháinig [INITIATOR_nominative_definite] suas chuig [RECIPIENT_nominative_definite], agus labhair [INITIATOR_pronoun] maidir le [TalkTopicAny].</li>
     <li>tamed->cúpla rud deas</li>
     <li>tamed->cúpla focal</li>
     <li>tamed->cúpla rud dearfach</li>
@@ -66,12 +77,22 @@
     <li>rubbedpart->arm</li>
   -->
   <Nuzzle.logRulesInitiator.rulesStrings>
-    <li>r_logentry(p=2)->[nuzzled] [INITIATOR_nameDef] isteach i [RECIPIENT_nameDef] [nuzzleadverb].</li>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry(p=2)->[nuzzled] [INITIATOR_nominative_definite] isteach i gcos [RECIPIENT_genitive] [nuzzleadverb].</li>
+    <li>r_logentry(p=2)->[nuzzled] [INITIATOR_nominative_definite] isteach i gcliabh [RECIPIENT_genitive] [nuzzleadverb].</li>
     <li>nuzzled(p=2)->Luí</li>
     <li>nuzzled->Neadaigh</li>
     <li>nuzzleadverb(p=4)-></li>
-    <li>nuzzleadverb->go bog</li>
-    <li>nuzzleadverb->go héadrom</li>
     <li>nuzzleadverb->go cairdiúil</li>
     <li>nuzzleadverb->go ceanúil</li>
     <li>nuzzleadverb->go muirneach</li>
@@ -120,10 +141,21 @@
     <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
   -->
   <TameAttempt.logRulesInitiator.rulesStrings>
-    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nameDef] a cheansú.</li>
-    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nameDef] a chur faoi smacht.</li>
-    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht cúpla rud a mhúineadh do [RECIPIENT_nameDef].</li>
-    <li>r_logentry->Thug [INITIATOR_nameDef] ordú do [RECIPIENT_nameDef].</li>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nominative_definite] a cheansú.</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht [RECIPIENT_nominative_definite] a chur faoi smacht.</li>
+    <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht cúpla rud a mhúineadh do [RECIPIENT_nominative_definite].</li>
+    <li>r_logentry->Thug [INITIATOR_nameDef] ordú do [RECIPIENT_nominative_definite].</li>
  </TameAttempt.logRulesInitiator.rulesStrings>
   
   <!-- EN: train attempt -->

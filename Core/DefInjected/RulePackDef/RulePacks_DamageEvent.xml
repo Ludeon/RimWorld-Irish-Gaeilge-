@@ -52,7 +52,7 @@
     <li>destroyed_present->cremating</li>
   -->
   <DamageEvent_Fire.rulePack.rulesStrings>
-      <li>damage_source->Dhóigh [fire]</li>
+    <li>damage_source->Dhóigh [fire]</li>
     <li>fire(p=3)->tine</li>
     <li>fire(p=3)->an tine</li>
     <li>fire(p=3)->na tinte</li>
@@ -76,10 +76,21 @@
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   -->
   <DamageEvent_Include.rulePack.rulesStrings>
-      <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
-    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], agus [destroyed_present] [destroyed_targets] [RECIPIENT_nameDef] agus [damaged_present] [damaged_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], agus [damaged_present] [damaged_targets] {lookup: [RECIPIENT_label]; decline_other; 1}.</li>
-    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry->[damage_source] [RECIPIENT_nominative_definite], agus [destroyed_present] [destroyed_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nominative_definite], agus [destroyed_present] [destroyed_targets] agus [damaged_present] [damaged_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nominative_definite], agus [damaged_present] [damaged_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nominative_definite].</li>
  </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
@@ -124,7 +135,7 @@
     <li>enveloped->surrounded</li>
   -->
   <DamageEvent_Tornado.rulePack.rulesStrings>
-      <li>damage_source->[enveloped] i dtornádó [spiraling]</li>
+    <li>damage_source->[enveloped] i dtornádó [spiraling]</li>
     <li>destroyed_present(p=3)->baineadh</li>
     <li>spiraling->bíseach</li>
     <li>spiraling->bís</li>
@@ -152,12 +163,13 @@
     <li>destroyed_present->exploding</li>
   -->
   <DamageEvent_TrapSpike.rulePack.rulesStrings>
-      <li>damage_source->Bhuail [spiketrap]</li>
+    <li>damage_source->Bhuail [spiketrap]</li>
     <li>damage_source->Láinseáil [spiketrap] i dtreo</li>
     <li>damage_source->Sháigh [spiketrap]</li>
     <li>spiketrap(p=3)->gaiste spíceach</li>
     <li>spiketrap->spící</li>
     <li>spiketrap->gaiste biorach</li>
+    <li>spiketrap->gaiste spíceach</li>
     <li>damaged_present->ropadh</li>
     <li>damaged_present->sádh</li>
     <li>damaged_present->priocadh</li>

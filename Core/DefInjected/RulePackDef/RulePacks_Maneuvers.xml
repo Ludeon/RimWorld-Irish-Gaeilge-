@@ -45,12 +45,41 @@
     <li>r_logentry->[INITIATOR_label] kicked [TOOL_label] in [INITIATOR_label]'s eyes.</li>
     <li>r_logentry(p=0.2)->[INITIATOR_label] kicked a spray of [TOOL_label] in [INITIATOR_label]'s eyes.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
+      <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry->Chiceáil [INITIATOR_nominative_definite] gaineamh i súile [RECIPIENT_genitive].</li>
+    <li>r_logentry->Chiceáil [INITIATOR_nominative_definite] ithir i súile [RECIPIENT_genitive].</li>
+  
+  </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_label] tried to kick [TOOL_label] in [INITIATOR_label]'s eyes, but missed.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
+      <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry->Rinne [INITIATOR_nominative_definite] iarracht gaineamh a chiceáil i súile [RECIPIENT_genitive].</li>
+  
+  </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=2)->poke</li>
@@ -169,7 +198,36 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
   -->
-  <Maneuver_Slash.rulePack.rulesStrings>TODO</Maneuver_Slash.rulePack.rulesStrings>
+  <Maneuver_Slash.rulePack.rulesStrings>
+  
+    <li>damaged_inf(p=4)->slash</li>
+    <li>damaged_inf->cut</li>
+    <li>damaged_inf->chop</li>
+    <li>damaged_inf->hack</li>
+    <li>damaged_inf->slice</li>
+    <li>damaged_inf(deflected!=True)->gash</li>
+    <li>damaged_past(p=4)->slashed</li>
+    <li>damaged_past->ghearr</li>
+    <li>damaged_past->rop</li>
+    <li>damaged_past->sháigh</li>
+    <li>damaged_past(deflected!=True)->gashed</li>
+    <li>damaged_present->slashing</li>
+    <li>damaged_present->cutting</li>
+    <li>damaged_present->slicing</li>
+    <li>damaged_present(deflected!=True)->gashing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>woundname->wound</li>
+    <li>woundname(p=0.3)->opening</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh [woundname]</li>
+    <li>destroyed_past->ghearr</li>
+    <li>destroyed_past->roinn</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->d'oscail</li>
+    <li>destroyed_suffix->i bpíosaí beaga</li>
+    <li>destroyed_suffix->go glan</li>
+    
+  </Maneuver_Slash.rulePack.rulesStrings>
   
   <!-- EN:
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>

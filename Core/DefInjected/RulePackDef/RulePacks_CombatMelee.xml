@@ -32,9 +32,21 @@
     <li>deflecting->glancing</li>
   -->
   <Combat_Deflect.rulePack.rulesStrings>
-    <li>r_logentry(p=0.5)->[damaged_past] [INITIATOR_label] [recipient_part0_label] [RECIPIENT_label].</li>
-    <li>r_logentry(p=0.3)->[damaged_past] [INITIATOR_label] [recipient_part0_label] [RECIPIENT_label] [deflected_result].</li>
-    <li>r_logentry(p=0.1)->[damaged_past] [INITIATOR_label] [recipient_part0_label] [INITIATOR_label] [skillDescMelee].</li>
+
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry(p=0.5)->[damaged_past] [INITIATOR_nominative_definite] [recipient_part0_label] [RECIPIENT_genitive].</li>
+    <li>r_logentry(p=0.3)->[damaged_past] [INITIATOR_nominative_definite] [recipient_part0_label] [RECIPIENT_genitive] [deflected_result].</li>
+    <li>r_logentry(p=0.1)->[damaged_past] [INITIATOR_nominative_definite] [recipient_part0_label] [RECIPIENT_genitive] [skillDescMelee].</li>
     <li>skillAdvMaybe-></li>
     <li>skillAdvMaybe->[skillAdv]</li>
     <li>deflected_result->, ach [deflected] [harmlessly_opt]</li>
@@ -60,7 +72,22 @@
     <li>result->but was deceived by [INITIATOR_label]'s feint</li>
     <li>result->but the attack was cleverly avoided</li>
   -->
-  <Combat_Dodge.rulePack.rulesStrings>TODO</Combat_Dodge.rulePack.rulesStrings>
+  <Combat_Dodge.rulePack.rulesStrings>
+
+      <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry(p=0.5)->Léim [INITIATOR_nominative_definite] as an mbealach.</li>
+  
+  </Combat_Dodge.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry(p=1.0)->[INITIATOR_label] [damaged_past] [INITIATOR_label] in the [recipient_part0_label].</li>
@@ -85,26 +112,28 @@
     <li>action(p=0.3)->[INITIATOR_label] used [implement] [skillAdv] to [damaged_inf] [INITIATOR_label]</li>
   -->
   <Combat_Hit.rulePack.rulesStrings>
-    <li>r_logentry(p=1.0)->[damaged_past] [INITIATOR_label] [recipient_part0_label] [INITIATOR_label].</li>
-    <li>r_logentry(p=0.4)->[damaged_past] [INITIATOR_label] [recipient_part0_label] [INITIATOR_label] [strikeAdv].</li>
-    <li>r_logentry(p=0.4)->[damaged_past] [INITIATOR_label] [recipient_part0_label] [INITIATOR_label], [flavortext_consequence].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_label], [skillDescMelee], [damaged_past] [INITIATOR_label] in the [recipient_part0_label].</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_label], [skillDescMelee], [strikeAdv] [damaged_past] [INITIATOR_label] in the [recipient_part0_label].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_label] [destroyed_past] [INITIATOR_label]'s [destroyed_targets].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_label] [destroyed_past] [INITIATOR_label]'s [destroyed_targets] [destroyed_suffix].</li>
-    <li>r_logentry(p=0.4)->[INITIATOR_label] [destroyed_past] [INITIATOR_label]'s [destroyed_targets] with [implement].</li>
-    <li>r_logentry(p=1,recipient_part_count==0)->[INITIATOR_label] [damaged_past] [INITIATOR_label] with [implement].</li>
-    <li>r_logentry(p=0.4,recipient_part_count==0)->[INITIATOR_label] [skillAdv] [damaged_past] [INITIATOR_label] with [implement].</li>
-    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets]</li>
-    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
-    <li>result(p=1)->[destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets]</li>
-    <li>action(p=1.0)->[INITIATOR_label] [damaged_past] [INITIATOR_label] with [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_label] [damaged_past] [INITIATOR_label]</li>
-    <li>action(p=0.3)->[INITIATOR_label], [skillDescMelee], [damaged_past] [INITIATOR_label]</li>
-    <li>action(p=0.3)->[INITIATOR_label] hit [INITIATOR_label] with a [damaged_inf] from [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_label], [skillDescMelee], hit [INITIATOR_label] with a [damaged_inf] from [implement]</li>
-    <li>action(p=0.3)->[INITIATOR_label] used [implement] to [damaged_inf] [INITIATOR_label]</li>
-    <li>action(p=0.3)->[INITIATOR_label] used [implement] [skillAdv] to [damaged_inf] [INITIATOR_label]</li>
+
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry(p=1.0)->[damaged_past] [INITIATOR_nominative_definite] [recipient_part0_label] [INITIATOR_label].</li>
+    <li>r_logentry(p=0.4)->[damaged_past] [INITIATOR_nominative_definite] [recipient_part0_label] [INITIATOR_label] [strikeAdv].</li>
+    <li>r_logentry(p=0.4)->[damaged_past] [INITIATOR_nominative_definite] [recipient_part0_label] [INITIATOR_label], [flavortext_consequence].</li>
+    <li>r_logentry(p=0.4)->[destroyed_past] [INITIATOR_nominative_definite] [destroyed_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry(p=0.4)->[destroyed_past] [INITIATOR_nominative_definite] [destroyed_targets] [RECIPIENT_genitive] [destroyed_suffix].</li>
+    <li>r_logentry(p=0.4)->[destroyed_past] [INITIATOR_nominative_definite] [destroyed_targets] [RECIPIENT_genitive] ag baint úsáid as [implement].</li>
+    <li>r_logentry(p=1,recipient_part_count==0)->[damaged_past] [INITIATOR_nominative_definite] [destroyed_targets] [RECIPIENT_genitive] ag baint úsáid as [implement].</li>
+    <li>r_logentry(p=0.4,recipient_part_count==0)->[damaged_past] [INITIATOR_nominative_definite] [destroyed_targets] [RECIPIENT_genitive] [skillAdv] ag baint úsáid as [implement].</li>
+    <li>result(p=1,recipient_part_damaged_count==0)->[destroyed_present] [destroyed_targets] [RECIPIENT_genitive]</li>
+    <li>result(p=1,recipient_part_destroyed_count==0)->[damaged_present] [damaged_targets] [RECIPIENT_genitive]</li>
  </Combat_Hit.rulePack.rulesStrings>
   
   <!-- EN:
