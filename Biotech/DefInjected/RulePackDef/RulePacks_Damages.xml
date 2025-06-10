@@ -2,16 +2,16 @@
 <LanguageData>
   
   <!-- EN:
-    <li>damaged_past->electrified</li>
-    <li>damaged_past->shocked</li>
-    <li>damaged_past->zapped</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>damaged_saorbhriathar->electrified</li>
+    <li>damaged_saorbhriathar->shocked</li>
+    <li>damaged_saorbhriathar->zapped</li>
+    <li>destroyed_past->damaged_saorbhriathar</li>
   -->
   <Damage_MechBandShockwave.rulePack.rulesStrings>
-    <li>damaged_past->elektrifizierte</li>
-    <li>damaged_past->schockte</li>
-    <li>damaged_past->elektrisierte</li>
-    <li>destroyed_past->damaged_past</li>
+    <li>damaged_saorbhriathar->elektrifizierte</li>
+    <li>damaged_saorbhriathar->schockte</li>
+    <li>damaged_saorbhriathar->elektrisierte</li>
+    <li>destroyed_past->damaged_saorbhriathar</li>
  </Damage_MechBandShockwave.rulePack.rulesStrings>
   
 </LanguageData>

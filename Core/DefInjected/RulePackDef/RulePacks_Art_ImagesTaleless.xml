@@ -39,8 +39,8 @@
   -->
   <TalelessImages.rulePack.rulesStrings>
     <li>image->[Character] aonair</li>
-    <li>image->[Character] aonair [desc_pawn] taobh le [TerrainFeature]</li>
-    <li>image->[Character] [desc_pawn] near a [Community]</li>
+    <li>image->[Character] aonair [desc_pawn], agus [TerrainFeature]</li>
+    <li>image->[Character] [desc_pawn], agus [Community]</li>
     <li>image->[Character]</li>
     <li>image->[Character] [desc_pawn] agus [Weapon] ina lámh</li>
     <li>image->[Community]</li>

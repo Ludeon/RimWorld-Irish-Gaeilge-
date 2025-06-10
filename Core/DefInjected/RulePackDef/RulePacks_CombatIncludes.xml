@@ -16,9 +16,9 @@
     <li>scraped_past->skated</li>
   -->
   <Combat_DeflectIncludes.rulePack.rulesStrings>
-    <li>scraped_present->glancing</li>
-    <li>scraped_present->bouncing</li>
-    <li>scraped_present->grazing</li>
+    <li>scraped_present->sciorr sé</li>
+    <li>scraped_present->bhabhnsáil sé</li>
+    <li>scraped_present->d'eitil sé</li>
     <li>scraped_present->caroming</li>
     <li>scraped_present->skipping</li>
     <li>scraped_present->skating</li>
@@ -47,15 +47,26 @@
     <li>tried->attempted</li>
   -->
   <Combat_FailIncludes.rulePack.rulesStrings>
-    <li>action->Rinne [INITIATOR_label] iarracht [INITIATOR_label] [damaged_inf]</li>
-    <li>action->Rinne [INITIATOR_label] iarracht [INITIATOR_label] [damaged_inf]</li>
-    <li>action->Rinne [INITIATOR_label] iarracht [implement] a úsáid chun [INITIATOR_label] [damaged_inf]</li>
+  <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+  <li>INITIATOR->[INITIATOR_label]</li>
+  <li>RECIPIENT->[RECIPIENT_label]</li>
+
+  <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+  <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+
+  <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+  <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+
+  <!-- ACTUAL GAME LINES -->
+    <li>action->Rinne [INITIATOR_nominative_definite] iarracht [RECIPIENT_nominative_definite] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_nominative_definite] iarracht [RECIPIENT_nominative_definite] [damaged_inf]</li>
+    <li>action->Rinne [INITIATOR_nominative_definite] iarracht [implement] a úsáid chun [RECIPIENT_nominative_definite] [damaged_inf]</li>
  </Combat_FailIncludes.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
-    <li>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</li>
-    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+    <li>result(p=1)->[damaged_past] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)->[damaged_past] [RECIPIENT_possessive] [targetlist] and [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_past] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
     <li>strikeAdv->painfully</li>
     <li>strikeAdv->horribly</li>
     <li>strikeAdv->savagely</li>
@@ -66,9 +77,9 @@
     <li>flavortext_consequence(p=0.2)->throwing [RECIPIENT_objective] off balance</li>
   -->
   <Combat_MeleeDamageIncludes.rulePack.rulesStrings>
-    <li>result(p=1)->[damaged_present] [RECIPIENT_possessive] [targetlist]</li>
-    <li>result(p=0.2)->[damaged_present] [RECIPIENT_possessive] [targetlist] [flavortext_consequence]</li>
-    <li>result(p=0.1)->[damaged_present] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
+    <li>result(p=1)->[damaged_past] [RECIPIENT_possessive] [targetlist]</li>
+    <li>result(p=0.2)->[damaged_past] [RECIPIENT_possessive] [targetlist] [flavortext_consequence]</li>
+    <li>result(p=0.1)->[damaged_past] [RECIPIENT_possessive] [targetlist] [strikeAdv]</li>
     <li>strikeAdv->go dona</li>
     <li>strikeAdv->go han-dona</li>
     <li>strikeAdv->go fíochmhar</li>
@@ -94,8 +105,8 @@
     <li>targetlist(recipient_part_count==2)->[recipient_part0_label] and [recipient_part1_label]</li>
     <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], and [recipient_part2_label]</li>
     <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], and [recipient_part3_label]</li>
-    <li>damaged_present(deflected!=True)->wounding</li>
-    <li>damaged_present(deflected!=True)->injuring</li>
+    <li>damaged_past(deflected!=True)->wounding</li>
+    <li>damaged_past(deflected!=True)->injuring</li>
     <li>destroyed(p=0.5)->destroyed</li>
     <li>destroyed(p=0.5)->demolished</li>
     <li>destroyed(p=0.5)->ruined</li>
@@ -132,7 +143,7 @@
     <li>targetlist(recipient_part_count==2)->[recipient_part0_label] agus [recipient_part1_label]</li>
     <li>targetlist(recipient_part_count==3)->[recipient_part0_label], [recipient_part1_label], agus [recipient_part2_label]</li>
     <li>targetlist->[recipient_part0_label], [recipient_part1_label], [recipient_part2_label], agus [recipient_part3_label]</li>
-    <li>damaged_present(deflected!=True)->gortaíodh</li>
+    <li>damaged_past(deflected!=True)->gortaíodh</li>
     <li>destroyed(p=0.5)->scriosadh</li>
  </Combat_MeleeIncludes.rulePack.rulesStrings>
   

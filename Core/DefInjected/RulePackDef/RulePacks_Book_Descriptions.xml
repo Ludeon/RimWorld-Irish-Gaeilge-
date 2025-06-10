@@ -208,7 +208,102 @@
     <li>bookType->biography</li>
     <li>bookType->epic poem</li>
   -->
-  <Description_Novel.rulePack.rulesStrings>TODO</Description_Novel.rulePack.rulesStrings>
+  <Description_Novel.rulePack.rulesStrings>
+    <li>desc->Sa [bookType] [writingQualityAdjective] seo, [follows] [storyStruggles]. [writingQualitySentence]. [maybe_date]</li>
+    <li>follows->déantar cur síos ar dhuine</li>
+    <li>follows->insítear scéal maidir le fear</li>
+    <li>follows->insítear scéal maidir le coilíneach</li>
+    <li>follows->déantar aithris ar scéal maidir le fear</li>
+    <li>storyStruggles->[struggles] i gcoinne [opponent]</li>
+    <li>storyStruggles->[seeks] [seekObjective]</li>
+    <li>struggles->atá ag streachailt</li>
+    <li>struggles->a éiríonn amach</li>
+    <li>opponent->na héagóra</li>
+    <li>opponent->na heagla</li>
+    <li>opponent->naimhde dáinséarach</li>
+    <li>opponent->naimhde</li>
+    <li>opponent->bhaois [ConceptPositive]</li>
+    <li>seeks->a aimsíonn</li>
+    <li>seeks->a lorgaíonn</li>
+    <li>seeks->a chuardaíonn</li>
+    <li>seekObjective->cearnóg ór</li>
+    <li>seekObjective->an diabhal</li>
+    <li>seekObjective->[Vegetable]</li>
+    <li>seekObjective->[Weapon] nua</li>
+    <li>seekObjective->[Animal]</li>
+    <li>seekObjective->comhpháirteanna chun [Mechanoid] a dheisiú</li>
+    <li>seekObjective->[TerrainFeature] a chonaic sé i mbrionglóid</li>
+    <li>seekObjective->iarphairtí</li>
+    <li>seekObjective->duán úr</li>
+    <li>seekObjective->bia i lár an fhasaigh</li>
+    <li>seekObjective->a tháirseach féin ag an mbaile</li>
+    <li>seekObjective->grá, i ndomhan atá lán fuatha</li>
+    <li>seekObjective->duine óna óige</li>
+    <li>seekObjective->seoid a goideadh óna mhuintir</li>
+    <li>seekObjective->dialann chaillte</li>
+    <li>seekObjective->píosa ar iarraidh ó bhailiúchán luachmhar</li>
+    <li>seekObjective->leithscéal as botún a rinne sé san am atá thart</li>
+    <li>seekObjective->socrú intinne i ndiaidh caidreamh a tháinig chun deiridh</li>
+    <li>seekObjective->léarscáil caillte</li>
+    <li>seekObjective->cuimhne thábhachtach ó dhuine nach maireann</li>
+    <li>seekObjective->leigheas ar ghalar</li>
+    <li>seekObjective->planda speisialta</li>
+    <li>seekObjective->litir a scríobhadh ach nár seoladh riamh</li>
+    <li>seekObjective->freagra do cheist fhealsúnach nach bhfuil teacht uirthi</li>
+    <li>seekObjective->nóiméad ciúin ar shiúl ón raic</li>
+    <li>seekObjective->seanchara i gcathair nua</li>
+    <li>seekObjective->nóiméad amháin de ghliondar glan</li>  
+    <li>writingQualityAdjective(quality==6)->dea-scríofa</li>
+    <li>writingQualityAdjective(quality==5)->cliste</li>
+    <li>writingQualityAdjective(quality==4)->iontach</li>
+    <li>writingQualityAdjective(quality==3)->bhreá</li>
+    <li>writingQualityAdjective(quality==2)->deas</li>
+    <li>writingQualityAdjective(quality==1)->drochscríofa</li>
+    <li>writingQualityAdjective(quality==0)->leadránach</li>
+    <li>writingQualitySentence(quality[greater_than]4)->[excellentDesc] [excellentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]5,quality[greater_than]1)->[decentDesc] [decentExtra]</li>
+    <li>writingQualitySentence(quality[less_than]2)->[awfulDesc] [awfulExtra]</li>
+    <li>excellentDesc->Tá sé go hiontach</li>
+    <li>excellentDesc->Tá sé thar a bheith cliste</li>
+    <li>excellentDesc->Tugtar an-léargas ar an domhan sa scéal</li>
+    <li>excellentDesc->Tá an scéal scríofa go maith agus lán le meafair</li>
+    <li>excellentDesc->Tá an scéal cruthaitheach agus spreagúil</li>
+    <li>excellentExtra->. Téann gach leathach isteach sa chéad cheann eile le rithim.</li>
+    <li>excellentExtra->. Tá sé deacair an leabhar seo a chur síos.</li>
+    <li>excellentExtra->. Tá an plota iontach maith</li>
+    <li>excellentExtra->. Tá na carachtair thar a bheith réalaíoch.</li>
+    <li>decentDesc->Is dea-scéal é,</li>
+    <li>decentDesc->Tá an scéal suimiúil,</li>
+    <li>decentDesc->Tá sé greannmhar ó am go chéile,</li>
+    <li>decentExtra-> ach uaireanta bíonn sé deacair gach rud a thuiscint</li>
+    <li>decentExtra-> ach tá cúpla míréir sa scéal</li>
+    <li>decentExtra-> ach tá cúpla earráid sa scéal</li>
+    <li>decentExtra-> ach níl aon mhothúchán ann</li>
+    <li>decentExtra-> ach níl na carachtair rómhaith</li>
+    <li>decentExtra-> ach tá an domhan sách leadránach</li>
+    <li>decentExtra->ach ní chuirtear an plota chun cinn</li>
+    <li>awfulDesc->Tá sé go hainnis,</li>
+    <li>awfulDesc->Is scéal drochscríofa é,</li>
+    <li>awfulDesc->Tá sé deacair an scéal seo a léamh,</li>
+    <li>awfulDesc->Tá sé deacair an scéal seo a leanúint</li>
+    <li>awfulDesc->Níl aon fhís ag an scéal, </li>
+    <li>awfulDesc->Tá an scéal aisteach agus lom</li>
+    <li>awfulDesc->Tá an scéal rófhada</li>
+    <li>awfulExtra-> agus is beag tuisceana atá le baint ón scríbhneoireacht</li>
+    <li>awfulExtra-> agus is léir nach raibh aon taithí ag an údar</li>
+    <li>awfulExtra-> agus níl aon phlota ceart ann</li>
+    <li>awfulExtra-> agus ní phléitear aon téama ann</li>
+    <li>awfulExtra-> agus tá sé thar a bheith leadránach</li>
+    <li>maybe_date-></li>
+    <li>maybe_date->Foilsíodh an leabhar [date_form].</li>
+    <li>maybe_date->Ní fios cathain a scríobhadh an leabhar.</li>
+    <li>date_form->le déanaí</li>
+    <li>date_form->fadó</li>
+    <li>bookType(p=4)->leabhar</li>
+    <li>bookType(p=2)->scéal</li>
+    <li>bookType->dhán</li>
+    <li>bookType->chnuasach</li>
+  </Description_Novel.rulePack.rulesStrings>
   
   <!-- EN:
     <li>subject->[subject_primary]</li>
@@ -845,7 +940,10 @@
     <li>date_form->on the [date]</li>
     <li>date_form->in [date_season]</li>
   -->
-  <Description_Schematic.rulePack.rulesStrings>TODO</Description_Schematic.rulePack.rulesStrings>
+  <Description_Schematic.rulePack.rulesStrings>
+    <!--Placeholder text until I get around to fleshing these out more. Titles are working correctly-->
+    <li>desc->Tugtar eolas maidir le cúrsaí taighde sa scéimléaráid seo.</li>
+  </Description_Schematic.rulePack.rulesStrings>
   
   <!-- EN:
     <li>subject->[subject_primary]</li>
@@ -1202,6 +1300,9 @@
     <li>warworld->Cimbria XII</li>
     <li>warworld->Barkitos</li>
   -->
-  <Description_SkillBook.rulePack.rulesStrings>TODO</Description_SkillBook.rulePack.rulesStrings>
+  <Description_SkillBook.rulePack.rulesStrings>
+      <!--Placeholder text until I get around to fleshing these out more. Titles are working correctly-->
+    <li>desc->Tugtar eolas maidir le scil ar leith sa téacsleabhar seo.</li>
+  </Description_SkillBook.rulePack.rulesStrings>
   
 </LanguageData>

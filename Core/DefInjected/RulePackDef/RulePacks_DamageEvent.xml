@@ -9,29 +9,29 @@
     <li>collapsed->collapsed</li>
     <li>collapsed->fell</li>
     <li>collapsed->caved in</li>
-    <li>damaged_present->smashing</li>
-    <li>damaged_present->bashing</li>
-    <li>damaged_present->bruising</li>
-    <li>damaged_present->lacerating</li>
-    <li>destroyed_present->shattering</li>
-    <li>destroyed_present->crushing</li>
-    <li>destroyed_present->obliterating</li>
-    <li>destroyed_present->annihilating</li>
-    <li>destroyed_present->breaking</li>
+    <li>damaged_past->smashing</li>
+    <li>damaged_past->bashing</li>
+    <li>damaged_past->bruising</li>
+    <li>damaged_past->lacerating</li>
+    <li>destroyed_past_saorbhriathar->shattering</li>
+    <li>destroyed_past_saorbhriathar->crushing</li>
+    <li>destroyed_past_saorbhriathar->obliterating</li>
+    <li>destroyed_past_saorbhriathar->annihilating</li>
+    <li>destroyed_past_saorbhriathar->breaking</li>
   -->
   <DamageEvent_Ceiling.rulePack.rulesStrings>
     <li>damage_source->thit [roof] ar</li>
     <li>roof->an díon</li>
     <li>roof->an tsíleáil</li>
-    <li>damaged_present->gortaíodh</li>
-    <li>damaged_present->buaileadh</li>
-    <li>damaged_present->ballbhrúdh</li>
-    <li>damaged_present->gearradh</li>
-    <li>destroyed_present->scriosadh</li>
-    <li>destroyed_present->brúisceadh</li>
-    <li>destroyed_present->scriosadh</li>
-    <li>destroyed_present->léirscriosadh</li>
-    <li>destroyed_present->briseadh</li>
+    <li>damaged_past->gortaíodh</li>
+    <li>damaged_past->buaileadh</li>
+    <li>damaged_past->ballbhrúdh</li>
+    <li>damaged_past->gearradh</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->brúisceadh</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->léirscriosadh</li>
+    <li>destroyed_past_saorbhriathar->briseadh</li>
  </DamageEvent_Ceiling.rulePack.rulesStrings>
   
   <!-- EN:
@@ -42,14 +42,14 @@
     <li>fire->heat</li>
     <li>fire->a conflagration</li>
     <li>fire->an inferno</li>
-    <li>damaged_present->scorching</li>
-    <li>damaged_present->broiling</li>
-    <li>damaged_present->searing</li>
-    <li>damaged_present->singeing</li>
-    <li>destroyed_present->charring</li>
-    <li>destroyed_present->roasting</li>
-    <li>destroyed_present->cooking</li>
-    <li>destroyed_present->cremating</li>
+    <li>damaged_past->scorching</li>
+    <li>damaged_past->broiling</li>
+    <li>damaged_past->searing</li>
+    <li>damaged_past->singeing</li>
+    <li>destroyed_past_saorbhriathar->charring</li>
+    <li>destroyed_past_saorbhriathar->roasting</li>
+    <li>destroyed_past_saorbhriathar->cooking</li>
+    <li>destroyed_past_saorbhriathar->cremating</li>
   -->
   <DamageEvent_Fire.rulePack.rulesStrings>
     <li>damage_source->Dhóigh [fire]</li>
@@ -59,20 +59,20 @@
     <li>fire->an teas</li>
     <li>fire->dóiteán</li>
     <li>fire->olldóiteán</li>
-    <li>damaged_present->loisceadh</li>
-    <li>damaged_present->dódh</li>
-    <li>damaged_present->barrloisceach</li>
-    <li>damaged_present->barrdhódh</li>
-    <li>destroyed_present->gualaíodh</li>
-    <li>destroyed_present->róstadh</li>
-    <li>destroyed_present->cócaraladh</li>
-    <li>destroyed_present->créamadh</li>
+    <li>damaged_past->loisceadh</li>
+    <li>damaged_past->dódh</li>
+    <li>damaged_past->barrloisceach</li>
+    <li>damaged_past->barrdhódh</li>
+    <li>destroyed_past_saorbhriathar->gualaíodh</li>
+    <li>destroyed_past_saorbhriathar->róstadh</li>
+    <li>destroyed_past_saorbhriathar->cócaraladh</li>
+    <li>destroyed_past_saorbhriathar->créamadh</li>
  </DamageEvent_Fire.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets].</li>
-    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_present] [RECIPIENT_possessive] [destroyed_targets] and [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_present] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_past_saorbhriathar] [RECIPIENT_possessive] [destroyed_targets].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nameDef], [destroyed_past_saorbhriathar] [RECIPIENT_possessive] [destroyed_targets] and [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nameDef], [damaged_past] [RECIPIENT_possessive] [damaged_targets].</li>
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nameDef].</li>
   -->
   <DamageEvent_Include.rulePack.rulesStrings>
@@ -87,16 +87,16 @@
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
 
     <!-- ACTUAL GAME LINES -->
-    <li>r_logentry->[damage_source] [RECIPIENT_nominative_definite], agus [destroyed_present] [destroyed_targets] [RECIPIENT_genitive].</li>
-    <li>r_logentry->[damage_source] [RECIPIENT_nominative_definite], agus [destroyed_present] [destroyed_targets] agus [damaged_present] [damaged_targets] [RECIPIENT_genitive].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nominative_definite], agus [damaged_present] [damaged_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nominative_definite], agus [destroyed_past_saorbhriathar] [destroyed_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry->[damage_source] [RECIPIENT_nominative_definite], agus [destroyed_past_saorbhriathar] [destroyed_targets] agus [damaged_past] [damaged_targets] [RECIPIENT_genitive].</li>
+    <li>r_logentry(recipient_part_destroyed_count==0)->[damage_source] [RECIPIENT_nominative_definite], agus [damaged_past] [damaged_targets] [RECIPIENT_genitive].</li>
     <li>r_logentry(p=0.1)->[damage_source] [RECIPIENT_nominative_definite].</li>
  </DamageEvent_Include.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damage_source->The [sky] opened up on</li>
-    <li>damage_source->A beam of incredible [power] [damaged_past]</li>
-    <li>damage_source->A column of [light] [damaged_past]</li>
+    <li>damage_source->A beam of incredible [power] [damaged_saorbhriathar]</li>
+    <li>damage_source->A column of [light] [damaged_saorbhriathar]</li>
     <li>sky->sky</li>
     <li>sky->clouds</li>
     <li>sky->heavens</li>
@@ -125,7 +125,7 @@
   
   <!-- EN:
     <li>damage_source->A [spiraling] tornado [enveloped]</li>
-    <li>destroyed_present(p=3)->tearing off</li>
+    <li>destroyed_past_saorbhriathar(p=3)->tearing off</li>
     <li>spiraling->spiraling</li>
     <li>spiraling->whirling</li>
     <li>spiraling->spinning</li>
@@ -136,7 +136,7 @@
   -->
   <DamageEvent_Tornado.rulePack.rulesStrings>
     <li>damage_source->[enveloped] i dtornádó [spiraling]</li>
-    <li>destroyed_present(p=3)->baineadh</li>
+    <li>destroyed_past_saorbhriathar(p=3)->baineadh</li>
     <li>spiraling->bíseach</li>
     <li>spiraling->bís</li>
     <li>spiraling->láidir</li>
@@ -153,14 +153,14 @@
     <li>spiketrap->spikes</li>
     <li>spiketrap->a sharp trap</li>
     <li>spiketrap->a spiky trap</li>
-    <li>damaged_present->perforating</li>
-    <li>damaged_present->spearing</li>
-    <li>damaged_present->penetrating</li>
-    <li>damaged_present->jabbing into</li>
-    <li>destroyed_present->tearing apart</li>
-    <li>destroyed_present->shredding</li>
-    <li>destroyed_present->eviscerating</li>
-    <li>destroyed_present->exploding</li>
+    <li>damaged_past->perforating</li>
+    <li>damaged_past->spearing</li>
+    <li>damaged_past->penetrating</li>
+    <li>damaged_past->jabbing into</li>
+    <li>destroyed_past_saorbhriathar->tearing apart</li>
+    <li>destroyed_past_saorbhriathar->shredding</li>
+    <li>destroyed_past_saorbhriathar->eviscerating</li>
+    <li>destroyed_past_saorbhriathar->exploding</li>
   -->
   <DamageEvent_TrapSpike.rulePack.rulesStrings>
     <li>damage_source->Bhuail [spiketrap]</li>
@@ -170,13 +170,13 @@
     <li>spiketrap->spící</li>
     <li>spiketrap->gaiste biorach</li>
     <li>spiketrap->gaiste spíceach</li>
-    <li>damaged_present->ropadh</li>
-    <li>damaged_present->sádh</li>
-    <li>damaged_present->priocadh</li>
-    <li>destroyed_present->stróiceadh</li>
-    <li>destroyed_present->reábadh</li>
-    <li>destroyed_present->scracadh</li>
-    <li>destroyed_present->phléasc</li>
+    <li>damaged_past->ropadh</li>
+    <li>damaged_past->sádh</li>
+    <li>damaged_past->priocadh</li>
+    <li>destroyed_past_saorbhriathar->stróiceadh</li>
+    <li>destroyed_past_saorbhriathar->reábadh</li>
+    <li>destroyed_past_saorbhriathar->scracadh</li>
+    <li>destroyed_past_saorbhriathar->phléasc</li>
  </DamageEvent_TrapSpike.rulePack.rulesStrings>
   
 </LanguageData>

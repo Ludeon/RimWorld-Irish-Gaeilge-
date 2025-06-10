@@ -104,9 +104,9 @@
     <li>tellsAStoryOf->elaborates on</li>
     <li>tellsAStoryOf->goes into detail about</li>
     <li>tellsAStoryOf->narrates</li>
-    <li>tellsAStoryOf->recounts </li>
+    <li>tellsAStoryOf->recounts</li>
     <li>tellsAStoryOf->reports</li>
-    <li>tellsAStoryOf->chronicles </li>
+    <li>tellsAStoryOf->chronicles</li>
     <li>tellsAStoryOf->depicts</li>
     <li>tellsAStoryOf->unfolds</li>
     <li>experiencesWithMonsters->[tellsAStoryOf] experiences [ANYPAWN_pronoun] shared with [entities]</li>
@@ -177,7 +177,7 @@
     <li>entity->shape that hides in plain sight</li>
     <li>entity->hunter that steals souls</li>
     <li>maybeAdjectiveEvil(p=2)-></li>
-    <li>maybeAdjectiveEvil->[adjectiveEvil] </li>
+    <li>maybeAdjectiveEvil->[adjectiveEvil]</li>
     <li>adjectiveEvil->deadly</li>
     <li>adjectiveEvil->ancient</li>
     <li>adjectiveEvil->bloody</li>
