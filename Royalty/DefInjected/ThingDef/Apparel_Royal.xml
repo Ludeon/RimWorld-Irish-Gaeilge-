@@ -2,53 +2,53 @@
 <LanguageData>
   
   <!-- EN: beret -->
-  <Apparel_Beret.label>béret</Apparel_Beret.label>
+  <Apparel_Beret.label>beiré</Apparel_Beret.label>
   <!-- EN: A soft, round, flat-crowned hat. -->
-  <Apparel_Beret.description>Un chapeau doux, rond et plat.</Apparel_Beret.description>
+  <Apparel_Beret.description>Caipín beag, íseal.</Apparel_Beret.description>
   
   <!-- EN: coronet -->
-  <Apparel_Coronet.label>petite couronne</Apparel_Coronet.label>
+  <Apparel_Coronet.label>coróinín</Apparel_Coronet.label>
   <!-- EN: A small crown-like piece of headwear made of metal. -->
-  <Apparel_Coronet.description>Un petit couvre-chef en métal en forme de couronne.</Apparel_Coronet.description>
+  <Apparel_Coronet.description>Tá an coróin bheag seo déanta as miotal.</Apparel_Coronet.description>
   
   <!-- EN: corset -->
-  <Apparel_Corset.label>corset</Apparel_Corset.label>
+  <Apparel_Corset.label>cóirséad</Apparel_Corset.label>
   <!-- EN: An embroidered corset with strong wire support to maintain a ladylike shape. -->
-  <Apparel_Corset.description>Un corset brodé avec un solide support en fil métallique pour conserver une forme féminine.</Apparel_Corset.description>
+  <Apparel_Corset.description>Cóirséad déanta as snáithíní bróidnithe.</Apparel_Corset.description>
   
   <!-- EN: crown -->
-  <Apparel_Crown.label>couronne</Apparel_Crown.label>
+  <Apparel_Crown.label>coróin</Apparel_Crown.label>
   <!-- EN: A crown of metal with an elaborate design. -->
-  <Apparel_Crown.description>Une couronne de métal au design élaboré.</Apparel_Crown.description>
+  <Apparel_Crown.description>Tá an coróin seo déanta as miotal, agus tá patrún ilchasta uirthi.</Apparel_Crown.description>
   
   <!-- EN: stellic crown -->
-  <Apparel_CrownStellic.label>couronne stellique</Apparel_CrownStellic.label>
+  <Apparel_CrownStellic.label>réaltchoróin</Apparel_CrownStellic.label>
   <!-- EN: A grand crown of metal with an elaborate, overbearing design. -->
-  <Apparel_CrownStellic.description>Une grande couronne de métal au design élaboré et imposant.</Apparel_CrownStellic.description>
+  <Apparel_CrownStellic.description>Tá dearadh tiarnúil ar an gcoróin ghalánta seo.</Apparel_CrownStellic.description>
   
   <!-- EN: ladies hat -->
-  <Apparel_HatLadies.label>chapeau de dames</Apparel_HatLadies.label>
+  <Apparel_HatLadies.label>hata ban</Apparel_HatLadies.label>
   <!-- EN: A decorative traditional hat with complex embroidery. -->
-  <Apparel_HatLadies.description>Un chapeau traditionnel décoratif aux broderies complexes.</Apparel_HatLadies.description>
+  <Apparel_HatLadies.description>Tá bróidnéireacht thraidisiúnta ar an hata seo.</Apparel_HatLadies.description>
   
   <!-- EN: top hat -->
-  <Apparel_HatTop.label>haut-de-forme</Apparel_HatTop.label>
+  <Apparel_HatTop.label>hata ard</Apparel_HatTop.label>
   <!-- EN: A tall, stiff, shiny hat. -->
-  <Apparel_HatTop.description>Un grand chapeau rigide et brillant.</Apparel_HatTop.description>
+  <Apparel_HatTop.description>Hata ard, righin.</Apparel_HatTop.description>
   
   <!-- EN: prestige robe -->
-  <Apparel_RobeRoyal.label>robe prestigieuse</Apparel_RobeRoyal.label>
+  <Apparel_RobeRoyal.label>róba measúil</Apparel_RobeRoyal.label>
   <!-- EN: A long, flowing robe embroidered with complex decorative designs. -->
-  <Apparel_RobeRoyal.description>Une longue robe fluide brodée de motifs décoratifs complexes.</Apparel_RobeRoyal.description>
+  <Apparel_RobeRoyal.description>Tá bróidnéireacht thraidisiúnta ar an róba fada seo.</Apparel_RobeRoyal.description>
   
   <!-- EN: formal shirt -->
-  <Apparel_ShirtRuffle.label>chemise solennelle</Apparel_ShirtRuffle.label>
+  <Apparel_ShirtRuffle.label>léine fhoirmiúil</Apparel_ShirtRuffle.label>
   <!-- EN: A decorated formal shirt with buttons. -->
-  <Apparel_ShirtRuffle.description>Une chemise solennelle décorée avec des boutons.</Apparel_ShirtRuffle.description>
+  <Apparel_ShirtRuffle.description>Tá cnaipí agus bróidneireacht chasta ar an léine seo.</Apparel_ShirtRuffle.description>
   
   <!-- EN: formal vest -->
-  <Apparel_VestRoyal.label>gilet solennel</Apparel_VestRoyal.label>
+  <Apparel_VestRoyal.label>veist fhoirmiúil</Apparel_VestRoyal.label>
   <!-- EN: A vest embroidered with complex decorative designs. -->
-  <Apparel_VestRoyal.description>Un gilet brodé de motifs décoratifs complexes.</Apparel_VestRoyal.description>
+  <Apparel_VestRoyal.description>Tá bróidnéireacht thraidisiúnta ar an veist seo.</Apparel_VestRoyal.description>
   
 </LanguageData>

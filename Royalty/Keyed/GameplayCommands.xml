@@ -3,15 +3,15 @@
   
   <!-- Heritage -->
   <!-- EN: Choose a new heir for {HOLDER_nameIndef}: -->
-  <ChooseHeir>Roghnaigh oidhre nua do {HOLDER_nameIndef}:</ChooseHeir>
+  <ChooseHeir>Roghnaigh oidhre nua le haghaidh {HOLDER_nameIndef}:</ChooseHeir>
   <!-- EN: You're about to change the heir of the title {HOLDER_nameIndef} received from {0_name}. This requires building a monument in a limited time, to consecrate the new inheritance. -->
-  <MakeHeirConfirm>Tá tú ar tí oidhre an teideil a bhfuair {HOLDER_nameIndef} ó {0_name} a athrú. Beidh ort leacht a thógáil laistigh de theorainn ama, chun an t-athrú a choisreacan.</MakeHeirConfirm>
+  <MakeHeirConfirm>Tá tú ar tí oidhre an teideal a bhfuair {HOLDER_nameIndef} ó {0_name} a athrú. Beidh ort leacht a thógáil laistigh de theorainn ama, sula mbeidh an t-athrú seo oifigiúil.</MakeHeirConfirm>
   <!-- EN: This will upset {HOLDER_possessive} current heir {HEIR_nameFull}. -->
   <MakeHeirPreviousHeirWarning>Beidh an t-oidhre reatha, {HEIR_nameFull}, míshásta.</MakeHeirPreviousHeirWarning>
 
   <!-- Call aid -->
   <!-- EN: Call aid... -->
-  <CommandCallRoyalAid>Iar cúnamh...</CommandCallRoyalAid>
+  <CommandCallRoyalAid>Iarr cúnamh...</CommandCallRoyalAid>
   <!-- EN: Call for aid using a special permit.\n\nEach type of aid may be used for free once, after which you must wait to use it for free again. You can use the aid more frequently, but it costs honor to do so. -->
   <CommandCallRoyalAidDesc>Iarr cúnamh ag baint úsáid as ceaúnas speisialta.\n\nIs féidir gach ceadúnas a úsáid uair amháin saor in aisce, agus beidh ort fanacht ansin sula bhféadfaidh tú é a úsáid arís. Is féidir ceadúnais a úsáid níos minice ná sin, ach beidh costas onóra i gceist.</CommandCallRoyalAidDesc>
   <!-- EN: Guests will not use their aid permits. -->
@@ -45,39 +45,39 @@
 
   <!-- Abilities -->
   <!-- EN: Neural heat would overflow. Disable the neural heat limiter to cast. -->
-  <CommandPsycastWouldExceedEntropy>L'échauffement neuronal excéderait la limite. Désactiver le limiteur d'échauffement pour pouvoir utiliser ce pouvoir.</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastWouldExceedEntropy>Bheadh an teas néarach ró-ard. Ní mór an teorainn teasa néaraigh a mhúchadh chun an cumhacht seo a úsáid.</CommandPsycastWouldExceedEntropy>
   <!-- EN: {PSYCASTNAME} consumes {0} psyfocus but {CASTERNAME} only has {1}. -->
-  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} nécessite une concentration psychique de {0} mais {CASTERNAME} n'en a que {1}.</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocus>Tá síceafócas {0} de dhíth chun {PSYCASTNAME} a úsáid, ach níl ach {1} ag {CASTERNAME}.</CommandPsycastNotEnoughPsyfocus>
   <!-- EN: {PSYCASTNAME} needs {0} psyfocus to stop {1}'s mental break but {CASTERNAME} only has {2} psyfocus. -->
-  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} a besoin d'une concentration psychique de {0} pour mettre fin à la crise de nerfs de {1} mais {CASTERNAME} n'en a que {2}.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>Tá síceafócas {0} de dhíth chun {PSYCASTNAME} a úsáid chun stop a chur le cliseadh néarógach {1}, ach níl ach {2} ag {CASTERNAME}.</CommandPsycastNotEnoughPsyfocusForMentalBreak>
   <!-- EN: level {0} psylink is required. -->
-  <CommandPsycastHigherLevelPsylinkRequired>un lien psychique de niveau {0} est requis.</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastHigherLevelPsylinkRequired>tá an leibhéal síceach {0} de dhíth.</CommandPsycastHigherLevelPsylinkRequired>
   <!-- EN: Zero psychic sensitivity. -->
-  <CommandPsycastZeroPsychicSensitivity>Auncune sensibilité psychique.</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastZeroPsychicSensitivity>Níl aon íogaireacht shíceach ann.</CommandPsycastZeroPsychicSensitivity>
   <!-- EN: Ability user is unconscious. -->
-  <CommandPsycastPawnIsUnconscious>L'utilisateur de la capacité est inconscient.</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastPawnIsUnconscious>Tá an t-úsáideoir neamhchomhfhiosach.</CommandPsycastPawnIsUnconscious>
   <!-- EN: Need at least {0} psyfocus to cast this. -->
-  <CommandPsycastLowPsyfocus>Besoin d'une concentration psychique d'au moins {0} pour lancer ceci.</CommandPsycastLowPsyfocus>
+  <CommandPsycastLowPsyfocus>Tá ar a laghad {0} síceafócas de dhíth.</CommandPsycastLowPsyfocus>
   <!-- EN: Psychic insanity immune. -->
-  <CommandPsycastInsanityImmune>TODO</CommandPsycastInsanityImmune>
+  <CommandPsycastInsanityImmune>Tá an duine seo bodhar ar chumhachtaí síceacha.</CommandPsycastInsanityImmune>
   <!-- EN: H -->
-  <NeuralHeatLetter>H</NeuralHeatLetter>
+  <NeuralHeatLetter>T</NeuralHeatLetter>
   <!-- EN: P -->
-  <PsyfocusLetter>P</PsyfocusLetter>
+  <PsyfocusLetter>S</PsyfocusLetter>
   <!-- EN: Psychic insanity immune -->
-  <IneffectivePsychicImmune>TODO</IneffectivePsychicImmune>
+  <IneffectivePsychicImmune>Tá an duine seo bodhar ar chumhachtaí síceacha.</IneffectivePsychicImmune>
 
   <!-- Select monument marker -->
   <!-- EN: Select monument -->
-  <CommandSelectMonumentMarker>Selectionner monument</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarker>Roghnaigh leacht</CommandSelectMonumentMarker>
   <!-- EN: Select the monument marker this belongs to. -->
-  <CommandSelectMonumentMarkerDesc>Sélectionner le marqueur de monument auquel il appartient.</CommandSelectMonumentMarkerDesc>
+  <CommandSelectMonumentMarkerDesc>Roghnaigh an leacht lena mbaineann an rud seo.</CommandSelectMonumentMarkerDesc>
 
   <!-- Warn in building radius -->
   <!-- EN: Build radius warning -->
-  <CommandWarnInBuildingRadius>Avertissement de rayon de construction</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadius>Taispeáin an rabhadh tógála</CommandWarnInBuildingRadius>
   <!-- EN: If enabled, this object will draw a red line to buildings you are placing using the architect menu, if they would interfere with meditation due to being too close.\n\nYou can turn this off if you don't intend to use this for meditation. -->
-  <CommandWarnInBuildingRadiusDesc>Une fois activée, cette option tracera une ligne rouge vers les bâtiments que vous placez à l'aide du menu "Architecte", si ceux-ci interfèrent avec la méditation en raison de leur proximité.\n\nVous pouvez désactiver cette option si vous n'avez pas l'intention de l'utiliser pour la méditation.</CommandWarnInBuildingRadiusDesc>
+  <CommandWarnInBuildingRadiusDesc>Má chuirtear an socrú seo ar siul, taispeánfar líne dhearg ar an roghchlár Ailtireachta má bhíonn do struchtúir róghar do spotaí dianmhachnaimh.\n\nIs féidir an socrú seo a mhúchadh mura bhfuil tú ag iarraidh an rud seo a úsáid le haghaidh dianmhachnaimh.</CommandWarnInBuildingRadiusDesc>
   
   <!-- Permits -->
   <!-- EN: Choose permit -->

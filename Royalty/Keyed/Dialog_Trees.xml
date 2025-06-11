@@ -3,10 +3,10 @@
 
   <!-- Royalty -->
   <!-- EN: Change heir of {HOLDER_labelShort}'s {TITLE} title from {HEIR_labelShort} -->
-  <RequestChangeRoyalHeir>Athraigh oidhre teideal '{TITLE}' de chuid {HOLDER_labelShort} chuig {HEIR_labelShort}</RequestChangeRoyalHeir>
+  <RequestChangeRoyalHeir>Athraigh oidhre an teidil '{TITLE}' de chuid {HOLDER_labelShort} chuig {HEIR_labelShort}</RequestChangeRoyalHeir>
   <!-- EN: Designate heir of {HOLDER_labelShort}'s {TITLE} title -->
-  <RequestSetRoyalHeir>Roghnaigh oidhre i gcomhair teideal '{TITLE}' de chuid {HOLDER_labelShort}</RequestSetRoyalHeir>
+  <RequestSetRoyalHeir>Roghnaigh oidhre an teidil '{TITLE}' de chuid {HOLDER_labelShort}</RequestSetRoyalHeir>
   <!-- EN: already in progress for {PAWN_labelShort} -->
-  <RequestChangeRoyalHeirAlreadyInProgress>tá seo ar siúl cheana féin do {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
+  <RequestChangeRoyalHeirAlreadyInProgress>tá sé seo ar siúl cheana féin do {PAWN_labelShort}</RequestChangeRoyalHeirAlreadyInProgress>
   
 </LanguageData>
