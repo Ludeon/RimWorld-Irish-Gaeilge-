@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: royal ascent -->
-  <GiveQuest_EndGame_RoyalAscent.label>assentiment royal</GiveQuest_EndGame_RoyalAscent.label>
+  <GiveQuest_EndGame_RoyalAscent.label>ardú ríoga</GiveQuest_EndGame_RoyalAscent.label>
   
   <!-- EN: imperial deserter -->
-  <GiveQuest_Intro_Deserter.label>déserteur impérial</GiveQuest_Intro_Deserter.label>
+  <GiveQuest_Intro_Deserter.label>tréigtheoir ríoga</GiveQuest_Intro_Deserter.label>
   
   <!-- EN: imperial wimp -->
-  <GiveQuest_Intro_Wimp.label>mauviette impériale</GiveQuest_Intro_Wimp.label>
+  <GiveQuest_Intro_Wimp.label>cladhaire ríoga</GiveQuest_Intro_Wimp.label>
   
   <!-- EN: problem causer -->
-  <ProblemCauser.label>cause du problème</ProblemCauser.label>
+  <ProblemCauser.label>duine tríoblóideach</ProblemCauser.label>
   
 </LanguageData>
