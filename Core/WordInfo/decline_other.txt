@@ -139,6 +139,8 @@ turcaí;an turcaí;na turcaí;an turcaí;
 uan;an uan;na uan;an uan;
 varg;an varg;na varga;an varg;
 varg óg;an varg óg;na varga óg;an varg óg;
+láir;na lárach; na láracha; an láir;
+stail; na staile; na staileanna; an stail;
 
 // DefInjected\ThingDef\* (\w+\.label)
 adharc trombó;;;;
@@ -503,7 +505,7 @@ raidhfil pléascach;;;;
 raidhfil snípéara;;;;
 raiflíse mhór;;;;
 raithneach;;;;
-reábaire pléascach;;;;
+réabaire pléascach;;;;
 rís;;;;
 róba;;;;
 róba-mhúinteoir teicneolaíochta;;;;
@@ -656,7 +658,7 @@ urchar (raidhfil boltála);;;;
 urchar (raidhfil ionsaithe);;;;
 urchar (raidhfil pléascach);;;;
 urchar (raidhfil snípéara);;;;
-urchar (reábaire pléascach);;;;
+urchar (réabaire pléascach);;;;
 urchar (snáthaid);;;;
 urchar (tuirín beag);;;;
 urchar (uathphiostal);;;;

@@ -147,15 +147,15 @@
     <li>r_logentry->Fágadh [destroyed_targets] [RECIPIENT_genitive] [destroyed_suffix] mar gheal ar [projectile] [INITIATOR_genitive].</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_past] [projectile] [INITIATOR_label] [damaged_targets] [RECIPIENT_genitive].</li>
     <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Theip ar [projectile] [INITIATOR_genitive] [ORIGINAL_nominative_definite] a bhaint amach, agus [damaged_past] sé [damaged_targets] [INITIATOR_genitive].</li>
-    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Níor aimsigh [projectile] [INITIATOR_genitive] [ORIGINAL_nominative_definite], agus [damaged_past] sé [damaged_targets] {lookup: [RECIPIENT_genitive]; decline_other; 1}.</li>
+    <li>r_logentry(recipient_part_destroyed_count==0,p=2)->Níor aimsigh [projectile] [INITIATOR_genitive] [ORIGINAL_nominative_definite], agus [damaged_past] sé [damaged_targets] [INITIATOR_genitive].</li>
     <li>r_logentry(recipient_part_destroyed_count==0)->[damaged_past] [projectile] [INITIATOR_genitive] [damaged_targets] [RECIPIENT_genitive].</li>
     <li>r_logentry(p=3)->[destroyed_past] [projectile] [INITIATOR_genitive] [destroyed_targets] [RECIPIENT_genitive] agus [damaged_past] sé [damaged_targets] [RECIPIENT_genitive].</li>
     <li>r_logentry(p=6)->Chuaigh [projectile] [INITIATOR_genitive] thar [ORIGINAL_nominative_definite], agus [destroyed_past] sé [destroyed_targets] [RECIPIENT_genitive].</li>
     <li>r_logentry(p=0.2)->Bhuail [projectile] [INITIATOR_genitive] [RECIPIENT_nominative_definite].</li>
-    <li>r_logentry(p=0.2)->D'aimsigh [projectile] [INITIATOR_genitive] [INITIATOR_label].</li>
+    <li>r_logentry(p=0.2)->D'aimsigh [projectile] [INITIATOR_genitive] [RECIPIENT_nominative_definit].</li>
     <li>r_logentry(p=0.4)->Níor aimsigh [projectile] [INITIATOR_genitive] [ORIGINAL_nominative_definite], ach bhuail sé [RECIPIENT_nominative_definite].</li>
     <li>r_logentry(p=0.4)->Níor bhuail [INITIATOR_nominative_definite] [ORIGINAL_nominative_definite], ach bualadh [RECIPIENT_nominative_definite].</li>
-    <li>r_logentry(p=0.2)->Bhí [INITIATOR_nominative_definite] ag iarraidh[ORIGINAL_nominative_definite] a bhualadh, ach bhuail [INITIATOR_pronoun] [RECIPIENT_nominative_definite].</li>
+    <li>r_logentry(p=0.2)->Bhí [INITIATOR_nominative_definite] ag iarraidh [ORIGINAL_nominative_definite] a bhualadh, ach bhuail [INITIATOR_pronoun] [RECIPIENT_nominative_definite].</li>
     <li>projectile(p=0.05)->urchar</li>
     <li>destroyed_past->bhris</li>
     <li>destroyed_past->bhrúisc</li>

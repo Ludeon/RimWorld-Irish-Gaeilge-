@@ -41,7 +41,7 @@
   <DrugAddiction.label>andúil i ndrugaí</DrugAddiction.label>
   
   <!-- EN: Offsets when equipped -->
-  <EquippedStatOffsets.label>TODO</EquippedStatOffsets.label>
+  <EquippedStatOffsets.label>Éifeachtaí</EquippedStatOffsets.label>
   
   <!-- EN: Genetics -->
   <Genetics.label>Géinte</Genetics.label>
@@ -71,13 +71,13 @@
   <Source.label>foinse</Source.label>
   
   <!-- EN: Multipliers when equipment made of this -->
-  <StuffOfEquipmentStatFactors.label>TODO</StuffOfEquipmentStatFactors.label>
+  <StuffOfEquipmentStatFactors.label>Iolraitheior má dhéantar trealamh as seo</StuffOfEquipmentStatFactors.label>
   
   <!-- EN: Multipliers when made of this -->
-  <StuffStatFactors.label>TODO</StuffStatFactors.label>
+  <StuffStatFactors.label>Iolraitheior má dhéantar rudaí as seo</StuffStatFactors.label>
   
   <!-- EN: Offsets when made of this -->
-  <StuffStatOffsets.label>TODO</StuffStatOffsets.label>
+  <StuffStatOffsets.label>Éifeachtaí má dhéantar rudaí as seo</StuffStatOffsets.label>
   
   <!-- EN: Surgical -->
   <Surgery.label>Obráidí</Surgery.label>

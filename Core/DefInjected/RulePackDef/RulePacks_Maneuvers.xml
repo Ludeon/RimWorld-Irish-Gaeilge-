@@ -33,44 +33,55 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   -->
+
+<!-- DAMAGED_INF = "a ghortú"
+     DAMAGED SAORBRIATHAR = "gortaíodh"
+     DAMAGED CHAITE = "ghortaigh"
+-->
+
   <Maneuver_Bite.rulePack.rulesStrings>
-    <li>damaged_inf->bite</li>
-    <li>damaged_inf->chomp</li>
-    <li>damaged_inf(p=0.5)->nip</li>
-    <li>damaged_saorbhriathar->bit</li>
-    <li>damaged_saorbhriathar->chomped</li>
-    <li>damaged_saorbhriathar->nipped</li>
-    <li>damaged_saorbhriathar->gnawed</li>
-    <li>damaged_saorbhriathar(deflected!=True)->tore</li>
-    <li>damaged_past->biting</li>
-    <li>damaged_past->chomping</li>
-    <li>damaged_past->nipped</li>
-    <li>damaged_past->gnawing</li>
-    <li>damaged_past(deflected!=True)->tearing</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</li>
-    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving grisly tears in the skin</li>
-    <li>flavortext_consequence(recipient_flesh==Mechanoid)->leaving grisly tears in the metal</li>
-    <li>destroyed_past->tore off</li>
-    <li>destroyed_past->ripped off</li>
-    <li>destroyed_past->bit off</li>
-    <li>destroyed_past_saorbhriathar->tearing off</li>
-    <li>destroyed_past_saorbhriathar->ripping off</li>
-    <li>destroyed_past_saorbhriathar->biting off</li>
-    <li>destroyed_suffix->[to] pieces</li>
-    <li>destroyed_suffix->[to] bits</li>
-    <li>destroyed_suffix->[to] chunks</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] shreds</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] strips</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
-    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
+    <li>damaged_saorbhriathar->priocadh</li>
+    <li>damaged_saorbhriathar->plaiceadh</li>
+    <li>damaged_saorbhriathar(deflected!=True)->scriosadh</li>
+    <li>damaged_past->phrioc</li>
+    <li>damaged_past->chogain</li>
+    <li>damaged_past->mhungail</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus nochtaíodh an fheoil faoin gcraiceann</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->agus nochtaíodh meaisínre</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->stróic</li>
+    <li>destroyed_past->srac</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->stróiceadh</li>
+    <li>destroyed_past_saorbhriathar->sracadh</li>
+    <li>destroyed_suffix->i bpíosaí</li>
+    <li>destroyed_suffix->i bpíosaí beaga</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->ina smidiríní</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->i bpíosaí</li>
   </Maneuver_Bite.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_label] tried to kick [TOOL_label] in [INITIATOR_label]'s eyes, but [INITIATOR_label] dodged out of the way.</li>
     <li>r_logentry->[INITIATOR_label] tried to kick [TOOL_label] in [INITIATOR_label]'s eyes, but [INITIATOR_label] blocked it.</li>
   -->
-  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>TODO</Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+  <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>INITIATOR->[INITIATOR_label]</li>
+    <li>RECIPIENT->[RECIPIENT_label]</li>
+    <li>ORIGINAL->[ORIGINALTARGET_label]</li>
+
+    <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
+    <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
+    <li>ORIGINAL_genitive->{lookup: [ORIGINALTARGET_label]; decline_logs; 1}</li>
+
+    <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
+    <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
+    <li>ORIGINAL_nominative_definite->{lookup: [ORIGINALTARGET_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry->Rinne [INITIATOR_nominative_definite] iarracht [TOOL_label] a chiceáil i súile [RECIPIENT_genitive], ach léim [RECIPIENT_nominative_definite] as an mbealach.</li>
+    <li>r_logentry->Rinne [INITIATOR_nominative_definite] iarracht [TOOL_label] a chiceáil i súile [RECIPIENT_genitive], ach sheachain [RECIPIENT_nominative_definite] an t-ionsaí.</li>
+  </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_logentry->[INITIATOR_label] kicked [TOOL_label] in [INITIATOR_label]'s eyes.</li>
@@ -147,7 +158,33 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
-  <Maneuver_Poke.rulePack.rulesStrings>TODO</Maneuver_Poke.rulePack.rulesStrings>
+  <Maneuver_Poke.rulePack.rulesStrings>
+
+    <li>damaged_saorbhriathar(p=2)->priocadh</li>
+    <li>damaged_saorbhriathar(p=2)->sádh</li>
+    <li>damaged_saorbhriathar->coiglíodh</li>
+    <li>damaged_saorbhriathar->brúdh</li>
+    <li>damaged_saorbhriathar->ropadh</li>
+    <li>damaged_past(p=2)->phrioc</li>
+    <li>damaged_past(p=2)->shá</li>
+    <li>damaged_past->bhrúigh</li>
+    <li>damaged_past->rop</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh ballbhrú ollmhór</li>
+    <li>flavortext_consequence->agus fágadh créacht</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->bhrúisc</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->dhíothaigh</li>
+    <li>destroyed_past->bhris</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->brúisceadh</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->díothaíodh</li>
+    <li>destroyed_past_saorbhriathar->briseadh</li>
+    <li>destroyed_suffix->i bpíosaí</li>
+    <li>destroyed_suffix->ina smidiríní</li>
+    <li>destroyed_suffix->i bpíosaí beaga</li>
+  </Maneuver_Poke.rulePack.rulesStrings>
   
   <!-- EN:
     <li>woundname->wound</li>
@@ -162,7 +199,16 @@
     <li>destroyed_suffix->[to] fragments</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a pile of gore</li>
   -->
-  <Maneuver_Scratch.rulePack.rulesStrings>TODO</Maneuver_Scratch.rulePack.rulesStrings>
+  <Maneuver_Scratch.rulePack.rulesStrings>
+    <li>woundname->créacht</li>
+    <li>woundname(p=0.3)->oscailt</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus nochtadh an fheoil faoin gcraiceann</li>
+    <li>flavortext_consequence(recipient_flesh==Mechanoid)->agus nochtadh meaisínre</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh [woundname] uafásach</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->i bpíosaí salacha</li>
+    <li>destroyed_suffix->ina ribíní</li>
+    <li>destroyed_suffix(recipient_flesh!=Mechanoid)->ina smidiríní</li>
+  </Maneuver_Scratch.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->scratch</li>
@@ -188,7 +234,24 @@
     <li>destroyed_past_saorbhriathar->shredding</li>
     <li>destroyed_past_saorbhriathar->ripping</li>
   -->
-  <Maneuver_Scratch_Damage.rulePack.rulesStrings>TODO</Maneuver_Scratch_Damage.rulePack.rulesStrings>
+  <Maneuver_Scratch_Damage.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar(p=4)->scríobadh</li>
+    <li>damaged_saorbhriathar(deflected!=True)->stolladh</li>
+    <li>damaged_saorbhriathar(deflected!=True)->osclaíodh</li>
+    <li>damaged_saorbhriathar->gearradh</li>
+    <li>damaged_past->scríob</li>
+    <li>damaged_past(deflected!=True)->stoll</li>
+    <li>damaged_past(deflected!=True)->d'oscail</li>
+    <li>damaged_past->ghearr</li>
+    <li>destroyed_past->srac</li>
+    <li>destroyed_past->réab</li>
+    <li>destroyed_past->stróic</li>
+    <li>destroyed_past_saorbhriathar->scracadh</li>
+    <li>destroyed_past_saorbhriathar->réabadh</li>
+    <li>destroyed_past_saorbhriathar->stróiceadh</li>
+    <li>destroyed_past_saorbhriathar->gearradh</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+  </Maneuver_Scratch_Damage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->slash</li>
@@ -230,26 +293,16 @@
     <li>destroyed_suffix(target_part_destroyed_count==1)->slicing it in twain</li>
   -->
   <Maneuver_Slash.rulePack.rulesStrings>
-  
-    <li>damaged_inf(p=4)->slash</li>
-    <li>damaged_inf->cut</li>
-    <li>damaged_inf->chop</li>
-    <li>damaged_inf->hack</li>
-    <li>damaged_inf->slice</li>
-    <li>damaged_inf(deflected!=True)->gash</li>
-    <li>damaged_saorbhriathar(p=4)->slashed</li>
-    <li>damaged_saorbhriathar->ghearr</li>
-    <li>damaged_saorbhriathar->rop</li>
-    <li>damaged_saorbhriathar->sháigh</li>
-    <li>damaged_saorbhriathar(deflected!=True)->gashed</li>
-    <li>damaged_past->slashing</li>
-    <li>damaged_past->cutting</li>
-    <li>damaged_past->slicing</li>
-    <li>damaged_past(deflected!=True)->gashing</li>
-    <li>damaged_past(deflected!=True)->tearing</li>
-    <li>damaged_past(deflected!=True)->lacerating</li>
-    <li>woundname->wound</li>
-    <li>woundname(p=0.3)->opening</li>
+    <li>damaged_saorbhriathar(p=4)->gearradh</li>
+    <li>damaged_saorbhriathar->ropadh</li>
+    <li>damaged_saorbhriathar->sádh</li>
+    <li>damaged_past->ghearr</li>
+    <li>damaged_past->d'oscail</li>
+    <li>damaged_past->roinn</li>
+    <li>damaged_past(deflected!=True)->bhuail</li>
+    <li>damaged_past(deflected!=True)->ghortaigh</li>
+    <li>woundname->créacht</li>
+    <li>woundname(p=0.3)->oscailt</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh [woundname]</li>
     <li>destroyed_past->ghearr</li>
     <li>destroyed_past->roinn</li>
@@ -257,7 +310,6 @@
     <li>destroyed_past->d'oscail</li>
     <li>destroyed_suffix->i bpíosaí beaga</li>
     <li>destroyed_suffix->go glan</li>
-    
   </Maneuver_Slash.rulePack.rulesStrings>
   
   <!-- EN:
@@ -270,7 +322,13 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
-  <Maneuver_Smash.rulePack.rulesStrings>TODO</Maneuver_Smash.rulePack.rulesStrings>
+  <Maneuver_Smash.rulePack.rulesStrings>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh ballbhrú ollmhór</li>
+    <li>flavortext_consequence->agus fágadh míchuma</li>
+    <li>destroyed_suffix->ina smidiríní</li>
+    <li>destroyed_suffix->i bpíosaí beaga</li>
+    <li>destroyed_suffix->i bpíosaí</li>
+  </Maneuver_Smash.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf->hit</li>
@@ -295,7 +353,21 @@
     <li>destroyed_past_saorbhriathar->crushing</li>
     <li>destroyed_past_saorbhriathar->breaking</li>
   -->
-  <Maneuver_Smash_Damage.rulePack.rulesStrings>TODO</Maneuver_Smash_Damage.rulePack.rulesStrings>
+  <Maneuver_Smash_Damage.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar->bualadh</li>
+    <li>damaged_saorbhriathar->briseadh</li>
+    <li>damaged_saorbhriathar->bascadh</li>
+    <li>damaged_saorbhriathar->gréadadh</li>
+    <li>damaged_past->bhuail</li>
+    <li>damaged_past->bhris</li>
+    <li>damaged_past(deflected!=True)->gortaíodh</li>
+    <li>destroyed_past->scrios</li>
+    <li>destroyed_past->bhasc</li>
+    <li>destroyed_past->ghréad</li>
+    <li>destroyed_past_saorbhriathar->scriosadh</li>
+    <li>destroyed_past_saorbhriathar->brúisceadh</li>
+    <li>destroyed_past_saorbhriathar->briseadh</li>
+  </Maneuver_Smash_Damage.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_inf(p=4)->stab</li>
@@ -329,6 +401,21 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->leaving it leaking unrecognizable fluids</li>
   -->
-  <Maneuver_Stab.rulePack.rulesStrings>TODO</Maneuver_Stab.rulePack.rulesStrings>
+  <Maneuver_Stab.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar(p=4)->ropadh</li>
+    <li>damaged_saorbhriathar->sádh</li>
+    <li>damaged_saorbhriathar(deflected!=True)->osclaíodh</li>
+    <li>damaged_saorbhriathar(deflected!=True)->polladh</li>
+    <li>damaged_saorbhriathar(deflected!=True)->tolladh</li>
+    <li>damaged_past(deflected!=True)->pholl</li>
+    <li>damaged_past(deflected!=True)->tholl</li>
+    <li>damaged_past(deflected!=True)->d'oscail</li>
+    <li>damaged_past(deflected!=True)->shá</li>
+    <li>woundname->poll</li>
+    <li>woundname->créacht</li>
+    <li>woundname->oscailt</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh [woundname] uafásach</li>
+    <li>flavortext_consequence(recipient_flesh!=Mechanoid)->agus fágadh [woundname]</li>
+  </Maneuver_Stab.rulePack.rulesStrings>
   
 </LanguageData>

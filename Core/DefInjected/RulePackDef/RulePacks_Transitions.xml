@@ -16,12 +16,6 @@
     <li>died(SUBJECT_flesh==Mechanoid)->lost power</li>
   -->
   <Transition_Died.rulePack.rulesStrings>
-    <li>die(SUBJECT_flesh!=Mechanoid,p=2)->die</li>
-    <li>die(SUBJECT_flesh!=Mechanoid)->perish</li>
-    <li>die(SUBJECT_flesh!=Mechanoid)->expire</li>
-    <li>die(SUBJECT_flesh==Mechanoid)->shut down</li>
-    <li>die(SUBJECT_flesh==Mechanoid)->stop functioning</li>
-    <li>die(SUBJECT_flesh==Mechanoid)->lose power</li>
     <li>died(SUBJECT_flesh!=Mechanoid,p=2)->Cailleadh</li>
     <li>died(SUBJECT_flesh!=Mechanoid)->Maraíodh</li>
     <li>died(SUBJECT_flesh!=Mechanoid)->Básaíodh</li>
@@ -88,13 +82,21 @@
     <li>r_logentry->[SUBJECT_label] [died] [flavorsuffix].</li>
   -->
   <Transition_DiedInclude.rulePack.rulesStrings>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>SUBJECT->[SUBJECT_label]</li>
+
+    <li>SUBJECT_genitive->{lookup: [SUBJECT_label]; decline_logs; 1}</li>
+
+    <li>SUBJECT_nominative_definite->{lookup: [SUBJECT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
     <li>r_logentry(p=1.5)->Mharaigh [CULPRITHEDIFF_labelNoun] [SUBJECT_label].</li>
-    <li>r_logentry->Maraíodh [SUBJECT_label].</li>
-    <li>r_logentry->Fuair [SUBJECT_label] bás mar gheal ar[CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
-    <li>r_logentry->Fuair [SUBJECT_label] bás.</li>
-    <li>r_logentry->Cailleadh [SUBJECT_label].</li>
-    <li>r_logentry->[Died] [SUBJECT_label].</li>
-    <li>r_logentry->[Died] [SUBJECT_label] [flavorsuffix].</li>
+    <li>r_logentry->Maraíodh [SUBJECT_nominative_definite].</li>
+    <li>r_logentry->Fuair [SUBJECT_nominative_definite] bás mar gheal ar[CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->Fuair [SUBJECT_nominative_definite] bás.</li>
+    <li>r_logentry->Cailleadh [SUBJECT_nominative_definite].</li>
+    <li>r_logentry->[Died] [SUBJECT_nominative_definite].</li>
+    <li>r_logentry->[Died] [SUBJECT_nominative_definite] [flavorsuffix].</li>
  </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:
@@ -128,8 +130,16 @@
     <li>collapsedmeta(p=0.5)->[collapsed] [helplessly]</li>
   -->
   <Transition_Downed.rulePack.rulesStrings>
-    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_label].</li>
-    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_label] amach.</li>
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <li>SUBJECT->[SUBJECT_label]</li>
+
+    <li>SUBJECT_genitive->{lookup: [SUBJECT_label]; decline_logs; 1}</li>
+
+    <li>SUBJECT_nominative_definite->{lookup: [SUBJECT_label]; decline_logs; 3}</li>
+
+    <!-- ACTUAL GAME LINES -->
+    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_nominative_definite].</li>
+    <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_nominative_definite] amach.</li>
  </Transition_Downed.rulePack.rulesStrings>
   
   <!-- EN:

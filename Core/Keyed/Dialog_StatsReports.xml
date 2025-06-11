@@ -156,11 +156,11 @@
   <!-- EN: Meditator is related to the corpse inside -->
   <StatsReport_GraveCorpseRelatedAbstract>Tá gaol ag an machnóir leis an gcorp atá curtha anseo</StatsReport_GraveCorpseRelatedAbstract>
   <!-- EN: From quality -->
-  <StatsReport_FromQuality>Von Qualität</StatsReport_FromQuality>
+  <StatsReport_FromQuality>Ó cháilíocht</StatsReport_FromQuality>
   <!-- EN: Nearby artificial structures -->
-  <StatsReport_NearbyArtificialStructures>Künstliche Strukturen in der Nähe</StatsReport_NearbyArtificialStructures>
+  <StatsReport_NearbyArtificialStructures>Struchtúir shaorga in aice láimhe</StatsReport_NearbyArtificialStructures>
   <!-- EN: Satisfies user's title requirements -->
-  <StatsReport_SatisfiesTitle>Erfüllt Titelanforderungen des Benutzers</StatsReport_SatisfiesTitle>
+  <StatsReport_SatisfiesTitle>Comhlíonann an rud seo coinníollacha theideal an úsáideora</StatsReport_SatisfiesTitle>
 
   <!-- EN: Age -->
   <Stat_Age_Label>Aois</Stat_Age_Label>
@@ -169,9 +169,9 @@
   <!-- EN: All recreation types -->
   <Stat_JoyKind_AllTypes>Gach cineál siamsaíochta</Stat_JoyKind_AllTypes>
   <!-- EN: Mined item -->
-  <Stat_MineableThing_Name>Gesteinsabbauressource</Stat_MineableThing_Name>
+  <Stat_MineableThing_Name>Mianadóireacht</Stat_MineableThing_Name>
   <!-- EN: The item that will be yielded when mining this. -->
-  <Stat_MineableThing_Desc>Die Ressource, die beim Abbau dieses Gesteins anfällt.</Stat_MineableThing_Desc>
+  <Stat_MineableThing_Desc>An rud a bhainfear ón talamh.</Stat_MineableThing_Desc>
   <!-- EN: Mining yield -->
   <Stat_MiningYield_Name>Gesteinsabbauertrag</Stat_MiningYield_Name>
   <!-- EN: The maximum amount of items yielded when mining this. The actual yield will be adjusted by the mining skill of the miner. -->

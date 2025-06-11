@@ -77,7 +77,14 @@
     <li>subject->carpentry</li>
     <li>subject->infrastructure</li>
   -->
-  <Construction.generalRules.rulesStrings>TODO</Construction.generalRules.rulesStrings>
+  <Construction.generalRules.rulesStrings>
+    <li>subject->tógáil</li>
+    <li>subject->hailtireacht</li>
+    <li>subject->hinnealtóireacht</li>
+    <li>subject->dearadh</li>
+    <li>subject->hathchóiriú</li>
+    <li>subject->bonneagar a chruthú</li>
+  </Construction.generalRules.rulesStrings>
   <!-- EN: construction -->
   <Construction.skillLabel>tógáil</Construction.skillLabel>
   
@@ -100,7 +107,13 @@
     <li>subject->sauces</li>
     <li>subject->meals</li>
   -->
-  <Cooking.generalRules.rulesStrings>TODO</Cooking.generalRules.rulesStrings>
+  <Cooking.generalRules.rulesStrings>
+    <li>subject->cócaireacht</li>
+    <li>subject->bia</li>
+    <li>subject->bácáil</li>
+    <li>subject->hoidis</li>
+    <li>subject->cothú</li>
+  </Cooking.generalRules.rulesStrings>
   <!-- EN: cooking -->
   <Cooking.skillLabel>cócaireacht</Cooking.skillLabel>
   
@@ -119,7 +132,11 @@
     <li>subject->machining</li>
     <li>subject->artisanry</li>
   -->
-  <Crafting.generalRules.rulesStrings>TODO</Crafting.generalRules.rulesStrings>
+  <Crafting.generalRules.rulesStrings>
+    <li>subject->ceardaíocht</li>
+    <li>subject->rudaí a thógáil</li>
+    <li>subject->táirgeadh</li>
+  </Crafting.generalRules.rulesStrings>
   <!-- EN: crafting -->
   <Crafting.skillLabel>ceardaíocht</Crafting.skillLabel>
   
@@ -152,7 +169,10 @@
     <li>subject->research methods</li>
     <li>subject->intellectual inquiry</li>
   -->
-  <Intellectual.generalRules.rulesStrings>TODO</Intellectual.generalRules.rulesStrings>
+  <Intellectual.generalRules.rulesStrings>
+    <li>subject->fisic</li>
+    <li>subject->ceimic</li>
+  </Intellectual.generalRules.rulesStrings>
   <!-- EN: intellectual -->
   <Intellectual.skillLabel>intleachtúil</Intellectual.skillLabel>
   
@@ -184,7 +204,10 @@
     <li>subject->virology</li>
     <li>subject->health sciences</li>
   -->
-  <Medicine.generalRules.rulesStrings>TODO</Medicine.generalRules.rulesStrings>
+  <Medicine.generalRules.rulesStrings>
+    <li>subject->cúrsaí leighis</li>
+    <li>subject->leigheas</li>
+  </Medicine.generalRules.rulesStrings>
   <!-- EN: medical -->
   <Medicine.skillLabel>leigheas</Medicine.skillLabel>
   
@@ -205,7 +228,11 @@
     <li>subject->knighthood</li>
     <li>subject->dueling</li>
   -->
-  <Melee.generalRules.rulesStrings>TODO</Melee.generalRules.rulesStrings>
+  <Melee.generalRules.rulesStrings>
+    <li>subject->dornálaíocht</li>
+    <li>subject->comhrac melee</li>
+    <li>subject->troid</li>
+  </Melee.generalRules.rulesStrings>
   <!-- EN: melee -->
   <Melee.skillLabel>melee</Melee.skillLabel>
   
@@ -228,7 +255,11 @@
     <li>subject->geology</li>
     <li>subject->earthmoving</li>
   -->
-  <Mining.generalRules.rulesStrings>TODO</Mining.generalRules.rulesStrings>
+  <Mining.generalRules.rulesStrings>
+    <li>subject->tochailt</li>
+    <li>subject->mianadóireacht</li>
+    <li>subject->druileáil</li>
+  </Mining.generalRules.rulesStrings>
   <!-- EN: mining -->
   <Mining.skillLabel>mianadóireacht</Mining.skillLabel>
   
@@ -255,7 +286,13 @@
     <li>subject->food production</li>
     <li>subject->crop science</li>
   -->
-  <Plants.generalRules.rulesStrings>TODO</Plants.generalRules.rulesStrings>
+  <Plants.generalRules.rulesStrings>
+    <li>subject->plandaí</li>
+    <li>subject->glasraí</li>
+    <li>subject->crainn</li>
+    <li>subject->flóra</li>
+    <li>subject->luibheolaíocht</li>
+  </Plants.generalRules.rulesStrings>
   <!-- EN: plants -->
   <Plants.skillLabel>plandaí</Plants.skillLabel>
   
@@ -283,7 +320,11 @@
     <li>subject->gun handling</li>
     <li>subject->distance shooting</li>
   -->
-  <Shooting.generalRules.rulesStrings>TODO</Shooting.generalRules.rulesStrings>
+  <Shooting.generalRules.rulesStrings>
+    <li>subject->gunnaí</li>
+    <li>subject->hairm</li>
+    <li>subject->lámhach</li>
+  </Shooting.generalRules.rulesStrings>
   <!-- EN: shooting -->
   <Shooting.skillLabel>lámhach</Shooting.skillLabel>
   
@@ -310,7 +351,13 @@
     <li>subject->emotional intelligence</li>
     <li>subject->communication skills</li>
   -->
-  <Social.generalRules.rulesStrings>TODO</Social.generalRules.rulesStrings>
+  <Social.generalRules.rulesStrings>
+    <li>subject->cumarsáid</li>
+    <li>subject->líonraí</li>
+    <li>subject->réiteach coimhlinte</li>
+    <li>subject->hobair i gcomhar</li>
+    <li>subject->ceannaireacht</li>
+  </Social.generalRules.rulesStrings>
   <!-- EN: social -->
   <Social.skillLabel>sóisialta</Social.skillLabel>
   

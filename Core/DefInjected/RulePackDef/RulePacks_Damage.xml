@@ -33,7 +33,11 @@
     <li>damaged_saorbhriathar->zapped</li>
     <li>destroyed_past->damaged_saorbhriathar</li>
   -->
-  <Damage_EMP.rulePack.rulesStrings>TODO</Damage_EMP.rulePack.rulesStrings>
+  <Damage_EMP.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar->leictríodh</li>
+    <li>damaged_saorbhriathar->turraingíodh</li>
+    <li>destroyed_past->damaged_saorbhriathar</li>
+  </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_saorbhriathar->extinguished</li>
@@ -42,7 +46,11 @@
     <li>damaged_saorbhriathar->quenched</li>
     <li>destroyed_past->damaged_saorbhriathar</li>
   -->
-  <Damage_Extinguish.rulePack.rulesStrings>TODO</Damage_Extinguish.rulePack.rulesStrings>
+  <Damage_Extinguish.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar->múchadh</li>
+    <li>damaged_saorbhriathar->bádh</li>
+    <li>destroyed_past->damaged_saorbhriathar</li>
+  </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_saorbhriathar(p=2)->blasted</li>
@@ -79,20 +87,14 @@
     <li>destroyed_past_saorbhriathar->detonating</li>
   -->
   <Damage_Flame.rulePack.rulesStrings>
-    <li>damaged_saorbhriathar(p=2)->Dhóigh</li>
-    <li>damaged_saorbhriathar(p=2)->Las</li>
-    <li>damaged_saorbhriathar(p=2)->ignited</li>
-    <li>damaged_saorbhriathar(p=2)->seared</li>
-    <li>damaged_saorbhriathar->ghortaigh</li>
-    <li>damaged_saorbhriathar->cneáigh</li>
-    <li>damaged_saorbhriathar->loit</li>
-    <li>damaged_past(p=2)->pléascadh</li>
-    <li>damaged_past(p=2)->dódh</li>
-    <li>damaged_past(p=2)->lasadh</li>
-    <li>damaged_past(p=2)->gortaíodh</li>
-    <li>damaged_past->gortaíodh</li>
-    <li>damaged_past->damástaíodh</li>
-    <li>damaged_past->loiteadh</li>
+    <li>damaged_saorbhriathar(p=2)->dódh</li>
+    <li>damaged_saorbhriathar(p=2)->lasadh</li>
+    <li>damaged_saorbhriathar->gortaíodh</li>
+    <li>damaged_saorbhriathar->loiteadh</li>
+    <li>damaged_past(p=2)->phléasc</li>
+    <li>damaged_past(p=2)->dhó</li>
+    <li>damaged_past(p=2)->las</li>
+    <li>damaged_past(p=2)->ghortaigh</li>
     <li>destroyed_past->dhóigh</li>
     <li>destroyed_past->mhill</li>
     <li>destroyed_past->scrios</li>
@@ -110,7 +112,10 @@
     <li>damaged_saorbhriathar->clouded</li>
     <li>destroyed_past->damaged_saorbhriathar</li>
   -->
-  <Damage_Smoke.rulePack.rulesStrings>TODO</Damage_Smoke.rulePack.rulesStrings>
+  <Damage_Smoke.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar->dorchaíodh</li>
+    <li>destroyed_past->damaged_saorbhriathar</li>
+  </Damage_Smoke.rulePack.rulesStrings>
   
   <!-- EN:
     <li>damaged_saorbhriathar->stunned</li>
@@ -119,6 +124,9 @@
     <li>damaged_saorbhriathar->dizzied</li>
     <li>destroyed_past->damaged_saorbhriathar</li>
   -->
-  <Damage_Stun.rulePack.rulesStrings>TODO</Damage_Stun.rulePack.rulesStrings>
+  <Damage_Stun.rulePack.rulesStrings>
+    <li>damaged_saorbhriathar->stopadh</li>
+    <li>destroyed_past->damaged_saorbhriathar</li>
+  </Damage_Stun.rulePack.rulesStrings>
   
 </LanguageData>

@@ -15,10 +15,9 @@
     <li>r_name->[Color] [story]</li>
     <li>r_name->[story] [RomanNumeral]</li>
   -->
+
+  <!--This could be further improved, but functional for now-->
   <NamerScenario.rulePack.rulesStrings>
-    <li>r_name->[story] [Weapon]</li>
-    <li>r_name->[story] [Animal]</li>
-    <li>r_name->[story] [PersonJob]</li>
     <li>r_name->[story] [ConceptAny]</li>
     <li>r_name->[story] [RomanNumeral]</li>
  </NamerScenario.rulePack.rulesStrings>
