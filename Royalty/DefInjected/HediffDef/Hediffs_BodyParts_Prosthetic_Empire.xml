@@ -2,73 +2,73 @@
 <LanguageData>
   
   <!-- EN: drill arm -->
-  <DrillArm.label>bras de forage</DrillArm.label>
+  <DrillArm.label>lámh druileála</DrillArm.label>
   <!-- EN: An installed drill arm. Allows the miner to rapidly find and exploit weak lines in the rock. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <DrillArm.description>Un bras de forage installé.</DrillArm.description>
+  <DrillArm.description>Tá lámh druileála feistithe.</DrillArm.description>
   <!-- EN: drill -->
-  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>foret</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
+  <DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>druileáil</DrillArm.comps.HediffComp_VerbGiver.tools.drill.label>
   <!-- EN: a drill arm -->
-  <DrillArm.labelNoun>un bras de forage</DrillArm.labelNoun>
+  <DrillArm.labelNoun>lámh druileála</DrillArm.labelNoun>
   
   <!-- EN: elbow blade -->
-  <ElbowBlade.label>lame de coude</ElbowBlade.label>
+  <ElbowBlade.label>lann láimhe</ElbowBlade.label>
   <!-- EN: An installed elbow blade. Extends at will from a hidden opening at the end of the ulna. Appearing without warning, it can be used for devastating slice attacks. -->
-  <ElbowBlade.description>Une lame de coude installée.</ElbowBlade.description>
+  <ElbowBlade.description>Tá lann láimhe feistithe.</ElbowBlade.description>
   <!-- EN: blade -->
-  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>tranchant</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
+  <ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>lann</ElbowBlade.comps.HediffComp_VerbGiver.tools.blade.label>
   <!-- EN: an elbow blade -->
-  <ElbowBlade.labelNoun>une lame de coude</ElbowBlade.labelNoun>
+  <ElbowBlade.labelNoun>lann láimhe</ElbowBlade.labelNoun>
   
   <!-- EN: field hand -->
-  <FieldHand.label>main verte</FieldHand.label>
+  <FieldHand.label>lámh feirmeoireachta</FieldHand.label>
   <!-- EN: An installed field hand. Made to speed up the sowing and harvesting tasks of a farmer. Multiple telescoping finger-like protrusions can simultaneously harvest from several points on the same plant, or precisely sow several holes at once. It also has a general-purpose manipulator. It is somewhat ungainly, which slows down movement slightly. -->
-  <FieldHand.description>Une main verte installée.</FieldHand.description>
+  <FieldHand.description>Tá lámh feirmeoireachta feistithe.</FieldHand.description>
   <!-- EN: knuckle -->
-  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>poing</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
+  <FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>lámh</FieldHand.comps.HediffComp_VerbGiver.tools.knuckle.label>
   <!-- EN: a field hand -->
-  <FieldHand.labelNoun>une main verte</FieldHand.labelNoun>
+  <FieldHand.labelNoun>lámh feirmeoireachta</FieldHand.labelNoun>
   
   <!-- EN: hand talon -->
-  <HandTalon.label>main griffue</HandTalon.label>
+  <HandTalon.label>crúb</HandTalon.label>
   <!-- EN: An installed hand talon. Extends from a hidden opening between the middle and ring fingers. The talon is longer than the palm, but it becomes flexible upon retracting, allowing the user to curl it up and conceal it inside the hand. It can perform rapid slashing attacks, but is poor at penetrating armor. -->
-  <HandTalon.description>Une main griffue installée.</HandTalon.description>
+  <HandTalon.description>Tá crúb feistithe.</HandTalon.description>
   <!-- EN: talon -->
-  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>griffe</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
+  <HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>crúb</HandTalon.comps.HediffComp_VerbGiver.tools.talon.label>
   <!-- EN: a hand talon -->
-  <HandTalon.labelNoun>une main griffue</HandTalon.labelNoun>
+  <HandTalon.labelNoun>crúb</HandTalon.labelNoun>
   
   <!-- EN: knee spike -->
-  <KneeSpike.label>pic de genou</KneeSpike.label>
+  <KneeSpike.label>lann ghlúine</KneeSpike.label>
   <!-- EN: An installed knee spike. Extends at will from a hidden opening on the front of the knee. Appearing without warning, it can be used for devastating stabbing attacks which penetrate even thick armor. -->
-  <KneeSpike.description>Un pic de genou installé.</KneeSpike.description>
+  <KneeSpike.description>Tá lann ghlúine feistithe.</KneeSpike.description>
   <!-- EN: spike -->
-  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>pointe</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
+  <KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>lann</KneeSpike.comps.HediffComp_VerbGiver.tools.spike.label>
   <!-- EN: a knee spike -->
-  <KneeSpike.labelNoun>un pic de genou</KneeSpike.labelNoun>
+  <KneeSpike.labelNoun>lann ghlúine</KneeSpike.labelNoun>
   
   <!-- EN: mindscrew -->
-  <Mindscrew.label>tenaille mentale</Mindscrew.label>
+  <Mindscrew.label>scriú inchinne</Mindscrew.label>
   <!-- EN: An installed mindscrew. Inflicts continuous pain on the user. Mindscrews are used by some authorities as a long-term punishment. Some even install them voluntarily as a demonstration of ideological or religious devotion. -->
-  <Mindscrew.description>Une tenaille mentale installée.</Mindscrew.description>
+  <Mindscrew.description>Tá scriú inchinne feistithe.</Mindscrew.description>
   <!-- EN: a mindscrew -->
-  <Mindscrew.labelNoun>une tenaille mentale</Mindscrew.labelNoun>
+  <Mindscrew.labelNoun>scriú inchinne</Mindscrew.labelNoun>
   
   <!-- EN: venom fangs -->
-  <VenomFangs.label>crocs à venin</VenomFangs.label>
+  <VenomFangs.label>fiacla nimhe</VenomFangs.label>
   <!-- EN: An installed set of venom fangs. The user can bite an enemy, extend the injectors, and pump venom into the target. -->
-  <VenomFangs.description>Un jeu de crocs à venin installé.</VenomFangs.description>
+  <VenomFangs.description>Tá fiacla nimhe feistithe.</VenomFangs.description>
   <!-- EN: venom fangs -->
-  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>pointe</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
+  <VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>fiacle nimhe</VenomFangs.comps.HediffComp_VerbGiver.tools.venom_fangs.label>
   <!-- EN: a set of venom fangs -->
-  <VenomFangs.labelNoun>un jeu de crocs à venin</VenomFangs.labelNoun>
+  <VenomFangs.labelNoun>fiacla nimhe</VenomFangs.labelNoun>
   
   <!-- EN: venom talon -->
-  <VenomTalon.label>griffe venimeuse</VenomTalon.label>
+  <VenomTalon.label>crúb nimhe</VenomTalon.label>
   <!-- EN: An installed venom talon. The user can scratch an enemy while squirting venom into the wound. The talon is designed to be installed in the middle finger. It's fast, but poor at penetrating armor. -->
-  <VenomTalon.description>Une griffe venimeuse installée.</VenomTalon.description>
+  <VenomTalon.description>Tá crúb nimhe feistithe.</VenomTalon.description>
   <!-- EN: venom talon -->
-  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>pointe</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
+  <VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>crúb nimhe</VenomTalon.comps.HediffComp_VerbGiver.tools.venom_talon.label>
   <!-- EN: a venom talon -->
-  <VenomTalon.labelNoun>une griffe venimeuse</VenomTalon.labelNoun>
+  <VenomTalon.labelNoun>crúb nimhe</VenomTalon.labelNoun>
   
 </LanguageData>

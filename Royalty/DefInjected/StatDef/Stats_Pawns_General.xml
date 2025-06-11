@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: neural heat gain -->
-  <PsychicEntropyGain.label>gain d'échauffement neuronal</PsychicEntropyGain.label>
+  <PsychicEntropyGain.label>teas néarach</PsychicEntropyGain.label>
   <!-- EN: A multiplier on neural heat gained from any source. -->
-  <PsychicEntropyGain.description>Un multiplicateur sur l'échauffement neuronal provenant de n'importe quelle source.</PsychicEntropyGain.description>
+  <PsychicEntropyGain.description>Iolraitheoir ar an teas néarach a thagann as gach foinse.</PsychicEntropyGain.description>
   
 </LanguageData>

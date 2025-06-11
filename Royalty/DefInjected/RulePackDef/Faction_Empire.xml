@@ -25,6 +25,7 @@
     <li>ofThing->the Spirit</li>
   -->
   <NamerFactionEmpire.rulePack.rulesStrings>
+  <!--Could be improved bit-->
     <li>r_name(p=2)->[empire] [ofThing]</li>
     <li>r_name(p=2)->[empire] [ofThing]</li>
     <li>r_name->[empire] na Deoraíochta</li>

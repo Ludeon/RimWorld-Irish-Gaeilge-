@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: Jump range -->
-  <JumpRange.label>portée de saut</JumpRange.label>
+  <JumpRange.label>raon léime</JumpRange.label>
   <!-- EN: The maximum jump distance. -->
-  <JumpRange.description>La distance de saut maximale.</JumpRange.description>
+  <JumpRange.description>An t-achar is mó ar féidir léimt.</JumpRange.description>
   <!-- EN: {0} c -->
   <JumpRange.formatString>{0} c</JumpRange.formatString>
   

@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: psychic hunger -->
-  <HungerMaker.label>faim psychique</HungerMaker.label>
+  <HungerMaker.label>ocras síceach</HungerMaker.label>
   <!-- EN: Hunger is increased by the psychic influence of a bonded weapon. -->
-  <HungerMaker.description>La faim est augmentée par l'influence psychique d'une arme liée.</HungerMaker.description>
+  <HungerMaker.description>Tagann ocras ar an duine seo ar ráta níos tapúla toisc go bhfuil nasc aige le harm síceach.</HungerMaker.description>
   
   <!-- EN: assisted neural cooling -->
-  <NeuralHeatRecoveryGain.label>refroidissement neuronal assisté</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.label>fuarú síceach</NeuralHeatRecoveryGain.label>
   <!-- EN: Neural heat dissipation is improved by the psychic influence of a bonded weapon. -->
-  <NeuralHeatRecoveryGain.description>La dissipation de l'échauffement neuronal est améliorée par l'influence psychique d'une arme liée.</NeuralHeatRecoveryGain.description>
+  <NeuralHeatRecoveryGain.description>Tagann fuarú síceach ar an duine seo toisc go bhfuil nasc aige le harm síceach.</NeuralHeatRecoveryGain.description>
   
   <!-- EN: psychic painlessness -->
-  <NoPain.label>inhibition de douleur psychique</NoPain.label>
+  <NoPain.label>gan phian</NoPain.label>
   <!-- EN: Pain is disabled by the psychic influence of a wielded weapon. -->
-  <NoPain.description>La douleur est inhibée par l'influence psychique d'une arme brandie.</NoPain.description>
+  <NoPain.description>Tá an t-arm síceach atá nasctha leis an duine seo ag cur bac iomlán ar an bpian, agus ní mhothaíonn an duine seo rud ar bith.</NoPain.description>
   
   <!-- EN: psychic speed -->
-  <SpeedBoost.label>vitesse psychique</SpeedBoost.label>
+  <SpeedBoost.label>luas síceach</SpeedBoost.label>
   <!-- EN: Movement is sped up by the psychic influence of a wielded weapon. -->
-  <SpeedBoost.description>Le mouvement est accélérée par l'influence psychique d'une arme brandie.</SpeedBoost.description>
+  <SpeedBoost.description>Gluaiseann an duine seo níos tapúla, mar gheall ar an arm síceach lena bhfuil sé nasctha.</SpeedBoost.description>
   
 </LanguageData>

@@ -1604,11 +1604,11 @@
   <!-- EN: Fall rate: {0} / s ({1}s until zero) -->
   <PawnTooltipPsychicEntropyStats>Ráta íslithe: {0} / s ({1}s fágtha)</PawnTooltipPsychicEntropyStats>
   <!-- EN: Neural heat increases after using a psychic power. Surpassing the normal limit may cause a psychic breakdown lasting days.\n\nNeural heat dissipates naturally over time. This process can be accelerated by wearing eltex apparel or being in pain. -->
-  <PawnTooltipPsychicEntropyDesc>Tagann teas inchinne ar dhaoine tar éis dóibh cumhachtaí síceacha a úsáid. Má thagann an iomarca teas inchinne ar dhuine, d'fhéadfadh cliseadh néarógach teacht air.\n\nLaghdaíonn teas inchinne go nádúrtha le himeacht ama. Is féidir an próiseas sin a dhéanamh níos tápúla trí héadaí áirithe a chaitheamh, nó laghdóigh an teas inchinne níos tápúla má ghortaítear an duine.</PawnTooltipPsychicEntropyDesc>
+  <PawnTooltipPsychicEntropyDesc>Tagann teas néarach ar dhaoine tar éis dóibh cumhachtaí síceacha a úsáid. Má thagann an iomarca teas néaraigh ar dhuine, d'fhéadfadh cliseadh néarógach teacht air.\n\nLaghdaíonn teas néarach go nádúrtha le himeacht ama. Is féidir an próiseas sin a dhéanamh níos tápúla trí héadaí áirithe a chaitheamh, nó laghdóigh an teas néarach níos tápúla má ghortaítear an duine.</PawnTooltipPsychicEntropyDesc>
   <!-- EN: Pain boost\n\nPain focuses the mind and speeds up neural heat dissipation.\n\nPain level: {0}\nBonus to heat recovery: {1} -->
-  <PawnTooltipPsychicEntropyPainFocus>Pian\n\nCuireann pian leis an bhfócas, agus laghdaíonn teas inchinne níos tapúla má bhíonn duine i bpian.\n\Leibhéal péine: {0}\n\nBónas: {1}</PawnTooltipPsychicEntropyPainFocus>
+  <PawnTooltipPsychicEntropyPainFocus>Pian\n\nCuireann pian leis an bhfócas, agus laghdaíonn teas néarach níos tapúla má bhíonn duine i bpian.\n\Leibhéal péine: {0}\n\nBónas: {1}</PawnTooltipPsychicEntropyPainFocus>
   <!-- EN: Toggle neural heat limiter. Exceeding your heat limit may cause a psychic breakdown lasting days. It won't cause permanent damage. -->
-  <PawnTooltipPsychicEntropyLimit>Leis seo, cuirfear srian ar an teas inchinne.\n\nMá sháraítear an teorainn, d'fhéadfadh cliseadh néarógach teacht ar an duine. Ní dhéanfaidh an cliseadh sin aon damáiste buan, áfach.</PawnTooltipPsychicEntropyLimit>
+  <PawnTooltipPsychicEntropyLimit>Leis seo, cuirfear srian ar an teas néarach.\n\nMá sháraítear an teorainn, d'fhéadfadh cliseadh néarógach teacht ar an duine. Ní dhéanfaidh an cliseadh sin aon damáiste buan, áfach.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>Síceafhócas: {0}</PawnTooltipPsyfocus>
 
