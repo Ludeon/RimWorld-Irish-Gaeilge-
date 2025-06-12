@@ -53,7 +53,7 @@
   <BodyPartsUltra.label>ultra-teicneolaíocht</BodyPartsUltra.label>
   
   <!-- EN: bookEffects -->
-  <BookEffects.label>TODO</BookEffects.label>
+  <BookEffects.label>bookEffects</BookEffects.label>
   
   <!-- EN: books -->
   <Books.label>leabhair</Books.label>
@@ -218,7 +218,7 @@
   <WeaponsRanged.label>airm fadraoin</WeaponsRanged.label>
   
   <!-- EN: unique weapons -->
-  <WeaponsUnique.label>TODO</WeaponsUnique.label>
+  <WeaponsUnique.label>airm leithleacha</WeaponsUnique.label>
   
   <!-- EN: wools -->
   <Wools.label>olann</Wools.label>

@@ -17,9 +17,9 @@
   <Apparel_BowlerHat.description>Hata deas, a bhfuil cuma sofaisticiúil air. Cuireann an hata seo le scileanna sóisialta.</Apparel_BowlerHat.description>
   
   <!-- EN: face mask -->
-  <Apparel_ClothMask.label>TODO</Apparel_ClothMask.label>
+  <Apparel_ClothMask.label>masc aghaidhe</Apparel_ClothMask.label>
   <!-- EN: A piece of fabric which covers the wearer's mouth and nose with several layers of textile. It is remarkably effective in reducing the effects of environmental toxins. -->
-  <Apparel_ClothMask.description>TODO</Apparel_ClothMask.description>
+  <Apparel_ClothMask.description>Clúdaíonn an masc seo aghaidh an úsáideora. Is féidir an masc seo a úsáid chun aer thocsaineach a sheachaint, ar feadh tamaill.</Apparel_ClothMask.description>
   
   <!-- EN: cowboy hat -->
   <Apparel_CowboyHat.label>hata buachaill bó</Apparel_CowboyHat.label>

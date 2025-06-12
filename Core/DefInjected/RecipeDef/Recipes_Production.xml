@@ -85,6 +85,6 @@
   <!-- EN: Use heat and strong electromagnets to break down weapons into useful resources. -->
   <SmeltWeapon.description>Bain úsáid as teas agus forsaí leictreamaighnéadacha chun airm a bhruithniú agus a bhriseadh síos in acmhainní úsáideacha.</SmeltWeapon.description>
   <!-- EN: Smelting weapon. -->
-  <SmeltWeapon.jobString>TODO</SmeltWeapon.jobString>
+  <SmeltWeapon.jobString>Ag bruithniú airm.</SmeltWeapon.jobString>
   
 </LanguageData>

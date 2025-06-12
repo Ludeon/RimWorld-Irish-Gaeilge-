@@ -20,7 +20,7 @@
   <Medium.label>meánach</Medium.label>
   
   <!-- EN: moving water -->
-  <MovingFluid.label>uisce atá ag gluaiseacht</MovingFluid.label>
+  <MovingFluid.label>uisce gluaisteach</MovingFluid.label>
   
   <!-- EN: shallow water -->
   <ShallowWater.label>uisce éadhomhain</ShallowWater.label>
@@ -29,6 +29,6 @@
   <SmoothableStone.label>is féidir seo a dhéanamh mín</SmoothableStone.label>
   
   <!-- EN: walkable -->
-  <Walkable.label>TODO</Walkable.label>
+  <Walkable.label>is féidir siúl anseo</Walkable.label>
   
 </LanguageData>

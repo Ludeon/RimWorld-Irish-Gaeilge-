@@ -129,7 +129,7 @@
   <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
   <CookMealSurvivalBulk.description>Déan 4 bhéile fadmharthain as feoil agus plandaí.</CookMealSurvivalBulk.description>
   <!-- EN: protein -->
-  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>TODO</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
+  <CookMealSurvivalBulk.ingredients.0.filter.customSummary>próitéin</CookMealSurvivalBulk.ingredients.0.filter.customSummary>
   <!-- EN: Cooking 4 survival meals. -->
   <CookMealSurvivalBulk.jobString>Ag déanamh 4 bhéile fadmharthain.</CookMealSurvivalBulk.jobString>
   

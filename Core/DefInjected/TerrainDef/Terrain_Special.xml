@@ -2,19 +2,19 @@
 <LanguageData>
   
   <!-- EN: ancient concrete -->
-  <AncientConcrete.label>TODO</AncientConcrete.label>
+  <AncientConcrete.label>coincréit ársa</AncientConcrete.label>
   <!-- EN: Ancient concrete flooring. -->
-  <AncientConcrete.description>TODO</AncientConcrete.description>
+  <AncientConcrete.description>Cuireadh an coincréit seo fadó.</AncientConcrete.description>
   
   <!-- EN: ancient tile -->
-  <AncientTile.label>TODO</AncientTile.label>
+  <AncientTile.label>tíleanna ársa</AncientTile.label>
   <!-- EN: Ancient metal tiles. -->
-  <AncientTile.description>TODO</AncientTile.description>
+  <AncientTile.description>Cuireadh na tíleanna seo fadó.</AncientTile.description>
   
   <!-- EN: ancient wood floor -->
-  <AncientWoodPlankFloor.label>TODO</AncientWoodPlankFloor.label>
+  <AncientWoodPlankFloor.label>urlár adhmaid ársa</AncientWoodPlankFloor.label>
   
   <!-- EN: underwall -->
-  <Underwall.label>TODO</Underwall.label>
+  <Underwall.label>bunsraith</Underwall.label>
   
 </LanguageData>
