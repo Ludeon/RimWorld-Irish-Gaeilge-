@@ -5,7 +5,12 @@ See this page for license info : http://ludeon.com/forums/index.php?topic=2933.0
 
 Please note that this translation is currently under development and is not finished. 
 
-This version is not yet complete and will not be fully playable or error free.
+CORE: BETA
+ROYALTY: ALPHA
+BIOTECH: NOT STARTED
+IDEOLOGY: NOT STARTED
+ANOMALY: NOT STARTED
+ODYSSEY: NOT STARTED
 
 ### An t-aistriúchán Gaeilge ar RimWorld ###
 
