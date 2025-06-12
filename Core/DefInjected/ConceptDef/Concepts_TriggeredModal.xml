@@ -17,14 +17,14 @@
   <SteamDeckControlsGame.helpText>Brúigh X chun an roghchlár a oscailt agus brúigh {Key:TogglePause} chun an cluiche a stopadh. Is féidir na truicear a úsáid chun cliceáil. Is féidir zúmáil isteach agus amach agus scrolláil trí liostaí le {Key:MapZoom_In} agus {Key:MapZoom_Out}.</SteamDeckControlsGame.helpText>
   
   <!-- EN: Steam Deck controls -->
-  <SteamDeckControlsMainMenu.label>TODO</SteamDeckControlsMainMenu.label>
+  <SteamDeckControlsMainMenu.label>Steam Deck</SteamDeckControlsMainMenu.label>
   <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
-  <SteamDeckControlsMainMenu.helpText>TODO</SteamDeckControlsMainMenu.helpText>
+  <SteamDeckControlsMainMenu.helpText>Is féidir an ceap tadhaill a úsáid chun an luchóg a bhogadh, agus an truicear dheas a úsáid chun rudaí a chliceáil. Brúigh {Key:Accept} chun leanúint ar aghaidh, agus {Key:Cancel} chun dul siar.</SteamDeckControlsMainMenu.helpText>
   
   <!-- EN: Flick designations only designate -->
-  <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
+  <SwitchFlickingDesignation.label>Lasca</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
-  <SwitchFlickingDesignation.helpText>TODO</SwitchFlickingDesignation.helpText>
+  <SwitchFlickingDesignation.helpText>Mar eolas, níl i gceist leis seo ach ordú lena ndeirtear le coilíneach an lasc a bhrú. Ní tharlóidh rud ar bith go dtí go mbrúifidh an coilíneach an lasc.</SwitchFlickingDesignation.helpText>
   
   <!-- EN: Trade goods and trade beacons -->
   <TradeGoodsMustBeNearBeacon.label>Trádáil agus aeróga trádála</TradeGoodsMustBeNearBeacon.label>

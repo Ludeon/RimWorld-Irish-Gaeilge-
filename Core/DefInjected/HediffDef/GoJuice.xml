@@ -20,10 +20,10 @@
   <!-- EN: A built-up tolerance to go-juice. The more severe this tolerance is, the more go-juice it takes to get the same effect. -->
   <GoJuiceTolerance.description>Dá láidre an fhulaingt sú fuinnimh, dá mhéad sú fuinnimh a bheidh de dhíth chun an éifeacht chéanna a bhaint amach.</GoJuiceTolerance.description>
   <!-- EN: small -->
-  <GoJuiceTolerance.stages.small.label>TODO</GoJuiceTolerance.stages.small.label>
+  <GoJuiceTolerance.stages.small.label>íseal</GoJuiceTolerance.stages.small.label>
   <!-- EN: large -->
-  <GoJuiceTolerance.stages.large.label>TODO</GoJuiceTolerance.stages.large.label>
+  <GoJuiceTolerance.stages.large.label>meánach</GoJuiceTolerance.stages.large.label>
   <!-- EN: massive -->
-  <GoJuiceTolerance.stages.massive.label>TODO</GoJuiceTolerance.stages.massive.label>
+  <GoJuiceTolerance.stages.massive.label>ard</GoJuiceTolerance.stages.massive.label>
   
 </LanguageData>

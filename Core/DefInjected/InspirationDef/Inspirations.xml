@@ -71,6 +71,6 @@
   <!-- EN: [PAWN_pronoun] will get a significant trade price bonus when closing [PAWN_possessive] next trade deal.\n\nThe inspiration will expire after 8 days, or when the deal is done. -->
   <Inspired_Trade.beginLetter>Gheobhaidh [PAWN_pronoun] praghasanna níos airde an chéad uair eile a bheidh [PAWN_pronoun] i mbun trádála.\n\nTiocfaidh deireadh leis an ionspráid i ndiaidh 8 lá, nó nuair a dhéanfar an margadh trádála.</Inspired_Trade.beginLetter>
   <!-- EN: {0} is no longer inspired (inspired trade). -->
-  <Inspired_Trade.endMessage>TODO</Inspired_Trade.endMessage>
+  <Inspired_Trade.endMessage>Níl ionspráid ar {0} a thuilleadh (trádáil).</Inspired_Trade.endMessage>
   
 </LanguageData>

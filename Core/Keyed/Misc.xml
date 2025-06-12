@@ -65,7 +65,7 @@
   <!-- EN: interval (days) -->
   <intervalDays>eatramh (laethanta)</intervalDays>
   <!-- EN: delay (days) -->
-  <delayDays>TODO</delayDays>
+  <delayDays>moill (laethanta)</delayDays>
   <!-- EN: repeat -->
   <repeat>athdhéan</repeat>
   <!-- EN: default -->
@@ -99,15 +99,15 @@
   <!-- EN: Translation -->
   <Translation>Aistriúchán</Translation>
   <!-- EN: min(days) -->
-  <minDays>TODO</minDays>
+  <minDays>íosta (laethanta)</minDays>
   <!-- EN: max(days) -->
-  <maxDays>TODO</maxDays>
+  <maxDays>uasta (laethanta)</maxDays>
   <!-- EN: Processing -->
-  <Processing>TODO</Processing>
+  <Processing>Ag próiseáil</Processing>
   <!-- EN: Inspect -->
-  <Inspect>TODO</Inspect>
+  <Inspect>Féach</Inspect>
   <!-- EN: Edit -->
-  <Edit>TODO</Edit>
+  <Edit>Athraigh</Edit>
 
   <!-- Content generation-->
   

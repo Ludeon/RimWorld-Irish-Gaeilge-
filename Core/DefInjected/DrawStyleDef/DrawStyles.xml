@@ -2,21 +2,21 @@
 <LanguageData>
   
   <!-- EN: angled line -->
-  <AngledLine.label>TODO</AngledLine.label>
+  <AngledLine.label>líne claonta</AngledLine.label>
   
   <!-- EN: empty oval -->
-  <EmptyOval.label>TODO</EmptyOval.label>
+  <EmptyOval.label>ubhchruth folamh</EmptyOval.label>
   
   <!-- EN: empty rectangle -->
-  <EmptyRectangle.label>TODO</EmptyRectangle.label>
+  <EmptyRectangle.label>dronuilleog fholamh</EmptyRectangle.label>
   
   <!-- EN: filled oval -->
-  <FilledOval.label>TODO</FilledOval.label>
+  <FilledOval.label>ubhchruth líonta</FilledOval.label>
   
   <!-- EN: filled rectangle -->
-  <FilledRectangle.label>TODO</FilledRectangle.label>
+  <FilledRectangle.label>dronuilleog líonta</FilledRectangle.label>
   
   <!-- EN: line -->
-  <Line.label>TODO</Line.label>
+  <Line.label>líne</Line.label>
   
 </LanguageData>

@@ -8,7 +8,7 @@
   <!-- EN: leader -->
   <PlayerColony.leaderTitle>ceannaire</PlayerColony.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <PlayerColony.messageDefendersAttacking>TODO</PlayerColony.messageDefendersAttacking>
+  <PlayerColony.messageDefendersAttacking>Tá daoine ón bhfaicsean '{1}' ag ionsú.</PlayerColony.messageDefendersAttacking>
   <!-- EN: colonist -->
   <PlayerColony.pawnSingular>coilíneach</PlayerColony.pawnSingular>
   <!-- EN: colonists -->
@@ -21,7 +21,7 @@
   <!-- EN: leader -->
   <PlayerTribe.leaderTitle>ceannaire</PlayerTribe.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <PlayerTribe.messageDefendersAttacking>TODO</PlayerTribe.messageDefendersAttacking>
+  <PlayerTribe.messageDefendersAttacking>Tá daoine ón bhfaicsean '{1}' ag ionsú.</PlayerTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <PlayerTribe.pawnSingular>treabhaí</PlayerTribe.pawnSingular>
   <!-- EN: tribespeople -->

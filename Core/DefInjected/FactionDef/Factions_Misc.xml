@@ -8,7 +8,7 @@
   <!-- EN: prime councilor -->
   <OutlanderCivil.leaderTitle>príomh-chomhairleoir</OutlanderCivil.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <OutlanderCivil.messageDefendersAttacking>TODO</OutlanderCivil.messageDefendersAttacking>
+  <OutlanderCivil.messageDefendersAttacking>Tá lonnaitheoirí ag ionsú.</OutlanderCivil.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderCivil.pawnSingular>lonnaitheoir</OutlanderCivil.pawnSingular>
   <!-- EN: outlanders -->
@@ -21,7 +21,7 @@
   <!-- EN: prime councilor -->
   <OutlanderRough.leaderTitle>príomh-chomhairleoir</OutlanderRough.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <OutlanderRough.messageDefendersAttacking>TODO</OutlanderRough.messageDefendersAttacking>
+  <OutlanderRough.messageDefendersAttacking>Tá lonnaitheoirí ag ionsú.</OutlanderRough.messageDefendersAttacking>
   <!-- EN: outlander -->
   <OutlanderRough.pawnSingular>lonnaitheoir</OutlanderRough.pawnSingular>
   <!-- EN: outlanders -->
@@ -34,7 +34,7 @@
   <!-- EN: boss -->
   <Pirate.leaderTitle>saoiste</Pirate.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Pirate.messageDefendersAttacking>TODO</Pirate.messageDefendersAttacking>
+  <Pirate.messageDefendersAttacking>Tá píoráidí ag ionsú.</Pirate.messageDefendersAttacking>
   <!-- EN: pirate -->
   <Pirate.pawnSingular>píoráid</Pirate.pawnSingular>
   <!-- EN: pirates -->
@@ -47,7 +47,7 @@
   <!-- EN: chief -->
   <TribeCivil.leaderTitle>taoiseach</TribeCivil.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TribeCivil.messageDefendersAttacking>TODO</TribeCivil.messageDefendersAttacking>
+  <TribeCivil.messageDefendersAttacking>Tá daoine treibhe ag ionsú.</TribeCivil.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeCivil.pawnSingular>treabhaí</TribeCivil.pawnSingular>
   <!-- EN: tribespeople -->
@@ -60,7 +60,7 @@
   <!-- EN: chief -->
   <TribeRough.leaderTitle>taoiseach</TribeRough.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TribeRough.messageDefendersAttacking>TODO</TribeRough.messageDefendersAttacking>
+  <TribeRough.messageDefendersAttacking>Tá daoine treibhe ag ionsú.</TribeRough.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeRough.pawnSingular>treabhaí</TribeRough.pawnSingular>
   <!-- EN: tribespeople -->
@@ -73,7 +73,7 @@
   <!-- EN: chief -->
   <TribeSavage.leaderTitle>taoiseach</TribeSavage.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <TribeSavage.messageDefendersAttacking>TODO</TribeSavage.messageDefendersAttacking>
+  <TribeSavage.messageDefendersAttacking>Tá daoine treibhe ag ionsú.</TribeSavage.messageDefendersAttacking>
   <!-- EN: tribesman -->
   <TribeSavage.pawnSingular>treabhaí</TribeSavage.pawnSingular>
   <!-- EN: tribespeople -->

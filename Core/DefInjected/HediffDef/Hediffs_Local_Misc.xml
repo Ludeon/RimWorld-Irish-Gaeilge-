@@ -46,11 +46,11 @@
   <!-- EN: An infectious disease which can drive humans and animals into a berserk rage. Scaria-infected animals can't be tamed. -->
   <Scaria.descriptionShort>Galar a chuireann racht feirge ar chréatúr. Gan chóireáil leighis, marófar an t-óstach laistigh de 5 lá</Scaria.descriptionShort>
   <!-- EN: Scaria infected. -->
-  <Scaria.inspectString>TODO</Scaria.inspectString>
+  <Scaria.inspectString>Ionfhabhtaithe le scáire.</Scaria.inspectString>
   <!-- EN: Scaria sores -->
-  <Scaria.renderNodeProperties.0.debugLabel>TODO</Scaria.renderNodeProperties.0.debugLabel>
+  <Scaria.renderNodeProperties.0.debugLabel>Neascóidí scáire</Scaria.renderNodeProperties.0.debugLabel>
   <!-- EN: Scaria sores -->
-  <Scaria.renderNodeProperties.1.debugLabel>TODO</Scaria.renderNodeProperties.1.debugLabel>
+  <Scaria.renderNodeProperties.1.debugLabel>Neascóidí scáire</Scaria.renderNodeProperties.1.debugLabel>
   
   <!-- EN: sterilized -->
   <Sterilized.label>steirilithe</Sterilized.label>

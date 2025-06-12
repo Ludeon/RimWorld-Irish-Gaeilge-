@@ -7,9 +7,9 @@
   <AcidBurn.deathMessage>Maraíodh {0} le haigéad.</AcidBurn.deathMessage>
   
   <!-- EN: beam -->
-  <Beam.label>TODO</Beam.label>
+  <Beam.label>léas</Beam.label>
   <!-- EN: {0} has been beamed to death. -->
-  <Beam.deathMessage>TODO</Beam.deathMessage>
+  <Beam.deathMessage>Maraíodh {0} le léas.</Beam.deathMessage>
   
   <!-- EN: bomb -->
   <Bomb.label>buama</Bomb.label>
@@ -22,9 +22,9 @@
   <BombSuper.deathMessage>Básaíodh {0} i bpléascán.</BombSuper.deathMessage>
   
   <!-- EN: decayed organ -->
-  <Decayed.label>TODO</Decayed.label>
+  <Decayed.label>orgán scriosta</Decayed.label>
   <!-- EN: {0} died from metabolic disruptions caused by organ decay. -->
-  <Decayed.deathMessage>TODO</Decayed.deathMessage>
+  <Decayed.deathMessage>Maraíodh {0} de bharr orgán scriosta.</Decayed.deathMessage>
   
   <!-- EN: deterioration -->
   <Deterioration.label>meath</Deterioration.label>
@@ -42,14 +42,14 @@
   <Mining.deathMessage>Básaíodh {0}.</Mining.deathMessage>
   
   <!-- EN: nerve -->
-  <Nerve.label>TODO</Nerve.label>
+  <Nerve.label>suaitheadh néarógach</Nerve.label>
   <!-- EN: {0} has been killed by nerve shock. -->
-  <Nerve.deathMessage>TODO</Nerve.deathMessage>
+  <Nerve.deathMessage>Maraíodh {0} de bharr suaitheadh néarógach.</Nerve.deathMessage>
   
   <!-- EN: nerve stun -->
-  <NerveStun.label>TODO</NerveStun.label>
+  <NerveStun.label>stangach néarógach</NerveStun.label>
   <!-- EN: {0} has been killed. -->
-  <NerveStun.deathMessage>TODO</NerveStun.deathMessage>
+  <NerveStun.deathMessage>Maraíodh {0}.</NerveStun.deathMessage>
   
   <!-- EN: rotting -->
   <Rotting.label>meath</Rotting.label>

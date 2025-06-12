@@ -41,10 +41,10 @@
   <CutPlantDesignated.reportString>ag gearradh TargetA.</CutPlantDesignated.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <Deconstruct.reportString>ag díthógái TargetA.</Deconstruct.reportString>
+  <Deconstruct.reportString>ag díthógáil TargetA.</Deconstruct.reportString>
   
   <!-- EN: deconstructing TargetA. -->
-  <DeconstructForBlueprint.reportString>TODO</DeconstructForBlueprint.reportString>
+  <DeconstructForBlueprint.reportString>ag díthógáil TargetA.</DeconstructForBlueprint.reportString>
   
   <!-- EN: feeding TargetA to TargetB. -->
   <DeliverFood.reportString>ag tabhairt TargetA do TargetB.</DeliverFood.reportString>
@@ -74,7 +74,7 @@
   <GuiltyColonistExecution.reportString>ag marú TargetA.</GuiltyColonistExecution.reportString>
   
   <!-- EN: hacking TargetA. -->
-  <Hack.reportString>TODO</Hack.reportString>
+  <Hack.reportString>ag haiceáil TargetA.</Hack.reportString>
   
   <!-- EN: harvesting TargetA. -->
   <Harvest.reportString>ag baint TargetA.</Harvest.reportString>
@@ -134,7 +134,7 @@
   <RemoveFloor.reportString>ag baint urláir.</RemoveFloor.reportString>
   
   <!-- EN: removing bridges. -->
-  <RemoveFoundation.reportString>TODO</RemoveFoundation.reportString>
+  <RemoveFoundation.reportString>ag baint droichead.</RemoveFoundation.reportString>
   
   <!-- EN: removing paint from TargetA. -->
   <RemovePaintBuilding.reportString>ag baint péint de TargetA.</RemovePaintBuilding.reportString>

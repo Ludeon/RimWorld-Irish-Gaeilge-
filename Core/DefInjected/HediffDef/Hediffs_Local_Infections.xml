@@ -59,22 +59,22 @@
   <!-- EN: minor -->
   <LungRot.stages.minor.label>íseal</LungRot.stages.minor.label>
   <!-- EN: major -->
-  <LungRot.stages.major.label>meánach</LungRot.stages.major.label>
+  <LungRot.stages.major.label>ard</LungRot.stages.major.label>
   <!-- EN: extreme -->
   <LungRot.stages.extreme.label>tromchúiseach</LungRot.stages.extreme.label>
   
   <!-- EN: rot stink exposure -->
-  <LungRotExposure.label>TODO</LungRotExposure.label>
+  <LungRotExposure.label>nochtú ar ghás lobhaidh</LungRotExposure.label>
   <!-- EN: Long-term exposure to rot stink gas. Rot stink exposure has no direct health effects. However, serious rot stink exposure has a chance to result in a painful bacterial infection known as lung rot. When not exposed to rot stink gas, rot stink exposure will slowly decrease. -->
-  <LungRotExposure.description>TODO</LungRotExposure.description>
+  <LungRotExposure.description>Ní bhíonn aon éifeacht ag gás lobhaidh de ghnáth, ach uaireanta tagann tinneas baictéireach ar dhaoine de bharr rónochta.</LungRotExposure.description>
   <!-- EN: {PAWN_nameDef} is beginning to suffer from exposure to rot stink gas. Keep {PAWN_objective} away from rotting corpses and other sources of rot stink. -->
-  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>TODO</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
+  <LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>Tá tinneas ag teacht ar {PAWN_nameDef} mar gheall ar rónochtadh ar ghás lobhaidh.</LungRotExposure.comps.HediffComp_SurgeryInspectable.surgicalDetectionDesc>
   <!-- EN: minor -->
-  <LungRotExposure.stages.minor.label>TODO</LungRotExposure.stages.minor.label>
+  <LungRotExposure.stages.minor.label>íseal</LungRotExposure.stages.minor.label>
   <!-- EN: major -->
-  <LungRotExposure.stages.major.label>TODO</LungRotExposure.stages.major.label>
+  <LungRotExposure.stages.major.label>ard</LungRotExposure.stages.major.label>
   <!-- EN: serious -->
-  <LungRotExposure.stages.serious.label>TODO</LungRotExposure.stages.serious.label>
+  <LungRotExposure.stages.serious.label>tromchúiseach</LungRotExposure.stages.serious.label>
   
   <!-- EN: malaria -->
   <Malaria.label>maláire</Malaria.label>
@@ -106,21 +106,21 @@
   <Plague.stages.extreme-1.label>tromchúiseach</Plague.stages.extreme-1.label>
   
   <!-- EN: scaria infection -->
-  <ScariaInfection.label>TODO</ScariaInfection.label>
+  <ScariaInfection.label>ionfhabhtú scáire</ScariaInfection.label>
   <!-- EN: An infection caused by scaria bacterium. If not treated, the infection will eventually drive the host into a berserk rage. -->
-  <ScariaInfection.description>TODO</ScariaInfection.description>
+  <ScariaInfection.description>Baictéir scáire is cúis leis an ionfhabhtú seo. Mura ndéantar an t-ionfhabhtú a chóireáil i gceart, tiocfaidh cuthach feirge ar an othar.</ScariaInfection.description>
   <!-- EN: Scaria: {PAWN_nameDef} -->
-  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>TODO</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>Scáire: {PAWN_nameDef}</ScariaInfection.comps.HediffComp_GiveHediff.letterLabel>
   <!-- EN: {PAWN_nameDef} has developed scaria from {PAWN_possessive} infection, driving {PAWN_objective} into a berserk rage. Scaria can be cured with a special medical operation, but {PAWN_nameDef} must first be downed. -->
-  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>TODO</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
+  <ScariaInfection.comps.HediffComp_GiveHediff.letterText>Tá racht feirge marfach tagtha ar {PAWN_nameDef} de bharr ionfhabhtú scáire. Is féidir an tinneas a chóireáil le leigheas, ach ní mór {PAWN_nameDef} a leagan ar dtús.</ScariaInfection.comps.HediffComp_GiveHediff.letterText>
   <!-- EN: a scaria infection -->
-  <ScariaInfection.labelNoun>TODO</ScariaInfection.labelNoun>
+  <ScariaInfection.labelNoun>ionfhabhtú scáire</ScariaInfection.labelNoun>
   <!-- EN: minor -->
-  <ScariaInfection.stages.minor.label>TODO</ScariaInfection.stages.minor.label>
+  <ScariaInfection.stages.minor.label>íseal</ScariaInfection.stages.minor.label>
   <!-- EN: major -->
-  <ScariaInfection.stages.major.label>TODO</ScariaInfection.stages.major.label>
+  <ScariaInfection.stages.major.label>ard</ScariaInfection.stages.major.label>
   <!-- EN: extreme -->
-  <ScariaInfection.stages.extreme.label>TODO</ScariaInfection.stages.extreme.label>
+  <ScariaInfection.stages.extreme.label>tromchúiseach</ScariaInfection.stages.extreme.label>
   
   <!-- EN: sensory mechanites -->
   <SensoryMechanites.label>meicnítí céadfacha</SensoryMechanites.label>

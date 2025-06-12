@@ -78,7 +78,7 @@
   <!-- EN: The psychic soothe is ending. -->
   <PsychicSoothe.endMessage>Tá deireadh ag teacht leis an dordán síceach.</PsychicSoothe.endMessage>
   <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
-  <PsychicSoothe.letterText>TODO</PsychicSoothe.letterText>
+  <PsychicSoothe.letterText>Tagann faoiseamh mhór ar gach Tagann sonas ar gach {0?fireann:fear}{0?baineann:bean}!\n\nTá dordán síceach le cloisteáil sa cheantar, agus tá sé dírithe ar {0?fireann:fhir}{0?baineann:mhná}. Beidh dea-ghiúmar orthu ar feadh cúpla lá.</PsychicSoothe.letterText>
   
   <!-- EN: solar flare -->
   <SolarFlare.label>brúchtadh gréine</SolarFlare.label>
@@ -90,9 +90,9 @@
   <SolarFlare.letterText>Tá brúchtadh gréine ann.\n\nCuirfidh na tonnta leictreamaighnéadacha isteach ar earraí leictreonacha.</SolarFlare.letterText>
   
   <!-- EN: toxic fallout -->
-  <ToxicFallout.label>TODO</ToxicFallout.label>
+  <ToxicFallout.label>scamall toscainseach</ToxicFallout.label>
   <!-- EN: A plume of toxic dust is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
-  <ToxicFallout.description>scamall tocsach</ToxicFallout.description>
+  <ToxicFallout.description>Tá scamall tocsaineach ag teacht anuas ar an gceantar. Tiocfaidh nimhiú ar aon rud beo nach bhfuil faoi dhíon.</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
   <ToxicFallout.descriptionFuture>Beidh an ceantar timpeall ar [gameConditionDuration_duration] buailte le scamall tocsach ar feadh [gameConditionDuration_duration]. Marófar plandaí agus ainmhithe má tá siad lasmuigh.</ToxicFallout.descriptionFuture>
   <!-- EN: The worst of the toxic fallout has settled. -->

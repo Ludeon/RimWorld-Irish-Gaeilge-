@@ -50,7 +50,7 @@
   <DropEquipment.reportString>ag cur TargetA síos.</DropEquipment.reportString>
   
   <!-- EN: Ejecting fuel from TargetA. -->
-  <EjectFuel.reportString>TODO</EjectFuel.reportString>
+  <EjectFuel.reportString>Ag baint breosla as TargetA</EjectFuel.reportString>
   
   <!-- EN: emptying TargetA. -->
   <EmptyThingContainer.reportString>ag folmhú TargetA.</EmptyThingContainer.reportString>
@@ -95,7 +95,7 @@
   <FollowRoper.reportString>ag leanúint TargetA.</FollowRoper.reportString>
   
   <!-- EN: making TargetA wear TargetB. -->
-  <ForceTargetWear.reportString>TODO</ForceTargetWear.reportString>
+  <ForceTargetWear.reportString>ag cur TargetB ar TargetA</ForceTargetWear.reportString>
   
   <!-- EN: taking TargetA. -->
   <GiveToPackAnimal.reportString>ag tógáil TargetA.</GiveToPackAnimal.reportString>
@@ -134,7 +134,7 @@
   <Ingest.reportString>ag ithe TargetA.</Ingest.reportString>
   
   <!-- EN: installing TargetB in TargetA. -->
-  <InstallImplant.reportString>TODO</InstallImplant.reportString>
+  <InstallImplant.reportString>ag feistiú TargetB</InstallImplant.reportString>
   
   <!-- EN: insulting TargetA. -->
   <Insult.reportString>ag maslú TargetA.</Insult.reportString>

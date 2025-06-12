@@ -23,10 +23,10 @@
   <Designator_Deconstruct.label>Scrios</Designator_Deconstruct.label>
   
   <!-- EN: next draw style -->
-  <Designator_NextDrawStyle.label>TODO</Designator_NextDrawStyle.label>
+  <Designator_NextDrawStyle.label>an chéad stíl eile</Designator_NextDrawStyle.label>
   
   <!-- EN: previous draw style -->
-  <Designator_PreviousDrawStyle.label>TODO</Designator_PreviousDrawStyle.label>
+  <Designator_PreviousDrawStyle.label>an stíl roimhe seo</Designator_PreviousDrawStyle.label>
   
   <!-- EN: rotate left -->
   <Designator_RotateLeft.label>Cas ar chlé</Designator_RotateLeft.label>
@@ -35,7 +35,7 @@
   <Designator_RotateRight.label>Cas ar dheis</Designator_RotateRight.label>
   
   <!-- EN: force square dimensions -->
-  <Designator_ShapeSnap.label>TODO</Designator_ShapeSnap.label>
+  <Designator_ShapeSnap.label>cearnóg</Designator_ShapeSnap.label>
   
   <!-- EN: change selected debug action -->
   <Dev_ChangeSelectedDebugAction.label>Athraigh rogha forbróra</Dev_ChangeSelectedDebugAction.label>
@@ -83,40 +83,40 @@
   <MapZoom_Out.label>Zúmáil amach</MapZoom_Out.label>
   
   <!-- EN: Misc 1 -->
-  <Misc1.label>TODO</Misc1.label>
+  <Misc1.label>Misc 1</Misc1.label>
   
   <!-- EN: Misc 10 -->
-  <Misc10.label>TODO</Misc10.label>
+  <Misc10.label>Misc 10</Misc10.label>
   
   <!-- EN: Misc 11 -->
-  <Misc11.label>TODO</Misc11.label>
+  <Misc11.label>Misc 11</Misc11.label>
   
   <!-- EN: Misc 12 -->
-  <Misc12.label>TODO</Misc12.label>
+  <Misc12.label>Misc 12</Misc12.label>
   
   <!-- EN: Misc 2 -->
-  <Misc2.label>TODO</Misc2.label>
+  <Misc2.label>Misc 2</Misc2.label>
   
   <!-- EN: Misc 3 -->
-  <Misc3.label>TODO</Misc3.label>
+  <Misc3.label>Misc 3</Misc3.label>
   
   <!-- EN: Misc 4 -->
-  <Misc4.label>TODO</Misc4.label>
+  <Misc4.label>Misc 4</Misc4.label>
   
   <!-- EN: Misc 5 -->
-  <Misc5.label>TODO</Misc5.label>
+  <Misc5.label>Misc 5</Misc5.label>
   
   <!-- EN: Misc 6 -->
-  <Misc6.label>TODO</Misc6.label>
+  <Misc6.label>Misc 6</Misc6.label>
   
   <!-- EN: Misc 7 -->
-  <Misc7.label>TODO</Misc7.label>
+  <Misc7.label>Misc 7</Misc7.label>
   
   <!-- EN: Misc 8 -->
-  <Misc8.label>TODO</Misc8.label>
+  <Misc8.label>Misc 8</Misc8.label>
   
   <!-- EN: Misc 9 -->
-  <Misc9.label>TODO</Misc9.label>
+  <Misc9.label>Misc 9</Misc9.label>
   
   <!-- EN: increment 100x -->
   <ModifierIncrement_100x.label>Incrimint 100x</ModifierIncrement_100x.label>
@@ -128,7 +128,7 @@
   <NextColonist.label>Roghnaigh coilíneach ar dheis</NextColonist.label>
   
   <!-- EN: open search window -->
-  <OpenMapSearch.label>TODO</OpenMapSearch.label>
+  <OpenMapSearch.label>oscail an bosca cuardaigh</OpenMapSearch.label>
   
   <!-- EN: previous colonist -->
   <PreviousColonist.label>Roghnaigh coilíneach ar chlé</PreviousColonist.label>
