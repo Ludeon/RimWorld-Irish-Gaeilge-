@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: discover ancient complex -->
-  <DiscoverAncientComplex.label>ancien complexe découvert</DiscoverAncientComplex.label>
+  <DiscoverAncientComplex.label>TODO</DiscoverAncientComplex.label>
   <!-- EN: you will discover the location of an ancient complex nearby. -->
-  <DiscoverAncientComplex.effectDesc>Vous découvrirez l'emplacement d'un ancien complexe à proximité.</DiscoverAncientComplex.effectDesc>
+  <DiscoverAncientComplex.effectDesc>TODO</DiscoverAncientComplex.effectDesc>
   <!-- EN: You've discovered the location of an ancient complex. -->
-  <DiscoverAncientComplex.letterInfoText>Vous avez découvert l'emplacement d'un ancien complexe.</DiscoverAncientComplex.letterInfoText>
+  <DiscoverAncientComplex.letterInfoText>TODO</DiscoverAncientComplex.letterInfoText>
   
   <!-- EN: farm animals wander in -->
-  <FarmAnimalsWanderIn.label>des animaux de ferme errent</FarmAnimalsWanderIn.label>
+  <FarmAnimalsWanderIn.label>TODO</FarmAnimalsWanderIn.label>
   <!-- EN: a group of farm animals will be attracted and join the colony. -->
-  <FarmAnimalsWanderIn.effectDesc>un groupe d'animaux de la ferme sera attiré et rejoindra la colonie.</FarmAnimalsWanderIn.effectDesc>
+  <FarmAnimalsWanderIn.effectDesc>TODO</FarmAnimalsWanderIn.effectDesc>
   <!-- EN: Curious farm animals have wandered in, attracted by the commotion. -->
-  <FarmAnimalsWanderIn.letterInfoText>De curieux animaux de ferme ont erré ici, attirés par l'agitation.</FarmAnimalsWanderIn.letterInfoText>
+  <FarmAnimalsWanderIn.letterInfoText>TODO</FarmAnimalsWanderIn.letterInfoText>
   
   <!-- EN: gauranlen pod sprout -->
-  <GauranlenTreePod.label>pousse de gousse gauranlen</GauranlenTreePod.label>
+  <GauranlenTreePod.label>TODO</GauranlenTreePod.label>
   <!-- EN: a Gauranlen pod will sprout at a random location on the map, if it can. -->
-  <GauranlenTreePod.effectDesc>Une gousse Gauranlen germera à un endroit aléatoire sur la carte, si elle le peut.</GauranlenTreePod.effectDesc>
+  <GauranlenTreePod.effectDesc>TODO</GauranlenTreePod.effectDesc>
   <!-- EN: A Gauranlen pod sprouted nearby. -->
-  <GauranlenTreePod.letterInfoText>Une gousse de Gauranlen a germé à proximité.</GauranlenTreePod.letterInfoText>
+  <GauranlenTreePod.letterInfoText>TODO</GauranlenTreePod.letterInfoText>
   
   <!-- EN: insect jelly -->
-  <InsectJellyTunnels.label>gelée d'insecte</InsectJellyTunnels.label>
+  <InsectJellyTunnels.label>TODO</InsectJellyTunnels.label>
   <!-- EN: insect jelly deposits will be deposited from underground. -->
-  <InsectJellyTunnels.effectDesc>Les dépôts de gelée d'insectes seront déposés depuis le sol.</InsectJellyTunnels.effectDesc>
+  <InsectJellyTunnels.effectDesc>TODO</InsectJellyTunnels.effectDesc>
   <!-- EN: A giant insect colony underground has deposited some insect jelly. -->
-  <InsectJellyTunnels.letterInfoText>Une colonie d'insectes géants vivants sous terre a déposé de la gelée d'insectes.</InsectJellyTunnels.letterInfoText>
+  <InsectJellyTunnels.letterInfoText>TODO</InsectJellyTunnels.letterInfoText>
   
   <!-- EN: nearby faction goodwill -->
-  <NearbyFactionGoodwill.label>relations avec une faction voisine</NearbyFactionGoodwill.label>
+  <NearbyFactionGoodwill.label>TODO</NearbyFactionGoodwill.label>
   <!-- EN: you will gain goodwill from the nearest faction base. -->
-  <NearbyFactionGoodwill.effectDesc>Vous augmenterez vos relations avec la base de faction la plus proche.</NearbyFactionGoodwill.effectDesc>
+  <NearbyFactionGoodwill.effectDesc>TODO</NearbyFactionGoodwill.effectDesc>
   <!-- EN: You gained {AMOUNT} goodwill with {FACTION_name}. -->
-  <NearbyFactionGoodwill.letterInfoText>Vous avez gagné {AMOUNT} relations avec {FACTION_name}.</NearbyFactionGoodwill.letterInfoText>
+  <NearbyFactionGoodwill.letterInfoText>TODO</NearbyFactionGoodwill.letterInfoText>
   
   <!-- EN: random recruit -->
-  <RandomRecruit.label>recrutement aléatoire</RandomRecruit.label>
+  <RandomRecruit.label>TODO</RandomRecruit.label>
   <!-- EN: 50% chance of random recruit of the same ideoligion joining your colony. -->
-  <RandomRecruit.effectDesc>50% de chance qu'une recrue aléatoire de la même idéoligion rejoigne votre colonie.</RandomRecruit.effectDesc>
+  <RandomRecruit.effectDesc>TODO</RandomRecruit.effectDesc>
   <!-- EN: A wanderer has arrived and wants to join your colony. -->
-  <RandomRecruit.letterInfoText>Un vagabond est arrivé et veut rejoindre votre colonie.</RandomRecruit.letterInfoText>
+  <RandomRecruit.letterInfoText>TODO</RandomRecruit.letterInfoText>
   
 </LanguageData>

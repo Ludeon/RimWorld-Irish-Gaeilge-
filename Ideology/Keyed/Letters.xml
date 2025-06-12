@@ -3,213 +3,213 @@
 
   <!-- Convert ideo attempt -->
   <!-- EN: Conversion -->
-  <LetterLabelConvertIdeoAttempt_Success>Conversion</LetterLabelConvertIdeoAttempt_Success>
+  <LetterLabelConvertIdeoAttempt_Success>TODO</LetterLabelConvertIdeoAttempt_Success>
   <!-- EN: {INITIATOR_nameDef} has successfully turned {RECIPIENT_nameDef} away from {OLDIDEO_name} and towards {IDEO_name}. -->
-  <LetterConvertIdeoAttempt_Success>{INITIATOR_nameDef} a réussi à convertir {RECIPIENT_nameDef} de {OLDIDEO_name} vers {IDEO_name}.</LetterConvertIdeoAttempt_Success>
+  <LetterConvertIdeoAttempt_Success>TODO</LetterConvertIdeoAttempt_Success>
 
   <!-- Slave rebellion -->
   <!-- EN: Grand slave rebellion -->
-  <LetterLabelGrandSlaveRebellion>Grande rébellion d'esclaves</LetterLabelGrandSlaveRebellion>
+  <LetterLabelGrandSlaveRebellion>TODO</LetterLabelGrandSlaveRebellion>
   <!-- EN: A grand slave rebellion has begun! All of your slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveRebellion>Une grande rébellion d'esclaves a commencé ! Tous vos esclaves se soulèvent pour se battre contre vous. Ils chercheront des armes et tenteront d'éliminer vos colons.\n\nCes esclaves sont impliqués :\n\n{0}</LetterGrandSlaveRebellion>
+  <LetterGrandSlaveRebellion>TODO</LetterGrandSlaveRebellion>
   <!-- EN: Local slave rebellion -->
-  <LetterLabelLocalSlaveRebellion>Rébellion locale d'esclaves</LetterLabelLocalSlaveRebellion>
+  <LetterLabelLocalSlaveRebellion>TODO</LetterLabelLocalSlaveRebellion>
   <!-- EN: A local slave rebellion has begun! {0_nameDef} and some nearby slaves are rising up to fight back against you. They will seek weapons and try to eliminate your colonists.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveRebellion>Une rébellion d'esclaves locaux a commencé ! {0_nameDef} et des esclaves à proximité se soulèvent pour se battre contre vous. Ils chercheront des armes et tenteront d'éliminer vos colons.\n\nCes esclaves sont impliqués :\n\n{1}</LetterLocalSlaveRebellion> 
+  <LetterLocalSlaveRebellion>TODO</LetterLocalSlaveRebellion> 
   <!-- EN: Slave rebellion -->
-  <LetterLabelSingleSlaveRebellion>Rébellion d'esclave</LetterLabelSingleSlaveRebellion>
+  <LetterLabelSingleSlaveRebellion>TODO</LetterLabelSingleSlaveRebellion>
   <!-- EN: {0_nameDef} is rebelling! {0_pronoun} will seek weapons and try to eliminate your colonists. -->
-  <LetterSingleSlaveRebellion>{0_nameDef} se rebelle ! {0_pronoun} cherchera des armes et tentera d'éliminer vos colons.</LetterSingleSlaveRebellion>
+  <LetterSingleSlaveRebellion>TODO</LetterSingleSlaveRebellion>
 
   <!-- Slave escape -->
   <!-- EN: Grand slave escape -->
-  <LetterLabelGrandSlaveEscape>Grande évasion d'esclaves</LetterLabelGrandSlaveEscape>
+  <LetterLabelGrandSlaveEscape>TODO</LetterLabelGrandSlaveEscape>
   <!-- EN: A grand slave escape has begun! All of your slaves are making a break for it.\n\nThese slaves are involved:\n\n{0} -->
-  <LetterGrandSlaveEscape>Une grande évasion d'esclaves a commencé ! Tous vos esclaves tentent de s'échapper. \n\nLes esclaves suivants sont impliqués : \n\n {0}</LetterGrandSlaveEscape>
+  <LetterGrandSlaveEscape>TODO</LetterGrandSlaveEscape>
   <!-- EN: Local slave escape -->
-  <LetterLabelLocalSlaveEscape>Évasion locale d'esclaves</LetterLabelLocalSlaveEscape>
+  <LetterLabelLocalSlaveEscape>TODO</LetterLabelLocalSlaveEscape>
   <!-- EN: A local slave escape has begun! {0_nameDef} and some nearby slaves are making a break for it.\n\nThese slaves are involved:\n\n{1} -->
-  <LetterLocalSlaveEscape>Une évasion locale d'esclaves a commencé ! {0_nameDef} et certains esclaves proches tentent de s'échapper.\n\nLes esclaves suivants sont impliqués :\n\n{1}</LetterLocalSlaveEscape>
+  <LetterLocalSlaveEscape>TODO</LetterLocalSlaveEscape>
   <!-- EN: Slave escape -->
-  <LetterLabelSingleSlaveEscape>Évasion d'esclave</LetterLabelSingleSlaveEscape>
+  <LetterLabelSingleSlaveEscape>TODO</LetterLabelSingleSlaveEscape>
   <!-- EN: {0_nameDef} is attempting to escape! -->
-  <LetterSingleSlaveEscape>{0_nameDef} tente de s'échapper !</LetterSingleSlaveEscape>
+  <LetterSingleSlaveEscape>TODO</LetterSingleSlaveEscape>
 
   <!-- EN: Slaves are more likely to rebel when their suppression level is low. -->
-  <SlaveRebellionSuppressionExplanation>Les esclaves sont plus susceptibles de se rebeller lorsque le niveau de répression est faible.</SlaveRebellionSuppressionExplanation>
+  <SlaveRebellionSuppressionExplanation>TODO</SlaveRebellionSuppressionExplanation>
   
   <!-- Ideo role -->
   <!-- EN: {0} role activated -->
-  <LetterLabelRoleActive>Rôle activé : {0}</LetterLabelRoleActive>
+  <LetterLabelRoleActive>TODO</LetterLabelRoleActive>
   <!-- EN: The number of {0}s in your colony has reached {1}. You can now assign the role of {ROLE_labelDef} to one of your colonists.\n\nTo assign a role, use the person's Social tab, or select a ritual spot or altar and press the 'Begin role change' button. -->
-  <LetterLabelRoleActiveDesc>Le nombre de {0}s dans votre colonie a atteint {1}. Vous pouvez maintenant attribuer le rôle de {ROLE_labelDef} à l'un de vos colons. Pour attribuer un rôle, utilisez l'onglet Social de la personne ou sélectionnez un lieu de rituel (ou un autel) et appuyez sur le bouton "Commencer le changement de rôle".</LetterLabelRoleActiveDesc>
+  <LetterLabelRoleActiveDesc>TODO</LetterLabelRoleActiveDesc>
 
   <!-- EN: {0} role deactivated -->
-  <LetterLabelRoleInactive>Rôle désactivé : {0}</LetterLabelRoleInactive>
+  <LetterLabelRoleInactive>TODO</LetterLabelRoleInactive>
   <!-- EN: Number of {0}s in your colony fell to {1}. {ROLE_labelDef} role is no longer active. This role will become available once again when the number of {0}s reaches {2}. -->
-  <LetterLabelRoleInactiveDesc>Le nombre de {0}s dans votre colonie est tombé à {1}. Le rôle {ROLE_labelDef} n'est plus actif. Ce rôle redeviendra disponible lorsque le nombre de {0}s atteindra {2}.</LetterLabelRoleInactiveDesc>
+  <LetterLabelRoleInactiveDesc>TODO</LetterLabelRoleInactiveDesc>
 
   <!-- EN: {PAWN_labelShort}'s {ROLE_labelIndef} role lost -->
-  <LetterLabelRoleLost>{PAWN_labelShort} a perdu son rôle de '{ROLE_label}'</LetterLabelRoleLost>
+  <LetterLabelRoleLost>TODO</LetterLabelRoleLost>
   <!-- EN: {PAWN_labelShort} no longer holds the role of {ROLE_labelIndef}. Reason: -->
-  <LetterRoleLostDesc>{PAWN_labelShort} ne détient plus le rôle de {ROLE_labelIndef}. Raison:</LetterRoleLostDesc>
+  <LetterRoleLostDesc>TODO</LetterRoleLostDesc>
   <!-- EN: {PAWN_pronoun} was unassigned. -->
-  <LetterRoleLostReasonUnassignedDesc>{PAWN_pronoun} a été privée du rôle.</LetterRoleLostReasonUnassignedDesc>
+  <LetterRoleLostReasonUnassignedDesc>TODO</LetterRoleLostReasonUnassignedDesc>
   <!-- EN: Role became inactive due to low {0} count. -->
-  <LetterRoleLostReasonLowBelieversDesc>Le rôle est devenu inactif en raison du faible nombre d'adeptes.</LetterRoleLostReasonLowBelieversDesc>
+  <LetterRoleLostReasonLowBelieversDesc>TODO</LetterRoleLostReasonLowBelieversDesc>
   <!-- EN: {PAWN_labelShort} has lost {PAWN_possessive} position as {ROLE_labelDef} because {PAWN_pronoun} abandoned the {OLDIDEO_name}. -->
-  <LetterRoleLostLetterIdeoChangedPostfix>{PAWN_labelShort} a perdu sa position de {ROLE_label} car {PAWN_pronoun} a abandonné le {OLDIDEO_name}.</LetterRoleLostLetterIdeoChangedPostfix>
+  <LetterRoleLostLetterIdeoChangedPostfix>TODO</LetterRoleLostLetterIdeoChangedPostfix>
   <!-- EN: {0} skipped. -->
-  <LetterObligationRoleInactive>{0} ignoré.</LetterObligationRoleInactive>
+  <LetterObligationRoleInactive>TODO</LetterObligationRoleInactive>
   <!-- EN: {0} is the date of the {1}, but since {ROLE_labelDef} role is inactive, the {2}s will skip the {1}. -->
-  <LetterObligationRoleInactiveDateDesc>Le rituel '{1}' devrait avoir lieu le {0}, mais comme le rôle '{ROLE_labelDef}' est inactif, les adeptes ignoreront le rituel.</LetterObligationRoleInactiveDateDesc>
+  <LetterObligationRoleInactiveDateDesc>TODO</LetterObligationRoleInactiveDateDesc>
   
   <!-- Ideo misc -->
   <!-- EN: {PAWN_pronoun}'s speech converted following people to {IDEO} -->
-  <LetterSpeechConvertedListeners>Le discours de {PAWN_labelShort} a converti les personnes suivantes à {IDEO}</LetterSpeechConvertedListeners>
+  <LetterSpeechConvertedListeners>TODO</LetterSpeechConvertedListeners>
 
   <!-- EN: {0} rituals activated -->
-  <LetterTitleObligationsActivated>{0} rituels activés</LetterTitleObligationsActivated>
+  <LetterTitleObligationsActivated>TODO</LetterTitleObligationsActivated>
   <!-- EN: {0} rituals deactivated -->
-  <LetterTitleObligationsDeactivated>{0} rituels désactivés</LetterTitleObligationsDeactivated>
+  <LetterTitleObligationsDeactivated>TODO</LetterTitleObligationsDeactivated>
   <!-- EN: There are now less than {1} {IDEO_memberNamePlural} in your faction. Therefore, the {IDEO_memberNamePlural} will not demand that the rituals of {IDEO} be carried out until there are at least {1} of them in your faction. -->
-  <LetterTitleObligationsDeactivatedTooFewBelievers>Il y a maintenant moins de {1} {IDEO_memberNamePlural} dans votre faction. Par conséquent, le {IDEO_memberNamePlural} n'exigera pas que les rituels de {IDEO} soient effectués tant qu'il n'y aura pas au moins {1} dans votre faction.</LetterTitleObligationsDeactivatedTooFewBelievers>
+  <LetterTitleObligationsDeactivatedTooFewBelievers>TODO</LetterTitleObligationsDeactivatedTooFewBelievers>
   <!-- EN: Since there are now {1} {IDEO_memberNamePlural} in your faction, they will demand that the rituals of {IDEO} be carried out. -->
-  <LetterTitleObligationsActivatedEnoughBelievers>Puisqu'il y a maintenant {1} {IDEO_memberNamePlural} dans votre faction, ils exigeront que les rituels de {IDEO} soient effectués.</LetterTitleObligationsActivatedEnoughBelievers>
+  <LetterTitleObligationsActivatedEnoughBelievers>TODO</LetterTitleObligationsActivatedEnoughBelievers>
   <!-- EN: Since {IDEO} is now the primary ideoligion of your faction, {IDEO_memberNamePlural} will demand that the rituals of {IDEO} be carried out. -->
-  <LetterTitleObligationsActivatedIdeoBecameMajor>Puisque {IDEO} est maintenant l'idéologie principale de votre faction, {IDEO_memberNamePlural} exigera que les rituels de {IDEO} soient effectués.</LetterTitleObligationsActivatedIdeoBecameMajor>
+  <LetterTitleObligationsActivatedIdeoBecameMajor>TODO</LetterTitleObligationsActivatedIdeoBecameMajor>
 
   <!-- EN: Bond(s) removed -->
-  <LetterBondRemoved>Lien(s) animal(s) retiré(s)</LetterBondRemoved>
+  <LetterBondRemoved>TODO</LetterBondRemoved>
   <!-- EN: {PAWN_nameDef} has converted to {IDEO}. Since {IDEO} disapproves of bonding with animals, {PAWN_pronoun} has renounced {PAWN_possessive} bonds with the following animals:\n\n{BONDS} -->
-  <LetterBondRemovedDesc>{PAWN_nameDef} a été converti à {IDEO}. Puisque {IDEO} désapprouve les liens avec les animaux, {PAWN_pronoun} a renoncé à ses liens avec les animaux suivants : \n\n {BONDS}</LetterBondRemovedDesc>
+  <LetterBondRemovedDesc>TODO</LetterBondRemovedDesc>
 
   <!-- Slave will -->
   <!-- EN: Enslaved -->
-  <LetterLabelEnslavementSuccess>Réduit en esclavage</LetterLabelEnslavementSuccess>
+  <LetterLabelEnslavementSuccess>TODO</LetterLabelEnslavementSuccess>
   <!-- EN: {0_nameDef} successfully enslaved {1_nameDef}. -->
-  <LetterEnslavementSuccess>{0_nameDef} a asservi avec succès {1_nameDef}.</LetterEnslavementSuccess>
+  <LetterEnslavementSuccess>TODO</LetterEnslavementSuccess>
 
   <!-- Primary ideo changed -->
   <!-- EN: Primary ideoligion changed -->
-  <LetterLabelNewPrimaryIdeo>Changement d’idéoligion principale</LetterLabelNewPrimaryIdeo>
+  <LetterLabelNewPrimaryIdeo>TODO</LetterLabelNewPrimaryIdeo>
   <!-- EN: Your faction's primary ideoligion has changed from {OLDIDEO_name} to {NEWIDEO_name}.\n\nThis happened because {NEWIDEO_name} is now more common among your {FACTION_pawnsPlural} than any other ideoligion.\n\nYour primary ideoligion affects relationships with other factions, based on how closely your beliefs align with theirs. -->
-  <LetterNewPrimaryIdeo>L'idéoligion principale de votre faction a changé. Ancienne : {OLDIDEO_name}. Nouvelle : {NEWIDEO_name}. \n\nCela s'est produit parce que {NEWIDEO_name} est maintenant plus répandue parmi vos {FACTION_pawnsPlural} que toute autre idéoligion.\n\nVotre idéoligion principale affecte votre réputation auprès des autres factions en fonction de la proximité de vos croyances avec les leurs.</LetterNewPrimaryIdeo>
+  <LetterNewPrimaryIdeo>TODO</LetterNewPrimaryIdeo>
 
   <!-- Charity incidents -->
   <!-- EN: This is a charity incident. If you turn {0} away, believers with charitable beliefs will be unhappy. -->
-  <JoinerCharityInfo>Il s'agit d'un événement caritatif. Si vous rejetez {0}, les croyants aux croyances bienveillantes seront mécontents.</JoinerCharityInfo>
+  <JoinerCharityInfo>TODO</JoinerCharityInfo>
   <!-- EN: This is a charity incident. If {0} dies without being tended (and after {1}), believers with charitable beliefs will be unhappy. If {0} is tended or recruited, believers will be happy. -->
-  <AfflictedJoinerChartityInfo>Il s'agit d'un événement caritatif. Si {0} meurt, les croyants aux croyances bienveillantes seront mécontents. Si {0} est soigné ou recruté, les croyants seront heureux.</AfflictedJoinerChartityInfo>
+  <AfflictedJoinerChartityInfo>TODO</AfflictedJoinerChartityInfo>
   <!-- EN: The following believers have charitable beliefs -->
-  <PawnsHaveCharitableBeliefs>Les croyants suivants ont des croyances bienveillantes</PawnsHaveCharitableBeliefs>
+  <PawnsHaveCharitableBeliefs>TODO</PawnsHaveCharitableBeliefs>
 
   <!-- Change ideo mental state -->
   <!-- EN: {PAWN_pronoun} decided that {PAWN_possessive} belief in {OLDIDEO_name} no longer made any sense.\n\n{PAWN_pronoun} now believes in {NEWIDEO_name}. -->
-  <LetterIdeoChangeConverted>{PAWN_pronoun} a décidé que sa croyance en {OLDIDEO_name} n'avait plus de sens. \n\n {PAWN_pronoun} croit maintenant en {NEWIDEO_name}.</LetterIdeoChangeConverted>
+  <LetterIdeoChangeConverted>TODO</LetterIdeoChangeConverted>
   <!-- EN: {PAWN_nameDef}'s certainty with {PAWN_possessive} belief in {OLDIDEO_name} has been reduced to {NEWCERTAINTY}. -->
-  <LetterIdeoChangeNotConverted>La croyance de {PAWN_nameDef} en {OLDIDEO_name} a été réduite à {NEWCERTAINTY}.</LetterIdeoChangeNotConverted>
+  <LetterIdeoChangeNotConverted>TODO</LetterIdeoChangeNotConverted>
   <!-- EN: To come to terms with {PAWN_possessive} beliefs, {PAWN_nameDef} is now hiding in {PAWN_possessive} room. -->
-  <LetterIdeoChangedWanderOwnRoom>Pour être en accord avec ses croyances, {PAWN_nameDef} se cache dans sa chambre.</LetterIdeoChangedWanderOwnRoom>
+  <LetterIdeoChangedWanderOwnRoom>TODO</LetterIdeoChangedWanderOwnRoom>
   <!-- EN: {PAWN_nameDef} is now wandering in shock while grappling with {PAWN_possessive} beliefs. -->
-  <LetterIdeoChangedSadWander>{PAWN_nameDef} erre maintenant sous le choc alors qu'il est aux prises avec ses croyances.</LetterIdeoChangedSadWander>
+  <LetterIdeoChangedSadWander>TODO</LetterIdeoChangedSadWander>
 
   <!-- Change ideo divorces -->
   <!-- EN: Divorce -->
-  <LetterIdeoChangedDivorce>Divorce</LetterIdeoChangedDivorce>
+  <LetterIdeoChangedDivorce>TODO</LetterIdeoChangedDivorce>
   <!-- EN: {PAWN_nameDef}'s new beliefs forbid {PAWN_possessive} current number of spouses.\n\n{PAWN_nameDef} has decided to divorce these people:\n{1} -->
-  <LetterIdeoChangedDivorcedPawns>Les nouvelles croyances de {PAWN_nameDef} interdisent son nombre actuel de conjoints.\n\n{PAWN_nameDef} a décidé de divorcer de ces personnes : \n {1}</LetterIdeoChangedDivorcedPawns>
+  <LetterIdeoChangedDivorcedPawns>TODO</LetterIdeoChangedDivorcedPawns>
 
   <!-- Surprise reinforcement -->
   <!-- EN: Surprise reinforcements! -->
-  <LetterLabelSurpriseReinforcements>Des renforts surprises !</LetterLabelSurpriseReinforcements>
+  <LetterLabelSurpriseReinforcements>TODO</LetterLabelSurpriseReinforcements>
   <!-- EN: Surprise reinforcements from {1} have arrived! They are moving to help {0} from {1}. -->
-  <LetterSurpriseReinforcements>Des renforts surprises de {1} sont arrivés ! Ils sont venus pour aider {0} de {1}.</LetterSurpriseReinforcements>
+  <LetterSurpriseReinforcements>TODO</LetterSurpriseReinforcements>
 
   <!-- Style change -->
   <!-- EN: Look change desired -->
-  <LetterWantLookChange>Changement d'apparence souhaité</LetterWantLookChange>
+  <LetterWantLookChange>TODO</LetterWantLookChange>
   <!-- EN: {PAWN_nameDef} wishes to change {PAWN_possessive} look, as it no longer matches what {PAWN_pronoun} believes.\n\n{PAWN_pronoun} will automatically use an available styling station and choose a look. If you want to customize {PAWN_possessive} look, select {PAWN_objective} and right-click the styling station. -->
-  <LetterWantLookChangeDesc>{PAWN_nameDef} souhaite changer son look car il ne correspond plus à ses croyances.\n\n{PAWN_pronoun} utilisera automatiquement une station de coiffage disponible et choisira un look. Si vous souhaitez personnaliser son look, sélectionnez {PAWN_gender ? le : la : le(la)} et faites un clic droit sur la station de coiffage.</LetterWantLookChangeDesc>
+  <LetterWantLookChangeDesc>TODO</LetterWantLookChangeDesc>
 
   <!-- Spacedrone incoming -->
   <!-- EN: Spacedrone incoming -->
-  <LetterLabelSpacedroneIncoming>Drone spatial en approche</LetterLabelSpacedroneIncoming>
+  <LetterLabelSpacedroneIncoming>TODO</LetterLabelSpacedroneIncoming>
   <!-- EN: A spacedrone is landing nearby. -->
-  <LetterTextSpacedroneIncoming>Un drone spatial atterrit à proximité.</LetterTextSpacedroneIncoming>
+  <LetterTextSpacedroneIncoming>TODO</LetterTextSpacedroneIncoming>
   <!-- EN: A raid from {0} has arrived to destroy the {1} that was forced to land nearby. -->
-  <LetterTextRaidSpacedrone>Un raid de {0} est arrivé pour détruire le {1} qui a été forcé d'atterrir à proximité.</LetterTextRaidSpacedrone>
+  <LetterTextRaidSpacedrone>TODO</LetterTextRaidSpacedrone>
 
   <!-- Hacked -->
   <!-- EN: You've finished hacking the {0} and learned more about the ancient {1} relic. -->
-  <LetterTextSpacedroneHacked>Vous avez fini de pirater le {0} et en savez plus sur l'ancienne relique {1}.</LetterTextSpacedroneHacked>
+  <LetterTextSpacedroneHacked>TODO</LetterTextSpacedroneHacked>
 
   <!-- Relic destroyed -->
   <!-- EN: Relic destroyed -->
-  <LetterLabelRelicDestroyed>Relique détruite</LetterLabelRelicDestroyed>
+  <LetterLabelRelicDestroyed>TODO</LetterLabelRelicDestroyed>
   <!-- EN: {0} has been destroyed!\n\nThe following people will suffer a mood reduction:\n{1} -->
-  <LetterTextRelicDestroyed>{0} a été détruit !\n\nLes personnes suivantes subiront une baisse d'humeur :\n{1}</LetterTextRelicDestroyed>
+  <LetterTextRelicDestroyed>TODO</LetterTextRelicDestroyed>
   
   <!-- Relic lost -->
   <!-- EN: Relic lost -->
-  <LetterLabelRelicLost>Relique perdue</LetterLabelRelicLost>
+  <LetterLabelRelicLost>TODO</LetterLabelRelicLost>
   <!-- EN: {0} has been lost!\n\nThe following people will suffer a mood reduction:\n{1} -->
-  <LetterTextRelicLost>{0} a été perdu !\n\nLes personnes suivantes subiront une baisse d'humeur :\n{1}</LetterTextRelicLost>
+  <LetterTextRelicLost>TODO</LetterTextRelicLost>
 
   <!-- Caravan destroyed -->
   <!-- EN: All non-slave members of {0} have died. The remaining slaves have walked away. The caravan has disabanded. -->
-  <LetterOnlySlaveCaravanColonistsLeft>Tous les membres non esclaves de {0} sont morts. Les esclaves restants ont fui. La caravane s'est dissoute.</LetterOnlySlaveCaravanColonistsLeft>
+  <LetterOnlySlaveCaravanColonistsLeft>TODO</LetterOnlySlaveCaravanColonistsLeft>
 
   <!-- Hacker lost -->
   <!-- EN: Last hacker lost -->
-  <LetterLabelLastHackerLost>Dernier hacker perdu</LetterLabelLastHackerLost>
+  <LetterLabelLastHackerLost>TODO</LetterLabelLastHackerLost>
   <!-- EN: The last hacker capable of unlocking the secrets of the ancient complex has been lost. Call reinforcements capable of hacking, or abandon the quest. -->
-  <LetterTextLastHackerLost>Le dernier hacker capable de percer les secrets de l'ancien complexe a été perdu. Appelez des renforts capables de pirater, ou abandonnez la quête.</LetterTextLastHackerLost>
+  <LetterTextLastHackerLost>TODO</LetterTextLastHackerLost>
 
   <!-- Relic hunt -->
   <!-- EN: Relic found -->
-  <LetterLabelRelicFound>Relique trouvée</LetterLabelRelicFound>
+  <LetterLabelRelicFound>TODO</LetterLabelRelicFound>
   <!-- EN: You've finally learned the location of the relic {0}! -->
-  <LetterTextRelicFoundLocation>Vous avez enfin découvert l'emplacement de la relique {0} !</LetterTextRelicFoundLocation>
+  <LetterTextRelicFoundLocation>TODO</LetterTextRelicFoundLocation>
   <!-- EN: The relic is housed in an ancient structure. It is protected by a security system with multiple independent units. You may choose to defeat the security forces one unit at a time before taking the relic, or try to grab it and flee before they can harm you.\n\nAfter {0}, all security systems will be alerted. -->
-  <LetterTextRelicFoundSecurityThreats>La relique est logée dans une ancienne structure. Elle est protégée par un système de sécurité avec plusieurs unités indépendantes. Vous pouvez choisir de vaincre les forces de sécurité une unité à la fois avant de prendre la relique, ou d'essayer de l'attraper et de fuir avant qu'elles ne puissent vous faire du mal. \n\nAprès {0}, tous les systèmes de sécurité seront alertés.</LetterTextRelicFoundSecurityThreats>
+  <LetterTextRelicFoundSecurityThreats>TODO</LetterTextRelicFoundSecurityThreats>
 
   <!-- Relics collection -->
   <!-- EN: Relics collected -->
-  <LetterLabelRelicsCollected>Reliques collectées</LetterLabelRelicsCollected>
+  <LetterLabelRelicsCollected>TODO</LetterLabelRelicsCollected>
   <!-- EN: All relics belonging to {0} have been collected. The following people will be delighted -->
-  <LetterTextRelicsCollected>Toutes les reliques de l'idéologie {0} ont été collectées. Les personnes suivantes seront très heureuses à ce sujet</LetterTextRelicsCollected>
+  <LetterTextRelicsCollected>TODO</LetterTextRelicsCollected>
   <!-- EN: You have collected all the known relics of this world. The following people will be delighted -->
-  <LetterTextRelicsCollectedClassic>Vous avez recueilli toutes les reliques connues de ce monde. Les personnes suivantes seront ravies</LetterTextRelicsCollectedClassic>
+  <LetterTextRelicsCollectedClassic>TODO</LetterTextRelicsCollectedClassic>
 
   <!-- Gauranlen tree connection -->
   <!-- EN: {TREE_label} connection -->
-  <LetterLabelPawnConnected>Connexion {TREE_label}</LetterLabelPawnConnected>
+  <LetterLabelPawnConnected>TODO</LetterLabelPawnConnected>
   <!-- EN: {CONNECTOR_nameDef} has connected with {TREE_definite}.\n\n{TREE_definite} will produce small animals called dryads by growing them in pods at its base. These dryads can specialize into different castes. You can choose which caste of dryads you want the tree to produce.\n\nThe stronger the connection between tree and human, the more dryads {TREE_definite} can sustain. {CONNECTOR_nameDef} can strengthen the connection by pruning {TREE_definite}. Maintaining a higher connection strength requires more frequent pruning. -->
-  <LetterTextPawnConnected>{CONNECTOR_nameDef} s'est connecté à un {TREE_label}. \n\nLe {TREE_label} produira de petits animaux appelés dryades en les élevant dans des capsules à proximité. Ces dryades sont divisées en différentes castes. Vous pouvez déterminer quelle caste de dryade l'arbre doit produire.\n\nPlus le lien entre l'arbre et l'humain est fort, plus le {TREE_label} peut accueillir de dryades. {CONNECTOR_nameDef} peut renforcer le lien en taillant {TREE_definite}. Plus la force de connexion est élevée, plus l'arbre devra être élagué souvent pour maintenir sa valeur.</LetterTextPawnConnected>
+  <LetterTextPawnConnected>TODO</LetterTextPawnConnected>
   <!-- EN: Connected {TREE_label} destroyed -->
-  <LetterLabelConnectedTreeDestroyed>{TREE_label} connecté a été détruit</LetterLabelConnectedTreeDestroyed>
+  <LetterLabelConnectedTreeDestroyed>TODO</LetterLabelConnectedTreeDestroyed>
   <!-- EN: A {TREE_label} connected to {CONNECTEDPAWN_nameDef} has been destroyed, killing the dryad queen housed inside.\n\nWithout a queen, the dryad brood-mind has collapsed. All dryads from that tree have died. -->
-  <LetterTextConnectedTreeDestroyed>Un {TREE_label} connecté à {CONNECTEDPAWN_nameDef} a été détruit, tuant la reine des dryades logée à l'intérieur.\n\nSans reine, l'esprit de la dryade s'est effondré. Toutes les dryades de cet arbre sont mortes.</LetterTextConnectedTreeDestroyed>
+  <LetterTextConnectedTreeDestroyed>TODO</LetterTextConnectedTreeDestroyed>
 
   <!-- Archonexus victory -->
   <!-- EN: Quest '{0}' available -->
-  <LetterLabelArchonexusWealthReached>Quête '{0}' disponible</LetterLabelArchonexusWealthReached>
+  <LetterLabelArchonexusWealthReached>TODO</LetterLabelArchonexusWealthReached>
   <!-- EN: You have reached the wealth requirement for the quest '{0}'. You can now accept the quest. -->
-  <LetterTextArchonexusWealthReached>Vous avez atteint le niveau de richesse requis pour la quête '{0}'. Vous pouvez maintenant accepter la quête.</LetterTextArchonexusWealthReached>
+  <LetterTextArchonexusWealthReached>TODO</LetterTextArchonexusWealthReached>
   <!-- EN: {0_labelShort} studied -->
-  <LetterLabelArchonexusStructureResearched>{0_labelShort} étudié</LetterLabelArchonexusStructureResearched>
+  <LetterLabelArchonexusStructureResearched>TODO</LetterLabelArchonexusStructureResearched>
   <!-- EN: You have completed your study of the {0_labelShort}.\n\nYou can't say that you understand it in any complete way, but you have detected patterns in its behavior and the way it seems to express information.\n\nWith this knowledge, you will be able to interpret the next piece of the archonexus map. -->
-  <LetterTextArchonexusStructureResearched>Vous avez terminé votre étude du {0_labelShort}. \n\nVous ne pouvez pas dire que vous le comprenez parfaitement, mais vous avez détecté des modèles dans son comportement et dans la façon dont il semble exprimer l'information.\n\nAvec ces connaissances, vous serez en mesure d'interpréter le prochain morceau de la carte archonexus.</LetterTextArchonexusStructureResearched>
+  <LetterTextArchonexusStructureResearched>TODO</LetterTextArchonexusStructureResearched>
   <!-- EN: Archotech structures abandoned -->
-  <LetterLabelArchotechStructuresAbandoned>Structures archotech abandonnées</LetterLabelArchotechStructuresAbandoned>
+  <LetterLabelArchotechStructuresAbandoned>TODO</LetterLabelArchotechStructuresAbandoned>
   <!-- EN: You have abandoned the archotech structures at {0_definite}.\n\nDistant observers say they saw a great flash emanating from this location not long after you left. -->
-  <LetterTextArchotechStructuresAbandoned>Vous avez abandonné les structures archotech à {0_definite}.\n\nDes observateurs éloignés disent qu'ils ont vu un grand éclair émaner de cet endroit peu de temps après votre départ.</LetterTextArchotechStructuresAbandoned>
+  <LetterTextArchotechStructuresAbandoned>TODO</LetterTextArchotechStructuresAbandoned>
 
   <!-- Reforming ideo -->
   <!-- EN: Reform ideoligion -->
-  <LetterLabelReformIdeo>Réformer l'idéoligion</LetterLabelReformIdeo>
+  <LetterLabelReformIdeo>TODO</LetterLabelReformIdeo>
   <!-- EN: You have enough development points to reform {0}!\n\nReforming allows you to do one of the following:\n\n- Add a meme\n- Remove a meme\n- Change structure\n- Change style\n\nYou can also make unlimited changes to precepts, deities, narrative text, and other symbols.\n\nTo reform the ideoligion, open it in the ideoligions tab. -->
-  <LetterTextReformIdeo>Vous avez suffisamment de points de développement pour réformer {0} !\n\nLa réforme vous permet d'effectuer l'une des opérations suivantes :\n\n- Ajouter un mème\n- Supprimer un mème\n- Changer la structure\n- Changer le style\n\nVous pouvez également apporter des modifications illimitées aux préceptes, aux divinités, au texte narratif et à d'autres symboles.\n\nPour réformer l'idéoligion, ouvrez-la dans l'onglet idéoligions.</LetterTextReformIdeo>
+  <LetterTextReformIdeo>TODO</LetterTextReformIdeo>
 
 </LanguageData>

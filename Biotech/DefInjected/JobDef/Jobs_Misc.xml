@@ -2,81 +2,81 @@
 <LanguageData>
   
   <!-- EN: absorbing xenogerm from TargetA. -->
-  <AbsorbXenogerm.reportString>absorbiert Xenokeim aus TargetA.</AbsorbXenogerm.reportString>
+  <AbsorbXenogerm.reportString>TODO</AbsorbXenogerm.reportString>
   
   <!-- EN: hauling TargetA to TargetB. -->
-  <CarryGenepackToContainer.reportString>trägt TargetA zu TargetB.</CarryGenepackToContainer.reportString>
+  <CarryGenepackToContainer.reportString>TODO</CarryGenepackToContainer.reportString>
   
   <!-- EN: carrying TargetB to TargetA. -->
-  <CarryToBuilding.reportString>trägt TargetB zu TargetA.</CarryToBuilding.reportString>
+  <CarryToBuilding.reportString>TODO</CarryToBuilding.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityGoToThing.reportString>macht etwas.</CastAbilityGoToThing.reportString>
+  <CastAbilityGoToThing.reportString>TODO</CastAbilityGoToThing.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingWithoutWeapon.reportString>macht etwas.</CastAbilityOnThingWithoutWeapon.reportString>
+  <CastAbilityOnThingWithoutWeapon.reportString>TODO</CastAbilityOnThingWithoutWeapon.reportString>
   
   <!-- EN: Doing something. -->
-  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>macht etwas.</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
+  <CastAbilityOnThingWithoutWeaponInterruptible.reportString>TODO</CastAbilityOnThingWithoutWeaponInterruptible.reportString>
   
   <!-- EN: cleaning pollution. -->
-  <ClearPollution.reportString>entfernt Verseuchung.</ClearPollution.reportString>
+  <ClearPollution.reportString>TODO</ClearPollution.reportString>
   
   <!-- EN: taking control of TargetA. -->
-  <ControlMech.reportString>übernimmt die Kontrolle über TargetA.</ControlMech.reportString>
+  <ControlMech.reportString>TODO</ControlMech.reportString>
   
   <!-- EN: creating xenogerm. -->
-  <CreateXenogerm.reportString>erzeugt Xenokeim.</CreateXenogerm.reportString>
+  <CreateXenogerm.reportString>TODO</CreateXenogerm.reportString>
   
   <!-- EN: deathresting. -->
-  <Deathrest.reportString>befindet sich im Todesschlaf.</Deathrest.reportString>
+  <Deathrest.reportString>TODO</Deathrest.reportString>
   
   <!-- EN: disassembling TargetA. -->
-  <DisassembleMech.reportString>zerlegt TargetA.</DisassembleMech.reportString>
+  <DisassembleMech.reportString>TODO</DisassembleMech.reportString>
   
   <!-- EN: entering TargetA. -->
-  <EnterBuilding.reportString>betritt TargetA.</EnterBuilding.reportString>
+  <EnterBuilding.reportString>TODO</EnterBuilding.reportString>
   
   <!-- EN: absorbing xenogerm from TargetA. -->
-  <GetReimplanted.reportString>absorbiert Xenokeim aus TargetA.</GetReimplanted.reportString>
+  <GetReimplanted.reportString>TODO</GetReimplanted.reportString>
   
   <!-- EN: hauling TargetA to charger. -->
-  <HaulMechToCharger.reportString>trägt TargetA zur Ladestation.</HaulMechToCharger.reportString>
+  <HaulMechToCharger.reportString>TODO</HaulMechToCharger.reportString>
   
   <!-- EN: installing TargetA. -->
-  <InstallMechlink.reportString>implantiert TargetA.</InstallMechlink.reportString>
+  <InstallMechlink.reportString>TODO</InstallMechlink.reportString>
   
   <!-- EN: charging. -->
-  <MechCharge.reportString>lädt sich auf.</MechCharge.reportString>
+  <MechCharge.reportString>TODO</MechCharge.reportString>
   
   <!-- EN: feeding on TargetA. -->
-  <PrisonerBloodfeed.reportString>saugt das Blut von TargetA.</PrisonerBloodfeed.reportString>
+  <PrisonerBloodfeed.reportString>TODO</PrisonerBloodfeed.reportString>
   
   <!-- EN: decrypting TargetA. -->
-  <ReadDatacore.reportString>entschlüsselt TargetA.</ReadDatacore.reportString>
+  <ReadDatacore.reportString>TODO</ReadDatacore.reportString>
   
   <!-- EN: releasing mechanoids. -->
-  <ReleaseMechs.reportString>lässt Mechanoiden frei.</ReleaseMechs.reportString>
+  <ReleaseMechs.reportString>TODO</ReleaseMechs.reportString>
   
   <!-- EN: Doing something. -->
-  <RemoveMechlink.reportString>macht etwas.</RemoveMechlink.reportString>
+  <RemoveMechlink.reportString>TODO</RemoveMechlink.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <RepairMech.reportString>repariert TargetA.</RepairMech.reportString>
+  <RepairMech.reportString>TODO</RepairMech.reportString>
   
   <!-- EN: repairing TargetA. -->
-  <RepairMechRemote.reportString>repariert TargetA.</RepairMechRemote.reportString>
+  <RepairMechRemote.reportString>TODO</RepairMechRemote.reportString>
   
   <!-- EN: dormant self-charging. -->
-  <SelfShutdown.reportString>lädt sich selbst im Ruhezustand auf.</SelfShutdown.reportString>
+  <SelfShutdown.reportString>TODO</SelfShutdown.reportString>
   
   <!-- EN: shielding TargetA. -->
-  <ShieldMech.reportString>schirmt TargetA ab.</ShieldMech.reportString>
+  <ShieldMech.reportString>TODO</ShieldMech.reportString>
   
   <!-- EN: romancing TargetA. -->
-  <TryRomance.reportString>umwirbt TargetA.</TryRomance.reportString>
+  <TryRomance.reportString>TODO</TryRomance.reportString>
   
   <!-- EN: waiting. -->
-  <Wait_WithSleeping.reportString>wartet.</Wait_WithSleeping.reportString>
+  <Wait_WithSleeping.reportString>TODO</Wait_WithSleeping.reportString>
   
 </LanguageData>

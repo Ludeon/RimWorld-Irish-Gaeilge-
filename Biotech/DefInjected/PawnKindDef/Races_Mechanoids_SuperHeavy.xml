@@ -2,20 +2,17 @@
 <LanguageData>
   
   <!-- EN: apocriton -->
-  <Mech_Apocriton.label>Apokrit</Mech_Apocriton.label>
-  <Mech_Apocriton.labelPlural>Apokriten</Mech_Apocriton.labelPlural>
+  <Mech_Apocriton.label>TODO</Mech_Apocriton.label>
   
   <!-- EN: centurion -->
-  <Mech_Centurion.label>Zenturio</Mech_Centurion.label>
-  <Mech_Centurion.labelPlural>Zenturionen</Mech_Centurion.labelPlural>
+  <Mech_Centurion.label>TODO</Mech_Centurion.label>
   
   <!-- EN: diabolus -->
-  <Mech_Diabolus.label>Diabolus</Mech_Diabolus.label>
-  <Mech_Diabolus.labelPlural>Diaboli</Mech_Diabolus.labelPlural>
+  <Mech_Diabolus.label>TODO</Mech_Diabolus.label>
   
   <!-- EN: war queen -->
-  <Mech_Warqueen.label>Kriegskönigin</Mech_Warqueen.label>
+  <Mech_Warqueen.label>TODO</Mech_Warqueen.label>
   <!-- EN: war queens -->
-  <Mech_Warqueen.labelPlural>Kriegsköniginnen</Mech_Warqueen.labelPlural>
+  <Mech_Warqueen.labelPlural>TODO</Mech_Warqueen.labelPlural>
   
 </LanguageData>

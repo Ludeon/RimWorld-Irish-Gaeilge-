@@ -1,34 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
   <!-- EN: The Mechanitor -->
-  <Mechanitor.label>An Meicnitheoir</Mechanitor.label>
+  <Mechanitor.label>TODO</Mechanitor.label>
   <!-- EN: You knew you could only achieve greatness with help. People were too unreliable, so you chose to take on mechanoids as your servants, workers, and warriors. As you gained strength, others became fearful. It became clear you needed to get away from the influence of humanity. Now you've migrated to this sparsely-populated rimworld with some of your metallic helpers. Finally, you have the space to grasp your true potential!\n\nNote: Since your starting character will lack some skills, this is a difficult scenario. -->
-  <Mechanitor.description>Bhí a fhios agat nach mbeifeá in ann rud ar bith a bhaint amach leat féin. Ní raibh tú in brath ar dhaoine, mar sin chinn tú roinnt meicea-róbait a thabhairt leat mar shearbhóintí, mar oibrithe agus mar ghaiscígh. Mar a d'fhás do chumhacht, d'éirigh daoine eile imníoch. Ba léir go mbeadh ort éalú ó thionchar daoine eile. Anois, tá tú leaindeáilte ar an bpleainéad iargúlta seo in éineacht do chuntóirí róbatacha. Ar deireadh, beidh an spás agat barr do chumais a bhaint amach!\n\nNóta: Beidh roinnt scileanna in easnamh ar do choilíneach, mar sin beidh an tús seo dúshlánach.</Mechanitor.description>
+  <Mechanitor.description>TODO</Mechanitor.description>
   <!-- EN: You knew you could only achieve greatness with help. People were too unreliable, so you chose to take on mechanoids as your servants, workers, and warriors. As you gained strength, others became fearful. It became clear you needed to get away from the influence of humanity. Now you've migrated to this sparsely-populated rimworld with some of your metallic helpers. Finally, you have the space to grasp your true potential!\n\nNote: Since your starting character will lack some skills, this is a difficult scenario. -->
-  <Mechanitor.scenario.description>Bhí a fhios agat nach mbeifeá in ann rud ar bith a bhaint amach leat féin. Ní raibh tú in brath ar dhaoine, mar sin chinn tú roinnt meicea-róbait a thabhairt leat mar shearbhóintí, mar oibrithe agus mar ghaiscígh. Mar a d'fhás do chumhacht, d'éirigh daoine eile imníoch. Ba léir go mbeadh ort éalú ó thionchar daoine eile. Anois, tá tú leaindeáilte ar an bpleainéad iargúlta seo in éineacht do chuntóirí róbatacha. Ar deireadh, beidh an spás agat barr do chumais a bhaint amach!\n\nNóta: Beidh roinnt scileanna in easnamh ar do choilíneach, mar sin beidh an tús seo dúshlánach.</Mechanitor.scenario.description>
+  <Mechanitor.scenario.description>TODO</Mechanitor.scenario.description>
   <!-- EN: The Mechanitor -->
-  <Mechanitor.scenario.name>An Meicnitheoir</Mechanitor.scenario.name>
+  <Mechanitor.scenario.name>TODO</Mechanitor.scenario.name>
   <!-- EN: You knew you could only achieve greatness with help. People were too unreliable, so you chose to take on mechanoids as your servants, workers, and warriors.\n\nAs you gained strength, others became fearful. It became clear you needed to get away from the influence of humanity.\n\nNow you've migrated to this sparsely-populated rimworld with some of your metallic helpers. Finally, you have the space to grasp your true potential! -->
-  <Mechanitor.scenario.parts.GameStartDialog.text>Bhí a fhios agat nach mbeifeá in ann rud ar bith a bhaint amach leat féin. Ní raibh tú in brath ar dhaoine, mar sin chinn tú roinnt meicea-róbait a thabhairt leat mar shearbhóintí, mar oibrithe agus mar ghaiscígh. Mar a d'fhás do chumhacht, d'éirigh daoine eile imníoch. Ba léir go mbeadh ort éalú ó thionchar daoine eile. Anois, tá tú leaindeáilte ar an bpleainéad iargúlta seo in éineacht do chuntóirí róbatacha. Ar deireadh, beidh an spás agat barr do chumais a bhaint amach!\n\nNóta: Beidh roinnt scileanna in easnamh ar do choilíneach, mar sin beidh an tús seo dúshlánach.</Mechanitor.scenario.parts.GameStartDialog.text>
+  <Mechanitor.scenario.parts.GameStartDialog.text>TODO</Mechanitor.scenario.parts.GameStartDialog.text>
   <!-- EN: One mechanitor and a few servant mechanoids. -->
-  <Mechanitor.scenario.summary>Meicnitheoir amháin agus cúpla meicea-róbat.</Mechanitor.scenario.summary>
+  <Mechanitor.scenario.summary>TODO</Mechanitor.scenario.summary>
   
   <!-- EN: The Sanguophage -->
-  <Sanguophage.label>An Sangafagach</Sanguophage.label>
+  <Sanguophage.label>TODO</Sanguophage.label>
   <!-- EN: When a dark stranger offered you a cure for your cancer, you were ready to agree to anything. He made you into a sanguophage - an immortal blood-drinker hated by a thousand religions. You hid your condition for years, but eventually a hunter tracked you down. Stowing away on the first starship leaving the system, you barely escaped alive.\n\nNote: Sanguophages have unique strengths and weaknesses, which makes this a difficult scenario. -->
-  <Sanguophage.description>Dúirt stráinséar mistéireach leat go mbeadh sé in ann d'ailse a leigheas, agus bhí tú sásta glacadh le haon chúnamh. D'athraigh sé isteach i sangafagach thú - oltóir fola neamhbhásmhar. Cheilt tú an fhírinne ar feadh na blianta, ach d'éirigh le sealgaire teacht ort sa deireadh. Chuaigh tú i bhfolach mar fholachánaí ar an gcéad spáslong amuigh ón réaltchóras, agus ba ar éirigh leat do chosa a thabhairt leat.\n\nNóta: Tá buntáistí agus míbhuntáistí ar leith ag sagafagacha, rud a chiallaíonn go mbeidh tús deacair i gceist leis an rogha seo.</Sanguophage.description>
+  <Sanguophage.description>TODO</Sanguophage.description>
   <!-- EN: When a dark stranger offered you a cure for your cancer, you were ready to agree to anything. He made you into a sanguophage - an immortal blood-drinker hated by a thousand religions. You hid your condition for years, but eventually a hunter tracked you down. Stowing away on the first starship leaving the system, you barely escaped alive.\n\nNote: Sanguophages have unique strengths and weaknesses, which makes this a difficult scenario. -->
-  <Sanguophage.scenario.description>Dúirt stráinséar mistéireach leat go mbeadh sé in ann d'ailse a leigheas, agus bhí tú sásta glacadh le haon chúnamh. D'athraigh sé isteach i sangafagach thú - oltóir fola neamhbhásmhar. Cheilt tú an fhírinne ar feadh na blianta, ach d'éirigh le sealgaire teacht ort sa deireadh. Chuaigh tú i bhfolach mar fholachánaí ar an gcéad spáslong amuigh ón réaltchóras, agus ba ar éirigh leat do chosa a thabhairt leat.\n\nNóta: Tá buntáistí agus míbhuntáistí ar leith ag sagafagacha, rud a chiallaíonn go mbeidh tús deacair i gceist leis an rogha seo.</Sanguophage.scenario.description>
+  <Sanguophage.scenario.description>TODO</Sanguophage.scenario.description>
   <!-- EN: The Sanguophage -->
-  <Sanguophage.scenario.name>An Sangafagach</Sanguophage.scenario.name>
+  <Sanguophage.scenario.name>TODO</Sanguophage.scenario.name>
   <!-- EN: Start with one adult or child sanguophage and one other colonist of any age. -->
-  <Sanguophage.scenario.parts.ConfigurePawnsXenotypes.customSummary>Tosaigh le sangafagach amháin (aosach nó leanbh) agus le coilíneach amháin eile ar aon aois.</Sanguophage.scenario.parts.ConfigurePawnsXenotypes.customSummary>
+  <Sanguophage.scenario.parts.ConfigurePawnsXenotypes.customSummary>TODO</Sanguophage.scenario.parts.ConfigurePawnsXenotypes.customSummary>
   <!-- EN: non-baby sanguophage -->
-  <Sanguophage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>sangafagach (aosach)</Sanguophage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
+  <Sanguophage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>TODO</Sanguophage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
   <!-- EN: When a dark stranger offered you a cure for your cancer, you were ready to agree to anything. He made you into a sanguophage - an immortal blood-drinker hated by a thousand religions. You hid your condition for years, but a hunter eventually tracked you down. Stowing away on the first starship leaving the system, you barely escaped alive.\n\nThen came the crash. Only a few made it to the escape pods. You land on an unknown rimworld and find that you are not alone. What will you do for the blood you need to survive? -->
-  <Sanguophage.scenario.parts.GameStartDialog.text>Dúirt stráinséar mistéireach leat go mbeadh sé in ann d'ailse a leigheas, agus bhí tú sásta glacadh le haon chúnamh. D'athraigh sé isteach i sangafagach thú - oltóir fola neamhbhásmhar. Cheilt tú an fhírinne ar feadh na blianta, ach d'éirigh le sealgaire teacht ort sa deireadh. Chuaigh tú i bhfolach mar fholachánaí ar an gcéad spáslong amuigh ón réaltchóras, agus ba ar éirigh leat do chosa a thabhairt leat.\n\nTharla an taisme ansin, agus níor éirigh ach le cúpla duine na podanna éalaithe a bhaint amach. Leandáil tú ar an bplainéad iargúlta seo, agus feictear duit nach bhfuil tú i d'aonar. Céard a dhéanfaidh tú?</Sanguophage.scenario.parts.GameStartDialog.text>
+  <Sanguophage.scenario.parts.GameStartDialog.text>TODO</Sanguophage.scenario.parts.GameStartDialog.text>
   <!-- EN: One crashlanded sanguophage needing blood to survive, and one human colonist. -->
-  <Sanguophage.scenario.summary>Sangafagach amháin, a bhfuil fuil de dhíth air chun maireachtáil, agus coilíneach daonna amháin.</Sanguophage.scenario.summary>
+  <Sanguophage.scenario.summary>TODO</Sanguophage.scenario.summary>
   
 </LanguageData>

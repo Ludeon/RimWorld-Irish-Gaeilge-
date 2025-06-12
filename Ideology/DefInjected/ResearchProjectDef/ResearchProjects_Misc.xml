@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: bioregeneration -->
-  <Bioregeneration.label>biorégénération</Bioregeneration.label>
+  <Bioregeneration.label>TODO</Bioregeneration.label>
   <!-- EN: Unlock the biosculpter pod's bioregeneration cycle. This cycle heals old scars, regenerates small lost body parts like fingers and toes, and cures many of the physical maladies that come with old age. -->
-  <Bioregeneration.description>Débloquez le cycle de biorégénération de la capsule de biosculptage. Ce cycle guérit les cicatrices anciennes, régénère les petites parties du corps perdues comme les doigts et les orteils, et guérit de nombreuses maladies physiques qui accompagnent la vieillesse.</Bioregeneration.description>
+  <Bioregeneration.description>TODO</Bioregeneration.description>
   <!-- EN:
     <li>subject->bioregeneration</li>
     <li>subject_story->studied Boomalope antler regrowth for parallels with human regeneration</li>
@@ -17,9 +17,9 @@
   <Bioregeneration.generalRules.rulesStrings>TODO</Bioregeneration.generalRules.rulesStrings>
   
   <!-- EN: biosculpting -->
-  <Biosculpting.label>biosculptage</Biosculpting.label>
+  <Biosculpting.label>TODO</Biosculpting.label>
   <!-- EN: Construct biosculpter pods which can perform various biological alterations to colonists. These are especially important to believers in transhumanism. -->
-  <Biosculpting.description>Construisez des capsules de biosculptage qui peuvent effectuer diverses altérations biologiques sur les colons. Celles-ci sont particulièrement importantes pour les croyants du transhumanisme.</Biosculpting.description>
+  <Biosculpting.description>TODO</Biosculpting.description>
   <!-- EN:
     <li>subject->biosculpting</li>
     <li>subject_story->constructed biosculpter pods on contract for various colonies</li>
@@ -33,9 +33,9 @@
   <Biosculpting.generalRules.rulesStrings>TODO</Biosculpting.generalRules.rulesStrings>
   
   <!-- EN: neural supercharger -->
-  <NeuralSupercharger.label>compresseur neuronal</NeuralSupercharger.label>
+  <NeuralSupercharger.label>TODO</NeuralSupercharger.label>
   <!-- EN: Construct neural supercharger devices. Neural superchargers improve consciousness and learning rate, but they also increase hunger and the effect must be refreshed daily. Transhumanists often hold neural supercharging as an important practice. -->
-  <NeuralSupercharger.description>Construisez des dispositifs de suralimentation neuronale. Les compresseurs neuronaux améliorent la conscience et le taux d'apprentissage, mais ils augmentent également la faim et l'effet doit être renouvelé quotidiennement. Les transhumanistes considèrent souvent la suralimentation neuronale comme une pratique importante.</NeuralSupercharger.description>
+  <NeuralSupercharger.description>TODO</NeuralSupercharger.description>
   <!-- EN:
     <li>subject->neural superchargers</li>
     <li>subject_story->implemented neural superchargers in [ANYPAWN_possessive] boarding school</li>

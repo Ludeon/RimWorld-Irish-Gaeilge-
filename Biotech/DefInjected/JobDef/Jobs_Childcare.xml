@@ -2,30 +2,30 @@
 <LanguageData>
   
   <!-- EN: playing with TargetA. -->
-  <BabyPlay.reportString>spielt mit TargetA.</BabyPlay.reportString>
+  <BabyPlay.reportString>TODO</BabyPlay.reportString>
   
   <!-- EN: feeding from TargetA. -->
-  <BabySuckle.reportString>wird von TargetA gestillt.</BabySuckle.reportString>
+  <BabySuckle.reportString>TODO</BabySuckle.reportString>
   
   <!-- EN: feeding TargetB to TargetA. -->
-  <BottleFeedBaby.reportString>füttert TargetA mit TargetB.</BottleFeedBaby.reportString>
+  <BottleFeedBaby.reportString>TODO</BottleFeedBaby.reportString>
   
   <!-- EN: breastfeeding TargetA. -->
-  <Breastfeed.reportString>stillt TargetA.</Breastfeed.reportString>
+  <Breastfeed.reportString>TODO</Breastfeed.reportString>
   
   <!-- EN: carrying TargetA to TargetB. -->
-  <BreastfeedCarryToMom.reportString>trägt TargetA zu TargetB.</BreastfeedCarryToMom.reportString>
+  <BreastfeedCarryToMom.reportString>TODO</BreastfeedCarryToMom.reportString>
   
   <!-- EN: putting TargetA somewhere safe. -->
-  <BringBabyToSafety.reportString>legt TargetA an einen sicheren Ort.</BringBabyToSafety.reportString>
+  <BringBabyToSafety.reportString>TODO</BringBabyToSafety.reportString>
   
   <!-- EN: putting TargetA somewhere safe. -->
-  <BringBabyToSafetyUnforced.reportString>legt TargetA an einen sicheren Ort.</BringBabyToSafetyUnforced.reportString>
+  <BringBabyToSafetyUnforced.reportString>TODO</BringBabyToSafetyUnforced.reportString>
   
   <!-- EN: carrying TargetA to TargetB. -->
-  <CarryToMomAfterBirth.reportString>trägt TargetA zu TargetB.</CarryToMomAfterBirth.reportString>
+  <CarryToMomAfterBirth.reportString>TODO</CarryToMomAfterBirth.reportString>
   
   <!-- EN: fertilizing TargetA. -->
-  <FertilizeOvum.reportString>befruchtet TargetA.</FertilizeOvum.reportString>
+  <FertilizeOvum.reportString>TODO</FertilizeOvum.reportString>
   
 </LanguageData>

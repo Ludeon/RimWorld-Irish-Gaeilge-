@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN:
     <li>Trans->of</li>
     <li>Trans->for</li>
@@ -87,8 +87,8 @@
     <li>talktopicheavyfile(p=0.15)->bualadh craicinn</li>
     <li>talktopicheavyfile(p=0.15)->aiséirí na marbh</li>
     <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh</li>
-   </GlobalUtility.rulePack.rulesStrings>
-
+  </GlobalUtility.rulePack.rulesStrings>
+  
   <!-- EN:
     <li>TalkTopicAny->[TalkTopicLight]</li>
     <li>TalkTopicAny->[TalkTopicHeavy]</li>
@@ -159,13 +159,6 @@
     <li>talktopicheavyfile(p=0.15)->mealladh</li>
     <li>talktopicheavyfile(p=0.15)->cúrsaí collaigh ainmhithe</li>
     <li>talktopicheavyfile(p=0.15)->fantaisíocht</li>
- </TalkTopicsUtility.rulePack.rulesStrings>
-
-  <rulesRaw>
-    <li class="Rule_File">
-      <keyword>Placename_Village</keyword>
-      <path>Strings/Names/TribalVillage</path>
-   </li>
- </rulesRaw>
-
+  </TalkTopicsUtility.rulePack.rulesStrings>
+  
 </LanguageData>

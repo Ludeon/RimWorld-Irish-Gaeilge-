@@ -3,19 +3,19 @@
   
   <!-- Misc -->
   <!-- EN: Need mechanitor colonist -->
-  <MissingRequiredMechanitor>Need mechanitor colonist</MissingRequiredMechanitor>
+  <MissingRequiredMechanitor>TODO</MissingRequiredMechanitor>
   <!-- EN: {0} not studied -->
-  <NotStudied>{0} not studied</NotStudied>
+  <NotStudied>TODO</NotStudied>
   <!-- EN: Requires study of -->
-  <StudyRequirements>Requires study of</StudyRequirements>
+  <StudyRequirements>TODO</StudyRequirements>
   <!-- EN: Preferred xenotypes -->
-  <PreferredXenotypes>Preferred xenotypes</PreferredXenotypes>
+  <PreferredXenotypes>TODO</PreferredXenotypes>
 
   <!-- Work tab -->
   <!-- EN: {0_nameDef} is only {1} years old. {2} work can only be done from age {3} -->
-  <WorkDisabledAge>{0_nameDef} is only {1} years old. {2} work can only be done from age {3}</WorkDisabledAge>
+  <WorkDisabledAge>TODO</WorkDisabledAge>
   <!-- EN: Click to change work mode. -->
-  <ClickToChangeWorkMode>Click to change work mode.</ClickToChangeWorkMode>
+  <ClickToChangeWorkMode>TODO</ClickToChangeWorkMode>
 
 
 </LanguageData>

@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: allow enemy mech corpses -->
-  <AllowCorpsesMechEnemy.label>erlaube feindl. Mechleichen</AllowCorpsesMechEnemy.label>
+  <AllowCorpsesMechEnemy.label>TODO</AllowCorpsesMechEnemy.label>
   <!-- EN: Allow the dead bodies of enemy mechanoids. -->
-  <AllowCorpsesMechEnemy.description>Erlaube die toten Körper von feindlichen Mechanoiden.</AllowCorpsesMechEnemy.description>
+  <AllowCorpsesMechEnemy.description>TODO</AllowCorpsesMechEnemy.description>
   
   <!-- EN: allow friendly mech corpses -->
-  <AllowCorpsesMechFriendly.label>erlaube freundl. Mechleichen</AllowCorpsesMechFriendly.label>
+  <AllowCorpsesMechFriendly.label>TODO</AllowCorpsesMechFriendly.label>
   <!-- EN: Allow the dead bodies of friendly mechanoids. -->
-  <AllowCorpsesMechFriendly.description>Erlaube die toten Körper von freundlichen Mechanoiden.</AllowCorpsesMechFriendly.description>
+  <AllowCorpsesMechFriendly.description>TODO</AllowCorpsesMechFriendly.description>
   
 </LanguageData>

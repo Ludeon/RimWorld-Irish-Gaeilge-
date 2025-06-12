@@ -2,185 +2,185 @@
 <LanguageData>
   
   <!-- EN: feed babies -->
-  <BottleFeedBaby.label>Baby füttern</BottleFeedBaby.label>
+  <BottleFeedBaby.label>TODO</BottleFeedBaby.label>
   <!-- EN: feeding -->
-  <BottleFeedBaby.gerund>Füttern von</BottleFeedBaby.gerund>
+  <BottleFeedBaby.gerund>TODO</BottleFeedBaby.gerund>
   <!-- EN: feed -->
-  <BottleFeedBaby.verb>füttern</BottleFeedBaby.verb>
+  <BottleFeedBaby.verb>TODO</BottleFeedBaby.verb>
   
   <!-- EN: breastfeed babies -->
-  <BreastfeedBaby.label>Baby stillen</BreastfeedBaby.label>
+  <BreastfeedBaby.label>TODO</BreastfeedBaby.label>
   <!-- EN: breastfeeding -->
-  <BreastfeedBaby.gerund>Stillen von</BreastfeedBaby.gerund>
+  <BreastfeedBaby.gerund>TODO</BreastfeedBaby.gerund>
   <!-- EN: breastfeed -->
-  <BreastfeedBaby.verb>stillen</BreastfeedBaby.verb>
+  <BreastfeedBaby.verb>TODO</BreastfeedBaby.verb>
   
   <!-- EN: bring babies to safe temperature -->
-  <BringBabyToSafety.label>Baby in sichere Temperatur bringen</BringBabyToSafety.label>
+  <BringBabyToSafety.label>TODO</BringBabyToSafety.label>
   <!-- EN: rescuing -->
-  <BringBabyToSafety.gerund>Retten von</BringBabyToSafety.gerund>
+  <BringBabyToSafety.gerund>TODO</BringBabyToSafety.gerund>
   <!-- EN: rescue -->
-  <BringBabyToSafety.verb>retten</BringBabyToSafety.verb>
+  <BringBabyToSafety.verb>TODO</BringBabyToSafety.verb>
   
   <!-- EN: carry to mother -->
-  <CarryToBreastfeed.label>Baby zur Mutter tragen</CarryToBreastfeed.label>
+  <CarryToBreastfeed.label>TODO</CarryToBreastfeed.label>
   <!-- EN: getting mother to breastfeed -->
-  <CarryToBreastfeed.gerund>Zur-Mutter-tragen zum Stillen von</CarryToBreastfeed.gerund>
+  <CarryToBreastfeed.gerund>TODO</CarryToBreastfeed.gerund>
   <!-- EN: get mother to breastfeed -->
-  <CarryToBreastfeed.verb>zur Mutter zwecks Stillen tragen</CarryToBreastfeed.verb>
+  <CarryToBreastfeed.verb>TODO</CarryToBreastfeed.verb>
   
   <!-- EN: carry to gene extractor -->
-  <CarryToGeneExtractor.label>zum Gen-Extraktor tragen</CarryToGeneExtractor.label>
+  <CarryToGeneExtractor.label>TODO</CarryToGeneExtractor.label>
   <!-- EN: extracting genes from -->
-  <CarryToGeneExtractor.gerund>Extrahieren von Genen aus</CarryToGeneExtractor.gerund>
+  <CarryToGeneExtractor.gerund>TODO</CarryToGeneExtractor.gerund>
   <!-- EN: extract genes -->
-  <CarryToGeneExtractor.verb>Gene extrahieren</CarryToGeneExtractor.verb>
+  <CarryToGeneExtractor.verb>TODO</CarryToGeneExtractor.verb>
   
   <!-- EN: carry to growth vat -->
-  <CarryToGrowthVat.label>zur Wachstumskapsel tragen</CarryToGrowthVat.label>
+  <CarryToGrowthVat.label>TODO</CarryToGrowthVat.label>
   <!-- EN: growing -->
-  <CarryToGrowthVat.gerund>Wachstum von</CarryToGrowthVat.gerund>
+  <CarryToGrowthVat.gerund>TODO</CarryToGrowthVat.gerund>
   <!-- EN: grow -->
-  <CarryToGrowthVat.verb>wachsen lassen</CarryToGrowthVat.verb>
+  <CarryToGrowthVat.verb>TODO</CarryToGrowthVat.verb>
   
   <!-- EN: carry to subcore scanner -->
-  <CarryToSubcoreScanner.label>zum Subkern-Scanner tragen</CarryToSubcoreScanner.label>
+  <CarryToSubcoreScanner.label>TODO</CarryToSubcoreScanner.label>
   <!-- EN: carrying -->
-  <CarryToSubcoreScanner.gerund>Tragen von</CarryToSubcoreScanner.gerund>
+  <CarryToSubcoreScanner.gerund>TODO</CarryToSubcoreScanner.gerund>
   <!-- EN: carry -->
-  <CarryToSubcoreScanner.verb>tragen</CarryToSubcoreScanner.verb>
+  <CarryToSubcoreScanner.verb>TODO</CarryToSubcoreScanner.verb>
   
   <!-- EN: teach child -->
-  <ChildcarerTeach.label>Kind unterrichten</ChildcarerTeach.label>
+  <ChildcarerTeach.label>TODO</ChildcarerTeach.label>
   <!-- EN: teaching -->
-  <ChildcarerTeach.gerund>Unterrichten von</ChildcarerTeach.gerund>
+  <ChildcarerTeach.gerund>TODO</ChildcarerTeach.gerund>
   <!-- EN: teach -->
-  <ChildcarerTeach.verb>unterrichten</ChildcarerTeach.verb>
+  <ChildcarerTeach.verb>TODO</ChildcarerTeach.verb>
   
   <!-- EN: clean pollution -->
-  <CleanClearPollution.label>Boden entseuchen</CleanClearPollution.label>
+  <CleanClearPollution.label>TODO</CleanClearPollution.label>
   <!-- EN: cleaning pollution -->
-  <CleanClearPollution.gerund>Entseuchen des Bodens im</CleanClearPollution.gerund>
+  <CleanClearPollution.gerund>TODO</CleanClearPollution.gerund>
   <!-- EN: clean pollution -->
-  <CleanClearPollution.verb>entseuchen</CleanClearPollution.verb>
+  <CleanClearPollution.verb>TODO</CleanClearPollution.verb>
   
   <!-- EN: create xenogerm -->
-  <CreateXenogerm.label>Xenokeim erzeugen</CreateXenogerm.label>
+  <CreateXenogerm.label>TODO</CreateXenogerm.label>
   <!-- EN: creating xenogerm at -->
-  <CreateXenogerm.gerund>Erzeugen von Xenokeim an</CreateXenogerm.gerund>
+  <CreateXenogerm.gerund>TODO</CreateXenogerm.gerund>
   <!-- EN: create xenogerm -->
-  <CreateXenogerm.verb>Xenokeim erzeugen</CreateXenogerm.verb>
+  <CreateXenogerm.verb>TODO</CreateXenogerm.verb>
   
   <!-- EN: deliver hemogen to prisoners -->
-  <DeliverHemogenToPrisoner.label>Hämogen zu Gefangenen bringen</DeliverHemogenToPrisoner.label>
+  <DeliverHemogenToPrisoner.label>TODO</DeliverHemogenToPrisoner.label>
   <!-- EN: delivering hemogen for -->
-  <DeliverHemogenToPrisoner.gerund>Bringen von Hämogen zu</DeliverHemogenToPrisoner.gerund>
+  <DeliverHemogenToPrisoner.gerund>TODO</DeliverHemogenToPrisoner.gerund>
   <!-- EN: deliver hemogen for -->
-  <DeliverHemogenToPrisoner.verb>mit Hämogen beliefern</DeliverHemogenToPrisoner.verb>
+  <DeliverHemogenToPrisoner.verb>TODO</DeliverHemogenToPrisoner.verb>
   
   <!-- EN: make things at mech gestator -->
-  <DoBillsMechGestator.label>Dinge an Mech-Gestator fertigen</DoBillsMechGestator.label>
+  <DoBillsMechGestator.label>TODO</DoBillsMechGestator.label>
   <!-- EN: working at -->
-  <DoBillsMechGestator.gerund>Arbeit an</DoBillsMechGestator.gerund>
+  <DoBillsMechGestator.gerund>TODO</DoBillsMechGestator.gerund>
   <!-- EN: work at -->
-  <DoBillsMechGestator.verb>nutzen</DoBillsMechGestator.verb>
+  <DoBillsMechGestator.verb>TODO</DoBillsMechGestator.verb>
   
   <!-- EN: make things at subcore encoder -->
-  <DoBillsSubcoreEncoder.label>Dinge an Subkern-Kodierer fertigen</DoBillsSubcoreEncoder.label>
+  <DoBillsSubcoreEncoder.label>TODO</DoBillsSubcoreEncoder.label>
   <!-- EN: working at -->
-  <DoBillsSubcoreEncoder.gerund>Arbeit an</DoBillsSubcoreEncoder.gerund>
+  <DoBillsSubcoreEncoder.gerund>TODO</DoBillsSubcoreEncoder.gerund>
   <!-- EN: work -->
-  <DoBillsSubcoreEncoder.verb>arbeiten</DoBillsSubcoreEncoder.verb>
+  <DoBillsSubcoreEncoder.verb>TODO</DoBillsSubcoreEncoder.verb>
   
   <!-- EN: empty waste container -->
-  <EmptyWasteContainer.label>Müllcontainer leeren</EmptyWasteContainer.label>
+  <EmptyWasteContainer.label>TODO</EmptyWasteContainer.label>
   <!-- EN: extracting from -->
-  <EmptyWasteContainer.gerund>Entmüllen von</EmptyWasteContainer.gerund>
+  <EmptyWasteContainer.gerund>TODO</EmptyWasteContainer.gerund>
   <!-- EN: extract from -->
-  <EmptyWasteContainer.verb>entmüllen</EmptyWasteContainer.verb>
+  <EmptyWasteContainer.verb>TODO</EmptyWasteContainer.verb>
   
   <!-- EN: enter gene extractor -->
-  <EnterGeneExtractor.label>Gen-Extraktor betreten</EnterGeneExtractor.label>
+  <EnterGeneExtractor.label>TODO</EnterGeneExtractor.label>
   <!-- EN: entering -->
-  <EnterGeneExtractor.gerund>Betreten von</EnterGeneExtractor.gerund>
+  <EnterGeneExtractor.gerund>TODO</EnterGeneExtractor.gerund>
   <!-- EN: enter -->
-  <EnterGeneExtractor.verb>betreten</EnterGeneExtractor.verb>
+  <EnterGeneExtractor.verb>TODO</EnterGeneExtractor.verb>
   
   <!-- EN: enter growth vat -->
-  <EnterGrowthVat.label>Wachstumskapsel betreten</EnterGrowthVat.label>
+  <EnterGrowthVat.label>TODO</EnterGrowthVat.label>
   <!-- EN: entering -->
-  <EnterGrowthVat.gerund>Betreten von</EnterGrowthVat.gerund>
+  <EnterGrowthVat.gerund>TODO</EnterGrowthVat.gerund>
   <!-- EN: enter -->
-  <EnterGrowthVat.verb>betreten</EnterGrowthVat.verb>
+  <EnterGrowthVat.verb>TODO</EnterGrowthVat.verb>
   
   <!-- EN: enter subcore scanner -->
-  <EnterSubcoreScanner.label>Subkern-Scanner betreten</EnterSubcoreScanner.label>
+  <EnterSubcoreScanner.label>TODO</EnterSubcoreScanner.label>
   <!-- EN: entering -->
-  <EnterSubcoreScanner.gerund>Betreten von</EnterSubcoreScanner.gerund>
+  <EnterSubcoreScanner.gerund>TODO</EnterSubcoreScanner.gerund>
   <!-- EN: enter -->
-  <EnterSubcoreScanner.verb>betreten</EnterSubcoreScanner.verb>
+  <EnterSubcoreScanner.verb>TODO</EnterSubcoreScanner.verb>
   
   <!-- EN: administer hemogen -->
-  <FeedHemogen.label>Hämogen verabreichen</FeedHemogen.label>
+  <FeedHemogen.label>TODO</FeedHemogen.label>
   <!-- EN: administering hemogen to -->
-  <FeedHemogen.gerund>Verabreichen von Hämogen an</FeedHemogen.gerund>
+  <FeedHemogen.gerund>TODO</FeedHemogen.gerund>
   <!-- EN: administer hemogen to -->
-  <FeedHemogen.verb>Hämogen verabreichen</FeedHemogen.verb>
+  <FeedHemogen.verb>TODO</FeedHemogen.verb>
   
   <!-- EN: haul mechs to charger -->
-  <HaulMechsToCharger.label>Mech zu Ladestation tragen</HaulMechsToCharger.label>
+  <HaulMechsToCharger.label>TODO</HaulMechsToCharger.label>
   <!-- EN: hauling -->
-  <HaulMechsToCharger.gerund>Wegtragen von</HaulMechsToCharger.gerund>
+  <HaulMechsToCharger.gerund>TODO</HaulMechsToCharger.gerund>
   <!-- EN: haul -->
-  <HaulMechsToCharger.verb>wegtragen</HaulMechsToCharger.verb>
+  <HaulMechsToCharger.verb>TODO</HaulMechsToCharger.verb>
   
   <!-- EN: haul resources to carrier -->
-  <HaulToCarrier.label>Mech mit Gütern befüllen</HaulToCarrier.label>
+  <HaulToCarrier.label>TODO</HaulToCarrier.label>
   <!-- EN: hauling to -->
-  <HaulToCarrier.gerund>Befüllen von</HaulToCarrier.gerund>
+  <HaulToCarrier.gerund>TODO</HaulToCarrier.gerund>
   <!-- EN: haul to -->
-  <HaulToCarrier.verb>befüllen</HaulToCarrier.verb>
+  <HaulToCarrier.verb>TODO</HaulToCarrier.verb>
   
   <!-- EN: bank genepack -->
-  <HaulToGeneBank.label>Genpaket in Bank lagern</HaulToGeneBank.label>
+  <HaulToGeneBank.label>TODO</HaulToGeneBank.label>
   <!-- EN: banking -->
-  <HaulToGeneBank.gerund>In-Bank-lagern von</HaulToGeneBank.gerund>
+  <HaulToGeneBank.gerund>TODO</HaulToGeneBank.gerund>
   <!-- EN: bank -->
-  <HaulToGeneBank.verb>in Bank lagern</HaulToGeneBank.verb>
+  <HaulToGeneBank.verb>TODO</HaulToGeneBank.verb>
   
   <!-- EN: carry to growth vat -->
-  <HaulToGrowthVat.label>Wachstumskapsel mit Gütern befüllen</HaulToGrowthVat.label>
+  <HaulToGrowthVat.label>TODO</HaulToGrowthVat.label>
   <!-- EN: filling -->
-  <HaulToGrowthVat.gerund>Befüllen von</HaulToGrowthVat.gerund>
+  <HaulToGrowthVat.gerund>TODO</HaulToGrowthVat.gerund>
   <!-- EN: fill -->
-  <HaulToGrowthVat.verb>befüllen</HaulToGrowthVat.verb>
+  <HaulToGrowthVat.verb>TODO</HaulToGrowthVat.verb>
   
   <!-- EN: haul resources to subcore scanner -->
-  <HaulToSubcoreScanner.label>Subkern-Scanner mit Gütern befüllen</HaulToSubcoreScanner.label>
+  <HaulToSubcoreScanner.label>TODO</HaulToSubcoreScanner.label>
   <!-- EN: hauling to -->
-  <HaulToSubcoreScanner.gerund>Befüllen von</HaulToSubcoreScanner.gerund>
+  <HaulToSubcoreScanner.gerund>TODO</HaulToSubcoreScanner.gerund>
   <!-- EN: haul to -->
-  <HaulToSubcoreScanner.verb>befüllen</HaulToSubcoreScanner.verb>
+  <HaulToSubcoreScanner.verb>TODO</HaulToSubcoreScanner.verb>
   
   <!-- EN: haul resources to wastepack atomizer -->
-  <HaulToWastepackAtomizer.label>Müllatomisierer mit Gütern befüllen</HaulToWastepackAtomizer.label>
+  <HaulToWastepackAtomizer.label>TODO</HaulToWastepackAtomizer.label>
   <!-- EN: hauling to -->
-  <HaulToWastepackAtomizer.gerund>Befüllen von</HaulToWastepackAtomizer.gerund>
+  <HaulToWastepackAtomizer.gerund>TODO</HaulToWastepackAtomizer.gerund>
   <!-- EN: haul to -->
-  <HaulToWastepackAtomizer.verb>befüllen</HaulToWastepackAtomizer.verb>
+  <HaulToWastepackAtomizer.verb>TODO</HaulToWastepackAtomizer.verb>
   
   <!-- EN: play with babies -->
-  <PlayWithBaby.label>mit Baby spielen</PlayWithBaby.label>
+  <PlayWithBaby.label>TODO</PlayWithBaby.label>
   <!-- EN: playing with -->
-  <PlayWithBaby.gerund>Spielen mit</PlayWithBaby.gerund>
+  <PlayWithBaby.gerund>TODO</PlayWithBaby.gerund>
   <!-- EN: play with -->
-  <PlayWithBaby.verb>bespielen</PlayWithBaby.verb>
+  <PlayWithBaby.verb>TODO</PlayWithBaby.verb>
   
   <!-- EN: repair mech -->
-  <RepairMech.label>Mech reparieren</RepairMech.label>
+  <RepairMech.label>TODO</RepairMech.label>
   <!-- EN: repairing -->
-  <RepairMech.gerund>Reparieren von</RepairMech.gerund>
+  <RepairMech.gerund>TODO</RepairMech.gerund>
   <!-- EN: repair -->
-  <RepairMech.verb>reparieren</RepairMech.verb>
+  <RepairMech.verb>TODO</RepairMech.verb>
   
 </LanguageData>

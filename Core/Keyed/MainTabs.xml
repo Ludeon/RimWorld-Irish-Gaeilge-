@@ -322,6 +322,8 @@
   <QuestPawnNotOnColonyMap>go mbeidh {PAWN_definite} i do choilíneacht</QuestPawnNotOnColonyMap>
   <!-- EN: the map clear of enemies of the bestower's faction -->
   <QuestRequiresNoDangerOnMap>go mbeidh an léarscáil saor ó naimhde</QuestRequiresNoDangerOnMap>
+  <!-- EN: that {PROJECT_label} has been researched. -->
+  <QuestRequiresResearch>TODO</QuestRequiresResearch>
   <!-- EN: to finish the ongoing bestowing ceremony quest -->
   <QuestCanNotStartUntilBestowingCeremonyFinished>duit an misean reatha a chríochnú</QuestCanNotStartUntilBestowingCeremonyFinished>
   <!-- EN: Reward preferences -->
@@ -358,6 +360,10 @@
   <QuestNeutralTo>neodrach roimh an bhfaicsean '{0}'</QuestNeutralTo>
   <!-- EN: studied {0_labelShort} -->
   <QuestRequiredThingStudied>ní mór go mbeidh an teicneolaíocht '{0_labelShort}' agat</QuestRequiredThingStudied>
+  <!-- EN: cannot accept {GERUND} {LAYER} -->
+  <QuestRequiredLayer>TODO</QuestRequiredLayer> <!-- text_todo -->
+  <!-- EN: cannot accept in space -->
+  <QuestNotSpace>TODO</QuestNotSpace> <!-- text_todo -->
 
   <!-- Health tab -->
   <!-- EN: Creates need -->

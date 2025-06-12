@@ -47,7 +47,7 @@
 
   <!-- EN: Need meditation spot -->
   <NeedMeditationSpotAlert>Tá spota machnaimh de dhíth</NeedMeditationSpotAlert>
-  <!-- EN: These colonists have a psyfocus need or are scheduled to meditate, but don't have any meditation spots available for them.\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. -->
+  <!-- EN: These colonists have a psyfocus need or are scheduled to meditate, but don't have any meditation spots available for them.\n{0}\n\nPlace a meditation spot and ensure it is reachable and usable. Colonists will prefer the meditation spot near the best focus object they can use. Colonists won't meditate in another colonist's bedroom. -->
   <NeedMeditationSpotAlertDesc>Tá na coilínigh seo a leanas ceaptha dianmhachnamh a dhéanamh, ach níl aon spota acu.\n\n{0}\n\nCuir síos spota machnaimh agus bí cinnte go bhfuil sé inrochtana. Is maith le coilínigh dianmhachnamh a dhéanamh taobh leis an rud ar a mbeidh siad ag díriú.</NeedMeditationSpotAlertDesc>
 
   <!-- EN: Unusable meditation focus -->

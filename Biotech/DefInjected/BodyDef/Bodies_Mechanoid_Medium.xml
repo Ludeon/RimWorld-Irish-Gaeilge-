@@ -2,57 +2,57 @@
 <LanguageData>
   
   <!-- EN: apocriton -->
-  <Apocriton.label>apaichrítéar</Apocriton.label>
+  <Apocriton.label>TODO</Apocriton.label>
   <!-- EN: left sight sensor -->
-  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>braiteoir radhairc clé</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>braiteoir radhairc deas</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>braiteoir fuaime clé</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>braiteoir fuaime deas</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Apocriton.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: front left leg -->
-  <Apocriton.corePart.parts.front_left_leg.customLabel>cos thosaigh chlé</Apocriton.corePart.parts.front_left_leg.customLabel>
+  <Apocriton.corePart.parts.front_left_leg.customLabel>TODO</Apocriton.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left foot -->
-  <Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>cos thosaigh chlé</Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>TODO</Apocriton.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
   <!-- EN: front right leg -->
-  <Apocriton.corePart.parts.front_right_leg.customLabel>cos thosaigh dheas</Apocriton.corePart.parts.front_right_leg.customLabel>
+  <Apocriton.corePart.parts.front_right_leg.customLabel>TODO</Apocriton.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right foot -->
-  <Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>cos thosaigh dheas</Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>TODO</Apocriton.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
   <!-- EN: rear left leg -->
-  <Apocriton.corePart.parts.rear_left_leg.customLabel>cos chúil chlé</Apocriton.corePart.parts.rear_left_leg.customLabel>
+  <Apocriton.corePart.parts.rear_left_leg.customLabel>TODO</Apocriton.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left foot -->
-  <Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>cos chúil chlé</Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>TODO</Apocriton.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
   <!-- EN: rear right leg -->
-  <Apocriton.corePart.parts.rear_right_leg.customLabel>cos chúil dheas</Apocriton.corePart.parts.rear_right_leg.customLabel>
+  <Apocriton.corePart.parts.rear_right_leg.customLabel>TODO</Apocriton.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
-  <Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>cos chúil dheas</Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  <Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>TODO</Apocriton.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
   
   <!-- EN: scorcher -->
-  <Scorcher.label>loisctheoir</Scorcher.label>
+  <Scorcher.label>TODO</Scorcher.label>
   <!-- EN: left sight sensor -->
-  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>braiteoir radhairc clé</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>TODO</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_sight_sensor.customLabel>
   <!-- EN: right sight sensor -->
-  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>braiteoir radhairc deas</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>TODO</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_sight_sensor.customLabel>
   <!-- EN: left hearing sensor -->
-  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>braiteoir fuaime clé</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>TODO</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.left_hearing_sensor.customLabel>
   <!-- EN: right hearing sensor -->
-  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>braiteoir fuaime deas</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
+  <Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>TODO</Scorcher.corePart.parts.MechanicalNeck.parts.MechanicalHead.parts.right_hearing_sensor.customLabel>
   <!-- EN: front left leg -->
-  <Scorcher.corePart.parts.front_left_leg.customLabel>cos thosaigh chlé</Scorcher.corePart.parts.front_left_leg.customLabel>
+  <Scorcher.corePart.parts.front_left_leg.customLabel>TODO</Scorcher.corePart.parts.front_left_leg.customLabel>
   <!-- EN: front left foot -->
-  <Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>cos thosaigh chlé</Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
+  <Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>TODO</Scorcher.corePart.parts.front_left_leg.parts.front_left_foot.customLabel>
   <!-- EN: front right leg -->
-  <Scorcher.corePart.parts.front_right_leg.customLabel>cos thosaigh dheas</Scorcher.corePart.parts.front_right_leg.customLabel>
+  <Scorcher.corePart.parts.front_right_leg.customLabel>TODO</Scorcher.corePart.parts.front_right_leg.customLabel>
   <!-- EN: front right foot -->
-  <Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>cos thosaigh dheas</Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
+  <Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>TODO</Scorcher.corePart.parts.front_right_leg.parts.front_right_foot.customLabel>
   <!-- EN: rear left leg -->
-  <Scorcher.corePart.parts.rear_left_leg.customLabel>cos chúil chlé</Scorcher.corePart.parts.rear_left_leg.customLabel>
+  <Scorcher.corePart.parts.rear_left_leg.customLabel>TODO</Scorcher.corePart.parts.rear_left_leg.customLabel>
   <!-- EN: rear left foot -->
-  <Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>cos chúil chlé</Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
+  <Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>TODO</Scorcher.corePart.parts.rear_left_leg.parts.rear_left_foot.customLabel>
   <!-- EN: rear right leg -->
-  <Scorcher.corePart.parts.rear_right_leg.customLabel>cos chúil dheas</Scorcher.corePart.parts.rear_right_leg.customLabel>
+  <Scorcher.corePart.parts.rear_right_leg.customLabel>TODO</Scorcher.corePart.parts.rear_right_leg.customLabel>
   <!-- EN: rear right foot -->
-  <Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>cos chúil dheas</Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
+  <Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>TODO</Scorcher.corePart.parts.rear_right_leg.parts.rear_right_foot.customLabel>
   
 </LanguageData>

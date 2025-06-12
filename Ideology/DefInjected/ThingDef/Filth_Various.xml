@@ -2,18 +2,9 @@
 <LanguageData>
   
   <!-- EN: dried blood -->
-  <Filth_DriedBlood.label>sang séché</Filth_DriedBlood.label>
-  
-  <!-- EN: ragged uniform -->
-  <Filth_MoldyUniform.label>uniforme en lambeaux</Filth_MoldyUniform.label>
-  
-  <!-- EN: oil smear -->
-  <Filth_OilSmear.label>tache d'huile</Filth_OilSmear.label>
+  <Filth_DriedBlood.label>TODO</Filth_DriedBlood.label>
   
   <!-- EN: pod slime -->
-  <Filth_PodSlime.label>bave de capsule</Filth_PodSlime.label>
-  
-  <!-- EN: scattered documents -->
-  <Filth_ScatteredDocuments.label>documents épars</Filth_ScatteredDocuments.label>
+  <Filth_PodSlime.label>TODO</Filth_PodSlime.label>
   
 </LanguageData>

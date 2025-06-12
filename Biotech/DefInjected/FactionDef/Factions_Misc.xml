@@ -1,72 +1,82 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: rough pig union -->
-  <OutlanderRoughPig.label>muc-dhaoine fíocmhara</OutlanderRoughPig.label>
+  <OutlanderRoughPig.label>TODO</OutlanderRoughPig.label>
   <!-- EN: A loose union of hardy pigskin townships. They're willing to make friends, even with thinsnouts, but they're also ready to toss a bomb and gnaw human gristle when it suits them. Treat them with respect and they'll offer a trotter to an ally in need. Turn against them and the last thing you hear might be a triumphant battle squeal. -->
-  <OutlanderRoughPig.description>Cónaidhm scaoilte de mhuc-dhaoine. Bíonn siad sásta plé le stráinséirí, ach uaireanta bíonn siad chomh sásta céanna buamaí a chaitheamh agus craiceann daoine a ithe. Má léiríonn tú meas orthu, tá seans ann go dtiocfaidh siad i gcabhair ort. Má léiríonn tú dímheas orthu, tá seans ann go gcloisfidh tú scréach cogaidh agus iad ag déanamh ionsaí ort i lár na hoíche.</OutlanderRoughPig.description>
+  <OutlanderRoughPig.description>TODO</OutlanderRoughPig.description>
   <!-- EN: prime councilor -->
-  <OutlanderRoughPig.leaderTitle>príomh-chomhairleoir</OutlanderRoughPig.leaderTitle>
-  <OutlanderRoughPig.leaderTitleFemale>príomh-chomhairleoir</OutlanderRoughPig.leaderTitleFemale>
+  <OutlanderRoughPig.leaderTitle>TODO</OutlanderRoughPig.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRoughPig.messageDefendersAttacking>TODO</OutlanderRoughPig.messageDefendersAttacking>
   <!-- EN: pigskin -->
-  <OutlanderRoughPig.pawnSingular>muc-dhuine</OutlanderRoughPig.pawnSingular>
+  <OutlanderRoughPig.pawnSingular>TODO</OutlanderRoughPig.pawnSingular>
   <!-- EN: pigskins -->
-  <OutlanderRoughPig.pawnsPlural>muc-dhuine</OutlanderRoughPig.pawnsPlural>
-
+  <OutlanderRoughPig.pawnsPlural>TODO</OutlanderRoughPig.pawnsPlural>
+  
   <!-- EN: waster pirates -->
-  <PirateWaster.label>píoráidí tocsaineacha</PirateWaster.label>
+  <PirateWaster.label>TODO</PirateWaster.label>
   <!-- EN: A loose collection of violent pirate bands made up primarily of wasters - xenohumans engineered to thrive around toxins and pollution. They have little interest in building, or farming, preferring to take their sustenance from others using violence.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
-  <PirateWaster.description>Cónaidhm scaoilte de phíoráidí, atá déanta suas de thocsaitheoirí den chuid is mó - xéinea-daoine a ndearnadh innealtóireacht ghéiniteach orthu chun go mbeadh siad in ann maireachtáil i gceantair thruaillithe.\n\nNí bhíonn píoráidí ag plé le cúrsaí taidhleoireachta, agus is annamh go mbíonn siad ag trádáil. Tá siad tiomanta ag cultúr fuilteach ina leagtar béim ar an láidreacht agus ar an bhforéigean. Déanann siad a saibhreas trí dhaoine eile a robáil.\n\nBíonn leibhéil teicneolaíochta éagsúla ag píoráidí. Is minic go mbíonn gunnaí acu, ach is fearr le grúpaí áirithe úsáid a bhaint as sciain agus lanna.</PirateWaster.description>
+  <PirateWaster.description>TODO</PirateWaster.description>
   <!-- EN: boss -->
-  <PirateWaster.leaderTitle>ceananasaí</PirateWaster.leaderTitle>
+  <PirateWaster.leaderTitle>TODO</PirateWaster.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateWaster.messageDefendersAttacking>TODO</PirateWaster.messageDefendersAttacking>
   <!-- EN: waster -->
-  <PirateWaster.pawnSingular>tocsaitheoir</PirateWaster.pawnSingular>
+  <PirateWaster.pawnSingular>TODO</PirateWaster.pawnSingular>
   <!-- EN: wasters -->
-  <PirateWaster.pawnsPlural>tocsaitheoirí</PirateWaster.pawnsPlural>
-
+  <PirateWaster.pawnsPlural>TODO</PirateWaster.pawnsPlural>
+  
   <!-- EN: yttakin pirates -->
-  <PirateYttakin.label>píoráidí iatúiteacha</PirateYttakin.label>
+  <PirateYttakin.label>TODO</PirateYttakin.label>
   <!-- EN: A close-knit band of hulking, fur-bodied pirates of the yttakin xenotype. They refuse to deal with outsiders and are quick to call their animal warriors against those who disrespect them - or whose wealth they intend to take.\n\nOriginally engineered to populate the icy planet Yttak, yttakin now pursue their traditional lifestyle on many worlds. -->
-  <PirateYttakin.description>Grúpa an-dlúth de phíoráidí iatúiteacha - píoráidí den xéini-tíop iatúiteach, a bhfuil clúmh ar a gcraiceann.\n\nRinneadh innealtóireacht ghéiniteach ar na daoine seo fadó chun go mbeadh siad in ann maireachtáil ar an bpláinéad reoite Iatúite, agus anois leanann siad an stíl maireachtála ársa sin ar an bpláinéad seo.</PirateYttakin.description>
+  <PirateYttakin.description>TODO</PirateYttakin.description>
   <!-- EN: boss -->
-  <PirateYttakin.leaderTitle>ceannasaí</PirateYttakin.leaderTitle>
+  <PirateYttakin.leaderTitle>TODO</PirateYttakin.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <PirateYttakin.messageDefendersAttacking>TODO</PirateYttakin.messageDefendersAttacking>
   <!-- EN: yttakin -->
-  <PirateYttakin.pawnSingular>iatúiteach</PirateYttakin.pawnSingular>
+  <PirateYttakin.pawnSingular>TODO</PirateYttakin.pawnSingular>
   <!-- EN: yttakin -->
-  <PirateYttakin.pawnsPlural>iatúiteacha</PirateYttakin.pawnsPlural>
-
+  <PirateYttakin.pawnsPlural>TODO</PirateYttakin.pawnsPlural>
+  
   <!-- EN: sanguophages -->
-  <Sanguophages.label>sangafagaigh</Sanguophages.label>
+  <Sanguophages.label>TODO</Sanguophages.label>
   <!-- EN: A group of ancient sanguophages. -->
-  <Sanguophages.description>Grúpla sangafagaigh ársa.</Sanguophages.description>
+  <Sanguophages.description>TODO</Sanguophages.description>
   <!-- EN: leader -->
-  <Sanguophages.leaderTitle>ceannaire</Sanguophages.leaderTitle>
-  <Sanguophages.leaderTitleFemale>ceannaire</Sanguophages.leaderTitleFemale>
+  <Sanguophages.leaderTitle>TODO</Sanguophages.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Sanguophages.messageDefendersAttacking>TODO</Sanguophages.messageDefendersAttacking>
   <!-- EN: sanguophage -->
-  <Sanguophages.pawnSingular>sangafagach</Sanguophages.pawnSingular>
+  <Sanguophages.pawnSingular>TODO</Sanguophages.pawnSingular>
   <!-- EN: sanguophages -->
-  <Sanguophages.pawnsPlural>sangafagaigh</Sanguophages.pawnsPlural>
-
+  <Sanguophages.pawnsPlural>TODO</Sanguophages.pawnsPlural>
+  
   <!-- EN: fierce neanderthal tribe -->
-  <TribeRoughNeanderthal.label>Néandartálaigh fhíochmhara</TribeRoughNeanderthal.label>
+  <TribeRoughNeanderthal.label>TODO</TribeRoughNeanderthal.label>
   <!-- EN: An unfriendly, territorial tribe of neanderthals. They are open to peaceful trade, but are otherwise unfriendly and territorial. Warriors from their tribe won't hesitate to bash in the skulls of anyone they deem dangerous. Their numbers, and the extreme amounts of damage they absorb before falling make them serious foes despite their lack of technology and analytical ability.\n\nHaving been on this planet for countless generations, they have no memory of how they got here. They might be the descendants of a neanderthal service caste from a dead civilization, or even the leftovers from some ancient science experiment. -->
-  <TribeRoughNeanderthal.description>Treabh de Néandartálaigh míchairdiúla.\n\nBíonn siad sásta trádáil a dhéanamh, ach seachas sin bíonn siad míchairdiúil agus cosantach. Tá cónaí orthu ar an bpláinéad seo leis na mílte bliain. Níl siad cliste, ach tá siad mór agus láidir - rud a chiallaíonn go mbíonn siad an-dáinséarach má thagann fearg orthu.</TribeRoughNeanderthal.description>
+  <TribeRoughNeanderthal.description>TODO</TribeRoughNeanderthal.description>
   <!-- EN: chief -->
-  <TribeRoughNeanderthal.leaderTitle>taoiseach</TribeRoughNeanderthal.leaderTitle>
+  <TribeRoughNeanderthal.leaderTitle>TODO</TribeRoughNeanderthal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeRoughNeanderthal.messageDefendersAttacking>TODO</TribeRoughNeanderthal.messageDefendersAttacking>
   <!-- EN: neanderthal -->
-  <TribeRoughNeanderthal.pawnSingular>Néandartálach</TribeRoughNeanderthal.pawnSingular>
+  <TribeRoughNeanderthal.pawnSingular>TODO</TribeRoughNeanderthal.pawnSingular>
   <!-- EN: neanderthals -->
-  <TribeRoughNeanderthal.pawnsPlural>Néandartálaigh</TribeRoughNeanderthal.pawnsPlural>
-
+  <TribeRoughNeanderthal.pawnsPlural>TODO</TribeRoughNeanderthal.pawnsPlural>
+  
   <!-- EN: savage impid tribe -->
-  <TribeSavageImpid.label>diabhailíní barbartha</TribeSavageImpid.label>
+  <TribeSavageImpid.label>TODO</TribeSavageImpid.label>
   <!-- EN: A vicious tribe of yellow-skinned, fire-spewing impids. This particular tribe has no intention of coexisting peacefully with anyone else. Their warriors are experts at using their natural speed and flame attacks to burn the towns and children of other peoples.\n\nHaving been here for thousands of years, the origins of this tribe are lost in myth. They might descend from a group of settlers who lost their technology, or an impid community in some long-ruined civilization. -->
-  <TribeSavageImpid.description>Treabh de dhiabhailíní barbartha - is cine aisteach iad na diabhailíní a bhfuil craiceann buí orthu, a shéideann tine as a mbéal.\n\nNíl sé i gceist ag na rudaí seo maireachtáil go síochánta le haon ghrúpa eile, agus bíonn a gcuid saighdiúirí in ann bogadh ar luas lasrach agus tintí a úsáid chun lonnaíochtaí a scriosadh. Ní fios cad as a tháinig na créatúir seo.</TribeSavageImpid.description>
+  <TribeSavageImpid.description>TODO</TribeSavageImpid.description>
   <!-- EN: chief -->
-  <TribeSavageImpid.leaderTitle>taoiseach</TribeSavageImpid.leaderTitle>
+  <TribeSavageImpid.leaderTitle>TODO</TribeSavageImpid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeSavageImpid.messageDefendersAttacking>TODO</TribeSavageImpid.messageDefendersAttacking>
   <!-- EN: imp -->
-  <TribeSavageImpid.pawnSingular>diabhailín</TribeSavageImpid.pawnSingular>
+  <TribeSavageImpid.pawnSingular>TODO</TribeSavageImpid.pawnSingular>
   <!-- EN: imps -->
-  <TribeSavageImpid.pawnsPlural>diabhailín</TribeSavageImpid.pawnsPlural>
-
+  <TribeSavageImpid.pawnsPlural>TODO</TribeSavageImpid.pawnsPlural>
+  
 </LanguageData>

@@ -89,8 +89,7 @@
   <!-- EN: plant pot -->
   <PlantPot.label>pota plandaí</PlantPot.label>
   <!-- EN: Plant decorative flowers here to improve the mood of people nearby. -->
-  <PlantPot.description>Is féidir plandaí a chur anseo, 
- </PlantPot.description>
+  <PlantPot.description>Is féidir plandaí a chur anseo, \n </PlantPot.description>
   
   <!-- EN: royal bed -->
   <RoyalBed.label>leaba ríoga</RoyalBed.label>

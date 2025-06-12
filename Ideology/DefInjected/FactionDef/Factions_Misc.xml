@@ -1,59 +1,69 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: beggars -->
-  <Beggars.label>daoine bochta</Beggars.label>
+  <Beggars.label>TODO</Beggars.label>
   <!-- EN: A group of beggars seeking charity. -->
-  <Beggars.description>Daoine bochta. Tá siad sa tóir ar chúnamh.</Beggars.description>
+  <Beggars.description>TODO</Beggars.description>
   <!-- EN: leader -->
-  <Beggars.leaderTitle>ceannaire</Beggars.leaderTitle>
+  <Beggars.leaderTitle>TODO</Beggars.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Beggars.messageDefendersAttacking>TODO</Beggars.messageDefendersAttacking>
   <!-- EN: beggar -->
-  <Beggars.pawnSingular>bacach</Beggars.pawnSingular>
+  <Beggars.pawnSingular>TODO</Beggars.pawnSingular>
   <!-- EN: beggars -->
-  <Beggars.pawnsPlural>bacaigh</Beggars.pawnsPlural>
-
+  <Beggars.pawnsPlural>TODO</Beggars.pawnsPlural>
+  
   <!-- EN: cannibal pirate gang -->
-  <CannibalPirate.label>drong píoráidí canablacha</CannibalPirate.label>
+  <CannibalPirate.label>TODO</CannibalPirate.label>
   <!-- EN: A loose confederation of pirate groups who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.\n\nThis particular gang of pirates are cannibals. -->
-  <CannibalPirate.description>Cónaidhm scaoilte de phíoráidí, a d'aontaigh dul i mbun troda i gcoinne daoine eile seachas a bheith ag troid eatarthu féin.\n\nNí bhíonn píoráidí ag plé le cúrsaí taidhleoireachta, agus is annamh go mbíonn siad ag trádáil. Tá siad tiomanta ag cultúr fuilteach ina leagtar béim ar an láidreacht agus ar an neamhthrócaire. Déanann siad a saibhreas trí dhaoine eile a robáil.\n\nBíonn leibheil teicneolaíochta éagsúla ag píoráidí. Is minic go mbíonn gunnaí acu, ach is fearr le cuid eile úsáid a bhaint as sciain agus lanna.\n\nIs canablaigh iad na píoráidí áirithe seo.</CannibalPirate.description>
+  <CannibalPirate.description>TODO</CannibalPirate.description>
   <!-- EN: boss -->
-  <CannibalPirate.leaderTitle>ceannaire</CannibalPirate.leaderTitle>
+  <CannibalPirate.leaderTitle>TODO</CannibalPirate.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <CannibalPirate.messageDefendersAttacking>TODO</CannibalPirate.messageDefendersAttacking>
   <!-- EN: pirate -->
-  <CannibalPirate.pawnSingular>píoraid</CannibalPirate.pawnSingular>
+  <CannibalPirate.pawnSingular>TODO</CannibalPirate.pawnSingular>
   <!-- EN: pirates -->
-  <CannibalPirate.pawnsPlural>píoraidí</CannibalPirate.pawnsPlural>
-
+  <CannibalPirate.pawnsPlural>TODO</CannibalPirate.pawnsPlural>
+  
   <!-- EN: nudist tribe -->
-  <NudistTribe.label>treabh nochtach</NudistTribe.label>
+  <NudistTribe.label>TODO</NudistTribe.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular tribe believes that covering one's body is wrong. -->
-  <NudistTribe.description>Tá na daoine seo ag maireachtáil anseo leis na mílte bliain. Ní fios ar tháinig a sinsir chuig an bpláinéad seo i spáslong, nó ar scrios olltubaiste éigin an tsibhialtacht a bhí acu fadó. Cibé scéal, is daoine fánaíochta iad; saothraíonn siad a mbeatha as an nádúr agus úsáideann siad uirlisí agus airm shimplí.\n\nCé nach bhfuil bua na teicneolaíochta acu, féadfaidh na treabhanna a bheith ina gcairde luachmhara nó ina naimhde fíochmhara. Tá go leor díobh ann, agus tá siad crua.\n\nTá an treabh seo séimh agus síochánta, den chuid is mó. Ní miste leo trádáil le stráinséirí, nó caidreamh a dhéanamh leo.\n\nNí chaitheann an treabh áirithe seo aon éadaí.</NudistTribe.description>
+  <NudistTribe.description>TODO</NudistTribe.description>
   <!-- EN: chief -->
-  <NudistTribe.leaderTitle>taoiseach</NudistTribe.leaderTitle>
+  <NudistTribe.leaderTitle>TODO</NudistTribe.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <NudistTribe.messageDefendersAttacking>TODO</NudistTribe.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <NudistTribe.pawnSingular>treabhaí</NudistTribe.pawnSingular>
+  <NudistTribe.pawnSingular>TODO</NudistTribe.pawnSingular>
   <!-- EN: tribespeople -->
-  <NudistTribe.pawnsPlural>treabhaithe</NudistTribe.pawnsPlural>
-
+  <NudistTribe.pawnsPlural>TODO</NudistTribe.pawnsPlural>
+  
   <!-- EN: pilgrims -->
-  <Pilgrims.label>oilithrigh</Pilgrims.label>
+  <Pilgrims.label>TODO</Pilgrims.label>
   <!-- EN: A group of pilgrims seeking to venerate an ancient relic. -->
-  <Pilgrims.description>Oilithrigh atá ag iarraidh ómós a thabhairt do sheaniarsma ársa.</Pilgrims.description>
+  <Pilgrims.description>TODO</Pilgrims.description>
   <!-- EN: leader -->
-  <Pilgrims.leaderTitle>ceannaire</Pilgrims.leaderTitle>
+  <Pilgrims.leaderTitle>TODO</Pilgrims.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Pilgrims.messageDefendersAttacking>TODO</Pilgrims.messageDefendersAttacking>
   <!-- EN: pilgrim -->
-  <Pilgrims.pawnSingular>oilithreach</Pilgrims.pawnSingular>
+  <Pilgrims.pawnSingular>TODO</Pilgrims.pawnSingular>
   <!-- EN: pilgrims -->
-  <Pilgrims.pawnsPlural>oilithrigh</Pilgrims.pawnsPlural>
-
+  <Pilgrims.pawnsPlural>TODO</Pilgrims.pawnsPlural>
+  
   <!-- EN: cannibal tribe -->
-  <TribeCannibal.label>treabh canablach</TribeCannibal.label>
+  <TribeCannibal.label>TODO</TribeCannibal.label>
   <!-- EN: These people have been here a very long time. Maybe their ancestors crashed here a thousand years ago. Maybe they survived some cataclysm that destroyed a technological civilization here. In any case, the tribals are mostly nomadic people who live off the land using primitive tools and weapons.\n\nDespite their apparent technological weakness, the tribals can be dangerous enemies because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particularly vicious tribe believes eating the flesh of their enemies is a great honor. -->
-  <TribeCannibal.description>Tá na daoine seo ag maireachtáil anseo leis na mílte bliain. Ní fios ar tháinig a sinsir chuig an bpláinéad seo i spáslong, nó ar scrios olltubaiste éigin an tsibhialtacht a bhí acu fadó. Cibé scéal, is daoine fánaíochta iad; saothraíonn siad a mbeatha as an nádúr agus úsáideann siad uirlisí agus airm shimplí.\n\nCé nach bhfuil bua na teicneolaíochta acu, féadfaidh na treabhanna a bheith ina gcairde luachmhara nó ina naimhde fíochmhara. Tá go leor díobh ann, agus tá siad crua.\n\nTá an treabh seo séimh agus síochánta, den chuid is mó. Ní miste leo trádáil le stráinséirí, nó caidreamh a dhéanamh leo.\n\nIs canablaigh iad na treabhaithe áirithe seo.</TribeCannibal.description>
+  <TribeCannibal.description>TODO</TribeCannibal.description>
   <!-- EN: chief -->
-  <TribeCannibal.leaderTitle>taoiseach</TribeCannibal.leaderTitle>
+  <TribeCannibal.leaderTitle>TODO</TribeCannibal.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <TribeCannibal.messageDefendersAttacking>TODO</TribeCannibal.messageDefendersAttacking>
   <!-- EN: tribesman -->
-  <TribeCannibal.pawnSingular>treabhaí</TribeCannibal.pawnSingular>
+  <TribeCannibal.pawnSingular>TODO</TribeCannibal.pawnSingular>
   <!-- EN: tribespeople -->
-  <TribeCannibal.pawnsPlural>treabhaithe</TribeCannibal.pawnsPlural>
-
+  <TribeCannibal.pawnsPlural>TODO</TribeCannibal.pawnsPlural>
+  
 </LanguageData>

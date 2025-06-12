@@ -3,7 +3,7 @@
   
   <!-- EN:
     <li>r_name->[celestial_name]</li>
-    <li>r_name->[celestial_prefix]-[celestial_name]</li>
+    <li>r_name->[celestial_prefix] [celestial_name]</li>
     <li>r_name->[celestial_name] [celestial_suffix]</li>
     <li>r_name->[world_name_numeric]</li>
     <li>r_name->[world_name_numeric] [celestial_suffix]</li>
@@ -38,6 +38,6 @@
     <li>numbers->[Digit]</li>
     <li>numbers->[Digit][Digit]</li>
     <li>numbers->[Digit][Digit][Digit]</li>
- </NamerWorld.rulePack.rulesStrings>
+  </NamerWorld.rulePack.rulesStrings>
   
 </LanguageData>

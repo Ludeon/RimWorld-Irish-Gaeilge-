@@ -105,6 +105,8 @@
   <RitualDisabledNoAltar> pas d'autel accessible.</RitualDisabledNoAltar>
   <!-- EN: Bestowing Ceremony -->
   <RitualBestowingCeremony>Cérémonie de promotion</RitualBestowingCeremony>
+  <!-- EN: No suitable location near bestower -->
+  <BestowingSpotUnavailable>TODO</BestowingSpotUnavailable>
 
   <!-- EN: Total meditation today: {0} (progress multiplier {1}) -->
   <TotalMeditationToday>Méditation totale d'aujourd'hui : {0} (multiplicateur de progression {1})</TotalMeditationToday>

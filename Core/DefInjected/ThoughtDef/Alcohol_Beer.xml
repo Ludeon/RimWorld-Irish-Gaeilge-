@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
- <!-- EN: alcohol withdrawal -->
+  <!-- EN: alcohol withdrawal -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.label>éirí as (alcól)</AlcoholWithdrawal.stages.alcohol_withdrawal.label>
   <!-- EN: Feeling shaky. Everything pisses me off. I keep thinking of drinking. -->
   <AlcoholWithdrawal.stages.alcohol_withdrawal.description>Tá mé ag croitheadh. Tá gach rud ag cur isteach orm. Ní fhéadfaidh mé smaoineamh ar rud ar bith eile seachas alcól.</AlcoholWithdrawal.stages.alcohol_withdrawal.description>

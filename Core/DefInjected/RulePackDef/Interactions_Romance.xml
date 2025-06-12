@@ -4,17 +4,23 @@
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] agreed and the two are now engaged.</li>
   -->
-  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings><li>sent->Ghlac [RECIPIENT_nameDef] leis an gceiliúr pósta agus tá siad geallta anois.</li></Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+  <Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
+    <li>sent->Ghlac [RECIPIENT_nameDef] leis an gceiliúr pósta agus tá siad geallta anois.</li>
+  </Sentence_MarriageProposalAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the proposal.</li>
   -->
-  <Sentence_MarriageProposalRejected.rulePack.rulesStrings><li>sent->Níor ghlac [RECIPIENT_nameDef] leis an gceiliúr pósta.</li></Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+  <Sentence_MarriageProposalRejected.rulePack.rulesStrings>
+    <li>sent->Níor ghlac [RECIPIENT_nameDef] leis an gceiliúr pósta.</li>
+  </Sentence_MarriageProposalRejected.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->It was too much for the relationship to continue, and the two have now broken up.</li>
   -->
-  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings><li>sent->Níorbh fhéidir leanúint leis an gcaidreamh, agus tá siad scartha anois.</li></Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+  <Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
+    <li>sent->Níorbh fhéidir leanúint leis an gcaidreamh, agus tá siad scartha anois.</li>
+  </Sentence_MarriageProposalRejectedBrokeUp.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] was attracted and is now [INITIATOR_nameDef]'s lover.</li>
@@ -24,7 +30,7 @@
   <Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
     <li>sent->Tá [RECIPIENT_nameDef] ag siúl amach le [INITIATOR_nameDef] anois.</li>
     <li>sent->Tá [RECIPIENT_nameDef] ag dul le [INITIATOR_nameDef] anois.</li>
-   </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
+  </Sentence_RomanceAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] rejected the advance.</li>
@@ -40,6 +46,7 @@
     <li>sent->Níor thug [RECIPIENT_nameDef] aon aird ar [INITIATOR_nameDef].</li>
     <li>sent->Dhiúltaigh [RECIPIENT_nameDef] le [INITIATOR_nameDef].</li>
     <li>sent->Níor thug [RECIPIENT_nameDef] aon fhreagra.</li>
-    <li>sent->Dhiúltaigh [RECIPIENT_nameDef] le [INITIATOR_objective].</li></Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
+    <li>sent->Dhiúltaigh [RECIPIENT_nameDef] le [INITIATOR_objective].</li>
+  </Sentence_RomanceAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

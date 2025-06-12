@@ -1,29 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
-  <!-- Removed the definite article "an" here completely to avoid errors in in-game logs, not sure if this causes issues elsewhere.-->
-
   <!-- EN: a -->
-  <IndefiniteArticle></IndefiniteArticle>
+  <IndefiniteArticle />
   <!-- EN: the -->
-  <DefiniteArticle></DefiniteArticle>
+  <DefiniteArticle />
   <!-- EN: a {0} -->
-  <IndefiniteForm></IndefiniteForm>
+  <IndefiniteForm />
   <!-- EN: the {0} -->
-  <DefiniteForm></DefiniteForm>
+  <DefiniteForm />
 
   <!-- EN: its -->
   <Proits>h</Proits>
   <!-- EN: his -->
   <Prohis>h</Prohis>
   <!-- EN: her -->
-  <Proher></Proher>
+  <Proher />
   <!-- EN: Its -->
   <ProitsCap>A</ProitsCap>
   <!-- EN: His -->
   <ProhisCap>h</ProhisCap>
   <!-- EN: Her -->
-  <ProherCap></ProherCap>
+  <ProherCap />
 
   <!-- EN: it -->
   <ProitObj>é</ProitObj>
@@ -57,7 +55,7 @@
   <ProSheNoun>bean</ProSheNoun>
   <!-- EN: person -->
   <ProItNoun>duine</ProItNoun>
-
+  
   <!-- EN: {0} and {1}. -->
   <ClauseSequence2>{0} agus {1}</ClauseSequence2>
   <!-- EN: {0}. Also, {1} and {2}. -->

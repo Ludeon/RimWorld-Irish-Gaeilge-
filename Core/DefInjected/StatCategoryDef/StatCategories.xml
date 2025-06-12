@@ -7,6 +7,9 @@
   <!-- EN: animal productivity -->
   <AnimalProductivity.label>Táirgeacht</AnimalProductivity.label>
   
+  <!-- EN: animal -->
+  <Animals.label>TODO</Animals.label>
+  
   <!-- EN: Apparel -->
   <Apparel.label>Éadaí</Apparel.label>
   
@@ -58,8 +61,20 @@
   <!-- EN: Combat -->
   <PawnCombat.label>Comhrac</PawnCombat.label>
   
+  <!-- EN: Food -->
+  <PawnFood.label>TODO</PawnFood.label>
+  
+  <!-- EN: Health -->
+  <PawnHealth.label>TODO</PawnHealth.label>
+  
   <!-- EN: Misc -->
   <PawnMisc.label>Misc</PawnMisc.label>
+  
+  <!-- EN: Psyfocus -->
+  <PawnPsyfocus.label>TODO</PawnPsyfocus.label>
+  
+  <!-- EN: Resistances and sensitivities -->
+  <PawnResistances.label>TODO</PawnResistances.label>
   
   <!-- EN: Social -->
   <PawnSocial.label>Sóisialta</PawnSocial.label>

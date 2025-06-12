@@ -2,45 +2,41 @@
 <LanguageData>
   
   <!-- EN: baby decoration -->
-  <BabyDecoration.label>Baby-Deko</BabyDecoration.label>
+  <BabyDecoration.label>TODO</BabyDecoration.label>
   <!-- EN: A decoration for babies. Baby decorations increase the rate at which babies fill their play need when an adult plays with them. Place these around your child play areas. -->
-  <BabyDecoration.description>Eine Dekoration für Babys. Beschleunigt die Stillung des Spieldrangs von Babys, wenn ein Erwachsener mit ihnen spielt. Platziere mehrere davon auf deinem Spielplatz.</BabyDecoration.description>
+  <BabyDecoration.description>TODO</BabyDecoration.description>
   
   <!-- EN: baby sleeping spot -->
-  <BabySleepingSpot.label>Baby-Schlafplatz</BabySleepingSpot.label>
+  <BabySleepingSpot.label>TODO</BabySleepingSpot.label>
   <!-- EN: Designates a spot on the ground where people should leave a baby. Not comfortable. -->
-  <BabySleepingSpot.description>Kennzeichnet einen Platz auf dem Boden, auf dem ein Baby abgelegt werden soll. Unbequem.</BabySleepingSpot.description>
+  <BabySleepingSpot.description>TODO</BabySleepingSpot.description>
   
   <!-- EN: blackboard -->
-  <Blackboard.label>clár dubh</Blackboard.label>
+  <Blackboard.label>TODO</Blackboard.label>
   <!-- EN: A flat stone-like surface for writing on with chalk. Placed near a lesson desk, blackboards increase childrens' learning rate during lessons. Up to three blackboards can be used at a time. -->
-  <Blackboard.description>Is féidir scríobh ar an gclár dubh le cailc. Má chuirtear an clár dubh taobh le bord ranga, foghlaimeoidh leanaí níos tapúla. Is féidir suas le trí chlár dubh a chur i seomra ranga amháin.</Blackboard.description>
+  <Blackboard.description>TODO</Blackboard.description>
   <!-- EN: Learning rate -->
-  <Blackboard.comps.CompInspectStringBlackboard.inspectString>ráta foghlama</Blackboard.comps.CompInspectStringBlackboard.inspectString>
-  
-  <!-- UNUSED -->
-  <Blackboard.comps.CompStatEntry.reportText>Wenn dieses Bauwerk in der Nähe eines Schultisches platziert wird, an dem gerade unterrichtet wird, steigert es die Lernrate der Schüler. Dieser Effekt ist bis zu dreimal stapelbar.</Blackboard.comps.CompStatEntry.reportText>
-  <Blackboard.comps.CompStatEntry.statLabel>Lernratebonus</Blackboard.comps.CompStatEntry.statLabel>
+  <Blackboard.comps.CompInspectStringBlackboard.inspectString>TODO</Blackboard.comps.CompInspectStringBlackboard.inspectString>
   
   <!-- EN: crib -->
-  <Crib.label>cliabhán</Crib.label>
+  <Crib.label>TODO</Crib.label>
   <!-- EN: A cozy bed with safe latticed sides, perfect for a sleepy baby. A high quality crib will make a baby happy. Multiple cribs can be placed in a bedroom without turning it into a barracks. -->
-  <Crib.description>Cliabhán compordach, ina bhféadfaidh leanaí ÓGA dul ina gcodladh. Is féidir níos mó ná cliabhán a chur sa seomra céanna gan bheairic a dheánamh de.</Crib.description>
+  <Crib.description>TODO</Crib.description>
   
   <!-- EN: school desk -->
-  <SchoolDesk.label>bord scoile</SchoolDesk.label>
+  <SchoolDesk.label>TODO</SchoolDesk.label>
   <!-- EN: A desk where adults can teach lessons to children. -->
-  <SchoolDesk.description>Úsáidtear an bord seo chun ranganna a dhéanamh le leanaí.</SchoolDesk.description>
+  <SchoolDesk.description>TODO</SchoolDesk.description>
   <!-- EN: A multiplier on how quickly children learn during lessons which are assisted by this. -->
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>A multiplier on how quickly children learn during lessons which are assisted by this.</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>TODO</SchoolDesk.comps.CompStatEntrySchoolDesk.reportText>
   <!-- EN: Learning rate bonus -->
-  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>ráta foghlama</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
+  <SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>TODO</SchoolDesk.comps.CompStatEntrySchoolDesk.statLabel>
   <!-- EN: Learning rate bonus -->
-  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>ráta foghlama</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
+  <SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>TODO</SchoolDesk.comps.CompInspectStringSchooldesk.inspectString>
   
   <!-- EN: toy box -->
-  <ToyBox.label>bosca bréagán</ToyBox.label>
+  <ToyBox.label>TODO</ToyBox.label>
   <!-- EN: A toy box containing many small toys. Toy boxes can be used to play with babies, satisfying their need for play. -->
-  <ToyBox.description>Bosca ina bhfuil bréagáin éagsúla. Is féidir le leanaí súgradh le bréagáin, chun a gcuid riachtanais a chomhlíonadh.</ToyBox.description>
+  <ToyBox.description>TODO</ToyBox.description>
   
 </LanguageData>

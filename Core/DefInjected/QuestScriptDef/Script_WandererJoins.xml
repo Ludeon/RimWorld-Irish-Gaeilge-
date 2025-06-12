@@ -6,10 +6,13 @@
   -->
   <WandererJoins.questDescriptionRules.rulesStrings>
     <li>questDescription-></li>
- </WandererJoins.questDescriptionRules.rulesStrings>
+  </WandererJoins.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Wanderer joins</li>
   -->
+  <WandererJoins.questNameRules.rulesStrings>Tháinig fánaí isteach sa choilíneacht</WandererJoins.questNameRules.rulesStrings>
+  
+  <!-- UNUSED -->
   <WandererJoins.questNameRules.rulesStrings>Tháinig fánaí isteach sa choilíneacht</WandererJoins.questNameRules.rulesStrings>
   
 </LanguageData>

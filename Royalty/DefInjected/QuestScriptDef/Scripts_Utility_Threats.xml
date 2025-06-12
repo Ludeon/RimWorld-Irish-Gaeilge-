@@ -6,21 +6,21 @@
   -->
   <Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
     <li>threatDescription->[gameConditionDescriptionFuture].</li>
- </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
+  </Util_GameConditionNegativeRandom.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->(*Threat)[hivesCount] insect hives(/Threat) will burrow up from underground.</li>
   -->
   <Util_Infestation.questDescriptionRules.rulesStrings>
     <li>threatDescription->(*Threat)[hivesCount] insectes d'une ruche(/Threat) creuseront sous terre.</li>
- </Util_Infestation.questDescriptionRules.rulesStrings>
+  </Util_Infestation.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->a pack of (*Threat)[animalCount] manhunting [animalKind_labelPlural](/Threat) will arrive.</li>
   -->
   <Util_ManhunterPack.questDescriptionRules.rulesStrings>
     <li>threatDescription->une horde de (*Threat)[animalCount] [animalKind_labelPlural](/Threat) pourchassant les hommes est en chemin.</li>
- </Util_ManhunterPack.questDescriptionRules.rulesStrings>
+  </Util_ManhunterPack.questDescriptionRules.rulesStrings>
   
   <!-- EN:
     <li>threatDescription->a new site will appear nearby, where [allSitePartsDescriptions] This threat will remain until you go destroy it.</li>
@@ -31,6 +31,6 @@
     <li>threatDescription->un nouveau site apparaîtra à proximité, où [allSitePartsDescriptions] Cette menace restera là jusqu'à ce que vous la detruisiez.</li>
     <li>defaultSiteAppearedLetterText->Un nouveau site est apparu à proximité.\n\n[allSitePartsDescriptions]</li>
     <li>defaultSiteAppearedLetterLabel->Le site est apparu : [site_label]</li>
- </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
+  </Util_SpawnSiteThreat.questDescriptionRules.rulesStrings>
   
 </LanguageData>

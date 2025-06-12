@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
- <!-- EN: tantrum -->
+  <!-- EN: tantrum -->
   <BedroomTantrum.label>racht feirge</BedroomTantrum.label>
   <!-- EN: Mental state: Tantrum -->
   <BedroomTantrum.baseInspectLine>Cliseadh néarógach: racht feirge</BedroomTantrum.baseInspectLine>
@@ -18,6 +18,15 @@
   <Berserk.beginLetter>Tá {0} ar mire.\n\nIonsóidh [PAWN_pronoun] aon duine a fheiceann [PAWN_pronoun].</Berserk.beginLetter>
   <!-- EN: {0}'s berserk rage has come to an end. -->
   <Berserk.recoveryMessage>Níl {0} ar mire níos mó.</Berserk.recoveryMessage>
+  
+  <!-- EN: berserk -->
+  <BerserkPermanent.label>TODO</BerserkPermanent.label>
+  <!-- EN: Mental state: Berserk -->
+  <BerserkPermanent.baseInspectLine>TODO</BerserkPermanent.baseInspectLine>
+  <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
+  <BerserkPermanent.beginLetter>TODO</BerserkPermanent.beginLetter>
+  <!-- EN: {0}'s berserk rage has come to an end. -->
+  <BerserkPermanent.recoveryMessage>TODO</BerserkPermanent.recoveryMessage>
   
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>ragús drugaí</Binging_DrugExtreme.label>

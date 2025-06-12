@@ -39,6 +39,8 @@
   <MessageVisitorsDangerousTemperature>Tá cuairteoirí ón bhfaicsean '{1}' ag imeacht mar gheall ar theocht dáinséarach.</MessageVisitorsDangerousTemperature>
   <!-- EN: {0} from {1} are leaving the map because of dangerous weather. -->
   <MessageVisitorsAnomalousWeather>Tá cuairteoirí ón bhfaicsean '{1}' ag imeacht ón léarscáil mar gheall ar aimsir dháinséarach.</MessageVisitorsAnomalousWeather>
+  <!-- EN: {0} from {1} are leaving the map because of dangerous conditions. -->
+  <MessageVisitorsDangerousConditions>TODO</MessageVisitorsDangerousConditions>
 
   <!-- EN: {0} worn by {1_nameFull} deteriorated away to nothing. -->
   <MessageWornApparelDeterioratedAway>Bhí na héadaí ({0}) a bhí á gcaitheamh ag {1_nameFull} iomlan caite.</MessageWornApparelDeterioratedAway>
@@ -79,6 +81,10 @@
   <MessageAnimalManhuntsOnTameFailed>Rabhadh: Tá baol ann go n-ionsóidh {ANIMAL_kindBasePlural} má dhéantar an iomarca iarrachtaí iad a cheansú (Dóchúlacht: {1}).</MessageAnimalManhuntsOnTameFailed>
   <!-- EN: Only those with the insect sympathy trait can tame {INSECT_indefinite}. -->
   <MessageInsectTameDesignated>Tá an tréith 'bá le feithidí' de dhíth chun {INSECT_indefinite} a cheansú.</MessageInsectTameDesignated>
+  <!-- EN: No colonists are assigned to hunt. -->
+  <MessageNoHuntersAvailable>TODO</MessageNoHuntersAvailable>
+  <!-- EN: No hunter has a valid hunting weapon. Equip a hunter with a suitable ranged weapon. -->
+  <MessageNoHuntersWithProperWeapon>TODO</MessageNoHuntersWithProperWeapon>
 
   <!-- EN: Warning: The {PAWN_labelShort} is hostile and will attack while your colonist tries to tame it. -->
   <MessageInsectsHostileOnTaming>Rabhadh: Tá {PAWN_kindBaseDef} naimhdeach agus ionsóidh sé do choilíneach.</MessageInsectsHostileOnTaming>
@@ -108,6 +114,8 @@
   <MessageMustDesignateHarvestable>Ní mór plandaí fásta, ar féidir iad a bhaint, a roghnú.</MessageMustDesignateHarvestable>
   <!-- EN: Must designate wood-yielding, sufficiently-grown plants. -->
   <MessageMustDesignateHarvestableWood>Ní féidir plandaí fásta, ar féidir admhad a bhaint uathu, a roghnú.</MessageMustDesignateHarvestableWood>
+  <!-- EN: Prevent cutting is enabled for this plant. -->
+  <MessageMustPlantCuttingForbidden>TODO</MessageMustPlantCuttingForbidden>
   <!-- EN: Must designate plants. -->
   <MessageMustDesignatePlants>Ní mór plandaí a roghnú.</MessageMustDesignatePlants>
   <!-- EN: Must designate haulable items. Some items are always haulable and can't be designated. -->
@@ -149,9 +157,15 @@
   <!-- EN: Must designate forbidden items. -->
   <MessageMustDesignateUnforbiddable>Ní mór earraí dícheadaithe a roghnú.</MessageMustDesignateUnforbiddable>
   <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
-  <MessageCannotClaimWhenThreatsAreNear>Ní féidir {CLAIMABLE_labelShort} a ghlacadh faoi láthair, toisc go bhfuil naimde sa cheantar.</MessageCannotClaimWhenThreatsAreNear>
+  <MessageCannotClaimWhenPawnThreatsAreNear>TODO</MessageCannotClaimWhenPawnThreatsAreNear>
   <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there are combat-capable {THREAT_factionPawnsPlural} nearby. -->
+  <MessageCannotAdoptWhilePawnThreatsAreNear>TODO</MessageCannotAdoptWhilePawnThreatsAreNear>
+  <!-- EN: Cannot claim {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
+  <MessageCannotClaimWhenThreatsAreNear>Ní féidir {CLAIMABLE_labelShort} a ghlacadh faoi láthair, toisc go bhfuil naimde sa cheantar.</MessageCannotClaimWhenThreatsAreNear>
+  <!-- EN: Cannot adopt {CLAIMABLE_labelShort} while there is {THREAT} nearby. -->
   <MessageCannotAdoptWhileThreatsAreNear>Ní féidir {CLAIMABLE_labelShort} a uchtú faoi láthair, toisc go bhfuil naimde sa cheantar.</MessageCannotAdoptWhileThreatsAreNear>
+  <!-- EN: Cannot remove foundation that supports a building. -->
+  <MessageCannotRemoveSupportingFoundation>TODO</MessageCannotRemoveSupportingFoundation>
 
   <!-- EN: {1_labelShort} has refused to be arrested! -->
   <MessageRefusedArrest>Dhiúltaigh {1_labelShort} géilleadh!</MessageRefusedArrest>
@@ -279,6 +293,8 @@
   <MessagePawnLostWhileFormingCaravan>Baineadh {0} ón gcarbhán.</MessagePawnLostWhileFormingCaravan>
   <!-- EN: The caravan formation process has been terminated. -->
   <MessagePawnLostWhileFormingCaravan_AllLost>Cuireadh deireadh leis an gcarbhán a chruthú.</MessagePawnLostWhileFormingCaravan_AllLost>
+  <!-- EN: No colonist capable of forming caravan. The caravan formation process has been terminated. -->
+  <MessageForceSendingCaravan_AllLost>TODO</MessageForceSendingCaravan_AllLost> <!-- text_todo -->
   <!-- EN: The caravan formation process will continue when everyone recovers from their mental break. -->
   <MessageCaravanFormationPaused>Ní féidir an carbhán a chruthú má tá cliseadh néarógach ar do choilínigh uile.</MessageCaravanFormationPaused>
   <!-- EN: Your colonists will now continue forming a caravan. -->
@@ -340,9 +356,11 @@
   
   <!-- EN: Assigned items and people will now be loaded into the transport pods. -->
   <MessageTransportersLoadingProcessStarted>Lódálfar na hearraí agus na daoine roghnaithe isteach sna podanna iompair.</MessageTransportersLoadingProcessStarted>
-  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
+  <!-- EN: Assigned items and people will now be loaded into the transport pod. -->
   <MessageTransporterSingleLoadingProcessStarted>Lódálfar na hearraí agus na daoine roghnaithe isteach sa thionteálaí.</MessageTransporterSingleLoadingProcessStarted>
-  
+  <!-- EN: Assigned items and people will now be loaded into the shuttle. -->
+  <MessageShuttleLoadingProcessStarted>TODO</MessageShuttleLoadingProcessStarted> <!-- text_todo -->
+
   <!-- EN: Your transport pods have arrived. -->
   <MessageTransportPodsArrived>Tá ceann scríbe bainte amach ag do phodanna iompair.</MessageTransportPodsArrived>
   <!-- EN: Your transport pods have arrived, but since there were no colonists inside, the contents are lost. -->
@@ -353,15 +371,23 @@
   <!-- EN: Transport pod loading complete. Launch when ready. -->
   <MessageFinishedLoadingTransporters>Tá na podanna iompair lódáilte. Is féidir iad a leainseáil nuair a bheidh tú réidh.</MessageFinishedLoadingTransporters>
   <!-- EN: Shuttle is loaded with required cargo and can launch when ready. -->
-  <MessageFinishedLoadingTransporterSingle>Tá an tointeálaí lódáilte. Is féidir é a leainseáil nuair a bheidh tú réidh.</MessageFinishedLoadingTransporterSingle>
+  <MessageFinishedLoadingShuttle>TODO</MessageFinishedLoadingShuttle> <!-- text_todo -->
 
   <!-- EN: Your {1} can't finish loading the transport pods because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoTransporters>Ní féidir leanúint leis na podanna iompair a lódáil, toisc nach bhfuil roinnt earraí nó daoine ar fáil a thuilleadh ({2_labelShort}).</MessageCantLoadMoreIntoTransporters>
+  <!-- EN: Your {1} can't finish loading the shuttle because some items or people became unavailable ({2_labelShort}). -->
+  <MessageCantLoadMoreIntoShuttle>TODO</MessageCantLoadMoreIntoShuttle> <!-- text_todo -->
   <!-- EN: Your {1} can't finish entering the {0} because some items or people became unavailable ({2_labelShort}). -->
   <MessageCantLoadMoreIntoPortal>{0}: Ní féidir dul isteach níos mó, toisc nach bhfuil roinnt earraí nó daoine ar fáil a thuilleadh ({2_labelShort}).</MessageCantLoadMoreIntoPortal>
   
   <!-- EN: Selected destination is invalid. -->
   <MessageTransportPodsDestinationIsInvalid>Níl an ceann scríbe seo bailí.</MessageTransportPodsDestinationIsInvalid>
+  <!-- EN: Destination is reserved by {0}. -->
+  <MessageTransportPodsDestinationReservedBy>TODO</MessageTransportPodsDestinationReservedBy> <!-- text_todo -->
+  <!-- EN: Destination is reserved. -->
+  <MessageTransportPodsDestinationReserved>TODO</MessageTransportPodsDestinationReserved> <!-- text_todo -->
+  <!-- EN: {OBJECT_labelCap} is not a valid destination. -->
+  <MessageWorldObjectIsInvalid>TODO</MessageWorldObjectIsInvalid> <!-- text_todo -->
   <!-- EN: Each pod launcher would need at least {0}x chemfuel to send transport pods that far. -->
   <MessageTransportPodsDestinationIsTooFar>Chun na podanna a sheoladh chomh fada sin, bheadh ar a laghad {0}x ceimi-peitreal de dhíth ar gach pod iompair.</MessageTransportPodsDestinationIsTooFar>
   
@@ -784,6 +810,10 @@
   <CannotPlantThing>Ní féidir {0_labelShort} a chur</CannotPlantThing>
   <!-- EN: Need more fertile terrain. -->
   <MessageWarningNotEnoughFertility>Níl an talamh torthúil go leor.</MessageWarningNotEnoughFertility>
+  <!-- EN: Temperature too extreme. -->
+  <CannotPlantExtremeTemp>TODO</CannotPlantExtremeTemp>
+  <!-- EN: Plants cannot grow on this terrain. -->
+  <CannotPlantMissingTerrainTag>TODO</CannotPlantMissingTerrainTag>
   <!-- EN: blocked by {0_label}. -->
   <BlockedBy>blocáilte ag {0_label}.</BlockedBy>
   <!-- EN: Cannot be planted next to {0_label}. -->
@@ -792,6 +822,8 @@
   <TooCloseToOtherPlant>Tá sé roghar do '{0_label}'.</TooCloseToOtherPlant>
   <!-- EN: Too close to {0}'s planting location. -->
   <TooCloseToOtherSeedPlantCell>Tá sé roghar do '{0}'.</TooCloseToOtherSeedPlantCell>
+  <!-- EN: Cannot be placed on {0}. -->
+  <MessageCannotBePlacedOn>TODO</MessageCannotBePlacedOn>
 
   <!-- EN: Warning: {0} has been marked for cutting. -->
   <MessageWarningCutImportantPlant>Rabhadh: Tá {0} le gearradh.</MessageWarningCutImportantPlant>
@@ -823,8 +855,24 @@
 
   <!-- EN: Cannot skip: Refugee -->
   <MessageLodgersCantFarskip>Ní féidir leis an duine seo teileapórtáil: Teifeach</MessageLodgersCantFarskip>
+  
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out for {DURATION}. -->
+  <MessageHackerLockedOut>TODO</MessageHackerLockedOut>
+  <!-- EN: {HACKER_nameDef}'s hacking has been detected. {HACKER_pronoun} has been locked out permanently. -->
+  <MessageHackerLockedOutPermanently>TODO</MessageHackerLockedOutPermanently>
+  <!-- EN: {0_labelShort} can be hacked again. -->
+  <MessageHackableUnlocked>TODO</MessageHackableUnlocked>
+
+  <!-- EN: Cannot call shuttle -->
+  <CannotCallShuttle>Impossible d'appeler la navette</CannotCallShuttle>
+  <!-- EN: The shuttle has arrived. -->
+  <MessageShuttleArrived>La navette est arrivée.</MessageShuttleArrived>
+
+  <!-- EN: Warning: {THING_labelCap} will not function in this biome -->
+  <MessageGroundPenetratingScannerNoBedrock>TODO</MessageGroundPenetratingScannerNoBedrock> <!-- text_todo -->
 
   <!-- UNUSED -->
+  <MessageFinishedLoadingTransporterSingle>Tá an tointeálaí lódáilte. Is féidir é a leainseáil nuair a bheidh tú réidh.</MessageFinishedLoadingTransporterSingle>
   <MessageRitualNeedsAtLeastOneRolePawn>Du brauchst 1 {0}.</MessageRitualNeedsAtLeastOneRolePawn>
   <MessageRitualNeedsAtLeastNumRolePawn>Du brauchst mindestens {1} {0}.</MessageRitualNeedsAtLeastNumRolePawn>
 

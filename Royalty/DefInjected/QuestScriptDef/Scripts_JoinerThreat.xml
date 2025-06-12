@@ -46,7 +46,7 @@
     <li>condDesc(gameCondition==PsychicSuppression)->Si [joiner_pronoun] vous rejoint, l'IA frappera [map_definite] pendant [gameConditionDuration_duration] avec des ondes de suppression psychique, réduisant la conscience de tous les colons [psychicSuppressorGender]s.</li>
     <li>introduction(childCount==1,priority=1)->Un enfant de [joiner_age] ans</li>
     <li>introduction->[joiner_titleIndef] de [joiner_age] ans</li>
- </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_GameCondition_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [gameCondition_label]</li>
     <li>questName->[joiner_nameDef] and the [gameCondition_label]</li>
@@ -56,7 +56,7 @@
     <li>questName->[gameCondition_definite] de [joiner_nameDef]</li>
     <li>questName->[joiner_nameDef] et [gameCondition_definite]</li>
     <li>questName->[gameCondition_definite] et [joiner_nameDef]</li>
- </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_GameCondition_Joiner.questNameRules.rulesStrings>
   
   <!-- EN:
     <li>questDescription->[introduction] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] says [joiner_pronoun] poisoned an underground insect colony, but now [joiner_pronoun] is soaked in insect pheromones and the bugs are hunting [joiner_objective]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, (*Threat)an infestation of [hivesCount] hives(/Threat) will begin in [infestationDelayTicks_duration].\n\n[joiner_nameDef] is too frantic to offer more information.</li>
@@ -76,7 +76,7 @@
     <li>joiner_soaked(joiner_gender==None)->imbibé</li>
     <li>introduction(childCount==1,priority=1)->Un enfant de [joiner_age] ans</li>
     <li>introduction->[joiner_titleIndef] de [joiner_age] ans</li>
- </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_Infestation_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s infestation</li>
     <li>questName->[joiner_nameDef]'s hives</li>
@@ -88,7 +88,7 @@
     <li>questName->Les ruches de [joiner_nameDef]</li>
     <li>questName->Les bestioles de [joiner_nameDef]</li>
     <li>questName->Les insectes de [joiner_nameDef]</li>
- </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_Infestation_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASETEXT}\n            \n[joiner_nameDef] is soaked in insect pheromones and is fleeing from an infestation. The pursuing insects will arrive shortly. -->
   <ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>{BASETEXT}\n            \n[joiner_nameDef] est [joiner_soaked] de phéromones d'insectes et est en train de fuir une infestation. Les insectes poursuivants vont arriver bientôt.</ThreatReward_Infestation_Joiner.LetterTextJoinerArrived.value.slateRef>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
@@ -119,7 +119,7 @@
     <li>manhunterArrivalLetterEnd(animalCount>=2)->Les [animalKind_labelPlural] pourchassent [joiner_nameDef].</li>
     <li>introduction(childCount==1,priority=1)->Un enfant de [joiner_age] ans</li>
     <li>introduction->[joiner_titleIndef] de [joiner_age] ans</li>
- </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_Manhunters_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(animalCount==1)->[joiner_nameDef]'s [animalKind_label]</li>
     <li>questName(animalCount==1)->[joiner_nameDef] and the [animalKind_label]</li>
@@ -135,7 +135,7 @@
     <li>questName(animalCount>=2)->les [animalKind_labelPlural] de [joiner_nameDef]</li>
     <li>questName(animalCount>=2)->[joiner_nameDef] et les [animalKind_labelPlural]</li>
     <li>questName(animalCount>=2)->les [animalKind_labelPlural] et [joiner_nameDef]</li>
- </ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_Manhunters_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL}: Chasing [joiner_nameDef] -->
   <ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>{BASELABEL} : pourchassant [joiner_nameDef]</ThreatReward_Manhunters_Joiner.LetterLabelChasing.slateRef>
   <!-- EN: {BASETEXT}\n\n[manhunterArrivalLetterEnd] -->
@@ -171,7 +171,7 @@
     <li>enemyFaction_leader_accusative(enemyFaction_leader_gender==None)->le</li>
     <li>introduction(childCount==1,priority=1)->Un enfant de [joiner_age] ans</li>
     <li>introduction->[joiner_titleIndef] de [joiner_age] ans</li>
- </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_MysteryThreat_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [problem]</li>
     <li>questName->The [problem] of [joiner_nameDef]</li>
@@ -185,7 +185,7 @@
     <li>problem->problème</li>
     <li>problem->embarras</li>
     <li>problem->secret</li>
- </ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_MysteryThreat_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [joiner_nameDef] -->
   <ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>{BASELABEL} : pourchassant [joiner_nameDef]</ThreatReward_MysteryThreat_Joiner.LetterLabelChasingRaid.slateRef>
   <!-- EN: [joiner_nameDef] has admitted what [joiner_pronoun] was fleeing from.\n    \n[joiner_pronoun] was supposed to marry the child of [enemyFaction_leader_nameFull], leader of [enemyFaction_name]. [joiner_pronoun] became drunk before the ceremony and vomited on the altar - a flagrant insult towards [enemyFaction_leader_nameDef]'s whole family.\n    \n[enemyFaction_leader_nameDef] swore to seek revenge on [joiner_nameDef] and all those associated with [joiner_objective], and sent [enemyFaction_pawnsPlural] to carry out the task.\n    \n{BASETEXT} -->
@@ -212,7 +212,7 @@
     <li>questDescription->[introduction] du nom de [joiner_nameDef] appelle d'une zone voisine. [joiner_pronoun] a admis qu'[joiner_pronoun] a profané un rituel de paix entre [raid1/enemyFaction_name] et [raid2/enemyFaction_name]. Maintenant, ces deux factions pourchassent [joiner_nameDef] !\n\n[joiner_pronoun] vous supplie de l'aider à rejoindre votre colonie à [map_definite].[joiner_relationInfo]\n\nSi vous acceptez [joiner_nameDef], les deux factions [raid1/enemyFaction_name] et [raid2/enemyFaction_name] vous enverront un raid dans [raidDelayTicks_duration].\n\n[joiner_nameDef] n'a pas eu le temps de donner plus de détails et a raccroché à la hâte.</li>
     <li>introduction(childCount==1,priority=1)->Un enfant de [joiner_age] ans</li>
     <li>introduction->[joiner_titleIndef] de [joiner_age] ans</li>
- </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_RaidMultiFaction_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s Many Friends</li>
     <li>questName->[joiner_nameDef]'s Many Enemies</li>
@@ -220,7 +220,7 @@
   <ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
     <li>questName->les nombreux amis de [joiner_nameDef]</li>
     <li>questName->les nombreux ennemis de [joiner_nameDef]</li>
- </ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_RaidMultiFaction_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
   <ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>{BASELABEL} : pourchassant [../joiner_nameDef]</ThreatReward_RaidMultiFaction_Joiner.LetterLabelChasingRaid1.value.slateRef>
   <!-- EN: {BASETEXT}\n                  \nThe [enemyFaction_pawnsPlural] are coming for [../joiner_nameFull]. -->
@@ -255,7 +255,7 @@
     <li>joinersEnemies(priority=1,site/MechCluster_exists==True)->les mécanoïdes</li>
     <li>joinersEnemies(priority=1,site/SleepingMechanoids_exists==True)->les mécanoïdes</li>
     <li>joinersEnemies->ses ennemis</li>
- </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_SiteThreat_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[joiner_nameDef]'s [site/site_label]</li>
     <li>questName->[joiner_nameDef] and the [site/site_label]</li>
@@ -265,7 +265,7 @@
     <li>questName->[site/site_definite] de [joiner_nameDef]</li>
     <li>questName->[joiner_nameDef] et [site/site_definite]</li>
     <li>questName->[site/site_definite] et [joiner_nameDef]</li>
- </ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_SiteThreat_Joiner.questNameRules.rulesStrings>
   <!-- EN: Since you accepted [../joiner_nameDef], [../threat] have set up a nearby site to harass you.\n                    \n[allSitePartsDescriptions] -->
   <ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>Depuis que vous avez accepté [../joiner_nameDef], [../threat] se sont installés sur un site à proximité pour vous harceler.\n                    \n[allSitePartsDescriptions]</ThreatReward_SiteThreat_Joiner.LetterTextSiteAppeared.value.slateRef>
   

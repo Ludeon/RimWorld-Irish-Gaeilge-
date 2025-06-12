@@ -2,14 +2,14 @@
 <LanguageData>
   
   <!-- EN: scarification -->
-  <Scarification.label>coilm</Scarification.label>
+  <Scarification.label>TODO</Scarification.label>
   <!-- EN: An artistic scar carefully carved into the flesh for ritual or artistic purposes. -->
-  <Scarification.description>Rinneadh coilm ealaíonta a ghearradh go cúramach i gcraiceann an duine seo.</Scarification.description>
+  <Scarification.description>TODO</Scarification.description>
   <!-- EN: scarification -->
-  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>coilm</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
+  <Scarification.comps.HediffComp_GetsPermanent.permanentLabel>TODO</Scarification.comps.HediffComp_GetsPermanent.permanentLabel>
   <!-- EN: a scarification -->
-  <Scarification.labelNoun>colm</Scarification.labelNoun>
+  <Scarification.labelNoun>TODO</Scarification.labelNoun>
   <!-- EN: {0} in the {1} -->
-  <Scarification.labelNounPretty>{1}: {0}</Scarification.labelNounPretty>
+  <Scarification.labelNounPretty>TODO</Scarification.labelNounPretty>
   
 </LanguageData>

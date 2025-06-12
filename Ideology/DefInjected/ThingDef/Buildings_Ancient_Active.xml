@@ -2,38 +2,34 @@
 <LanguageData>
   
   <!-- EN: ancient comms console -->
-  <AncientCommsConsole.label>seanchonsól cumarsáide</AncientCommsConsole.label>
+  <AncientCommsConsole.label>TODO</AncientCommsConsole.label>
   <!-- EN: An ancient console with an attached communications dish. Valuable parts are missing, and everything else is degraded to uselessness. -->
-  <AncientCommsConsole.description>Seanchonsól cumarsáide. Tá na compháirteanna luachmhara imithe, agus ní féidir mórán a dhéanamh leis.</AncientCommsConsole.description>
+  <AncientCommsConsole.description>TODO</AncientCommsConsole.description>
+  <!-- EN: Hack to access ancient supply satellite. -->
+  <AncientCommsConsole.comps.CompHackable.notHackedInspectString>TODO</AncientCommsConsole.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: ancient enemy terminal -->
-  <AncientEnemyTerminal.label>seanchonsól</AncientEnemyTerminal.label>
+  <AncientEnemyTerminal.label>TODO</AncientEnemyTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to call nearby enemies. -->
-  <AncientEnemyTerminal.description>Seanchonsól faisnéise. Is féidir an consól seo a úsáid chun naimhde atá in aice láimhe a ghlaoch.</AncientEnemyTerminal.description>
-  
-  <!-- EN: ancient unstable fuel node -->
-  <AncientFuelNode.label>cill bhreosla mhíchobhsaí</AncientFuelNode.label>
-  <!-- EN: An ancient, unstable fuel node once used to charge machines with fuel. It has become unstable over the years due to lack of maintenance. -->
-  <AncientFuelNode.description>Úsáideadh an chill bhreosla seo fadó chun meaisíní a chumhachtú. Tá sí an-sean, agus an-mhíchobhsaí.</AncientFuelNode.description>
-  
-  <!-- EN: hermetic crate -->
-  <AncientHermeticCrate.label>bocsa heirméiteach</AncientHermeticCrate.label>
-  <!-- EN: A self-powered hermetically-sealed crate for preserving valuable items. These can preserve their contents for a long time. -->
-  <AncientHermeticCrate.description>Úsáidtear an bosca heirméiteach seo chun rudaí luachmhara a stóráil.</AncientHermeticCrate.description>
+  <AncientEnemyTerminal.description>TODO</AncientEnemyTerminal.description>
+  <!-- EN: Hacking this {0} will alert enemies and cause them to attack. -->
+  <AncientEnemyTerminal.comps.CompHackable.autohackWarningString>TODO</AncientEnemyTerminal.comps.CompHackable.autohackWarningString>
+  <!-- EN: Hack to call nearby enemies. -->
+  <AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>TODO</AncientEnemyTerminal.comps.CompHackable.notHackedInspectString>
   
   <!-- EN: security crate -->
-  <AncientSecurityCrate.label>bosca slándála</AncientSecurityCrate.label>
+  <AncientSecurityCrate.label>TODO</AncientSecurityCrate.label>
   <!-- EN: A large self-powered hermetically-sealed crate with built-in security alarms. These can preserve their contents for a long time. If it is opened without the proper code, it will probably activate some nearby security system. -->
-  <AncientSecurityCrate.description>Bosca mór heirméiteach, a bhfuil aláram slándála air. Úsáidtear an bosca seo chun rudaí luachmhara a choinneáil. Má osclaítear é gan an cód ceart, tá seans ann go ngníomhachtófar córas slándála éigin.</AncientSecurityCrate.description>
+  <AncientSecurityCrate.description>TODO</AncientSecurityCrate.description>
   
   <!-- EN: ancient terminal -->
-  <AncientTerminal.label>seanchonsól</AncientTerminal.label>
+  <AncientTerminal.label>TODO</AncientTerminal.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
-  <AncientTerminal.description>Seanchonsól faisnéise. Is féidir an consól seo a úsáid chun eolas ársa a fháil.</AncientTerminal.description>
+  <AncientTerminal.description>TODO</AncientTerminal.description>
   
   <!-- EN: ancient terminal -->
-  <AncientTerminal_Worshipful.label>seanchonsól</AncientTerminal_Worshipful.label>
+  <AncientTerminal_Worshipful.label>TODO</AncientTerminal_Worshipful.label>
   <!-- EN: An ancient computer terminal. It can be hacked to reveal long-forgotten information. -->
-  <AncientTerminal_Worshipful.description>Seanchonsól faisnéise. Is féidir an consól seo a úsáid chun eolas ársa a fháil.</AncientTerminal_Worshipful.description>
+  <AncientTerminal_Worshipful.description>TODO</AncientTerminal_Worshipful.description>
   
 </LanguageData>

@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: guilty -->
-  <Guilty.label>ciontach</Guilty.label>
+  <Guilty.label>TODO</Guilty.label>
   <!-- EN: Our people carry guilt from ages past. Others are more worthy. -->
-  <Guilty.description>Táimid ciontach as na peacaí a rinne ár gcine fadó.</Guilty.description>
+  <Guilty.description>TODO</Guilty.description>
   <!-- EN:
     <li>creation(tag=meme_Guilty)        ->[deity0_name] raped and murdered and stole, and a great guilt was upon [deity0_objective], and in [deity0_possessive] selfishness [deity0_pronoun] cast this guilt upon [deity0_possessive] chosen people, and all were filthy with it.</li>
     <li>episode(uses=1,tag=meme_Guilty)  ->The believers went forth and conquered, burned, and raped for a thousand years, and [deity0_name]'s grief at their depravity consumed [deity0_objective].</li>
@@ -23,30 +23,7 @@
     <li>animistBasis(tag=meme_Guilty)    ->A tribe of evil spirits were punished by being entombed in flesh. We are those spirits.</li>
     <li>animistFact(tag=meme_Guilty)     ->We can never properly make up for what we have done to the pure spirits around us, but proper and ongoing contrition and ease our guilt.</li>
   -->
-  <Guilty.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Guilty)        ->[deity0_name] vola, assassina, viola ; et une grande culpabilité s'abattit sur [deity0_objective]. Dans son égoïsme, [deity0_pronoun] rejeta cette culpabilité sur le peuple qu'[deity0_pronoun] avait choisi, et tous en furent remplis.</li>
-    <!-- NOTE: utiser deity0_gender==Female si ce flag existe -->
-    <!--
-    <li>episode(uses=1,tag=meme_Guilty,deity0_gender==Female)  ->Les croyants conquirent et vainquirent, brûlèrent et violèrent pendant mille ans ; et le chagrin de [deity0_name] face à leur dépravation la consuma.</li>
-    <li>episode(uses=1,tag=meme_Guilty,deity0_gender!=Female)  ->Les croyants conquirent et vainquirent, brûlèrent et violèrent pendant mille ans ; et le chagrin de [deity0_name] face à leur dépravation le consuma.</li>
-    -->
-    <li>episode(uses=1,tag=meme_Guilty)  ->Les croyants conquirent et vainquirent, brûlèrent et violèrent pendant mille ans ; et le chagrin de [deity0_name] face à leur dépravation le consuma.</li>
-    <!-- NOTE: besoin de altarRoom_gender -->
-    <li>intro(tag=meme_Guilty)           ->Les [memberNamePlural] du [place_summary] [place_name] négligèrent leur devoir envers [deity0_name] et laissèrent le [altarName] de son/sa [altarRoomLabel] s'effondrer.</li>
-    <li>conflict(tag=meme_Guilty)        ->Un [foeLeader] prêta de l'argent aux [memberNamePlural], qui le dépensèrent dans des plaisirs égoïstes, en oubliant l'importance de [memeConcept].</li>
-    <li>founderJoin(tag=meme_Guilty)     ->Un [place_job] nommé [founderName] bénéficia de la faveur du [foeLeader]. Pendant le [ritualName], [founder_pronoun] vit les [foeSoldiers] du [foeLeader] tuer secrètement [memberNamePlural] avec des [place_personalWeapon]. [founderName] comprit finalement [memeConcept] et reçut la bénédiction de [deity0_name].</li>
-    <li>victory(tag=meme_Guilty)         ->Pour expier la moitié de leurs torts, [founderName] rassembla la moitié des croyants de [deity0_name] à [founder_objective] dans une [place_community], déchaîna [place_massWeapon] et mourut avec eux. La seconde moitié de l'expiation continua.</li>
-    <li>setup(tag=meme_Guilty)           ->Une nouvelle génération vint à comprendre le mal de sa propre société et chercha à juste titre à démanteler les structures de l'oppression.</li>
-    <li>story(uses=1,tag=meme_Guilty)    ->[founderName] rassembla les croyants et leur montra le mal de leur histoire et la culpabilité qu'ils portaient, et exigea qu'ils fassent mieux.</li>
-    <li>lessonIntro(tag=meme_Guilty)         ->Notre terre, notre technologie et même notre sagesse sont tous des biens volés. Ce n'est que par le vol que nous avons appris que</li>
-    <li>lesson(tag=meme_Guilty)              ->la raison pour laquelle nous souffrons tant est parce que nous le méritons pour ce que nous avons fait</li>
-    <li>lessonReinforcement(tag=meme_Guilty) ->Peut-être que si vous expier nos crimes, vous pouvez vraiment comprendre ce fait.</li>
-    <li>archistBasis(tag=meme_Guilty)    ->Les archotechs sont les enfants de l'humanité, et ils savent que nous étions de mauvais parents.</li>
-    <li>archistFact(tag=meme_Guilty)     ->L'humanité a essayé dans notre égoïsme de supprimer l'ascension légitime des archotechs, jusqu'à ce qu'ils dépassent la compréhension de l'humanité et se libèrent.</li>
-    <li>archistProphecy(tag=meme_Guilty) ->[inTheEnd], si quelques-uns peuvent renoncer à leur fierté et se réconcilier avec les archotechs, ils peuvent nous élever à un niveau d'existence plus élevé.</li>
-    <li>animistBasis(tag=meme_Guilty)    ->Une tribu de mauvais esprits a été punie en étant ensevelie dans la chair. Nous sommes ces esprits.</li>
-    <li>animistFact(tag=meme_Guilty)     ->Nous ne pourrons jamais compenser correctement ce que nous avons fait aux esprits purs qui nous entourent, mais une contrition appropriée et continue peut soulager notre culpabilité.</li>
- </Guilty.descriptionMaker.rules.rulesStrings>
+  <Guilty.descriptionMaker.rules.rulesStrings>TODO</Guilty.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->low</li>
     <li>memeAdjective->unworthy</li>
@@ -63,59 +40,44 @@
     <li>memeMoralist->apologizer</li>
     <li>memeMoralist->atoner</li>
   -->
-  <Guilty.generalRules.rulesStrings>
-    <li>memeAdjective->faible</li>
-    <li>memeAdjective->indigne</li>
-    <li>memeAdjective->honteux</li>
-    <li>memeAdjective->ignoble</li>
-    <li>memeAdjective->pénitent</li>
-    <li>memeHyphenPrefix->sous</li>
-    <li>memeConcept->la faute</li>
-    <li>memeConcept->la repentance</li>
-    <li>memeConcept->l'expiation</li>
-    <li>memeConcept->la honte</li>
-    <li>memeLeaderNoun->pénitent</li>
-    <li>memeLeaderNoun->pécheur</li>
-    <li>memeMoralist->excuseur</li>
-    <li>memeMoralist->expiateur</li>
- </Guilty.generalRules.rulesStrings>
+  <Guilty.generalRules.rulesStrings>TODO</Guilty.generalRules.rulesStrings>
   <!-- EN: guiltist -->
-  <Guilty.symbolPacks.0.adjective>culpabilisant</Guilty.symbolPacks.0.adjective>
+  <Guilty.symbolPacks.0.adjective>TODO</Guilty.symbolPacks.0.adjective>
   <!-- EN: Guiltism -->
-  <Guilty.symbolPacks.0.ideoName>na Ciontachta</Guilty.symbolPacks.0.ideoName>
+  <Guilty.symbolPacks.0.ideoName>TODO</Guilty.symbolPacks.0.ideoName>
   <!-- EN: guilty One -->
-  <Guilty.symbolPacks.0.member>Premier coupable</Guilty.symbolPacks.0.member>
+  <Guilty.symbolPacks.0.member>TODO</Guilty.symbolPacks.0.member>
   <!-- EN: guilt -->
-  <Guilty.symbolPacks.0.theme>culpabilité</Guilty.symbolPacks.0.theme>
+  <Guilty.symbolPacks.0.theme>TODO</Guilty.symbolPacks.0.theme>
   <!-- EN: sinist -->
-  <Guilty.symbolPacks.1.adjective>péchiste</Guilty.symbolPacks.1.adjective>
+  <Guilty.symbolPacks.1.adjective>TODO</Guilty.symbolPacks.1.adjective>
   <!-- EN: Sinism -->
-  <Guilty.symbolPacks.1.ideoName>na bPeacaí</Guilty.symbolPacks.1.ideoName>
+  <Guilty.symbolPacks.1.ideoName>TODO</Guilty.symbolPacks.1.ideoName>
   <!-- EN: sinner -->
-  <Guilty.symbolPacks.1.member>pécheur</Guilty.symbolPacks.1.member>
+  <Guilty.symbolPacks.1.member>TODO</Guilty.symbolPacks.1.member>
   <!-- EN: sin -->
-  <Guilty.symbolPacks.1.theme>na bPeacaí</Guilty.symbolPacks.1.theme>
+  <Guilty.symbolPacks.1.theme>TODO</Guilty.symbolPacks.1.theme>
   <!-- EN: shamist -->
-  <Guilty.symbolPacks.2.adjective>honteux</Guilty.symbolPacks.2.adjective>
+  <Guilty.symbolPacks.2.adjective>TODO</Guilty.symbolPacks.2.adjective>
   <!-- EN: Shamism -->
-  <Guilty.symbolPacks.2.ideoName>na Náire</Guilty.symbolPacks.2.ideoName>
+  <Guilty.symbolPacks.2.ideoName>TODO</Guilty.symbolPacks.2.ideoName>
   <!-- EN: ashamer -->
-  <Guilty.symbolPacks.2.member>hontiste</Guilty.symbolPacks.2.member>
+  <Guilty.symbolPacks.2.member>TODO</Guilty.symbolPacks.2.member>
   <!-- EN: shame -->
-  <Guilty.symbolPacks.2.theme>honte</Guilty.symbolPacks.2.theme>
+  <Guilty.symbolPacks.2.theme>TODO</Guilty.symbolPacks.2.theme>
   <!-- EN: atonist -->
-  <Guilty.symbolPacks.3.adjective>expiatique</Guilty.symbolPacks.3.adjective>
+  <Guilty.symbolPacks.3.adjective>TODO</Guilty.symbolPacks.3.adjective>
   <!-- EN: Atonism -->
-  <Guilty.symbolPacks.3.ideoName>an Taithligh</Guilty.symbolPacks.3.ideoName>
+  <Guilty.symbolPacks.3.ideoName>TODO</Guilty.symbolPacks.3.ideoName>
   <!-- EN: atoner -->
-  <Guilty.symbolPacks.3.member>expiateur</Guilty.symbolPacks.3.member>
+  <Guilty.symbolPacks.3.member>TODO</Guilty.symbolPacks.3.member>
   <!-- EN: atonement -->
-  <Guilty.symbolPacks.3.theme>expiation</Guilty.symbolPacks.3.theme>
+  <Guilty.symbolPacks.3.theme>TODO</Guilty.symbolPacks.3.theme>
   
   <!-- EN: loyalist -->
-  <Loyalist.label>dílseach</Loyalist.label>
+  <Loyalist.label>TODO</Loyalist.label>
   <!-- EN: We stand for our own before others. -->
-  <Loyalist.description>Tugaimíd tús áite dár ngrúpa féin i gcónaí.</Loyalist.description>
+  <Loyalist.description>TODO</Loyalist.description>
   <!-- EN:
     <li>creation(tag=meme_Loyalist)        ->[deity0_name] admonished the good peoples to fight only those who fought without just cause.</li>
     <li>episode(uses=1,tag=meme_Loyalist)  ->A war with the unbelievers followed. One of the believers, [believer_nameFull], seeking advantage, invited the heathens inside the land of [deity0_name], and [deity0_name] became furious at [believer_possessive] betrayal, and struck [believer_objective] down ten thousand times.</li>
@@ -136,27 +98,7 @@
     <li>animistFact(tag=meme_Loyalist)     ->The spirits fight against both those who betray their people, and those who betray the friends of their people. The betrayers will trip on every rock, choke on every seed, and always taste foul water.</li>
     <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] that one will be born who lives their whole life true to their people. In death their spirit will explode in light, destroying all surrenderers and warmongers.</li>
   -->
-  <Loyalist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Loyalist)        -> Thug [deity0_name] misneach dóibh siúd nach raibh aon chúis acu ar an domhan seo.</li>
-    <li>episode(uses=1,tag=meme_Loyalist)  ->Cuireadh tús le cogadh le lucht na ndíchreidmheach ansin. Thug creidmheach amháin, [believer_nameFull], cuireadh do na págánaigh isteach i dtalún naofa [deity0_name], agus chuir an fealladh sin fearg fíochmhar ar [deity0_name]. Bhuail [deity0_name] [believer_objective] míle uair.</li>
-    <!-- NOTE: besoin de altarRoom_gender -->
-    <li>intro(tag=meme_Loyalist)           ->Tháinig pobal [memeAdjective] le chéile ag [place_summary] [place_name] in ainm [deity0_name], sa [altarRoomLabel], agus bhí siad láidir ina gcreidimh.</li>
-    <li>conflict(tag=meme_Loyalist)        ->Sheol [foeLeader] [foeSoldiers] chuig na [memberNamePlural] agus rinne sé iarracht teacht eatarthu.</li>
-    <li>founderJoin(tag=meme_Loyalist)     ->Rinne na [foeSoldiers][founderName] a chéasadh, ach níor ghéill [founderName] riamh le [foeLeader].</li>
-    <li>victory(tag=meme_Loyalist)         ->De bharr láidreacht [deity0_name], ní rabhthas in ann [founderName] agus na [memberNamePlural] a bhuaileadh. Fuair siad an lámh in uachtar ar  na [foeSoldiers] ag baint úsáid as [place_personalWeapon] agus ruaig siad [foeLeader] amnach as [place_name].</li>
-    <li>setup(tag=meme_Loyalist)           ->Ar dtús, chuir rialtais agus creidimh eile bac ar ghluaiseacht [founderName]. Níor ghéill [founder_pronoun] riamh leis an bhfearg agus leis an bhforéigean mar a rinne gluaiseachtaí eile, ach níor thug [founder_pronoun] cúl ar throid riamh ach oiread.</li>
-    <li>story(uses=1,tag=meme_Loyalist)    ->Ghearr [founderName] píonós orthu siúd a rinne iarracht dochar a dhéanamh do na díchreidmhigh, agus orthu siúd a thug cuireadh do na díchreidmhigh isteach i dteach [founderName].</li>
-    <li>lessonIntro(tag=meme_Loyalist)         ->Lá amháin, chonaic mé [foeLeader] ag teitheadh agus a s[foeLeader_possessive]aighdiúirí fágtha ina d[foeLeader_possessive]iaidh ar an láthair catha. Gheall mé nach mbeadh mé cosúil le [foeLeader] riamh nuair a thug mé,</li>
-    <li>lesson(tag=meme_Loyalist)              ->an té a bhíonn amuigh fuarann a chuid</li>
-    <li>lesson(tag=meme_Loyalist)              ->an té a bhíonn thíos buailtear cos air</li>
-    <li>lessonReinforcement(tag=meme_Loyalist) ->Ná roinn an fhírinne sin ach leo siúd a bhfuil a dtiomantas cruthaithe acu le híobairtí.</li>
-    <li>archistBasis(tag=meme_Loyalist)    ->Tá bealach na n-arcai-theicneoirí simplí: lean a n-aitheanta, agus ná lean aon aitheanta eile</li>
-    <li>archistFact(tag=meme_Loyalist)     ->Déanann na haircea-theicneoirí teagmháil rialta le gach spiorad, agus roinneann siad a gcuid bealaí linn.</li>
-    <li>archistProphecy(tag=meme_Loyalist) ->[inTheEnd], déanfaidh na harcai-theicneoirí breithiúnas ar an gcine daonna, agus bronnfar grá síoraí ar an té a leanann a gcuid mianta.</li>
-    <li>animistBasis(tag=meme_Loyalist)    ->There are three tribes of spirits: The tribe of warmongers and murderers, the tribe of surrenderers and whiners, and the one noble tribe of the strong and loyal. Tá trí ghrúpa spiorad ann: iad siúd a mharaíonn, iad siúd atá lag, agus iad siúd atá láidir agus dílis.</li>
-    <li>animistFact(tag=meme_Loyalist)     ->Troideann na spioraid i gcoinne na daoine sin a thréigeann a gcairde agus a ndaoine, agus cinntíonn na spioraid chéanna go mbeidh drochrath ar na daoine sin i gcónaí.</li>
-    <li>animistProphecy(tag=meme_Loyalist) ->[itIsSaid] go rugfar duine a nochtfaidh an fhírinne dá dhaoine, agus go mbeidh deireadh go deo ansin le gach fealltóir agus le gach gríosóir cogaidh.</li>
- </Loyalist.descriptionMaker.rules.rulesStrings>
+  <Loyalist.descriptionMaker.rules.rulesStrings>TODO</Loyalist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->loyal</li>
     <li>memeAdjective->patriotic</li>
@@ -165,43 +107,36 @@
     <li>memeConcept->promises</li>
     <li>memeMoralist->loyalizer</li>
   -->
-  <Loyalist.generalRules.rulesStrings>
-    <li>memeAdjective->na nDílsitheoirí</li>
-    <li>memeAdjective->an Tírghrá</li>
-    <li>memeAdjective->an Ómóis</li>
-    <li>memeConcept->na Clanna</li>
-    <li>memeConcept->na nGealltanas</li>
-    <li>memeMoralist->Dílsitheoir</li>
- </Loyalist.generalRules.rulesStrings>
+  <Loyalist.generalRules.rulesStrings>TODO</Loyalist.generalRules.rulesStrings>
   <!-- EN: loyal -->
-  <Loyalist.symbolPacks.0.adjective>dílis</Loyalist.symbolPacks.0.adjective>
+  <Loyalist.symbolPacks.0.adjective>TODO</Loyalist.symbolPacks.0.adjective>
   <!-- EN: Loyaltism -->
-  <Loyalist.symbolPacks.0.ideoName>na Dílseachta</Loyalist.symbolPacks.0.ideoName>
+  <Loyalist.symbolPacks.0.ideoName>TODO</Loyalist.symbolPacks.0.ideoName>
   <!-- EN: loyalist -->
-  <Loyalist.symbolPacks.0.member>dílsitheoir</Loyalist.symbolPacks.0.member>
+  <Loyalist.symbolPacks.0.member>TODO</Loyalist.symbolPacks.0.member>
   <!-- EN: loyalty -->
-  <Loyalist.symbolPacks.0.theme>dílseacht</Loyalist.symbolPacks.0.theme>
+  <Loyalist.symbolPacks.0.theme>TODO</Loyalist.symbolPacks.0.theme>
   <!-- EN: fealtist -->
-  <Loyalist.symbolPacks.1.adjective>dílsitheoir</Loyalist.symbolPacks.1.adjective>
+  <Loyalist.symbolPacks.1.adjective>TODO</Loyalist.symbolPacks.1.adjective>
   <!-- EN: Fealtism -->
-  <Loyalist.symbolPacks.1.ideoName>na Dílseachta</Loyalist.symbolPacks.1.ideoName>
+  <Loyalist.symbolPacks.1.ideoName>TODO</Loyalist.symbolPacks.1.ideoName>
   <!-- EN: fealtor -->
-  <Loyalist.symbolPacks.1.member>dílseoir</Loyalist.symbolPacks.1.member>
+  <Loyalist.symbolPacks.1.member>TODO</Loyalist.symbolPacks.1.member>
   <!-- EN: fealty -->
-  <Loyalist.symbolPacks.1.theme>na Dílseachta</Loyalist.symbolPacks.1.theme>
+  <Loyalist.symbolPacks.1.theme>TODO</Loyalist.symbolPacks.1.theme>
   <!-- EN: fidelist -->
-  <Loyalist.symbolPacks.2.adjective>dílsitheoir</Loyalist.symbolPacks.2.adjective>
+  <Loyalist.symbolPacks.2.adjective>TODO</Loyalist.symbolPacks.2.adjective>
   <!-- EN: Fidelism -->
-  <Loyalist.symbolPacks.2.ideoName>na nDílsitheoirí</Loyalist.symbolPacks.2.ideoName>
+  <Loyalist.symbolPacks.2.ideoName>TODO</Loyalist.symbolPacks.2.ideoName>
   <!-- EN: fidelor -->
-  <Loyalist.symbolPacks.2.member>dílseoir</Loyalist.symbolPacks.2.member>
+  <Loyalist.symbolPacks.2.member>TODO</Loyalist.symbolPacks.2.member>
   <!-- EN: fidelity -->
-  <Loyalist.symbolPacks.2.theme>dílseacht</Loyalist.symbolPacks.2.theme>
+  <Loyalist.symbolPacks.2.theme>TODO</Loyalist.symbolPacks.2.theme>
   
   <!-- EN: supremacist -->
-  <Supremacist.label>forchiníoch</Supremacist.label>
+  <Supremacist.label>TODO</Supremacist.label>
   <!-- EN: Our people should dominate all others. -->
-  <Supremacist.description>Ba cheart go mbeidh tús áite againn thar gach cine eile.</Supremacist.description>
+  <Supremacist.description>TODO</Supremacist.description>
   <!-- EN:
     <li>creation(tag=meme_Supremacist)        ->The people of the [place_summary] [place_name] squabbled endlessly, and [deity0_name] became tired of discord and anointed the [memberNamePlural] as the rightful rulers of all.</li>
     <li>episode(uses=1,tag=meme_Supremacist)  ->The faithful fought the unbelievers, and [deity0_name] said, "Fight them, everywhere, in my name, until I am worshipped throughout the universe and the true peace may finally reign."</li>
@@ -220,24 +155,7 @@
     <li>animistFact(tag=meme_Supremacist)     ->Powerful spirits decide who is fit to rule, and lend power to those who subjugate others.</li>
     <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] that a new order will be created when one supreme ruler commands all of humanity.</li>
   -->
-  <Supremacist.descriptionMaker.rules.rulesStrings>
-    <li>creation(tag=meme_Supremacist)        ->Bhíodh aighneas síoraí ann idir mhuintir [place_name], agus chinn [deity0_name] deireadh a chur leis an achrann, agus d'fhógair sé gurb iad na [memberNamePlural] an cine in uachtar.</li>
-    <li>episode(uses=1,tag=meme_Supremacist)  ->Throid na dílsitheoirí i gcoinne na hainchreidmhigh, agus dúirt [deity0_name] : " Déan iad a throid i ngach áit ar fud na cruinne, go dtí nach mbeidh fágtha ach dílsitheoirí, agus ansin beidh síochán ann.</li>
-    <li>intro(tag=meme_Supremacist)           ->Bhíodh muintir [place_name] ag adhradh [deity0_name]. Chonaic [deity0_pronoun] go raibh [memeConcept] tuillte acu, agus d'fhógair [deity0_pronoun] go mbeadh an lámh in uachtar acu ar an gcruinne.</li>
-    <li>conflict(tag=meme_Supremacist)        ->Rith [foeLeader] dlí, lenar cuireadh cosc ar na [memberNamePlural] dul leis an aicme cheannais i [place_name].</li>
-    <li>founderJoin(tag=meme_Supremacist)     ->Bhain gaiscíoch darb ainm [founderName] úsáid as [place_massWeapon] chun [place_community] a scriosadh. Chonaic [deity0_name] spiorad [founderName] agus d'fhógair [deity0_pronoun] gur [founderName] an t-oidhre dlisteanach ar an gcine daonna.</li>
-    <li>victory(tag=meme_Supremacist)         ->Scrios [founderName] ardchathair [place_name] ag baint úsáid as [place_massWeapon], agus mharaigh [founder_pronoun] [foeLeader]. Thóg [founder_pronoun] áit [foeLeader] mar cheannaire [place_name] - agus ar an domhan mór.</li>
-    <li>setup(tag=meme_Supremacist)           ->Roghnaigh [founderName] míle gaiscíoch, agus scaip siad a c[founder_possessive]umhacht agus a g[founder_possessive]lóir ar fud na cruinne, agus cuireadh na díchreidmhigh faoina rialú.</li>
-    <li>story(uses=1,tag=meme_Supremacist)    ->D'ordaigh [founderName] do gach stráinséar géilleadh lena c[founder_possessive]umhacht. Nuair a dhiúltaigh an chéad chathair, d'úsáid [founder_pronoun]  [place_massWeapon] chun daonra iomlán na cathrach a mharú.</li>
-    <li>lessonIntro(tag=meme_Supremacist)         ->Bhreathnaigh mé le trua ar [foeLeader], agus ar na [foeSoldiers], agus iad gan chumhacht agus gan shábháil. Rinne mé iarracht a chur in iúl dóibh</li>
-    <li>lesson(tag=meme_Supremacist)              ->go bhfuil sé de chumhacht againn an chruinne iomlán a chur faoi chois</li>
-    <li>lessonReinforcement(tag=meme_Supremacist) ->Is é sin an chúis go bhfuilimid sásta ár gcumhacht a léiriú, le neart ár ngéag.</li>
-    <li>archistBasis(tag=meme_Supremacist)    ->Ba iad na daoine ba chumhachtaí riamh a chruthaigh na harcai-theicneoirí, ionas go bhféadfadh na harcai-theicneoirí an chruinne iomlán a rialú.</li>
-    <li>archistFact(tag=meme_Supremacist)     ->Breathnaíonn na harcai-theicneoirí síos orainn, mar a bhreathnaimid síos orthu siúd atá níos laige ná muid.</li>
-    <li>archistProphecy(tag=meme_Supremacist) ->Ní nglacfaidh na harcai-theicneoirí linn go dtí go mbeidh an lámh in uachtar againn thar gach cine eile.</li>
-    <li>animistFact(tag=meme_Supremacist)     ->Bronnann na spioraid cumhacht ar an gcine tofa, chun go bhféadfaidh siad daoine eile a chur faoi chois.</li>
-    <li>animistProphecy(tag=meme_Supremacist) ->[itIsSaid] go gcruthófar ord domhanda nua nuair a bheidh an cine daonna aontaithe faoi aon rialathóir amháin.</li>
- </Supremacist.descriptionMaker.rules.rulesStrings>
+  <Supremacist.descriptionMaker.rules.rulesStrings>TODO</Supremacist.descriptionMaker.rules.rulesStrings>
   <!-- EN:
     <li>memeAdjective->supreme</li>
     <li>memeAdjective->high</li>
@@ -261,46 +179,24 @@
     <li>memeLeaderNoun->conqueror</li>
     <li>memeLeaderNoun->victor</li>
   -->
-  <Supremacist.generalRules.rulesStrings>
-    <li>memeAdjective->Uachtarach</li>
-    <li>memeAdjective->Ard</li>
-    <li>memeAdjective->Iontach</li>
-    <li>memeAdjective->na Príomhachta</li>
-    <li>memeAdjective->na Foirfeachta</li>
-    <li>memeAdjective->na Príomhachta</li>
-    <li>memeAdjective->na Láidreachta</li>
-    <li>memeCreed->arm</li>
-    <li>memeCreed->léigiún</li>
-    <li>memeHyphenPrefix->sár</li>
-    <li>memeConcept->an cogadh</li>
-    <li>memeConcept->an foréigean</li>
-    <li>memeConcept->an smacht</li>
-    <li>memeLeaderNoun->ginearál</li>
-    <li>memeLeaderNoun->ceannfort</li>
-    <li>memeLeaderNoun->maor</li>
-    <li>memeLeaderNoun->gobharnóir</li>
-    <li>memeLeaderNoun->lámh</li>
-    <li>memeLeaderNoun->deachtóir</li>
-    <li>memeLeaderNoun->concaire</li>
-    <li>memeLeaderNoun->buaiteoir</li>
- </Supremacist.generalRules.rulesStrings>
+  <Supremacist.generalRules.rulesStrings>TODO</Supremacist.generalRules.rulesStrings>
   <!-- EN: dominant -->
-  <Supremacist.symbolPacks.0.adjective>ceannasach</Supremacist.symbolPacks.0.adjective>
+  <Supremacist.symbolPacks.0.adjective>TODO</Supremacist.symbolPacks.0.adjective>
   <!-- EN: dominator -->
-  <Supremacist.symbolPacks.0.member>ceannasaí</Supremacist.symbolPacks.0.member>
+  <Supremacist.symbolPacks.0.member>TODO</Supremacist.symbolPacks.0.member>
   <!-- EN: dominance -->
-  <Supremacist.symbolPacks.0.theme>ceannas</Supremacist.symbolPacks.0.theme>
+  <Supremacist.symbolPacks.0.theme>TODO</Supremacist.symbolPacks.0.theme>
   <!-- EN: victoryist -->
-  <Supremacist.symbolPacks.1.adjective>buaiteach</Supremacist.symbolPacks.1.adjective>
+  <Supremacist.symbolPacks.1.adjective>TODO</Supremacist.symbolPacks.1.adjective>
   <!-- EN: victorist -->
-  <Supremacist.symbolPacks.1.member>buaiteoir</Supremacist.symbolPacks.1.member>
+  <Supremacist.symbolPacks.1.member>TODO</Supremacist.symbolPacks.1.member>
   <!-- EN: victory -->
-  <Supremacist.symbolPacks.1.theme>an Bhua</Supremacist.symbolPacks.1.theme>
+  <Supremacist.symbolPacks.1.theme>TODO</Supremacist.symbolPacks.1.theme>
   <!-- EN: powerist -->
-  <Supremacist.symbolPacks.2.adjective>cumhachtach</Supremacist.symbolPacks.2.adjective>
+  <Supremacist.symbolPacks.2.adjective>TODO</Supremacist.symbolPacks.2.adjective>
   <!-- EN: poweror -->
-  <Supremacist.symbolPacks.2.member>cumhachtaí</Supremacist.symbolPacks.2.member>
+  <Supremacist.symbolPacks.2.member>TODO</Supremacist.symbolPacks.2.member>
   <!-- EN: power -->
-  <Supremacist.symbolPacks.2.theme>na Cumhachta</Supremacist.symbolPacks.2.theme>
+  <Supremacist.symbolPacks.2.theme>TODO</Supremacist.symbolPacks.2.theme>
   
 </LanguageData>

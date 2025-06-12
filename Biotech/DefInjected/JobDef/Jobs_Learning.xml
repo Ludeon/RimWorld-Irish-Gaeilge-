@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: floordrawing. -->
-  <Floordrawing.reportString>zeichnet etwas auf dem Boden.</Floordrawing.reportString>
+  <Floordrawing.reportString>TODO</Floordrawing.reportString>
   
   <!-- EN: teaching a lesson. -->
-  <Lessongiving.reportString>unterrichtet.</Lessongiving.reportString>
+  <Lessongiving.reportString>TODO</Lessongiving.reportString>
   
-  <!-- EN: learning a lesson. -->
-  <Lessontaking.reportString>lernt.</Lessontaking.reportString>
+  <!-- EN: learning a lesson -->
+  <Lessontaking.reportString>TODO</Lessontaking.reportString>
   
   <!-- EN: nature running. -->
-  <NatureRunning.reportString>erkundet die Natur.</NatureRunning.reportString>
+  <NatureRunning.reportString>TODO</NatureRunning.reportString>
   
   <!-- EN: radiotalking. -->
-  <Radiotalking.reportString>redet über Funk.</Radiotalking.reportString>
+  <Radiotalking.reportString>TODO</Radiotalking.reportString>
   
   <!-- EN: skydreaming. -->
-  <Skydreaming.reportString>beobachtet den Himmel.</Skydreaming.reportString>
+  <Skydreaming.reportString>TODO</Skydreaming.reportString>
   
   <!-- EN: watching work be performed. -->
-  <Workwatching.reportString>schaut einem Arbeiter zu.</Workwatching.reportString>
+  <Workwatching.reportString>TODO</Workwatching.reportString>
   
 </LanguageData>

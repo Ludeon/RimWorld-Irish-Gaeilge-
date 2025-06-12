@@ -1,76 +1,76 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: son -->
   <Child.label>mac</Child.label>
   <!-- EN: daughter -->
   <Child.labelFemale>iníon</Child.labelFemale>
-
+  
   <!-- EN: cousin -->
   <Cousin.label>col ceathrar</Cousin.label>
-
+  
   <!-- EN: cousin once removed -->
   <CousinOnceRemoved.label>col cúigir</CousinOnceRemoved.label>
-
+  
   <!-- EN: grandson -->
   <Grandchild.label>garmhac</Grandchild.label>
   <!-- EN: granddaughter -->
   <Grandchild.labelFemale>gariníon</Grandchild.labelFemale>
-
+  
   <!-- EN: grandnephew -->
   <GrandnephewOrGrandniece.label>garnia</GrandnephewOrGrandniece.label>
   <!-- EN: grandniece -->
   <GrandnephewOrGrandniece.labelFemale>garneach</GrandnephewOrGrandniece.labelFemale>
-
+  
   <!-- EN: grandfather -->
   <Grandparent.label>seanathair</Grandparent.label>
   <!-- EN: grandmother -->
   <Grandparent.labelFemale>seanmháthair</Grandparent.labelFemale>
-
+  
   <!-- EN: granduncle -->
   <GranduncleOrGrandaunt.label>seanuncail</GranduncleOrGrandaunt.label>
   <!-- EN: grandaunt -->
   <GranduncleOrGrandaunt.labelFemale>seanaintín</GranduncleOrGrandaunt.labelFemale>
-
+  
   <!-- EN: great grandson -->
   <GreatGrandchild.label>fionnó</GreatGrandchild.label>
   <!-- EN: great granddaughter -->
   <GreatGrandchild.labelFemale>fionnó</GreatGrandchild.labelFemale>
-
+  
   <!-- EN: great grandfather -->
   <GreatGrandparent.label>sin-seanathair</GreatGrandparent.label>
   <!-- EN: great grandmother -->
   <GreatGrandparent.labelFemale>sin-seanmháthair</GreatGrandparent.labelFemale>
-
+  
   <!-- EN: brother -->
   <HalfSibling.label>dearthair</HalfSibling.label>
   <!-- EN: sister -->
   <HalfSibling.labelFemale>deirfiúr</HalfSibling.labelFemale>
-
+  
   <!-- EN: kin -->
   <Kin.label>muintir</Kin.label>
-
+  
   <!-- EN: nephew -->
   <NephewOrNiece.label>nia</NephewOrNiece.label>
   <!-- EN: niece -->
   <NephewOrNiece.labelFemale>neach</NephewOrNiece.labelFemale>
-
+  
   <!-- EN: father -->
   <Parent.label>athair</Parent.label>
   <!-- EN: mother -->
   <Parent.labelFemale>máthair</Parent.labelFemale>
-
+  
   <!-- EN: second cousin -->
   <SecondCousin.label>col seisir</SecondCousin.label>
-
+  
   <!-- EN: brother -->
   <Sibling.label>deartháir</Sibling.label>
   <!-- EN: sister -->
   <Sibling.labelFemale>deirfiúr</Sibling.labelFemale>
-
+  
   <!-- EN: uncle -->
   <UncleOrAunt.label>uncail</UncleOrAunt.label>
   <!-- EN: aunt -->
   <UncleOrAunt.labelFemale>aintín</UncleOrAunt.labelFemale>
-
+  
 </LanguageData>

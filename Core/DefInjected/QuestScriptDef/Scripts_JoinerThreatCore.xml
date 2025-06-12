@@ -10,7 +10,7 @@
     <li>questDescription->Tá teachtaireacht tagtha ó [introduction] darb ainm [joiner_nameDef]. Tá [enemyFaction_pawnsPlural] ón bhfaicsean [enemyFaction_name] sa tóir ar [joiner_nameDef]!\n\nIarrann [joiner_pronoun] cúnamh uait agus deir [joiner_pronoun] go mbeidh [joiner_pronoun] sásta fanacht leat ag [map_definite].[joiner_relationInfo]\n\nMá tá tú sásta cuidiú le [joiner_nameDef], beidh ort troid i gcoinne na naimhde atá á leanúint. Tá an grúpa déanta suas de: \n\n[raid/raidPawnKinds]\n\nNí thugann [joiner_nameDef] aon eolas eile.</li>
     <li>introduction(childCount==1,priority=1)->leanbh atá [joiner_age] bliain d'aois</li>
     <li>introduction->[joiner_title] atá [joiner_age] bliain d'aois</li>
- </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->Saving [runnerIndef]</li>
     <li>questName->The Salvation of [runnerIndef]</li>
@@ -30,7 +30,7 @@
     <li>questName->Cúnamh do [runnerIndef]</li>
     <li>runnerIndef->[joiner_titleIndef]</li>
     <li>runnerIndef->[joiner_nameIndef]</li>
- </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
   <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
   <ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>Tá {BASELABEL} sa tóir ar [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelChasing.value.slateRef>
   <!-- EN: {BASETEXT}\n              \nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->

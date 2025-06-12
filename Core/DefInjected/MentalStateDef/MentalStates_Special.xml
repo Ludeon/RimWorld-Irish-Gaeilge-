@@ -6,6 +6,11 @@
   <!-- EN: Aggression judgment scrambled -->
   <BerserkMechanoid.baseInspectLine>Tá braiteoirí ionsaithe an róbait seo trí chéile.</BerserkMechanoid.baseInspectLine>
   
+  <!-- EN: cocoon disturbed -->
+  <CocoonDisturbed.label>TODO</CocoonDisturbed.label>
+  <!-- EN: Enraged: Cocoon disturbed -->
+  <CocoonDisturbed.baseInspectLine>TODO</CocoonDisturbed.baseInspectLine>
+  
   <!-- EN: manhunter -->
   <Manhunter.label>cíocras fola</Manhunter.label>
   <!-- EN: Maddened: Manhunter -->

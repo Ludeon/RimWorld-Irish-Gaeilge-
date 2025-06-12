@@ -14,7 +14,7 @@
     <li>formerColonistInfo-></li>
     <li>underArmedGuard(allowViolentQuests==true,priority=1)-> faoi gharda</li>
     <li>underArmedGuard-></li>
- </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[prisoner_nameDef]'s Salvation</li>
     <li>questName->[prisoner_nameDef]'s Rescue</li>
@@ -27,7 +27,6 @@
     <li>questName->Tarrtháil [prisoner_nameDef]</li>
     <li>questName->Briseadh Amach [prisoner_nameDef]</li>
     <li>questName->Éirí Amach [prisoner_nameDef]</li>
-
- </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
   
 </LanguageData>

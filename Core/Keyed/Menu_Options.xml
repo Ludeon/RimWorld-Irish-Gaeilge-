@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- Audiovisuals -->
   <!-- EN: Audiovisuals -->
   <Audiovisuals>Fuaim/Fís</Audiovisuals>
@@ -28,6 +28,14 @@
   <Antialiasing>Frithailiasáil</Antialiasing>
 
   <!-- Gameplay -->
+  <!-- EN: Remember draw styles -->
+  <RememberDrawStyle>TODO</RememberDrawStyle>
+  <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
+  <RememberDrawStyle_Tooltip>TODO</RememberDrawStyle_Tooltip>
+  <!-- EN: Zoom switches world map layers -->
+  <ZoomSwitchLayer>TODO</ZoomSwitchLayer>
+  <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
+  <ZoomSwitchLayer_Tooltip>TODO</ZoomSwitchLayer_Tooltip>
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Scrolláil ag taobh an scáileáin</EdgeScreenScroll>
   <!-- EN: Zoom to mouse -->
@@ -150,7 +158,7 @@
   <SelectMod>Roghnaigh mod...</SelectMod>
   <!-- EN: No configurable mods loaded. -->
   <NoConfigurableMods>Níl aon mhod inchumraithe lódáilte.</NoConfigurableMods>
-
+  
   <!-- Options reset -->
   <!-- EN: Restore all settings to default -->
   <RestoreToDefaultSettingsLabel>Gabh ar ais chuig na réamhshocruithe</RestoreToDefaultSettingsLabel>
@@ -162,7 +170,7 @@
   <ResetAndRestartConfirmationDialog>Glanfar gach socrú agus cuirfear na réamhshocruithe i bhfeidhm arís. Caillfear aon dul chun cinn nár sábháladh.\n\nAn bhfuil tú cinnte gur mhaith leat leanúint ar aghaidh?</ResetAndRestartConfirmationDialog>
   <!-- EN: Changing texture compression settings requires a restart. Unsaved progress will be lost.\n\nContinue? -->
   <ChangedTextureCompressionRestart>Ní mór an cluiche a atosú nuair a athraítear na socruithe comhbhrúite. Caillfear aon dul chun cinn nár sábháladh,\n\nAn bhfuil tú cinnte gur mhaith leat leanúint ar aghaidh?</ChangedTextureCompressionRestart>
-
+  
   <!-- Background image -->
   <!-- EN: Menu background -->
   <SetBackgroundImage>Ealaín chúlra</SetBackgroundImage>

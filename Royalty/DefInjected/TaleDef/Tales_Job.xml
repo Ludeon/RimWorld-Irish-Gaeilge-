@@ -24,7 +24,7 @@
     <li>circumstance_phrase->tout en applaudissant</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob_AnyPlural] dansent.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal_AnyPlural] écoutent attentivement.</li>
- </AttendedConcert.rulePack.rulesStrings>
+  </AttendedConcert.rulePack.rulesStrings>
   
   <!-- EN: held concert -->
   <HeldConcert.label>concert organisé</HeldConcert.label>
@@ -47,6 +47,6 @@
     <li>circumstance_phrase->avec une expression intense</li>
     <li>desc_sentence->[Quantity_adjphrase] [PersonJob_AnyPlural] écoutent à proximité.</li>
     <li>desc_sentence->[Quantity_adjphrase] [Animal_AnyPlural] écoutent à proximité.</li>
- </HeldConcert.rulePack.rulesStrings>
+  </HeldConcert.rulePack.rulesStrings>
   
 </LanguageData>

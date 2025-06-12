@@ -91,7 +91,7 @@
   
   <!-- EN: toxic fallout -->
   <ToxicFallout.label>TODO</ToxicFallout.label>
-  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <!-- EN: A plume of toxic dust is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
   <ToxicFallout.description>scamall tocsach</ToxicFallout.description>
   <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
   <ToxicFallout.descriptionFuture>Beidh an ceantar timpeall ar [gameConditionDuration_duration] buailte le scamall tocsach ar feadh [gameConditionDuration_duration]. Marófar plandaí agus ainmhithe má tá siad lasmuigh.</ToxicFallout.descriptionFuture>
@@ -104,7 +104,7 @@
   <VolcanicWinter.label>geimhreadh bolcánach</VolcanicWinter.label>
   <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
   <VolcanicWinter.description>Tá bolcán i bhfad i gcéin ag pléascadh, agus tá luaithreamhán bolcánach á chaitheamh aníos san atmaisféar. Tá solas na gréine blocáilte, rud a chiallaíonn go mbeidh teocht níos ísle ann.</VolcanicWinter.description>
-  <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
+  <!-- EN: a layer of ash will be deposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
   <VolcanicWinter.descriptionFuture>Tá luaithreamhán ón mbolcán san atmaisféar, agus beidh solas na gréine blocáilte timpeall ar [map_definite] ar feadh [gameConditionDuration_duration]. Cuirfear isteach go mór ar an eiceachóras áitiúil.</VolcanicWinter.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
   <VolcanicWinter.endMessage>Tá an chuid is mó den luaithreamhán bolcánach san atmaisféar anois.</VolcanicWinter.endMessage>

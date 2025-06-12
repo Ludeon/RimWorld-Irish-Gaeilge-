@@ -1,45 +1,45 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: son-in-law -->
   <ChildInLaw.label>mac cleamhnais</ChildInLaw.label>
   <!-- EN: daughter-in-law -->
   <ChildInLaw.labelFemale>iníon chleamhnais</ChildInLaw.labelFemale>
-
+  
   <!-- EN: ex-lover -->
   <ExLover.label>iarleannán</ExLover.label>
-
+  
   <!-- EN: ex-husband -->
   <ExSpouse.label>iarchéile</ExSpouse.label>
   <!-- EN: ex-wife -->
   <ExSpouse.labelFemale>iarchéile</ExSpouse.labelFemale>
-
+  
   <!-- EN: fiance -->
   <Fiance.label>fiancé</Fiance.label>
   <!-- EN: fiancée -->
   <Fiance.labelFemale>fiancé</Fiance.labelFemale>
-
+  
   <!-- EN: lover -->
   <Lover.label>leannán</Lover.label>
-
+  
   <!-- EN: father-in-law -->
   <ParentInLaw.label>athair céile</ParentInLaw.label>
   <!-- EN: mother-in-law -->
   <ParentInLaw.labelFemale>máthair chéile</ParentInLaw.labelFemale>
-
+  
   <!-- EN: husband -->
   <Spouse.label>fear céile</Spouse.label>
   <!-- EN: wife -->
   <Spouse.labelFemale>bean chéile</Spouse.labelFemale>
-
+  
   <!-- EN: stepson -->
   <Stepchild.label>leasmhac</Stepchild.label>
   <!-- EN: stepdaughter -->
   <Stepchild.labelFemale>leasiníon</Stepchild.labelFemale>
-
+  
   <!-- EN: stepfather -->
   <Stepparent.label>leasathair</Stepparent.label>
   <!-- EN: stepmother -->
   <Stepparent.labelFemale>leasmháthair</Stepparent.labelFemale>
-
+  
 </LanguageData>

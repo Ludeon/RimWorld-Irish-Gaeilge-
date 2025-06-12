@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: ancient complex -->
-  <AncientComplex.label>complexe ancien</AncientComplex.label>
+  <AncientComplex.label>TODO</AncientComplex.label>
   <!-- EN: An ancient complex containing treasure. -->
-  <AncientComplex.description>Un ancien complexe contenant un trésor.</AncientComplex.description>
+  <AncientComplex.description>TODO</AncientComplex.description>
   <!-- EN: Investigate {0} -->
-  <AncientComplex.approachingReportString>Enquête {0}</AncientComplex.approachingReportString>
+  <AncientComplex.approachingReportString>TODO</AncientComplex.approachingReportString>
   <!-- EN: Investigate {0} -->
-  <AncientComplex.approachOrderString>Enquêter {0}</AncientComplex.approachOrderString>
+  <AncientComplex.approachOrderString>TODO</AncientComplex.approachOrderString>
   
 </LanguageData>

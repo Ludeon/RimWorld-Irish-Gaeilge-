@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: glucosoid rush -->
-  <GlucosoidRush.label>Glukosoidrausch</GlucosoidRush.label>
+  <GlucosoidRush.label>TODO</GlucosoidRush.label>
   <!-- EN: Move speed is increased because this person used a glucosoid pump while deathresting. This effect lasts until the next deathrest. -->
-  <GlucosoidRush.description>Die Laufgeschwindigkeit ist erhöht, weil die Person beim Todesschlaf eine Glukosoidpumpe benutzt hat. Dieser Effekt hält bis zum nächsten Todesschlaf an.</GlucosoidRush.description>
+  <GlucosoidRush.description>TODO</GlucosoidRush.description>
   <!-- EN: Lasts until the next deathrest. -->
-  <GlucosoidRush.extraTooltip>Hält bis zum nächsten Todesschlaf an.</GlucosoidRush.extraTooltip>
+  <GlucosoidRush.extraTooltip>TODO</GlucosoidRush.extraTooltip>
   
   <!-- EN: hemogen amplified -->
-  <HemogenAmplified.label>Hämogenverstärkung</HemogenAmplified.label>
+  <HemogenAmplified.label>TODO</HemogenAmplified.label>
   <!-- EN: All hemogen gains are multiplied up because this person used a hemogen amplifier while deathresting. This effect lasts until the next deathrest. -->
-  <HemogenAmplified.description>Sämtlicher Hämogengewinn wird vervielfacht, weil die Person beim Todesschlaf einen Hämogenverstärker benutzt hat. Dieser Effekt hält bis zum nächsten Todesschlaf an.</HemogenAmplified.description>
+  <HemogenAmplified.description>TODO</HemogenAmplified.description>
   <!-- EN: Lasts until the next deathrest. -->
-  <HemogenAmplified.extraTooltip>Hält bis zum nächsten Todesschlaf an.</HemogenAmplified.extraTooltip>
+  <HemogenAmplified.extraTooltip>TODO</HemogenAmplified.extraTooltip>
   
   <!-- EN: psychofluid rush -->
-  <PsychofluidRush.label>Psychofluidrausch</PsychofluidRush.label>
+  <PsychofluidRush.label>TODO</PsychofluidRush.label>
   <!-- EN: Psychic sensitivity is enhanced because this person used a psychofluid pump while deathresting. This effect lasts until the next deathrest. -->
-  <PsychofluidRush.description>Die mentale Sensibilität ist erhöht, weil die Person beim Todesschlaf eine Psychofluidpumpe benutzt hat. Dieser Effekt hält bis zum nächsten Todesschlaf an.</PsychofluidRush.description>
+  <PsychofluidRush.description>TODO</PsychofluidRush.description>
   <!-- EN: Lasts until the next deathrest. -->
-  <PsychofluidRush.extraTooltip>Hält bis zum nächsten Todesschlaf an.</PsychofluidRush.extraTooltip>
+  <PsychofluidRush.extraTooltip>TODO</PsychofluidRush.extraTooltip>
   
 </LanguageData>

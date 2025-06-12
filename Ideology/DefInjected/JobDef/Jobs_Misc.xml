@@ -2,60 +2,60 @@
 <LanguageData>
   
   <!-- EN: invoking archotech. -->
-  <ActivateArchonexusCore.reportString>invoque l'archotech</ActivateArchonexusCore.reportString>
+  <ActivateArchonexusCore.reportString>TODO</ActivateArchonexusCore.reportString>
   
   <!-- EN: Blinding TargetA. -->
-  <Blind.reportString>Aveugle TargetA.</Blind.reportString>
+  <Blind.reportString>TODO</Blind.reportString>
   
   <!-- EN: carrying TargetA to biosculpter pod. -->
-  <CarryToBiosculpterPod.reportString>transporte TargetA vers la capsule de biosculptage.</CarryToBiosculpterPod.reportString>
+  <CarryToBiosculpterPod.reportString>TODO</CarryToBiosculpterPod.reportString>
   
   <!-- EN: delivering TargetA to altar. -->
-  <DeliverToAltar.reportString>délivre TargetA à l'autel.</DeliverToAltar.reportString>
+  <DeliverToAltar.reportString>TODO</DeliverToAltar.reportString>
   
   <!-- EN: dyeing hair -->
-  <DyeHair.reportString>se teint les cheveux</DyeHair.reportString>
+  <DyeHair.reportString>TODO</DyeHair.reportString>
   
   <!-- EN: entering biosculpter pod. -->
-  <EnterBiosculpterPod.reportString>entre dans la capsule de biosculptage.</EnterBiosculpterPod.reportString>
+  <EnterBiosculpterPod.reportString>TODO</EnterBiosculpterPod.reportString>
   
   <!-- EN: extracting TargetB from TargetA. -->
-  <ExtractRelic.reportString>extrait TargetB de TargetA.</ExtractRelic.reportString>
+  <ExtractRelic.reportString>TODO</ExtractRelic.reportString>
   
   <!-- EN: extracting TargetB to inventory. -->
-  <ExtractToInventory.reportString>extrait TargetB vers l'inventaire.</ExtractToInventory.reportString>
+  <ExtractToInventory.reportString>TODO</ExtractToInventory.reportString>
   
   <!-- EN: getting neural supercharge from TargetA -->
-  <GetNeuralSupercharge.reportString>obtient une suralimentation neuronale de TargetA.</GetNeuralSupercharge.reportString>
+  <GetNeuralSupercharge.reportString>TODO</GetNeuralSupercharge.reportString>
   
   <!-- EN: giving TargetA to TargetB. -->
-  <GiveToPawn.reportString>donne TargetA à TargetB.</GiveToPawn.reportString>
+  <GiveToPawn.reportString>TODO</GiveToPawn.reportString>
   
   <!-- EN: inducing TargetA to rebel. -->
-  <InduceSlaveToRebel.reportString>incite TargetA à se rebeller.</InduceSlaveToRebel.reportString>
+  <InduceSlaveToRebel.reportString>TODO</InduceSlaveToRebel.reportString>
   
   <!-- EN: installing TargetA in TargetB -->
-  <InstallRelic.reportString>installe TargetA dans TargetB.</InstallRelic.reportString>
+  <InstallRelic.reportString>TODO</InstallRelic.reportString>
   
   <!-- EN: praying. -->
-  <MeditatePray.reportString>prie.</MeditatePray.reportString>
+  <MeditatePray.reportString>TODO</MeditatePray.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <OpenStylingStationDialog.reportString>change de style à la TargetA.</OpenStylingStationDialog.reportString>
+  <OpenStylingStationDialog.reportString>TODO</OpenStylingStationDialog.reportString>
   
   <!-- EN: recoloring apparel -->
-  <RecolorApparel.reportString>recolore ses vêtements.</RecolorApparel.reportString>
+  <RecolorApparel.reportString>TODO</RecolorApparel.reportString>
   
   <!-- EN: Sacrificing TargetA. -->
-  <Sacrifice.reportString>sacrifie TargetA.</Sacrifice.reportString>
+  <Sacrifice.reportString>TODO</Sacrifice.reportString>
   
   <!-- EN: Scarifying TargetA. -->
-  <Scarify.reportString>scarifie TargetA.</Scarify.reportString>
+  <Scarify.reportString>TODO</Scarify.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStation.reportString>change de style à la TargetA.</UseStylingStation.reportString>
+  <UseStylingStation.reportString>TODO</UseStylingStation.reportString>
   
   <!-- EN: changing style at TargetA. -->
-  <UseStylingStationAutomatic.reportString>change de style à la TargetA.</UseStylingStationAutomatic.reportString>
+  <UseStylingStationAutomatic.reportString>TODO</UseStylingStationAutomatic.reportString>
   
 </LanguageData>

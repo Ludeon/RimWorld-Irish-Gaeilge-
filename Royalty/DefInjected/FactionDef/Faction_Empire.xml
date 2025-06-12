@@ -7,6 +7,8 @@
   <Empire.description>Sochaí ultra-theicneolaíoch a tháinig ón bpláinéad Sóifia. Tá a gcultúr bunaithe ar chód onóra, córas aicmeach agus nósanna dochta.\n\nMhair na daoine seo trí thubaiste ar a ndomhan féin. Theith siad chuig an bpláinéad iargúlta seo leis na spáslonga a bhí fágtha acu. Cé gur chaill siad cuid mhór sa tubáiste sin, tá siad fós an-chumhachtach, agus tá spáslonga agus teicneolaíocht ardleibhéil acu.\n\nNí bheidh siad sásta trádáil le duine ar bith nach bhfuil an teideal ríoga ceart aige.</Empire.description>
   <!-- EN: high stellarch -->
   <Empire.leaderTitle>ard-ghobharnóir réalta</Empire.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Empire.messageDefendersAttacking>TODO</Empire.messageDefendersAttacking>
   <!-- EN: imperial -->
   <Empire.pawnSingular>impireach</Empire.pawnSingular>
   <!-- EN: imperials -->

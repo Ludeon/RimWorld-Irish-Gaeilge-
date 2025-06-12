@@ -23,7 +23,7 @@
     <li>commentedabout->told a joke about</li>
   -->
   <Chitchat.logRulesInitiator.rulesStrings>
-     <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry->[talkedabout] [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->[commentedabout] [INITIATOR_nameDef] le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->Luaigh [INITIATOR_nameDef] rud le [RECIPIENT_nameDef] maidir le [subject].</li>
@@ -40,7 +40,7 @@
     <li>talkedabout->Bhí díospóireacht</li>
     <li>commentedabout->Bhí comhrá ag</li>
     <li>commentedabout->Labhair</li>
-   </Chitchat.logRulesInitiator.rulesStrings>
+  </Chitchat.logRulesInitiator.rulesStrings>
   
   <!-- EN: deep talk -->
   <DeepTalk.label>comhrá domhain</DeepTalk.label>
@@ -61,7 +61,7 @@
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
   -->
   <DeepTalk.logRulesInitiator.rulesStrings>
-     <li>r_logentry->Luaigh [INITIATOR_nameDef] cúpla smaoineamh le [RECIPIENT_nameDef] maidir le [subject].</li>
+    <li>r_logentry->Luaigh [INITIATOR_nameDef] cúpla smaoineamh le [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry->Bhí díospóireacht ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>r_logentry(p=0.8)->Phlé [INITIATOR_nameDef] agus [RECIPIENT_nameDef] roinnt rudaí maidir le [subject].</li>
     <li>r_logentry(p=0.8)->Roinn [INITIATOR_nameDef] smaointe éagsúla le [RECIPIENT_nameDef] maidir le [subject].</li>
@@ -69,7 +69,7 @@
     <li>r_logentry(p=0.8)->Bhí comhrá ciúin ag [INITIATOR_nameDef] agus [RECIPIENT_nameDef] maidir le [subject].</li>
     <li>subject(INITIATOR_cubeInterest==false)->[TalkTopicHeavy]</li>
     <li>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</li>
- </DeepTalk.logRulesInitiator.rulesStrings>
+  </DeepTalk.logRulesInitiator.rulesStrings>
   
   <!-- EN: insult -->
   <Insult.label>maslach</Insult.label>
@@ -113,7 +113,7 @@
     <li>insultcomparison(INITIATOR_cubeInterest==false)->naimhde</li>
     <li>insultcomparison(INITIATOR_cubeInterest==true)->cearnóg</li>
     <li>insultcomparison(INITIATOR_cubeInterest==true)->ainmhí fiáin</li>
- </Insult.logRulesInitiator.rulesStrings>
+  </Insult.logRulesInitiator.rulesStrings>
   
   <!-- EN: kind words -->
   <KindWords.label>cineálta</KindWords.label>
@@ -143,7 +143,7 @@
     <li>r_logentry->Dúirt [INITIATOR_nameDef] rudaí cineálta faoi [RECIPIENT_nameDef].</li>
     <li>r_logentry->Mhol [INITIATOR_nameDef] [RECIPIENT_nameDef] go hard na spéire.</li>
     <li>r_logentry->Dúirt [INITIATOR_nameDef] rudaí maithe faoi [RECIPIENT_nameDef].</li>
- </KindWords.logRulesInitiator.rulesStrings>
+  </KindWords.logRulesInitiator.rulesStrings>
   
   <!-- EN: slight -->
   <Slight.label>drochbhéasach</Slight.label>
@@ -177,6 +177,6 @@
     <li>r_logentry->Rinne [INITIATOR_nameDef] beag is fiú de [target].</li>
     <li>r_logentry->Thug [INITIATOR_nameDef] moladh faoi bhréagriocht do [target].</li>
     <li>r_logentry->Rinne [INITIATOR_nameDef] iarracht dallamullóg a chur ar [target].</li>
- </Slight.logRulesInitiator.rulesStrings>
+  </Slight.logRulesInitiator.rulesStrings>
   
 </LanguageData>

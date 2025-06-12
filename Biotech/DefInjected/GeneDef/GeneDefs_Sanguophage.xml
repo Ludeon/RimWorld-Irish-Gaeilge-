@@ -2,128 +2,128 @@
 <LanguageData>
   
   <!-- EN: ageless -->
-  <Ageless.label>neamhaosach</Ageless.label>
+  <Ageless.label>TODO</Ageless.label>
   <!-- EN: Carriers of this gene have archites in the bloodstream which continuously reverse the process of aging. Starting at the age of 13, carriers begin to biologically age slower. By 18, the aging process stops completely. -->
-  <Ageless.description>Iompróirí na géine seo, bíonn aircítí acu i sruth na fola a gcuireann moill ar an bpróiseas aosaithe. Faoin am go sriocheann siad 18 mbliana d'aois, stopann siad ag aosú.</Ageless.description>
+  <Ageless.description>TODO</Ageless.description>
   <!-- EN: god -->
-  <Ageless.symbolPack.prefixSymbols.0.symbol>Gott</Ageless.symbolPack.prefixSymbols.0.symbol>
+  <Ageless.symbolPack.prefixSymbols.0.symbol>TODO</Ageless.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: deo -->
-  <Ageless.symbolPack.prefixSymbols.1.symbol>Deo</Ageless.symbolPack.prefixSymbols.1.symbol>
+  <Ageless.symbolPack.prefixSymbols.1.symbol>TODO</Ageless.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: deu -->
-  <Ageless.symbolPack.prefixSymbols.2.symbol>Deu</Ageless.symbolPack.prefixSymbols.2.symbol>
+  <Ageless.symbolPack.prefixSymbols.2.symbol>TODO</Ageless.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: methu -->
-  <Ageless.symbolPack.prefixSymbols.3.symbol>Methu</Ageless.symbolPack.prefixSymbols.3.symbol>
+  <Ageless.symbolPack.prefixSymbols.3.symbol>TODO</Ageless.symbolPack.prefixSymbols.3.symbol>
   <!-- EN: god -->
-  <Ageless.symbolPack.suffixSymbols.0.symbol>gott</Ageless.symbolPack.suffixSymbols.0.symbol>
+  <Ageless.symbolPack.suffixSymbols.0.symbol>TODO</Ageless.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: deus -->
-  <Ageless.symbolPack.suffixSymbols.1.symbol>deus</Ageless.symbolPack.suffixSymbols.1.symbol>
+  <Ageless.symbolPack.suffixSymbols.1.symbol>TODO</Ageless.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: immortal -->
-  <Ageless.symbolPack.wholeNameSymbols.0.symbol>Unsterblicher</Ageless.symbolPack.wholeNameSymbols.0.symbol>
+  <Ageless.symbolPack.wholeNameSymbols.0.symbol>TODO</Ageless.symbolPack.wholeNameSymbols.0.symbol>
   <!-- EN: methuselah -->
-  <Ageless.symbolPack.wholeNameSymbols.1.symbol>Methusalem</Ageless.symbolPack.wholeNameSymbols.1.symbol>
+  <Ageless.symbolPack.wholeNameSymbols.1.symbol>TODO</Ageless.symbolPack.wholeNameSymbols.1.symbol>
   
   <!-- EN: archite metabolism -->
-  <ArchiteMetabolism.label>aircít-meitibileacht</ArchiteMetabolism.label>
+  <ArchiteMetabolism.label>TODO</ArchiteMetabolism.label>
   <!-- EN: Carriers of this gene have special archites in their cells that facilitate and optimize metabolism. This improves overall genetic and metabolic quality. -->
-  <ArchiteMetabolism.description>Iompróirí na géine seo, bíonn aircítí acu i sruth na fola a ndéanann optamú ar a meitibileacht. Ciallaíonn sé sin go mbíonn cáilíocht sláinte níos airde ag na daoine seo.</ArchiteMetabolism.description>
+  <ArchiteMetabolism.description>TODO</ArchiteMetabolism.description>
   <!-- EN: archite-metabolic -->
-  <ArchiteMetabolism.labelShortAdj>aircít-meitibileach</ArchiteMetabolism.labelShortAdj>
+  <ArchiteMetabolism.labelShortAdj>TODO</ArchiteMetabolism.labelShortAdj>
   
   <!-- EN: deathless -->
-  <Deathless.label>neamhbhásmhar</Deathless.label>
+  <Deathless.label>TODO</Deathless.label>
   <!-- EN: Carriers of this gene have archites in the blood which will sustain their life processes no matter what. As long as the brain remains intact, a carrier of this gene will never die. -->
-  <Deathless.description>Iompróirí na géine seo, bíonn aircítí acu i sruth na fola a gcoinníonn beo iad. Mura scriosfar inchinn an iompróra, ní gheobhaidh sé bás go nádúrtha.</Deathless.description>
+  <Deathless.description>TODO</Deathless.description>
   <!-- EN: Can only die from destruction of brain. -->
-  <Deathless.customEffectDescriptions.0>Ní gheobhaidh an duine seo bás, ach amháin má scriostar a inchinn.</Deathless.customEffectDescriptions.0>
+  <Deathless.customEffectDescriptions.0>TODO</Deathless.customEffectDescriptions.0>
   <!-- EN: god -->
-  <Deathless.symbolPack.prefixSymbols.0.symbol>Gott</Deathless.symbolPack.prefixSymbols.0.symbol>
+  <Deathless.symbolPack.prefixSymbols.0.symbol>TODO</Deathless.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: deo -->
-  <Deathless.symbolPack.prefixSymbols.1.symbol>Deo</Deathless.symbolPack.prefixSymbols.1.symbol>
+  <Deathless.symbolPack.prefixSymbols.1.symbol>TODO</Deathless.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: deu -->
-  <Deathless.symbolPack.prefixSymbols.2.symbol>Deu</Deathless.symbolPack.prefixSymbols.2.symbol>
+  <Deathless.symbolPack.prefixSymbols.2.symbol>TODO</Deathless.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: god -->
-  <Deathless.symbolPack.suffixSymbols.0.symbol>gott</Deathless.symbolPack.suffixSymbols.0.symbol>
+  <Deathless.symbolPack.suffixSymbols.0.symbol>TODO</Deathless.symbolPack.suffixSymbols.0.symbol>
   <!-- EN: deus -->
-  <Deathless.symbolPack.suffixSymbols.1.symbol>deus</Deathless.symbolPack.suffixSymbols.1.symbol>
+  <Deathless.symbolPack.suffixSymbols.1.symbol>TODO</Deathless.symbolPack.suffixSymbols.1.symbol>
   <!-- EN: immortal -->
-  <Deathless.symbolPack.wholeNameSymbols.0.symbol>Unsterblicher</Deathless.symbolPack.wholeNameSymbols.0.symbol>
+  <Deathless.symbolPack.wholeNameSymbols.0.symbol>TODO</Deathless.symbolPack.wholeNameSymbols.0.symbol>
   
   <!-- EN: deathrest -->
-  <Deathrest.label>codladh báis</Deathrest.label>
+  <Deathrest.label>TODO</Deathrest.label>
   <!-- EN: Carriers of this gene must periodically regenerate themselves in a special coma called deathrest. Deathrest takes days, but can confer substantial bonuses. Deathrest can be accelerated and its effects enhanced by the use of a variety of special buildings and technologies.\n\nThose who put off deathresting will suffer from deathrest exhaustion. -->
-  <Deathrest.description>Iompróirí na géine seo, ní mór dóibh iad féin a athnuachan ó am go chéile i gcóma speisialta ar a dtugtar "codladh báis". Maireann codladh báis roinnt laethanta, ach tá go leor buntáistí ag baint leis. Is féidir trealamh agus teicneolaíocht speisialta a úsáid chun codladh báis a dhéanamh níos tapúla.\n\nMura ndéanfaidh iompróir na géine seo codladh báis go rialta, tiocfaidh tuirse agus moill air.</Deathrest.description>
+  <Deathrest.description>TODO</Deathrest.description>
   <!-- EN: death -->
-  <Deathrest.symbolPack.prefixSymbols.0.symbol>Tod</Deathrest.symbolPack.prefixSymbols.0.symbol>
+  <Deathrest.symbolPack.prefixSymbols.0.symbol>TODO</Deathrest.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: dead -->
-  <Deathrest.symbolPack.prefixSymbols.1.symbol>Tot</Deathrest.symbolPack.prefixSymbols.1.symbol>
+  <Deathrest.symbolPack.prefixSymbols.1.symbol>TODO</Deathrest.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: still -->
-  <Deathrest.symbolPack.prefixSymbols.2.symbol>Ruh</Deathrest.symbolPack.prefixSymbols.2.symbol>
+  <Deathrest.symbolPack.prefixSymbols.2.symbol>TODO</Deathrest.symbolPack.prefixSymbols.2.symbol>
   <!-- EN: rester -->
-  <Deathrest.symbolPack.suffixSymbols.0.symbol>schläfer</Deathrest.symbolPack.suffixSymbols.0.symbol>
+  <Deathrest.symbolPack.suffixSymbols.0.symbol>TODO</Deathrest.symbolPack.suffixSymbols.0.symbol>
   
   <!-- EN: non-senescent -->
-  <DiseaseFree.label>neamh-aosúchach</DiseaseFree.label>
+  <DiseaseFree.label>TODO</DiseaseFree.label>
   <!-- EN: Carriers of this gene do not go through senescence in the normal way. They never get chronic age-related diseases like cancer, bad back, cataracts, or dementia. -->
-  <DiseaseFree.description>Ní bhíonn aon éifeacht ag próiseas an aosúchais ar iompróirí na géine seo. Ní fhaigheann siad galair seanaoise ar nós ailse, cataracht nó néaltrú.</DiseaseFree.description>
+  <DiseaseFree.description>TODO</DiseaseFree.description>
   
   <!-- EN: pyrophobia -->
-  <FireTerror.label>pireafóibea</FireTerror.label>
+  <FireTerror.label>TODO</FireTerror.label>
   <!-- EN: Carriers of this gene have an intense fear of fire. When fires are close, there is a chance they will have a mental breakdown at any moment. -->
-  <FireTerror.description>Bíonn eagla láidir roimh thine ar iompróirí na géine seo. Má a fheiceann na daoine seo tine, tá seans ann go mbeidh cliseadh néarógach acu.</FireTerror.description>
+  <FireTerror.description>TODO</FireTerror.description>
   <!-- EN: May have a mental breakdown when near fires. -->
-  <FireTerror.customEffectDescriptions.0>D'fhéadfadh sé go mbeidh cliseadh néarógach ag an duine seo má fheiceann sé tine.</FireTerror.customEffectDescriptions.0>
+  <FireTerror.customEffectDescriptions.0>TODO</FireTerror.customEffectDescriptions.0>
   <!-- EN: pyrophobic -->
-  <FireTerror.labelShortAdj>pireafóibeach</FireTerror.labelShortAdj>
+  <FireTerror.labelShortAdj>TODO</FireTerror.labelShortAdj>
   
   <!-- EN: tinderskin -->
-  <FireWeakness.label>Zunderhaut</FireWeakness.label>
+  <FireWeakness.label>TODO</FireWeakness.label>
   <!-- EN: Carriers have dry, thin skin which burns easily from fire, and their immune systems react very poorly to this kind of threat. Damage from fire is multiplied by 4. -->
-  <FireWeakness.description>Träger dieses Gens haben eine Haut, die trocken, dünn und feueranfällig ist. Ihr Immunsystem reagiert sehr schlecht auf diese Art von Bedrohung. Der Schaden durch Feuer wird mit 4 multipliziert.</FireWeakness.description>
+  <FireWeakness.description>TODO</FireWeakness.description>
   <!-- EN: tinderskin -->
-  <FireWeakness.labelShortAdj>Zunderhaut</FireWeakness.labelShortAdj>
+  <FireWeakness.labelShortAdj>TODO</FireWeakness.labelShortAdj>
   <!-- EN: dry -->
-  <FireWeakness.symbolPack.prefixSymbols.0.symbol>Trocken</FireWeakness.symbolPack.prefixSymbols.0.symbol>
+  <FireWeakness.symbolPack.prefixSymbols.0.symbol>TODO</FireWeakness.symbolPack.prefixSymbols.0.symbol>
   <!-- EN: tinder -->
-  <FireWeakness.symbolPack.prefixSymbols.1.symbol>Zunder</FireWeakness.symbolPack.prefixSymbols.1.symbol>
+  <FireWeakness.symbolPack.prefixSymbols.1.symbol>TODO</FireWeakness.symbolPack.prefixSymbols.1.symbol>
   <!-- EN: kindle -->
-  <FireWeakness.symbolPack.prefixSymbols.2.symbol>Entfach</FireWeakness.symbolPack.prefixSymbols.2.symbol>
+  <FireWeakness.symbolPack.prefixSymbols.2.symbol>TODO</FireWeakness.symbolPack.prefixSymbols.2.symbol>
   
   <!-- EN: hemogen drain -->
-  <HemogenDrain.label>haemaigin íseal</HemogenDrain.label>
+  <HemogenDrain.label>TODO</HemogenDrain.label>
   <!-- EN: Carriers lose an additional 8 hemogen per day from biological entropy. -->
-  <HemogenDrain.description>Cailleann iompróirí 8 aonad haemaigine sa lá mar gheall ar phróisis bhitheolaíochta.</HemogenDrain.description>
+  <HemogenDrain.description>TODO</HemogenDrain.description>
   <!-- EN: draining -->
-  <HemogenDrain.labelShortAdj>Entzug</HemogenDrain.labelShortAdj>
+  <HemogenDrain.labelShortAdj>TODO</HemogenDrain.labelShortAdj>
   <!-- EN: hemogen -->
-  <HemogenDrain.resourceLabel>hämogen</HemogenDrain.resourceLabel>
+  <HemogenDrain.resourceLabel>TODO</HemogenDrain.resourceLabel>
   
   <!-- EN: hemogenic -->
-  <Hemogenic.label>haemaigineach</Hemogenic.label>
+  <Hemogenic.label>TODO</Hemogenic.label>
   <!-- EN: Carriers of this gene have a reserve of biological strength powered by a resource called hemogen. The resource can be gained and spent in various ways, all of which are unlocked by other genes.\n\nCarriers lose 2 hemogen per day from biological entropy. -->
-  <Hemogenic.description>Iompróirí na géine seo, bíonn acmhainn bhitheolaíoch i sruth na fola acu ar a dtugtar haemaigin. Tugann haemaigin láidreacht speisialta don iompróir, agus is féidir í a úsáid ar bhealaí éagsúla. Braitheann éifeachtaí haemaigine ar ghéinte eile.\n\nCailleann iompróirí 2 aonad haemaigine sa lá mar gheall ar phróisis bhitheolaíochta.</Hemogenic.description>
+  <Hemogenic.description>TODO</Hemogenic.description>
   <!-- EN: Gives hemogen supply. -->
-  <Hemogenic.customEffectDescriptions.0>Bíonn haemaigin ag iompróirí na géine seo.</Hemogenic.customEffectDescriptions.0>
+  <Hemogenic.customEffectDescriptions.0>TODO</Hemogenic.customEffectDescriptions.0>
   <!-- EN: A reserve of biological strength which can be gained and spent in a variety of ways.\n\nHemogen can be increased by bloodfeeding from a human or consuming hemogen packs. You can obtain hemogen packs using the 'extract hemogen pack' medical operation on a non-hemogenic human.\n\nIf hemogen reaches zero, {PAWN_nameDef} will become very unhappy. -->
-  <Hemogenic.resourceDescription>Ein biologischer Kräftevorrat, der auf verschiedene Weise gewonnen und verbraucht werden kann.\n\nHämogen kann durch das Saugen von menschlichem Blut oder den Konsum von Hämogenpaketen erhöht werden. Hämogenpakete können per Operation aus einem nicht-hämogenischen Menschen extrahiert werden.\n\nWenn Hämogen auf 0 ist, bekommt {PAWN_nameDef} sehr schlechte Laune.</Hemogenic.resourceDescription>
+  <Hemogenic.resourceDescription>TODO</Hemogenic.resourceDescription>
   <!-- EN: hemogen -->
-  <Hemogenic.resourceLabel>Hämogen</Hemogenic.resourceLabel>
+  <Hemogenic.resourceLabel>TODO</Hemogenic.resourceLabel>
   <!-- EN: hemo -->
-  <Hemogenic.symbolPack.prefixSymbols.0.symbol>Hämo</Hemogenic.symbolPack.prefixSymbols.0.symbol>
+  <Hemogenic.symbolPack.prefixSymbols.0.symbol>TODO</Hemogenic.symbolPack.prefixSymbols.0.symbol>
   
   <!-- EN: perfect immunity -->
-  <PerfectImmunity.label>imdhíonacht fhoirfe</PerfectImmunity.label>
+  <PerfectImmunity.label>TODO</PerfectImmunity.label>
   <!-- EN: Carriers of this gene have archite-enhanced immune systems which intelligently destroy invaders. They are totally immune to most normal illnesses. -->
-  <PerfectImmunity.description>Bíonn imdhíonacht fhoirfe ag iompróirí na géine seo mar gheall ar aircítí i sruth na fola. Tá siad iomlán imdhíonacht ar beagnach gach galar.</PerfectImmunity.description>
+  <PerfectImmunity.description>TODO</PerfectImmunity.description>
   <!-- EN: perfect-immune -->
-  <PerfectImmunity.labelShortAdj>imdhíonach</PerfectImmunity.labelShortAdj>
+  <PerfectImmunity.labelShortAdj>TODO</PerfectImmunity.labelShortAdj>
   
   <!-- EN: scarless -->
-  <TotalHealing.label>doghortaithe</TotalHealing.label>
+  <TotalHealing.label>TODO</TotalHealing.label>
   <!-- EN: Carriers of this gene have a special type of regenerator cell which can heal old wounds and chronic illnesses like bad back. -->
-  <TotalHealing.description>Tá cealla speisialta ag iompróirí na géine seo, a gcneasaíonn seanghortuithe agus galair ainsealacha.</TotalHealing.description>
+  <TotalHealing.description>TODO</TotalHealing.description>
   <!-- EN: Every (*DateTime)15-30 days(/DateTime), one old wound or chronic illness is healed. -->
-  <TotalHealing.customEffectDescriptions.0>Gach (*DateTime)15-30 Tage(/DateTime), cneasaítear seanghortú nó galar ainsealach.</TotalHealing.customEffectDescriptions.0>
+  <TotalHealing.customEffectDescriptions.0>TODO</TotalHealing.customEffectDescriptions.0>
   <!-- EN: scarless -->
-  <TotalHealing.labelShortAdj>doghortaithe</TotalHealing.labelShortAdj>
+  <TotalHealing.labelShortAdj>TODO</TotalHealing.labelShortAdj>
   
 </LanguageData>

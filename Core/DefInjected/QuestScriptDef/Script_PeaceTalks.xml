@@ -20,7 +20,7 @@
     <li>leaderRoleEffect->Beidh níos mó ómóis ag na faicsin eile orainn má sheolaimid ár gceannaire chuig na cainteanna.</li>
     <li>leaderPawnInfo(playerFaction_hasLeader==True,priority=1)-> Beidh buntáiste ag [playerFaction_leader_nameFull], [playerFaction_leaderTitle], sna cainteanna.</li>
     <li>leaderPawnInfo-></li>
- </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
+  </OpportunitySite_PeaceTalks.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[faction_leader_nameDef]'s [peaceTalks]</li>
     <li>questName->[peaceTalks] with [faction_leader_nameDef]</li>
@@ -37,7 +37,7 @@
     <li>peaceTalks->Cainteanna Síochána</li>
     <li>peaceTalks->Taidhleoireacht</li>
     <li>peaceTalks->Cruinniú</li>
- </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
+  </OpportunitySite_PeaceTalks.questNameRules.rulesStrings>
   <!-- EN: Quest expired: [resolvedQuestName] -->
   <OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>Misean imithe in éag: [resolvedQuestName]</OpportunitySite_PeaceTalks.LetterLabelQuestExpired.slateRef>
   <!-- EN: The offer of peace talks with [faction_name] has expired. You have failed the quest [resolvedQuestName]. -->

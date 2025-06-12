@@ -2,134 +2,134 @@
 <LanguageData>
 
   <!-- EN: The recipe {0} requires a mechanitor to work on it. None of your colonists are mechanitors, so nobody will do this bill. -->
-  <RecipeRequiresMechanitor>The recipe {0} requires a mechanitor to work on it. None of your colonists are mechanitors, so nobody will do this bill.</RecipeRequiresMechanitor>
+  <RecipeRequiresMechanitor>TODO</RecipeRequiresMechanitor>
 
   <!-- EN: genepacks -->
-  <GenepackPlural>genepacks</GenepackPlural>
+  <GenepackPlural>TODO</GenepackPlural>
   <!-- EN: Traits develop later during childhood -->
-  <TraitsDevelopLaterBaby>Traits develop later during childhood</TraitsDevelopLaterBaby>
+  <TraitsDevelopLaterBaby>TODO</TraitsDevelopLaterBaby>
   <!-- EN: Skills develop later during childhood -->
-  <SkillsDevelopLaterBaby>Skills develop later during childhood</SkillsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>TODO</SkillsDevelopLaterBaby>
   <!-- EN: Genes -->
-  <TabGenes>Genes</TabGenes>
+  <TabGenes>TODO</TabGenes>
 
   <!-- EN: View genes -->
-  <ViewGenes>View genes</ViewGenes>
+  <ViewGenes>TODO</ViewGenes>
   <!-- EN: Click to view {PAWN_nameDef}'s genes. -->
-  <ViewGenesDesc>Click to view {PAWN_nameDef}'s genes.</ViewGenesDesc>
+  <ViewGenesDesc>TODO</ViewGenesDesc>
 
   <!-- Feeding tab (human babies) -->
   <!-- EN: Feeding -->
-  <TabFeeding>Feeding</TabFeeding>
+  <TabFeeding>TODO</TabFeeding>
   <!-- EN: Auto feed settings -->
-  <AutofeedSectionHeader>Auto feed settings</AutofeedSectionHeader>
+  <AutofeedSectionHeader>TODO</AutofeedSectionHeader>
   <!-- EN: never -->
-  <AutofeedModeNever>never</AutofeedModeNever>
+  <AutofeedModeNever>TODO</AutofeedModeNever>
   <!-- EN: childcare -->
-  <AutofeedModeChildcare>childcare</AutofeedModeChildcare>
+  <AutofeedModeChildcare>TODO</AutofeedModeChildcare>
   <!-- EN: urgent -->
-  <AutofeedModeUrgent>urgent</AutofeedModeUrgent>
+  <AutofeedModeUrgent>TODO</AutofeedModeUrgent>
   <!-- EN: Nobody can feed this baby. -->
-  <AutofeedNone>Nobody can feed this baby.</AutofeedNone>
+  <AutofeedNone>TODO</AutofeedNone>
   <!-- EN: {FEEDER_nameDef} will not automatically feed {BABY_nameDef}. -->
-  <AutofeedModeTooltipNever>{FEEDER_nameDef} will not automatically feed {BABY_nameDef}.</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipNever>TODO</AutofeedModeTooltipNever>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} as childcare work. -->
-  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} will feed {BABY_nameDef} as childcare work.</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipChildcare>TODO</AutofeedModeTooltipChildcare>
   <!-- EN: {FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare. -->
-  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} will feed {BABY_nameDef} day or night, even if {FEEDER_nameDef} is not assigned to childcare or is incapable of childcare.</AutofeedModeTooltipUrgent>
+  <AutofeedModeTooltipUrgent>TODO</AutofeedModeTooltipUrgent>
   <!-- EN: Consumable foods -->
-  <BabyFoodConsumables>Consumable foods</BabyFoodConsumables>
+  <BabyFoodConsumables>TODO</BabyFoodConsumables>
 
   <!-- Social tab (human babies) -->
   <!-- EN: ideoligion exposure -->
-  <IdeoExposureSectionHeader>ideoligion exposure</IdeoExposureSectionHeader>
+  <IdeoExposureSectionHeader>TODO</IdeoExposureSectionHeader>
   <!-- EN: {BABY_labelShort} has not been exposed to any ideoligions yet. -->
-  <IdeoExposureNoExposure>{BABY_labelShort} has not been exposed to any ideoligions yet.</IdeoExposureNoExposure>
+  <IdeoExposureNoExposure>TODO</IdeoExposureNoExposure>
   <!-- EN: {BABY_pronoun} can be exposed to ideoligions by interacting with followers of an ideoligion. These interactions include being breastfed, carried, played with, and more. At the age of {CHILDAGE} {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to. -->
-  <IdeoExposureNoExposureDetail>{BABY_pronoun} can be exposed to ideoligions by interacting with followers of an ideoligion. These interactions include being breastfed, carried, played with, and more. At the age of {CHILDAGE} {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to.</IdeoExposureNoExposureDetail>
+  <IdeoExposureNoExposureDetail>TODO</IdeoExposureNoExposureDetail>
   <!-- EN: {BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}. -->
-  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} is {PERCENT} likely to join the ideoligion {IDEO_name}.</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinLikelihood>TODO</IdeoExposurePointsTooltipJoinLikelihood>
   <!-- EN: As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}. -->
-  <IdeoExposurePointsTooltipJoinDescription>As {BABY_labelShort} interacts with followers of an ideoligion {BABY_pronoun} becomes more likely to join that ideoligion. {BABY_labelShort} will join one of the ideoligions {BABY_pronoun} has been exposed to at the age of {CHILDAGE}.</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipJoinDescription>TODO</IdeoExposurePointsTooltipJoinDescription>
   <!-- EN: Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with. -->
-  <IdeoExposurePointsTooltipExposureDescription>Ideoligion exposure is measured by exposure points. Interactions like being breastfed, carried, or played with will cause {BABY_labelShort} to gain exposure points for the ideoligions followed by those {BABY_pronoun} interacts with.</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipExposureDescription>TODO</IdeoExposurePointsTooltipExposureDescription>
   <!-- EN: {IDEO_name} exposure points -->
-  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name} exposure points</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipIdeoExposure>TODO</IdeoExposurePointsTooltipIdeoExposure>
   <!-- EN: Total exposure points -->
-  <IdeoExposurePointsTooltipTotalExposure>Total exposure points</IdeoExposurePointsTooltipTotalExposure>
+  <IdeoExposurePointsTooltipTotalExposure>TODO</IdeoExposurePointsTooltipTotalExposure>
 
   <!-- Social tab (romance) -->
   <!-- EN: Romance -->
-  <TryRomanceButtonLabel>Romance</TryRomanceButtonLabel>
+  <TryRomanceButtonLabel>TODO</TryRomanceButtonLabel>
   <!-- EN: Nobody for {0_labelShort} to romance. -->
-  <TryRomanceNoOptsMessage>Nobody for {0_labelShort} to romance.</TryRomanceNoOptsMessage>
+  <TryRomanceNoOptsMessage>TODO</TryRomanceNoOptsMessage>
   <!-- EN: unreachable -->
-  <CantRomanceTargetUnreachable>unreachable</CantRomanceTargetUnreachable>
+  <CantRomanceTargetUnreachable>TODO</CantRomanceTargetUnreachable>
   <!-- EN: sleeping -->
-  <CantRomanceTargetSleeping>sleeping</CantRomanceTargetSleeping>
+  <CantRomanceTargetSleeping>TODO</CantRomanceTargetSleeping>
   <!-- EN: incapacitated -->
-  <CantRomanceTargetDowned>incapacitated</CantRomanceTargetDowned>
+  <CantRomanceTargetDowned>TODO</CantRomanceTargetDowned>
   <!-- EN: drafted -->
-  <CantRomanceTargetDrafted>drafted</CantRomanceTargetDrafted>
+  <CantRomanceTargetDrafted>TODO</CantRomanceTargetDrafted>
   <!-- EN: mental break -->
-  <CantRomanceTargetMentalState>mental break</CantRomanceTargetMentalState>
+  <CantRomanceTargetMentalState>TODO</CantRomanceTargetMentalState>
   <!-- EN: incestuous -->
-  <CantRomanceTargetIncest>incestuous</CantRomanceTargetIncest>
+  <CantRomanceTargetIncest>TODO</CantRomanceTargetIncest>
   <!-- EN: low opinion -->
-  <CantRomanceTargetOpinion>low opinion</CantRomanceTargetOpinion>
+  <CantRomanceTargetOpinion>TODO</CantRomanceTargetOpinion>
   <!-- EN: incompatible orientation -->
-  <CantRomanceTargetSexuality>incompatible orientation</CantRomanceTargetSexuality>
+  <CantRomanceTargetSexuality>TODO</CantRomanceTargetSexuality>
   <!-- EN: prisoner -->
-  <CantRomanceTargetPrisoner>prisoner</CantRomanceTargetPrisoner>
+  <CantRomanceTargetPrisoner>TODO</CantRomanceTargetPrisoner>
   <!-- EN: too young -->
-  <CantRomanceTargetYoung>too young</CantRomanceTargetYoung>
+  <CantRomanceTargetYoung>TODO</CantRomanceTargetYoung>
   <!-- EN: zero chance -->
-  <CantRomanceTargetZeroChance>zero chance</CantRomanceTargetZeroChance>
+  <CantRomanceTargetZeroChance>TODO</CantRomanceTargetZeroChance>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is a prisoner. -->
-  <CantRomanceInitiateMessagePrisoner>{0_labelShort} cannot try to romance because {0_pronoun} is a prisoner.</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessagePrisoner>TODO</CantRomanceInitiateMessagePrisoner>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is a slave. -->
-  <CantRomanceInitiateMessageSlave>{0_labelShort} cannot try to romance because {0_pronoun} is a slave.</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageSlave>TODO</CantRomanceInitiateMessageSlave>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} has the asexual trait. -->
-  <CantRomanceInitiateMessageAsexual>{0_labelShort} cannot try to romance because {0_pronoun} has the asexual trait.</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageAsexual>TODO</CantRomanceInitiateMessageAsexual>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is incapacitated. -->
-  <CantRomanceInitiateMessageDowned>{0_labelShort} cannot try to romance because {0_pronoun} is incapacitated.</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDowned>TODO</CantRomanceInitiateMessageDowned>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is drafted. -->
-  <CantRomanceInitiateMessageDrafted>{0_labelShort} cannot try to romance because {0_pronoun} is drafted.</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageDrafted>TODO</CantRomanceInitiateMessageDrafted>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state. -->
-  <CantRomanceInitiateMessageMentalState>{0_labelShort} cannot try to romance because {0_pronoun} is in an unfit mental state.</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageMentalState>TODO</CantRomanceInitiateMessageMentalState>
   <!-- EN: {0_labelShort} cannot try to romance because {0_pronoun} is unable to speak. -->
-  <CantRomanceInitiateMessageTalk>{0_labelShort} cannot try to romance because {0_pronoun} is unable to speak.</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageTalk>TODO</CantRomanceInitiateMessageTalk>
   <!-- EN: {0_labelShort} tried romancing recently and must wait {1} until trying again. -->
-  <CantRomanceInitiateMessageCooldown>{0_labelShort} tried romancing recently and must wait {1} until trying again.</CantRomanceInitiateMessageCooldown>
+  <CantRomanceInitiateMessageCooldown>TODO</CantRomanceInitiateMessageCooldown>
   <!-- EN: {0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful. -->
-  <TryRomanceFailedMessage>{0_labelShort}'s attempt to romance {1_labelShort} was unsuccessful.</TryRomanceFailedMessage>
+  <TryRomanceFailedMessage>TODO</TryRomanceFailedMessage>
   <!-- EN: Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations. -->
-  <RomanceExistingRelationshipWarning>Having {INITIATOR_nameDef} romance {TARGET_nameDef} could sow resentment among existing partners, lead to breakups, and cause altercations.</RomanceExistingRelationshipWarning>
+  <RomanceExistingRelationshipWarning>TODO</RomanceExistingRelationshipWarning>
   <!-- EN: Romance chance -->
-  <RomanceChance>Romance chance</RomanceChance>
+  <RomanceChance>TODO</RomanceChance>
   <!-- EN: already {PAWN_nameDef}'s {RELATION} -->
-  <RomanceChanceExistingRelation>already {PAWN_nameDef}'s {RELATION}</RomanceChanceExistingRelation>
+  <RomanceChanceExistingRelation>TODO</RomanceChanceExistingRelation>
   <!-- EN: Cannot romance -->
-  <RomanceChanceCant>Cannot romance</RomanceChanceCant>
+  <RomanceChanceCant>TODO</RomanceChanceCant>
   <!-- EN: Relative age -->
-  <RomanceChanceAgeFactor>Relative age</RomanceChanceAgeFactor>
+  <RomanceChanceAgeFactor>TODO</RomanceChanceAgeFactor>
   <!-- EN: Beauty -->
-  <RomanceChanceBeautyFactor>Beauty</RomanceChanceBeautyFactor>
+  <RomanceChanceBeautyFactor>TODO</RomanceChanceBeautyFactor>
   <!-- EN: Opinion -->
-  <RomanceChanceOpinionFactor>Opinion</RomanceChanceOpinionFactor>
+  <RomanceChanceOpinionFactor>TODO</RomanceChanceOpinionFactor>
   <!-- EN: Opinion of partner -->
-  <RomanceChancePartnerFactor>Opinion of partner</RomanceChancePartnerFactor>
+  <RomanceChancePartnerFactor>TODO</RomanceChancePartnerFactor>
   <!-- EN: {0_labelShort} was unable to romance {1_labelShort} -->
-  <RomanceFailedUnexpected>{0_labelShort} was unable to romance {1_labelShort}</RomanceFailedUnexpected>
+  <RomanceFailedUnexpected>TODO</RomanceFailedUnexpected>
   <!-- EN: {0_nameDef} is already in a relationship. -->
-  <RomanceWarningMonogamous>{0_nameDef} is already in a relationship.</RomanceWarningMonogamous>
+  <RomanceWarningMonogamous>TODO</RomanceWarningMonogamous>
   <!-- EN: {0_nameDef} already has {1} partners. -->
-  <RomanceWarningPolygamous>{0_nameDef} already has {1} partners.</RomanceWarningPolygamous>
+  <RomanceWarningPolygamous>TODO</RomanceWarningPolygamous>
 
   <!-- Guest tab (prisoners) -->
   <!-- EN: Genes -->
-  <FactorForGenes>Multiplier for genes</FactorForGenes>
+  <FactorForGenes>TODO</FactorForGenes>
   <!-- EN: Prison breaking is disabled by {GENE_label} gene. -->
-  <PrisonBreakingDisabledDueToGene>Prison breaking is disabled by {GENE_label} gene.</PrisonBreakingDisabledDueToGene>
+  <PrisonBreakingDisabledDueToGene>TODO</PrisonBreakingDisabledDueToGene>
 
 </LanguageData>

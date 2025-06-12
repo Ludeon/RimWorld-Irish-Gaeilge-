@@ -1,121 +1,121 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: Animals will attack doors -->
   <AnimalsDontAttackDoors.label>Ionsóidh ainmhithe doirse</AnimalsDontAttackDoors.label>
   <!-- EN: Manhunting animals will attack doors if they see one of your colonists moving through them. They will also attack inactive turrets. -->
   <AnimalsDontAttackDoors.helpText>Ionsóidh ainmhithe doirse má fheiceann siad do choilínigh ag dul tríothu. Ionsóidh siad túiríní freisin.</AnimalsDontAttackDoors.helpText>
-
+  
   <!-- EN: Bills tab -->
   <BillsTab.label>Táb na mbillí</BillsTab.label>
   <!-- EN: To make colonists work at a table, select the table and open the Bills tab. Here, you can say what meals to cook, what things to craft, what creatures to butcher. -->
   <BillsTab.helpText>Chun a rá le do choilínigh dul i mbun oibre ag bord, roghnaigh an bord agus oscail táb na mBillí. Anseo, is féidir orduithe a thabhairt maidir le rudaí atá le déanamh, béilí atá le réiteach agus ainmhithe atá le marú.</BillsTab.helpText>
-
+  
   <!-- EN: books -->
   <Books.label>Leabhair</Books.label>
   <!-- EN: Colonists read books for recreation, to gain skills, to unlock research, and more. You can see a specific book's effects by selecting it and opening its 'Details' tab.\n\nTo choose what colonists will read, open the ASSIGN tab and configure READING POLICIES.\n\nStore books in bookcases to passively enhance intellectual and reading work done nearby, and increase the beauty of the bookcase. Bookcases passively increase research speed, XP gained from reading, and recreation gained from reading in the same room. -->
   <Books.helpText>Is maith le coilínigh leabhair a léamh, agus is féidir leo scileanna nua a fhoghlaim agus taighde nua a aimsiú i leabhair. Is féidir breathnú ar na héifeachtaí a bhaineann le leabhar ach cliceáil air agus an táb "Eolas" a roghnú.</Books.helpText>
-
+  
   <!-- EN: Build orbital trade beacon -->
   <BuildOrbitalTradeBeacon.label>Tóg aeróg trádála</BuildOrbitalTradeBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
   <BuildOrbitalTradeBeacon.helpText>Ní mór AERÓG TRÁDÁLA a thógáil agus stoc-charn a chur taobh leis sula mbeidh tú in ann earraí nó airgead a sheoladh chuig spás-trádálaithe.</BuildOrbitalTradeBeacon.helpText>
-
+  
   <!-- EN: Capturing -->
   <Capturing.label>Príosúnaigh</Capturing.label>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, right-click on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
   <Capturing.helpText>Nuair atá duine leagtha (ach fós beo) féadfaidh tú iad a GHABHÁIL.\n\nChun duine a ghabháil, roghnaigh coilíneach, deaschliceáil ar naimhde leagtha, agus roghnaigh GABH.\n\nBeidh leaba príosúnaigh de dhíth ort.</Capturing.helpText>
   <!-- EN: When an enemy is downed on the ground but not dead, you can CAPTURE them.\n\nTo capture, select a colonist, press the left trigger button on the incapacitated enemy, and select Capture.\n\nYou'll need an extra bed marked for prisoner use. -->
   <Capturing.helpTextController>Nuair atá duine leagtha (ach fós beo) féadfaidh tú iad a GHABHÁIL.\n\nChun duine a ghabháil, roghnaigh coilíneach, cliceáil ar naimhde leagtha leis an truicear clé, agus roghnaigh GABH.\n\nBeidh leaba príosúnaigh de dhíth ort.</Capturing.helpTextController>
-
+  
   <!-- EN: Door opening speeds -->
   <DoorOpenSpeed.label>Oscail an doras!</DoorOpenSpeed.label>
   <!-- EN: Doors open at different speeds depending on what they're made of.\n\nWarning: Stone doors open very slowly. Anyone passing through will be significantly slowed down. -->
   <DoorOpenSpeed.helpText>Osclaíonn doirse áirithe níos tapúla ná doirse eile, ag brath ar an ábhar as a bhfuil siad déanta.\n\nBí cúramach: osclaíonn doirse cloiche go han-mhall.</DoorOpenSpeed.helpText>
-
+  
   <!-- EN: Drafting for combat -->
   <Drafting.label>Coinnigh ort ag saighdiúireacht</Drafting.label>
   <!-- EN: To control colonists directly for combat, Draft them by selecting them and hitting the DRAFT button.\n\nA drafted colonist will do only what you tell them, and can only take combat actions. Those with weapons will use them when possible.\n\nDon't leave colonists Drafted forever - they'll starve and become unhappy. -->
   <Drafting.helpText>Is féidir ceannas díreach a ghlacadh ar choilínigh le linn troda, ach iad a DRÉACHTÚ.\n\nNí dhéanfaidh coilínigh dréachtaithe ach an méid a deir tú leo, agus an méid sin amháin. Má tá airm acu, bainfidh siad úsáid astu.\n\nNá coinnigh do choilínigh dreáchtaithe rófhada - tiocfaidh ocras orthu agus beidh siad míshásta.</Drafting.helpText>
-
+  
   <!-- EN: Drug addiction -->
   <DrugAddiction.label>Gafa le drugaí</DrugAddiction.label>
   <!-- EN: You can inspect your colonists' desire to take a drug in their Needs tab.\n\nAs long as their need level is at zero, their addiction changes to a "withdrawal" state which can have various negative side effects.\n\nHowever, after long enough in withdrawal, their addiction will end and the drug need will disappear. -->
   <DrugAddiction.helpText>Uaireanta bíonn fonn ar do choilínigh drugaí a úsáid. Is féidir an stádas sin a sheiceáil ach cliceáil ar an táb "RIACHTANAIS".</DrugAddiction.helpText>
-
+  
   <!-- EN: Drug burning -->
   <DrugBurning.label>Drugaí a scrios</DrugBurning.label>
   <!-- EN: Drugs can be useful, but can also lead to harmful addictions.\n\nIf you want to avoid drugs in your colony, you have the option of burning them at a campfire. -->
   <DrugBurning.helpText>Bíonn drugaí úsáideach uaireanta, ach bíonn siad dáinséarach in amanna.\n\nMás maith leat fáil réidh le drugaí i do choilíneacht, is féidir iad a scrios i gcampa tine.</DrugBurning.helpText>
-
+  
   <!-- EN: Drug policies -->
   <DrugPolicies.label>Drugaí</DrugPolicies.label>
   <!-- EN: You can assign colonists to take specific drugs on a specific schedule. For example, you can make them take infection-blocking drugs regularly, or drink a beer a day to stay happy.\n\nOpen the ASSIGN tab and press the 'Manage drug policies' button. Create a new drug policy. Then, you can assign this policy to colonists.\n\nColonists can still take drugs not in their policy. You can tell them what to do, but they also follow their own desires! -->
   <DrugPolicies.helpText>Is féidir orduithe a thabhairt do choilínigh drugaí áirithe a thógáil ar sceideal. Mar shampla, féadfaidh tú a rá leo drugaí imdhíonachta a thógáil go rialta, nó beoir amháin a ól in aghaidh an lae chun iad a choinneáil sásta.\n\nOscail an táb dar teideal "SANN" agus cruthaigh polasaí nua. Beidh tú in ann an polasaí sin a shannadh ar choilínigh ansin.\n\nIs féidir le coilínigh drugaí eile nach luaitear sa pholasaí a úsáid - féadfaidh tú orduithe a thabhairt dóibh, ach ní ionann sin agus a rá go n-éistfidh siad leat i gcónaí!</DrugPolicies.helpText>
-
+  
   <!-- EN: Positioning fighters -->
   <GroupGotoHereDragging.label>Comhrac</GroupGotoHereDragging.label>
   <!-- EN: Right-click and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
   <GroupGotoHereDragging.helpText>Deaschliceáil agus tarraing chun orduithe a thabhairt do do choilínigh dhréachtaithe.\n\nScaipigí amach - tá sé níos éasca targaidí atá taobh le chéile a bhaint amach.</GroupGotoHereDragging.helpText>
   <!-- EN: Hold the left trigger button and drag to have your drafted fighters form a line.\n\nSpread out - bunched-up targets are easy to hit! -->
   <GroupGotoHereDragging.helpTextController>Brúigh agus tarraing an truicear clé chun orduithe a thabhairt do do choilínigh dhréachtaithe.\n\nScaipigí amach - tá sé níos éasca targaidí atá taobh le chéile a bhaint amach.</GroupGotoHereDragging.helpTextController>
-
+  
   <!-- EN: Interacting with traders -->
   <InteractingWithTraders.label>Trádálaithe</InteractingWithTraders.label>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and right-click on the character with ? attached to their head. -->
   <InteractingWithTraders.helpText>Is féidir leat labhairt le daoine atá marcáilte le "?".\n\nRoghnaigh coilíneach agus deaschliceáil ar an gcarachtar atá marcáilte le "?".</InteractingWithTraders.helpText>
   <!-- EN: You can talk to people with ? over their heads.\n\nSelect a colonist and press the left trigger button on the character with ? attached to their head. -->
   <InteractingWithTraders.helpTextController>Is féidir leat labhairt le daoine atá marcáilte le "?".\n\nRoghnaigh coilíneach agus cliceáil ar an gcarachtar atá marcáilte le "?" leis an truicear clé.</InteractingWithTraders.helpTextController>
-
+  
   <!-- EN: Using the comms console -->
   <OpeningComms.label>Cúrsaí cumarsáide</OpeningComms.label>
   <!-- EN: To communicate, select a colonist and right-click on the comms console. -->
   <OpeningComms.helpText>Chun cumarsáid a dhéanamh le grúpaí eile, roghnaigh coilíneach agus deaschliceáil ar an gconsól cumarsáide.</OpeningComms.helpText>
   <!-- EN: To communicate, select a colonist and press the left trigger button on the comms console. -->
   <OpeningComms.helpTextController>Chun cumarsáid a dhéanamh le grúpaí eile, roghnaigh coilíneach agus cliceáil ar an gconsól cumarsáide leis an truicear clé.</OpeningComms.helpTextController>
-
+  
   <!-- EN: Prisoner tab -->
   <PrisonerTab.label>Príosúnaigh</PrisonerTab.label>
   <!-- EN: Look in a prisoner's 'Prisoner' tab to set how they'll be treated.\n\nYou can set whether they'll be recruited, ignored, or executed, and what kind of medical care they get. You can set food restrictions for the prisoner in their health tab.\n\nColonists with the Warden work type will interact with the prisoner. -->
   <PrisonerTab.helpText>Is féidir breathnú ar an táb dar teideal "Príosúnach" chun tuilleadh eolais a fháil faoi do phríosúnaigh.\n\nIs féidir príosúnaigh a earcú, a mharú nó neamhaird a thabhairt orthu. Is féidir roghnú freisin an gcuirfear cúram leighis orthu.</PrisonerTab.helpText>
-
+  
   <!-- EN: Order queueing -->
   <QueueOrders.label>Orduithe a chiúáil</QueueOrders.label>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding "shift". This also works when giving jobs to undrafted pawns. -->
   <QueueOrders.helpText>Is féidir orduithe difriúla a chiúáil ach SHIFT a bhrú agus orduithe á dtabhairt. Is féidir an rud céanna a dhéanamh le gnáthjabanna.</QueueOrders.helpText>
   <!-- EN: When giving commands to pawns, you can queue up multiple orders by holding {Key:QueueOrder}. This also works when giving jobs to undrafted pawns. -->
   <QueueOrders.helpTextController>Is féidir orduithe difriúla a chiúáil ach {Key:QueueOrder} a bhrú agus orduithe á dtabhairt. Is féidir an rud céanna a dhéanamh le gnáthjabanna.</QueueOrders.helpTextController>
-
+  
   <!-- EN: Reforming caravans -->
   <ReformCaravan.label>Carbháin a athbhunú</ReformCaravan.label>
   <!-- EN: After an encounter, you can easily re-form a caravan by using the RE-FORM CARAVAN command in the World view. -->
   <ReformCaravan.helpText>Is féidir carbháin a athbhunú go héasca ach an cnaipe "ATHBHUNAIGH CARBHÁN" a úsáid ar an léarscáil.</ReformCaravan.helpText>
-
+  
   <!-- EN: Rescuing -->
   <Rescuing.label>Tarrtháil</Rescuing.label>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then right-click on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
   <Rescuing.helpText>Chun duine gortaithe a tharrtháil, roghnaigh coilíneach sláintiúil agus deaschlicéail ar an duine gortaithe.\n\nMá thagann tú i dtarrtháil ar dhuine a bhaineann le faicsean eile, ní ionann sin agus a rá go rachaidh an duine sin le do choilíneacht. D'fhéadfadh sé go n-imeoidh siad nuair a bheidh siad sláintiúil. Mar rogha eile, is féidir daoine gortuithe a ghabháil agus a earcú.</Rescuing.helpText>
   <!-- EN: To rescue a wounded person, select a healthy colonist and then press the left trigger button on the wounded one.\n\nIf you rescue a non-colonist, they won't necessarily join your colony. They may simply walk away after healing. If you want to guarantee that they join, capture them and recruit them. -->
   <Rescuing.helpTextController>Chun duine gortaithe a tharrtháil, roghnaigh coilíneach sláintiúil agus cliceáil ar an duine gortaithe leis an truicear clé.\n\nMá thagann tú i dtarrtháil ar dhuine a bhaineann le faicsean eile, ní ionann sin agus a rá go rachaidh an duine sin le do choilíneacht. D'fhéadfadh sé go n-imeoidh siad nuair a bheidh siad sláintiúil. Mar rogha eile, is féidir daoine gortuithe a ghabháil agus a earcú.</Rescuing.helpTextController>
-
+  
   <!-- EN: Set what plant to grow -->
   <SetGrowingZonePlant.label>Gairneoireacht</SetGrowingZonePlant.label>
   <!-- EN: You can set what to plant in a growing zone. You can even grow trees!\n\nJust select the growing zone, open the Growing tab, and click the 'plant' button. -->
   <SetGrowingZonePlant.helpText>Is féidir plandaí nó crainn dhifriúla a chur i ngach zón.\n\nRoghnaigh an zón, oscail an táb dar teideal "Fás" agus roghnaigh planda.</SetGrowingZonePlant.helpText>
-
+  
   <!-- EN: Shelves -->
   <Shelves.label>Seilfeanna</Shelves.label>
   <!-- EN: Shelves store three times as much as empty ground. Items on shelves will also never deteriorate and don't affect the beauty of their surroundings.\n\nYou can link shelves into groups and configure them as one. First, select two or more shelves, then click 'Link storage settings'. -->
   <Shelves.helpText>Is féidir níos mó rudaí a choinneáil ar sheilfeanna. Chomh maith leis sin, ní rachaidh rudaí a choinnítear ar sheilfeanna in éag agus ní bheidh aon éifeacht acu ar áilleacht an tseomra.\n\nIs féidir seilfeanna difriúla a ghrúpáil agus na socruithe céanna a chur i bhfeidhm orthu.</Shelves.helpText>
-
+  
   <!-- EN: Shield belts -->
   <ShieldBelts.label>Crios costanta</ShieldBelts.label>
   <!-- EN: Shield belts stop ranged attacks from coming in or out. They have no effect on melee attacks.\n\nTo fight against shield belts, either concentrate a lot of gunfire on the target, or fight hand-to-hand. -->
   <ShieldBelts.helpText>Cuireann an crios cosanta bac ar diúracáin. Ní bhíonn aon éifeacht acu ar ionsuithe melee.\n\nChun an lámh in uachtar a fháil ar naimhde a bhfuil crios cosanta aige, beidh ort do lámhach a dhíriú ar an duine sin nó dul i mbun troda lámh le lámh.</ShieldBelts.helpText>
-
+  
   <!-- EN: TV for sick people -->
   <TVForSickPeople.label>Tá tú róthínn le breathnú ar an teilifís!</TVForSickPeople.label>
   <!-- EN: Sick people can watch TV while laying in bed. -->
   <TVForSickPeople.helpText>Is féidir le daoine gortuithe nó a bhfuil tinneas orthu breathnú ar an teilifís agus iad sa leaba.</TVForSickPeople.helpText>
-
+  
 </LanguageData>

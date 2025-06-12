@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN:
-    <li>questDescription->[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Count of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.\n\nEarning the title of Count means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Count.\n\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]\n\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.\n\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</li>
+    <li>questDescription->[intro]The [asker_faction_leaderTitle] of [asker_faction_name] will perform a customary visit with any Archon of his domain upon request. Invite him, satisfy his royal needs for [shuttleDelayTicks_duration], and all of you can ride the shuttle to the Imperial flotilla. You may then join the Imperial court, or escape to a new life among the stars.\n\nEarning the title of Archon means completing quests to earn [asker_faction_royalFavorLabel] with [asker_faction_name]. It may take years to finally achieve the title of Archon.\n\nDuring his visit, you must keep his mood above [lodgersMoodThreshold_percent]. This means providing royal perquisites like a lavish bedroom.[threatsInfo]\n\nThe [asker_faction_leaderTitle] will bring four of his personal guards and place them under your command. You must house these guards, but the [asker_faction_leaderTitle] will not complain if they are killed or unhappy.\n\nYou must keep the visitors at [map_definite] and not send them anywhere else. If you fail this quest or migrate, you will have another chance at it later.</li>
     <li>intro(sameQuestsCount==0)->You have learned of a way to escape this planet!\n\n</li>
     <li>intro(sameQuestsCount>=1)->You have been given another chance at royal ascent.\n\n</li>
     <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nOthers will take the opportunity to try to kill the [asker_faction_leaderTitle], and will attack with great intensity. Be prepared to defend.</li>
@@ -20,7 +20,7 @@
     <li>intro(sameQuestsCount>=1)->Une nouvelle chance de bénédiction royale vous est donnée.\n\n</li>
     <li>threatsInfo(allowViolentQuests==true,priority=1)->\n\nD'autres vont profiter de l'opportunité pour essayer de tuer le [asker_faction_leaderTitle] et attaqueront avec une grande intensité. Préparez vos défenses.</li>
     <li>threatsInfo-></li>
- </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
+  </EndGame_RoyalAscent.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(sameQuestsCount==0)->Royal Ascent</li>
     <li>questName(sameQuestsCount>=1)->Royal [titleEnd]</li>
@@ -41,7 +41,7 @@
     <li>titleEnd_fem->Ascension</li>
     <li>titleEnd_fem->Ascendance</li>
     <li>titleEnd_fem->Victoire</li>
- </EndGame_RoyalAscent.questNameRules.rulesStrings>
+  </EndGame_RoyalAscent.questNameRules.rulesStrings>
   <!-- EN: Quest failed: [resolvedQuestName] -->
   <EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>Quête échouée : [resolvedQuestName]</EndGame_RoyalAscent.LetterLabelFactionBecameHostile.slateRef>
   <!-- EN: [faction_name] became hostile to you.  -->

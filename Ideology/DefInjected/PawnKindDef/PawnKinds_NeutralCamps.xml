@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: farmer -->
-  <Farmer.label>fermier</Farmer.label>
+  <Farmer.label>TODO</Farmer.label>
   
   <!-- EN: hunter -->
-  <Hunter.label>chasseur</Hunter.label>
+  <Hunter.label>TODO</Hunter.label>
   
   <!-- EN: logger -->
-  <Logger.label>bûcheron</Logger.label>
+  <Logger.label>TODO</Logger.label>
   
   <!-- EN: miner -->
-  <Miner.label>mineur</Miner.label>
+  <Miner.label>TODO</Miner.label>
   
   <!-- EN: farmer -->
-  <Tribal_Farmer.label>fermier</Tribal_Farmer.label>
+  <Tribal_Farmer.label>TODO</Tribal_Farmer.label>
   
   <!-- EN: logger -->
-  <Tribal_Logger.label>bûcheron</Tribal_Logger.label>
+  <Tribal_Logger.label>TODO</Tribal_Logger.label>
   
   <!-- EN: miner -->
-  <Tribal_Miner.label>mineur</Tribal_Miner.label>
+  <Tribal_Miner.label>TODO</Tribal_Miner.label>
   
 </LanguageData>

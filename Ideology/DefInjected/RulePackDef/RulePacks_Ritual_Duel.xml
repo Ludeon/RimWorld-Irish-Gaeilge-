@@ -12,16 +12,6 @@
     <li>ritNoun->brawl</li>
     <li>ritNoun->contest</li>
   -->
-  <NamerRitualGladiatorDuel.rulePack.rulesStrings>
-    <li>r_ritualName->[ritNoun] de [keyDeity]</li>
-    <li>r_ritualName->[ritNoun] de [chosenTheme]</li>
-    <li>r_ritualName->[ritNoun] de [memeConcept]</li>
-    <li>r_ritualName->[ritNoun] [memeAdjective]</li>
-    <li>ritNoun->bagarre</li>
-    <li>ritNoun->duel</li>
-    <li>ritNoun->bataille</li>
-    <li>ritNoun->querelle</li>
-    <li>ritNoun->conflit</li>
- </NamerRitualGladiatorDuel.rulePack.rulesStrings>
+  <NamerRitualGladiatorDuel.rulePack.rulesStrings>TODO</NamerRitualGladiatorDuel.rulePack.rulesStrings>
   
 </LanguageData>

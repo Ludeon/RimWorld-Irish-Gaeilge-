@@ -25,7 +25,7 @@
     <li>ofThing->the Spirit</li>
   -->
   <NamerFactionEmpire.rulePack.rulesStrings>
-  <!--Could be improved bit-->
+    <!--Could be improved bit-->
     <li>r_name(p=2)->[empire] [ofThing]</li>
     <li>r_name(p=2)->[empire] [ofThing]</li>
     <li>r_name->[empire] na Deoraíochta</li>
@@ -40,7 +40,7 @@
     <li>ofThing->na Foirfeachta</li>
     <li>ofThing->na Síoraíochta</li>
     <li>ofThing->an Spioraid</li>
- </NamerFactionEmpire.rulePack.rulesStrings>
+  </NamerFactionEmpire.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
@@ -51,7 +51,7 @@
     <li>r_name(p=3)->[ImperialNameFirstMale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstMale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
- </NamerPersonSophian.rulePack.rulesStrings>
+  </NamerPersonSophian.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
@@ -62,7 +62,7 @@
     <li>r_name(p=3)->[ImperialNameFirstFemale] [ImperialNameLast]</li>
     <li>r_name(p=2)->[ImperialNameFirstFemale] [WordImperial]</li>
     <li>r_name(p=2)->[WordImperial] [WordImperial]</li>
- </NamerPersonSophianFemale.rulePack.rulesStrings>
+  </NamerPersonSophianFemale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_name->[townname_wordgen]</li>
@@ -90,12 +90,8 @@
     <li>townend->am</li>
     <li>townend->aeum</li>
   -->
-
-<!--Lazy attempt here at some in-game linguistic variety. Imperial settlements also use the names under Core/Keyed/Nouns, which have been transliterated.-->
-
   <NamerSettlementEmpire.rulePack.rulesStrings>
     <li>r_name->[empire_settlement_start][empire_settelment_end]</li>
-
     <li>empire_settlement_start->nora</li>
     <li>empire_settlement_start->acra</li>
     <li>empire_settlement_start->lacsa</li>
@@ -113,7 +109,6 @@
     <li>empire_settlement_start->atáma</li>
     <li>empire_settlement_start->ana</li>
     <li>empire_settlement_start->úma</li>
-
     <li>empire_settelment_end->lan</li>
     <li>empire_settelment_end->lar</li>
     <li>empire_settelment_end->lacs</li>
@@ -129,6 +124,6 @@
     <li>empire_settelment_end->in</li>
     <li>empire_settelment_end->tam</li>
     <li>empire_settelment_end->mátras</li>
- </NamerSettlementEmpire.rulePack.rulesStrings>
+  </NamerSettlementEmpire.rulePack.rulesStrings>
   
 </LanguageData>

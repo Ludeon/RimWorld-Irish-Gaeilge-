@@ -128,6 +128,8 @@
   <On>Ar siúl</On>
   <!-- EN: Off -->
   <Off>Múchta</Off>
+  <!-- EN: {0} {1} -->
+  <SourceToolLabel>TODO</SourceToolLabel>
   <!-- EN: Power -->
   <PowerSwitch_Power>Cumhacht</PowerSwitch_Power>
   <!-- EN: Recreation type tolerances -->
@@ -263,7 +265,7 @@
   <!-- EN: outdoors -->
   <DeterioratingOutdoors>lasmuigh</DeterioratingOutdoors>
   <!-- EN: raining -->
-  <DeterioratingRaining>báisteach</DeterioratingRaining>
+  <DeterioratingRaining>báisteach</DeterioratingRaining> 
   <!-- EN: protected -->
   <Protected>cosanta</Protected>
   <!-- EN: Deteriorating -->
@@ -274,7 +276,7 @@
   <Map>Léarscáil</Map>
   <!-- EN: {0} until enemies arrive -->
   <CaravanDetectedRaidCountdown>Tiocfaidh naimhde i gceann {0}</CaravanDetectedRaidCountdown>
-  <!-- EN: Enemy reinforcements will arrive in this area in {0}. -->
+  <!-- EN: Enemies have learned of your location. They will arrive in {0}. -->
   <CaravanDetectedRaidCountdownTip>Tiocfaidh naimhde cúltaca i gceann {0}.</CaravanDetectedRaidCountdownTip>
   <!-- EN: Room -->
   <Room>Seomra</Room>
@@ -282,10 +284,14 @@
   <BeautyHere>Áilleacht anseo</BeautyHere>
   <!-- EN: no power -->
   <NoPower>gan chumacht</NoPower>
+  <!-- EN: not in {0} -->
+  <NotInRoomRole>TODO</NotInRoomRole>
   <!-- EN: Work speed -->
   <WorkSpeedPenalty>luas oibre</WorkSpeedPenalty>
   <!-- EN: Disabled -->
   <DisabledCommand>Díchumasaithe</DisabledCommand>
+  <!-- EN: Deactivated -->
+  <Deactivated>TODO</Deactivated>
   <!-- EN: Ready for launch. -->
   <ReadyForLaunch>Réidh le leainseáil.</ReadyForLaunch>
   <!-- EN: Not ready for launch -->
@@ -293,11 +299,13 @@
   <!-- EN: no fueling port -->
   <NotAllInGroupConnectedToFuelingPort>de dhíth: béalóg bhreosla</NotAllInGroupConnectedToFuelingPort>
   <!-- EN: no fuel -->
-  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>gan bhreosla</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <NotAllLaunchablesInGroupHaveAnyFuel>TODO</NotAllLaunchablesInGroupHaveAnyFuel>
   <!-- EN: loading in progress -->
-  <TransportPodInGroupHasSomethingLeftToLoad>á lódáil</TransportPodInGroupHasSomethingLeftToLoad>
+  <LaunchableInGroupHasSomethingLeftToLoad>TODO</LaunchableInGroupHasSomethingLeftToLoad>
   <!-- EN: Beyond maximum range -->
   <TransportPodDestinationBeyondMaximumRange>lasmuigh den uasraon</TransportPodDestinationBeyondMaximumRange>
+  <!-- EN: No path to {LAYER_label} -->
+  <TransportPodDestinationNoPath>TODO</TransportPodDestinationNoPath>
   <!-- EN: Not enough fuel -->
   <TransportPodNotEnoughFuel>Tá tuilleadh breosla de dhíth</TransportPodNotEnoughFuel>
   <!-- EN: {0} of {1} -->
@@ -342,6 +350,8 @@
   <Products>Tárigí</Products>
   <!-- EN: Requires -->
   <Requires>De dhíth:</Requires>
+  <!-- EN: Replaces -->
+  <Replaces>TODO</Replaces>
   <!-- EN: {0}x any of -->
   <NumAnyOf>aon {0}x de</NumAnyOf>
   <!-- EN: {0} of {1} -->
@@ -364,10 +374,14 @@
   <RideableAnimalsPerPeople>Ainmhí / daoine gur féidir marcaíocht orthu</RideableAnimalsPerPeople>
   <!-- EN: Multiplier from ridden animals -->
   <MultiplierFromRiddenAnimals>Iolraitheoir ó ainmhithe marcaíochta</MultiplierFromRiddenAnimals>
+  <!-- EN: Multiplier from bonuses -->
+  <MultiplierFromMoveSpeedBonus>TODO</MultiplierFromMoveSpeedBonus>
   <!-- EN: Multiplier for carried mass: {0} -->
   <MultiplierForCarriedMass>Iolraitheoir don mheachán: {0}</MultiplierForCarriedMass>
   <!-- EN: This animal is rideable. People in a caravan will ride the fastest available animals, improving the speed of the caravan as a whole. -->
   <RideableAnimalTip>Is féidir marcaíocht ar an ainmhí seo. Déanfaidh daoine i gcarbháin marcaíocht ar na hainmhithe is tapúla atá ar fáil, agus beidh an carbhán in ann gluaiseacht níos tapúla.</RideableAnimalTip>
+  <!-- EN: This person provides a bonus to the caravan's speed. The speed increase is the average bonus of all of the caravan's members. -->
+  <CaravanBonusTip>TODO</CaravanBonusTip>
   <!-- EN: This caravan can't move because it carries too much. -->
   <EncumberedCaravanTilesPerDayTip>Ní féidir leis an gcarbhán seo bogadh, tá an iomarca rudaí á n-iompar.</EncumberedCaravanTilesPerDayTip>
   <!-- EN: Caravan members speed -->
@@ -380,6 +394,8 @@
   <MovementDifficultyOffsetInWinter>{0} sa Gheimhreadh</MovementDifficultyOffsetInWinter>
   <!-- EN: to -->
   <RangeTo>go</RangeTo>
+  <!-- EN: Caused by -->
+  <CausedBy>TODO</CausedBy>
   <!-- EN: No letter -->
   <NoDietCategoryLetter>gan litir</NoDietCategoryLetter>
   <!-- EN: expires in -->
@@ -466,7 +482,7 @@
   <ViewHyperlink>Féach: {0}</ViewHyperlink>
   <!-- EN: Detonates in {0} days -->
   <DetonationCountdown>Ag pléascadh i gceann {0} lá</DetonationCountdown>
-  <!-- EN: Large fire explosion if damaged. -->
+  <!-- EN: Large explosion if damaged. -->
   <ExplosionOnDamageWarning>Beidh pléascadh mór má dhamáistítear é seo.</ExplosionOnDamageWarning>
   <!-- EN: Mech cluster -->
   <MechCluster>Meicea-charn</MechCluster>
@@ -562,6 +578,8 @@
   <RequiredTechprintTip>De dhíth:</RequiredTechprintTip>
   <!-- EN: size -->
   <Size>méid</Size>
+  <!-- EN: Total planning area -->
+  <TotalPlanningArea>TODO</TotalPlanningArea>
   <!-- EN: cost -->
   <Cost>costas</Cost>
   <!-- EN: Stunned by EMP -->
@@ -571,21 +589,23 @@
   <!-- EN: person -->
   <Person>duine</Person>
   <!-- EN: activated. -->
-  <Activated>cumasaithe</Activated>
+  <Activated>cumasaithe</Activated> 
   <!-- EN: Contains -->
   <Contains>Istigh:</Contains>
   <!-- EN: Hostiles -->
   <Hostiles>Naimhde</Hostiles>
   <!-- EN: Investigate -->
-  <Investigate>Fiosraigh</Investigate>
+  <Investigate>Fiosraigh</Investigate> 
   <!-- EN: Activate -->
-  <Activate>Cumasaigh</Activate>
+  <Activate>Cumasaigh</Activate> 
+  <!-- EN: Deactivate -->
+  <Deactivate>TODO</Deactivate> <!-- text_todo -->
   <!-- EN: Activation -->
   <Activation>Cumasú</Activation>
   <!-- EN: complete -->
   <Complete>déanta</Complete>
   <!-- EN: Must be imprisoned. -->
-  <RequiresImprisonment>Ní mór an té seo a chur i bpríosún.</RequiresImprisonment>
+  <RequiresImprisonment>Ní mór an té seo a chur i bpríosún.</RequiresImprisonment> 
   <!-- EN: Prioritize hauling contents -->
   <HaulFromSource>TODO</HaulFromSource>
   <!-- EN: Use -->
@@ -606,7 +626,26 @@
   <ReportStringCrawlingToSafety>Ag lámhacán go háit shábháilte.</ReportStringCrawlingToSafety>
   <!-- EN: Crawling to bed. -->
   <ReportStringCrawlingToBed>Ag lámhacán chuig an leaba.</ReportStringCrawlingToBed>
+  <!-- EN: flying -->
+  <Flying>TODO</Flying>
+  <!-- EN: Prevent cutting -->
+  <PreventCutting>TODO</PreventCutting>
+  <!-- EN: When on, colonists won't cut this plant. -->
+  <PreventCuttingDesc>TODO</PreventCuttingDesc>
 
+  <!-- EN: Resulting from trait -->
+  <ComesFromTrait>TODO</ComesFromTrait>
+  <!-- EN: Resulting from condition -->
+  <ComesFromHediff>TODO</ComesFromHediff>
+  <!-- EN: Adds need -->
+  <AddsNeed>TODO</AddsNeed>
+  <!-- EN: Adds needs -->
+  <AddsNeeds>TODO</AddsNeeds>
+  <!-- EN: Disables need -->
+  <DisablesNeed>TODO</DisablesNeed>
+  <!-- EN: Disables needs -->
+  <DisablesNeeds>TODO</DisablesNeeds>
+  
   <!-- Scanning -->
   <!-- EN: User scanning speed -->
   <UserScanAbility>Luas scanála</UserScanAbility>
@@ -614,7 +653,7 @@
   <ScanAverageInterval>Aimseofar rud randamach gach:</ScanAverageInterval>
   <!-- EN: Progress to guaranteed find -->
   <ScanningProgressToGuaranteedFind>Dul chun cinn sula n-aimseofar rud:</ScanningProgressToGuaranteedFind>
-
+  
   <!-- Meditation -->
   <!-- EN: meditating at -->
   <MeditatingAt>i mbun machnaimh ag</MeditatingAt>
@@ -736,7 +775,7 @@
   <PenExampleAnimals>Ainmhithe samplacha</PenExampleAnimals>
   <!-- EN: No exterior access - Animals cannot be moved in or out. -->
   <NoExteriorAccess>Ní aon bhealach isteach - ní féidir ainmhithe a thabhairt isteach nó amach.</NoExteriorAccess>
-
+  
   <!-- EN: Must be connected to walls on both sides to function. -->
   <DoorMustBeEnclosedByWalls>Ní mór é seo a cheangal le ballaí ar an dá thaobh sula n-oibreoidh sé i gceart.</DoorMustBeEnclosedByWalls>
 
@@ -766,14 +805,16 @@
   <!-- EN: Road -->
   <Road_Label>Bóthar</Road_Label>
   <!-- EN: River -->
-  <River_Label>Abhainn</River_Label>
+  <River_Label>Abhainn</River_Label> 
   <!-- EN: Movement difficulty -->
   <MovementDifficulty_Label>Deacracht gluaiseachta</MovementDifficulty_Label>
   <!-- EN: Pollution -->
   <Pollution_Label>Truailliú</Pollution_Label>
   <!-- EN: Filth -->
   <Filth_Label>Salachar</Filth_Label>
-
+  
+  <!-- EN: Features -->
+  <Features_Label>TODO</Features_Label>
   <!-- EN: Faction -->
   <Faction_Label>Faicsean</Faction_Label>
   <!-- EN: Relationship -->
@@ -784,7 +825,7 @@
   <CaravanStatus_Label>Stádas</CaravanStatus_Label>
   <!-- EN: Time to destination -->
   <CaravanTTD_Label>Am fágtha</CaravanTTD_Label>
-
+  
 
   <!-- Control -->
   <!-- EN: Cannot order characters you do not control. -->
@@ -799,6 +840,8 @@
   <ApparelPreventsShooting>Ní féidir le {PAWN_nameDef} airm fhadraoin a úsáid toisc go bhfuil {APPAREL_label} á chaitheamh ag {PAWN_nameDef}.</ApparelPreventsShooting>
   <!-- EN: Cannot use in {0} -->
   <CannotUseReason_PocketMap>Ní féidir seo a úsáid i {0}.</CannotUseReason_PocketMap>
+  <!-- EN: Range reduced -->
+  <WeatherMaxRangeCap>TODO</WeatherMaxRangeCap>
 
   <!-- Snow -->
   <!-- EN: Snow -->
@@ -890,13 +933,13 @@
   <!-- EN: digging up corpse. -->
   <ReportDiggingUpCorpse>ag tochailt amach corpáin.</ReportDiggingUpCorpse>
   <!-- EN: being carried by {0_labelShort}. -->
-  <CarriedBy>á iompar ag {0_labelShort}.</CarriedBy>
+  <CarriedBy>á iompar ag {0_labelShort}.</CarriedBy> 
   <!-- EN: inside {0_labelShort}. -->
-  <InContainer>taobh istigh de {0_labelShort}.</InContainer>
+  <InContainer>taobh istigh de {0_labelShort}.</InContainer> 
   <!-- EN: downed, cannot crawl. -->
-  <DownedCannotCrawl>leagtha</DownedCannotCrawl>
+  <DownedCannotCrawl>leagtha</DownedCannotCrawl> 
   <!-- EN: downed, unconscious. -->
-  <DownedUnconscious>leagtha, neamhaireachtálach</DownedUnconscious>
+  <DownedUnconscious>leagtha, neamhaireachtálach</DownedUnconscious> 
 
   <!-- Lord job reports -->
   <!-- EN: Attending marriage ceremony -->
@@ -1032,7 +1075,7 @@
 
   <!-- like 'Blood of John' -->
   <!-- EN: of -->
-  <OfLower></OfLower>
+  <OfLower />
 
   <!-- Power readout -->
   <!-- EN: Not connected to power. -->
@@ -1061,6 +1104,8 @@
   <PowerConsumptionHigh>ard</PowerConsumptionHigh>
   <!-- EN: low -->
   <PowerConsumptionLow>íseal</PowerConsumptionLow>
+  <!-- EN: off -->
+  <PowerConsumptionOff>TODO</PowerConsumptionOff>
 
   <!-- Temperature readout -->
   <!-- EN: Indoors -->
@@ -1078,11 +1123,11 @@
   <!-- EN: Dessicated -->
   <RotStateDessicated>Triomaithe</RotStateDessicated>
   <!-- EN: Frozen -->
-  <CurrentlyFrozen>Reoite</CurrentlyFrozen>
+  <CurrentlyFrozen>Reoite</CurrentlyFrozen> 
   <!-- EN: Refrigerated, spoils in {0} -->
-  <CurrentlyRefrigerated>Fuaraithe (ag dul in éag i gceann {0})</CurrentlyRefrigerated>
+  <CurrentlyRefrigerated>Fuaraithe (ag dul in éag i gceann {0})</CurrentlyRefrigerated> 
   <!-- EN: Unrefrigerated, spoils in {0} -->
-  <NotRefrigerated>Neamhfhuaraithe (ag dul in éag i gceann {0})</NotRefrigerated>
+  <NotRefrigerated>Neamhfhuaraithe (ag dul in éag i gceann {0})</NotRefrigerated> 
   <!-- EN: over a decade -->
   <OverADecade>níos mó ná 10 mbliana</OverADecade>
   <!-- EN: less than a day -->
@@ -1115,13 +1160,13 @@
   <GrowthRate>Ráta fáis</GrowthRate>
   <!-- EN: Fully grown in {0} of growth. -->
   <FullyGrownIn>Beidha an planda seo iomlán fásta i gceann {0}.</FullyGrownIn>
-  <!-- EN: Needs light level -->
+  <!-- EN: needs light level -->
   <PlantNeedsLightLevel>Leibhéal solais de dhíth:</PlantNeedsLightLevel>
-  <!-- EN: Resting -->
+  <!-- EN: resting -->
   <PlantResting>Ag feitheamh</PlantResting>
-  <!-- EN: Non-ideal temperature. Temperature growth multiplier: {0}% -->
+  <!-- EN: temperature growth multiplier {0}% -->
   <OutOfIdealTemperatureRange>Teocht mhícheart. Cuirfear moill {0}% ar an bhfás</OutOfIdealTemperatureRange>
-  <!-- EN: Non-ideal temperature. Not growing. -->
+  <!-- EN: out of temperature growth range -->
   <OutOfIdealTemperatureRangeNotGrowing>Teocht mícheart. Níl an planda ag fás.</OutOfIdealTemperatureRangeNotGrowing>
   <!-- EN: Ready to harvest. -->
   <ReadyToHarvest>Réidh le baint.</ReadyToHarvest>
@@ -1145,6 +1190,8 @@
   <Blighted>Smolta</Blighted>
   <!-- EN: Dying because exposed to light -->
   <DyingBecauseExposedToLight>Ag fáil báis mar gheall ar nochtadh ar solas</DyingBecauseExposedToLight>
+  <!-- EN: Dying from non-ideal terrain -->
+  <DyingBecauseOfTerrain>TODO</DyingBecauseOfTerrain>
   <!-- EN: Cut now -->
   <AutoCutNow>Gearr anois</AutoCutNow>
   <!-- EN: harvesting -->
@@ -1161,8 +1208,12 @@
   <Zone>Zón</Zone>
   <!-- EN: Growing zone -->
   <GrowingZone>Zón plandaí</GrowingZone>
+  <!-- EN: growing -->
+  <GrowingGroup>TODO</GrowingGroup>
   <!-- EN: Stockpile zone -->
   <Stockpile>Stoc-charn</Stockpile>
+  <!-- EN: stockpile -->
+  <StockpileGroup>TODO</StockpileGroup>
   <!-- EN: Dumping stockpile zone -->
   <DumpingStockpile>Zón dumpála</DumpingStockpile>
   <!-- EN: Corpse stockpile zone -->
@@ -1173,7 +1224,7 @@
   <ClearAll>Scrios cách</ClearAll>
   <!-- EN: Allow all -->
   <AllowAll>Ceadaigh cách</AllowAll>
-
+  
   <!-- Storage Groups -->
   <!-- EN: Group -->
   <StorageGroup>Grúpa</StorageGroup>
@@ -1193,7 +1244,7 @@
   <!-- Mouseover indicator -->
   <!-- EN: Undiscovered -->
   <Undiscovered>Ceilte</Undiscovered>
-
+  
   <!-- Animal management -->
   <!-- EN: Are you sure you want to sterilize {PAWN_nameDef}? Doing this will anger {FACTION_name}. -->
   <AnimalSterilizeConfirm>An bhfuil tú cinnte go bhfuil tú ag iarraidh {PAWN_nameDef} a steiriliú? Ní bheidh an faicsean '{FACTION_name}' sásta.</AnimalSterilizeConfirm>
@@ -1233,8 +1284,10 @@
   <LockNorthUpToggleButton>Rothlú an cheamara\n\nCuir stop le rothlú an cheamara, ionas go mbeidh an pol thuaidh ag an mbarr i gcónaí.</LockNorthUpToggleButton>
   <!-- EN: Toggle day/night lighting on the planet view. -->
   <UsePlanetDayNightSystemToggleButton>Lá/Oíche\n\nLeis an socrú seo, is féidir solas an lae/dorchadas na hoíche a mhúchadh ar léarscáil an phláinéid.</UsePlanetDayNightSystemToggleButton>
-  <!-- EN: Toggle displaying expanding icons instead of the regular icons for distant objects. -->
-  <ShowExpandingIconsToggleButton>Deilbhíní athraitheacha\n\nTaispeáin deilbhíní athraitheacha ar rudaí atá i bhfad i gcéin, in áit gnáthdheilbhíní.</ShowExpandingIconsToggleButton>
+  <!-- EN: Toggle displaying expanding icons for settlements belonging to other factions. -->
+  <ShowBasesExpandingIconsToggleButton>TODO</ShowBasesExpandingIconsToggleButton>
+  <!-- EN: Toggle displaying expanding icons for important locations, such as your colony, quest locations, and active maps. -->
+  <ShowImportantExpandingIconsToggleButton>TODO</ShowImportantExpandingIconsToggleButton>
   <!-- EN: Toggle visibility of names of landforms. -->
   <ShowWorldFeaturesToggleButton>Taispeáin logainmneacha.</ShowWorldFeaturesToggleButton>
   <!-- EN: Toggle heat overlay. This shows the air temperature in each room and outdoors.\n\nColonists will be unhappy if the temperature is too high or too low. Exposure to extreme temperatures can lead to hypothermia, frostbite, heatstroke, burns, and death. -->
@@ -1243,7 +1296,7 @@
   <!-- Hotkeys -->
   <!-- EN: Hotkey -->
   <HotKeyTip>Aicearra</HotKeyTip>
-
+  
   <!-- Fire -->
   <!-- EN: fire on {1_label} -->
   <FireOn>tine ar {1_label}</FireOn>
@@ -1338,7 +1391,7 @@
   <!-- EN: Component not yet ready -->
   <ShipReportNotReady>Níl an chomhpháirt seo réidh</ShipReportNotReady>
   <!-- EN: No settlement to return to. Form a settlement first. -->
-  <ShipNoSettlementToReturnTo>Níl aon choilíneacht le filleadh uirthi. Ní mór coilíneacht a chruthú ar dtús.</ShipNoSettlementToReturnTo>
+  <ShipNoSettlementToReturnTo>Níl aon choilíneacht le filleadh uirthi. Ní mór coilíneacht a chruthú ar dtús.</ShipNoSettlementToReturnTo> 
   <!-- EN: (*Name)Charlon Whitestone(/Name) is ready to begin the reactor's hibernation recovery sequence.\n\nHe warns you that the process will take about 15 days, and the energy signature will be detectable from a long distance away.\n\nThis sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
   <HibernateWarning>Tá (*Name)Charlon Whitestone(/Name) réidh le tús a chur le himoibreoir na spásloinge réidh.\n\nNuair a chuirfear an t-imoibreoir ar siúl, tógfaidh an próiseas iomlan thart ar 15 lá agus beidh faicsin eile ar an bpláinéad in ann an fuinneamh a aimsiú ar a mbraiteoirí. Beidh a fhios ag na grúpaí sin go bhfuil spáslong idir-réaltach agat, agus tiocfaidh ruathairí, ionsaithe agus meicea-róbait ó chian agus ó chongar.\n\nTá ionsaithe romhat nach bhfuil cosúil le haon rud go bhfaca tú go dtí seo. Bí cinnte go bhfuil tú ullmhaithe chun do choilíneacht a cosaint.</HibernateWarning>
   <!-- EN: The reactor is ready to power up.\n\nThe process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
@@ -1427,14 +1480,16 @@
   <GameOverKeepWatchingForNow>Lean ort ag breathnú ar an gcoilíneacht</GameOverKeepWatchingForNow>
   <!-- EN: Create new wanderers -->
   <GameOverCreateNewWanderers>Cruthaigh coilínigh nua</GameOverCreateNewWanderers>
-  <!-- EN: Create new wanderers (must wait {0}h) -->
-  <GameOverCreateNewWanderersWait>Cruthaigh coilínigh nua (ní mór fanacht {0}u)</GameOverCreateNewWanderersWait>
   <!-- EN: Everyone is dead or gone. Perhaps someone will find a use for the ruins of this place.\n\nChoose new wanderers arrive at your colony and continue the story. -->
   <GameOverCreateNewWanderersText>Tá gach duine marbh nó imithe. D'fhéadfadh sé go n-aimseoidh daoine eile an áit seo, agus go mbeidh siad in ann úsáid a bhaint as a bhfuil fágtha den choilíneacht.\n\nLeis seo, beidh tú in ann coilínigh úra a chruthú agus leanúint ar aghaidh leis an scéal.</GameOverCreateNewWanderersText>
   <!-- EN: Main menu -->
   <GameOverMainMenu>Príomh-roghchlár</GameOverMainMenu>
   <!-- EN: No colony -->
   <NoColony>Níl aon choilíneacht ann</NoColony>
+  <!-- EN: cannot reach any destination -->
+  <NoWandererDestination>TODO</NoWandererDestination>
+  <!-- EN: must wait {0}h -->
+  <GameOverCreateNewWanderersWait>Cruthaigh coilínigh nua (ní mór fanacht {0}u)</GameOverCreateNewWanderersWait>
 
   <!-- Generic lifespan -->
   <!-- EN: Expires in: -->
@@ -1519,7 +1574,7 @@
   <!-- reloading ammo -->
   <!-- EN: Remaining charges -->
   <ChargesRemaining>Armlón fágtha</ChargesRemaining>
-
+  
   <!-- Learning helper -->
   <!-- EN: Learning helper -->
   <LearningHelper>Nodanna</LearningHelper>
@@ -1579,6 +1634,8 @@
   <OutfitSoldier>Saighdiúir</OutfitSoldier>
   <!-- EN: Nudist -->
   <OutfitNudist>Lomnocht</OutfitNudist>
+  <!-- EN: Spacefarer -->
+  <OutfitSpacefarer>TODO</OutfitSpacefarer>
 
   <!-- Hibernatable -->
   <!-- EN: Hibernating -->
@@ -1591,7 +1648,7 @@
   <ClickToSeeAvailableOrders_WorldObject>{0}: Féach orduithe...</ClickToSeeAvailableOrders_WorldObject>
   <!-- EN: See available orders... -->
   <ClickToSeeAvailableOrders_Empty>Féach orduithe...</ClickToSeeAvailableOrders_Empty>
-
+  
   <!-- Pawn tooltips -->
   <!-- EN: {0} ({1})\n{2}\n{3} -->
   <PawnTooltipWithDescAndPrimaryEquip>{0}\n{1}\n{2}\n{3}</PawnTooltipWithDescAndPrimaryEquip>
@@ -1611,7 +1668,7 @@
   <PawnTooltipPsychicEntropyLimit>Leis seo, cuirfear srian ar an teas néarach.\n\nMá sháraítear an teorainn, d'fhéadfadh cliseadh néarógach teacht ar an duine. Ní dhéanfaidh an cliseadh sin aon damáiste buan, áfach.</PawnTooltipPsychicEntropyLimit>
   <!-- EN: Psyfocus: {0} -->
   <PawnTooltipPsyfocus>Síceafhócas: {0}</PawnTooltipPsyfocus>
-
+  
   <!-- Pawn tooltip description -->
   <!-- EN: {0} {1} -->
   <PawnTooltipGenderAndKindLabel>{0}, {1}</PawnTooltipGenderAndKindLabel>
@@ -1623,11 +1680,9 @@
   <Reward_Pawn_WalkIn>Tá {0_title} darb ainm {0_nameDef} ag teacht {0_relationInfoInParentheses}. Rachaidh {0_nameDef} leis an gcoilíneacht {0_relationInfoInParentheses}</Reward_Pawn_WalkIn>
   <!-- EN: a {0_age}-year-old {0_title} named {0_nameDef} will join you {0_relationInfoInParentheses} -->
   <Reward_Pawn_Caravan>Tá {0_title} darb ainm {0_nameDef} ag teacht {0_relationInfoInParentheses}. Rachaidh {0_nameDef} leis an gcoilíneacht {0_relationInfoInParentheses}</Reward_Pawn_Caravan>
-  <!-- EN: transport pods with the following resources will arrive (total value {1}):
-\n{0} -->
+  <!-- EN: transport pods with the following resources will arrive (total value {1}):\n{0} -->
   <Reward_Items>Tiocfaidh pod iompair ina bhfuil na hearraí seo a leanas (luach iomlán {1}):\n\n{0}</Reward_Items>
-  <!-- EN: you will receive (total value {1}):
-\n{0} -->
+  <!-- EN: you will receive (total value {1}):\n{0} -->
   <Reward_Items_Caravan>gheobhaidh tú (luach iomlán {1}):\n\n{0}</Reward_Items_Caravan>
   <!-- EN: your faction relations with {0_name} will improve by {1} -->
   <Reward_Goodwill>feabhsóidh do chaidreamh leis an bhfaicsean '{0_name}' le {1}</Reward_Goodwill>
@@ -1665,7 +1720,7 @@
   <Reward_Title>Gheobhaidh {PAWNNAME} an teideal '{TITLE}' ón bhfaicsean '{FACTION}'</Reward_Title>
   <!-- EN: value {0} -->
   <TotalValue>luach {0}</TotalValue>
-
+  
   <!-- Bladelink -->
   <!-- EN: Bonded to: {0} -->
   <BondedWith>Nasctha le: {0}</BondedWith>
@@ -1689,10 +1744,12 @@
   <BiocodedCodedForSomeoneElse>bithchódaithe</BiocodedCodedForSomeoneElse>
 
   <!-- Projectile interceptor -->
-  <!-- EN: Intercepts {0} every {1} -->
+  <!-- EN: Intercepts {0} every {1}. -->
   <InterceptsProjectilesEvery>Stopfar {0} gach {1}</InterceptsProjectilesEvery>
-  <!-- EN: Intercepts {0} -->
+  <!-- EN: Intercepts {0}. -->
   <InterceptsProjectiles>Stopfar {0}</InterceptsProjectiles>
+  <!-- EN: ground and aerial projectiles -->
+  <InterceptsProjectiles_BothProjectiles>TODO</InterceptsProjectiles_BothProjectiles>
   <!-- EN: ground projectiles -->
   <InterceptsProjectiles_GroundProjectiles>diúracáin talaimh</InterceptsProjectiles_GroundProjectiles>
   <!-- EN: aerial projectiles -->
@@ -1705,14 +1762,14 @@
   <!-- Hediff misc -->
   <!-- EN: Caused by: {0} -->
   <CausedByHediff>De bharr: {0}</CausedByHediff>
-
+  
   <!-- EN: {DAMAGE_label} weakness -->
   <DamageFactorWeakness>leochaileacht roimh '{DAMAGE_label}'</DamageFactorWeakness>
   <!-- EN: {DAMAGE_label} resistance -->
   <DamageFactorResistance>frithsheasmhacht i gcoinne '{DAMAGE_label}'</DamageFactorResistance>
   <!-- EN: {DAMAGE_label} damage that this creature receives is multiplied by this amount. -->
   <DamageFactor>Déanfar an damáiste '{DAMAGE_label}' a dhéantar don duine/don ainmhí seo a iolrú faoin luacht seo.</DamageFactor>
-
+  
   <!-- Healing -->
   <!-- EN: {0_nameDef}'s {1} was healed. -->
   <HealingHealHediff>Leigheasadh {1} {0_nameDef}.</HealingHealHediff>
@@ -1829,8 +1886,6 @@
   <RitualPredictedOutcomeDescPawnStat>{1} {PAWN_labelShort}</RitualPredictedOutcomeDescPawnStat>
   <!-- EN: Room beauty -->
   <RitualPredictedOutcomeDescRoomBeauty>áilleacht an tseomra</RitualPredictedOutcomeDescRoomBeauty>
-  <!-- EN: Participants -->
-  <RitualPredictedOutcomeDescParticipantCount>rannpháirtithe</RitualPredictedOutcomeDescParticipantCount>
   <!-- EN: {PAWN_labelShort}'s expectations -->
   <RitualPredictedOutcomeDescPawnExpectations>ionchais {PAWN_labelShort}</RitualPredictedOutcomeDescPawnExpectations>
   <!-- EN: Loved one present -->
@@ -1874,7 +1929,7 @@
   <!-- EN: rot stink -->
   <RotStink>gás bréantais</RotStink>
   <!-- EN: deadlife dust -->
-  <DeadlifeDust>deannach marfach</DeadlifeDust>
+  <DeadlifeDust>deannach marfach</DeadlifeDust> 
 
   <!-- Abilities -->
   <!-- EN: must be drafted. -->
@@ -1939,7 +1994,7 @@
   <AbilitySpeechCooldown>Réidh arís i gceann</AbilitySpeechCooldown>
   <!-- EN: Initiated at -->
   <AbilitySpeechTargetsLabel>Tosaithe ag</AbilitySpeechTargetsLabel>
-
+  
   <!-- Books -->
 
   <!-- EN: Benefits -->
@@ -1950,17 +2005,17 @@
   <AlreadyUnlocked>bainte amach cheana féin</AlreadyUnlocked>
   <!-- EN: when discovered -->
   <WhenDiscovered>nuair a aimseofar é</WhenDiscovered>
-
+  
   <!-- EN: Was driven into a mental break after reading {0}. -->
   <BookMentalBreakMessage>Chuir an téacs '{0}' cliseadh néarógach ar an duine seo.</BookMentalBreakMessage>
   <!-- EN: {0} done (complete in {1} hours) -->
   <BookReadProgress>{0} críochnaithe (ag críochnú i gceann {1} uair an chloig)</BookReadProgress>
-
+  
   <!-- EN: learning speed -->
   <BookLearningModifier>luas foghlama</BookLearningModifier>
   <!-- EN: Mental break chance -->
   <BookMentalBreak>dóchúlacht: cliseadh néarógach</BookMentalBreak>
-
+  
   <!-- EN: {BOOK_labelShort} is not readable -->
   <BookNotReadable>Ní féidir {BOOK_labelShort} a léamh</BookNotReadable>
   <!-- EN: {PAWN_nameDef} can't read -->
@@ -1969,13 +2024,13 @@
   <BookCantBeStage>Ní {PAWN_nameDef} in ann léamh</BookCantBeStage>
   <!-- EN: {PAWN_nameDef} is blind -->
   <BookBlind>Tá {PAWN_nameDef} dall</BookBlind>
-
+  
   <!-- EN: max level {0} -->
   <BookMaxLevel>uasleibhéal {0}</BookMaxLevel>
-
+  
   <!-- EN: Reading {0}: {1} done (complete in {2} hours) -->
   <ReadingReportHeader>Ag léamh {0}: {1} críochnaithe (ag críochnú i gceann {2} uair an chloig)</ReadingReportHeader>
-
+  
   <!-- EN: Assign reading -->
   <ReadingDialogTitle>Tabhair léitheoireacht do</ReadingDialogTitle>
   <!-- EN: Assign to {0} -->
@@ -1985,7 +2040,7 @@
 
   <!-- EN: The books currently on this bookshelf. -->
   <ContainedBooksDesc>Na leabhair atá ar an seilf seo faoi láthair.</ContainedBooksDesc>
-
+  
   <!-- EN: Books stored -->
   <BookshelfStoredInspect>An líon leabhar ar an seilf</BookshelfStoredInspect>
   <!-- EN: Reading bonus in room -->
@@ -1993,13 +2048,14 @@
 
   <!-- EN: Remove this book from the bookshelf. -->
   <EjectBookTooltip>Tóg an leabhar seo ón seilf</EjectBookTooltip>
-
+  
   <!-- Pushing -->
   <!-- EN: Push to... -->
   <CommandPushTo>Brúigh chuig...</CommandPushTo>
   <!-- EN: requires {0} -->
   <RequiredCapacity>tá {0} de dhíth</RequiredCapacity>
 
+  <!-- Pocket Maps -->
   <!-- EN: Unable to enter {0}, destination is blocked -->
   <UnableToEnterPortal>Níor féidir dul isteach, tá an ceann scríbe blocáilte.</UnableToEnterPortal>
 
@@ -2008,7 +2064,7 @@
 
   <!-- EN: Emergence -->
   <Emergence>TODO</Emergence>
-
+  
   <!-- EN: remove {0} -->
   <RemovePart>bain {0}</RemovePart>
 
@@ -2016,10 +2072,12 @@
   <DoWorkAtThing>TODO</DoWorkAtThing>
   <!-- EN: can be studied in {0} -->
   <CanBeStudiedInDuration>TODO</CanBeStudiedInDuration>
-
+  
   <!-- EN: About to explode -->
   <AboutToExplode>ar tí pléascadh</AboutToExplode>
-
+  <!-- EN: No fuel to eject -->
+  <RefuelableNoFuelToEject>TODO</RefuelableNoFuelToEject> <!-- text_todo -->
+  
   <!-- EN: New Anomaly expansion available now! -->
   <MainScreen_AnomalyAvailableNow>Tá RimWorld:Anomaly ar fáil anois!</MainScreen_AnomalyAvailableNow>
 
@@ -2029,7 +2087,105 @@
   <!-- EN: blocked by roof -->
   <BlockedByRoof>tá díon sa bhealach</BlockedByRoof>
 
+  <!-- Craters -->
+  <!-- EN: Fill in -->
+  <DesignatorFillIn>TODO</DesignatorFillIn>
+  <!-- EN: Designate this crater to be filled in. A colonist assigned to construction will fill it in. -->
+  <DesignatorFillInDesc>TODO</DesignatorFillInDesc>
+
+  <!-- Hacking -->
+  <!-- EN: Hack progress -->
+  <HackProgress>TODO</HackProgress>
+  <!-- EN: hacking speed -->
+  <HackingSpeed>TODO</HackingSpeed>
+  <!-- EN: {0}'s -->
+  <HackingLastUser>TODO</HackingLastUser>
+  <!-- EN: hacked -->
+  <Hacked>TODO</Hacked>
+  <!-- EN: Terminals hacked -->
+  <TerminalsHacked>TODO</TerminalsHacked>
+  <!-- EN: Intellectual needed -->
+  <IntellectualSkillPrerequisite>TODO</IntellectualSkillPrerequisite>
+  <!-- EN: Auto hack -->
+  <AutoHack>TODO</AutoHack>
+  <!-- EN: When enabled, researchers will automatically hack this. -->
+  <AutoHackDesc>TODO</AutoHackDesc>
+
+  <!-- World -->
+  <!-- EN: View {LAYER_label} -->
+  <WorldSelectLayer>TODO</WorldSelectLayer>
+  <!-- EN: Jump to location -->
+  <WorldJumpTo>TODO</WorldJumpTo>
+  <!-- EN: Find a colony, caravan, or quest location on the world map. -->
+  <WorldJumpToDesc>TODO</WorldJumpToDesc>
+  <!-- EN: Nothing to jump to. -->
+  <NothingToJumpTo>TODO</NothingToJumpTo>
+  <!-- EN: cannot function in {0} -->
+  <CannotFunctionOnLayer>TODO</CannotFunctionOnLayer>
+  <!-- EN: New settlement -->
+  <NewSettlement>TODO</NewSettlement>
+  <!-- EN: Settled -->
+  <Settled>TODO</Settled>
+  <!-- EN: Abandoned -->
+  <Abandoned>TODO</Abandoned>
+  <!-- EN: Cannot perform in {0} -->
+  <CannotPerformPlanetLayer>TODO</CannotPerformPlanetLayer>
+  <!-- EN: This will not affect you {GERUND} {LAYER}. -->
+  <ThisWillNotAffectLayer>TODO</ThisWillNotAffectLayer>
+
+  <!-- Pocket maps -->
+  <!-- EN: Enter {0} -->
+  <EnterPortal>Téigh isteach</EnterPortal>
+  <!-- EN: Entering {0} -->
+  <EnteringPortal>Ag dul isteach</EnteringPortal>
+  <!-- EN: Select people and items to enter the {0}. -->
+  <CommandEnterPortalDesc>Roghnaigh daoine agus earraí agus téigh isteach.</CommandEnterPortalDesc>
+  <!-- EN: Cancel entering -->
+  <CommandCancelEnterPortal>Cealaigh</CommandCancelEnterPortal>
+  <!-- EN: Cancel exiting -->
+  <CommandCancelExitPortal>TODO</CommandCancelExitPortal>
+  <!-- EN: Cancel loading people or items into this. -->
+  <CommandCancelEnterPortalDesc>Cuir stop le daoine nó earraí a lódáil.</CommandCancelEnterPortalDesc>
+  <!-- EN: Exit {0} -->
+  <ExitPortal>TODO</ExitPortal>
+
+  <!-- CompProjectileInterceptor -->
+  <!-- EN: Shield energy -->
+  <ShieldEnergy>TODO</ShieldEnergy>
+  <!-- EN: Shield cooldown -->
+  <ShieldTimeToRecovery>TODO</ShieldTimeToRecovery>
+  <!-- EN: Shield duration -->
+  <ShieldDuration>TODO</ShieldDuration>
+  <!-- EN: On cooldown -->
+  <ShieldOnCooldown>TODO</ShieldOnCooldown>
+  <!-- EN: Below minimum energy -->
+  <ShieldBelowMinHitpoints>TODO</ShieldBelowMinHitpoints>
+  <!-- EN: A low-angle projected shield that will attempt to stop incoming projectiles or shrapnel. It shuts down instantly if hit by an EMP. -->
+  <ProjectileInterceptorTip>TODO</ProjectileInterceptorTip>
+
+  <!-- EN: max {0} -->
+  <MaxOf>TODO</MaxOf>
+
+  <!-- EN: Cannot use {TARGETABLE_label}: {TARGET_nameDef} already has {2}. -->
+  <CannotUseDueToHediff>TODO</CannotUseDueToHediff>
+
+  <!-- Scanner -->
+  <!-- EN: Blocked by roof -->
+  <CannotUseScannerRoofed>TODO</CannotUseScannerRoofed> <!-- text_todo -->
+  <!-- EN: Does not function in this biome -->
+  <CannotUseScannerNoBedrock>TODO</CannotUseScannerNoBedrock> <!-- text_todo -->
+  
+  <!-- Quests -->
+  <!-- EN: Cannot accept this quest {GERUND} {LAYER}. -->
+  <CannotAcceptQuestFromLayer>TODO</CannotAcceptQuestFromLayer>
+  <!-- EN: Cannot accept this quest without a permanent colony. -->
+  <CannotAcceptQuestNoMap>TODO</CannotAcceptQuestNoMap>
+  
   <!-- UNUSED -->
+  <NotAllFuelingPortSourcesInGroupHaveAnyFuel>gan bhreosla</NotAllFuelingPortSourcesInGroupHaveAnyFuel>
+  <TransportPodInGroupHasSomethingLeftToLoad>á lódáil</TransportPodInGroupHasSomethingLeftToLoad>
+  <ShowExpandingIconsToggleButton>Deilbhíní athraitheacha\n\nTaispeáin deilbhíní athraitheacha ar rudaí atá i bhfad i gcéin, in áit gnáthdheilbhíní.</ShowExpandingIconsToggleButton>
+  <RitualPredictedOutcomeDescParticipantCount>rannpháirtithe</RitualPredictedOutcomeDescParticipantCount>
   <RadiusExpandRate>Ráta leathnaithe an gha</RadiusExpandRate>
   <GameOverKeepPlaying>Weiterspielen</GameOverKeepPlaying>
   <HealingCureHediff>{replace: {0_nameDef}s; "s(/Name)s"-"s(/Name)'"; "ß(/Name)s"-"ß(/Name)'"; "z(/Name)s"-"z(/Name)'"; "x(/Name)s"-"x(/Name)'"; "ce(/Name)s"-"ce(/Name)'"} {1} wurde geheilt.</HealingCureHediff>

@@ -16,8 +16,8 @@
     <li>attacked->attacked</li>
     <li>attacked->struck</li>
     <li>attacked->hit</li>
-    <li>damaged_past->wounding</li>
-    <li>damaged_past->injuring</li>
+    <li>damaged_present->wounding</li>
+    <li>damaged_present->injuring</li>
     <li>destroyed_present->removing</li>
     <li>destroyed_present->crippling</li>
     <li>destroyed_present->severing</li>

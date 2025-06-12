@@ -7,6 +7,8 @@
   <OutlanderRefugee.description>Grúpa teifeach, a deir go bhfuil a mbaile caillte.</OutlanderRefugee.description>
   <!-- EN: leader -->
   <OutlanderRefugee.leaderTitle>ceannaire</OutlanderRefugee.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <OutlanderRefugee.messageDefendersAttacking>TODO</OutlanderRefugee.messageDefendersAttacking>
   <!-- EN: refugee -->
   <OutlanderRefugee.pawnSingular>teifeach</OutlanderRefugee.pawnSingular>
   <!-- EN: refugees -->

@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: gestate centipede burner -->
-  <CentipedeBurner.label>Inferno-Raupe entwickeln</CentipedeBurner.label>
+  <CentipedeBurner.label>TODO</CentipedeBurner.label>
   <!-- EN: Gestate a centipede mechanoid armed with an inferno cannon. -->
-  <CentipedeBurner.description>Entwickle einen Raupe-Mechanoiden, der mit einer Infernokanone bewaffnet ist.</CentipedeBurner.description>
+  <CentipedeBurner.description>TODO</CentipedeBurner.description>
   <!-- EN: Gestating mech. -->
-  <CentipedeBurner.jobString>Entwickelt Mechanoiden.</CentipedeBurner.jobString>
+  <CentipedeBurner.jobString>TODO</CentipedeBurner.jobString>
   
   <!-- EN: gestate centipede gunner -->
-  <CentipedeGunner.label>Minigun-Raupe entwickeln</CentipedeGunner.label>
+  <CentipedeGunner.label>TODO</CentipedeGunner.label>
   <!-- EN: Gestate a centipede mechanoid armed with a minigun. -->
-  <CentipedeGunner.description>Entwickle einen Raupe-Mechanoiden, der mit einer Minigun bewaffnet ist.</CentipedeGunner.description>
+  <CentipedeGunner.description>TODO</CentipedeGunner.description>
   <!-- EN: Gestating mech. -->
-  <CentipedeGunner.jobString>Entwickelt Mechanoiden.</CentipedeGunner.jobString>
+  <CentipedeGunner.jobString>TODO</CentipedeGunner.jobString>
   
   <!-- EN: gestate diabolus -->
-  <Diabolus.label>Diabolus entwickeln</Diabolus.label>
+  <Diabolus.label>TODO</Diabolus.label>
   <!-- EN: Gestate a diabolus mech. -->
-  <Diabolus.description>Entwickle einen Diabolus-Mechanoiden.</Diabolus.description>
+  <Diabolus.description>TODO</Diabolus.description>
   <!-- EN: Gestating mech. -->
-  <Diabolus.jobString>Entwickelt Mechanoiden.</Diabolus.jobString>
+  <Diabolus.jobString>TODO</Diabolus.jobString>
   
   <!-- EN: gestate tunneler -->
-  <Tunneler.label>Tunnelgräber entwickeln</Tunneler.label>
+  <Tunneler.label>TODO</Tunneler.label>
   <!-- EN: Gestate a tunneler mechanoid. -->
-  <Tunneler.description>Entwickle einen Tunnelgräber-Mechanoiden.</Tunneler.description>
+  <Tunneler.description>TODO</Tunneler.description>
   <!-- EN: Gestating mech. -->
-  <Tunneler.jobString>Entwickelt Mechanoiden.</Tunneler.jobString>
+  <Tunneler.jobString>TODO</Tunneler.jobString>
   
 </LanguageData>

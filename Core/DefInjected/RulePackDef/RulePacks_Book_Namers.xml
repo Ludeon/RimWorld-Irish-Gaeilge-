@@ -4,15 +4,15 @@
   <!-- EN:
     <li>title(p=3)->[titleNaked]</li>
     <li>title->[ANYPAWN_nameIndef]'s [titleNaked]</li>
-    <li>title->[Character]'s [novel_story]</li>
+    <li>title->[Character]'s [story]</li>
     <li>title->[Character]'s [objectAny]</li>
-    <li>title->[Character] [linkagenovel_place] [novel_place]</li>
+    <li>title->[Character] [linkagePlace] [place]</li>
     <li>title->The [adjective] [Character]</li>
     <li>title->The [adjective] [objectAny]</li>
     <li>titleNaked->[ConceptAny]</li>
     <li>titleNaked->[adjective] [ConceptAny]</li>
     <li>titleNaked->[ConceptAny] [linkage] [ConceptAny]</li>
-    <li>titleNaked->[ConceptAny] [linkagenovel_place] [novel_place]</li>
+    <li>titleNaked->[ConceptAny] [linkagePlace] [place]</li>
     <li>titleNaked->[objectAny] [linkage] [ConceptAny]</li>
     <li>objectAny->[Game]</li>
     <li>objectAny->[Weapon]</li>
@@ -21,176 +21,174 @@
     <li>linkage->for</li>
     <li>linkage->without</li>
     <li>linkage->with</li>
-    <li>linkagenovel_place->in the</li>
-    <li>linkagenovel_place->by the</li>
-    <li>linkagenovel_place->on the</li>
-    <li>linkagenovel_place->Near the</li>
+    <li>linkagePlace->in the</li>
+    <li>linkagePlace->by the</li>
+    <li>linkagePlace->on the</li>
+    <li>linkagePlace->Near the</li>
     <li>adjective->[AdjectiveAny]</li>
-    <li>novel_place(p=25)->[TerrainFeature]</li>
-    <li>novel_place->Abyss</li>
-    <li>novel_place->Amphitheater</li>
-    <li>novel_place->Aquarium</li>
-    <li>novel_place->Aqueduct</li>
-    <li>novel_place->Arena</li>
-    <li>novel_place->Asylum</li>
-    <li>novel_place->Barracks</li>
-    <li>novel_place->Base</li>
-    <li>novel_place->Bunker</li>
-    <li>novel_place->Cabin</li>
-    <li>novel_place->Camp</li>
-    <li>novel_place->Castle</li>
-    <li>novel_place->Cathedral</li>
-    <li>novel_place->Cavern</li>
-    <li>novel_place->Citadel</li>
-    <li>novel_place->City</li>
-    <li>novel_place->Coliseum</li>
-    <li>novel_place->Colony</li>
-    <li>novel_place->Depths</li>
-    <li>novel_place->Desert</li>
-    <li>novel_place->Elevator</li>
-    <li>novel_place->Factory</li>
-    <li>novel_place->Festival</li>
-    <li>novel_place->Fortress</li>
-    <li>novel_place->Glade</li>
-    <li>novel_place->Graveyard</li>
-    <li>novel_place->Greenhouse</li>
-    <li>novel_place->Grove</li>
-    <li>novel_place->Harbor</li>
-    <li>novel_place->Heart</li>
-    <li>novel_place->Hive</li>
-    <li>novel_place->Hospital</li>
-    <li>novel_place->Island</li>
-    <li>novel_place->Jungle</li>
-    <li>novel_place->Labor Camp</li>
-    <li>novel_place->Laboratory</li>
-    <li>novel_place->Labyrinth</li>
-    <li>novel_place->Launchpad</li>
-    <li>novel_place->Library</li>
-    <li>novel_place->Lighthouse</li>
-    <li>novel_place->Manor</li>
-    <li>novel_place->Mansion</li>
-    <li>novel_place->Marketnovel_place</li>
-    <li>novel_place->Mine</li>
-    <li>novel_place->Monastery</li>
-    <li>novel_place->Mountain</li>
-    <li>novel_place->Nexus</li>
-    <li>novel_place->Oasis</li>
-    <li>novel_place->Observatory</li>
-    <li>novel_place->Orchard</li>
-    <li>novel_place->Outpost</li>
-    <li>novel_place->Palace</li>
-    <li>novel_place->Plateau</li>
-    <li>novel_place->Prison</li>
-    <li>novel_place->Refinery</li>
-    <li>novel_place->Resort</li>
-    <li>novel_place->Rift</li>
-    <li>novel_place->Ruins</li>
-    <li>novel_place->Sanctuary</li>
-    <li>novel_place->School</li>
-    <li>novel_place->Settlement</li>
-    <li>novel_place->Ship</li>
-    <li>novel_place->Soul</li>
-    <li>novel_place->Space Station</li>
-    <li>novel_place->Spaceport</li>
-    <li>novel_place->Spire</li>
-    <li>novel_place->Swamp</li>
-    <li>novel_place->Tavern</li>
-    <li>novel_place->Temple</li>
-    <li>novel_place->Town</li>
-    <li>novel_place->Tundra</li>
-    <li>novel_place->University</li>
-    <li>novel_place->Village</li>
-    <li>novel_place->Volcano</li>
-    <li>novel_place->Warehouse</li>
-    <li>novel_place->Wasteland</li>
-    <li>novel_place->Wilderness</li>
-    <li>novel_place->Zoo</li>
-    <li>novel_story->Adventure</li>
-    <li>novel_story->Adventures</li>
-    <li>novel_story->Allegory</li>
-    <li>novel_story->Anecdote</li>
-    <li>novel_story->Annals</li>
-    <li>novel_story->Ballad</li>
-    <li>novel_story->Biography</li>
-    <li>novel_story->Chapters</li>
-    <li>novel_story->Chronicle</li>
-    <li>novel_story->Chronicles</li>
-    <li>novel_story->Chronology</li>
-    <li>novel_story->Comedy</li>
-    <li>novel_story->Compendium</li>
-    <li>novel_story->Compilation</li>
-    <li>novel_story->Dialogue</li>
-    <li>novel_story->Diary</li>
-    <li>novel_story->Discourse</li>
-    <li>novel_story->Drama</li>
-    <li>novel_story->Dream</li>
-    <li>novel_story->Enigma</li>
-    <li>novel_story->Epic</li>
-    <li>novel_story->Epiphany</li>
-    <li>novel_story->Epistle</li>
-    <li>novel_story->Fable</li>
-    <li>novel_story->Fables</li>
-    <li>novel_story->Fairy Tale</li>
-    <li>novel_story->Fantasia</li>
-    <li>novel_story->Fantasy</li>
-    <li>novel_story->Fantasy</li>
-    <li>novel_story->Fiction</li>
-    <li>novel_story->Folklore</li>
-    <li>novel_story->Hinovel_story</li>
-    <li>novel_story->Imagination</li>
-    <li>novel_story->Imaginings</li>
-    <li>novel_story->Insight</li>
-    <li>novel_story->Jottings</li>
-    <li>novel_story->Journal</li>
-    <li>novel_story->Journey</li>
-    <li>novel_story->Legacy</li>
-    <li>novel_story->Legend</li>
-    <li>novel_story->Legends</li>
-    <li>novel_story->Literature</li>
-    <li>novel_story->Log</li>
-    <li>novel_story->Memoir</li>
-    <li>novel_story->Memoirs</li>
-    <li>novel_story->Memories</li>
-    <li>novel_story->Mind</li>
-    <li>novel_story->Musical</li>
-    <li>novel_story->Musings</li>
-    <li>novel_story->Myth</li>
-    <li>novel_story->Mythology</li>
-    <li>novel_story->Mythos</li>
-    <li>novel_story->Narration</li>
-    <li>novel_story->Narrative</li>
-    <li>novel_story->Novel</li>
-    <li>novel_story->Observations</li>
-    <li>novel_story->Ode</li>
-    <li>novel_story->Pages</li>
-    <li>novel_story->Papers</li>
-    <li>novel_story->Parable</li>
-    <li>novel_story->Prose</li>
-    <li>novel_story->Recollections</li>
-    <li>novel_story->Recount</li>
-    <li>novel_story->Reflection</li>
-    <li>novel_story->Reflections</li>
-    <li>novel_story->Reminiscences</li>
-    <li>novel_story->Revelation</li>
-    <li>novel_story->Rhapsody</li>
-    <li>novel_story->Saga</li>
-    <li>novel_story->Scribblings</li>
-    <li>novel_story->Script</li>
-    <li>novel_story->Sketch</li>
-    <li>novel_story->Sketches</li>
-    <li>novel_story->novel_story</li>
-    <li>novel_story->Tale</li>
-    <li>novel_story->Tales</li>
-    <li>novel_story->Testament</li>
-    <li>novel_story->Testimony</li>
-    <li>novel_story->Tragedy</li>
-    <li>novel_story->Tribute</li>
-    <li>novel_story->Verse</li>
-    <li>novel_story->Volume</li>
-    <li>novel_story->Whimsy</li>
+    <li>place(p=25)->[TerrainFeature]</li>
+    <li>place->Abyss</li>
+    <li>place->Amphitheater</li>
+    <li>place->Aquarium</li>
+    <li>place->Aqueduct</li>
+    <li>place->Arena</li>
+    <li>place->Asylum</li>
+    <li>place->Barracks</li>
+    <li>place->Base</li>
+    <li>place->Bunker</li>
+    <li>place->Cabin</li>
+    <li>place->Camp</li>
+    <li>place->Castle</li>
+    <li>place->Cathedral</li>
+    <li>place->Cavern</li>
+    <li>place->Citadel</li>
+    <li>place->City</li>
+    <li>place->Coliseum</li>
+    <li>place->Colony</li>
+    <li>place->Depths</li>
+    <li>place->Desert</li>
+    <li>place->Elevator</li>
+    <li>place->Factory</li>
+    <li>place->Festival</li>
+    <li>place->Fortress</li>
+    <li>place->Glade</li>
+    <li>place->Graveyard</li>
+    <li>place->Greenhouse</li>
+    <li>place->Grove</li>
+    <li>place->Harbor</li>
+    <li>place->Heart</li>
+    <li>place->Hive</li>
+    <li>place->Hospital</li>
+    <li>place->Island</li>
+    <li>place->Jungle</li>
+    <li>place->Labor Camp</li>
+    <li>place->Laboratory</li>
+    <li>place->Labyrinth</li>
+    <li>place->Launchpad</li>
+    <li>place->Library</li>
+    <li>place->Lighthouse</li>
+    <li>place->Manor</li>
+    <li>place->Mansion</li>
+    <li>place->Marketplace</li>
+    <li>place->Mine</li>
+    <li>place->Monastery</li>
+    <li>place->Mountain</li>
+    <li>place->Nexus</li>
+    <li>place->Oasis</li>
+    <li>place->Observatory</li>
+    <li>place->Orchard</li>
+    <li>place->Outpost</li>
+    <li>place->Palace</li>
+    <li>place->Plateau</li>
+    <li>place->Prison</li>
+    <li>place->Refinery</li>
+    <li>place->Resort</li>
+    <li>place->Rift</li>
+    <li>place->Ruins</li>
+    <li>place->Sanctuary</li>
+    <li>place->School</li>
+    <li>place->Settlement</li>
+    <li>place->Ship</li>
+    <li>place->Soul</li>
+    <li>place->Space Station</li>
+    <li>place->Spaceport</li>
+    <li>place->Spire</li>
+    <li>place->Swamp</li>
+    <li>place->Tavern</li>
+    <li>place->Temple</li>
+    <li>place->Town</li>
+    <li>place->Tundra</li>
+    <li>place->University</li>
+    <li>place->Village</li>
+    <li>place->Volcano</li>
+    <li>place->Warehouse</li>
+    <li>place->Wasteland</li>
+    <li>place->Wilderness</li>
+    <li>place->Zoo</li>
+    <li>story->Adventure</li>
+    <li>story->Adventures</li>
+    <li>story->Allegory</li>
+    <li>story->Anecdote</li>
+    <li>story->Annals</li>
+    <li>story->Ballad</li>
+    <li>story->Biography</li>
+    <li>story->Chapters</li>
+    <li>story->Chronicle</li>
+    <li>story->Chronicles</li>
+    <li>story->Chronology</li>
+    <li>story->Comedy</li>
+    <li>story->Compendium</li>
+    <li>story->Compilation</li>
+    <li>story->Dialogue</li>
+    <li>story->Diary</li>
+    <li>story->Discourse</li>
+    <li>story->Drama</li>
+    <li>story->Dream</li>
+    <li>story->Enigma</li>
+    <li>story->Epic</li>
+    <li>story->Epiphany</li>
+    <li>story->Epistle</li>
+    <li>story->Fable</li>
+    <li>story->Fables</li>
+    <li>story->Fairy Tale</li>
+    <li>story->Fantasia</li>
+    <li>story->Fantasy</li>
+    <li>story->Fantasy</li>
+    <li>story->Fiction</li>
+    <li>story->Folklore</li>
+    <li>story->History</li>
+    <li>story->Imagination</li>
+    <li>story->Imaginings</li>
+    <li>story->Insight</li>
+    <li>story->Jottings</li>
+    <li>story->Journal</li>
+    <li>story->Journey</li>
+    <li>story->Legacy</li>
+    <li>story->Legend</li>
+    <li>story->Legends</li>
+    <li>story->Literature</li>
+    <li>story->Log</li>
+    <li>story->Memoir</li>
+    <li>story->Memoirs</li>
+    <li>story->Memories</li>
+    <li>story->Mind</li>
+    <li>story->Musical</li>
+    <li>story->Musings</li>
+    <li>story->Myth</li>
+    <li>story->Mythology</li>
+    <li>story->Mythos</li>
+    <li>story->Narration</li>
+    <li>story->Narrative</li>
+    <li>story->Novel</li>
+    <li>story->Observations</li>
+    <li>story->Ode</li>
+    <li>story->Pages</li>
+    <li>story->Papers</li>
+    <li>story->Parable</li>
+    <li>story->Prose</li>
+    <li>story->Recollections</li>
+    <li>story->Recount</li>
+    <li>story->Reflection</li>
+    <li>story->Reflections</li>
+    <li>story->Reminiscences</li>
+    <li>story->Revelation</li>
+    <li>story->Rhapsody</li>
+    <li>story->Saga</li>
+    <li>story->Scribblings</li>
+    <li>story->Script</li>
+    <li>story->Sketch</li>
+    <li>story->Sketches</li>
+    <li>story->Story</li>
+    <li>story->Tale</li>
+    <li>story->Tales</li>
+    <li>story->Testament</li>
+    <li>story->Testimony</li>
+    <li>story->Tragedy</li>
+    <li>story->Tribute</li>
+    <li>story->Verse</li>
+    <li>story->Volume</li>
+    <li>story->Whimsy</li>
   -->
-
-  <!-- This needs to be fixed a bit, some TITLE strings not showing up properly -->
   <Namer_Novel.rulePack.rulesStrings>
     <li>title->[ANYPAWN_nameIndef] [ConceptAny]</li>
     <li>title->[novel_story] [Character]</li>
@@ -205,18 +203,18 @@
     <li>adjective->[AdjectiveAny]</li>
     <li>novel_place->An tAigéan Dorcha</li>
     <li>novel_place->An Amfaitéatar</li>
-    <li>novel_place->An tUisceadán</li> 
+    <li>novel_place->An tUisceadán</li>
     <li>novel_place->An Aréine</li>
-    <li>novel_place->An Teach Tearmainn</li> 
+    <li>novel_place->An Teach Tearmainn</li>
     <li>novel_place->Na Beairicí</li>
-    <li>novel_place->An Bonn</li> 
+    <li>novel_place->An Bonn</li>
     <li>novel_place->An Buncar</li>
     <li>novel_place->An Cábán</li>
     <li>novel_place->An Campa</li>
     <li>novel_place->An Caisleán</li>
     <li>novel_place->An Ardeaglais</li>
-    <li>novel_place->An Uaimh</li> 
-    <li>novel_place->An Dún</li> 
+    <li>novel_place->An Uaimh</li>
+    <li>novel_place->An Dún</li>
     <li>novel_place->An Chathair</li>
     <li>novel_place->An Colasaem</li>
     <li>novel_place->An Choilíneacht</li>
@@ -228,44 +226,44 @@
     <li>novel_place->An Dúnfort</li>
     <li>novel_place->An Gleanntán</li>
     <li>novel_place->An Reilg</li>
-    <li>novel_place->An Tithe Gloine</li> 
+    <li>novel_place->An Tithe Gloine</li>
     <li>novel_place->An Gort</li>
     <li>novel_place->An Calafort</li>
     <li>novel_place->An Croí</li>
-    <li>novel_place->An Nead</li> 
+    <li>novel_place->An Nead</li>
     <li>novel_place->An tOspidéal</li>
     <li>novel_place->An tOileán</li>
     <li>novel_place->An Dufair</li>
     <li>novel_place->An Campa Oibre</li>
     <li>novel_place->An tSaotharlann</li>
     <li>novel_place->An Labarint</li>
-    <li>novel_place->An tÁrthach Sheolta</li> 
+    <li>novel_place->An tÁrthach Sheolta</li>
     <li>novel_place->An Leabharlann</li>
     <li>novel_place->An Teach Solais</li>
-    <li>novel_place->An Teach Mór</li> 
+    <li>novel_place->An Teach Mór</li>
     <li>novel_place->An Margadh</li>
     <li>novel_place->An Mianach</li>
     <li>novel_place->An Mainistir</li>
     <li>novel_place->An tSliabh</li>
-    <li>novel_place->An Nasc</li> 
+    <li>novel_place->An Nasc</li>
     <li>novel_place->An tOásach</li>
     <li>novel_place->An Réadlann</li>
-    <li>novel_place->An Ceannphost</li> 
+    <li>novel_place->An Ceannphost</li>
     <li>novel_place->An Pálás</li>
-    <li>novel_place->An Ardchlár</li> 
+    <li>novel_place->An Ardchlár</li>
     <li>novel_place->An Phríosún</li>
-    <li>novel_place->An Rafinéir</li> 
-    <li>novel_place->An Saoire</li> 
-    <li>novel_place->An Scoilt</li> 
+    <li>novel_place->An Rafinéir</li>
+    <li>novel_place->An Saoire</li>
+    <li>novel_place->An Scoilt</li>
     <li>novel_place->Na Fothracha</li>
     <li>novel_place->An Tearmann</li>
     <li>novel_place->An Scoil</li>
     <li>novel_place->An Lonnaíocht</li>
-    <li>novel_place->An Long</li>   
-    <li>novel_place->An tAnam</li> 
+    <li>novel_place->An Long</li>
+    <li>novel_place->An tAnam</li>
     <li>novel_place->An Stáisiún Spáis</li>
-    <li>novel_place->An Spásphort</li> 
-    <li>novel_place->An Túr</li> 
+    <li>novel_place->An Spásphort</li>
+    <li>novel_place->An Túr</li>
     <li>novel_place->An Portach</li>
     <li>novel_place->An Tábhairne</li>
     <li>novel_place->An Teampall</li>
@@ -274,65 +272,65 @@
     <li>novel_place->An Ollscoil</li>
     <li>novel_place->An Sráidbhaile</li>
     <li>novel_place->An Bolcán</li>
-    <li>novel_place->An Stóras</li> 
-    <li>novel_place->An Talamh Tréigthe</li> 
-    <li>novel_place->An Fásach Fiáin</li> 
-    <li>novel_story->Eachtra</li>     
-    <li>novel_story->Eachtraí</li>      
-    <li>novel_story->Fáthscéal</li>   
-    <li>novel_story->Aiste</li>          
-    <li>novel_story->Annála</li>        
-    <li>novel_story->Bailéad</li>       
-    <li>novel_story->Beathaisnéis</li> 
-    <li>novel_story->Caibidlí</li>       
-    <li>novel_story->Crónán</li>         
-    <li>novel_story->Crónáin</li>         
+    <li>novel_place->An Stóras</li>
+    <li>novel_place->An Talamh Tréigthe</li>
+    <li>novel_place->An Fásach Fiáin</li>
+    <li>novel_story->Eachtra</li>
+    <li>novel_story->Eachtraí</li>
+    <li>novel_story->Fáthscéal</li>
+    <li>novel_story->Aiste</li>
+    <li>novel_story->Annála</li>
+    <li>novel_story->Bailéad</li>
+    <li>novel_story->Beathaisnéis</li>
+    <li>novel_story->Caibidlí</li>
+    <li>novel_story->Crónán</li>
+    <li>novel_story->Crónáin</li>
     <li>novel_story->Croineolaíocht</li>
-    <li>novel_story->Grinn</li>          
-    <li>novel_story->Achoimre</li>        
-    <li>novel_story->Bailiúchán</li>      
-    <li>novel_story->Comhrá</li>          
-    <li>novel_story->Dialann</li>        
-    <li>novel_story->Plé</li>            
-    <li>novel_story->Dráma</li>          
-    <li>novel_story->Brionglóid</li>     
-    <li>novel_story->Rúndiamhair</li>    
-    <li>novel_story->Eipic</li>         
-    <li>novel_story->Soilsiú</li>         
-    <li>novel_story->Litir</li>           
+    <li>novel_story->Grinn</li>
+    <li>novel_story->Achoimre</li>
+    <li>novel_story->Bailiúchán</li>
+    <li>novel_story->Comhrá</li>
+    <li>novel_story->Dialann</li>
+    <li>novel_story->Plé</li>
+    <li>novel_story->Dráma</li>
+    <li>novel_story->Brionglóid</li>
+    <li>novel_story->Rúndiamhair</li>
+    <li>novel_story->Eipic</li>
+    <li>novel_story->Soilsiú</li>
+    <li>novel_story->Litir</li>
     <li>novel_story->Scéal Béaloidis</li>
     <li>novel_story->Scéalta Béaloidis</li>
-    <li>novel_story->Scéal Sí</li>      
-    <li>novel_story->Fantaisíocht</li>   
-    <li>novel_story->Finscéalaíocht</li>  
-    <li>novel_story->Samhlachaíocht</li>  
-    <li>novel_story->Ficsean</li>         
-    <li>novel_story->Béaloideas</li>    
-    <li>novel_story->Stair</li>          
-    <li>novel_story->Samhlaíocht</li>   
-    <li>novel_story->Samhlaíochtaí</li>  
-    <li>novel_story->Léargas</li>         
-    <li>novel_story->Nótaí</li>          
-    <li>novel_story->Iris</li>            
-    <li>novel_story->Turas</li>           
-    <li>novel_story->Oidhreacht</li>     
-    <li>novel_story->Finscéal</li>      
-    <li>novel_story->Finscéalta</li>     
-    <li>novel_story->Litríocht</li>   
-    <li>novel_story->Loga</li>            
-    <li>novel_story->Cuimhní Cinn</li>    
-    <li>novel_story->Cuimhní Cinn</li>   
-    <li>novel_story->Cuimhní</li>       
-    <li>novel_story->Intinn</li>          
-    <li>novel_story->Ceoldráma</li>     
-    <li>novel_story->Machnaimh</li>     
-    <li>novel_story->Miotas</li>        
+    <li>novel_story->Scéal Sí</li>
+    <li>novel_story->Fantaisíocht</li>
+    <li>novel_story->Finscéalaíocht</li>
+    <li>novel_story->Samhlachaíocht</li>
+    <li>novel_story->Ficsean</li>
+    <li>novel_story->Béaloideas</li>
+    <li>novel_story->Stair</li>
+    <li>novel_story->Samhlaíocht</li>
+    <li>novel_story->Samhlaíochtaí</li>
+    <li>novel_story->Léargas</li>
+    <li>novel_story->Nótaí</li>
+    <li>novel_story->Iris</li>
+    <li>novel_story->Turas</li>
+    <li>novel_story->Oidhreacht</li>
+    <li>novel_story->Finscéal</li>
+    <li>novel_story->Finscéalta</li>
+    <li>novel_story->Litríocht</li>
+    <li>novel_story->Loga</li>
+    <li>novel_story->Cuimhní Cinn</li>
+    <li>novel_story->Cuimhní Cinn</li>
+    <li>novel_story->Cuimhní</li>
+    <li>novel_story->Intinn</li>
+    <li>novel_story->Ceoldráma</li>
+    <li>novel_story->Machnaimh</li>
+    <li>novel_story->Miotas</li>
     <li>novel_story->Miotaseolaíocht</li>
-    <li>novel_story->Miotais</li>       
-    <li>novel_story->Insint</li>       
-    <li>novel_story->Scéalaíocht</li>  
-    <li>novel_story->Úrscéal</li>       
-    <li>novel_story->Óid</li>           
+    <li>novel_story->Miotais</li>
+    <li>novel_story->Insint</li>
+    <li>novel_story->Scéalaíocht</li>
+    <li>novel_story->Úrscéal</li>
+    <li>novel_story->Óid</li>
     <li>novel_story->Leathanaigh</li>
     <li>novel_story->Páipéir</li>
     <li>novel_story->Parabal</li>
@@ -345,7 +343,7 @@
     <li>novel_story->Nochtadh</li>
     <li>novel_story->Rapsóid</li>
     <li>novel_story->Sagas</li>
-    <li>novel_story->Scríbhneoireacht</li> 
+    <li>novel_story->Scríbhneoireacht</li>
     <li>novel_story->Script</li>
     <li>novel_story->Léaráid</li>
     <li>novel_story->Léaráidí</li>
@@ -601,7 +599,7 @@
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Odyssey</li>
     <li>titleAuthoredNoSubject->[ANYPAWN_nameIndef]'s Journey</li>
     <li>titleAuthoredNoSubject->The Life of [ANYPAWN_nameIndef]</li>
-    <li>titleAuthoredNoSubject->The novel_story of [ANYPAWN_nameIndef]</li>
+    <li>titleAuthoredNoSubject->The Story of [ANYPAWN_nameIndef]</li>
     <li>titleAuthoredNoSubject->The Legacy of [ANYPAWN_nameIndef]</li>
     <li>titleAuthoredNoSubject->The Adventures of [ANYPAWN_nameIndef]</li>
     <li>titleAuthoredNoSubject->The Diaries of [ANYPAWN_nameIndef]</li>
@@ -719,7 +717,7 @@
     <li>titleBasic->[subject_schematic]: An Treoir Nua</li>
     <li>titleBasic->[subject_schematic]: Téacsleabhar</li>
     <li>titleBasic->[subject_schematic] agus [subject_schematic]</li>
-<!-- Lazily reused the same subjects from Schematics above, but will get back to updating these eventually to give it a bit more variety. Working as intended for now. -->
+    <!-- Lazily reused the same subjects from Schematics above, but will get back to updating these eventually to give it a bit more variety. Working as intended for now. -->
     <li>subject_schematic->Réaltfhisic</li>
     <li>subject_schematic->Bitheolaíocht Mhóilíneach</li>
     <li>subject_schematic->Ceimic Orgánach</li>

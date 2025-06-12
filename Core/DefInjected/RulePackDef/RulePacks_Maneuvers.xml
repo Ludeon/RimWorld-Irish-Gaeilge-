@@ -5,16 +5,16 @@
     <li>damaged_inf->bite</li>
     <li>damaged_inf->chomp</li>
     <li>damaged_inf(p=0.5)->nip</li>
-    <li>damaged_saorbhriathar->bit</li>
-    <li>damaged_saorbhriathar->chomped</li>
-    <li>damaged_saorbhriathar->nipped</li>
-    <li>damaged_saorbhriathar->gnawed</li>
-    <li>damaged_saorbhriathar(deflected!=True)->tore</li>
-    <li>damaged_past->biting</li>
-    <li>damaged_past->chomping</li>
+    <li>damaged_past->bit</li>
+    <li>damaged_past->chomped</li>
     <li>damaged_past->nipped</li>
-    <li>damaged_past->gnawing</li>
-    <li>damaged_past(deflected!=True)->tearing</li>
+    <li>damaged_past->gnawed</li>
+    <li>damaged_past(deflected!=True)->tore</li>
+    <li>damaged_present->biting</li>
+    <li>damaged_present->chomping</li>
+    <li>damaged_present->nipped</li>
+    <li>damaged_present->gnawing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</li>
     <li>flavortext_consequence(recipient_flesh==Mechanoid)->exposing the machinery underneath</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving grisly tears in the skin</li>
@@ -22,9 +22,9 @@
     <li>destroyed_past->tore off</li>
     <li>destroyed_past->ripped off</li>
     <li>destroyed_past->bit off</li>
-    <li>destroyed_past_saorbhriathar->tearing off</li>
-    <li>destroyed_past_saorbhriathar->ripping off</li>
-    <li>destroyed_past_saorbhriathar->biting off</li>
+    <li>destroyed_present->tearing off</li>
+    <li>destroyed_present->ripping off</li>
+    <li>destroyed_present->biting off</li>
     <li>destroyed_suffix->[to] pieces</li>
     <li>destroyed_suffix->[to] bits</li>
     <li>destroyed_suffix->[to] chunks</li>
@@ -33,12 +33,6 @@
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] messy strips</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] an unrecognizable mess</li>
   -->
-
-<!-- DAMAGED_INF = "a ghortú"
-     DAMAGED SAORBRIATHAR = "gortaíodh"
-     DAMAGED CHAITE = "ghortaigh"
--->
-
   <Maneuver_Bite.rulePack.rulesStrings>
     <li>damaged_saorbhriathar->priocadh</li>
     <li>damaged_saorbhriathar->plaiceadh</li>
@@ -61,66 +55,55 @@
   </Maneuver_Bite.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_label] tried to kick [TOOL_label] in [INITIATOR_label]'s eyes, but [INITIATOR_label] dodged out of the way.</li>
-    <li>r_logentry->[INITIATOR_label] tried to kick [TOOL_label] in [INITIATOR_label]'s eyes, but [INITIATOR_label] blocked it.</li>
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] dodged out of the way.</li>
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but [RECIPIENT_definite] blocked it.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
     <li>RECIPIENT->[RECIPIENT_label]</li>
     <li>ORIGINAL->[ORIGINALTARGET_label]</li>
-
     <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
     <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
     <li>ORIGINAL_genitive->{lookup: [ORIGINALTARGET_label]; decline_logs; 1}</li>
-
     <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
     <li>ORIGINAL_nominative_definite->{lookup: [ORIGINALTARGET_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
     <li>r_logentry->Rinne [INITIATOR_nominative_definite] iarracht [TOOL_label] a chiceáil i súile [RECIPIENT_genitive], ach léim [RECIPIENT_nominative_definite] as an mbealach.</li>
     <li>r_logentry->Rinne [INITIATOR_nominative_definite] iarracht [TOOL_label] a chiceáil i súile [RECIPIENT_genitive], ach sheachain [RECIPIENT_nominative_definite] an t-ionsaí.</li>
   </Maneuver_KickMaterialInEyes_MeleeDodge.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_label] kicked [TOOL_label] in [INITIATOR_label]'s eyes.</li>
-    <li>r_logentry(p=0.2)->[INITIATOR_label] kicked a spray of [TOOL_label] in [INITIATOR_label]'s eyes.</li>
+    <li>r_logentry->[INITIATOR_definite] kicked [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
+    <li>r_logentry(p=0.2)->[INITIATOR_definite] kicked a spray of [TOOL_label] in [RECIPIENT_definite]'s eyes.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
-      <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
     <li>RECIPIENT->[RECIPIENT_label]</li>
-
     <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
     <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
-
     <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
     <li>r_logentry->Chiceáil [INITIATOR_nominative_definite] gaineamh i súile [RECIPIENT_genitive].</li>
     <li>r_logentry->Chiceáil [INITIATOR_nominative_definite] ithir i súile [RECIPIENT_genitive].</li>
-  
   </Maneuver_KickMaterialInEyes_MeleeHit.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_label] tried to kick [TOOL_label] in [INITIATOR_label]'s eyes, but missed.</li>
+    <li>r_logentry->[INITIATOR_definite] tried to kick [TOOL_label] in [RECIPIENT_definite]'s eyes, but missed.</li>
   -->
   <Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
-      <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
+    <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
     <li>RECIPIENT->[RECIPIENT_label]</li>
-
     <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
     <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
-
     <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
     <li>r_logentry->Rinne [INITIATOR_nominative_definite] iarracht gaineamh a chiceáil i súile [RECIPIENT_genitive].</li>
-  
   </Maneuver_KickMaterialInEyes_MeleeMiss.rulePack.rulesStrings>
   
   <!-- EN:
@@ -129,16 +112,16 @@
     <li>damaged_inf->prod</li>
     <li>damaged_inf->shove</li>
     <li>damaged_inf->stab</li>
-    <li>damaged_saorbhriathar(p=2)->poked</li>
-    <li>damaged_saorbhriathar(p=2)->jabbed</li>
-    <li>damaged_saorbhriathar->prodded</li>
-    <li>damaged_saorbhriathar->shoved</li>
-    <li>damaged_saorbhriathar->stabbed</li>
-    <li>damaged_past(p=2)->poking</li>
-    <li>damaged_past(p=2)->jabbing</li>
-    <li>damaged_past->prodding</li>
-    <li>damaged_past->shoving</li>
-    <li>damaged_past->stabbing</li>
+    <li>damaged_past(p=2)->poked</li>
+    <li>damaged_past(p=2)->jabbed</li>
+    <li>damaged_past->prodded</li>
+    <li>damaged_past->shoved</li>
+    <li>damaged_past->stabbed</li>
+    <li>damaged_present(p=2)->poking</li>
+    <li>damaged_present(p=2)->jabbing</li>
+    <li>damaged_present->prodding</li>
+    <li>damaged_present->shoving</li>
+    <li>damaged_present->stabbing</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->leaving an enormous bruise</li>
     <li>flavortext_consequence->leaving the area visibly deformed</li>
     <li>flavortext_consequence->knocking [RECIPIENT_objective] off balance</li>
@@ -148,18 +131,17 @@
     <li>destroyed_past->obliterated</li>
     <li>destroyed_past->annihilated</li>
     <li>destroyed_past->broke</li>
-    <li>destroyed_past_saorbhriathar->shattering</li>
-    <li>destroyed_past_saorbhriathar->crushing</li>
-    <li>destroyed_past_saorbhriathar->obliterating</li>
-    <li>destroyed_past_saorbhriathar->annihilating</li>
-    <li>destroyed_past_saorbhriathar->breaking</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->breaking</li>
     <li>destroyed_suffix->[to] pieces</li>
     <li>destroyed_suffix->[to] bits</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid)->[to] a fine mist</li>
     <li>destroyed_suffix->[to] fragments</li>
   -->
   <Maneuver_Poke.rulePack.rulesStrings>
-
     <li>damaged_saorbhriathar(p=2)->priocadh</li>
     <li>damaged_saorbhriathar(p=2)->sádh</li>
     <li>damaged_saorbhriathar->coiglíodh</li>
@@ -215,24 +197,24 @@
     <li>damaged_inf(deflected!=True)->lacerate</li>
     <li>damaged_inf(deflected!=True)->tear</li>
     <li>damaged_inf->cut</li>
-    <li>damaged_saorbhriathar(p=4)->scratched</li>
-    <li>damaged_saorbhriathar(deflected!=True)->lacerated</li>
-    <li>damaged_saorbhriathar(deflected!=True)->tore</li>
-    <li>damaged_saorbhriathar->cut</li>
-    <li>damaged_past->scratching</li>
-    <li>damaged_past(deflected!=True)->lacerating</li>
-    <li>damaged_past(deflected!=True)->tearing</li>
-    <li>damaged_past->cutting</li>
+    <li>damaged_past(p=4)->scratched</li>
+    <li>damaged_past(deflected!=True)->lacerated</li>
+    <li>damaged_past(deflected!=True)->tore</li>
+    <li>damaged_past->cut</li>
+    <li>damaged_present->scratching</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present->cutting</li>
     <li>destroyed_past->mauled</li>
     <li>destroyed_past->lacerated</li>
     <li>destroyed_past->tore</li>
     <li>destroyed_past->shredded</li>
     <li>destroyed_past->ripped</li>
-    <li>destroyed_past_saorbhriathar->mauling</li>
-    <li>destroyed_past_saorbhriathar->lacerating</li>
-    <li>destroyed_past_saorbhriathar->tearing</li>
-    <li>destroyed_past_saorbhriathar->shredding</li>
-    <li>destroyed_past_saorbhriathar->ripping</li>
+    <li>destroyed_present->mauling</li>
+    <li>destroyed_present->lacerating</li>
+    <li>destroyed_present->tearing</li>
+    <li>destroyed_present->shredding</li>
+    <li>destroyed_present->ripping</li>
   -->
   <Maneuver_Scratch_Damage.rulePack.rulesStrings>
     <li>damaged_saorbhriathar(p=4)->scríobadh</li>
@@ -260,18 +242,18 @@
     <li>damaged_inf->hack</li>
     <li>damaged_inf->slice</li>
     <li>damaged_inf(deflected!=True)->gash</li>
-    <li>damaged_saorbhriathar(p=4)->slashed</li>
-    <li>damaged_saorbhriathar->cut</li>
-    <li>damaged_saorbhriathar->chopped</li>
-    <li>damaged_saorbhriathar->hacked</li>
-    <li>damaged_saorbhriathar->sliced</li>
-    <li>damaged_saorbhriathar(deflected!=True)->gashed</li>
-    <li>damaged_past->slashing</li>
-    <li>damaged_past->cutting</li>
-    <li>damaged_past->slicing</li>
-    <li>damaged_past(deflected!=True)->gashing</li>
-    <li>damaged_past(deflected!=True)->tearing</li>
-    <li>damaged_past(deflected!=True)->lacerating</li>
+    <li>damaged_past(p=4)->slashed</li>
+    <li>damaged_past->cut</li>
+    <li>damaged_past->chopped</li>
+    <li>damaged_past->hacked</li>
+    <li>damaged_past->sliced</li>
+    <li>damaged_past(deflected!=True)->gashed</li>
+    <li>damaged_present->slashing</li>
+    <li>damaged_present->cutting</li>
+    <li>damaged_present->slicing</li>
+    <li>damaged_present(deflected!=True)->gashing</li>
+    <li>damaged_present(deflected!=True)->tearing</li>
+    <li>damaged_present(deflected!=True)->lacerating</li>
     <li>woundname->wound</li>
     <li>woundname(p=0.3)->opening</li>
     <li>flavortext_consequence(recipient_flesh!=Mechanoid)->exposing the flesh underneath</li>
@@ -282,11 +264,11 @@
     <li>destroyed_past->halved</li>
     <li>destroyed_past->separated</li>
     <li>destroyed_past->split</li>
-    <li>destroyed_past_saorbhriathar->bisecting</li>
-    <li>destroyed_past_saorbhriathar->dividing</li>
-    <li>destroyed_past_saorbhriathar->halving</li>
-    <li>destroyed_past_saorbhriathar->separating</li>
-    <li>destroyed_past_saorbhriathar->splitting</li>
+    <li>destroyed_present->bisecting</li>
+    <li>destroyed_present->dividing</li>
+    <li>destroyed_present->halving</li>
+    <li>destroyed_present->separating</li>
+    <li>destroyed_present->splitting</li>
     <li>destroyed_suffix->into neat pieces</li>
     <li>destroyed_suffix->cleanly</li>
     <li>destroyed_suffix(target_part_destroyed_count==1)->exposing its inner workings</li>
@@ -337,21 +319,21 @@
     <li>damaged_inf->slam</li>
     <li>damaged_inf->strike</li>
     <li>damaged_inf->beat</li>
-    <li>damaged_saorbhriathar->hit</li>
-    <li>damaged_saorbhriathar->smashed</li>
-    <li>damaged_saorbhriathar->bashed</li>
-    <li>damaged_saorbhriathar->slammed</li>
-    <li>damaged_saorbhriathar->struck</li>
-    <li>damaged_saorbhriathar->beat</li>
-    <li>damaged_past->smashing</li>
-    <li>damaged_past->bashing</li>
-    <li>damaged_past(deflected!=True)->bruising</li>
+    <li>damaged_past->hit</li>
+    <li>damaged_past->smashed</li>
+    <li>damaged_past->bashed</li>
+    <li>damaged_past->slammed</li>
+    <li>damaged_past->struck</li>
+    <li>damaged_past->beat</li>
+    <li>damaged_present->smashing</li>
+    <li>damaged_present->bashing</li>
+    <li>damaged_present(deflected!=True)->bruising</li>
     <li>destroyed_past->shattered</li>
     <li>destroyed_past->crushed</li>
     <li>destroyed_past->broke</li>
-    <li>destroyed_past_saorbhriathar->shattering</li>
-    <li>destroyed_past_saorbhriathar->crushing</li>
-    <li>destroyed_past_saorbhriathar->breaking</li>
+    <li>destroyed_present->shattering</li>
+    <li>destroyed_present->crushing</li>
+    <li>destroyed_present->breaking</li>
   -->
   <Maneuver_Smash_Damage.rulePack.rulesStrings>
     <li>damaged_saorbhriathar->bualadh</li>
@@ -375,15 +357,15 @@
     <li>damaged_inf(deflected!=True)->pierce</li>
     <li>damaged_inf(deflected!=True)->puncture</li>
     <li>damaged_inf(deflected!=True)->skewer</li>
-    <li>damaged_saorbhriathar(p=4)->stabbed</li>
-    <li>damaged_saorbhriathar->jabbed</li>
-    <li>damaged_saorbhriathar(deflected!=True)->pierced</li>
-    <li>damaged_saorbhriathar(deflected!=True)->punctured</li>
-    <li>damaged_saorbhriathar(deflected!=True)->skewered</li>
-    <li>damaged_past(deflected!=True)->piercing</li>
-    <li>damaged_past(deflected!=True)->puncturing</li>
-    <li>damaged_past(deflected!=True)->penetrating</li>
-    <li>damaged_past(deflected!=True)->skewering</li>
+    <li>damaged_past(p=4)->stabbed</li>
+    <li>damaged_past->jabbed</li>
+    <li>damaged_past(deflected!=True)->pierced</li>
+    <li>damaged_past(deflected!=True)->punctured</li>
+    <li>damaged_past(deflected!=True)->skewered</li>
+    <li>damaged_present(deflected!=True)->piercing</li>
+    <li>damaged_present(deflected!=True)->puncturing</li>
+    <li>damaged_present(deflected!=True)->penetrating</li>
+    <li>damaged_present(deflected!=True)->skewering</li>
     <li>woundname->hole</li>
     <li>woundname->wound</li>
     <li>woundname->crevice</li>
@@ -393,9 +375,9 @@
     <li>destroyed_past->impaled</li>
     <li>destroyed_past->perforated</li>
     <li>destroyed_past->skewered</li>
-    <li>destroyed_past_saorbhriathar->impaling</li>
-    <li>destroyed_past_saorbhriathar->perforating</li>
-    <li>destroyed_past_saorbhriathar->skewering</li>
+    <li>destroyed_present->impaling</li>
+    <li>destroyed_present->perforating</li>
+    <li>destroyed_present->skewering</li>
     <li>destroyed_suffix->straight through</li>
     <li>destroyed_suffix->leaving a clean hole</li>
     <li>destroyed_suffix(recipient_flesh!=Mechanoid,target_part_destroyed_count==1)->leaving it leaking gory fluids</li>

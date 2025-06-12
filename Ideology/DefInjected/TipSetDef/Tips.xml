@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: Slaves work slower than normal colonists due to lack of motivation. -->
-  <IdeoligionTips.SlaveWorkEfficiency>Bíonn sclábhaithe níos moille ná coilínigh eile, toisc go mbíonn easpa misnigh orthu.</IdeoligionTips.SlaveWorkEfficiency>
+  <IdeoligionTips.SlaveWorkEfficiency>TODO</IdeoligionTips.SlaveWorkEfficiency>
   <!-- EN: Terror-inducing buildings affect anyone within a 5-cell radius. -->
-  <IdeoligionTips.TerrorRadius>Beidh éifeacht ag struchtúir scanrúla ar aon duine laistigh de 5 thíl.</IdeoligionTips.TerrorRadius>
-  <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. Consider assigning them more frequent, short naps to prevent starvation during sleep. -->
-  <IdeoligionTips.SleepAcceleratorNaps>Is féidir cáilíocht codlata na gcoilíneach a fheabhsú le feabhsaitheoir codlata, ach tiocfaidh ocras níos minice freisin. Is fiú ligean dóibh néalta codlata gearra a thógáil, ionas nach gheobhaidh siad bás den ocras agus iad ina gcodladh.</IdeoligionTips.SleepAcceleratorNaps>
+  <IdeoligionTips.TerrorRadius>TODO</IdeoligionTips.TerrorRadius>
+  <!-- EN: Sleep accelerators increase colonists' sleep quality, but also increase hunger rate. -->
+  <IdeoligionTips.SleepAcceleratorNaps>TODO</IdeoligionTips.SleepAcceleratorNaps>
   
 </LanguageData>

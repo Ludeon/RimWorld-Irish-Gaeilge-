@@ -8,7 +8,7 @@
   <Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
     <li>lodgersLabel->invité</li>
     <li>lodgersLabelPlural->[asker_faction_pawnsPlural]</li>
- </Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
+  </Hospitality_Joiners.questDescriptionAndNameRules.rulesStrings>
   <!-- EN:
     <li>lodgersDef(lodgersCount==1)->[lodgers0_nameDef]</li>
     <li>lodgersDef(lodgersCount>=2)->the [lodgersLabelPlural]</li>
@@ -141,7 +141,7 @@
     <li>allyAllies(lodgersCountMinusOne>=2)->alliés</li>
     <li>allyAllies_poss(lodgersCountMinusOne==1)->son allié</li>
     <li>allyAllies_poss(lodgersCountMinusOne>=2)->ses alliés</li>
- </Hospitality_Joiners.questDescriptionRules.rulesStrings>
+  </Hospitality_Joiners.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->shelter for [lodgerIndef]</li>
     <li>questName->hospitality for [lodgerIndef]</li>
@@ -201,6 +201,6 @@
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->des membres de la famille royale</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->des nobles</li>
     <li>lodgerIndef(asker_royalInCurrentFaction==True,lodgersCount>=2)->des aristocrates</li>
- </Hospitality_Joiners.questNameRules.rulesStrings>
+  </Hospitality_Joiners.questNameRules.rulesStrings>
   
 </LanguageData>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 
   <!-- EN: Call {0} -->
@@ -22,8 +22,12 @@
   <!-- EN: Not allowed -->
   <NotAllowed>Ní cheadaítear é seo</NotAllowed>
   
+  <!-- EN: Attack {1_labelShort} -->
+  <Attack>TODO</Attack>
   <!-- EN: Fire at {1_labelShort} -->
   <FireAt>Scaoil ar {1_label}</FireAt>
+  <!-- EN: Remove -->
+  <Remove>TODO</Remove>
 
   <!-- EN: out of range -->
   <OutOfRange>as raon</OutOfRange>
@@ -41,6 +45,8 @@
   <IsNotDraftedLower>Níl {1_labelShort} dréachtaithe</IsNotDraftedLower>
   <!-- EN: cannot order characters you do not control -->
   <CannotOrderNonControlledLower>Ní féidir orduithe a thabhairt do charactair nach bhfuil smacht agat orthu</CannotOrderNonControlledLower>
+  <!-- EN: cannot attack -->
+  <CannotAttack>TODO</CannotAttack>
   <!-- EN: cannot attack self -->
   <CannotAttackSelf>Ní féidir féin-ionsaí a dhéanamh</CannotAttackSelf>
   <!-- EN: cannot attack faction ally -->
@@ -88,6 +94,8 @@
   <AboveAllowedSkill>thar an leibhéal scile ceadaithe: {0}</AboveAllowedSkill>
   <!-- EN: no reachable outside cell -->
   <NoReachableOutsideCell>níl aon cheall ar fáil lasmuigh</NoReachableOutsideCell>
+  <!-- EN: cannot exit map -->
+  <CannotExitMap>TODO</CannotExitMap>
   <!-- EN: missing required skill level -->
   <MissingRequiredSkillLevel>faoin leibhéal scile a theastaíonn</MissingRequiredSkillLevel>
   <!-- EN: animal interacted too recently -->
@@ -228,6 +236,8 @@
   <TakingToBed>Ag tarrtháil: {0_labelShort}.</TakingToBed>
   <!-- EN: Cannot rescue -->
   <CannotRescue>Ní féidir an duine seo a tharrtháil</CannotRescue>
+  <!-- EN: Cannot rescue {PAWN_labelShort} -->
+  <CannotRescuePawn>TODO</CannotRescuePawn>
 
   <!-- EN: Carry {1_labelShort} to cryptosleep casket -->
   <CarryToCryptosleepCasket>Tabhair {1_label} chuig pod criptea-chodlata</CarryToCryptosleepCasket>
@@ -289,12 +299,20 @@
   
   <!-- EN: Force wear {1_labelShort} -->
   <ForceWear>Caith {1_labelShort}</ForceWear>
+  <!-- EN: Force target to wear {1_labelShort}... -->
+  <ForceTargetToWear>TODO</ForceTargetToWear>
   <!-- EN: Cannot wear {1_label} -->
   <CannotWear>Ní féidir {1_label} a chaitheamh</CannotWear>
+  <!-- EN: Cannot force target to wear {1_label} -->
+  <CannotForceTargetToWear>TODO</CannotForceTargetToWear>
   <!-- EN: Force equip {1_labelShort} -->
   <ForceEquipApparel>Feistigh {1_labelShort}</ForceEquipApparel>
+  <!-- EN: Force target to equip {1_labelShort}... -->
+  <ForceTargetToEquipApparel>TODO</ForceTargetToEquipApparel>
   <!-- EN: Cannot equip {1_label} -->
   <CannotEquipApparel>Ní féidir {1_label} a fheistiú</CannotEquipApparel>
+  <!-- EN: Cannot force target to equip {1_label} -->
+  <CannotForceTargetToEquipApparel>TODO</CannotForceTargetToEquipApparel>
   <!-- EN: missing body parts -->
   <CannotWearBecauseOfMissingBodyParts>tá ball den chorp ar lár</CannotWearBecauseOfMissingBodyParts>
   
@@ -397,6 +415,8 @@
   <NoDoctor>níl aon dochtúir ar fáil</NoDoctor>
   <!-- EN: medical bed not for slaves -->
   <NotForSlaves>ní féidir le sclábhaithe leabaí ospidéil a úsáid</NotForSlaves>
+  <!-- EN: Medical care disabled -->
+  <MedicalCareDisabled>TODO</MedicalCareDisabled>
   <!-- EN: occupied by {0} -->
   <SomeoneElseSleeping>Tá {0} anseo cheana</SomeoneElseSleeping>
   
@@ -432,19 +452,6 @@
   <OfferGifts>Tabhair bronntanais</OfferGifts>
   <!-- EN: Trade with {0} -->
   <TradeWithSettlement>Trádáil le {0}</TradeWithSettlement>
-  
-  <!-- EN: Enter {0} -->
-  <EnterPortal>Téigh isteach</EnterPortal>
-  <!-- EN: Entering {0} -->
-  <EnteringPortal>Ag dul isteach</EnteringPortal>
-  <!-- EN: Enter {0} -->
-  <CommandEnterPortal>Téigh isteach</CommandEnterPortal>
-  <!-- EN: Select people and items to enter the {0}. -->
-  <CommandEnterPortalDesc>Roghnaigh daoine agus earraí agus téigh isteach.</CommandEnterPortalDesc>
-  <!-- EN: Cancel entering -->
-  <CommandCancelEnterPortal>Cealaigh</CommandCancelEnterPortal>
-  <!-- EN: Cancel loading people or items into this. -->
-  <CommandCancelEnterPortalDesc>Cuir stop le daoine nó earraí a lódáil.</CommandCancelEnterPortalDesc>
 
   <!-- Specific thing interactions -->
   <!-- EN: Enter cryptosleep casket -->
@@ -455,116 +462,41 @@
   <EnterShuttle>Téigh ar bord an tointeálaí</EnterShuttle>
 
   <!-- e.g. Cannot VERB OBJECT, Cannot repair wall, Cannot haul metal, etc. -->
-  <!-- GA: I have not tested this yet but I assume it won't work without some modification -->
   <!-- EN: Cannot {0} {1} -->
   <CannotGenericWork>Ní féidir {1} {replace: {0}; "ag bogadh"-"a bhogadh"; "ag iompar"-"a iompar"}</CannotGenericWork>
   <!-- EN: Cannot {0} -->
   <CannotGenericWorkCustom>Ní féidir {0}</CannotGenericWorkCustom>
 
-  <!-- EN: Cannot prioritize: Incapable of {0} -->
+  <!-- EN: Incapable of {0} -->
   <CannotMissingHealthActivities>Ní féidir: Ní féidir leis an duine seo {0}</CannotMissingHealthActivities>
 
   <!-- e.g. Already GERUND OBJECT, Already repairing wall, already hauling metal, etc -->
-  <!-- GA: I have not tested this yet but I assume it won't work without some modification -->
   <!-- EN: Already {0} {2_labelShort} -->
-  <CannotGenericAlreadyAm>
-  Táim ag {replace: {0};
-    "ag scaoileadh saor"-"a scaoileadh saor";
-    "ag tógáil dín"-"díon a thógáil";
-    "ag labhairt le"-"labhairt le";
-    "ag baint sneachta"-"sneachta a bhaint";
-    "ag glanadh"-"a ghlanadh";
-    "ag tógáil"-"a thógáil";
-    "ag baint urlár"-"urlár a bhaint";
-    "ag líomhadh"-"a líomhadh";
-    "ag líonadh"-"a líonadh";
-    "ag sriosadh"-"a scriosadh";
-    "ag tabhairt bia do"-"bia a thabhairt do";
-    "ag tógáil chuig"-"a thabhairt chuig";
-    "ag déanamh"-"a dhéanamh";
-    "ag déanamh búistéireacht ag"-"búistéireacht a dhéanamh ar";
-    "ag cócaireacht"-"a chócaráil";
-    "ag créamadh"-"a chréamadh";
-    "ag cruthú earraí ag"-"rudaí a chruthú";
-    "ag tailliúireacht"-"a dhéanamh";
-    "ag cruthú arm"-"airm a chruthú";
-    "i mbun obráide ar"-"obráid a dhéanamh";
-    "ag táirgeadh drugaí ag"-"drugaí a tháirgeadh";
-    "ag scagadh ceimiceán ag"-"ceimiceáin a scagadh";
-    "ag dealbhú ag"-"dealbh a chruthú";
-    "ag bruithniú"-"a bhruithniú";
-    "ag gearradh brící cloiche ag"-"bhricí cloiche a ghearradh";
-    "i mbun ceardaíochta ag"-"earraí a chruthú";
-    "ag tabhairt bia"-"bhia a thabhairt do";
-    "ag tarrtháil"-"a tharrtháil";
-    "ag tabhairt aire do"-"aire a thabhairt do";
-    "ag druileáil"-"a druileáil";
-    "ag baint uibheacha"-"uibheacha a bhaint";
-    "ag marú"-"a mharú";
-    "ag baint an blaosc de"-"bhlaosc a bhaint de";
-    "ag múchadh"-"a mhúchadh";
-    "ag líonadh"-"a líonadh";
-    "ag deisiú"-"a dheisiú";
-    "ag casadh na laisce ar"-"lasca a chasadh ar";
-    "ag baint"-"a bhaint";
-    "ag cur"-"a chur";
-    "ag bogadh"-"a bhogadh";
-    "ag cumasc"-"a chumaisc";
-    "ag lódáil"-"a lódáil";
-    "ag seilg"-"a sheilg";
-    "ag scanadh ag"-"a scanadh";
-    "ag crú"-"a chrú";
-    "i mbun mianadóireachta"-"a bhaint";
-    "ag oscailt"-"a oscailt";
-    "ag péinteáil"-"a phéinteáil";
-    "ag fáil cóireáil leighis ag"-"chóireáil leighis a fháil ag";
-    "ag bisiú sa leaba ag"-"bisiú ag";
-    "ag gearradh"-"a ghearradh";
-    "ag cur"-"a chur";
-    "ag athlódáil"-"a athlódáil";
-    "ag athbhreoslú"-"a athbhreoslú";
-    "ag scaoileadh"-"a scaoileadh saor";
-    "ag baint péinte de"-"phéint a bhaint de";
-    "ag baint péint ón urlár"-"phéint a bhaint den urlár";
-    "ag baint an dín"-"dhíon a bhaint";
-    "ag deisiú"-"a dheisiú";
-    "ag cur"-"a chur";
-    "i mbun taighde ag"-"a úsáid";
-    "ag bearradh"-"a bhearradh";
-    "i mbun taighde"-"a staidéar";
-    "ag baint beorach ó"-"a oscailt";
-    "á chur sa leaba"-"a chur sa leaba";
-    "ag rópáil"-"a rópáil";
-    "ag ceansú"-"a cheansú";
-    "ag traenáil"-"a traenáil";
-    "ag scriosadh"-"a scriosadh";
-    "ag dílódáil"-"a dhílódáil";
-    "ag tabhairt cuairt ar"-"a fheiceáil";} {2_labelShort} cheana féin.
- </CannotGenericAlreadyAm>
+  <CannotGenericAlreadyAm>\n  Táim ag {replace: {0};\n    "ag scaoileadh saor"-"a scaoileadh saor";\n    "ag tógáil dín"-"díon a thógáil";\n    "ag labhairt le"-"labhairt le";\n    "ag baint sneachta"-"sneachta a bhaint";\n    "ag glanadh"-"a ghlanadh";\n    "ag tógáil"-"a thógáil";\n    "ag baint urlár"-"urlár a bhaint";\n    "ag líomhadh"-"a líomhadh";\n    "ag líonadh"-"a líonadh";\n    "ag sriosadh"-"a scriosadh";\n    "ag tabhairt bia do"-"bia a thabhairt do";\n    "ag tógáil chuig"-"a thabhairt chuig";\n    "ag déanamh"-"a dhéanamh";\n    "ag déanamh búistéireacht ag"-"búistéireacht a dhéanamh ar";\n    "ag cócaireacht"-"a chócaráil";\n    "ag créamadh"-"a chréamadh";\n    "ag cruthú earraí ag"-"rudaí a chruthú";\n    "ag tailliúireacht"-"a dhéanamh";\n    "ag cruthú arm"-"airm a chruthú";\n    "i mbun obráide ar"-"obráid a dhéanamh";\n    "ag táirgeadh drugaí ag"-"drugaí a tháirgeadh";\n    "ag scagadh ceimiceán ag"-"ceimiceáin a scagadh";\n    "ag dealbhú ag"-"dealbh a chruthú";\n    "ag bruithniú"-"a bhruithniú";\n    "ag gearradh brící cloiche ag"-"bhricí cloiche a ghearradh";\n    "i mbun ceardaíochta ag"-"earraí a chruthú";\n    "ag tabhairt bia"-"bhia a thabhairt do";\n    "ag tarrtháil"-"a tharrtháil";\n    "ag tabhairt aire do"-"aire a thabhairt do";\n    "ag druileáil"-"a druileáil";\n    "ag baint uibheacha"-"uibheacha a bhaint";\n    "ag marú"-"a mharú";\n    "ag baint an blaosc de"-"bhlaosc a bhaint de";\n    "ag múchadh"-"a mhúchadh";\n    "ag líonadh"-"a líonadh";\n    "ag deisiú"-"a dheisiú";\n    "ag casadh na laisce ar"-"lasca a chasadh ar";\n    "ag baint"-"a bhaint";\n    "ag cur"-"a chur";\n    "ag bogadh"-"a bhogadh";\n    "ag cumasc"-"a chumaisc";\n    "ag lódáil"-"a lódáil";\n    "ag seilg"-"a sheilg";\n    "ag scanadh ag"-"a scanadh";\n    "ag crú"-"a chrú";\n    "i mbun mianadóireachta"-"a bhaint";\n    "ag oscailt"-"a oscailt";\n    "ag péinteáil"-"a phéinteáil";\n    "ag fáil cóireáil leighis ag"-"chóireáil leighis a fháil ag";\n    "ag bisiú sa leaba ag"-"bisiú ag";\n    "ag gearradh"-"a ghearradh";\n    "ag cur"-"a chur";\n    "ag athlódáil"-"a athlódáil";\n    "ag athbhreoslú"-"a athbhreoslú";\n    "ag scaoileadh"-"a scaoileadh saor";\n    "ag baint péinte de"-"phéint a bhaint de";\n    "ag baint péint ón urlár"-"phéint a bhaint den urlár";\n    "ag baint an dín"-"dhíon a bhaint";\n    "ag deisiú"-"a dheisiú";\n    "ag cur"-"a chur";\n    "i mbun taighde ag"-"a úsáid";\n    "ag bearradh"-"a bhearradh";\n    "i mbun taighde"-"a staidéar";\n    "ag baint beorach ó"-"a oscailt";\n    "á chur sa leaba"-"a chur sa leaba";\n    "ag rópáil"-"a rópáil";\n    "ag ceansú"-"a cheansú";\n    "ag traenáil"-"a traenáil";\n    "ag scriosadh"-"a scriosadh";\n    "ag dílódáil"-"a dhílódáil";\n    "ag tabhairt cuairt ar"-"a fheiceáil";} {2_labelShort} cheana féin.\n </CannotGenericAlreadyAm>
   <!-- EN: Already {0} -->
   <CannotGenericAlreadyAmCustom>TODO</CannotGenericAlreadyAmCustom>
 
-  <!-- EN: Cannot prioritize: Will never do {0} -->
+  <!-- EN: Will never do {0} -->
   <CannotPrioritizeWorkTypeDisabled>Ní féidir: Ní dhéanfaidh an duine seo "{0}" riamh</CannotPrioritizeWorkTypeDisabled>
   <!-- EN: lacking necessary title -->
   <MissingTitleAbility>tá an teideal ceart de dhíth</MissingTitleAbility>
 
-  <!-- EN: Cannot prioritize: Will never {0} -->
+  <!-- EN: Will never {0} -->
   <CannotPrioritizeWorkGiverDisabled>Ní féidir: Ní dhéanfaidh an duine seo "{0}" riamh</CannotPrioritizeWorkGiverDisabled>
   <!-- EN: will never {0} -->
   <WillNever>ní dhéanfaidh an duine seo "{0}" riamh</WillNever>
 
-  <!-- EN: Cannot prioritize: Not assigned to {0} -->
+  <!-- EN: Not assigned to {0} -->
   <CannotPrioritizeNotAssignedToWorkType>Ní féidir: Níl an duine seo sannta do "{0}"</CannotPrioritizeNotAssignedToWorkType>
   <!-- EN: not assigned -->
   <NotAssigned>níl an obair seo sannta ar an duine seo</NotAssigned>
   <!-- EN: not assigned to {0} -->
   <NotAssignedToWorkType>Níl "{0}" sannta ar an duine seo</NotAssignedToWorkType>
 
-  <!-- EN: Cannot prioritize: Research is a long-term task -->
+  <!-- EN: Research is a long-term task -->
   <CannotPrioritizeResearch>Ní féidir: Is obair fhadtéarmach é taighde</CannotPrioritizeResearch>
 
-  <!-- EN: Cannot prioritize: {1_label} is forbidden -->
+  <!-- EN: {1_label} is forbidden -->
   <CannotPrioritizeForbidden>Ní féidir: Tá {1_label} dícheadaithe</CannotPrioritizeForbidden>
   <!-- EN: Cannot prioritize: Forbidden -->
   <CannotPrioritizeCellForbidden>Ní féidir: Tá seo dícheadaithe</CannotPrioritizeCellForbidden>
@@ -573,83 +505,16 @@
   <!-- EN: Cannot prioritize burying -->
   <CannotPrioritizeBurying>Ní féidir tús áite a thabhairt don jab seo</CannotPrioritizeBurying>
 
-  <!-- e.g. Replacer had to be implemented manually to avoid grammatical mistakes - it is based on the WorkGivers.xml file and is sorted in the same order  -->
+  <!-- e.g. Prioritize GERUND OBJECT, Prioritize repairing wall, prioritize hauling metal, etc -->
   <!-- EN: Prioritize {0} {1} -->
-  <PrioritizeGeneric>
-    Tabhair tús áite do '{1}' {replace: {0};
-    "ag scaoileadh saor"-"a scaoileadh saor";
-    "ag tógáil dín"-"a thógáil";
-    "ag labhairt le"-"a chur faoi chaint";
-    "ag baint sneachta"-"a bhaint";
-    "ag glanadh"-"a ghlanadh";
-    "ag tógáil"-"a thógáil";
-    "ag baint urlár"-"urlár a bhaint";
-    "ag líomhadh"-"a líomhadh";
-    "ag líonadh"-"a líonadh";
-    "ag sriosadh"-"a scriosadh";
-    "ag tabhairt bia do"-"a chothú";
-    "ag tógáil chuig"-"a thabhairt chuig";
-    "ag déanamh"-"a dhéanamh";
-    "ag déanamh búistéireacht ag"-"a bhúistéireacht";
-    "ag cócaireacht"-"a chócaráil";
-    "ag créamadh"-"a chréamadh";
-    "ag cruthú earraí ag"-"rudaí a chruthú";
-    "ag tailliúireacht"-"a dhéanamh";
-    "ag cruthú arm"-"airm a chruthú";
-    "i mbun obráide ar"-"obráid a dhéanamh";
-    "ag táirgeadh drugaí ag"-"drugaí a tháirgeadh";
-    "ag scagadh ceimiceán ag"-"ceimiceáin a scagadh";
-    "ag dealbhú ag"-"dealbh a chruthú";
-    "ag bruithniú"-"a bhruithniú";
-    "ag gearradh brící cloiche ag"-"bhricí cloiche a ghearradh";
-    "i mbun ceardaíochta ag"-"earraí a chruthú";
-    "ag tabhairt bia"-"bhia a thabhairt do";
-    "ag tarrtháil"-"a tharrtháil";
-    "ag tabhairt aire do"-"a chóireáil";
-    "ag druileáil"-"a druileáil";
-    "ag baint uibheacha"-"uibheacha a bhaint";
-    "ag marú"-"a mharú";
-    "ag baint an blaosc de"-"bhlaosc a bhaint de";
-    "ag múchadh"-"a mhúchadh";
-    "ag líonadh"-"a líonadh";
-    "ag deisiú"-"a dheisiú";
-    "ag casadh na laisce ar"-"lasca a chasadh ar";
-    "ag baint"-"a bhaint";
-    "ag cur"-"a chur";
-    "ag bogadh"-"a bhogadh";
-    "ag cumasc"-"a chumaisc";
-    "ag lódáil"-"a lódáil";
-    "ag seilg"-"a sheilg";
-    "ag scanadh ag"-"a scanadh";
-    "ag crú"-"a chrú";
-    "i mbun mianadóireachta"-"a bhaint";
-    "ag oscailt"-"a oscailt";
-    "ag péinteáil"-"a phéinteáil";
-    "ag fáil cóireáil leighis ag"-"a úsáid";
-    "ag bisiú sa leaba ag"-"bisiú ag";
-    "ag gearradh"-"a ghearradh";
-    "ag cur"-"a chur";
-    "ag athlódáil"-"a athlódáil";
-    "ag athbhreoslú"-"a athbhreoslú";
-    "ag scaoileadh"-"a scaoileadh saor";
-    "ag baint péinte de"-"phéint a bhaint de";
-    "ag baint péint ón urlár"-"phéint a bhaint den urlár";
-    "ag baint an dín"-"dhíon a bhaint";
-    "ag deisiú"-"a dheisiú";
-    "ag cur"-"a chur";
-    "i mbun taighde ag"-"a úsáid";
-    "ag bearradh"-"a bhearradh";
-    "i mbun taighde"-"a staidéar";
-    "ag baint beorach ó"-"a oscailt";
-    "á chur sa leaba"-"a chur sa leaba";
-    "ag rópáil"-"a rópáil";
-    "ag ceansú"-"a cheansú";
-    "ag traenáil"-"a traenáil";
-    "ag scriosadh"-"a scriosadh";
-    "ag dílódáil"-"a dhílódáil";
-    "ag tabhairt cuairt ar"-"a fheiceáil";}
- </PrioritizeGeneric>
-  
+  <PrioritizeGeneric>\n    Tabhair tús áite do '{1}' {replace: {0};\n    "ag scaoileadh saor"-"a scaoileadh saor";\n    "ag tógáil dín"-"a thógáil";\n    "ag labhairt le"-"a chur faoi chaint";\n    "ag baint sneachta"-"a bhaint";\n    "ag glanadh"-"a ghlanadh";\n    "ag tógáil"-"a thógáil";\n    "ag baint urlár"-"urlár a bhaint";\n    "ag líomhadh"-"a líomhadh";\n    "ag líonadh"-"a líonadh";\n    "ag sriosadh"-"a scriosadh";\n    "ag tabhairt bia do"-"a chothú";\n    "ag tógáil chuig"-"a thabhairt chuig";\n    "ag déanamh"-"a dhéanamh";\n    "ag déanamh búistéireacht ag"-"a bhúistéireacht";\n    "ag cócaireacht"-"a chócaráil";\n    "ag créamadh"-"a chréamadh";\n    "ag cruthú earraí ag"-"rudaí a chruthú";\n    "ag tailliúireacht"-"a dhéanamh";\n    "ag cruthú arm"-"airm a chruthú";\n    "i mbun obráide ar"-"obráid a dhéanamh";\n    "ag táirgeadh drugaí ag"-"drugaí a tháirgeadh";\n    "ag scagadh ceimiceán ag"-"ceimiceáin a scagadh";\n    "ag dealbhú ag"-"dealbh a chruthú";\n    "ag bruithniú"-"a bhruithniú";\n    "ag gearradh brící cloiche ag"-"bhricí cloiche a ghearradh";\n    "i mbun ceardaíochta ag"-"earraí a chruthú";\n    "ag tabhairt bia"-"bhia a thabhairt do";\n    "ag tarrtháil"-"a tharrtháil";\n    "ag tabhairt aire do"-"a chóireáil";\n    "ag druileáil"-"a druileáil";\n    "ag baint uibheacha"-"uibheacha a bhaint";\n    "ag marú"-"a mharú";\n    "ag baint an blaosc de"-"bhlaosc a bhaint de";\n    "ag múchadh"-"a mhúchadh";\n    "ag líonadh"-"a líonadh";\n    "ag deisiú"-"a dheisiú";\n    "ag casadh na laisce ar"-"lasca a chasadh ar";\n    "ag baint"-"a bhaint";\n    "ag cur"-"a chur";\n    "ag bogadh"-"a bhogadh";\n    "ag cumasc"-"a chumaisc";\n    "ag lódáil"-"a lódáil";\n    "ag seilg"-"a sheilg";\n    "ag scanadh ag"-"a scanadh";\n    "ag crú"-"a chrú";\n    "i mbun mianadóireachta"-"a bhaint";\n    "ag oscailt"-"a oscailt";\n    "ag péinteáil"-"a phéinteáil";\n    "ag fáil cóireáil leighis ag"-"a úsáid";\n    "ag bisiú sa leaba ag"-"bisiú ag";\n    "ag gearradh"-"a ghearradh";\n    "ag cur"-"a chur";\n    "ag athlódáil"-"a athlódáil";\n    "ag athbhreoslú"-"a athbhreoslú";\n    "ag scaoileadh"-"a scaoileadh saor";\n    "ag baint péinte de"-"phéint a bhaint de";\n    "ag baint péint ón urlár"-"phéint a bhaint den urlár";\n    "ag baint an dín"-"dhíon a bhaint";\n    "ag deisiú"-"a dheisiú";\n    "ag cur"-"a chur";\n    "i mbun taighde ag"-"a úsáid";\n    "ag bearradh"-"a bhearradh";\n    "i mbun taighde"-"a staidéar";\n    "ag baint beorach ó"-"a oscailt";\n    "á chur sa leaba"-"a chur sa leaba";\n    "ag rópáil"-"a rópáil";\n    "ag ceansú"-"a cheansú";\n    "ag traenáil"-"a traenáil";\n    "ag scriosadh"-"a scriosadh";\n    "ag dílódáil"-"a dhílódáil";\n    "ag tabhairt cuairt ar"-"a fheiceáil";}\n </PrioritizeGeneric>
+  <!-- EN: Prioritize {0} -->
+  <PrioritizeGenericSimple>TODO</PrioritizeGenericSimple>
+
+  <!-- EN: Launch to {LOCATION_label} -->
+  <LaunchTo>TODO</LaunchTo>
+  <!-- EN: Are you sure you want to launch? -->
+  <LaunchToConfirmation>TODO</LaunchToConfirmation>
   <!-- EN: Drop at edge -->
   <DropAtEdge>Leaindáil ag an taobh</DropAtEdge>
   <!-- EN: Drop in center -->
@@ -774,4 +639,24 @@
   <AlreadyAnalyzed>rinneadh anailís air seo cheana</AlreadyAnalyzed>
   <!-- EN: no reachable, un-reserved research bench available -->
   <NoResearchBench>níl aon bhinse taighde ar fáil</NoResearchBench>
+
+  <!-- Hacking -->
+  <!-- EN: Hack {0} -->
+  <Hack>TODO</Hack>
+  <!-- EN: Choose a colonist to hack this. -->
+  <HackDesc>TODO</HackDesc>
+  <!-- EN: Cannot hack {0} -->
+  <CannotHack>TODO</CannotHack>
+  <!-- EN: Locked out -->
+  <LockedOut>TODO</LockedOut>
+  <!-- EN: Already hacked -->
+  <AlreadyHacked>TODO</AlreadyHacked>
+  <!-- EN: Incapable of hacking -->
+  <IncapableOfHacking>TODO</IncapableOfHacking>
+  <!-- EN: to drop supplies -->
+  <ToDropSupplies>TODO</ToDropSupplies>
+
+  <!-- UNUSED -->
+  <CommandEnterPortal>Téigh isteach</CommandEnterPortal>
+
 </LanguageData>

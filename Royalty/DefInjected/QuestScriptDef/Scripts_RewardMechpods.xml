@@ -14,7 +14,7 @@
     <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], fait une demande. [commonMainPart]</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->[asker_nameDef], [asker_royalTitleInCurrentFaction] de [asker_faction_name], fait une demande. [commonMainPart]</li>
     <li>commonMainPart->Un essaim mécanoïde a attaqué ses colonies. [asker_pronoun] veut que vous fassiez diversion afin de les distraire pendant qu'[asker_pronoun] éradique l'essaim. Si vous le faites, un (*Threat)groupe de mécanoïdes(/Threat) atterrira à [map_definite].[dangersDescription]\n\nL'escouade de mécanoïdes sera dans un premier temps inactive. Elle peut soit être activée par un compte à rebours, soit rester inactive jusqu'à ce qu'elle soit dérangée.[helpersParagraph]</li>
- </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
+  </ThreatReward_MechPods_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[menace] cluster</li>
     <li>questName->[menace] pods</li>
@@ -50,6 +50,6 @@
     <li>menace_fem->menace</li>
     <li>menace_fem->terreur</li>
     <li>menace_fem->calamité</li>
- </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
+  </ThreatReward_MechPods_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

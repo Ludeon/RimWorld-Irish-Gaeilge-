@@ -2,66 +2,66 @@
 <LanguageData>
   
   <!-- EN: change dryad types -->
-  <ChangeTreeMode.label>changer les types de dryades</ChangeTreeMode.label>
+  <ChangeTreeMode.label>TODO</ChangeTreeMode.label>
   <!-- EN: changing dryad caste for -->
-  <ChangeTreeMode.gerund>change la caste des dryades pour</ChangeTreeMode.gerund>
+  <ChangeTreeMode.gerund>TODO</ChangeTreeMode.gerund>
   <!-- EN: change dryad caste for -->
-  <ChangeTreeMode.verb>changer la caste des dryades pour</ChangeTreeMode.verb>
+  <ChangeTreeMode.verb>TODO</ChangeTreeMode.verb>
   
   <!-- EN: convert prisoners -->
-  <ConvertPrisoner.label>convertir les prisonniers</ConvertPrisoner.label>
+  <ConvertPrisoner.label>TODO</ConvertPrisoner.label>
   <!-- EN: converting -->
-  <ConvertPrisoner.gerund>converti les prisonniers</ConvertPrisoner.gerund>
+  <ConvertPrisoner.gerund>TODO</ConvertPrisoner.gerund>
   <!-- EN: convert -->
-  <ConvertPrisoner.verb>convertir</ConvertPrisoner.verb>
+  <ConvertPrisoner.verb>TODO</ConvertPrisoner.verb>
   
   <!-- EN: emancipate slaves -->
-  <EmancipateSlave.label>affranchir les esclaves</EmancipateSlave.label>
+  <EmancipateSlave.label>TODO</EmancipateSlave.label>
   <!-- EN: emancipating -->
-  <EmancipateSlave.gerund>affranchi</EmancipateSlave.gerund>
+  <EmancipateSlave.gerund>TODO</EmancipateSlave.gerund>
   <!-- EN: emancipate -->
-  <EmancipateSlave.verb>affranchir</EmancipateSlave.verb>
+  <EmancipateSlave.verb>TODO</EmancipateSlave.verb>
   
   <!-- EN: enslave prisoners -->
-  <EnslavePrisoner.label>asservir les prisonniers</EnslavePrisoner.label>
+  <EnslavePrisoner.label>TODO</EnslavePrisoner.label>
   <!-- EN: enslaving -->
-  <EnslavePrisoner.gerund>asservit</EnslavePrisoner.gerund>
+  <EnslavePrisoner.gerund>TODO</EnslavePrisoner.gerund>
   <!-- EN: enslave -->
-  <EnslavePrisoner.verb>asservir</EnslavePrisoner.verb>
+  <EnslavePrisoner.verb>TODO</EnslavePrisoner.verb>
   
   <!-- EN: execute prisoners -->
-  <ExecuteSlave.label>exécuter les prisonniers</ExecuteSlave.label>
+  <ExecuteSlave.label>TODO</ExecuteSlave.label>
   <!-- EN: executing -->
-  <ExecuteSlave.gerund>exécute</ExecuteSlave.gerund>
+  <ExecuteSlave.gerund>TODO</ExecuteSlave.gerund>
   <!-- EN: execute -->
-  <ExecuteSlave.verb>exécuter</ExecuteSlave.verb>
+  <ExecuteSlave.verb>TODO</ExecuteSlave.verb>
   
   <!-- EN: carry to biosculpter pod -->
-  <HaulToBiosculpterPod.label>transporter à la capsule de biosculptage</HaulToBiosculpterPod.label>
+  <HaulToBiosculpterPod.label>TODO</HaulToBiosculpterPod.label>
   <!-- EN: filling -->
-  <HaulToBiosculpterPod.gerund>remplit</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.gerund>TODO</HaulToBiosculpterPod.gerund>
   <!-- EN: fill -->
-  <HaulToBiosculpterPod.verb>remplir</HaulToBiosculpterPod.verb>
+  <HaulToBiosculpterPod.verb>TODO</HaulToBiosculpterPod.verb>
   
   <!-- EN: imprison slaves -->
-  <ImprisonSlave.label>emprisonner des esclaves</ImprisonSlave.label>
+  <ImprisonSlave.label>TODO</ImprisonSlave.label>
   <!-- EN: imprisoning -->
-  <ImprisonSlave.gerund>emprisonne</ImprisonSlave.gerund>
+  <ImprisonSlave.gerund>TODO</ImprisonSlave.gerund>
   <!-- EN: imprison -->
-  <ImprisonSlave.verb>emprisonner</ImprisonSlave.verb>
+  <ImprisonSlave.verb>TODO</ImprisonSlave.verb>
   
   <!-- EN: prune Gauranlen trees -->
-  <PruneGauranlenTree.label>élaguer les arbres Gauranlen</PruneGauranlenTree.label>
+  <PruneGauranlenTree.label>TODO</PruneGauranlenTree.label>
   <!-- EN: pruning -->
-  <PruneGauranlenTree.gerund>élague</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.gerund>TODO</PruneGauranlenTree.gerund>
   <!-- EN: prune -->
-  <PruneGauranlenTree.verb>élaguer</PruneGauranlenTree.verb>
+  <PruneGauranlenTree.verb>TODO</PruneGauranlenTree.verb>
   
   <!-- EN: suppress slaves -->
-  <SuppressSlave.label>réprimer les esclaves</SuppressSlave.label>
+  <SuppressSlave.label>TODO</SuppressSlave.label>
   <!-- EN: suppressing -->
-  <SuppressSlave.gerund>réprime</SuppressSlave.gerund>
+  <SuppressSlave.gerund>TODO</SuppressSlave.gerund>
   <!-- EN: suppress -->
-  <SuppressSlave.verb>réprimer</SuppressSlave.verb>
+  <SuppressSlave.verb>TODO</SuppressSlave.verb>
   
 </LanguageData>

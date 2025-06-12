@@ -2,34 +2,34 @@
 <LanguageData>
   
   <!-- EN: Gauranlen pod sprout -->
-  <GauranlenPodSpawn.label>síol Garanlach úr</GauranlenPodSpawn.label>
+  <GauranlenPodSpawn.label>TODO</GauranlenPodSpawn.label>
   <!-- EN: Gauranlen pod sprout -->
-  <GauranlenPodSpawn.letterLabel>síol Garanlach úr</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterLabel>TODO</GauranlenPodSpawn.letterLabel>
   <!-- EN: A Gauranlen pod has sprouted nearby!\n\nHarvest it to collect a Gauranlen seed. This special seed can be used to plant the majestic Gauranlen tree.\n\nYour colonists can connect with Gauranlen trees and make them spawn resources and helpful dryads to work or fight for you. -->
-  <GauranlenPodSpawn.letterText>Tá síol Garanlach úr ag fás in aice láimh!\n\nIs féidir é a bhaint chun síol Garanlach a fháil. Is feidir crann Garanlach a chur leis an síol sin.\n\nIs féidir le do choilínigh nascadh leis an gcrann Garanlach chun cumhachtaí speisialta a fháil, agus iarradh ar na sióga cuidiú leat agus tú i mbun oibre nó i mbun troda.</GauranlenPodSpawn.letterText>
+  <GauranlenPodSpawn.letterText>TODO</GauranlenPodSpawn.letterText>
   
   <!-- EN: beggars arrive -->
-  <GiveQuest_Beggars.label>daoine bochta tagtha</GiveQuest_Beggars.label>
+  <GiveQuest_Beggars.label>TODO</GiveQuest_Beggars.label>
   <!-- EN: beggars arrive -->
-  <GiveQuest_Beggars.letterLabel>daoine bochta tagtha</GiveQuest_Beggars.letterLabel>
+  <GiveQuest_Beggars.letterLabel>TODO</GiveQuest_Beggars.letterLabel>
   
   <!-- EN: pilgrims arrive -->
-  <GiveQuest_ReliquaryPilgrims.label>oilithrigh tagtha</GiveQuest_ReliquaryPilgrims.label>
+  <GiveQuest_ReliquaryPilgrims.label>TODO</GiveQuest_ReliquaryPilgrims.label>
   <!-- EN: pilgrims arrive -->
-  <GiveQuest_ReliquaryPilgrims.letterLabel>oilithrigh tagtha</GiveQuest_ReliquaryPilgrims.letterLabel>
+  <GiveQuest_ReliquaryPilgrims.letterLabel>TODO</GiveQuest_ReliquaryPilgrims.letterLabel>
   
   <!-- EN: insect jelly -->
-  <Infestation_Jelly.label>glóthach feithidí</Infestation_Jelly.label>
+  <Infestation_Jelly.label>TODO</Infestation_Jelly.label>
   <!-- EN: Insect jelly -->
-  <Infestation_Jelly.letterLabel>glóthach feithidí</Infestation_Jelly.letterLabel>
+  <Infestation_Jelly.letterLabel>TODO</Infestation_Jelly.letterLabel>
   <!-- EN: Giant insects have tunneled up from underneath and deposited some surplus insect jelly on the surface. -->
-  <Infestation_Jelly.letterText>Bhí feithidí móra ag tochailt in aice láimhe, agus tá glóthach fágtha ina ndiaidh acu.</Infestation_Jelly.letterText>
+  <Infestation_Jelly.letterText>TODO</Infestation_Jelly.letterText>
   
   <!-- EN: Wanderers -->
-  <WanderersSkylantern.label>fánaithe</WanderersSkylantern.label>
+  <WanderersSkylantern.label>TODO</WanderersSkylantern.label>
   <!-- EN: Friendly visitors -->
-  <WanderersSkylantern.letterLabel>cuairteoirí cairdiúla</WanderersSkylantern.letterLabel>
+  <WanderersSkylantern.letterLabel>TODO</WanderersSkylantern.letterLabel>
   <!-- EN: Your skylanterns have attracted some friendly travelers. The travelers were amazed by the spectacle you created and hope they'll get to participate next time.\n\nThey will visit and leave a gift. -->
-  <WanderersSkylantern.letterText>Tá cuairteoirí cairdiúla tagtha. Dúirt siad go bhfaca siad do lóchrainn spéire, agus ba mhaith leo páirt a ghlacadh san ócáid an chéad bhabhta eile.\n\nTiocfaidh siad ar cuairt chugat agus fágfaidh siad bronntanas duit.</WanderersSkylantern.letterText>
+  <WanderersSkylantern.letterText>TODO</WanderersSkylantern.letterText>
   
 </LanguageData>

@@ -6,11 +6,7 @@
     <li>discoveryDesc(discovered==false)->learned</li>
     <li>discoveryDesc(discovered==true)->determined the location</li>
   -->
-  <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
-    <li>questDescription->[discoveryDesc], der die Überreste eines längst verstorbenen Mechanitors enthält.\n\nMechanitoren können Arbeits- und Kampfmechanoiden erschaffen, kontrollieren und manipulieren. Wenn du in den Komplex eindringst und den Leichnam des Mechanitors findest, kannst du seinen Mechlink extrahieren und einen deiner Kolonisten zu einem Mechanitor machen.\n\nAber Vorsicht - solche Strukturen können viele Gefahren enthalten. Außerdem können deine Aktivitäten im Komplex unerwünschte Aufmerksamkeit erregen.</li>
-    <li>discoveryDesc(discovered==false)->Du hast von einem antiken Komplex in der Nähe erfahren</li>
-    <li>discoveryDesc(discovered==true)->Du hast den Standort eines antiken Komplexes in der Nähe lokalisiert</li>
- </OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Mechanitor.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName(p=3)->[complexAdj] mechanitor [complex]</li>
     <li>questName->mechanitor [complex]</li>
@@ -29,27 +25,6 @@
     <li>complex->mechplex</li>
     <li>complex->mechsite</li>
   -->
-  <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
-    <li>questName(p=3)->[complexAdj]er Mechanitor-[complexMas]</li>
-    <li>questName(p=3)->[complexAdj]e Mechanitor-[complexFem]</li>
-    <li>questName(p=2)->[complexAdj]es Mechanitor-[complexNeu]</li>
-    <li>questName->Mechanitor-[complex]</li>
-    <li>complexAdj->geheim</li>
-    <li>complexAdj->uralt</li>
-    <li>complexAdj->alt</li>
-    <li>complexAdj->verborgen</li>
-    <li>complexAdj->staubig</li>
-    <li>complexAdj->gefährlich</li>
-    <li>complexAdj->antik</li>
-    <li>complexMas->Komplex</li>
-    <li>complexNeu->Versteck</li>
-    <li>complexMas->Stützpunkt</li>
-    <li>complexFem->Anlage</li>
-    <li>complexFem->Krypta</li>
-    <li>complexFem->Stätte</li>
-    <li>complex->[complexMas]</li>
-    <li>complex->[complexFem]</li>
-    <li>complex(p=0.33)->[complexNeu]</li>
- </OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
+  <OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>TODO</OpportunitySite_AncientComplex_Mechanitor.questNameRules.rulesStrings>
   
 </LanguageData>

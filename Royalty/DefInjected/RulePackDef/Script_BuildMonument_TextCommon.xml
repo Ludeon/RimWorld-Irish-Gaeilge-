@@ -28,7 +28,7 @@
     <li>failLetterEndingCommon->You have failed the quest '[resolvedQuestName]'.\n\nYour relations with [asker_faction_name] have decreased by [goodwillPenalty].</li>
   -->
   <QuestConstructionDescriptionCommon.rulePack.rulesStrings>
-     <li>questDescription(askerIsNull==true)->Tá teachtaireacht aisteach tagtha. Is cosúil gur sheol intleacht shaorga an t-eolas, agus tá sí ag iarraidh ort leacht a thógáil.\n\n[commonEnding]</li>
+    <li>questDescription(askerIsNull==true)->Tá teachtaireacht aisteach tagtha. Is cosúil gur sheol intleacht shaorga an t-eolas, agus tá sí ag iarraidh ort leacht a thógáil.\n\n[commonEnding]</li>
     <li>questDescription(asker_factionLeader==True)->Tá [asker_nameFull], [asker_faction_leaderTitle] ón bhfaicsean [asker_faction_name], ag iarraidh ort leacht a thógáil [buildReason].\n\n[commonEnding]</li>
     <li>questDescription(asker_royalInCurrentFaction==True)->Tá [asker_nameFull], [asker_royalTitleInCurrentFaction] ón bhfaicsean [asker_faction_name], ag iarraidh ort leacht a thógáil [buildReason].\n\n[commonEnding]</li>
     <li>asker2(askerIsNull==true)->an t-arcaitheicneoir</li>
@@ -49,7 +49,7 @@
     <li>glory->saibhreas</li>
     <li>failLetterEndingCommon(askerIsNull==true,priority=1)->Theip ort an misean '[resolvedQuestName]' a chríochnú.</li>
     <li>failLetterEndingCommon->Theip ort an misean '[resolvedQuestName]' a chríochnú.\n\nTá do chaidreamh le [asker_faction_name] laghdaithe le [goodwillPenalty].</li>
- </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
+  </QuestConstructionDescriptionCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>questName->[constAdj] [construction]</li>
@@ -95,6 +95,6 @@
     <li>construction(p=3)->leacht</li>
     <li>construction(p=2)->cloch</li>
     <li>construction->séadchomhartha</li>
- </QuestConstructionNameCommon.rulePack.rulesStrings>
+  </QuestConstructionNameCommon.rulePack.rulesStrings>
   
 </LanguageData>

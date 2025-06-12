@@ -2,20 +2,20 @@
 <LanguageData>
   
   <!-- EN: venerated -->
-  <AnimalVenerated.label>diaga</AnimalVenerated.label>
+  <AnimalVenerated.label>TODO</AnimalVenerated.label>
   <!-- EN: This animal is considered by believers to hold a special spiritual or moral status, which means it must be venerated and may never be harmed. -->
-  <AnimalVenerated.description>Creidtear go bhfuil an t-ainmhí seo diaga, rud a chiallaíonn nach gceadaítear iad a ghortú riamh.</AnimalVenerated.description>
+  <AnimalVenerated.description>TODO</AnimalVenerated.description>
   <!-- EN: Tame venerated animal died -->
-  <AnimalVenerated.comps.2.description>Cailleadh ainmhí diaga</AnimalVenerated.comps.2.description>
+  <AnimalVenerated.comps.2.description>TODO</AnimalVenerated.comps.2.description>
   <!-- EN: Scarce animals {STAGE1} -->
-  <AnimalVenerated.comps.4.thoughtStageDescriptions.0>Líon an-íseal ainmhithe {STAGE1}</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.0>TODO</AnimalVenerated.comps.4.thoughtStageDescriptions.0>
   <!-- EN: Few animals {STAGE2} -->
-  <AnimalVenerated.comps.4.thoughtStageDescriptions.1>Líon íseal ainmhithe {STAGE2}</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.1>TODO</AnimalVenerated.comps.4.thoughtStageDescriptions.1>
   <!-- EN: Some animals {STAGE3} -->
-  <AnimalVenerated.comps.4.thoughtStageDescriptions.2>Roinnt ainmhithe {STAGE3}</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.2>TODO</AnimalVenerated.comps.4.thoughtStageDescriptions.2>
   <!-- EN: Lots of animals {STAGE4} -->
-  <AnimalVenerated.comps.4.thoughtStageDescriptions.3>A lán ainmhithe {STAGE4}</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.3>TODO</AnimalVenerated.comps.4.thoughtStageDescriptions.3>
   <!-- EN: Tons of animals -->
-  <AnimalVenerated.comps.4.thoughtStageDescriptions.4>Go leor ainmhithe</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
+  <AnimalVenerated.comps.4.thoughtStageDescriptions.4>TODO</AnimalVenerated.comps.4.thoughtStageDescriptions.4>
   
 </LanguageData>

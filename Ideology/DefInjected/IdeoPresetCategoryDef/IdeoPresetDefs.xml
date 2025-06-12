@@ -2,45 +2,45 @@
 <LanguageData>
   
   <!-- EN: classic -->
-  <Classic.label>clasaiceach</Classic.label>
+  <Classic.label>TODO</Classic.label>
   <!-- EN: Classic RimWorld without the ideoligion system. Good for your first few games, or when you're not trying to do something specific. All Ideology expansion content remains active. -->
-  <Classic.description>Rimworld clasaiceach, gan aon chóras idé-eolaíochta. Beidh an t-ábhar eile ó Ideology fós ann.</Classic.description>
+  <Classic.description>TODO</Classic.description>
   <!-- EN: Classic -->
-  <Classic.groupLabel>Clasaiceach</Classic.groupLabel>
+  <Classic.groupLabel>TODO</Classic.groupLabel>
   
   <!-- EN: custom -->
-  <Custom.label>saincheaptha</Custom.label>
+  <Custom.label>TODO</Custom.label>
   <!-- EN: Customize a new ideoligion and control every detail. This can take a while. -->
-  <Custom.description>Cruthaigh idé-eolaíocht nua agus athraigh gach gné di. Tógfaidh sé seo roinnt mhaith ama.</Custom.description>
+  <Custom.description>TODO</Custom.description>
   <!-- EN: Custom -->
-  <Custom.groupLabel>Saincheaptha</Custom.groupLabel>
+  <Custom.groupLabel>TODO</Custom.groupLabel>
   
   <!-- EN: fluid -->
-  <Fluid.label>Céimnitheach</Fluid.label>
+  <Fluid.label>TODO</Fluid.label>
   <!-- EN: Begin with a simple ideoligion and develop it over time. -->
-  <Fluid.description>Tosaigh amach le hidé-eolaíocht shimplí, agus déan í a fhorbairt céim ar chéim le himeacht ama.</Fluid.description>
+  <Fluid.description>TODO</Fluid.description>
   <!-- EN: Fluid -->
-  <Fluid.groupLabel>Céimnitheach</Fluid.groupLabel>
+  <Fluid.groupLabel>TODO</Fluid.groupLabel>
   
   <!-- EN: intense -->
-  <Intense.label>dian</Intense.label>
+  <Intense.label>TODO</Intense.label>
   <!-- EN: Extremely disruptive beliefs which make the game very different from classic RimWorld. These add significant difficulty. -->
-  <Intense.description>Tá rialacha an-déine ag baint leis na hidé-eolaíochtaí seo, agus beidh tionchar suntasach acu ar an gcluiche. Tá deacracht ag baint leis na roghanna seo.</Intense.description>
+  <Intense.description>TODO</Intense.description>
   <!-- EN: Preset ideoligions -->
-  <Intense.groupLabel>Idé-eolaíochtaí réamhchruthaithe</Intense.groupLabel>
+  <Intense.groupLabel>TODO</Intense.groupLabel>
   
   <!-- EN: mild -->
-  <Mild.label>éadrom</Mild.label>
+  <Mild.label>TODO</Mild.label>
   <!-- EN: Classic-like gameplay with small variations. -->
-  <Mild.description>Ní bhíonn ach athruithe beag i gceist leis an hidé-eolaíochtaí seo.</Mild.description>
+  <Mild.description>TODO</Mild.description>
   <!-- EN: Preset ideoligions -->
-  <Mild.groupLabel>Idé-eolaíochtaí réamhchruthaithe</Mild.groupLabel>
+  <Mild.groupLabel>TODO</Mild.groupLabel>
   
   <!-- EN: strong -->
-  <Strong.label>láidir</Strong.label>
+  <Strong.label>TODO</Strong.label>
   <!-- EN: Strong beliefs which support playstyles significantly different from classic RimWorld. -->
-  <Strong.description>Idé-eolaíochtaí láidre a mbíonn tionchar mór acu ar an gcluiche.</Strong.description>
+  <Strong.description>TODO</Strong.description>
   <!-- EN: Preset ideoligions -->
-  <Strong.groupLabel>Idé-eolaíochtaí réamhchruthaithe</Strong.groupLabel>
+  <Strong.groupLabel>TODO</Strong.groupLabel>
   
 </LanguageData>

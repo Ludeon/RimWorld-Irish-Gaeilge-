@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN:
-    <li>damaged_saorbhriathar(p=2)->blasted</li>
-    <li>damaged_saorbhriathar(p=2)->exploded</li>
-    <li>damaged_saorbhriathar->injured</li>
-    <li>damaged_saorbhriathar->damaged</li>
-    <li>damaged_saorbhriathar->wounded</li>
-    <li>damaged_saorbhriathar->hurt</li>
+    <li>damaged_past(p=2)->blasted</li>
+    <li>damaged_past(p=2)->exploded</li>
+    <li>damaged_past->injured</li>
+    <li>damaged_past->damaged</li>
+    <li>damaged_past->wounded</li>
+    <li>damaged_past->hurt</li>
     <li>destroyed_past->shattered</li>
     <li>destroyed_past->crushed</li>
     <li>destroyed_past->obliterated</li>
@@ -25,13 +25,13 @@
     <li>destroyed_past->Brúisceadh</li>
     <li>destroyed_past->Scriosadh</li>
     <li>destroyed_past->Rinneadh slad ar</li>
- </Damage_Bomb.rulePack.rulesStrings>
+  </Damage_Bomb.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_saorbhriathar->electrified</li>
-    <li>damaged_saorbhriathar->shocked</li>
-    <li>damaged_saorbhriathar->zapped</li>
-    <li>destroyed_past->damaged_saorbhriathar</li>
+    <li>damaged_past->electrified</li>
+    <li>damaged_past->shocked</li>
+    <li>damaged_past->zapped</li>
+    <li>destroyed_past->damaged_past</li>
   -->
   <Damage_EMP.rulePack.rulesStrings>
     <li>damaged_saorbhriathar->leictríodh</li>
@@ -40,11 +40,11 @@
   </Damage_EMP.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_saorbhriathar->extinguished</li>
-    <li>damaged_saorbhriathar->swamped</li>
-    <li>damaged_saorbhriathar->foamed</li>
-    <li>damaged_saorbhriathar->quenched</li>
-    <li>destroyed_past->damaged_saorbhriathar</li>
+    <li>damaged_past->extinguished</li>
+    <li>damaged_past->swamped</li>
+    <li>damaged_past->foamed</li>
+    <li>damaged_past->quenched</li>
+    <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Extinguish.rulePack.rulesStrings>
     <li>damaged_saorbhriathar->múchadh</li>
@@ -53,38 +53,38 @@
   </Damage_Extinguish.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_saorbhriathar(p=2)->blasted</li>
-    <li>damaged_saorbhriathar(p=2)->scorched</li>
-    <li>damaged_saorbhriathar(p=2)->burned</li>
-    <li>damaged_saorbhriathar(p=2)->blistered</li>
-    <li>damaged_saorbhriathar(p=2)->ignited</li>
-    <li>damaged_saorbhriathar(p=2)->seared</li>
-    <li>damaged_saorbhriathar->injured</li>
-    <li>damaged_saorbhriathar->damaged</li>
-    <li>damaged_saorbhriathar->wounded</li>
-    <li>damaged_saorbhriathar->hurt</li>
-    <li>damaged_past(p=2)->blasting</li>
-    <li>damaged_past(p=2)->scorching</li>
-    <li>damaged_past(p=2)->burning</li>
-    <li>damaged_past(p=2)->blistering</li>
-    <li>damaged_past(p=2)->igniting</li>
-    <li>damaged_past(p=2)->searing</li>
-    <li>damaged_past->injuring</li>
-    <li>damaged_past->damaging</li>
-    <li>damaged_past->wounding</li>
-    <li>damaged_past->hurting</li>
+    <li>damaged_past(p=2)->blasted</li>
+    <li>damaged_past(p=2)->scorched</li>
+    <li>damaged_past(p=2)->burned</li>
+    <li>damaged_past(p=2)->blistered</li>
+    <li>damaged_past(p=2)->ignited</li>
+    <li>damaged_past(p=2)->seared</li>
+    <li>damaged_past->injured</li>
+    <li>damaged_past->damaged</li>
+    <li>damaged_past->wounded</li>
+    <li>damaged_past->hurt</li>
+    <li>damaged_present(p=2)->blasting</li>
+    <li>damaged_present(p=2)->scorching</li>
+    <li>damaged_present(p=2)->burning</li>
+    <li>damaged_present(p=2)->blistering</li>
+    <li>damaged_present(p=2)->igniting</li>
+    <li>damaged_present(p=2)->searing</li>
+    <li>damaged_present->injuring</li>
+    <li>damaged_present->damaging</li>
+    <li>damaged_present->wounding</li>
+    <li>damaged_present->hurting</li>
     <li>destroyed_past->cremated</li>
     <li>destroyed_past->incinerated</li>
     <li>destroyed_past->charred</li>
     <li>destroyed_past->obliterated</li>
     <li>destroyed_past->annihilated</li>
     <li>destroyed_past->detonated</li>
-    <li>destroyed_past_saorbhriathar->cremating</li>
-    <li>destroyed_past_saorbhriathar->incinerating</li>
-    <li>destroyed_past_saorbhriathar->charring</li>
-    <li>destroyed_past_saorbhriathar->obliterating</li>
-    <li>destroyed_past_saorbhriathar->annihilating</li>
-    <li>destroyed_past_saorbhriathar->detonating</li>
+    <li>destroyed_present->cremating</li>
+    <li>destroyed_present->incinerating</li>
+    <li>destroyed_present->charring</li>
+    <li>destroyed_present->obliterating</li>
+    <li>destroyed_present->annihilating</li>
+    <li>destroyed_present->detonating</li>
   -->
   <Damage_Flame.rulePack.rulesStrings>
     <li>damaged_saorbhriathar(p=2)->dódh</li>
@@ -104,13 +104,13 @@
     <li>destroyed_past_saorbhriathar->scriosadh</li>
     <li>destroyed_past_saorbhriathar->milleadh</li>
     <li>destroyed_past_saorbhriathar->loiteadh</li>
- </Damage_Flame.rulePack.rulesStrings>
+  </Damage_Flame.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_saorbhriathar->smoked</li>
-    <li>damaged_saorbhriathar->fogged</li>
-    <li>damaged_saorbhriathar->clouded</li>
-    <li>destroyed_past->damaged_saorbhriathar</li>
+    <li>damaged_past->smoked</li>
+    <li>damaged_past->fogged</li>
+    <li>damaged_past->clouded</li>
+    <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Smoke.rulePack.rulesStrings>
     <li>damaged_saorbhriathar->dorchaíodh</li>
@@ -118,11 +118,11 @@
   </Damage_Smoke.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>damaged_saorbhriathar->stunned</li>
-    <li>damaged_saorbhriathar->confused</li>
-    <li>damaged_saorbhriathar->stopped</li>
-    <li>damaged_saorbhriathar->dizzied</li>
-    <li>destroyed_past->damaged_saorbhriathar</li>
+    <li>damaged_past->stunned</li>
+    <li>damaged_past->confused</li>
+    <li>damaged_past->stopped</li>
+    <li>damaged_past->dizzied</li>
+    <li>destroyed_past->damaged_past</li>
   -->
   <Damage_Stun.rulePack.rulesStrings>
     <li>damaged_saorbhriathar->stopadh</li>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   
-  <!-- EN: shuttle -->
+  <!-- EN: imperial shuttle -->
   <TravelingShuttle.label>tointeálaí</TravelingShuttle.label>
-  <!-- EN: A shuttle in flight. -->
+  <!-- EN: An imperial shuttle in flight. -->
   <TravelingShuttle.description>Tointeálaí, atá ag eitilt.</TravelingShuttle.description>
   
 </LanguageData>

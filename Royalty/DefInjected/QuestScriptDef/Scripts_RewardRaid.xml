@@ -16,7 +16,7 @@
     <li>groupsOf->[numGroupsOf] [enemyFaction_pawnsPlural]</li>
     <li>endingCommon(helpersCount==0)->\n\n[pawnKindsParagraph]\n\nSi vous acceptez, les [enemyFaction_pawnsPlural] arriveront dans [firstRaidDelayTicks_duration].</li>
     <li>endingCommon(helpersCount>=1)->\n\n[pawnKindsParagraph][helpersParagraph]Si vous acceptez, les [enemyFaction_pawnsPlural] arriveront dans [firstRaidDelayTicks_duration].</li>
- </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
+  </ThreatReward_Raid_MiscReward.questDescriptionRules.rulesStrings>
   <!-- EN:
     <li>questName->[enemyFaction_pawnsPlural] of Fortune</li>
     <li>questName->[violence] of Fortune</li>
@@ -67,6 +67,6 @@
     <li>violence_fem->hostilité</li>
     <li>violence_fem->hécatombe</li>
     <li>violence_fem->tuerie</li>
- </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
+  </ThreatReward_Raid_MiscReward.questNameRules.rulesStrings>
   
 </LanguageData>

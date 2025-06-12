@@ -2,16 +2,14 @@
 <LanguageData>
   
   <!-- EN: legionary -->
-  <Mech_Legionary.label>Legionär</Mech_Legionary.label>
-  <Mech_Legionary.labelPlural>Legionäre</Mech_Legionary.labelPlural>
+  <Mech_Legionary.label>TODO</Mech_Legionary.label>
   
   <!-- EN: scorcher -->
-  <Mech_Scorcher.label>Abfackler</Mech_Scorcher.label>
+  <Mech_Scorcher.label>TODO</Mech_Scorcher.label>
   <!-- EN: scorchers -->
-  <Mech_Scorcher.labelPlural>Abfackler</Mech_Scorcher.labelPlural>
+  <Mech_Scorcher.labelPlural>TODO</Mech_Scorcher.labelPlural>
   
   <!-- EN: tesseron -->
-  <Mech_Tesseron.label>Tesseron</Mech_Tesseron.label>
-  <Mech_Tesseron.labelPlural>Tesseronen</Mech_Tesseron.labelPlural>
+  <Mech_Tesseron.label>TODO</Mech_Tesseron.label>
   
 </LanguageData>

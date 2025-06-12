@@ -1,13 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <rulesRaw>
-    <li Class="Rule_File">
-      <keyword>world_ending</keyword>
-      <path>/Words/Adjectives/WorldEndings</path>
-   </li>
- </rulesRaw>
-
+  
+  <NamerArchipelago.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerArchipelago.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
     <li>terrain_word(p=4)->islands</li>
@@ -20,12 +16,6 @@
     <li>terrain_word->points</li>
     <li>terrain_word->chain</li>
   -->
-
-  <!-- This points to the WorldEndings file in Strings/WorldEndings, must be repeated for each Namer. This break easily.--> 
-  <NamerArchipelago.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerArchipelago.rulePack.rulesFiles>
-
   <NamerArchipelago.rulePack.rulesStrings>
     <li>r_name->[archipelago_word] [world_ending]</li>
     <li>archipelago_word->Ríf</li>
@@ -35,8 +25,11 @@
     <li>archipelago_word->Oileáin</li>
     <li>archipelago_word->Pointe</li>
     <li>archipelago_word->Atall</li>
- </NamerArchipelago.rulePack.rulesStrings>
+  </NamerArchipelago.rulePack.rulesStrings>
   
+  <NamerAridShrubland.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerAridShrubland.rulePack.rulesFiles>
   <!-- EN:
     <li>terrain_word(p=4)->shrubland</li>
     <li>terrain_word(p=4)->scrubland</li>
@@ -47,11 +40,6 @@
     <li>terrain_word->brush</li>
     <li>terrain_word->barrens</li>
   -->
-
-  <NamerAridShrubland.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerAridShrubland.rulePack.rulesFiles>
-
   <NamerAridShrubland.rulePack.rulesStrings>
     <li>r_name->[shrubland_word] [world_ending]</li>
     <li>shrubland_word->Fásach</li>
@@ -59,8 +47,11 @@
     <li>shrubland_word->Clár</li>
     <li>shrubland_word->Sabhána</li>
     <li>shrubland_word->Macra</li>
- </NamerAridShrubland.rulePack.rulesStrings>
+  </NamerAridShrubland.rulePack.rulesStrings>
   
+  <NamerBay.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerBay.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.2)->gulf of [narrative_name]</li>
     <li>terrain_word(p=6)->bay</li>
@@ -69,17 +60,14 @@
     <li>terrain_word->anchorage</li>
     <li>terrain_word->cove</li>
   -->
-
-  <!-- This points to the text file in Strings/WorldEndings, must be repeated for each Namer--> 
-  <NamerBay.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerBay.rulePack.rulesFiles>
-
   <NamerBay.rulePack.rulesStrings>
     <li>r_name(p=0.2)->Murascaill [world_ending]</li>
     <li>r_name(p=0.2)->Murascaill [world_ending]</li>
- </NamerBay.rulePack.rulesStrings>
+  </NamerBay.rulePack.rulesStrings>
   
+  <NamerBorealForest.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerBorealForest.rulePack.rulesFiles>
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
     <li>terrain_word(p=3)->taiga</li>
@@ -89,12 +77,6 @@
     <li>terrain_word->tangle</li>
     <li>terrain_word->thicket</li>
   -->
-
-  <!-- This points to the text file in Strings/WorldEndings, must be repeated for each Namer--> 
-  <NamerBorealForest.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerBorealForest.rulePack.rulesFiles>
-
   <NamerBorealForest.rulePack.rulesStrings>
     <li>r_name->[forest_word_ganalt] [world_ending]</li>
     <li>forest_word->Coill</li>
@@ -102,8 +84,11 @@
     <li>forest_word->Doire</li>
     <li>forest_word->Cill</li>
     <li>forest_word->Talamh</li>
- </NamerBorealForest.rulePack.rulesStrings>
+  </NamerBorealForest.rulePack.rulesStrings>
   
+  <NamerDesert.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerDesert.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.4)->[desert_adjective] [narrative_name]</li>
     <li>desert_adjective->flat</li>
@@ -128,11 +113,6 @@
     <li>terrain_word->wasteland</li>
     <li>terrain_word->barrens</li>
   -->
-
-  <NamerDesert.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerDesert.rulePack.rulesFiles>
-
   <NamerDesert.rulePack.rulesStrings>
     <li>r_name->[shrubland_word] [world_ending]</li>
     <li>shrubland_word->Fásach</li>
@@ -140,19 +120,17 @@
     <li>shrubland_word->Clár</li>
     <li>shrubland_word->Sabhána</li>
     <li>shrubland_word->Macra</li>
- </NamerDesert.rulePack.rulesStrings>
+  </NamerDesert.rulePack.rulesStrings>
   
+  <NamerForest.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerForest.rulePack.rulesFiles>
   <!-- EN:
     <li>terrain_word(p=6)->forest</li>
     <li>terrain_word->grove</li>
     <li>terrain_word->woodland</li>
     <li>terrain_word->thicket</li>
   -->
-
- <NamerForest.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerForest.rulePack.rulesFiles>
-
   <NamerForest.rulePack.rulesStrings>
     <li>r_name->[forest_word_ganalt] [world_ending]</li>
     <li>r_name->[forest_noun_bain] [adjective_bain]</li>
@@ -181,8 +159,11 @@
     <li>adjective_bain->Ghaofar</li>
     <li>adjective_bain->Dhorcha</li>
     <li>adjective_bain->Bheag</li>
- </NamerForest.rulePack.rulesStrings>
+  </NamerForest.rulePack.rulesStrings>
   
+  <NamerIceSheet.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerIceSheet.rulePack.rulesFiles>
   <!-- EN:
     <li>terrain_word->sheet</li>
     <li>terrain_word->expanse</li>
@@ -193,11 +174,6 @@
     <li>terrain_word(p=0.3)->stretch</li>
     <li>terrain_word(p=0.3)->tract</li>
   -->
-
- <NamerIceSheet.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerIceSheet.rulePack.rulesFiles>
-
   <NamerIceSheet.rulePack.rulesStrings>
     <li>r_name->[ice_sheet_noun]</li>
     <li>ice_sheet_noun->An tAchar</li>
@@ -215,8 +191,11 @@
     <li>ice_sheet_noun->An Treathan</li>
     <li>ice_sheet_noun->An Grúm</li>
     <li>ice_sheet_noun->An tOighearmhá</li>
- </NamerIceSheet.rulePack.rulesStrings>
+  </NamerIceSheet.rulePack.rulesStrings>
   
+  <NamerIsland.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerIsland.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.2)->isle [narrative_name]</li>
     <li>terrain_word(p=4)->island</li>
@@ -227,11 +206,6 @@
     <li>terrain_word->islet</li>
     <li>terrain_word->point</li>
   -->
-
- <NamerIsland.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerIsland.rulePack.rulesFiles>
-
   <NamerIsland.rulePack.rulesStrings>
     <li>r_name->[archipelago_word_ganalt] [world_ending]</li>
     <li>archipelago_word_ganalt->Ríf</li>
@@ -241,24 +215,20 @@
     <li>archipelago_word_ganalt->Oileáin</li>
     <li>archipelago_word_ganalt->Pointe</li>
     <li>archipelago_word_ganalt->Atall</li>
- </NamerIsland.rulePack.rulesStrings>
+  </NamerIsland.rulePack.rulesStrings>
   
+  <NamerLake.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerLake.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->lake [narrative_name]</li>
     <li>terrain_word(p=6)->lake</li>
-    <li>terrain_word->sea</li>
     <li>terrain_word->pond</li>
     <li>terrain_word->basin</li>
     <li>terrain_word->reservoir</li>
     <li>terrain_word(p=0.3)->puddle</li>
-    <li>terrain_word(p=0.3)->lagoon</li>
     <li>terrain_word(p=0.3)->loch</li>
   -->
-
- <NamerLake.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerLake.rulePack.rulesFiles>
-
   <NamerLake.rulePack.rulesStrings>
     <li>r_name->[water_noun_fir] [adjective_fir]</li>
     <li>r_name->[water_noun_bain] [adjective_bain]</li>
@@ -285,8 +255,11 @@
     <li>water_noun_ganalt->Lochán</li>
     <li>water_noun_ganalt->Lochóg</li>
     <li>water_noun_ganalt->Uisce</li>
- </NamerLake.rulePack.rulesStrings>
+  </NamerLake.rulePack.rulesStrings>
   
+  <NamerMountainRange.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerMountainRange.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.2)->mount [narrative_name]</li>
     <li>terrain_word(p=5)->mountains</li>
@@ -295,11 +268,6 @@
     <li>terrain_word->hills</li>
     <li>terrain_word->cliffs</li>
   -->
-
- <NamerMountainRange.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerMountainRange.rulePack.rulesFiles>
-
   <NamerMountainRange.rulePack.rulesStrings>
     <li>r_name->[mountain_noun_ganalt] [world_ending]</li>
     <li>r_name->[placename_proper]</li>
@@ -323,8 +291,11 @@
     <li>placename_proper->Cnoc an Bhráca</li>
     <li>placename_proper->Cnoc an Stacaigh</li>
     <li>placename_proper->Cró na Sliabh</li>
- </NamerMountainRange.rulePack.rulesStrings>
+  </NamerMountainRange.rulePack.rulesStrings>
   
+  <NamerOcean.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerOcean.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.4)->[ocean_adjective] [narrative_name]</li>
     <li>ocean_adjective->blue</li>
@@ -344,11 +315,6 @@
     <li>terrain_word(p=3)->sea</li>
     <li>terrain_word->expanse</li>
   -->
-
- <NamerOcean.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerOcean.rulePack.rulesFiles>
-
   <NamerOcean.rulePack.rulesStrings>
     <li>r_name->[ocean_noun_fir] [adjective_fir]</li>
     <li>r_name->[ocean_noun_bain] [adjective_bain]</li>
@@ -388,8 +354,11 @@
     <li>ocean_noun_ganalt->Bealach</li>
     <li>ocean_noun_ganalt->Béal</li>
     <li>ocean_noun_ganalt->Fairsinge</li>
- </NamerOcean.rulePack.rulesStrings>
+  </NamerOcean.rulePack.rulesStrings>
   
+  <NamerPeninsula.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerPeninsula.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.2)->point [narrative_name]</li>
     <li>r_name(p=0.2)->cape [narrative_name]</li>
@@ -399,27 +368,19 @@
     <li>terrain_word->headland</li>
     <li>terrain_word->horn</li>
   -->
-
- <NamerPeninsula.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerPeninsula.rulePack.rulesFiles>
-
   <NamerPeninsula.rulePack.rulesStrings>
     <li>r_name->Ceann [world_ending]</li>
     <li>r_name->Barr [world_ending]</li>
- </NamerPeninsula.rulePack.rulesStrings>
+  </NamerPeninsula.rulePack.rulesStrings>
   
-  <!-- EN:
-    <li>r_name(p=0.1)->lake [narrative_name]</li>
-    <li>terrain_word(p=6)->sea</li>
-    <li>terrain_word->ocean</li>
-    <li>terrain_word->lake</li>
-  -->
-
- <NamerSea.rulePack.rulesFiles>
+  <NamerSea.rulePack.rulesFiles>
     <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerSea.rulePack.rulesFiles>
-
+  </NamerSea.rulePack.rulesFiles>
+  <!-- EN:
+    <li>terrain_word(p=6)->sea</li>
+    <li>terrain_word->lagoon</li>
+    <li>terrain_word->ocean</li>
+  -->
   <NamerSea.rulePack.rulesStrings>
     <li>r_name->[water_noun_fir] [adjective_fir]</li>
     <li>r_name->[water_noun_bain] [adjective_bain]</li>
@@ -446,8 +407,11 @@
     <li>water_noun_ganalt->Uisce</li>
     <li>water_noun_ganalt->Lochán</li>
     <li>water_noun_ganalt->Lochóg</li>
- </NamerSea.rulePack.rulesStrings>
+  </NamerSea.rulePack.rulesStrings>
   
+  <NamerSwamp.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerSwamp.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.1)->fen [narrative_name]</li>
     <li>r_name(p=0.3)->[swamp_adjective] [narrative_name]</li>
@@ -468,11 +432,6 @@
     <li>terrain_word->marsh</li>
     <li>terrain_word->fen</li>
   -->
-
- <NamerSwamp.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerSwamp.rulePack.rulesFiles>
-
   <NamerSwamp.rulePack.rulesStrings>
     <li>r_name->[swamp_word] [world_ending]</li>
     <li>swamp_word->Báisín</li>
@@ -487,8 +446,11 @@
     <li>swamp_word->Móin</li>
     <li>swamp_word->Achadh</li>
     <li>swamp_word->Currach</li>
- </NamerSwamp.rulePack.rulesStrings>
+  </NamerSwamp.rulePack.rulesStrings>
   
+  <NamerTropicalRainforest.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerTropicalRainforest.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name(p=0.3)->[rainforest_adjective] [narrative_name]</li>
     <li>rainforest_adjective->wet</li>
@@ -505,11 +467,6 @@
     <li>terrain_word->woodland</li>
     <li>terrain_word->tangle</li>
   -->
-
- <NamerTropicalRainforest.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerTropicalRainforest.rulePack.rulesFiles>
-
   <NamerTropicalRainforest.rulePack.rulesStrings>
     <li>r_name->[rainforest_word_ganalt] [world_ending]</li>
     <li>rainforest_word_ganalt->Foraois</li>
@@ -521,8 +478,11 @@
     <li>rainforest_word_ganalt->Fásach</li>
     <li>rainforest_word_ganalt->Seisceann</li>
     <li>rainforest_word_ganalt->Coill</li>
- </NamerTropicalRainforest.rulePack.rulesStrings>
+  </NamerTropicalRainforest.rulePack.rulesStrings>
   
+  <NamerTundra.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </NamerTundra.rulePack.rulesFiles>
   <!-- EN:
     <li>terrain_word(p=4)->plateau</li>
     <li>terrain_word(p=4)->barrens</li>
@@ -537,11 +497,6 @@
     <li>terrain_word->prairie</li>
     <li>terrain_word->flats</li>
   -->
-
- <NamerTundra.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </NamerTundra.rulePack.rulesFiles>
-
   <NamerTundra.rulePack.rulesStrings>
     <li>r_name->[tundra_word_fir] [adjective_fir]</li>
     <li>r_name->[tundra_word_bain] [adjective_bain]</li>
@@ -564,8 +519,11 @@
     <li>adjective_bain->Ghaofar</li>
     <li>adjective_bain->Dhorcha</li>
     <li>adjective_bain->Bheag</li>
- </NamerTundra.rulePack.rulesStrings>
+  </NamerTundra.rulePack.rulesStrings>
   
+  <WorldFeatureNamerCommon.rulePack.rulesFiles>
+    <li>world_ending->Words/Adjectives/WorldEndings</li>
+  </WorldFeatureNamerCommon.rulePack.rulesFiles>
   <!-- EN:
     <li>r_name->[narrative_name] [terrain_word]</li>
     <li>r_name(p=0.05)->[storyname] [terrain_word]</li>
@@ -627,11 +585,6 @@
     <li>story_result->facade</li>
     <li>story_result->fraud</li>
   -->
-
- <WorldFeatureNamerCommon.rulePack.rulesFiles>
-    <li>world_ending->Words/Adjectives/WorldEndings</li>
- </WorldFeatureNamerCommon.rulePack.rulesFiles>
-
   <WorldFeatureNamerCommon.rulePack.rulesStrings>
     <li>r_name->[placename_proper]</li>
     <li>r_name->[placename_other] [world_ending]</li>
@@ -652,6 +605,6 @@
     <li>placename_other->Ard</li>
     <li>placename_other->Cnoc</li>
     <li>placename_other->Cró</li>
- </WorldFeatureNamerCommon.rulePack.rulesStrings>
+  </WorldFeatureNamerCommon.rulePack.rulesStrings>
   
 </LanguageData>

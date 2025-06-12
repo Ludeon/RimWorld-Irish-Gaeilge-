@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: Arresting worsens faction relations -->
   <ArrestingCreatesEnemies.label>Cuirfidh an gníomh seo isteach ar do chaidreamh le faicsean eile</ArrestingCreatesEnemies.label>
   <!-- EN: Warning: The person you are trying to arrest may not go quietly.\n\nIf you arrest a non-colonist or a colonist from another faction, their entire faction may become your enemy. \n\nThis arrest has a {0} chance of succeeding, based on the social skill of the arrester. -->
   <ArrestingCreatesEnemies.helpText>Rabhadh: D'fhéadfadh sé nach mbeidh an duine atá tú ag iarraidh a ghabháil sásta teacht leat go ciúin.\n\nMá ghabhann tú duine a bhaineann le coilíneacht nó le faicsean eile, d'fhéadfadh sé go n-éireoidh an faicsean iomlán sin naimhdeach.\n\nTá seans {0} ann go n-éireoidh leat an duine seo a ghabháil, bunaithe ar scileanna sóisialta do choilínigh.</ArrestingCreatesEnemies.helpText>
-
+  
   <!-- EN: Maximum number of player colonies -->
   <MaxNumberOfPlayerSettlements.label>Tá an iomarca coilíneachtaí agat</MaxNumberOfPlayerSettlements.label>
   <!-- EN: Warning: RimWorld is designed to be played with one player colony at a time. Multiple player colonies are allowed as an experimental testing feature only.\n\nPlaying with multiple colonies will cause gameplay imbalances and split your focus, as well as likely causing performance slowdowns.\n\nWe recommend that you play with the one-colony maximum the game was designed for, at least for your first few games. -->
   <MaxNumberOfPlayerSettlements.helpText>Rabhadh: Dearadh RimWorld chun go mbeadh coilineacht amháin ag an imreoir. \n\nMá imríonn tú le níos mó ná coilíneacht amháin, tá gach seans ann nach bhfeidhmeoidh an cluiche i gceart agus d'fhéadfadh sé go gcuirfear isteach ar fheidhmiú an chluiche. Moltar imirt le coilíneacht amháin!</MaxNumberOfPlayerSettlements.helpText>
-
+  
   <!-- EN: Steam Deck controls -->
   <SteamDeckControlsGame.label>Steam Deck</SteamDeckControlsGame.label>
   <!-- EN: Press X to open the architect menu and {Key:TogglePause} to pause and resume the game. Use triggers for primary and secondary clicks. Zoom in and out and scroll through lists with {Key:MapZoom_In} and {Key:MapZoom_Out}. Press and hold the L5 back button to pan the camera with the touch screen and simulate secondary clicks. -->
   <SteamDeckControlsGame.helpText>Brúigh X chun an roghchlár a oscailt agus brúigh {Key:TogglePause} chun an cluiche a stopadh. Is féidir na truicear a úsáid chun cliceáil. Is féidir zúmáil isteach agus amach agus scrolláil trí liostaí le {Key:MapZoom_In} agus {Key:MapZoom_Out}.</SteamDeckControlsGame.helpText>
-
+  
   <!-- EN: Steam Deck controls -->
   <SteamDeckControlsMainMenu.label>TODO</SteamDeckControlsMainMenu.label>
   <!-- EN: Use the trackpad to move the cursor and the right trigger button to click. Press {Key:Accept} to accept and {Key:Cancel} to go back. -->
   <SteamDeckControlsMainMenu.helpText>TODO</SteamDeckControlsMainMenu.helpText>
-
+  
   <!-- EN: Flick designations only designate -->
   <SwitchFlickingDesignation.label>TODO</SwitchFlickingDesignation.label>
   <!-- EN: Note: This only designates that a colonist should flick the switch.\n\nNothing will actually happen until a colonist comes and flicks the switch by hand. -->
   <SwitchFlickingDesignation.helpText>TODO</SwitchFlickingDesignation.helpText>
-
+  
   <!-- EN: Trade goods and trade beacons -->
   <TradeGoodsMustBeNearBeacon.label>Trádáil agus aeróga trádála</TradeGoodsMustBeNearBeacon.label>
   <!-- EN: To send items or silver to orbital traders, you must build an ORBITAL TRADE BEACON and place a stockpile of items near it. -->
   <TradeGoodsMustBeNearBeacon.helpText>Chun earraí nó airgead a sheoladh chuig spás-trádálaithe, ní mór duit AERÓG TRÁDÁLA a thógáil agus stoc-charn a chur taobh leis.</TradeGoodsMustBeNearBeacon.helpText>
-
+  
   <!-- EN: Trading permit requirements -->
   <TradingRequiresPermit.label>Ceadanna trádála</TradingRequiresPermit.label>
   <!-- EN: Trading here requires the title of {0}.\n\nEnsure any trade caravan you send has someone with the title of {0} or higher. -->
   <TradingRequiresPermit.helpText>Tá an teideal seo a leanas de dhíth le trádáil anseo: {0}.\n\nBí cinnte go bhfuil an teideal "{0}" ar a laghad ag duine amháin sa charbhán trádála.</TradingRequiresPermit.helpText>
-
+  
 </LanguageData>

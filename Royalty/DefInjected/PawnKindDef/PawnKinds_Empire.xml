@@ -62,18 +62,16 @@
   <Empire_Royal_Consul.label>consal</Empire_Royal_Consul.label>
   <Empire_Royal_Consul.labelPlural>consail</Empire_Royal_Consul.labelPlural>
   
-  <!-- EN: count -->
+  <!-- EN: archon -->
   <Empire_Royal_Count.label>cunta</Empire_Royal_Count.label>
-  <!-- EN: countess -->
   <Empire_Royal_Count.labelFemale>cuntaois</Empire_Royal_Count.labelFemale>
   <Empire_Royal_Count.labelFemalePlural>cuntaoisí</Empire_Royal_Count.labelFemalePlural>
   <Empire_Royal_Count.labelMale>cunta</Empire_Royal_Count.labelMale>
   <Empire_Royal_Count.labelMalePlural>cuntaí</Empire_Royal_Count.labelMalePlural>
   <Empire_Royal_Count.labelPlural>cuntaí</Empire_Royal_Count.labelPlural>
   
-  <!-- EN: duke -->
+  <!-- EN: dominus -->
   <Empire_Royal_Duke.label>diúc</Empire_Royal_Duke.label>
-  <!-- EN: duchess -->
   <Empire_Royal_Duke.labelFemale>bandiúc</Empire_Royal_Duke.labelFemale>
   <Empire_Royal_Duke.labelFemalePlural>bandiúic</Empire_Royal_Duke.labelFemalePlural>
   <Empire_Royal_Duke.labelMale>diúc</Empire_Royal_Duke.labelMale>
@@ -101,7 +99,7 @@
   <Empire_Royal_Stellarch.label>réaltarcach</Empire_Royal_Stellarch.label>
   <Empire_Royal_Stellarch.labelPlural>réaltarcaigh</Empire_Royal_Stellarch.labelPlural>
   
-  <!-- EN: yeoman -->
+  <!-- EN: novice -->
   <Empire_Royal_Yeoman.label>scológ</Empire_Royal_Yeoman.label>
   <Empire_Royal_Yeoman.labelPlural>scológa</Empire_Royal_Yeoman.labelPlural>
   

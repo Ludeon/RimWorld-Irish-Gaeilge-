@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: animist -->
-  <Structure_Animist.label>anamach</Structure_Animist.label>
+  <Structure_Animist.label>TODO</Structure_Animist.label>
   <!-- EN: Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them. -->
-  <Structure_Animist.description>Táimid timpeallaithe le spioraidí i gcónaí, agus maireann siad sna plandaí, sna hainmhithe, sna habhainn, sna crainn agus sa spéir. Ní mór dúinn ómos a léiriú orthu.</Structure_Animist.description>
+  <Structure_Animist.description>TODO</Structure_Animist.description>
   <!-- EN:
     <li>memeLeaderNoun->curate</li>
     <li>memeLeaderNoun->speaker</li>
@@ -16,36 +16,26 @@
     <li>memeMoralist->priest</li>
     <li>memeMoralist->elder</li>
   -->
-  <Structure_Animist.generalRules.rulesStrings>
-    <li>memeLeaderNoun->vicaire</li>
-    <li>memeLeaderNoun->locuteur</li>
-    <li>memeLeaderAdjective->univers</li>
-    <li>memeLeaderAdjective->esprit</li>
-    <li>memeLeaderAdjective->anima</li>
-    <li>memeHyphenPrefix->ani</li>
-    <li>memeMoralist->chaman</li>
-    <li>memeMoralist->prêtre</li>
-    <li>memeMoralist->aîné</li>
- </Structure_Animist.generalRules.rulesStrings>
+  <Structure_Animist.generalRules.rulesStrings>TODO</Structure_Animist.generalRules.rulesStrings>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.adjective>anamaí</Structure_Animist.symbolPacks.0.adjective>
+  <Structure_Animist.symbolPacks.0.adjective>TODO</Structure_Animist.symbolPacks.0.adjective>
   <!-- EN: animist -->
-  <Structure_Animist.symbolPacks.0.member>anamaí</Structure_Animist.symbolPacks.0.member>
+  <Structure_Animist.symbolPacks.0.member>TODO</Structure_Animist.symbolPacks.0.member>
   <!-- EN: animism -->
-  <Structure_Animist.symbolPacks.0.theme>anamachas</Structure_Animist.symbolPacks.0.theme>
+  <Structure_Animist.symbolPacks.0.theme>TODO</Structure_Animist.symbolPacks.0.theme>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.adjective>spioradach</Structure_Animist.symbolPacks.1.adjective>
+  <Structure_Animist.symbolPacks.1.adjective>TODO</Structure_Animist.symbolPacks.1.adjective>
   <!-- EN: spiritist -->
-  <Structure_Animist.symbolPacks.1.member>spioradaí</Structure_Animist.symbolPacks.1.member>
+  <Structure_Animist.symbolPacks.1.member>TODO</Structure_Animist.symbolPacks.1.member>
   <!-- EN: spiritism -->
-  <Structure_Animist.symbolPacks.1.theme>an Spioradachais</Structure_Animist.symbolPacks.1.theme>
+  <Structure_Animist.symbolPacks.1.theme>TODO</Structure_Animist.symbolPacks.1.theme>
   <!-- EN: temple -->
-  <Structure_Animist.worshipRoomLabel>teampall</Structure_Animist.worshipRoomLabel>
+  <Structure_Animist.worshipRoomLabel>TODO</Structure_Animist.worshipRoomLabel>
   
   <!-- EN: archist -->
-  <Structure_Archist.label>arcai-teicneoirí</Structure_Archist.label>
+  <Structure_Archist.label>TODO</Structure_Archist.label>
   <!-- EN: Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it. -->
-  <Structure_Archist.description>Is iad na harcai-teicneoirí déithe na cruinne, agus is muid a gcuid searbhóintí.</Structure_Archist.description>
+  <Structure_Archist.description>TODO</Structure_Archist.description>
   <!-- EN:
     <li>memeAdjective->archic</li>
     <li>memeAdjective->archotechnic</li>
@@ -61,44 +51,30 @@
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
   -->
-  <Structure_Archist.generalRules.rulesStrings>
-    <li>memeAdjective->archique</li>
-    <li>memeAdjective->archotechnique</li>
-    <li>memeAdjective->archonique</li>
-    <li>memeHyphenPrefix->archo</li>
-    <li>memeHyphenPrefix->arch</li>
-    <li>memeLeaderNoun->archiste</li>
-    <li>memeLeaderNoun->archotechnicien</li>
-    <li>memeLeaderAdjective->archique</li>
-    <li>memeLeaderAdjective->exochrome</li>
-    <li>memeMoralist->prêtre</li>
-    <li>memeMoralist->clerc</li>
-    <li>memeMoralist->recteur</li>
-    <li>memeMoralist->abbé</li>
- </Structure_Archist.generalRules.rulesStrings>
+  <Structure_Archist.generalRules.rulesStrings>TODO</Structure_Archist.generalRules.rulesStrings>
   <!-- EN: archotechnic -->
-  <Structure_Archist.symbolPacks.0.adjective>archotechnique</Structure_Archist.symbolPacks.0.adjective>
+  <Structure_Archist.symbolPacks.0.adjective>TODO</Structure_Archist.symbolPacks.0.adjective>
   <!-- EN: Archotechnics -->
-  <Structure_Archist.symbolPacks.0.ideoName>na hArcai-theicneolaíochta</Structure_Archist.symbolPacks.0.ideoName>
+  <Structure_Archist.symbolPacks.0.ideoName>TODO</Structure_Archist.symbolPacks.0.ideoName>
   <!-- EN: archotechnist -->
-  <Structure_Archist.symbolPacks.0.member>archotechnicien</Structure_Archist.symbolPacks.0.member>
+  <Structure_Archist.symbolPacks.0.member>TODO</Structure_Archist.symbolPacks.0.member>
   <!-- EN: archotechnology -->
-  <Structure_Archist.symbolPacks.0.theme>archotechnologie</Structure_Archist.symbolPacks.0.theme>
+  <Structure_Archist.symbolPacks.0.theme>TODO</Structure_Archist.symbolPacks.0.theme>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.adjective>archique</Structure_Archist.symbolPacks.1.adjective>
+  <Structure_Archist.symbolPacks.1.adjective>TODO</Structure_Archist.symbolPacks.1.adjective>
   <!-- EN: Archism -->
-  <Structure_Archist.symbolPacks.1.ideoName>na nArcaitheoirí</Structure_Archist.symbolPacks.1.ideoName>
+  <Structure_Archist.symbolPacks.1.ideoName>TODO</Structure_Archist.symbolPacks.1.ideoName>
   <!-- EN: archist -->
-  <Structure_Archist.symbolPacks.1.member>archiste</Structure_Archist.symbolPacks.1.member>
+  <Structure_Archist.symbolPacks.1.member>TODO</Structure_Archist.symbolPacks.1.member>
   <!-- EN: archism -->
-  <Structure_Archist.symbolPacks.1.theme>na nArcaitheoirí</Structure_Archist.symbolPacks.1.theme>
+  <Structure_Archist.symbolPacks.1.theme>TODO</Structure_Archist.symbolPacks.1.theme>
   <!-- EN: shrine -->
-  <Structure_Archist.worshipRoomLabel>tombeau</Structure_Archist.worshipRoomLabel>
+  <Structure_Archist.worshipRoomLabel>TODO</Structure_Archist.worshipRoomLabel>
   
   <!-- EN: ideological -->
-  <Structure_Ideological.label>idé-eolaíoch</Structure_Ideological.label>
+  <Structure_Ideological.label>TODO</Structure_Ideological.label>
   <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
-  <Structure_Ideological.description>Níl aon déithe ann. Tá freagraí mórálta an tsaoil le fáil sna struchtúir shóisialta a chruthaimid.</Structure_Ideological.description>
+  <Structure_Ideological.description>TODO</Structure_Ideological.description>
   <!-- EN:
     <li>memeHyphenPrefix->ideo</li>
     <li>memeLeaderNoun->mind</li>
@@ -115,53 +91,38 @@
     <li>memeMoralist->academic</li>
     <li>memeMoralist->sophist</li>
   -->
-  <Structure_Ideological.generalRules.rulesStrings>
-    <li>memeHyphenPrefix->idée</li>
-    <li>memeLeaderNoun->conseiller</li>
-    <li>memeLeaderNoun->décideur</li>
-    <li>memeLeaderNoun->chef</li>
-    <li>memeLeaderAdjective->éthique</li>
-    <li>memeLeaderAdjective->moral</li>
-    <li>memeLeaderAdjective->éveillé</li>
-    <li>memeMoralist->conseiller</li>
-    <li>memeMoralist->éthicien</li>
-    <li>memeMoralist->moraliste</li>
-    <li>memeMoralist->philosophe</li>
-    <li>memeMoralist->penseur</li>
-    <li>memeMoralist->académicien</li>
-    <li>memeMoralist->sophiste</li>
- </Structure_Ideological.generalRules.rulesStrings>
+  <Structure_Ideological.generalRules.rulesStrings>TODO</Structure_Ideological.generalRules.rulesStrings>
   <!-- EN: ethical -->
-  <Structure_Ideological.symbolPacks.0.adjective>éthique</Structure_Ideological.symbolPacks.0.adjective>
+  <Structure_Ideological.symbolPacks.0.adjective>TODO</Structure_Ideological.symbolPacks.0.adjective>
   <!-- EN: Ethics -->
-  <Structure_Ideological.symbolPacks.0.ideoName>an Mhoráltachais</Structure_Ideological.symbolPacks.0.ideoName>
+  <Structure_Ideological.symbolPacks.0.ideoName>TODO</Structure_Ideological.symbolPacks.0.ideoName>
   <!-- EN: ethicist -->
-  <Structure_Ideological.symbolPacks.0.member>moraliste</Structure_Ideological.symbolPacks.0.member>
+  <Structure_Ideological.symbolPacks.0.member>TODO</Structure_Ideological.symbolPacks.0.member>
   <!-- EN: ethics -->
-  <Structure_Ideological.symbolPacks.0.theme>éthique</Structure_Ideological.symbolPacks.0.theme>
+  <Structure_Ideological.symbolPacks.0.theme>TODO</Structure_Ideological.symbolPacks.0.theme>
   <!-- EN: ideological -->
-  <Structure_Ideological.symbolPacks.1.adjective>idéologique</Structure_Ideological.symbolPacks.1.adjective>
+  <Structure_Ideological.symbolPacks.1.adjective>TODO</Structure_Ideological.symbolPacks.1.adjective>
   <!-- EN: Ideology -->
-  <Structure_Ideological.symbolPacks.1.ideoName>na hIdé-eolaíochta</Structure_Ideological.symbolPacks.1.ideoName>
+  <Structure_Ideological.symbolPacks.1.ideoName>TODO</Structure_Ideological.symbolPacks.1.ideoName>
   <!-- EN: ideologist -->
-  <Structure_Ideological.symbolPacks.1.member>idéologue</Structure_Ideological.symbolPacks.1.member>
+  <Structure_Ideological.symbolPacks.1.member>TODO</Structure_Ideological.symbolPacks.1.member>
   <!-- EN: ideology -->
-  <Structure_Ideological.symbolPacks.1.theme>na hIdé-Eolaíochta</Structure_Ideological.symbolPacks.1.theme>
+  <Structure_Ideological.symbolPacks.1.theme>TODO</Structure_Ideological.symbolPacks.1.theme>
   <!-- EN: just -->
-  <Structure_Ideological.symbolPacks.2.adjective>juste</Structure_Ideological.symbolPacks.2.adjective>
+  <Structure_Ideological.symbolPacks.2.adjective>TODO</Structure_Ideological.symbolPacks.2.adjective>
   <!-- EN: Justice -->
-  <Structure_Ideological.symbolPacks.2.ideoName>an Cheartais</Structure_Ideological.symbolPacks.2.ideoName>
+  <Structure_Ideological.symbolPacks.2.ideoName>TODO</Structure_Ideological.symbolPacks.2.ideoName>
   <!-- EN: justicar -->
-  <Structure_Ideological.symbolPacks.2.member>justicier</Structure_Ideological.symbolPacks.2.member>
+  <Structure_Ideological.symbolPacks.2.member>TODO</Structure_Ideological.symbolPacks.2.member>
   <!-- EN: justice -->
-  <Structure_Ideological.symbolPacks.2.theme>justice</Structure_Ideological.symbolPacks.2.theme>
+  <Structure_Ideological.symbolPacks.2.theme>TODO</Structure_Ideological.symbolPacks.2.theme>
   <!-- EN: sanctuary -->
-  <Structure_Ideological.worshipRoomLabel>sanctuaire</Structure_Ideological.worshipRoomLabel>
+  <Structure_Ideological.worshipRoomLabel>TODO</Structure_Ideological.worshipRoomLabel>
   
   <!-- EN: abstract theist -->
-  <Structure_TheistAbstract.label>diachaithe teibí</Structure_TheistAbstract.label>
+  <Structure_TheistAbstract.label>TODO</Structure_TheistAbstract.label>
   <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
-  <Structure_TheistAbstract.description>Níl aon fhoirm fisiciúil ag na déithe, ach tá siad timpeall orainn an t-am ar fad. Tá siad uilechumhachtach, agus is siadsan a leagann síos struchtúr mórálta na cruinne.</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.description>TODO</Structure_TheistAbstract.description>
   <!-- EN:
     <li>memeCreed->temple</li>
     <li>memeCreed->sect</li>
@@ -183,66 +144,46 @@
     <li>memeMoralist->rector</li>
     <li>memeMoralist->abbot</li>
   -->
-  <Structure_TheistAbstract.generalRules.rulesStrings>
-    <li>memeCreed->teampall</li>
-    <li>memeCreed->seict</li>
-    <li>memeCreed->cultas</li>
-    <li>memeCreed->creideamh</li>
-    <li>memeHyphenPrefix->théo</li>
-    <li>memeConcept->la création</li>
-    <li>memeConcept->la vie</li>
-    <li>memeLeaderNoun->évêque</li>
-    <li>memeLeaderNoun->cardinal</li>
-    <li>memeLeaderNoun->pape</li>
-    <li>memeLeaderNoun->divus</li>
-    <li>memeLeaderAdjective->divinité</li>
-    <li>memeLeaderAdjective->divin</li>
-    <li>memeMoralist->prêtre</li>
-    <li>memeMoralist->pasteur</li>
-    <li>memeMoralist->clerc</li>
-    <li>memeMoralist->précheur</li>
-    <li>memeMoralist->recteur</li>
-    <li>memeMoralist->abbé</li>
- </Structure_TheistAbstract.generalRules.rulesStrings>
+  <Structure_TheistAbstract.generalRules.rulesStrings>TODO</Structure_TheistAbstract.generalRules.rulesStrings>
   <!-- EN: spiritual -->
-  <Structure_TheistAbstract.symbolPacks.0.adjective>spirituel</Structure_TheistAbstract.symbolPacks.0.adjective>
+  <Structure_TheistAbstract.symbolPacks.0.adjective>TODO</Structure_TheistAbstract.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
-  <Structure_TheistAbstract.symbolPacks.0.ideoName>an Spiorad</Structure_TheistAbstract.symbolPacks.0.ideoName>
+  <Structure_TheistAbstract.symbolPacks.0.ideoName>TODO</Structure_TheistAbstract.symbolPacks.0.ideoName>
   <!-- EN: spiritist -->
-  <Structure_TheistAbstract.symbolPacks.0.member>spiritiste</Structure_TheistAbstract.symbolPacks.0.member>
+  <Structure_TheistAbstract.symbolPacks.0.member>TODO</Structure_TheistAbstract.symbolPacks.0.member>
   <!-- EN: spiritualism -->
-  <Structure_TheistAbstract.symbolPacks.0.theme>spiritualité</Structure_TheistAbstract.symbolPacks.0.theme>
+  <Structure_TheistAbstract.symbolPacks.0.theme>TODO</Structure_TheistAbstract.symbolPacks.0.theme>
   <!-- EN: faithful -->
-  <Structure_TheistAbstract.symbolPacks.1.adjective>fidèle</Structure_TheistAbstract.symbolPacks.1.adjective>
+  <Structure_TheistAbstract.symbolPacks.1.adjective>TODO</Structure_TheistAbstract.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistAbstract.symbolPacks.1.ideoName>an Chreidimh</Structure_TheistAbstract.symbolPacks.1.ideoName>
+  <Structure_TheistAbstract.symbolPacks.1.ideoName>TODO</Structure_TheistAbstract.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
-  <Structure_TheistAbstract.symbolPacks.1.member>fidèle</Structure_TheistAbstract.symbolPacks.1.member>
+  <Structure_TheistAbstract.symbolPacks.1.member>TODO</Structure_TheistAbstract.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistAbstract.symbolPacks.1.theme>an Chreidimh</Structure_TheistAbstract.symbolPacks.1.theme>
+  <Structure_TheistAbstract.symbolPacks.1.theme>TODO</Structure_TheistAbstract.symbolPacks.1.theme>
   <!-- EN: divinist -->
-  <Structure_TheistAbstract.symbolPacks.2.adjective>divin</Structure_TheistAbstract.symbolPacks.2.adjective>
+  <Structure_TheistAbstract.symbolPacks.2.adjective>TODO</Structure_TheistAbstract.symbolPacks.2.adjective>
   <!-- EN: Divinism -->
-  <Structure_TheistAbstract.symbolPacks.2.ideoName>Dé</Structure_TheistAbstract.symbolPacks.2.ideoName>
+  <Structure_TheistAbstract.symbolPacks.2.ideoName>TODO</Structure_TheistAbstract.symbolPacks.2.ideoName>
   <!-- EN: divinist -->
-  <Structure_TheistAbstract.symbolPacks.2.member>diviniste</Structure_TheistAbstract.symbolPacks.2.member>
+  <Structure_TheistAbstract.symbolPacks.2.member>TODO</Structure_TheistAbstract.symbolPacks.2.member>
   <!-- EN: divinity -->
-  <Structure_TheistAbstract.symbolPacks.2.theme>divinité</Structure_TheistAbstract.symbolPacks.2.theme>
+  <Structure_TheistAbstract.symbolPacks.2.theme>TODO</Structure_TheistAbstract.symbolPacks.2.theme>
   <!-- EN: holyist -->
-  <Structure_TheistAbstract.symbolPacks.3.adjective>holistique</Structure_TheistAbstract.symbolPacks.3.adjective>
+  <Structure_TheistAbstract.symbolPacks.3.adjective>TODO</Structure_TheistAbstract.symbolPacks.3.adjective>
   <!-- EN: Holyism -->
-  <Structure_TheistAbstract.symbolPacks.3.ideoName>na Naofachta</Structure_TheistAbstract.symbolPacks.3.ideoName>
+  <Structure_TheistAbstract.symbolPacks.3.ideoName>TODO</Structure_TheistAbstract.symbolPacks.3.ideoName>
   <!-- EN: holyist -->
-  <Structure_TheistAbstract.symbolPacks.3.member>holyiste</Structure_TheistAbstract.symbolPacks.3.member>
+  <Structure_TheistAbstract.symbolPacks.3.member>TODO</Structure_TheistAbstract.symbolPacks.3.member>
   <!-- EN: holiness -->
-  <Structure_TheistAbstract.symbolPacks.3.theme>sainteté</Structure_TheistAbstract.symbolPacks.3.theme>
+  <Structure_TheistAbstract.symbolPacks.3.theme>TODO</Structure_TheistAbstract.symbolPacks.3.theme>
   <!-- EN: temple -->
-  <Structure_TheistAbstract.worshipRoomLabel>temple</Structure_TheistAbstract.worshipRoomLabel>
+  <Structure_TheistAbstract.worshipRoomLabel>TODO</Structure_TheistAbstract.worshipRoomLabel>
   
   <!-- EN: embodied theist -->
-  <Structure_TheistEmbodied.label>diachaithe corpraithe</Structure_TheistEmbodied.label>
+  <Structure_TheistEmbodied.label>TODO</Structure_TheistEmbodied.label>
   <!-- EN: The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe. -->
-  <Structure_TheistEmbodied.description>Siúlann na déithe inár measc, ach tá siad uilechumhachtach agus neamhbhásmhar. Is iadsan a leagann síos struchtúr mórálta na cruinne.</Structure_TheistEmbodied.description>
+  <Structure_TheistEmbodied.description>TODO</Structure_TheistEmbodied.description>
   <!-- EN:
     <li>memeCreed->sect</li>
     <li>memeCreed->cult</li>
@@ -256,36 +197,24 @@
     <li>memeMoralist->priest</li>
     <li>memeMoralist->cleric</li>
   -->
-  <Structure_TheistEmbodied.generalRules.rulesStrings>
-    <li>memeCreed->seict</li>
-    <li>memeCreed->cultas</li>
-    <li>memeCreed->teampall</li>
-    <li>memeCreed->creideamh</li>
-    <li>memeHyphenPrefix->théo</li>
-    <li>memeConcept->la création</li>
-    <li>memeConcept->la vie</li>
-    <li>memeLeaderNoun->templier</li>
-    <li>memeLeaderAdjective->divin</li>
-    <li>memeMoralist->prêtre</li>
-    <li>memeMoralist->clerc</li>
- </Structure_TheistEmbodied.generalRules.rulesStrings>
+  <Structure_TheistEmbodied.generalRules.rulesStrings>TODO</Structure_TheistEmbodied.generalRules.rulesStrings>
   <!-- EN: spiritual -->
-  <Structure_TheistEmbodied.symbolPacks.0.adjective>spirituel</Structure_TheistEmbodied.symbolPacks.0.adjective>
+  <Structure_TheistEmbodied.symbolPacks.0.adjective>TODO</Structure_TheistEmbodied.symbolPacks.0.adjective>
   <!-- EN: Spiritism -->
-  <Structure_TheistEmbodied.symbolPacks.0.ideoName>an Spioradachais</Structure_TheistEmbodied.symbolPacks.0.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.0.ideoName>TODO</Structure_TheistEmbodied.symbolPacks.0.ideoName>
   <!-- EN: spiritist -->
-  <Structure_TheistEmbodied.symbolPacks.0.member>spiritiste</Structure_TheistEmbodied.symbolPacks.0.member>
+  <Structure_TheistEmbodied.symbolPacks.0.member>TODO</Structure_TheistEmbodied.symbolPacks.0.member>
   <!-- EN: spiritualism -->
-  <Structure_TheistEmbodied.symbolPacks.0.theme>spiritualité</Structure_TheistEmbodied.symbolPacks.0.theme>
+  <Structure_TheistEmbodied.symbolPacks.0.theme>TODO</Structure_TheistEmbodied.symbolPacks.0.theme>
   <!-- EN: faithful -->
-  <Structure_TheistEmbodied.symbolPacks.1.adjective>fidèle</Structure_TheistEmbodied.symbolPacks.1.adjective>
+  <Structure_TheistEmbodied.symbolPacks.1.adjective>TODO</Structure_TheistEmbodied.symbolPacks.1.adjective>
   <!-- EN: Faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.ideoName>na Muiníne</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+  <Structure_TheistEmbodied.symbolPacks.1.ideoName>TODO</Structure_TheistEmbodied.symbolPacks.1.ideoName>
   <!-- EN: faithholder -->
-  <Structure_TheistEmbodied.symbolPacks.1.member>fidèle</Structure_TheistEmbodied.symbolPacks.1.member>
+  <Structure_TheistEmbodied.symbolPacks.1.member>TODO</Structure_TheistEmbodied.symbolPacks.1.member>
   <!-- EN: faith -->
-  <Structure_TheistEmbodied.symbolPacks.1.theme>an Chreidimh</Structure_TheistEmbodied.symbolPacks.1.theme>
+  <Structure_TheistEmbodied.symbolPacks.1.theme>TODO</Structure_TheistEmbodied.symbolPacks.1.theme>
   <!-- EN: pantheon -->
-  <Structure_TheistEmbodied.worshipRoomLabel>panthéon</Structure_TheistEmbodied.worshipRoomLabel>
+  <Structure_TheistEmbodied.worshipRoomLabel>TODO</Structure_TheistEmbodied.worshipRoomLabel>
   
 </LanguageData>

@@ -22,7 +22,7 @@
     <li>died(SUBJECT_flesh==Mechanoid)->Stop</li>
     <li>died(SUBJECT_flesh==Mechanoid)->Múchadh</li>
     <li>died(SUBJECT_flesh==Mechanoid)->Theip ar</li>
- </Transition_Died.rulePack.rulesStrings>
+  </Transition_Died.rulePack.rulesStrings>
   
   <!-- EN:
     <li>die(p=3)->explode [flavor]</li>
@@ -71,24 +71,21 @@
     <li>pieces->píosaí</li>
     <li>everywhere->i ngach áit</li>
     <li>everywhere->ar fud na háite</li>
- </Transition_DiedExplosive.rulePack.rulesStrings>
+  </Transition_DiedExplosive.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_label] to [die].</li>
-    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_label] to [die].</li>
-    <li>r_logentry->[SUBJECT_label] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
-    <li>r_logentry->[SUBJECT_label] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
-    <li>r_logentry->[SUBJECT_label] [died].</li>
-    <li>r_logentry->[SUBJECT_label] [died] [flavorsuffix].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [die].</li>
+    <li>r_logentry(p=1.5)->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [die].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNoun] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [duetoa] [CULPRITHEDIFF_labelNounPretty] [flavorsuffix].</li>
+    <li>r_logentry->[SUBJECT_definite] [died].</li>
+    <li>r_logentry->[SUBJECT_definite] [died] [flavorsuffix].</li>
   -->
   <Transition_DiedInclude.rulePack.rulesStrings>
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>SUBJECT->[SUBJECT_label]</li>
-
     <li>SUBJECT_genitive->{lookup: [SUBJECT_label]; decline_logs; 1}</li>
-
     <li>SUBJECT_nominative_definite->{lookup: [SUBJECT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
     <li>r_logentry(p=1.5)->Mharaigh [CULPRITHEDIFF_labelNoun] [SUBJECT_label].</li>
     <li>r_logentry->Maraíodh [SUBJECT_nominative_definite].</li>
@@ -97,16 +94,16 @@
     <li>r_logentry->Cailleadh [SUBJECT_nominative_definite].</li>
     <li>r_logentry->[Died] [SUBJECT_nominative_definite].</li>
     <li>r_logentry->[Died] [SUBJECT_nominative_definite] [flavorsuffix].</li>
- </Transition_DiedInclude.rulePack.rulesStrings>
+  </Transition_DiedInclude.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_label] to [collapsemeta].</li>
-    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_label] to [collapsemeta].</li>
-    <li>r_logentry->[CULPRITHEDIFF_labelNoun] made [SUBJECT_label] [collapsemeta].</li>
-    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] made [SUBJECT_label] [collapsemeta].</li>
-    <li>r_logentry->[SUBJECT_label] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
-    <li>r_logentry->[SUBJECT_label] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
-    <li>r_logentry(p=0.1)->[SUBJECT_label] [collapsedmeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] caused [SUBJECT_definite] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] caused [SUBJECT_definite] to [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNoun] made [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[CULPRITHEDIFF_labelNounPretty] made [SUBJECT_definite] [collapsemeta].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNoun].</li>
+    <li>r_logentry->[SUBJECT_definite] [collapsedmeta] [duetoa] [CULPRITHEDIFF_labelNounPretty].</li>
+    <li>r_logentry(p=0.1)->[SUBJECT_definite] [collapsedmeta].</li>
     <li>collapse->collapse</li>
     <li>collapse->drop</li>
     <li>collapse(SUBJECT_flesh!=Mechanoid)->crumple</li>
@@ -132,15 +129,12 @@
   <Transition_Downed.rulePack.rulesStrings>
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>SUBJECT->[SUBJECT_label]</li>
-
     <li>SUBJECT_genitive->{lookup: [SUBJECT_label]; decline_logs; 1}</li>
-
     <li>SUBJECT_nominative_definite->{lookup: [SUBJECT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
     <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_nominative_definite].</li>
     <li>r_logentry->Leag [CULPRITHEDIFF_labelNoun] [SUBJECT_nominative_definite] amach.</li>
- </Transition_Downed.rulePack.rulesStrings>
+  </Transition_Downed.rulePack.rulesStrings>
   
   <!-- EN:
     <li>duetoa->due to</li>
@@ -151,6 +145,6 @@
     <li>duetoa->due to</li>
     <li>duetoa(p=0.5)->because of</li>
     <li>duetoa(p=0.5)->thanks to</li>
- </Transition_Include.rulePack.rulesStrings>
+  </Transition_Include.rulePack.rulesStrings>
   
 </LanguageData>

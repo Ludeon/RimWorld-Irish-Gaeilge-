@@ -2,171 +2,173 @@
 <LanguageData>
 
   <!-- EN: Not a mechanitor -->
-  <NotAMechanitor>Not a mechanitor</NotAMechanitor>
+  <NotAMechanitor>TODO</NotAMechanitor>
   <!-- EN: Not enough bandwidth -->
-  <NotEnoughBandwidth>Not enough bandwidth</NotEnoughBandwidth>
+  <NotEnoughBandwidth>TODO</NotEnoughBandwidth>
   <!-- EN: Take control of {0} -->
-  <ControlMech>Take control of {0}</ControlMech>
+  <ControlMech>TODO</ControlMech>
   <!-- EN: Cannot control {0} -->
-  <CannotControlMech>Cannot control {0}</CannotControlMech>
+  <CannotControlMech>TODO</CannotControlMech>
   <!-- EN: Already controlled by {0} -->
-  <CannotControlMechAlreadyControlled>Already controlled by {0}</CannotControlMechAlreadyControlled>
+  <CannotControlMechAlreadyControlled>TODO</CannotControlMechAlreadyControlled>
   <!-- EN: Not enough bandwidth -->
-  <CannotControlMechNotEnoughBandwidth>Not enough bandwidth</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNotEnoughBandwidth>TODO</CannotControlMechNotEnoughBandwidth>
   <!-- EN: Never controllable -->
-  <CannotControlMechNeverControllable>Never controllable</CannotControlMechNeverControllable>
+  <CannotControlMechNeverControllable>TODO</CannotControlMechNeverControllable>
   <!-- EN: Cannot disconnect from {0} -->
-  <CannotDisconnectMech>Cannot disconnect from {0}</CannotDisconnectMech>
+  <CannotDisconnectMech>TODO</CannotDisconnectMech>
   <!-- EN: Disconnect from {0} -->
-  <DisconnectMech>Disconnect from {0}</DisconnectMech>
+  <DisconnectMech>TODO</DisconnectMech>
   <!-- EN: Permanently disassemble {0} -->
-  <DisassembleMech>Permanently disassemble {0}</DisassembleMech>
+  <DisassembleMech>TODO</DisassembleMech>
   <!-- EN: Cannot permanently disassemble {0} -->
-  <CannotDisassembleMech>Cannot permanently disassemble {0}</CannotDisassembleMech>
+  <CannotDisassembleMech>TODO</CannotDisassembleMech>
   <!-- EN: Must be overseer -->
-  <MustBeOverseer>Must be overseer</MustBeOverseer>
+  <MustBeOverseer>TODO</MustBeOverseer>
   <!-- EN: Extract -->
-  <Extract>Extract</Extract>
+  <Extract>TODO</Extract>
   <!-- EN: Out of command range -->
-  <OutOfCommandRange>Out of command range</OutOfCommandRange>
+  <OutOfCommandRange>TODO</OutOfCommandRange>
   <!-- EN: Cannot go here -->
-  <CannotGoOutOfRange>Cannot go here</CannotGoOutOfRange>
+  <CannotGoOutOfRange>TODO</CannotGoOutOfRange>
   <!-- EN: Must be emptied -->
-  <WasteContainerFull>Must be emptied</WasteContainerFull>
+  <WasteContainerFull>TODO</WasteContainerFull>
   <!-- EN: Cannot repair mech {0} -->
-  <CannotRepairMech>Cannot repair mech {0}</CannotRepairMech>
+  <CannotRepairMech>TODO</CannotRepairMech>
 
   <!-- EN: Extract xenogerm from {PAWN_nameDef} -->
-  <ExtractXenogermFrom>Extract xenogerm from {PAWN_nameDef}</ExtractXenogermFrom>
+  <ExtractXenogermFrom>TODO</ExtractXenogermFrom>
   <!-- EN: Enter {0_labelShort} -->
-  <EnterBuilding>Enter {0_labelShort}</EnterBuilding>
+  <EnterBuilding>TODO</EnterBuilding>
   <!-- EN: {PAWN_nameDef} has no genes -->
-  <PawnHasNoGenes>{PAWN_nameDef} has no genes</PawnHasNoGenes>
+  <PawnHasNoGenes>TODO</PawnHasNoGenes>
   <!-- EN: {PAWN_nameDef} has no extractable genes. -->
-  <PawnHasNoNonArchiteGenes>{PAWN_nameDef} has no extractable genes.</PawnHasNoNonArchiteGenes>
+  <PawnHasNoNonArchiteGenes>TODO</PawnHasNoNonArchiteGenes>
   <!-- EN: In xenogermination coma -->
-  <InXenogerminationComa>In xenogermination coma</InXenogerminationComa>
+  <InXenogerminationComa>TODO</InXenogerminationComa>
   <!-- EN: Occupied -->
-  <Occupied>Occupied</Occupied>
+  <Occupied>TODO</Occupied>
   <!-- EN: {PAWN_nameDef} was ejected from a growth vat -->
-  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} was ejected from a growth vat</OccupantEjectedFromGrowthVat>
+  <OccupantEjectedFromGrowthVat>TODO</OccupantEjectedFromGrowthVat>
   <!-- EN: {PAWN_nameDef} must be younger than {AGEYEARS} years old. -->
-  <TooOld>{PAWN_nameDef} must be younger than {AGEYEARS} years old.</TooOld>
+  <TooOld>TODO</TooOld>
   <!-- EN: {PAWN_nameDef} is too old. -->
-  <PawnIsTooOld>{PAWN_nameDef} is too old.</PawnIsTooOld>
+  <PawnIsTooOld>TODO</PawnIsTooOld>
   <!-- EN: {PAWN_nameDef} is suffering from biostarvation. -->
-  <PawnBiostarving>{PAWN_nameDef} is suffering from biostarvation.</PawnBiostarving>
+  <PawnBiostarving>TODO</PawnBiostarving>
   <!-- EN: No available people -->
-  <NoViablePawns>No available people</NoViablePawns>
+  <NoViablePawns>TODO</NoViablePawns>
   <!-- EN: No extractable people -->
-  <NoExtractablePawns>No extractable people</NoExtractablePawns>
+  <NoExtractablePawns>TODO</NoExtractablePawns>
   <!-- EN: No implantable people -->
-  <NoImplantablePawns>No implantable people</NoImplantablePawns>
+  <NoImplantablePawns>TODO</NoImplantablePawns>
   <!-- EN: Cannot enter {0_labelShort} -->
-  <CannotEnterBuilding>Cannot enter {0_labelShort}</CannotEnterBuilding>
+  <CannotEnterBuilding>TODO</CannotEnterBuilding>
   <!-- EN: {0_labelShort} is assigned to another person. -->
-  <AssignedToOtherPawn>{0_labelShort} is assigned to another person.</AssignedToOtherPawn>
+  <AssignedToOtherPawn>TODO</AssignedToOtherPawn>
 
   <!-- EN: Absorb xenogerm of {PAWN_nameDef} -->
-  <AbsorbXenogerm>Absorb xenogerm of {PAWN_nameDef}</AbsorbXenogerm>
+  <AbsorbXenogerm>TODO</AbsorbXenogerm>
   <!-- EN: Cannot absorb {PAWN_nameDef}'s xenogerm -->
-  <CannotAbsorbXenogerm>Cannot absorb {PAWN_nameDef}'s xenogerm</CannotAbsorbXenogerm>
+  <CannotAbsorbXenogerm>TODO</CannotAbsorbXenogerm>
   <!-- EN: {PAWN_nameDef} is already {PAWN_xenotype} -->
-  <SameXenotype>{PAWN_nameDef} is already {PAWN_xenotype}</SameXenotype>
+  <SameXenotype>TODO</SameXenotype>
   <!-- EN: {PAWN_nameDef} suffering from xenogerm loss shock -->
-  <XenogermLossShockPresent>{PAWN_nameDef} suffering from xenogerm loss shock</XenogermLossShockPresent>
+  <XenogermLossShockPresent>TODO</XenogermLossShockPresent>
   <!-- EN: Carry to {0_labelShort} -->
-  <CarryToSpecificThing>Carry to {0_labelShort}</CarryToSpecificThing>
+  <CarryToSpecificThing>TODO</CarryToSpecificThing>
   <!-- EN: No reachable, un-reserved bed or deathrest casket in safe temperature. -->
-  <NoCasketOrBed>No reachable, un-reserved bed or deathrest casket in safe temperature.</NoCasketOrBed>
+  <NoCasketOrBed>TODO</NoCasketOrBed>
   <!-- EN: {PAWN_nameDef} is a temporary faction member. -->
-  <TemporaryFactionMember>{PAWN_nameDef} is a temporary faction member.</TemporaryFactionMember>
+  <TemporaryFactionMember>TODO</TemporaryFactionMember>
 
   <!-- EN: Scanner not initiated -->
-  <SubcoreScannerNotInit>Scanner not initiated</SubcoreScannerNotInit>
+  <SubcoreScannerNotInit>TODO</SubcoreScannerNotInit>
   <!-- EN: Waiting for ingredients -->
-  <SubcoreScannerRequiresIngredients>Waiting for ingredients</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerRequiresIngredients>TODO</SubcoreScannerRequiresIngredients>
   <!-- EN: Occupied -->
-  <SubcoreScannerOccupied>Occupied</SubcoreScannerOccupied>
+  <SubcoreScannerOccupied>TODO</SubcoreScannerOccupied>
   <!-- EN: Enter {0} -->
-  <EnterSubcoreScanner>Enter {0}</EnterSubcoreScanner>
+  <EnterSubcoreScanner>TODO</EnterSubcoreScanner>
 
   <!-- EN: Breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeed>Breastfeed {BABY_labelShort}</BabyCareBreastfeed>
+  <BabyCareBreastfeed>TODO</BabyCareBreastfeed>
   <!-- EN: Cannot breastfeed {BABY_labelShort} -->
-  <BabyCareBreastfeedUnable>Cannot breastfeed {BABY_labelShort}</BabyCareBreastfeedUnable>
+  <BabyCareBreastfeedUnable>TODO</BabyCareBreastfeedUnable>
+  <!-- EN: Already breastfeeding {BABY_labelShort} -->
+  <AlreadyBreastfeeding>TODO</AlreadyBreastfeeding>
   <!-- EN: No baby-edible food -->
-  <NoBabyFood>No baby-edible food</NoBabyFood>
+  <NoBabyFood>TODO</NoBabyFood>
 
   <!-- EN: play need full -->
-  <CannotInteractBabyPlayFull>play need full</CannotInteractBabyPlayFull>
+  <CannotInteractBabyPlayFull>TODO</CannotInteractBabyPlayFull>
 
   <!-- EN: Feed on {PAWN_nameDef} -->
-  <BloodfeedOn>Feed on {PAWN_nameDef}</BloodfeedOn>
+  <BloodfeedOn>TODO</BloodfeedOn>
   <!-- EN: Cannot feed on {PAWN_nameDef} -->
-  <CannotBloodfeedOn>Cannot feed on {PAWN_nameDef}</CannotBloodfeedOn>
+  <CannotBloodfeedOn>TODO</CannotBloodfeedOn>
   <!-- EN: Not enough blood. -->
-  <CannotFeedOnWouldKill>Not enough blood.</CannotFeedOnWouldKill>
+  <CannotFeedOnWouldKill>TODO</CannotFeedOnWouldKill>
 
   <!-- BreastfeedFailReason strings-->
   <!-- EN: {MOM_labelShort} does not have enough milk -->
-  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} does not have enough milk</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomNotEnoughMilk>TODO</BreastfeedFailReason_MomNotEnoughMilk>
   <!-- EN: {MOM_labelShort} cannot breastfeed right now -->
-  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} cannot breastfeed right now</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_MomInMentalState>TODO</BreastfeedFailReason_MomInMentalState>
   <!-- EN: {BABY_labelShort} is too full to suckle -->
-  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} is too full to suckle</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyTooFull>TODO</BreastfeedFailReason_BabyTooFull>
   <!-- EN: {BABY_labelShort} is forbidden to {MOM_labelShort} -->
-  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} is forbidden to {MOM_labelShort}</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToMom>TODO</BreastfeedFailReason_BabyForbiddenToMom>
   <!-- EN: {BABY_labelShort} is forbidden to {HAULER_labelShort} -->
-  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_BabyForbiddenToHauler>TODO</BreastfeedFailReason_BabyForbiddenToHauler>
   <!-- EN: {MOM_labelShort} is forbidden to {HAULER_labelShort} -->
-  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} is forbidden to {HAULER_labelShort}</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>TODO</BreastfeedFailReason_MomForbiddenToHauler>
   <!-- EN: {MOM_labelShort} can breastfeed {BABY_labelShort} without help -->
-  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} can breastfeed {BABY_labelShort} without help</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_MomIsMobile>TODO</BreastfeedFailReason_MomIsMobile>
   <!-- EN: {HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort} -->
-  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} cannot go from {BABY_labelShort} to {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachMom>TODO</BreastfeedFailReason_HaulerCannotReachMom>
   <!-- EN: {HAULER_labelShort} cannot reach {BABY_labelShort} -->
-  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} cannot reach {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_HaulerCannotReachBaby>TODO</BreastfeedFailReason_HaulerCannotReachBaby>
   <!-- EN: No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort} -->
-  <BreastfeedFailReason_NoMomsAssignedToBaby>No lactating {BABY_factionPawnsPlural} are assigned to {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>TODO</BreastfeedFailReason_NoMomsAssignedToBaby>
   <!-- EN: {MOM_labelShort} is not assigned to childcare -->
-  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} is not assigned to childcare</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>TODO</BreastfeedFailReason_MomNotAssignedToChildcare>
   <!-- EN: {MOM_labelShort} is inside a container -->
-  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} is inside a container</BreastfeedFailReason_MomInsideContainer>
+  <BreastfeedFailReason_MomInsideContainer>TODO</BreastfeedFailReason_MomInsideContainer>
   <!-- EN: {MOM_labelShort} is being carried -->
-  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} is being carried</BreastfeedFailReason_MomBeingCarried>
+  <BreastfeedFailReason_MomBeingCarried>TODO</BreastfeedFailReason_MomBeingCarried>
 
   <!-- EN: Order implantation into {PAWN_nameDef} -->
-  <OrderImplantationIntoPawn>Order implantation into {PAWN_nameDef}</OrderImplantationIntoPawn>
+  <OrderImplantationIntoPawn>TODO</OrderImplantationIntoPawn>
   <!-- EN: Accept {0_xenotype} xenogerm -->
-  <AcceptXenogerm>Accept {0_xenotype} xenogerm</AcceptXenogerm>
+  <AcceptXenogerm>TODO</AcceptXenogerm>
 
   <!-- EN: Carry {PAWN_labelShort} to recharger -->
-  <CarryToRechargerOrdered>Carry {PAWN_labelShort} to recharger</CarryToRechargerOrdered>
+  <CarryToRechargerOrdered>TODO</CarryToRechargerOrdered>
   <!-- EN: Cannot carry {PAWN_labelShort} to recharger -->
-  <CannotCarryToRecharger>Cannot carry {PAWN_labelShort} to recharger</CannotCarryToRecharger>
+  <CannotCarryToRecharger>TODO</CannotCarryToRecharger>
   <!-- EN: No available recharger -->
-  <CannotCarryToRechargerNoneAvailable>No available recharger</CannotCarryToRechargerNoneAvailable>
+  <CannotCarryToRechargerNoneAvailable>TODO</CannotCarryToRechargerNoneAvailable>
 
   <!-- EN: Hemogen packs disabled by food restriction. -->
-  <NotAllowedHemogen>Hemogen packs disabled by food restriction.</NotAllowedHemogen>
+  <NotAllowedHemogen>TODO</NotAllowedHemogen>
 
   <!-- EN: Eject genepack from gene bank -->
-  <EjectGenepackFromGeneBank>Eject genepack from gene bank</EjectGenepackFromGeneBank>
+  <EjectGenepackFromGeneBank>TODO</EjectGenepackFromGeneBank>
 
   <!-- EN: Resulting metabolism would be too low -->
-  <ResultingMetTooLow>Resulting metabolism would be too low</ResultingMetTooLow>
+  <ResultingMetTooLow>TODO</ResultingMetTooLow>
 
   <!-- EN: attempted romance too recently -->
-  <RomanceOnCooldown>attempted romance too recently</RomanceOnCooldown>
+  <RomanceOnCooldown>TODO</RomanceOnCooldown>
 
   <!-- EN: Take to safe location -->
   <CarryToSafePlace>TODO</CarryToSafePlace>
   <!-- EN: Cannot take to safe location -->
   <CannotCarryToSafePlace>TODO</CannotCarryToSafePlace>
-
-  <!-- UNUSED -->
-  <CannotStudy>Cannot study</CannotStudy>
-  <AlreadyStudied>already studied</AlreadyStudied>
+  <!-- EN: No safer location than current location -->
+  <NoBetterSafePlace>TODO</NoBetterSafePlace>
+  <!-- EN: Already taking to safe location -->
+  <AlreadyCarryingToSafePlace>TODO</AlreadyCarryingToSafePlace>
 
 </LanguageData>

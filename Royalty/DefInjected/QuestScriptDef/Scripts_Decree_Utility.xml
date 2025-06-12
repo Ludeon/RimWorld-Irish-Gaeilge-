@@ -8,7 +8,7 @@
   <DecreeSetup.questDescriptionRules.rulesStrings>
     <li>decreeIntro->[asker_nameDef], votre [asker_bestRoyalTitle], a émis un arrêté royal.</li>
     <li>decreeThreatInfo->Si vous ne respectez pas ce décret dans les [decreeDays] jours, [asker_nameDef] commencera à être mécontent. Sa colère augmentera avec le temps jusqu'à ce que le décret soit satisfait.</li>
- </DecreeSetup.questDescriptionRules.rulesStrings>
+  </DecreeSetup.questDescriptionRules.rulesStrings>
   <!-- EN: [asker_nameDef]'s decree forgotten -->
   <DecreeSetup.LetterLabelDecreeForgotten.slateRef>Le décret oublié de [asker_nameDef]</DecreeSetup.LetterLabelDecreeForgotten.slateRef>
   <!-- EN: [asker_nameDef] has forgotten about [asker_possessive] decree. -->

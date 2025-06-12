@@ -15,5 +15,7 @@
   <ExtremeDesert.label>fásach deargthe</ExtremeDesert.label>
   <!-- EN: An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here. -->
   <ExtremeDesert.description>Fásach deargthe, nach maireann rud ar bith ann. Tá sé an-deacair maireachtáil anseo de bharr teas marfach agus easpa talamh maith curaíochta.</ExtremeDesert.description>
+  <!-- EN: Searing heat and a near total lack of arable land make survival here a challenge. -->
+  <ExtremeDesert.settleWarning>Tá sé thar a bheith deacair maireachtáil anseo mar gheall ar an teas ard agus easpa ithreach.</ExtremeDesert.settleWarning>
   
 </LanguageData>

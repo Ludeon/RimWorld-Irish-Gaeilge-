@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
-  <!-- NOTE: "".gerund" lines in this file are linked to the replacer in FloatMenu.xml. If any text is changed here, the replacer in "PrioritizeGeneric" in FloatMenu.xml will have to be updated accordingly to match.  -->
-
+  
   <!-- EN: release prisoners -->
   <BasicReleasePrisoner.label>scaoil saor príosúnaigh</BasicReleasePrisoner.label>
   <!-- EN: releasing -->
@@ -66,6 +64,13 @@
   <!-- EN: remove floor -->
   <ConstructRemoveFloors.verb>urlár a bhaint</ConstructRemoveFloors.verb>
   
+  <!-- EN: remove bridges -->
+  <ConstructRemoveFoundations.label>TODO</ConstructRemoveFoundations.label>
+  <!-- EN: removing bridge -->
+  <ConstructRemoveFoundations.gerund>TODO</ConstructRemoveFoundations.gerund>
+  <!-- EN: remove bridge -->
+  <ConstructRemoveFoundations.verb>TODO</ConstructRemoveFoundations.verb>
+  
   <!-- EN: smooth floors -->
   <ConstructSmoothFloors.label>líomh urlár</ConstructSmoothFloors.label>
   <!-- EN: smoothing -->
@@ -94,6 +99,13 @@
   <!-- EN: deconstruct -->
   <Deconstruct.verb>a scriosadh</Deconstruct.verb>
   
+  <!-- EN: deconstruct structures for blueprints -->
+  <DeconstructForBlueprint.label>TODO</DeconstructForBlueprint.label>
+  <!-- EN: deconstructing -->
+  <DeconstructForBlueprint.gerund>TODO</DeconstructForBlueprint.gerund>
+  <!-- EN: deconstruct -->
+  <DeconstructForBlueprint.verb>TODO</DeconstructForBlueprint.verb>
+  
   <!-- EN: deliver food to prisoners -->
   <DeliverFoodToPrisoner.label>tabhair bia do phríosúnaigh</DeliverFoodToPrisoner.label>
   <!-- EN: delivering food for -->
@@ -119,42 +131,42 @@
   <DoBillsBrew.label>déan alcól</DoBillsBrew.label>
   <!-- EN: brewing at -->
   <DoBillsBrew.gerund>ag déanamh</DoBillsBrew.gerund>
-  <!-- EN: brew -->
+  <!-- EN: brew at -->
   <DoBillsBrew.verb>a dhéanamh</DoBillsBrew.verb>
   
   <!-- EN: butcher creatures -->
   <DoBillsButcherFlesh.label>déan búistéireacht</DoBillsButcherFlesh.label>
   <!-- EN: butchering at -->
   <DoBillsButcherFlesh.gerund>ag déanamh búistéireacht ag</DoBillsButcherFlesh.gerund>
-  <!-- EN: butcher -->
+  <!-- EN: butcher at -->
   <DoBillsButcherFlesh.verb>búistéireacht a dhéanamh ar</DoBillsButcherFlesh.verb>
   
   <!-- EN: cook meals at stove -->
   <DoBillsCook.label>déan béilí</DoBillsCook.label>
   <!-- EN: cooking at -->
   <DoBillsCook.gerund>ag cócaireacht</DoBillsCook.gerund>
-  <!-- EN: cook -->
+  <!-- EN: cook at -->
   <DoBillsCook.verb>a chócaráil</DoBillsCook.verb>
   
   <!-- EN: cook meals at campfire -->
   <DoBillsCookCampfire.label>déan béilí</DoBillsCookCampfire.label>
   <!-- EN: cooking at -->
   <DoBillsCookCampfire.gerund>ag cócaireacht</DoBillsCookCampfire.gerund>
-  <!-- EN: cook -->
+  <!-- EN: cook at -->
   <DoBillsCookCampfire.verb>a chócaráil</DoBillsCookCampfire.verb>
   
   <!-- EN: do cremation bills -->
   <DoBillsCremate.label>créam</DoBillsCremate.label>
   <!-- EN: cremating at -->
   <DoBillsCremate.gerund>ag créamadh</DoBillsCremate.gerund>
-  <!-- EN: cremate -->
+  <!-- EN: cremate at -->
   <DoBillsCremate.verb>a chréamadh</DoBillsCremate.verb>
   
   <!-- EN: fabricate things -->
   <DoBillsFabricationBench.label>cruthaigh earraí</DoBillsFabricationBench.label>
   <!-- EN: fabricating things at -->
   <DoBillsFabricationBench.gerund>ag cruthú earraí ag</DoBillsFabricationBench.gerund>
-  <!-- EN: fabricate -->
+  <!-- EN: fabricate things at -->
   <DoBillsFabricationBench.verb>rudaí a chruthú</DoBillsFabricationBench.verb>
   
   <!-- EN: do bills at campfire -->
@@ -168,21 +180,21 @@
   <DoBillsMachiningTable.label>cruthaigh rudaí ag an mbinse meaisínithe</DoBillsMachiningTable.label>
   <!-- EN: working at -->
   <DoBillsMachiningTable.gerund>ag obair</DoBillsMachiningTable.gerund>
-  <!-- EN: work -->
+  <!-- EN: work at -->
   <DoBillsMachiningTable.verb>obair</DoBillsMachiningTable.verb>
   
   <!-- EN: make apparel -->
   <DoBillsMakeApparel.label>déan éadaí</DoBillsMakeApparel.label>
   <!-- EN: tailoring at -->
   <DoBillsMakeApparel.gerund>ag tailliúireacht</DoBillsMakeApparel.gerund>
-  <!-- EN: tailor -->
+  <!-- EN: tailor at -->
   <DoBillsMakeApparel.verb>tailliúreacht</DoBillsMakeApparel.verb>
   
   <!-- EN: make weapons -->
   <DoBillsMakeWeapons.label>déan airm</DoBillsMakeWeapons.label>
   <!-- EN: smithing at -->
   <DoBillsMakeWeapons.gerund>ag cruthú arm</DoBillsMakeWeapons.gerund>
-  <!-- EN: smith -->
+  <!-- EN: smith at -->
   <DoBillsMakeWeapons.verb>airm a chruthú</DoBillsMakeWeapons.verb>
   
   <!-- EN: operate on animals -->
@@ -203,42 +215,42 @@
   <DoBillsProduceDrugs.label>cruthaigh drugaí</DoBillsProduceDrugs.label>
   <!-- EN: producing drugs at -->
   <DoBillsProduceDrugs.gerund>ag táirgeadh drugaí ag</DoBillsProduceDrugs.gerund>
-  <!-- EN: produce drugs -->
+  <!-- EN: produce drugs at -->
   <DoBillsProduceDrugs.verb>drugaí a tháirgeadh</DoBillsProduceDrugs.verb>
   
   <!-- EN: work at refinery -->
   <DoBillsRefinery.label>cruthaigh ceimiceáin</DoBillsRefinery.label>
   <!-- EN: refining chemicals at -->
   <DoBillsRefinery.gerund>ag scagadh ceimiceán ag</DoBillsRefinery.gerund>
-  <!-- EN: refine chemicals -->
+  <!-- EN: refine chemicals at -->
   <DoBillsRefinery.verb>ceimiceáin a scagadh</DoBillsRefinery.verb>
   
   <!-- EN: make things at art bench -->
   <DoBillsSculpt.label>cruthaigh rudaí ag an mbinse ealaíne</DoBillsSculpt.label>
   <!-- EN: sculpting at -->
   <DoBillsSculpt.gerund>ag dealbhú ag</DoBillsSculpt.gerund>
-  <!-- EN: sculpt -->
+  <!-- EN: sculpt at -->
   <DoBillsSculpt.verb>dealbh a chruthú</DoBillsSculpt.verb>
   
   <!-- EN: smelt items -->
   <DoBillsSmelter.label>déan earraí a bhruithniú</DoBillsSmelter.label>
   <!-- EN: refining at -->
   <DoBillsSmelter.gerund>ag bruithniú</DoBillsSmelter.gerund>
-  <!-- EN: refine -->
+  <!-- EN: refine at -->
   <DoBillsSmelter.verb>a bhruithniú</DoBillsSmelter.verb>
   
   <!-- EN: make stone blocks -->
   <DoBillsStonecut.label>déan brící cloiche</DoBillsStonecut.label>
   <!-- EN: cutting stone blocks at -->
   <DoBillsStonecut.gerund>ag gearradh brící cloiche ag</DoBillsStonecut.gerund>
-  <!-- EN: stonecut -->
+  <!-- EN: cut stone blocks at -->
   <DoBillsStonecut.verb>bhricí cloiche a ghearradh</DoBillsStonecut.verb>
   
   <!-- EN: make things at crafting spot -->
   <DoBillsUseCraftingSpot.label>cruthaigh earraí ag an spota ceardaíochta</DoBillsUseCraftingSpot.label>
   <!-- EN: crafting at -->
   <DoBillsUseCraftingSpot.gerund>i mbun ceardaíochta ag</DoBillsUseCraftingSpot.gerund>
-  <!-- EN: craft -->
+  <!-- EN: craft at -->
   <DoBillsUseCraftingSpot.verb>earraí a chruthú</DoBillsUseCraftingSpot.verb>
   
   <!-- EN: feed animals -->
@@ -311,6 +323,13 @@
   <!-- EN: drill -->
   <Drill.verb>a druileáil</Drill.verb>
   
+  <!-- EN: eject fuel -->
+  <EjectFuel.label>TODO</EjectFuel.label>
+  <!-- EN: ejecting fuel from -->
+  <EjectFuel.gerund>TODO</EjectFuel.gerund>
+  <!-- EN: eject fuel -->
+  <EjectFuel.verb>TODO</EjectFuel.verb>
+  
   <!-- EN: empty egg box -->
   <EmptyEggBox.label>bain uibheacha ón mbosca</EmptyEggBox.label>
   <!-- EN: emptying -->
@@ -378,7 +397,7 @@
   <GroundPenetratingScan.label>úsáid geo-scanóir</GroundPenetratingScan.label>
   <!-- EN: scanning at -->
   <GroundPenetratingScan.gerund>ag scanadh ag</GroundPenetratingScan.gerund>
-  <!-- EN: scan -->
+  <!-- EN: scan at -->
   <GroundPenetratingScan.verb>a scanáil</GroundPenetratingScan.verb>
   
   <!-- EN: harvest crops -->
@@ -394,6 +413,13 @@
   <GrowerSow.gerund>ag cur</GrowerSow.gerund>
   <!-- EN: sow -->
   <GrowerSow.verb>a chur</GrowerSow.verb>
+  
+  <!-- EN: hack buildings -->
+  <Hack.label>TODO</Hack.label>
+  <!-- EN: hacking -->
+  <Hack.gerund>TODO</Hack.gerund>
+  <!-- EN: hack -->
+  <Hack.verb>TODO</Hack.verb>
   
   <!-- EN: feed animals -->
   <HandlingFeedPatientAnimals.label>tabhair bia d'ainmhithe</HandlingFeedPatientAnimals.label>
@@ -455,7 +481,7 @@
   <LongRangeScan.label>úsáid scanóir fadraoin</LongRangeScan.label>
   <!-- EN: scanning at -->
   <LongRangeScan.gerund>ag scanadh ag</LongRangeScan.gerund>
-  <!-- EN: scan -->
+  <!-- EN: scan at -->
   <LongRangeScan.verb>a scanadh</LongRangeScan.verb>
   
   <!-- EN: milk animals -->
@@ -542,7 +568,7 @@
   <!-- EN: rope -->
   <RebalanceAnimalsInPens.verb>a rópáil</RebalanceAnimalsInPens.verb>
   
-  <!-- EN: refuel fuelable buildings -->
+  <!-- EN: refuel buildings -->
   <Refuel.label>athbhreoslaigh foirgnimh a bhfuil breosla de dhíth orthu</Refuel.label>
   <!-- EN: refueling -->
   <Refuel.gerund>ag athbhreoslú</Refuel.gerund>
@@ -602,7 +628,7 @@
   <Research.label>déan taighde</Research.label>
   <!-- EN: researching at -->
   <Research.gerund>i mbun taighde ag</Research.gerund>
-  <!-- EN: research -->
+  <!-- EN: research at -->
   <Research.verb>thaighde a dhéanamh</Research.verb>
   
   <!-- EN: shear animals -->

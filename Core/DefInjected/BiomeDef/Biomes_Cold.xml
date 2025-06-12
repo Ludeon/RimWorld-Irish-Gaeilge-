@@ -15,11 +15,15 @@
   <IceSheet.label>clúid oighir</IceSheet.label>
   <!-- EN: Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost. -->
   <IceSheet.description>Oighearchlúideacha atá cúpla ciliméadar ar tiús. Níl aon ithir ann, agus mar sin ní fhásann aon phlandaí. Is beag ainmhí a chónaíonn ann, seachas corr-ainmhe a chailleann a bhealach le linn imirce.</IceSheet.description>
+  <!-- EN: Ice sheet is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <IceSheet.settleWarning>Tá sé thar a bheith deacair maireachtáil ar an gclúid oighir. Níl aon ithir ina bhféadfaidh plandaí fás, agus is beag ainmhithe a chónaíonn anseo.</IceSheet.settleWarning>
   
   <!-- EN: sea ice -->
   <SeaIce.label>oighear farraige</SeaIce.label>
   <!-- EN: Permanent ice sheets floating on water. There is no soil for plants to grow, no minerals to mine, and almost no animal life. -->
   <SeaIce.description>Oighearchlúideacha buana ar an bhfarraige reoite. Ní fhásann aon phlandaí, níl aon mhianraí le baint ón talamh, agus ní chónaíonn aon ainmhithe anseo.</SeaIce.description>
+  <!-- EN: Sea ice is extremely inhospitable. There is no soil for plants and almost no animal life. Long-term survival is a challenge. -->
+  <SeaIce.settleWarning>Tá sé thar a bheith deacair maireachtáil ar oighear farraige. Níl aon ithir ina bhféadfaidh plandaí fás, agus is beag ainmhithe a chónaíonn anseo.</SeaIce.settleWarning>
   
   <!-- EN: tundra -->
   <Tundra.label>Tundra</Tundra.label>

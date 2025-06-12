@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: Cancel -->
   <DesignatorCancel>Cealaigh</DesignatorCancel>
   <!-- EN: Cancel designated building, mining, hauling, harvesting, and all other designations. -->
@@ -15,6 +15,11 @@
   <DesignatorDeconstruct>Scrios</DesignatorDeconstruct>
   <!-- EN: Deconstruct this and reclaim part of its resources. -->
   <DesignatorDeconstructDesc>Scrios rud. Gheobhaidh tú roinnt acmhainní ar ais.</DesignatorDeconstructDesc>
+
+  <!-- EN: Deconstruct conduit -->
+  <DesignatorDeconstructConduit>TODO</DesignatorDeconstructConduit>
+  <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
+  <DesignatorDeconstructConduitDesc>TODO</DesignatorDeconstructConduitDesc>
 
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Bain</DesignatorUninstall>
@@ -45,7 +50,7 @@
 
   <!-- EN: Hunt -->
   <DesignatorHunt>Sealgaireacht</DesignatorHunt>
-  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
   <DesignatorHuntDesc>Marcáil na hainmhithe atá le fiach agus le marú ag do chuid sealgairí.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
@@ -73,7 +78,7 @@
 
   <!-- EN: Plan -->
   <DesignatorPlan>Pleanáil</DesignatorPlan>
-  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions. -->
+  <!-- EN: Place planning designations. These don't do anything except help you plan future expansions.\n\nRight-click to hide or unhide all planning zones. -->
   <DesignatorPlanDesc>Cuir síos pleananna. Níl aon fheidhm ag na marcanna seo, ach cuidíonn siad leat struchtúir a phleanáil amach sula dtógtar iad.</DesignatorPlanDesc>
 
   <!-- EN: Remove plans -->
@@ -155,7 +160,7 @@
 
   <!-- EN: Expand zone -->
   <DesignatorZoneExpand>Leathnaigh zón</DesignatorZoneExpand>
-
+  
   <!-- EN: Claim -->
   <DesignatorClaim>Glac úinéireacht</DesignatorClaim>
   <!-- EN: Claim neutral structures for the colony, including ancient ruins and abandoned siege bases. Claimed structures can be repaired and maintained by your colonists. -->
@@ -168,7 +173,7 @@
 
   <!-- EN: Remove bridge -->
   <DesignatorRemoveBridge>Scrios droichead</DesignatorRemoveBridge>
-  <!-- EN: Remove bridges to reveal the terrain underneath. -->
+  <!-- EN: Deconstruct bridges to reclaim partial resources. -->
   <DesignatorRemoveBridgeDesc>Scrios droichead.</DesignatorRemoveBridgeDesc>
 
   <!-- EN: Strip -->
@@ -180,6 +185,11 @@
   <DesignatorOpen>Oscail</DesignatorOpen>
   <!-- EN: Open containers. -->
   <DesignatorOpenDesc>Oscail coimeádáin.</DesignatorOpenDesc>
+  
+  <!-- EN: Eject fuel -->
+  <DesignatorEjectFuel>TODO</DesignatorEjectFuel>
+  <!-- EN: Eject all contained fuel onto the ground. -->
+  <DesignatorEjectFuelDesc>TODO</DesignatorEjectFuelDesc>
 
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Maraigh</DesignatorSlaughter>
@@ -190,6 +200,8 @@
   <DesignatorTame>Ceansaigh</DesignatorTame>
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Roghnaigh ainmhithe fiáine lena gceansú.</DesignatorTameDesc>
+  <!-- EN: Scaria infected animals can't be tamed. -->
+  <CantTameScaria>TODO</CantTameScaria>
 
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Scaoil saor</DesignatorReleaseAnimalToWild>
@@ -215,9 +227,9 @@
   <!-- EN: Remove paint from walls, buildings, and floors. -->
   <DesignatorRemovePaintDesc>Bain péint ó bhallaí, urláir, agus foirgnimh.</DesignatorRemovePaintDesc>
   <!-- EN: Remove floor paint -->
-  <DesignatorRemoveFloorPaint>Bain péint</DesignatorRemoveFloorPaint>
+  <DesignatorRemoveFloorPaint>Bain péint</DesignatorRemoveFloorPaint> 
   <!-- EN: Remove paint from floors. -->
-  <DesignatorRemoveFloorPaintDesc>Bain péint ón urlár.</DesignatorRemoveFloorPaintDesc>
+  <DesignatorRemoveFloorPaintDesc>Bain péint ón urlár.</DesignatorRemoveFloorPaintDesc> 
   <!-- EN: Paint -->
   <Paint>Péinteáil</Paint>
   <!-- EN: Color -->
@@ -240,6 +252,16 @@
   <!-- EN: Grabbed color -->
   <GrabbedColor>Dath roghnaithe</GrabbedColor>
 
+  <!-- EN: Expand plan -->
+  <DesignatorExpandPlan>TODO</DesignatorExpandPlan>
+  <!-- EN: New plan -->
+  <NewPlan>TODO</NewPlan>
+  
+  <!-- EN: Shrink plan -->
+  <DesignatorPlanShrinkSingular>TODO</DesignatorPlanShrinkSingular>
+  <!-- EN: Remove plans. -->
+  <DesignatorPlanShrinkDesc>TODO</DesignatorPlanShrinkDesc>
+
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
   <UnchosenStuff>Ní mór ábhar a roghnú</UnchosenStuff>
@@ -259,6 +281,10 @@
   <WouldBlockInteractionSpot>Bheadh {1} blocáilte ag {0}.</WouldBlockInteractionSpot>
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Tá {0} anseo cheana.</TerrainIsAlready>
+  <!-- EN: There is already foundation here. -->
+  <FoundationAlreadyExists>TODO</FoundationAlreadyExists>
+  <!-- EN: The existing terrain here cannot be removed. -->
+  <TerrainUnremovable>TODO</TerrainUnremovable>
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>Tá an t-urlár anseo le smúdáil cheana.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
@@ -293,13 +319,18 @@
   <MonumentAdjacentToBuilding>Ní féidir séadchomhartha a chur taobh le '{0}'.</MonumentAdjacentToBuilding>
   <!-- EN: Cannot be planted here -->
   <CannotBePlantedHere>Ní féidir é seo a chur anseo</CannotBePlantedHere>
-
+  
   <!-- Mouse attachments -->
   <!-- EN: Expand {0} or\nCreate new {1} -->
   <ExpandOrCreateZone>Leathnaigh {0} nó\nCruthaigh {1} nua</ExpandOrCreateZone>
   <!-- EN: Create new {0} -->
   <CreateNewZone>Cruthaigh {0} nua</CreateNewZone>
-
+  
+  <!-- EN: Expand {0} or\nCreate new plan -->
+  <ExpandOrCreatePlan>TODO</ExpandOrCreatePlan>
+  <!-- EN: Create new plan -->
+  <CreateNewPlan>TODO</CreateNewPlan>
+  
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->
   <TransmitsPower>Tras-seoladh chumhachta</TransmitsPower>

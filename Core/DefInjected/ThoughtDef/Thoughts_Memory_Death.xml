@@ -39,6 +39,7 @@
   <!-- EN: someone was euthanized -->
   <KnowGuestExecuted.stages.someone_was_euthanized.label>Rinneadh eotanáis ar dhuine. Tugadh bás daonna dó, ach tá sé fós brónach.</KnowGuestExecuted.stages.someone_was_euthanized.label>
   <!-- EN: A prisoner or guest was euthanized. It was humane, but still sad. -->
+  <KnowGuestExecuted.stages.someone_was_euthanized.description>TODO</KnowGuestExecuted.stages.someone_was_euthanized.description>
   <!-- EN: someone was executed -->
   <KnowGuestExecuted.stages.someone_was_executed.label>cuireadh duine chun báis</KnowGuestExecuted.stages.someone_was_executed.label>
   <!-- EN: A prisoner or guest was killed in cold blood. It seemed a bit evil. -->

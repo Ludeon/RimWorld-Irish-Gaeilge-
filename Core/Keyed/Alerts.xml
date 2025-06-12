@@ -70,11 +70,6 @@
   <!-- EN: A colonist is left unburied.\n\nThis may negatively affect your colonists' mood. -->
   <AlertColonistLeftUnburiedDesc>Tá coilíneach le hadhlacadh.\n\nD'fhéadfadh sé go mbeidh drochthionchar ag seo ar ghiúmar na gcoilíneach.</AlertColonistLeftUnburiedDesc>
 
-  <!-- EN: Hunter lacks suitable weapon -->
-  <HunterLacksWeapon>Tá sealgaire gan arm fadraoin</HunterLacksWeapon>
-  <!-- EN: A colonist is assigned to work as a hunter but does not have a ranged weapon appropriate for hunting.\n\nThey will not hunt until they are carrying an appropriate weapon.\n\nThe following colonists are assigned as hunters and need suitable ranged weapons -->
-  <HunterLacksWeaponDesc>Tá coilíneach sannta mar Shealgaire, ach níl arm fadraoin aige.\n\nNí bheidh sé in ann dul san fhiach go dtí go mbeidh arm fadraoin aige.\n\nTá na coilínigh seo a leanas sannta mar Shealgairí, agus tá airm fhadraoin de dhíth orthu</HunterLacksWeaponDesc>
-
   <!-- EN: Tattered apparel -->
   <AlertTatteredApparel>Éadaí stróicthe</AlertTatteredApparel>
   <!-- EN: These colonists are wearing tattered apparel, which is making them sad:\n{0}\n\nGet them some apparel that isn't so badly damaged.\n\nYou can tailor apparel at a crafting spot or tailoring table, or buy it from traders. -->
@@ -152,6 +147,8 @@
   <!-- EN: You have the equipment to do research but have not selected a project.\n\n(Click to open the research menu.) -->
   <NeedResearchProjectDesc>Féadfaidh tú taighhde a dhéanamh, ach tionscadal a roghnú.\n\nOscail an roghchlár taighde agus roghnaigh tionscadal.</NeedResearchProjectDesc>
 
+  <!-- EN: 1 colonist idle -->
+  <ColonistIdle>TODO</ColonistIdle>
   <!-- EN: {0} colonists idle -->
   <ColonistsIdle>Tá coilínigh gan obair</ColonistsIdle>
   <!-- EN: These colonists are wandering idly:\n{0}\n\nYou should probably find them something productive to do. -->
@@ -334,4 +331,8 @@
   <!-- EN: You have an active research project '{0}'. This project requires you to build {1}. -->
   <NeedResearchBenchDesc>Tá tionscadal taighde roghnaithe agat, '{0}'. Ní mór {1} a thógail don tionscadal seo.</NeedResearchBenchDesc>
   
+  <!-- UNUSED -->
+  <HunterLacksWeapon>Tá sealgaire gan arm fadraoin</HunterLacksWeapon>
+  <HunterLacksWeaponDesc>Tá coilíneach sannta mar Shealgaire, ach níl arm fadraoin aige.\n\nNí bheidh sé in ann dul san fhiach go dtí go mbeidh arm fadraoin aige.\n\nTá na coilínigh seo a leanas sannta mar Shealgairí, agus tá airm fhadraoin de dhíth orthu</HunterLacksWeaponDesc>
+
 </LanguageData>

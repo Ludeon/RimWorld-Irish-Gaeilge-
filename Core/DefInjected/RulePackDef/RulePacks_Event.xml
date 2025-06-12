@@ -2,57 +2,51 @@
 <LanguageData>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_label] used [ABILITY_label] on [SUBJECT_label].</li>
+    <li>r_logentry->[INITIATOR_definite] used [ABILITY_label] on [SUBJECT_definite].</li>
   -->
   <Event_AbilityUsed.rulePack.rulesStrings>
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
     <li>RECIPIENT->[RECIPIENT_label]</li>
-
     <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
     <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
-
     <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
-      <li>r_logentry->D'úsáid [INITIATOR_nominative_definite] [ABILITY_label] ar [RECIPIENT_nominative_definite].</li>
- </Event_AbilityUsed.rulePack.rulesStrings>
+    <li>r_logentry->D'úsáid [INITIATOR_nominative_definite] [ABILITY_label] ar [RECIPIENT_nominative_definite].</li>
+  </Event_AbilityUsed.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[INITIATOR_label] used [ITEM_indefinite] on [SUBJECT_label].</li>
+    <li>r_logentry->[INITIATOR_definite] used [ITEM_indefinite] on [SUBJECT_definite].</li>
   -->
   <Event_ItemUsed.rulePack.rulesStrings>
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
     <li>RECIPIENT->[RECIPIENT_label]</li>
-
     <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
     <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
-
     <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
-      <li>r_logentry->D'úsáid [INITIATOR_label] [ITEM_indefinite] ar [RECIPIENT_nominative_definite].</li>
- </Event_ItemUsed.rulePack.rulesStrings>
+    <li>r_logentry->D'úsáid [INITIATOR_label] [ITEM_indefinite] ar [RECIPIENT_nominative_definite].</li>
+  </Event_ItemUsed.rulePack.rulesStrings>
   
   <!-- EN:
-    <li>r_logentry->[SUBJECT_label] was [stunned] by the attack.</li>
-    <li>r_logentry->[SUBJECT_label] was [stunned] by [INITIATOR_label]'s attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] was [stunned] by [INITIATOR_definite]'s attack.</li>
     <li>stunned(p=3)->stunned</li>
     <li>stunned->staggered</li>
     <li>stunned->dazed</li>
     <li>stunned->disoriented</li>
-    <li>r_logentry->[SUBJECT_label] [staggered].</li>
-    <li>r_logentry->[SUBJECT_label] [staggered] from the attack.</li>
-    <li>r_logentry->[SUBJECT_label] [staggered] from [INITIATOR_label]'s attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered].</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from the attack.</li>
+    <li>r_logentry->[SUBJECT_definite] [staggered] from [INITIATOR_definite]'s attack.</li>
     <li>staggered(p=3)->staggered</li>
     <li>staggered->faltered</li>
     <li>staggered->wobbled</li>
     <li>staggered->wavered</li>
-    <li>r_logentry->[SUBJECT_label] [stumbled] around blearily.</li>
-    <li>r_logentry->[SUBJECT_label] [stumbled] around in confusion.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around blearily.</li>
+    <li>r_logentry->[SUBJECT_definite] [stumbled] around in confusion.</li>
     <li>stumbled(p=3)->stumbled</li>
     <li>stumbled->wavered</li>
     <li>stumbled->wobbled</li>
@@ -62,13 +56,10 @@
     <!-- Using this to set out simpler tags to make life easier for myself, but would probably work with a straight up {lookup} too -->
     <li>INITIATOR->[INITIATOR_label]</li>
     <li>RECIPIENT->[RECIPIENT_label]</li>
-
     <li>INITIATOR_genitive->{lookup: [INITIATOR_label]; decline_logs; 1}</li>
     <li>RECIPIENT_genitive->{lookup: [RECIPIENT_label]; decline_logs; 1}</li>
-
     <li>INITIATOR_nominative_definite->{lookup: [INITIATOR_label]; decline_logs; 3}</li>
     <li>RECIPIENT_nominative_definite->{lookup: [RECIPIENT_label]; decline_logs; 3}</li>
-
     <!-- ACTUAL GAME LINES -->
     <li>r_logentry->Baineadh [stunned] as [SUBJECT_label] leis an ionsaí.</li>
     <li>r_logentry->Bhain ionsaí [INITIATOR_genitive] [stunned] as [RECIPIENT_nominative_definite].</li>
@@ -85,6 +76,6 @@
     <li>r_logentry->Tháinig mearbhall ar [RECIPIENT_nominative_definite].</li>
     <li>r_logentry->Tá [RECIPIENT_nominative_definite] ag siúil thart go místuama mar gheall ar an ionsaí.</li>
     <li>r_logentry->Tá [RECIPIENT_nominative_definite] ag siúil thart go tuisleach mar gheall ar an ionsaí.</li>
- </Event_Stun.rulePack.rulesStrings>
+  </Event_Stun.rulePack.rulesStrings>
   
 </LanguageData>

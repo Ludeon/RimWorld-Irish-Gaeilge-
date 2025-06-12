@@ -11,12 +11,32 @@
   <!-- EN: Designates a spot for hitching animals and forming caravans. Colonists will hitch animals here while loading a caravan. You can also use these during encounters away from home to keep animals from wandering. -->
   <CaravanPackingSpot.description>Cruthófar carbháin ag an spota seo. Ceanglóidh coilínigh ainmhithe anseo nuair atá carbhán á lódáil. Is féidir an spota seo a úsáid nuair atá tú i bhfad ón mbaile freisin, ionas nach rachaidh ainmhithe ar strae.</CaravanPackingSpot.description>
   
+  <!-- EN: cave exit -->
+  <CaveExit.label>TODO</CaveExit.label>
+  <!-- EN: A rope line which links to the surface above. -->
+  <CaveExit.description>TODO</CaveExit.description>
+  
   <!-- EN: comms console -->
   <CommsConsole.label>consól cumarsáide</CommsConsole.label>
   <!-- EN: Allows radio contact with other factions and orbital traders. -->
   <CommsConsole.description>Is féidir teagmháil a dhéanamh le coilíneachtaí eile agus le spás-trádálaithe leis an gconsól seo.</CommsConsole.description>
   <!-- EN: Summon diabolus threat -->
   <CommsConsole.comps.CompUsable.useLabel>Glao ar bhagairt diabhlaí</CommsConsole.comps.CompUsable.useLabel>
+  
+  <!-- EN: crater -->
+  <CraterLarge.label>TODO</CraterLarge.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterLarge.description>TODO</CraterLarge.description>
+  
+  <!-- EN: crater -->
+  <CraterMedium.label>TODO</CraterMedium.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterMedium.description>TODO</CraterMedium.description>
+  
+  <!-- EN: crater -->
+  <CraterSmall.label>TODO</CraterSmall.label>
+  <!-- EN: The blast site of a high-powered weapon. -->
+  <CraterSmall.description>TODO</CraterSmall.description>
   
   <!-- EN: cryptosleep casket -->
   <CryptosleepCasket.label>cónra criptea-chodlata</CryptosleepCasket.label>
@@ -110,7 +130,7 @@
   
   <!-- EN: transport pod -->
   <TransportPod.label>pod iompair</TransportPod.label>
-  <!-- EN: A launchable sub-orbital cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing. -->
+  <!-- EN: A launchable cargo pod capable of carrying people, items, or animals. Can be used for sending gifts, transporting people or supplies, surprise attacks, or reinforcing battles. -->
   <TransportPod.description>Is féidir daoine, ainmhithe nó lastas a chur sa phod iompair fo-fhithiseach seo.</TransportPod.description>
   
   <!-- EN: vitals monitor -->

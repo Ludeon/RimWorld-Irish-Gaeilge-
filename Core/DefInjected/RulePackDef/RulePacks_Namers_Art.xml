@@ -80,7 +80,7 @@
     <li>maybe_adjective(p=2)->[AdjectiveAngsty]</li>
     <li>maybe_adjective->[AdjectiveBadass]</li>
     <li>maybe_adjective->[Color]</li>
- </NamerArtCommon.rulePack.rulesStrings>
+  </NamerArtCommon.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_art_name->[ConceptBadass]</li>
@@ -107,6 +107,6 @@
     <li>r_art_name(p=3)->[PersonFamily] [ConceptBadass]</li>
     <li>r_art_name(p=3)->[ANYPAWN_nameIndef]</li>
     <li>r_art_name(p=3)->[ColorBadass]</li>
- </NamerArtWeapon.rulePack.rulesStrings>
+  </NamerArtWeapon.rulePack.rulesStrings>
   
 </LanguageData>

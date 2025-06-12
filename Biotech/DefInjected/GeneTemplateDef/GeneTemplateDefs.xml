@@ -2,44 +2,44 @@
 <LanguageData>
   
   <!-- EN: {0} impervious -->
-  <AddictionImmune.label>doghonta ar {0}</AddictionImmune.label>
+  <AddictionImmune.label>TODO</AddictionImmune.label>
   <!-- EN: Carriers of this gene never get addicted to {0}. -->
-  <AddictionImmune.description>Ní thiocfaidh andúil ar {0} ar iompróirí na géine seo.</AddictionImmune.description>
+  <AddictionImmune.description>TODO</AddictionImmune.description>
   <!-- EN: {0}-impervious -->
-  <AddictionImmune.labelShortAdj>doghonta ar: {0}</AddictionImmune.labelShortAdj>
+  <AddictionImmune.labelShortAdj>TODO</AddictionImmune.labelShortAdj>
   
   <!-- EN: {0} resistant -->
-  <AddictionResistant.label>frithsheasmhach ar {0}</AddictionResistant.label>
+  <AddictionResistant.label>TODO</AddictionResistant.label>
   <!-- EN: Carriers are only half as likely to become addicted to {0}. -->
-  <AddictionResistant.description>Is beag seans go dtiocfaidh andúil ar {0} ar iompróirí na géine seo.</AddictionResistant.description>
+  <AddictionResistant.description>TODO</AddictionResistant.description>
   <!-- EN: {0}-resistant -->
-  <AddictionResistant.labelShortAdj>frithsheashmach ar: {0}</AddictionResistant.labelShortAdj>
+  <AddictionResistant.labelShortAdj>TODO</AddictionResistant.labelShortAdj>
   
   <!-- EN: poor {0} -->
-  <AptitudePoor.label>{0} íseal</AptitudePoor.label>
+  <AptitudePoor.label>TODO</AptitudePoor.label>
   <!-- EN: The carrier's aptitude in {0} is reduced by 4. Aptitude acts like an offset on skill level. -->
-  <AptitudePoor.description>Laghdaítear inniúlacht an iompróra sa scil "{0}" le 4 phointe.</AptitudePoor.description>
+  <AptitudePoor.description>TODO</AptitudePoor.description>
   
   <!-- EN: great {0} -->
-  <AptitudeRemarkable.label>{0} ard</AptitudeRemarkable.label>
+  <AptitudeRemarkable.label>TODO</AptitudeRemarkable.label>
   <!-- EN: The carrier's aptitude in {0} is increased by 8. Aptitude acts like an offset on skill level. Additionally, one level of passion is added to {0}. -->
-  <AptitudeRemarkable.description>Méadaítear inniúlacht an iompróra sa scil "{0}" le 8 phointe. Cuirtear leibhéal paisin amháin le {0} freisin.</AptitudeRemarkable.description>
+  <AptitudeRemarkable.description>TODO</AptitudeRemarkable.description>
   
   <!-- EN: strong {0} -->
-  <AptitudeStrong.label>{0} láidir</AptitudeStrong.label>
+  <AptitudeStrong.label>TODO</AptitudeStrong.label>
   <!-- EN: The carrier's aptitude in {0} is increased by 4. Aptitude acts like an offset on skill level. -->
-  <AptitudeStrong.description>Méadaítear inniúlacht an iompróra sa scil "{0}" le 4 phointe.</AptitudeStrong.description>
+  <AptitudeStrong.description>TODO</AptitudeStrong.description>
   
   <!-- EN: awful {0} -->
-  <AptitudeTerrible.label>{0} uafásach</AptitudeTerrible.label>
+  <AptitudeTerrible.label>TODO</AptitudeTerrible.label>
   <!-- EN: The carrier's aptitude in {0} is reduced by 8. Aptitude acts like an offset on skill level. Additionally, all passion is removed from {0}. -->
-  <AptitudeTerrible.description>Laghdaítear inniúlacht an iompróra sa scil "{0}" le 8 phointe.</AptitudeTerrible.description>
+  <AptitudeTerrible.description>TODO</AptitudeTerrible.description>
   
   <!-- EN: {0} dependency -->
-  <ChemicalDependency.label>spleách ar {0}</ChemicalDependency.label>
+  <ChemicalDependency.label>TODO</ChemicalDependency.label>
   <!-- EN: Carriers of this gene need to ingest {0} on a regular basis to survive. After {DEFICIENCYDURATION} without {0}, carriers will suffer from {0} deficiency. After {COMADURATION}, they will fall into a coma. After {DEATHDURATION}, they will die. -->
-  <ChemicalDependency.description>Ní mór d'iompróirí na géine seo {0} a úsáid ar bhonn rialta, nó gheobhaidh siad bás. Tar éis  {DEFICIENCYDURATION} gan {0}, tiocfaidh easpa {0} orthu. Tiocfaidh cóma orthu tar éis {COMADURATION}, agus gheobhaidh siad bás tar éis {DEATHDURATION}.</ChemicalDependency.description>
+  <ChemicalDependency.description>TODO</ChemicalDependency.description>
   <!-- EN: {0}-dependent -->
-  <ChemicalDependency.labelShortAdj>spleách ar {0}</ChemicalDependency.labelShortAdj>
+  <ChemicalDependency.labelShortAdj>TODO</ChemicalDependency.labelShortAdj>
   
 </LanguageData>

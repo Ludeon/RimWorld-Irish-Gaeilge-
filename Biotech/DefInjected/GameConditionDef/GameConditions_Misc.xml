@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: acidic smog -->
-  <NoxiousHaze.label>ceo aigéadach</NoxiousHaze.label>
+  <NoxiousHaze.label>TODO</NoxiousHaze.label>
   <!-- EN: Acidic smog is caused by pollution in nearby world tiles. It slows plant growth, deteriorates exposed items, and reduces mood.\n\nThe current world tile has a nearby pollution score of {NEARBYPOLLUTION}, calculated by adding up pollution of nearby world tiles. This means that, on average, acidic smog will occur every {MTB} days. -->
-  <NoxiousHaze.description>Tarlaíonn ceo aigéadach de bharr truaillithe i dtílí máguaird ar an léarscáil domhanda. Déanann ceo aigéadach damáiste do phlandaí agus d'earraí atá amuigh faoin aer, agus bíonn drochthionchar aige ar choilínigh.\n\nFaoi láthair, is é {NEARBYPOLLUTION} an scór truaillithe sna tílí timpeall ar an gceantar seo, rud a chiallaíonn go mbeidh ceo aigéadach ann gach {MTB} lá ar an meán.</NoxiousHaze.description>
+  <NoxiousHaze.description>TODO</NoxiousHaze.description>
   <!-- EN: The acidic smog is lifting. -->
-  <NoxiousHaze.endMessage>Tá an ceo aigéadach ag scaipeadh.</NoxiousHaze.endMessage>
+  <NoxiousHaze.endMessage>TODO</NoxiousHaze.endMessage>
   <!-- EN: Acidic smog has begun due to pollution in this region of the world. -->
-  <NoxiousHaze.startMessage>Tá an ceantar cumhdaithe le ceo aigéadach mar gheall ar thruailliú sa chuid seo den domhan.</NoxiousHaze.startMessage>
+  <NoxiousHaze.startMessage>TODO</NoxiousHaze.startMessage>
   
 </LanguageData>

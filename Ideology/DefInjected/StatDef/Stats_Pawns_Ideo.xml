@@ -2,83 +2,83 @@
 <LanguageData>
   
   <!-- EN: biosculpter occupant speed -->
-  <BiosculpterOccupantSpeed.label>vitesse de l'occupant du biosculpteur</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.label>TODO</BiosculpterOccupantSpeed.label>
   <!-- EN: A multiplier on how quickly this person will complete a biosculpter pod cycle. -->
-  <BiosculpterOccupantSpeed.description>Un multiplicateur sur la vitesse à laquelle cette personne terminera un cycle de biosculptage.</BiosculpterOccupantSpeed.description>
+  <BiosculpterOccupantSpeed.description>TODO</BiosculpterOccupantSpeed.description>
   
   <!-- EN: global certainty loss factor -->
-  <CertaintyLossFactor.label>facteur de perte de certitude globale</CertaintyLossFactor.label>
+  <CertaintyLossFactor.label>TODO</CertaintyLossFactor.label>
   <!-- EN: A multiplier on how much certainty this person loses when someone else tries to convert them away from their ideoligion. -->
-  <CertaintyLossFactor.description>Un multiplicateur sur la certitude que cette personne perd lorsque quelqu'un d'autre essaie de la détourner de son idéoligion.</CertaintyLossFactor.description>
+  <CertaintyLossFactor.description>TODO</CertaintyLossFactor.description>
   
   <!-- EN: conversion power -->
-  <ConversionPower.label>pouvoir de conversion</ConversionPower.label>
+  <ConversionPower.label>TODO</ConversionPower.label>
   <!-- EN: How effective this person is at converting others to their own ideoligion. When this person attempts to convert someone else, this value multiplies the amount of certainty the other person loses. -->
-  <ConversionPower.description>À quel point cette personne est-elle efficace pour convertir les autres à sa propre idéoligion. Lorsque cette personne tente de convertir quelqu'un d'autre, cette valeur multiplie le degré de certitude que l'autre personne perd.</ConversionPower.description>
+  <ConversionPower.description>TODO</ConversionPower.description>
   
   <!-- EN: melee dodge chance indoors dark -->
-  <MeleeDodgeChanceIndoorsDarkOffset.label>probabilité d'esquive au corps à corps en intérieur (pénombre)</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.label>TODO</MeleeDodgeChanceIndoorsDarkOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is indoors in the dark. -->
-  <MeleeDodgeChanceIndoorsDarkOffset.description>Une statistique sur l'esquive en mêlée si la cible est en intérieur dans la pénombre.</MeleeDodgeChanceIndoorsDarkOffset.description>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>TODO</MeleeDodgeChanceIndoorsDarkOffset.description>
   
   <!-- EN: melee dodge chance indoors lit -->
-  <MeleeDodgeChanceIndoorsLitOffset.label>probabilité d'esquive au corps à corps en intérieur (éclairé)</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.label>TODO</MeleeDodgeChanceIndoorsLitOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is indoors and lit. -->
-  <MeleeDodgeChanceIndoorsLitOffset.description>Une statistique sur l'esquive en mêlée si la cible est en intérieur dans la lumière.</MeleeDodgeChanceIndoorsLitOffset.description>
+  <MeleeDodgeChanceIndoorsLitOffset.description>TODO</MeleeDodgeChanceIndoorsLitOffset.description>
   
   <!-- EN: melee dodge chance outdoors night -->
-  <MeleeDodgeChanceOutdoorsDarkOffset.label>probabilité d'esquive au corps à corps en extérieur (nuit)</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>TODO</MeleeDodgeChanceOutdoorsDarkOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is outdoors at night. -->
-  <MeleeDodgeChanceOutdoorsDarkOffset.description>Une statistique sur l'esquive en mêlée si la cible est en extérieur la nuit.</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>TODO</MeleeDodgeChanceOutdoorsDarkOffset.description>
   
   <!-- EN: melee dodge chance outdoors day -->
-  <MeleeDodgeChanceOutdoorsLitOffset.label>probabilité d'esquive au corps à corps en extérieur (journée)</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.label>TODO</MeleeDodgeChanceOutdoorsLitOffset.label>
   <!-- EN: An offset on melee dodge chance if the target is outdoors during the day. -->
-  <MeleeDodgeChanceOutdoorsLitOffset.description>Une statistique sur l'esquive en mêlée si la cible est en extérieur le jour.</MeleeDodgeChanceOutdoorsLitOffset.description>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>TODO</MeleeDodgeChanceOutdoorsLitOffset.description>
   
   <!-- EN: melee hit chance indoors dark -->
-  <MeleeHitChanceIndoorsDarkOffset.label>précision de frappe au corps à corps en intérieur (pénombre)</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.label>TODO</MeleeHitChanceIndoorsDarkOffset.label>
   <!-- EN: An offset on melee hit chance if the target is indoors in the dark. -->
-  <MeleeHitChanceIndoorsDarkOffset.description>Une statistique sur la précision de frappe en mêlée si la cible est en intérieur dans la pénombre.</MeleeHitChanceIndoorsDarkOffset.description>
+  <MeleeHitChanceIndoorsDarkOffset.description>TODO</MeleeHitChanceIndoorsDarkOffset.description>
   
   <!-- EN: melee hit chance indoors lit -->
-  <MeleeHitChanceIndoorsLitOffset.label>précision de frappe au corps à corps en intérieur (éclairé)</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.label>TODO</MeleeHitChanceIndoorsLitOffset.label>
   <!-- EN: An offset on melee hit chance if the target is indoors and lit. -->
-  <MeleeHitChanceIndoorsLitOffset.description>Une statistique sur la précision de frappe en mêlée si la cible est en intérieur dans la lumière.</MeleeHitChanceIndoorsLitOffset.description>
+  <MeleeHitChanceIndoorsLitOffset.description>TODO</MeleeHitChanceIndoorsLitOffset.description>
   
   <!-- EN: melee hit chance outdoors dark -->
-  <MeleeHitChanceOutdoorsDarkOffset.label>précision de frappe au corps à corps en extérieur (nuit)</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.label>TODO</MeleeHitChanceOutdoorsDarkOffset.label>
   <!-- EN: An offset on melee hit chance if the target is outdoors at night. -->
-  <MeleeHitChanceOutdoorsDarkOffset.description>Une statistique sur la précision de frappe en mêlée si la cible est en extérieur la nuit.</MeleeHitChanceOutdoorsDarkOffset.description>
+  <MeleeHitChanceOutdoorsDarkOffset.description>TODO</MeleeHitChanceOutdoorsDarkOffset.description>
   
   <!-- EN: melee hit chance outdoors lit -->
-  <MeleeHitChanceOutdoorsLitOffset.label>précision de frappe au corps à corps en extérieur (journée)</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.label>TODO</MeleeHitChanceOutdoorsLitOffset.label>
   <!-- EN: An offset on melee hit chance if the target is outdoors during the day. -->
-  <MeleeHitChanceOutdoorsLitOffset.description>Une statistique sur la précision de frappe en mêlée si la cible est en extérieur le jour.</MeleeHitChanceOutdoorsLitOffset.description>
+  <MeleeHitChanceOutdoorsLitOffset.description>TODO</MeleeHitChanceOutdoorsLitOffset.description>
   
   <!-- EN: shooting accuracy indoors dark -->
-  <ShootingAccuracyIndoorsDarkOffset.label>précision de tir en intérieur (pénombre)</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.label>TODO</ShootingAccuracyIndoorsDarkOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is indoors in the dark. -->
-  <ShootingAccuracyIndoorsDarkOffset.description>Une statistique sur la précision de tir si la cible est en intérieur dans la pénombre.</ShootingAccuracyIndoorsDarkOffset.description>
+  <ShootingAccuracyIndoorsDarkOffset.description>TODO</ShootingAccuracyIndoorsDarkOffset.description>
   
   <!-- EN: shooting accuracy indoors lit -->
-  <ShootingAccuracyIndoorsLitOffset.label>précision de tir en intérieur (éclairé)</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.label>TODO</ShootingAccuracyIndoorsLitOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is indoors and lit. -->
-  <ShootingAccuracyIndoorsLitOffset.description>Une statistique sur la précision de tir si la cible est en intérieur dans la lumière.</ShootingAccuracyIndoorsLitOffset.description>
+  <ShootingAccuracyIndoorsLitOffset.description>TODO</ShootingAccuracyIndoorsLitOffset.description>
   
   <!-- EN: shooting accuracy outdoors dark -->
-  <ShootingAccuracyOutdoorsDarkOffset.label>précision de tir en extérieur (nuit)</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.label>TODO</ShootingAccuracyOutdoorsDarkOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is outdoors at night. -->
-  <ShootingAccuracyOutdoorsDarkOffset.description>Une statistique sur la précision de tir si la cible est en extérieur la nuit.</ShootingAccuracyOutdoorsDarkOffset.description>
+  <ShootingAccuracyOutdoorsDarkOffset.description>TODO</ShootingAccuracyOutdoorsDarkOffset.description>
   
   <!-- EN: shooting accuracy outdoors lit -->
-  <ShootingAccuracyOutdoorsLitOffset.label>précision de tir en extérieur (jour)</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.label>TODO</ShootingAccuracyOutdoorsLitOffset.label>
   <!-- EN: An offset on shooting accuracy if the target is outdoors during the day. -->
-  <ShootingAccuracyOutdoorsLitOffset.description>Une statistique sur la précision de tir si la cible est en extérieur le jour.</ShootingAccuracyOutdoorsLitOffset.description>
+  <ShootingAccuracyOutdoorsLitOffset.description>TODO</ShootingAccuracyOutdoorsLitOffset.description>
   
   <!-- EN: ideoligion spread chance -->
-  <SocialIdeoSpreadFrequencyFactor.label>probabilité de propager l'idéoligion</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.label>TODO</SocialIdeoSpreadFrequencyFactor.label>
   <!-- EN: A multiplier on the chance that this person will try to convert other people to their own ideoligion. -->
-  <SocialIdeoSpreadFrequencyFactor.description>Un multiplicateur sur la chance que cette personne essaie de convertir d'autres personnes à sa propre idéoligion.</SocialIdeoSpreadFrequencyFactor.description>
+  <SocialIdeoSpreadFrequencyFactor.description>TODO</SocialIdeoSpreadFrequencyFactor.description>
   
 </LanguageData>

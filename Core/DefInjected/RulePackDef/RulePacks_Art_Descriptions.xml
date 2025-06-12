@@ -15,7 +15,7 @@
     <li>desc_sentence_group->[desc_sentence] [style_group]</li>
     <li>context_sentence->Déanann [depiction] seo cur síos ar [tale_noun] ar [DATE].</li>
     <li>context_sentence->Baineann [depiction] seo le [tale_noun] ar [DATE].</li>
- </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
+  </ArtDescriptionRoot_HasTale.rulePack.rulesStrings>
   
   <!-- EN:
     <li>r_art_description->[physical_description_root]</li>
@@ -24,7 +24,7 @@
   <ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
     <li>r_art_description->[physical_description_root]</li>
     <li>desc_sentence_group->[style_group]</li>
- </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
+  </ArtDescriptionRoot_Taleless.rulePack.rulesStrings>
   
   <!-- EN:
     <li>style_group->[artextra_clause]. [style_clause].</li>
@@ -50,14 +50,14 @@
     <li>artextra_clause->the scene takes place on the outskirts of a [Community]</li>
     <li>artextra_clause->the scene takes place inside a [Community] built near a [TerrainFeature]</li>
     <li>artextra_clause->a [Character] [idles] [side_position]</li>
-    <li>artextra_clause->a [PAWN_adj] [Character] [idles] [side_position]</li>
+    <li>artextra_clause->a [pawn_adj] [Character] [idles] [side_position]</li>
     <li>artextra_clause->[Quantity_adjphrase] [Character]s appear [side_position]</li>
-    <li>artextra_clause->[Quantity_adjphrase] [PAWN_adj] [Character]s appear [side_position]</li>
+    <li>artextra_clause->[Quantity_adjphrase] [pawn_adj] [Character]s appear [side_position]</li>
     <li>artextra_clause->a [Animal] [idles] [side_position]</li>
     <li>artextra_clause->if you squint your eyes, the [composition] composition of the image reveals the outline of [subimageany]</li>
-    <li>artextra_clause->the [emotional_expression] head of a [PAWN_adj] [PersonJob] watches over all</li>
-    <li>artextra_clause->a [PAWN_adj] [PersonJob] watches over all while [emotional_expression]</li>
-    <li>artextra_clause->the head of a [PAWN_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->the [emotional_expression] head of a [pawn_adj] [PersonJob] watches over all</li>
+    <li>artextra_clause->a [pawn_adj] [PersonJob] watches over all while [emotional_expression]</li>
+    <li>artextra_clause->the head of a [pawn_adj] [PersonJob] watches over all</li>
     <li>artextra_clause->the whole image is depicted by the careful arrangement of [subimageplural]</li>
     <li>subimageany->[subimagesingle]</li>
     <li>subimageany->[subimageplural]</li>
@@ -214,6 +214,6 @@
     <li>subimageplural(p=3)->cúpla [Character]</li>
     <li>subimageplural->cúpla [Vegetable]</li>
     <li>subimageplural->cúpla [Shape]</li>
- </ArtDescriptionUtility_Global.rulePack.rulesStrings>
+  </ArtDescriptionUtility_Global.rulePack.rulesStrings>
   
 </LanguageData>

@@ -2,31 +2,31 @@
 <LanguageData>
   
   <!-- EN: resurrect heavy mechanoid -->
-  <ResurrectHeavyMech.label>schwere Mechs erwecken</ResurrectHeavyMech.label>
+  <ResurrectHeavyMech.label>TODO</ResurrectHeavyMech.label>
   <!-- EN: Resurrect a friendly mechanoid of the heavy weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
-  <ResurrectHeavyMech.description>Erwecke einen freundlichen Mechanoiden der schweren Gewichtsklasse wieder zum Leben. Solange der Körper des Mechanoiden nicht vollständig zerstört ist, kann er wiedererweckt werden.</ResurrectHeavyMech.description>
+  <ResurrectHeavyMech.description>TODO</ResurrectHeavyMech.description>
   <!-- EN: Resurrecting mech. -->
-  <ResurrectHeavyMech.jobString>Erweckt Mech.</ResurrectHeavyMech.jobString>
+  <ResurrectHeavyMech.jobString>TODO</ResurrectHeavyMech.jobString>
   
   <!-- EN: resurrect light mechanoid -->
-  <ResurrectLightMech.label>leichte Mechs erwecken</ResurrectLightMech.label>
+  <ResurrectLightMech.label>TODO</ResurrectLightMech.label>
   <!-- EN: Resurrect a friendly mechanoid of the light weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
-  <ResurrectLightMech.description>Erwecke einen freundlich gesinnten Mechanoiden der leichten Gewichtsklasse wieder zum Leben. Solange der Körper des Mechanoiden nicht vollständig zerstört ist, kann er wiedererweckt werden.</ResurrectLightMech.description>
+  <ResurrectLightMech.description>TODO</ResurrectLightMech.description>
   <!-- EN: Resurrecting mech. -->
-  <ResurrectLightMech.jobString>Erweckt Mech.</ResurrectLightMech.jobString>
+  <ResurrectLightMech.jobString>TODO</ResurrectLightMech.jobString>
   
   <!-- EN: resurrect medium mechanoid -->
-  <ResurrectMediumMech.label>mittlere Mechs erwecken</ResurrectMediumMech.label>
+  <ResurrectMediumMech.label>TODO</ResurrectMediumMech.label>
   <!-- EN: Resurrect a friendly mechanoid of the medium weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
-  <ResurrectMediumMech.description>Erwecke einen freundlich gesinnten Mechanoiden der mittleren Gewichtsklasse wieder zum Leben. Solange der Körper des Mechanoiden nicht vollständig zerstört ist, kann er wiedererweckt werden.</ResurrectMediumMech.description>
+  <ResurrectMediumMech.description>TODO</ResurrectMediumMech.description>
   <!-- EN: Resurrecting mech. -->
-  <ResurrectMediumMech.jobString>Erweckt Mech.</ResurrectMediumMech.jobString>
+  <ResurrectMediumMech.jobString>TODO</ResurrectMediumMech.jobString>
   
   <!-- EN: resurrect ultraheavy mechanoid -->
-  <ResurrectUltraheavyMech.label>ultraschwere Mechs erwecken</ResurrectUltraheavyMech.label>
+  <ResurrectUltraheavyMech.label>TODO</ResurrectUltraheavyMech.label>
   <!-- EN: Resurrect a friendly mechanoid of the ultraheavy weight class. So long as the mechanoid's body is not completely destroyed, it can be resurrected. -->
-  <ResurrectUltraheavyMech.description>Erwecke einen freundlich gesinnten Mechanoiden der ultraschweren Gewichtsklasse wieder zum Leben. Solange der Körper des Mechanoiden nicht vollständig zerstört ist, kann er wiedererweckt werden.</ResurrectUltraheavyMech.description>
+  <ResurrectUltraheavyMech.description>TODO</ResurrectUltraheavyMech.description>
   <!-- EN: Resurrecting mech. -->
-  <ResurrectUltraheavyMech.jobString>Erweckt Mech.</ResurrectUltraheavyMech.jobString>
+  <ResurrectUltraheavyMech.jobString>TODO</ResurrectUltraheavyMech.jobString>
   
 </LanguageData>

@@ -4,11 +4,15 @@
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] has accepted and joined [INITIATOR_nameDef]'s community.</li>
   -->
-  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings><li>sent->Ghéill [RECIPIENT_nameDef] agus tá [RECIPIENT_nameDef] tar éis dul le coilíneacht [INITIATOR_nameDef].</li></Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+  <Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
+    <li>sent->Ghéill [RECIPIENT_nameDef] agus tá [RECIPIENT_nameDef] tar éis dul le coilíneacht [INITIATOR_nameDef].</li>
+  </Sentence_RecruitAttemptAccepted.rulePack.rulesStrings>
   
   <!-- EN:
     <li>sent->[RECIPIENT_nameDef] refused.</li>
   -->
-  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings><li>sent->Dhiúltaigh [RECIPIENT_nameDef] dul leis an gcoilíneacht.</li></Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+  <Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
+    <li>sent->Dhiúltaigh [RECIPIENT_nameDef] dul leis an gcoilíneacht.</li>
+  </Sentence_RecruitAttemptRejected.rulePack.rulesStrings>
   
 </LanguageData>

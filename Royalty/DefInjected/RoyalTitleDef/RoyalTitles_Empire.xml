@@ -3,15 +3,14 @@
   
   <!-- EN: acolyte -->
   <Acolyte.label>acalaí</Acolyte.label>
-  <!-- EN: The title of acolyte is the first title of noble duty, and encompasses a wide range of practical positions. Some acolytes are purely students, learning to lead troops, manage societies, or use psycasts in specialized schools. Others come from wealthy families and might own city buildings or farm complexes.\n\nDuring wartime, an acolyte might lead a platoon of troops, captain a small frigate, or serve their lord as an advisor.\n\nTheir low rank within the nobility makes them paradoxically less useful as diplomats than yeomen. Sending a low-ranked acolyte to a negotiation can itself be seen as an insult, whereas a non-noble yeoman negotiator is seen only as the mouthpiece of their lord. -->
+  <!-- EN: The title of acolyte is the title of senior learners in the psychic cult, and encompasses a wide range of practical positions. Some acolytes are purely students, learning to lead troops, manage societies, or use psycasts in specialized schools. Others come from wealthy families and might own city buildings or farm complexes.\n\nDuring wartime, an acolyte might lead a platoon of troops, captain a small frigate, or serve their liege as an advisor. -->
   <Acolyte.description>Is é 'acalaí' an chéad teideal ríoga, agus baineann sé le róil éagsúla. Scoláirí is ea iad acalaithe áirithe, agus foghlaimíonn siad conas trúpaí a theorú, conas daoine a bhainistiú nó conas cumhachtaí síceacha a úsáid i scoileanna speisialta. Tagann acalaithe eile ó theaghlaigh shaibhre a bhfuil tithe iontacha nó feirmeacha móra acu.\n\nIn aimsir chogaidh, is minic go mbíonn acalaithe i gceannas ar scataí trúpaí nó spáslonga beaga, nó uaireanta feidhmíonn siad mar chomhairleoirí.\n\nTá grád sách íseal acu sa sochaí ríoga, rud a chiallaíonn nach bhfuil mórán neamhspléachais acu, agus is minic nach mbíonn iontu ach urlabhraithe dá dtiarnaí.</Acolyte.description>
-    <Acolyte.labelFemale>acalaí</Acolyte.labelFemale>
-
+  <Acolyte.labelFemale>acalaí</Acolyte.labelFemale>
+  
   <!-- EN: baron -->
   <Baron.label>barún</Baron.label>
-  <!-- EN: The title of baron is the lowest of the middle nobility. While lower titles focus on personal service at war or commerce under a lord, barons hold title as semi-independent rulers. Each baron is subordinate to his liege lord, but his obligations are mostly in supplying wealth and troops, and not in personal service.\n\nIn the Empire, a baron will typically own a city sector, mining colony, or similar outfit. At wartime, a baron may captain a capital ship in name, or control a regiment of troops. -->
+  <!-- EN: The title of baron is the lowest of the psychic lords who can act as a semi-independent ruler. Most barons are subordinate to a higher lord. The baron is obliged to provide both personal service as a warrior or advisor, and economic support like money and troops.\n\nIn the Empire, a baron will typically own a city sector, mining colony, or similar outfit. At wartime, a baron may captain a capital ship in name, or control a regiment of soldiers. -->
   <Baron.description>Baineann an teideal 'barún' leis leibhéal is ísle den mheánaicme. Bíonn teidil eile dírithe ar an tseirbhís phearsanta a chuireann siad ar fáil dá dtiarnaí, ach feidhmíonn barúin mar cheannairí astu féin - cé go mbíonn neamhspléachas teoranta acu. Oibríonn gach barún faoi thiarna, ach is minic go mbíonn sé de dhualgas orthu trúpaí nó airgead a chur ar fáil dóibh.\n\nSan Impireacht, is minic go mbíonn barún i gceannas ar chontae, comhairle cathrach nó coilíneacht. In aimsigh chogaidh, uaireanta cuirtear barúin i gceannas ar spáslonga móra nó reisimintí trúpaí.</Baron.description>
-  <!-- EN: baroness -->
   <Baron.labelFemale>barún</Baron.labelFemale>
   
   <!-- EN: consul -->
@@ -20,18 +19,16 @@
   <Consul.description>Baineann an teideal 'consal' leis leibhéal is ísle den ardaicme.\n\nSan Impireacht, bíonn consail i gceannas ar phláinéid. In aimsir chogaidh, is iondúil go mbíonn siad freagrach as airm nó flíteanna éagsúla. Is minic go mbíonn siad lonnaithe i spás-stáisiúin ollmhóra nó i bpríomhchathracha.</Consul.description>
   <Consul.labelFemale>consule</Consul.labelFemale>
   
-  <!-- EN: count -->
+  <!-- EN: archon -->
   <Count.label>cunta</Count.label>
-  <!-- EN: The title of count is the middle rank of middle nobility.\n\nIn peacetime, counts hold title to a city or colony, and might have a small personal fleet, possibly including capital ships. -->
+  <!-- EN: The title of archon is middle rank among the independent members of the psychic cult.\n\nIn peacetime, an archon may rule to a city or colony. A successful archon might have a small personal fleet, possibly including capital ships. -->
   <Count.description>Baineann an teideal 'cunta' leis an leibhéal lárnach den meánaicme.\n\nIn aimsir na síochána, is iondúil go mbíonn siad freagrach as cathracha nó coilíneachtaí, agus is minic go mbíonn flít phearsanta acu freisin.</Count.description>
-  <!-- EN: countess -->
   <Count.labelFemale>beanchunta</Count.labelFemale>
   
-  <!-- EN: duke -->
+  <!-- EN: dominus -->
   <Duke.label>diúc</Duke.label>
-  <!-- EN: The Imperial title of duke is the highest of the middle nobility.\n\nIn the Empire, dukes control provinces, mega-cities, or moons. At war, a duke can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
+  <!-- EN: The Imperial title of dominus is the highest of the middle-ranked independent rulers.\n\nIn the Empire, domini control provinces, mega-cities, or moons. At war, a dominus can field a division-level force, or a fleet with capital ships and dozens of support craft. -->
   <Duke.description>Baineann an teideal 'diúc' leis an leibhéal is airde den mheánaicme. \n\nSan Impireacht, bíonn diúic i gceannas ar chúigí, ollchathracha nó gealaí. In aimsir chogaidh, bíonn siad freagrach as rannáin nó flíteanna ina bhfuil na scórtha spáslonga a stiúradh.</Duke.description>
-  <!-- EN: duchess -->
   <Duke.labelFemale>beandiúc</Duke.labelFemale>
   
   <!-- EN: emperor -->
@@ -48,14 +45,13 @@
   
   <!-- EN: knight -->
   <Knight.label>ridire</Knight.label>
-  <!-- EN: The title of knight is held by nobles who have largely passed their training, but who have not ascended to higher leadership roles. Many knights never advance further, and spend their lives as respected managers, advisors, or warriors.\n\nMost knights have some wealth, but a few remain quite poor while others may be very rich.\n\nIn peacetime, a knight may manage a factory complex, commercial district, or small farming region. In war, some knights lead troop companies and assault squadrons, while psychic-focused knights engage in espionage, sabotage, and battlefield psychic combat. -->
+  <!-- EN: The title of knight is held by agents of the psychic cult who have fully passed their training, but who have not ascended to higher leadership roles. Many knights never advance further, and spend their lives as respected warriors, advisors, or commanders.\n\nIn war, some knights lead troop companies and assault squadrons, while psychic-focused knights engage in espionage, sabotage, and battlefield psychic combat. -->
   <Knight.description>Tugtar an teideal seo do huaisle a bhfuil a gcuid oiliúint curtha i gcrích acu, sula dtéann siad isteach i róil cheannaireachta. Is minic go bhfanann ridirí ar an ngrád seo, agus bíonn siad ina gcomhairleoirí, ina mbainisteoirí agus ina saighdiúirí.\n\nIs iondúil nach mbíonn ridirí gann ar airgead, ach braitheann a saibhreas ar an gcúlra atá acu.\n\nIn aimsir síochána, is iondúil go mbíonn ridirí i gceannas ar mhonarchana, ar cheantair tráchtála nó ar fheirmeacha móra. In aimsir chogaidh, bíonn ridirí ina gceannairí ar chompántais agus scuadrúin.</Knight.description>
-  <!-- EN: dame -->
   <Knight.labelFemale>banridire</Knight.labelFemale>
   
   <!-- EN: praetor -->
   <Praetor.label>praetóir</Praetor.label>
-  <!-- EN: The title of praetor is a bridge between the service-oriented lower titles below and the power-holding nobility above.\n\nDuring peacetime, a praetor will usually manage a city district, asteroid sector, or agricultural region. During war, they take authority over the smallest combat units that fight independently - terrestrial troop cohorts, or space-borne destroyers or combat groups. -->
+  <!-- EN: The title of praetor denotes a member of the psychic cult who carries out field missions in a more senior role than a mere knight. Praetors often act alone, but may also command knights and lower members.\n\nDuring peacetime, a praetor will usually manage a city district, asteroid sector, or agricultural region. During war, they take authority over the smallest independent combat units - terrestrial troop cohorts, or space-borne destroyers or combat groups. -->
   <Praetor.description>Baineann an teideal 'praetóir' leis an bpointe idir an ísealaicme agus an mheánaicme.\n\nDe ghnáth, bíonn siad i gceannas ar dhúichí nó réigiúin. In aimsir chogaidh, bíonn siad freagrach as na haonaid neamhspleácha is beaga a stiúradh.</Praetor.description>
   <Praetor.labelFemale>praetóir</Praetor.labelFemale>
   
@@ -65,9 +61,9 @@
   <Stellarch.description>Bíonn smacht ag réaltarcach ar réaltchóras iomlán.\n\nSan Impireacht, tógann sé blianta taisteal idir-réaltach a dhéanamh idir na pláinéad agus idir na réaltchórais, mar sin bíonn neamhspleáchas iomlán ag na réaltarcaigh laistigh dá gcórais féin. Bíonn siad iomlán dílis don Impire - ach i gcásanna áirithe bíonn réaltarcaigh lonnaithe cúpla solasbhliain ón áit ina bhfuil an chuid eile den Impireacht, agus d'fhéadfadh siad na blianta a chaitheamh gan aon chur isteach on taobh amuigh.</Stellarch.description>
   <Stellarch.labelFemale>réaltarcach</Stellarch.labelFemale>
   
-  <!-- EN: yeoman -->
+  <!-- EN: novice -->
   <Yeoman.label>scológ</Yeoman.label>
-  <!-- EN: The Imperial title of yeoman is held by those who serve a noble lord in an important, specific way. While it is not a noble title, it does give the holder the right to use low-level psychic abilities.\n\nThis title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals. Many important people spend their entire lives as yeomen, seeking success outside the strictures of nobility. -->
+  <!-- EN: The Imperial title of novice is held by those who have recently been initiated into the ranks of the psychic cult. It gives the holder the right to use low-level psychic abilities as part of their learning.\n\nThis title is often held by senior soldiers, warskiff pilots, spies, advisors, diplomats, intrusion operatives, and other key individuals. Many important people spend their entire lives as novices. -->
   <Yeoman.description>Bronntar an teideal 'scológ' orthu siúd a chuireann seirbhís ar leith ar fáil do thiarna nó don Impireacht. Cé nach teideal ríoga é, bíonn cead ag scológa cumhachtaí síceacha íseal-leibhéil a úsáid.\n\nIs minic go mbronntar an teideal seo ar shaighdiúirí sinsearacha, píolótaí, spiairí, comhairleoirí taidhleoirí agus daoine tábhachtacha eile.</Yeoman.description>
   
 </LanguageData>

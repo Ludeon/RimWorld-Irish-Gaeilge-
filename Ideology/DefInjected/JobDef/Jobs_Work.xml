@@ -2,42 +2,39 @@
 <LanguageData>
   
   <!-- EN: changing dryad caste of TargetA. -->
-  <ChangeTreeMode.reportString>change la caste des dryades de TargetA.</ChangeTreeMode.reportString>
+  <ChangeTreeMode.reportString>TODO</ChangeTreeMode.reportString>
   
   <!-- EN: creating cocoon. -->
-  <CreateAndEnterCocoon.reportString>crée un cocon.</CreateAndEnterCocoon.reportString>
+  <CreateAndEnterCocoon.reportString>TODO</CreateAndEnterCocoon.reportString>
   
   <!-- EN: creating healing pod. -->
-  <CreateAndEnterHealingPod.reportString>crée une cosse de soin.</CreateAndEnterHealingPod.reportString>
-  
-  <!-- EN: hacking TargetA. -->
-  <Hack.reportString>pirate TargetA.</Hack.reportString>
+  <CreateAndEnterHealingPod.reportString>TODO</CreateAndEnterHealingPod.reportString>
   
   <!-- EN: merging into TargetB. -->
-  <MergeIntoGaumakerPod.reportString>fusionne dans TargetB.</MergeIntoGaumakerPod.reportString>
+  <MergeIntoGaumakerPod.reportString>TODO</MergeIntoGaumakerPod.reportString>
   
   <!-- EN: converting TargetA. -->
-  <PrisonerConvert.reportString>convertit TargetA.</PrisonerConvert.reportString>
+  <PrisonerConvert.reportString>TODO</PrisonerConvert.reportString>
   
   <!-- EN: enslaving TargetA. -->
-  <PrisonerEnslave.reportString>asservi TargetA.</PrisonerEnslave.reportString>
+  <PrisonerEnslave.reportString>TODO</PrisonerEnslave.reportString>
   
   <!-- EN: reducing will of TargetA. -->
   <PrisonerReduceWill.reportString>TODO</PrisonerReduceWill.reportString>
   
   <!-- EN: pruning TargetA. -->
-  <PruneGauranlenTree.reportString>élague TargetA.</PruneGauranlenTree.reportString>
+  <PruneGauranlenTree.reportString>TODO</PruneGauranlenTree.reportString>
   
   <!-- EN: returning to TargetA. -->
-  <ReturnToGauranlenTree.reportString>retourne à TargetA.</ReturnToGauranlenTree.reportString>
+  <ReturnToGauranlenTree.reportString>TODO</ReturnToGauranlenTree.reportString>
   
   <!-- EN: emancipating TargetA. -->
-  <SlaveEmancipation.reportString>affranchi TargetA.</SlaveEmancipation.reportString>
+  <SlaveEmancipation.reportString>TODO</SlaveEmancipation.reportString>
   
   <!-- EN: executing TargetA. -->
-  <SlaveExecution.reportString>exécute targetA.</SlaveExecution.reportString>
+  <SlaveExecution.reportString>TODO</SlaveExecution.reportString>
   
   <!-- EN: suppressing TargetA. -->
-  <SlaveSuppress.reportString>réprime TargetA.</SlaveSuppress.reportString>
+  <SlaveSuppress.reportString>TODO</SlaveSuppress.reportString>
   
 </LanguageData>

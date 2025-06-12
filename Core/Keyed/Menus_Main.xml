@@ -116,6 +116,8 @@
   <PlanetCoverageTip>An céatadán den phláinéad ar mhaith leat a ghiniúint ar an léarscáil. Bíonn níos mó acmhainní agus níos mó ama de dhíth chun pláinéad iomlán a ghiniúint.</PlanetCoverageTip>
   <!-- EN: Factions -->
   <WorldFactionsTab>Faicsin</WorldFactionsTab>
+  <!-- EN: Advanced settings -->
+  <AdvancedSettings>TODO</AdvancedSettings>
 
   <!-- Select world -->
   <!-- EN: Select world -->
@@ -124,7 +126,7 @@
   <WorldChooseButton>Roghnaigh</WorldChooseButton>
   <!-- EN: No world files found. Create a world first. -->
   <NoWorldsFilesFound>Níor aimsíodh aon chomhaid. Cruthaigh domhan sula dtéann tú níos faide.</NoWorldsFilesFound>
-
+  
   <!-- Version info -->
   <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
   <BuildNowAvailable>Tá Leagan {0} ar fáil anois. Féach Ludeon.com do thuilleadh eolais.</BuildNowAvailable>
@@ -304,7 +306,7 @@
   <ScenarioEditor>Eagarthóir</ScenarioEditor>
   <!-- EN: Delete -->
   <Delete>Scrios</Delete>
-
+  
   <!-- Scenario editor -->
   <!-- EN: seed -->
   <Seed>Síol</Seed>
@@ -332,7 +334,7 @@
   <CanBeUpdatedOnWorkshop>Is féidir é seo a uasdátú ar Workshop, ós rud é gur tusa an t-údar.</CanBeUpdatedOnWorkshop>
   <!-- EN: This scenario has been edited.\n\nDo you want to save it before proceeding? -->
   <ScenarioChangedSavePrompt>Athraíodh an scéal seo.\n\nAr mhaith leat é a shábháil sula leanfaidh tú ar aghaidh?</ScenarioChangedSavePrompt>
-
+  
   <!-- Select storyteller -->
   <!-- EN: Choose AI Storyteller -->
   <ChooseAIStoryteller>Roghnaigh Scéalaí IS</ChooseAIStoryteller>
@@ -360,7 +362,7 @@
   <DifficultyCustomSectionLabel>Socruithe imeartha sainoiriúnaithe</DifficultyCustomSectionLabel>
   <!-- EN: Set to standard playstyle... -->
   <DifficultyReset>Roghnaigh an ghnáth-stíl imeartha...</DifficultyReset>
-
+  
   <!-- EN: Threats -->
   <DifficultyThreatSection>Bagairtí</DifficultyThreatSection>
   <!-- EN: Threat scale -->
@@ -481,6 +483,10 @@
   <Difficulty_UnwaveringPrisoners_Label>Príosúnaigh dhiongbháilte</Difficulty_UnwaveringPrisoners_Label>
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
   <Difficulty_UnwaveringPrisoners_Info>Leis an rogha seo, cuirfear príosúnaigh dhiongbháilte leis an gcluiche, nach mbeidh tú in ann iad a earcú.\n\nDéantar príosúnaigh dhiongbháilte a chur isteach mar aon leis na gnáthphríosúnaigh, mar sin ní bheidh níos mó príosúnaigh le hearcú má roghnaítear an socrú seo - ní bhaineann an socrú seo ach le príosúnaigh dhiongbháilte.\n\nIs féidir príosúnaigh dhiongbháilte a scaoileadh saor ar chúiseanna taidhleoireachta, a dhíol, a chur faoi smacht, nó is féidir úsáidí eile a bhaint astu. Ar an iomlán, cuireann siad tuilleadh roghanna agus acmhainní ar fáil, agus déanann siad an cluiche níos saibhre agus níos éasca.</Difficulty_UnwaveringPrisoners_Info>
+  <!-- EN: Nomadic mineable resources -->
+  <Difficulty_NomadicMineableResourcesFactor_Label>TODO</Difficulty_NomadicMineableResourcesFactor_Label>
+  <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
+  <Difficulty_NomadicMineableResourcesFactor_Info>TODO</Difficulty_NomadicMineableResourcesFactor_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Uirlisí imreora</DifficultyPlayerToolsSection>
@@ -500,7 +506,7 @@
   <Difficulty_ClassicMortars_Label>Moirtéir chlasaiceacha</Difficulty_ClassicMortars_Label>
   <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
   <Difficulty_ClassicMortars_Info>Ní bheidh gá bairillí treisithe a chur le moirtéir chun iad a thógáil nó a athlódáil, agus déanfar iad a choigeartú ar mhaithe le so-rochtaineacht.</Difficulty_ClassicMortars_Info>
-
+  
   <!-- EN: Adaptation -->
   <DifficultyAdaptationSection>Oiriúnú</DifficultyAdaptationSection>
   <!-- EN: Adaptation growth rate -->
@@ -560,6 +566,8 @@
   <River>Abhann</River>
   <!-- EN: Elevation -->
   <Elevation>Airde</Elevation>
+  <!-- EN: Features -->
+  <TileMutators>TODO</TileMutators>
   <!-- EN: Fertility -->
   <Fertility>Torthúlacht</Fertility>
   <!-- EN: fertility -->
@@ -682,7 +690,7 @@
   <StartingPawnsLeftBehind>Neamhroghnaithe</StartingPawnsLeftBehind>
   <!-- EN: This person is considered guilty. Others won't be bothered if you banish, execute or arrest them.\n\nGuilt expires in -->
   <GuiltyDesc>Tá an coilíneach seo ciontach. Féadfaidh tú an duine seo a chur ar deoraíocht, a chur chun báis, nó a ghabháil, agus ní chuirfear isteach ar aon duine eile.\n\nRachaidh an ciontacht in éag i gceann</GuiltyDesc>
-
+  
   <!-- Misc -->
   <!-- EN: Start -->
   <Start>Tosaigh</Start>
@@ -706,7 +714,7 @@
   <Quit>Dún an cluiche</Quit>
   <!-- EN: Ignore -->
   <Ignore>Lean ar aghaidh</Ignore>
-
+  
   <!-- Progress bar -->
   <!-- EN: Generating world -->
   <GeneratingWorld>Domhan á ghiniúint</GeneratingWorld>
@@ -721,6 +729,10 @@
   <ClickForMoreInfo>Cliceáil do thuilleadh eolais.</ClickForMoreInfo>
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>Níl aon eolas breise ar fáil.</NoMoreInfoAvailable>
+  <!-- EN: Best skill -->
+  <BestSkillLabel>TODO</BestSkillLabel>
+  <!-- EN: skill level {0} -->
+  <BestSkillInfoLevel>TODO</BestSkillInfoLevel>
 
   <!-- Factions -->
   <!-- EN: Factions -->
@@ -739,5 +751,7 @@
   <MechanoidsDisabledContentWarning>Mura roghnaítear, {0} laghdófar éagsúlacht na misean agus na mbagairtí.</MechanoidsDisabledContentWarning>
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Mura mbeidh aon fhaicsean eile ann, ní tharlóidh ruathair agus misin mar is gnáth, agus ní bheidh tú in ann trádáil le daoine eile.</FactionsDisabledWarning>
+  <!-- EN: Cannot be removed for this scenario. -->
+  <FactionRemovalDisabled>TODO</FactionRemovalDisabled>
 
 </LanguageData>

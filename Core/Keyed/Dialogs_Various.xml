@@ -23,7 +23,7 @@
   <Disable>Díchumasaigh</Disable>
   <!-- EN: Modify -->
   <Modify>Athraigh</Modify>
-  <!-- EN: Settle here anyways? -->
+  <!-- EN: Settle here anyway? -->
   <ConfirmSettle>Ar mhaith leat do choilíneach a bhunú anseo ar aon nós?</ConfirmSettle>
   <!-- EN: add -->
   <Add>cuir leis</Add>
@@ -249,8 +249,8 @@
   <SelectedCharactersMustInclude>Tá {SUMMARY} de dhíth.</SelectedCharactersMustInclude>
 
   <!-- Advanced game start options -->
-  <!-- EN: Warning: You will be landing in a frozen environment. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different site or season. -->
-  <MapTemperatureDangerWarning>Rabhadh: Beidh tú ag leandáil i dtimpeallacht reoite. Beidh sé an-deacair nó beagnach dodhéanta maireachtáil anseo. Mura bhfuil sé i gceist agat tabhairt faoi dhúshlán an-deacair, roghnaigh suíomh nó séasur eile.</MapTemperatureDangerWarning>
+  <!-- EN: Warning: You will be landing in winter. It may be hard or nearly impossible to survive. If you are not intending to face an extreme challenge, choose a different season. -->
+  <MapWinterWarning>TODO</MapWinterWarning>
   <!-- EN: The game is designed to play on medium map sizes. These sizes provide plenty of space!\n\nLarge map sizes don't just degrade performance - they actually break the game design. The AI will make stupid decisions, and game balance will be badly affected in various ways. These sizes are included for tradition and testing reasons only, please do not use them without a specific reason. -->
   <MapSizePerformanceWarning>Dearadh an cluiche chun go bhfeidhmeoidh sé le léarscáileanna meánacha. Tá go leor spáis ar na léarscáileanna sin!\n\nLaghdófar feidhmíocht do ríomhaire má úsáidtear léarscáil an-mhór, agus ní fheidhmeoidh an cluiche i gceart. Déanfaidh an IS cinntí amaideacha, agus beidh cothromaíocht an chluiche as alt. Cuirtear na méideanna seo ar fáil chun críoch tástála amháin, ach níor cheart úsáid a bhaint astu gan chúis mhaith</MapSizePerformanceWarning>
   <!-- EN: Map size -->
@@ -700,6 +700,8 @@
   <TradeModeTip>Téigh siar chuig Mód Trádála.</TradeModeTip>
   <!-- EN: {FACTION_name} is not willing to send a caravan because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
   <TradeCaravanRequestDeniedDueTitle>Níl an faicsean '{FACTION_name}' sásta carbhán a sheoladh toisc nach bhfuil an teideal ceart ({TITLE}) ag {NEGOTIATOR_nameDef}.</TradeCaravanRequestDeniedDueTitle>
+  <!-- EN: {FACTION_name} is not willing to send an orbital trader because {NEGOTIATOR_nameDef} lacks the required title of {TITLE}. -->
+  <OrbitalTradeRequestDeniedDueTitle>TODO</OrbitalTradeRequestDeniedDueTitle>
 
   <!-- Sellable items -->
   <!-- EN: Things this trader will buy -->
@@ -728,6 +730,10 @@
   <Send>Seol</Send>
   <!-- EN: Number available to send with the caravan. -->
   <FormCaravanColonyThingCountTip>An líon atá ar fáil le seoladh leis an gcarbhán.</FormCaravanColonyThingCountTip>
+  <!-- EN: Number available to transport. -->
+  <TransporterColonyThingCountTip>TODO</TransporterColonyThingCountTip> <!-- text_todo -->
+  <!-- EN: Number available to transfer. -->
+  <TransferMapPortalColonyThingCountTip>TODO</TransferMapPortalColonyThingCountTip> <!-- text_todo -->
   <!-- EN: People and animals -->
   <PawnsTab>Daoine agus ainmhithe</PawnsTab>
   <!-- EN: Items -->
@@ -948,6 +954,8 @@
   <DuplicatePolicyTip>Cruthaigh cóip den pholasaí seo.</DuplicatePolicyTip>
   <!-- EN: Rename this policy. -->
   <RenamePolicyTip>Cuir ainm nua ar an bpolasaí seo.</RenamePolicyTip>
+  <!-- EN: Make this policy the default policy given to new colonists. -->
+  <DefaultPolicyTip>TODO</DefaultPolicyTip>
   <!-- EN: Are you sure you want to delete the policy: {0}? -->
   <DeletePolicyConfirm>An bhfuil tú cinnte go bhfuil tú ag iarraidh an polasaí "{0}" a scriosadh?</DeletePolicyConfirm>
   <!-- EN: Delete -->
@@ -1059,6 +1067,8 @@
   <SchematicPolicy>Scéimléaráidí</SchematicPolicy>
   <!-- EN: Novels -->
   <NovelPolicy>Úrscéalta</NovelPolicy>
+  <!-- EN: Maps -->
+  <MapPolicy>TODO</MapPolicy>
 
   <!-- Medical settings -->
   <!-- EN: Default medicine settings -->
@@ -1138,8 +1148,10 @@
   <ConfirmBanishPawnDialog_IndividualThoughts>Má dhéantar {1_labelShort} a dhíbirt, beidh na héifeachtaí seo a leanas ar na coilínigh seo a leanas:</ConfirmBanishPawnDialog_IndividualThoughts>
 
   <!-- Send transport pods which are not completely loaded -->
-  <!-- EN: Pod group isn't completely loaded. {1_labelShort} is missing. Launch anyway? -->
-  <ConfirmSendNotCompletelyLoadedPods>Níl na podanna iompair lódáilte i gceart. Tá {1_labelShort} in easnamh. An bhfuil tú ag iarraidh leanúint ar aghaidh ar aon nós?</ConfirmSendNotCompletelyLoadedPods>
+  <!-- EN: The following still need to be loaded -->
+  <ConfirmSendNotCompletelyLoadedLaunchable>TODO</ConfirmSendNotCompletelyLoadedLaunchable>
+  <!-- EN: Launch anyway? -->
+  <ConfirmSendLaunchAnyway>TODO</ConfirmSendLaunchAnyway>
 
   <!-- Settle near a faction base -->
   <!-- EN: Since this location is within {0} tiles of another faction base, they will feel you are encroaching on their land and relations with those factions will worsen every {1} days. -->
@@ -1413,6 +1425,10 @@
   <SearchTheMap>Cuardaigh sa léarscáil reatha</SearchTheMap>
   <!-- EN: Search the current map for items, buildings, people, animals, plants, and more. -->
   <SearchTheMapDesc>Déan cuardach sa léarscáil reatha le haghaidh earraí, foirgnimh, daoine, ainmhithe, plandaí agus mar sin de.</SearchTheMapDesc>
+  <!-- EN: Search the world -->
+  <SearchTheWorld>TODO</SearchTheWorld>
+  <!-- EN: Search the world for specific features, landmarks, quests, or settlements. -->
+  <SearchTheWorldDesc>TODO</SearchTheWorldDesc>
   <!-- EN: {0} results found -->
   <MapSearchResults>Aimsíodh {0} rud</MapSearchResults>
   <!-- EN: 1 result found -->
@@ -1421,6 +1437,8 @@
   <Searching>Ag cuardach</Searching>
 
   <!-- UNUSED -->
+  <MapTemperatureDangerWarning>Rabhadh: Beidh tú ag leandáil i dtimpeallacht reoite. Beidh sé an-deacair nó beagnach dodhéanta maireachtáil anseo. Mura bhfuil sé i gceist agat tabhairt faoi dhúshlán an-deacair, roghnaigh suíomh nó séasur eile.</MapTemperatureDangerWarning>
+  <ConfirmSendNotCompletelyLoadedPods>Níl na podanna iompair lódáilte i gceart. Tá {1_labelShort} in easnamh. An bhfuil tú ag iarraidh leanúint ar aghaidh ar aon nós?</ConfirmSendNotCompletelyLoadedPods>
   <Outfit>Outfit</Outfit>
   <SelectOutfit>Outfit auswählen...</SelectOutfit>
   <NewOutfit>Outfit erstellen</NewOutfit>

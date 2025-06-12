@@ -1,28 +1,32 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: neutral ancients -->
   <Ancients.label>seanóirí neodracha</Ancients.label>
   <!-- EN: Ancients -->
   <Ancients.fixedName>muintir an tseansaoil</Ancients.fixedName>
   <!-- EN: leader -->
   <Ancients.leaderTitle>ceannaire</Ancients.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <Ancients.messageDefendersAttacking>Tá saighdiúirí ársa ag ionsú.</Ancients.messageDefendersAttacking>
   <!-- EN: ancient -->
   <Ancients.pawnSingular>seanóir</Ancients.pawnSingular>
   <!-- EN: ancients -->
   <Ancients.pawnsPlural>seanóir</Ancients.pawnsPlural>
-
+  
   <!-- EN: hostile ancients -->
   <AncientsHostile.label>seanóirí naimhdeacha</AncientsHostile.label>
   <!-- EN: Ancients -->
   <AncientsHostile.fixedName>muintir an tseansaoil</AncientsHostile.fixedName>
   <!-- EN: leader -->
   <AncientsHostile.leaderTitle>ceannaire</AncientsHostile.leaderTitle>
+  <!-- EN: Ancient soldiers are attacking. -->
+  <AncientsHostile.messageDefendersAttacking>Tá saighdiúirí ársa ag ionsú.</AncientsHostile.messageDefendersAttacking>
   <!-- EN: ancient -->
   <AncientsHostile.pawnSingular>seanóir</AncientsHostile.pawnSingular>
   <!-- EN: ancients -->
   <AncientsHostile.pawnsPlural>seanóir</AncientsHostile.pawnsPlural>
-
+  
   <!-- EN: insect geneline -->
   <Insect.label>Ollphéisteanna</Insect.label>
   <!-- EN: These giant insect-like creatures live underground and burrow up to attack when attracted by noise or pheromone signals. Originally from the planet Sorne, interstellar entrepreneurs managed to capture, genetically-modify, and vat-grow the insect colonies for use as weapons. It's not clear who placed Sorne insects on this planet, but they are here and as dangerous as ever. -->
@@ -31,20 +35,24 @@
   <Insect.fixedName>géin-líne fheithideach</Insect.fixedName>
   <!-- EN: leader -->
   <Insect.leaderTitle>mórfheithid</Insect.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Insect.messageDefendersAttacking>TODO</Insect.messageDefendersAttacking>
   <!-- EN: insect -->
   <Insect.pawnSingular>feithid</Insect.pawnSingular>
   <!-- EN: insects -->
   <Insect.pawnsPlural>feithidí</Insect.pawnsPlural>
-
+  
   <!-- EN: mechanoid hive -->
   <Mechanoid.label>Meicea-róbait</Mechanoid.label>
   <!-- EN: Killer machines of unknown origin. Hidden in ancient structures, under mounds of dust, or at the bottom of the ocean, mechanoids can self-maintain for thousands of years. This group of mechs seems to be unified in purpose, but not well-coordinated in action. While local scholars believe they're autonomous weapons left over from an ancient war, tribal legends describe them as the demonic servants of a sleeping god. -->
   <Mechanoid.description>Ní fios cad as a tháinig na meaisíní marfacha seo. Bíonn siad i bhfolach i struchtúir ársa, faoin talamh, nó ar ghrinneall na farraige, agus féadfaidh siad fanacht ina gcodladh ar feadh na mílte bliain. Creideann taighdeoirí gur cruthaíodh iad i gcogadh a tharla fadó, ach deir lucht na dtreabh nach bhfuil iontu ach searbhóintí mallaithe a oibríonn ar son dia neamhthrócaireach éigean.</Mechanoid.description>
   <!-- EN: leader -->
   <Mechanoid.leaderTitle>ceannaire</Mechanoid.leaderTitle>
+  <!-- EN: {0} from {1} are attacking your {2}. -->
+  <Mechanoid.messageDefendersAttacking>TODO</Mechanoid.messageDefendersAttacking>
   <!-- EN: mechanoid -->
   <Mechanoid.pawnSingular>meicea-róbat</Mechanoid.pawnSingular>
   <!-- EN: mechanoids -->
   <Mechanoid.pawnsPlural>meicea-róbat</Mechanoid.pawnsPlural>
-
+  
 </LanguageData>

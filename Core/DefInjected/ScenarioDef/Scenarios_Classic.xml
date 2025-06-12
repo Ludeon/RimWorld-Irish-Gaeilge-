@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-
+  
   <!-- EN: Crashlanded -->
   <Crashlanded.label>Tuirlingt de Thuairt</Crashlanded.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
@@ -11,7 +11,7 @@
   <Crashlanded.scenario.name>Tuirlingt de Thuairt</Crashlanded.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
   <Crashlanded.scenario.summary>Triúir a tháinig slán ón tuirlingt de thuairt - an t-eispéireas clasaiceach ar RimWorld.</Crashlanded.scenario.summary>
-
+  
   <!-- EN: Lost Tribe -->
   <LostTribe.label>Treabh Caillte</LostTribe.label>
   <!-- EN: Your tribe was destroyed by the great blood machines sent by the gods. Five of you managed to escape. Now, it's time to build up a new home.\n\nNote: Since you'll start poor and lack technology, this is a difficult scenario. -->
@@ -24,7 +24,7 @@
   <LostTribe.scenario.parts.GameStartDialog.text>Bhí fearg ar na déithe. Tháinig na meaisíní miotail istóiche. Rinne siad slad ar bhur dtreabh, agus d'úsáid na meaisíní mallaithe tinte ó fhíoríochtar ifrinn chun do mhuintir a mharú.\n\Níor éalaigh ach cúpla duine.\n\nAnois, tar éis daoibh tabhairt faoi thuras léanmhar, agus gan chúnamh, beidh oraibh baile nua a thógáil amuigh ar an iargúil - díreach mar a rinne bhur sinsir.</LostTribe.scenario.parts.GameStartDialog.text>
   <!-- EN: Five lost tribespeople attempt to rebuild. Difficult. -->
   <LostTribe.scenario.summary>Déan iarracht baile nua a thógail le lucht tréibhe. Deacair.</LostTribe.scenario.summary>
-
+  
   <!-- EN: Naked Brutality -->
   <NakedBrutality.label>Brúidiúlacht Nocht</NakedBrutality.label>
   <!-- EN: You went under anesthetic for a minor surgery. Now you've awoken in a drop pod crashing into a distant planet. You're naked, alone, and totally unprepared. Can you survive?\n\nWarning: There is nothing fair about this scenario - it is extremely difficult and death can happen for any reason. -->
@@ -37,7 +37,7 @@
   <NakedBrutality.scenario.parts.GameStartDialog.text>Ní raibh i gceist ach obráid an-bheag. Uair an chloig faoi ainéistéiseach.\n\nDhúisigh tú i bpod éalaithe a bhí ag eitilt i dtreo pláinéad iargúlta.\n\nTá tú lomnocht, leat féin agus iomlán neamhullamh. Tá gach seans ann nach n-éireoidh leat.</NakedBrutality.scenario.parts.GameStartDialog.text>
   <!-- EN: Naked, alone, and utterly unprepared. Can you survive? Extremely difficult and unfair. -->
   <NakedBrutality.scenario.summary>Tá tú lomnocht, leat féin agus iomlán neamhullamh. An éireoidh leat?</NakedBrutality.scenario.summary>
-
+  
   <!-- EN: The Rich Explorer -->
   <TheRichExplorer.label>An Taisceálaí Saibhir</TheRichExplorer.label>
   <!-- EN: People called you crazy for leaving your glitterworld home, but you always yearned to explore the stars - outside the neurosimulator. Now you're at the end of your long journey in cryptosleep, landing on an unknown rimworld to see what it's like.\n\nNote: Since your starting character will lack some skills, this is an especially difficult scenario in the early game. -->
@@ -50,7 +50,7 @@
   <TheRichExplorer.scenario.parts.GameStartDialog.text>D'éirigh tú braon de na neárai-ionsamhlúcháin agus de na cluichí ríomhaire ar do phláinéad bhaile. Bhí eispéireas eile uait - fíoreispéireas greanach, mar a bhí sna leabhair staire. Bhí tú ag iarraidh fíordhúthláin agus fíor-iarmhairtí a bhrath.\n\nTá tú ag tuirlingt ar an bpláinéad iargúlta seo anois, tar éis duit roinnt blianta a chaitheamh i gcriptea-chodladh. An mbeidh tú in ann an fód a sheasamh?</TheRichExplorer.scenario.parts.GameStartDialog.text>
   <!-- EN: One rich explorer out to experience the universe. Extra difficult. -->
   <TheRichExplorer.scenario.summary>Taisceálaí saibhir, a tháinig ó phlainéad eile. An-deacair.</TheRichExplorer.scenario.summary>
-
+  
   <!-- EN: tutorial -->
   <Tutorial.label>oiliúint</Tutorial.label>
   <!-- EN: The three of you awake in your cryptosleep sarcophagi to the sound of sirens and ripping metal. You barely get to the escape pods before the ship is torn apart. Some time later, you land on this unknown rimworld. -->
@@ -61,5 +61,5 @@
   <Tutorial.scenario.name>oiliúint</Tutorial.scenario.name>
   <!-- EN: Three crashlanded survivors - the classic RimWorld experience. -->
   <Tutorial.scenario.summary>Triúir a tháinig slán ó thuirlingt de thuairt - seo an t-eispéireas clasaiceach RimWorld.</Tutorial.scenario.summary>
-
+  
 </LanguageData>
