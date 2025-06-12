@@ -2,29 +2,29 @@
 <LanguageData>
   
   <!-- EN: beauty -->
-  <Beauty.label>TODO</Beauty.label>
+  <Beauty.label>áilleacht</Beauty.label>
   <!-- EN: How enjoyable an object is to look at.\n\nBeautiful objects fulfill characters' need for beauty. -->
-  <Beauty.description>TODO</Beauty.description>
+  <Beauty.description>An áilleacht a bhaineann le rud.\n\nIs maith le daoine breathnú ar rudaí deasa.</Beauty.description>
   
   <!-- EN: outdoor beauty -->
-  <BeautyOutdoors.label>TODO</BeautyOutdoors.label>
+  <BeautyOutdoors.label>áilleacht (lasmuigh)</BeautyOutdoors.label>
   <!-- EN: How enjoyable something is to look at if it's outside.\n\nBeautiful objects fulfill peoples' need for beauty. -->
-  <BeautyOutdoors.description>TODO</BeautyOutdoors.description>
+  <BeautyOutdoors.description>An áilleacht a bhaineann le rud, má chuirtear lasmuigh é.\n\nIs maith le daoine breathnú ar rudaí deasa.</BeautyOutdoors.description>
   
   <!-- EN: caravan speed factor -->
-  <CaravanBonusSpeedFactor.label>TODO</CaravanBonusSpeedFactor.label>
+  <CaravanBonusSpeedFactor.label>iolraitheoir (luas carbháin)</CaravanBonusSpeedFactor.label>
   <!-- EN: A multiplier applied to a caravan's speed when this person is part of a caravan. -->
-  <CaravanBonusSpeedFactor.description>TODO</CaravanBonusSpeedFactor.description>
+  <CaravanBonusSpeedFactor.description>Cuirfear an t-iolraitheoir seo i bhfeidhm ar luas carbháin má tá an duine seo mar chuid den charbhán sin.</CaravanBonusSpeedFactor.description>
   
   <!-- EN: cleanliness -->
-  <Cleanliness.label>TODO</Cleanliness.label>
+  <Cleanliness.label>glaineacht</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
-  <Cleanliness.description>TODO</Cleanliness.description>
+  <Cleanliness.description>An luach a chuireann an rud seo le scór glaineachta an tseomra / an cheantair.</Cleanliness.description>
   
   <!-- EN: comfort -->
-  <Comfort.label>TODO</Comfort.label>
+  <Comfort.label>compord</Comfort.label>
   <!-- EN: How comfortable an object is to sit or lay on.\n\nUsing comfortable objects fulfills a character's need for comfort. -->
-  <Comfort.description>TODO</Comfort.description>
+  <Comfort.description>Is maith le daoine troscán compordach a úsáid.</Comfort.description>
   
   <!-- EN: deterioration rate -->
   <DeteriorationRate.label>TODO</DeteriorationRate.label>

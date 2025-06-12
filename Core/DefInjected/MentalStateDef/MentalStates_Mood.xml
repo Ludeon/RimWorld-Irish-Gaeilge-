@@ -20,13 +20,13 @@
   <Berserk.recoveryMessage>Níl {0} ar mire níos mó.</Berserk.recoveryMessage>
   
   <!-- EN: berserk -->
-  <BerserkPermanent.label>TODO</BerserkPermanent.label>
+  <BerserkPermanent.label>ar mire</BerserkPermanent.label>
   <!-- EN: Mental state: Berserk -->
-  <BerserkPermanent.baseInspectLine>TODO</BerserkPermanent.baseInspectLine>
+  <BerserkPermanent.baseInspectLine>Cliseadh néarógach: Ar mire</BerserkPermanent.baseInspectLine>
   <!-- EN: {0} has gone berserk.\n\n[PAWN_pronoun] will attack anyone [PAWN_pronoun] sees. -->
-  <BerserkPermanent.beginLetter>TODO</BerserkPermanent.beginLetter>
+  <BerserkPermanent.beginLetter>Tá {0} imithe le báiní.\n\nIonsóidh [PAWN_pronoun] duine ar bith a fheiceann [PAWN_pronoun].</BerserkPermanent.beginLetter>
   <!-- EN: {0}'s berserk rage has come to an end. -->
-  <BerserkPermanent.recoveryMessage>TODO</BerserkPermanent.recoveryMessage>
+  <BerserkPermanent.recoveryMessage>Níl {0} ar mire a thuilleadh.</BerserkPermanent.recoveryMessage>
   
   <!-- EN: binging on drug -->
   <Binging_DrugExtreme.label>ragús drugaí</Binging_DrugExtreme.label>

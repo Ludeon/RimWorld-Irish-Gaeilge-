@@ -7,9 +7,9 @@
   <BerserkMechanoid.baseInspectLine>Tá braiteoirí ionsaithe an róbait seo trí chéile.</BerserkMechanoid.baseInspectLine>
   
   <!-- EN: cocoon disturbed -->
-  <CocoonDisturbed.label>TODO</CocoonDisturbed.label>
+  <CocoonDisturbed.label>cuireadh isteach ar choirceog</CocoonDisturbed.label>
   <!-- EN: Enraged: Cocoon disturbed -->
-  <CocoonDisturbed.baseInspectLine>TODO</CocoonDisturbed.baseInspectLine>
+  <CocoonDisturbed.baseInspectLine>Ar mire: Cuireadh isteach ar coirceog</CocoonDisturbed.baseInspectLine>
   
   <!-- EN: manhunter -->
   <Manhunter.label>cíocras fola</Manhunter.label>

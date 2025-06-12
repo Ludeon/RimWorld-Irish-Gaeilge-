@@ -17,11 +17,11 @@
   <!-- EN: consciousness -->
   <Consciousness.label>comhfhiosacht</Consciousness.label>
   <!-- EN: Sentience -->
-  <Consciousness.labelAnomalyEntity>mothaitheacht</Consciousness.labelAnomalyEntity>
+  <Consciousness.labelAnomalyEntity>Mothaitheacht</Consciousness.labelAnomalyEntity>
   <!-- EN: Performance -->
-  <Consciousness.labelDrones>TODO</Consciousness.labelDrones>
+  <Consciousness.labelDrones>Feidhmíocht</Consciousness.labelDrones>
   <!-- EN: Data processing -->
-  <Consciousness.labelMechanoids>próiseáil sonraí</Consciousness.labelMechanoids>
+  <Consciousness.labelMechanoids>Próiseáil sonraí</Consciousness.labelMechanoids>
   
   <!-- EN: eating -->
   <Eating.label>ithe</Eating.label>
