@@ -2,10 +2,10 @@
 <LanguageData>
   
   <!-- EN: glowforest -->
-  <Glowforest.label>Glimmerwald</Glowforest.label>
+  <Glowforest.label>Breofhoraois</Glowforest.label>
   <!-- EN: Geysers spew out massive sulfur clouds that cast the region into permanent darkness. Huge fungal colonies bloom in the dark, fed by the nutrients that the geysers bring to the surface. These areas are alluring and dangerous. -->
-  <Glowforest.description>Geysire stoßen riesige Schwefelwolken aus, die die Region in permanente Dunkelheit hüllen. Große Pilzkolonien gedeihen im Dunkeln, genährt von den Nährstoffen, die die Geysire an die Oberfläche befördern. Dieses Biom ist verlockend und gefährlich zugleich.</Glowforest.description>
+  <Glowforest.description>Tá géasair mhóra anseo a chaitheann sulfar suas san aer, rud a fhágann go bhfuil an ceantar seo faoi bhrat dorchadais i gcónaí. Fásann coilíneachtaí fungais ollmhóra sa dorchacht, iad ag maireachtáil ar an ábhar cothaitheach a chaitear amach as an géasair. Tá an ceantar seo mealltach, ach dáinséarach.</Glowforest.description>
   <!-- EN: Large sulfur spouts permanently darken the skies in glowforests, making it hard to grow most crops. -->
-  <Glowforest.settleWarning>Große Schwefelgeysire verdunkeln permanent den Himmel und erschweren so den Anbau der meisten Nutzpflanzen.</Glowforest.settleWarning>
+  <Glowforest.settleWarning>Tá géasair mhóra anseo a chaitheann sulfar suas san aer, rud a fhágann go bhfuil an ceantar seo faoi bhrat dorchadais i gcónaí. Tá sé deacair plandaí a fhás anseo.</Glowforest.settleWarning>
   
 </LanguageData>

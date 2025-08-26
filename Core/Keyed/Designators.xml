@@ -17,9 +17,9 @@
   <DesignatorDeconstructDesc>Scrios rud. Gheobhaidh tú roinnt acmhainní ar ais.</DesignatorDeconstructDesc>
 
   <!-- EN: Deconstruct conduit -->
-  <DesignatorDeconstructConduit>TODO</DesignatorDeconstructConduit>
+  <DesignatorDeconstructConduit>Scrios sreanganna</DesignatorDeconstructConduit>
   <!-- EN: Deconstruct power conduits and reclaim part of their resources. -->
-  <DesignatorDeconstructConduitDesc>TODO</DesignatorDeconstructConduitDesc>
+  <DesignatorDeconstructConduitDesc>Déan sreanganna cumhachta a scriosadh. Gheobhaidh tú roinnt acmhainní ar ais.</DesignatorDeconstructConduitDesc>
 
   <!-- EN: Uninstall -->
   <DesignatorUninstall>Bain</DesignatorUninstall>
@@ -61,20 +61,20 @@
   <!-- EN: Mine vein -->
   <DesignatorMineVein>Bain cloch</DesignatorMineVein>
   <!-- EN: Designate an area of rock to be mined. Colonists will continue to mine until all connected rock of the same type has been mined. -->
-  <DesignatorMineVeinDesc>TODO</DesignatorMineVeinDesc>
+  <DesignatorMineVeinDesc>Roghnaigh clocha atá le baint. Leanfaidh coilínigh ar aghaidh ag tochailt go dtí go mbeidh na clocha ar fad atá ceangailte leis an gceann seo bainte.</DesignatorMineVeinDesc>
 
   <!-- EN: Smooth surface -->
   <DesignatorSmoothSurface>Leacaigh</DesignatorSmoothSurface>
   <!-- EN: Designate rough stone terrain and walls to be smoothed. -->
   <DesignatorSmoothSurfaceDesc>Marcáil urláir chloiche agus urláir gharbh atá le leacú agus le déanamh mín.</DesignatorSmoothSurfaceDesc>
   <!-- EN: Smooth walls -->
-  <DesignatorSmoothWalls>TODO</DesignatorSmoothWalls>
+  <DesignatorSmoothWalls>Leacaigh ballaí</DesignatorSmoothWalls>
   <!-- EN: Designate rough stone walls to be smoothed. -->
-  <DesignatorSmoothWallsDesc>TODO</DesignatorSmoothWallsDesc>
+  <DesignatorSmoothWallsDesc>Marcáil ballaí chloiche atá le leacú agus le déanamh mín.</DesignatorSmoothWallsDesc>
   <!-- EN: Smooth terrain -->
-  <DesignatorSmoothFloors>TODO</DesignatorSmoothFloors>
+  <DesignatorSmoothFloors>Leacaigh talamh</DesignatorSmoothFloors>
   <!-- EN: Designate rough stone terrain to be smoothed. -->
-  <DesignatorSmoothFloorsDesc>TODO</DesignatorSmoothFloorsDesc>
+  <DesignatorSmoothFloorsDesc>Marcáil urláir chloiche atá le leacú agus le déanamh mín.</DesignatorSmoothFloorsDesc>
 
   <!-- EN: Plan -->
   <DesignatorPlan>Pleanáil</DesignatorPlan>
@@ -187,9 +187,9 @@
   <DesignatorOpenDesc>Oscail coimeádáin.</DesignatorOpenDesc>
   
   <!-- EN: Eject fuel -->
-  <DesignatorEjectFuel>TODO</DesignatorEjectFuel>
+  <DesignatorEjectFuel>Bain breosla</DesignatorEjectFuel>
   <!-- EN: Eject all contained fuel onto the ground. -->
-  <DesignatorEjectFuelDesc>TODO</DesignatorEjectFuelDesc>
+  <DesignatorEjectFuelDesc>Déan an breosla ar fad atá sa rud seo a chaitheamh amach ar an talamh.</DesignatorEjectFuelDesc>
 
   <!-- EN: Slaughter -->
   <DesignatorSlaughter>Maraigh</DesignatorSlaughter>
@@ -201,7 +201,7 @@
   <!-- EN: Tame a wild animal. -->
   <DesignatorTameDesc>Roghnaigh ainmhithe fiáine lena gceansú.</DesignatorTameDesc>
   <!-- EN: Scaria infected animals can't be tamed. -->
-  <CantTameScaria>TODO</CantTameScaria>
+  <CantTameScaria>Ní féidir ainmhihte a bhfuil scáire orthu a cheansú.</CantTameScaria>
 
   <!-- EN: Release to wild -->
   <DesignatorReleaseAnimalToWild>Scaoil saor</DesignatorReleaseAnimalToWild>
@@ -253,14 +253,14 @@
   <GrabbedColor>Dath roghnaithe</GrabbedColor>
 
   <!-- EN: Expand plan -->
-  <DesignatorExpandPlan>TODO</DesignatorExpandPlan>
+  <DesignatorExpandPlan>Leathnaigh plean</DesignatorExpandPlan>
   <!-- EN: New plan -->
-  <NewPlan>TODO</NewPlan>
+  <NewPlan>Plean nua</NewPlan>
   
   <!-- EN: Shrink plan -->
-  <DesignatorPlanShrinkSingular>TODO</DesignatorPlanShrinkSingular>
+  <DesignatorPlanShrinkSingular>Laghdaigh plean</DesignatorPlanShrinkSingular>
   <!-- EN: Remove plans. -->
-  <DesignatorPlanShrinkDesc>TODO</DesignatorPlanShrinkDesc>
+  <DesignatorPlanShrinkDesc>Bain pleananna.</DesignatorPlanShrinkDesc>
 
   <!-- Failure messages -->
   <!-- EN: Unchosen material -->
@@ -282,9 +282,9 @@
   <!-- EN: The terrain here is already {0}. -->
   <TerrainIsAlready>Tá {0} anseo cheana.</TerrainIsAlready>
   <!-- EN: There is already foundation here. -->
-  <FoundationAlreadyExists>TODO</FoundationAlreadyExists>
+  <FoundationAlreadyExists>Tá bunsraith anseo cheana féin.</FoundationAlreadyExists>
   <!-- EN: The existing terrain here cannot be removed. -->
-  <TerrainUnremovable>TODO</TerrainUnremovable>
+  <TerrainUnremovable>Ní féidir an t-urlár seo a bhaint.</TerrainUnremovable>
   <!-- EN: The surface is already marked for smoothing. -->
   <SurfaceBeingSmoothed>Tá an t-urlár anseo le smúdáil cheana.</SurfaceBeingSmoothed>
   <!-- EN: Identical thing already exists here. -->
@@ -327,9 +327,9 @@
   <CreateNewZone>Cruthaigh {0} nua</CreateNewZone>
   
   <!-- EN: Expand {0} or\nCreate new plan -->
-  <ExpandOrCreatePlan>TODO</ExpandOrCreatePlan>
+  <ExpandOrCreatePlan>Leathnaigh {0} nó\nCruthaigh plean nua</ExpandOrCreatePlan>
   <!-- EN: Create new plan -->
-  <CreateNewPlan>TODO</CreateNewPlan>
+  <CreateNewPlan>Cruthaigh plean nua</CreateNewPlan>
   
   <!-- Desc helpers -->
   <!-- EN: Transmits power -->

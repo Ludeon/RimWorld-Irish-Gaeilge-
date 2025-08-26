@@ -2,26 +2,26 @@
 <LanguageData>
   
   <!-- EN: caves -->
-  <Caves.label>TODO</Caves.label>
+  <Caves.label>pluaiseanna</Caves.label>
   <!-- EN: Small cave networks can be found within the rocks. -->
-  <Caves.description>TODO</Caves.description>
+  <Caves.description>Tá pluaiseanna beaga snoite isteach sna carraigeacha anseo.</Caves.description>
   
   <!-- EN: coast -->
-  <Coast.label>TODO</Coast.label>
+  <Coast.label>cósta</Coast.label>
   <!-- EN: This tile borders the coast. -->
-  <Coast.description>TODO</Coast.description>
+  <Coast.description>Tá an tíl seo suite ar an gcósta.</Coast.description>
   
   <!-- EN: mountain -->
-  <Mountain.label>TODO</Mountain.label>
+  <Mountain.label>sliabh</Mountain.label>
   <!-- EN: A mountain fills one side of this tile. -->
-  <Mountain.description>TODO</Mountain.description>
+  <Mountain.description>Tá an tíl seo suite ar mhala sléibhe.</Mountain.description>
   
   <!-- EN: river -->
-  <River.label>TODO</River.label>
+  <River.label>abhann</River.label>
   <!-- EN: A stream of fresh water flows through here. -->
-  <River.description>TODO</River.description>
+  <River.description>Tá abhann anseo.</River.description>
   
   <!-- EN: underground cave -->
-  <UndergroundCave.label>TODO</UndergroundCave.label>
+  <UndergroundCave.label>pluais faoi thalamh</UndergroundCave.label>
   
 </LanguageData>

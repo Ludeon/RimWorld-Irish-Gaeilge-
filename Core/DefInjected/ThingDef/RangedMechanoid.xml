@@ -33,8 +33,8 @@
   <!-- EN: A long-range weapon used by mechanoids. Named after its needle-like projectiles, it fires single shots with great accuracy. While it does less damage than charge weapons, it can reach over very long distances. -->
   <Gun_Needle.description>Arm fadraion a úsáideann meicea-róbait. Scaoileann sé urchair atá cosúil le snáthaidí nó bioráin, agus tá sé an-chruinn. Níl sé chomh dáinséarach le gunnaí pléascacha, ach tá raon níos faide ag an ngunna seo.</Gun_Needle.description>
   <!-- EN: barrel -->
-  <Gun_Needle.tools.barrel.label>TODO</Gun_Needle.tools.barrel.label>
+  <Gun_Needle.tools.barrel.label>bairille</Gun_Needle.tools.barrel.label>
   <!-- EN: needle gun -->
-  <Gun_Needle.verbs.Verb_Shoot.label>TODO</Gun_Needle.verbs.Verb_Shoot.label>
+  <Gun_Needle.verbs.Verb_Shoot.label>biorghunna</Gun_Needle.verbs.Verb_Shoot.label>
   
 </LanguageData>
