@@ -109,49 +109,49 @@
   <CommandDetonateDesc>Cuir tús leis an gcomhaireamh síos chuig an bpléascadh.</CommandDetonateDesc>
   
   <!-- EN: Hide -->
-  <CommandHideLabel>TODO</CommandHideLabel>
+  <CommandHideLabel>Cuir i bhfolach</CommandHideLabel>
   <!-- EN: Unhide -->
-  <CommandUnhideLabel>TODO</CommandUnhideLabel>
+  <CommandUnhideLabel>Taispeáin</CommandUnhideLabel>
   
   <!-- EN: Toggle this plan's visibility.\n\nRight-click to hide or unhide all zones. -->
-  <CommandHidePlanDesc>TODO</CommandHidePlanDesc>
+  <CommandHidePlanDesc>Cuir an plean seo i bhfolach, nó taispeán é.\n\nDeaschliceáil chun gach zón a chur i bhfolach/a thaispeáint.</CommandHidePlanDesc>
   <!-- EN: Hide/unhide this zone.\n\nRight-click to hide or unhide all zones. -->
-  <CommandHideZoneDesc>Cuir an zón seo i bhfolach, nó taispeán é.</CommandHideZoneDesc>
+  <CommandHideZoneDesc>Cuir an zón seo i bhfolach, nó taispeán é.\n\nDeaschliceáil chun gach zón a chur i bhfolach/a thaispeáint.</CommandHideZoneDesc>
   
   <!-- EN: Show all zones -->
-  <ShowAllZones>TODO</ShowAllZones>
+  <ShowAllZones>Taispeáin gach zón</ShowAllZones>
   <!-- EN: Hide all zones -->
-  <HideAllZones>TODO</HideAllZones>
+  <HideAllZones>Cuir gach zón i bhfolach</HideAllZones>
   <!-- EN: Show all {0} zones -->
-  <ShowAllZoneTypes>TODO</ShowAllZoneTypes>
+  <ShowAllZoneTypes>Taispeáin gach zón '{0}'</ShowAllZoneTypes>
   <!-- EN: Hide all {0} zones -->
-  <HideAllZoneTypes>TODO</HideAllZoneTypes>
+  <HideAllZoneTypes>Cuir gach zón '{0}' i bhfolach</HideAllZoneTypes>
   <!-- EN: planning -->
-  <Planning>TODO</Planning>
+  <Planning>pleanáil</Planning>
   
   <!-- EN: Change color -->
-  <CommandChangeColorPlanLabel>TODO</CommandChangeColorPlanLabel>
+  <CommandChangeColorPlanLabel>Athraigh dath</CommandChangeColorPlanLabel>
   <!-- EN: Change the color of this plan. -->
-  <CommandChangeColorPlanDesc>TODO</CommandChangeColorPlanDesc>
+  <CommandChangeColorPlanDesc>Athraigh dath an phlean seo.</CommandChangeColorPlanDesc>
   
   <!-- EN: Delete -->
-  <CommandDeletePlanLabel>TODO</CommandDeletePlanLabel>
+  <CommandDeletePlanLabel>Scrios</CommandDeletePlanLabel>
   <!-- EN: Delete this plan. -->
-  <CommandDeletePlanDesc>TODO</CommandDeletePlanDesc>
+  <CommandDeletePlanDesc>Scrios an plean seo.</CommandDeletePlanDesc>
   
   <!-- EN: Copy -->
-  <CommandCopyPlanLabel>TODO</CommandCopyPlanLabel>
+  <CommandCopyPlanLabel>Cóipeáil</CommandCopyPlanLabel>
   <!-- EN: Copy this plan. -->
-  <CommandCopyPlanDesc>TODO</CommandCopyPlanDesc>
+  <CommandCopyPlanDesc>Cóipeáil an plean seo</CommandCopyPlanDesc>
   
   <!-- EN: Copy selection... -->
-  <CommandCopyPlanSelectionLabel>TODO</CommandCopyPlanSelectionLabel>
+  <CommandCopyPlanSelectionLabel>Cóipeáil...</CommandCopyPlanSelectionLabel>
   <!-- EN: Copy all plans within a selected area. -->
-  <CommandCopyPlanSelectionDesc>TODO</CommandCopyPlanSelectionDesc>
+  <CommandCopyPlanSelectionDesc>Cóipeáil gach plean laistigh de limistéar roghnaithe.</CommandCopyPlanSelectionDesc>
   <!-- EN: Select area to copy -->
-  <CommandCopyPlanSelectionMouse>TODO</CommandCopyPlanSelectionMouse> <!-- text_todo -->
+  <CommandCopyPlanSelectionMouse>Roghnaigh an limistéar le cóipeáil</CommandCopyPlanSelectionMouse> <!-- text_todo -->
   <!-- EN: Paste selected area -->
-  <CommandCopyPlanSelectionPasteMouse>TODO</CommandCopyPlanSelectionPasteMouse> <!-- text_todo -->
+  <CommandCopyPlanSelectionPasteMouse>Greamaigh an limistéar roghnaithe</CommandCopyPlanSelectionPasteMouse> <!-- text_todo -->
 
   <!-- EN: Delete -->
   <CommandDeleteZoneLabel>Scrios</CommandDeleteZoneLabel>
@@ -395,15 +395,15 @@
   <!-- EN: There are enemies in this area. -->
   <CommandSettleFailEnemies>Tá naimhde sa cheantar seo.</CommandSettleFailEnemies>
   <!-- EN: Cannot settle here. -->
-  <CommandSettleFailGeneric>TODO</CommandSettleFailGeneric>
+  <CommandSettleFailGeneric>Ní féidir lonnú anseo.</CommandSettleFailGeneric>
 
   <!-- Camp -->
   <!-- EN: Camp -->
-  <CommandCamp>TODO</CommandCamp>
+  <CommandCamp>Campáil</CommandCamp>
   <!-- EN: Set up a temporary camp that can quickly be abandoned. -->
-  <CommandCampDesc>TODO</CommandCampDesc>
+  <CommandCampDesc>Cruthaigh campa sealadach. Is féidir an campla a thréigean go tapa, más gá.</CommandCampDesc>
   <!-- EN: Cannot camp here. -->
-  <CommandCampFailExistingWorldObject>TODO</CommandCampFailExistingWorldObject>
+  <CommandCampFailExistingWorldObject>Ní féidir campáil anseo.</CommandCampFailExistingWorldObject>
   
   <!-- Abandon home -->
   <!-- EN: Abandon -->
@@ -497,7 +497,7 @@
   <!-- EN: This determines whether colonists will automatically refuel this. If enabled, colonists will fill this up to {0}.\n\nAutomatic refueling is currently {ONOFF}. -->
   <CommandToggleAllowAutoRefuelDesc>Roghnaigh an ndéanfar nó nach ndéanfar an pod seo a athbhreoslú go huathoibríoch.</CommandToggleAllowAutoRefuelDesc>
   <!-- EN: This determines whether colonists will automatically refuel these buildings.\n\nAutomatic refueling is currently {ONOFF}. -->
-  <CommandToggleAllowAutoRefuelDescMult>TODO</CommandToggleAllowAutoRefuelDescMult>
+  <CommandToggleAllowAutoRefuelDescMult>Roghnaigh an ndéanfar nó nach ndéanfar é seo seo a athbhreoslú go huathoibríoch.\n\nAutomatic refueling is currently {ONOFF}</CommandToggleAllowAutoRefuelDescMult>
 
   <!-- Cancel load -->
   <!-- EN: Cancel load -->
@@ -505,9 +505,9 @@
   <!-- EN: Cancel loading this with people or items and eject everything already loaded. -->
   <CommandCancelLoadDesc>Cuir stop leis an lódáil agus déan na daoine nó na hearraí atá lódáilte cheana a bhaint.</CommandCancelLoadDesc>
   <!-- EN: Unload all -->
-  <CommandUnload>TODO</CommandUnload>
+  <CommandUnload>Dílódáil cách</CommandUnload>
   <!-- EN: Eject all contents from the {0}. -->
-  <CommandUnloadDesc>TODO</CommandUnloadDesc>
+  <CommandUnloadDesc>Bainfear gach rud atá istigh.</CommandUnloadDesc>
 
   <!-- Launch group -->
   <!-- EN: Launch -->
@@ -515,7 +515,7 @@
   <!-- EN: Take off and fly to a destination. -->
   <CommandLaunchGroupDesc>Éirí de thalamh agus eitil chuig an gceann scríbe.</CommandLaunchGroupDesc>
   <!-- EN: Must be loaded first. -->
-  <CommandLaunchGroupFailNotLoaded>TODO</CommandLaunchGroupFailNotLoaded>
+  <CommandLaunchGroupFailNotLoaded>Ní mór an pod a lódáil ar dtus.</CommandLaunchGroupFailNotLoaded>
   <!-- EN: Some transport pods in this loading group are not connected to a fueling port. -->
   <CommandLaunchGroupFailNotConnectedToFuelingPort>Tá roinnt podanna iompair sa ghrúpa seo nach bhfuil ceangailte le foinse breosla.</CommandLaunchGroupFailNotConnectedToFuelingPort>
   <!-- EN: Roof blocking launch. -->
@@ -523,11 +523,11 @@
   <!-- EN: Not enough fuel to launch. -->
   <CommandLaunchGroupFailNoFuel>Tá roinnt podanna iompair sa ghrúpa seo nach bhfuil aon bhreosla iontu.</CommandLaunchGroupFailNoFuel>
   <!-- EN: Over mass capacity. -->
-  <CommandLaunchGroupFailOverMassCapacity>TODO</CommandLaunchGroupFailOverMassCapacity>
+  <CommandLaunchGroupFailOverMassCapacity>Róthrom.</CommandLaunchGroupFailOverMassCapacity>
   <!-- EN: On cooldown. -->
-  <CommandLaunchGroupCooldown>TODO</CommandLaunchGroupCooldown>
+  <CommandLaunchGroupCooldown>Ar feitheamh</CommandLaunchGroupCooldown>
   <!-- EN: {0} / {1} kg -->
-  <MassUsageString>TODO</MassUsageString>
+  <MassUsageString>{0} / {1} kg</MassUsageString>
 
   <!-- Load transporter -->
   <!-- EN: Load launch group of {0} -->
@@ -743,27 +743,27 @@
 
   <!-- Map Portal -->
   <!-- EN: View {0} -->
-  <CommandViewPocketMapLabel>TODO</CommandViewPocketMapLabel>
+  <CommandViewPocketMapLabel>Féach {0}</CommandViewPocketMapLabel>
   <!-- EN: View the connected {0} map. -->
-  <CommandViewPocketMapDesc>TODO</CommandViewPocketMapDesc>
+  <CommandViewPocketMapDesc>Féach ar an léarscáil.</CommandViewPocketMapDesc>
   <!-- EN: View surface -->
-  <CommandViewSurface>TODO</CommandViewSurface>
+  <CommandViewSurface>Féach ar an dromhcla</CommandViewSurface>
   <!-- EN: View the connected surface map. -->
-  <CommandViewSurfaceDesc>TODO</CommandViewSurfaceDesc>
+  <CommandViewSurfaceDesc>Féach ar léarscáil an dromchla.</CommandViewSurfaceDesc>
 
   <!-- Auto-build pod -->
   <!-- EN: Auto build transport pod -->
-  <AutoBuildTransportPod>TODO</AutoBuildTransportPod>
+  <AutoBuildTransportPod>Tóg pod iompair go huathoibríoch</AutoBuildTransportPod>
   <!-- EN: If on, your colonists will automatically build a new transport pod when possible. -->
-  <AutoBuildTransportPodDesc>TODO</AutoBuildTransportPodDesc>
+  <AutoBuildTransportPodDesc>Má roghnaítear an socrú seo, tógfaigh do choilínigh pod iompair nua, más féidir.</AutoBuildTransportPodDesc>
   
   <!-- Hacking gizmo -->
   <!-- EN: Hack... -->
-  <HackGizmo>TODO</HackGizmo>
+  <HackGizmo>Haiceáil...</HackGizmo>
   <!-- EN: Cannot hack -->
-  <CannotChooseHacker>TODO</CannotChooseHacker>
+  <CannotChooseHacker>Ní féidir seo a haiceáil</CannotChooseHacker>
   <!-- EN: Choose hacker -->
-  <CommandChooseHacker>TODO</CommandChooseHacker>
+  <CommandChooseHacker>Roghnaigh coilíneach</CommandChooseHacker>
   
   <!-- UNUSED -->
   <CommandHideZoneLabel>Folaigh</CommandHideZoneLabel>

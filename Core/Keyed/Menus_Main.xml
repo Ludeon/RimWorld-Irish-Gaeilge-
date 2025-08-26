@@ -117,7 +117,7 @@
   <!-- EN: Factions -->
   <WorldFactionsTab>Faicsin</WorldFactionsTab>
   <!-- EN: Advanced settings -->
-  <AdvancedSettings>TODO</AdvancedSettings>
+  <AdvancedSettings>Socruithe breise</AdvancedSettings>
 
   <!-- Select world -->
   <!-- EN: Select world -->
@@ -484,9 +484,9 @@
   <!-- EN: This option adds additional capturable prisoners to the game who cannot be recruited due to unwavering loyalty.\n\nUnwavering prisoners are added on top of normal prisoners, so turning this off won't give more recruitable prisoners - it simply removes the unwavering ones.\n\nUnwavering prisoners can still be released for diplomatic gains, sold, enslaved, harvested for organs, or otherwise made use of. In general, they offer more options and resources, and make the game a bit richer and easier. -->
   <Difficulty_UnwaveringPrisoners_Info>Leis an rogha seo, cuirfear príosúnaigh dhiongbháilte leis an gcluiche, nach mbeidh tú in ann iad a earcú.\n\nDéantar príosúnaigh dhiongbháilte a chur isteach mar aon leis na gnáthphríosúnaigh, mar sin ní bheidh níos mó príosúnaigh le hearcú má roghnaítear an socrú seo - ní bhaineann an socrú seo ach le príosúnaigh dhiongbháilte.\n\nIs féidir príosúnaigh dhiongbháilte a scaoileadh saor ar chúiseanna taidhleoireachta, a dhíol, a chur faoi smacht, nó is féidir úsáidí eile a bhaint astu. Ar an iomlán, cuireann siad tuilleadh roghanna agus acmhainní ar fáil, agus déanann siad an cluiche níos saibhre agus níos éasca.</Difficulty_UnwaveringPrisoners_Info>
   <!-- EN: Nomadic mineable resources -->
-  <Difficulty_NomadicMineableResourcesFactor_Label>TODO</Difficulty_NomadicMineableResourcesFactor_Label>
+  <Difficulty_NomadicMineableResourcesFactor_Label>Acmhainní fánaíochta</Difficulty_NomadicMineableResourcesFactor_Label>
   <!-- EN: Adjust how many mineable resources are generated on maps after your first.\n\nNote: Your first colony map will always generate with the standard amount of resources. -->
-  <Difficulty_NomadicMineableResourcesFactor_Info>TODO</Difficulty_NomadicMineableResourcesFactor_Info>
+  <Difficulty_NomadicMineableResourcesFactor_Info>Leis seo, is féidir líon na n-acmhainní a bheidh ar fáil i ngach léarscáil a athrú.\n\nNóta: beidh an gnáthlíon acmhainní ar fáil i do chéad léarscáil i gcónaí.</Difficulty_NomadicMineableResourcesFactor_Info>
 
   <!-- EN: Player tools -->
   <DifficultyPlayerToolsSection>Uirlisí imreora</DifficultyPlayerToolsSection>
@@ -567,7 +567,7 @@
   <!-- EN: Elevation -->
   <Elevation>Airde</Elevation>
   <!-- EN: Features -->
-  <TileMutators>TODO</TileMutators>
+  <TileMutators>Gnéithe</TileMutators>
   <!-- EN: Fertility -->
   <Fertility>Torthúlacht</Fertility>
   <!-- EN: fertility -->
@@ -651,7 +651,7 @@
   <!-- EN: Caused by gene -->
   <IncapableOfTooltipGene>De bharr: géin</IncapableOfTooltipGene>
   <!-- EN: Caused by -->
-  <IncapableOfTooltipMutant>TODO</IncapableOfTooltipMutant>
+  <IncapableOfTooltipMutant>De bharr:</IncapableOfTooltipMutant>
   <!-- EN: Traits -->
   <Traits>Tréithe</Traits>
   <!-- EN: Permanent mood effect -->
@@ -730,9 +730,9 @@
   <!-- EN: No more information is available. -->
   <NoMoreInfoAvailable>Níl aon eolas breise ar fáil.</NoMoreInfoAvailable>
   <!-- EN: Best skill -->
-  <BestSkillLabel>TODO</BestSkillLabel>
+  <BestSkillLabel>Scil is fearr</BestSkillLabel>
   <!-- EN: skill level {0} -->
-  <BestSkillInfoLevel>TODO</BestSkillInfoLevel>
+  <BestSkillInfoLevel>leibhéal scile {0}</BestSkillInfoLevel>
 
   <!-- Factions -->
   <!-- EN: Factions -->
@@ -752,6 +752,6 @@
   <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
   <FactionsDisabledWarning>Mura mbeidh aon fhaicsean eile ann, ní tharlóidh ruathair agus misin mar is gnáth, agus ní bheidh tú in ann trádáil le daoine eile.</FactionsDisabledWarning>
   <!-- EN: Cannot be removed for this scenario. -->
-  <FactionRemovalDisabled>TODO</FactionRemovalDisabled>
+  <FactionRemovalDisabled>Ní féidir an faicsean seo a bhaint ón scéal seo.</FactionRemovalDisabled>
 
 </LanguageData>

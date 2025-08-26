@@ -29,17 +29,17 @@
 
   <!-- Gameplay -->
   <!-- EN: Remember draw styles -->
-  <RememberDrawStyle>TODO</RememberDrawStyle>
+  <RememberDrawStyle>Cuimhnigh ar an stíl líníochta</RememberDrawStyle>
   <!-- EN: When enabled, draw styles won't reset to the default draw style when placing new buildings or zones. -->
-  <RememberDrawStyle_Tooltip>TODO</RememberDrawStyle_Tooltip>
+  <RememberDrawStyle_Tooltip>Má roghnaítear an socrú seo, ní rachaidh an stíl líníochta ar ais chuig an réamhshocrú agus foirgnimh nó zóin úra á gcur síos.</RememberDrawStyle_Tooltip>
   <!-- EN: Zoom switches world map layers -->
-  <ZoomSwitchLayer>TODO</ZoomSwitchLayer>
+  <ZoomSwitchLayer>Zúmáil idir sraitheanna ar léarscáil an domhain</ZoomSwitchLayer>
   <!-- EN: When enabled, zooming out on the world map will switch to an orbital view. Zooming in will show the planet again. -->
-  <ZoomSwitchLayer_Tooltip>TODO</ZoomSwitchLayer_Tooltip>
+  <ZoomSwitchLayer_Tooltip>Má roghnaítear an socrú seo, is féidir zúmáil amach ar léarscáil an domhain chun an radharc fithiseach a fheiceáil. Is féidir zúmáil isteach chun an pláinéad a fheiceáil arís.</ZoomSwitchLayer_Tooltip>
   <!-- EN: Screen-edge mouse scroll -->
   <EdgeScreenScroll>Scrolláil ag taobh an scáileáin</EdgeScreenScroll>
   <!-- EN: Zoom to mouse -->
-  <ZoomToMouse>TODO</ZoomToMouse>
+  <ZoomToMouse>Zúmáil chuig an luchóg</ZoomToMouse>
   <!-- EN: Pause on load -->
   <PauseOnLoad>Stop an cluiche nuair a lódáiltear é</PauseOnLoad>
   <!-- EN: Pause on urgent letter -->
@@ -73,13 +73,13 @@
   <!-- EN: Auto-reset mods config on crash -->
   <ResetModsConfigOnCrash>Atosaigh modanna má chliseann RimWorld</ResetModsConfigOnCrash>
   <!-- EN: Quick start has no cryptosleep sickness -->
-  <DisableQuickStartCryptoSickness>TODO</DisableQuickStartCryptoSickness>
+  <DisableQuickStartCryptoSickness>Níl aon tinneas criptea-chodlata i gceist i dtástáil forbóra.</DisableQuickStartCryptoSickness>
   <!-- EN: Start game with dev palette on -->
-  <StartDevPaletteOn>TODO</StartDevPaletteOn>
+  <StartDevPaletteOn>Cuir mód forbóra ar siúl nuair a thosaíonn an cluiche</StartDevPaletteOn>
   <!-- EN: Open log on warnings -->
-  <OpenLogOnWarnings>TODO</OpenLogOnWarnings>
+  <OpenLogOnWarnings>Oscail an loga nuair a thagann earráid in airde</OpenLogOnWarnings>
   <!-- EN: Close log by pressing cancel -->
-  <CloseLogWindowOnEscape>TODO</CloseLogWindowOnEscape>
+  <CloseLogWindowOnEscape>Dún an loga leis an gcnaipe CANCEL</CloseLogWindowOnEscape>
   <!-- EN: Verbose logging -->
   <LogVerbose>Verbose logging</LogVerbose>
   <!-- EN: Save data folder -->
@@ -121,7 +121,7 @@
   <!-- EN: Maximum number of colonies: {0} -->
   <MaxNumberOfPlayerSettlements>Líon uasta coilíneachtaí: {0}</MaxNumberOfPlayerSettlements>
   <!-- EN: Autosaves count: {0} -->
-  <AutosavesCount>TODO</AutosavesCount>
+  <AutosavesCount>Líon na n-uathshábháil</AutosavesCount>
   <!-- EN: Map mouse drag sensitivity -->
   <MapDragSensitivity>Íogaireacht na luchóga ar an léarscáil</MapDragSensitivity>
   <!-- EN: Plant wind sway -->
