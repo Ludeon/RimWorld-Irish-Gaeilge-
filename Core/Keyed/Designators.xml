@@ -39,7 +39,7 @@
   <!-- EN: Chop wood -->
   <DesignatorHarvestWood>Gearr admhad</DesignatorHarvestWood>
   <!-- EN: Marks trees to be chopped down for wood. -->
-  <DesignatorHarvestWoodDesc>Roghnaigh crainn atá le gearradh chun adhmad a bhaint.</DesignatorHarvestWoodDesc>
+  <DesignatorHarvestWoodDesc>Roghnaigh na crainn atá le gearradh chun adhmad a bhaint.</DesignatorHarvestWoodDesc>
 
   <!-- EN: Haul things -->
   <DesignatorHaulThings>Iompair</DesignatorHaulThings>
@@ -51,7 +51,7 @@
   <!-- EN: Hunt -->
   <DesignatorHunt>Sealgaireacht</DesignatorHunt>
   <!-- EN: Mark animals to be hunted by your hunters.\n\nOnly hunters with suitable ranged weapons will hunt. -->
-  <DesignatorHuntDesc>Marcáil na hainmhithe atá le fiach agus le marú ag do chuid sealgairí.</DesignatorHuntDesc>
+  <DesignatorHuntDesc>Roghnaigh na hainmhithe atá le fiach ag do chuid sealgairí.</DesignatorHuntDesc>
 
   <!-- EN: Mine -->
   <DesignatorMine>Miandóireacht</DesignatorMine>
