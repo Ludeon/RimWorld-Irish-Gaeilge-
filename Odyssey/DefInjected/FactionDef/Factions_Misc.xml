@@ -2,22 +2,22 @@
 <LanguageData>
   
   <!-- EN: salvagers -->
-  <Salvagers.label>Schrottpiraten</Salvagers.label>
+  <Salvagers.label>bailitheoirí</Salvagers.label>
   <!-- EN: A ruthless faction of orbital scavengers who scour space for derelict ships and valuable wreckage. Salvagers operate entirely in space. -->
-  <Salvagers.description>Eine skrupellose Fraktion orbitaler Plünderer, die den Weltraum nach verlassenen Schiffen und wertvollen Wracks durchkämmen, um diese zu bergen und auszuschlachten. Schrottpiraten operieren ausschließlich im Weltraum.</Salvagers.description>
+  <Salvagers.description>Tá an faicsean seo déanta suas de phíoráidí, a bhíonn ag ransú an spáis sa tóir ar spáslonga tréigthe agus smionagar luachmhar. Is iondúil go bhfanann bailitheoirí sa spás - ní théann siad síos chuig an dromchla riamh.</Salvagers.description>
   <!-- EN: boss -->
-  <Salvagers.leaderTitle>Boss</Salvagers.leaderTitle>
+  <Salvagers.leaderTitle>Saoiste</Salvagers.leaderTitle>
   <!-- EN: {0} from {1} are attacking your {2}. -->
-  <Salvagers.messageDefendersAttacking>{0} der Fraktion '{1}' greifen deine {lookup: {2}; decline_other; 7} an.</Salvagers.messageDefendersAttacking>
+  <Salvagers.messageDefendersAttacking>Tá {0} ón bhfaicsean '{1}' ag ionsú.</Salvagers.messageDefendersAttacking>
   <!-- EN: pirate -->
-  <Salvagers.pawnSingular>Pirat</Salvagers.pawnSingular>
+  <Salvagers.pawnSingular>píoráid</Salvagers.pawnSingular>
   <!-- EN: pirates -->
-  <Salvagers.pawnsPlural>Piraten</Salvagers.pawnsPlural>
+  <Salvagers.pawnsPlural>píoráidí</Salvagers.pawnsPlural>
   
   <!-- EN: traders guild -->
-  <TradersGuild.label>Händlergilde</TradersGuild.label>
+  <TradersGuild.label>cumann trádála</TradersGuild.label>
   <!-- EN: A loose coalition of orbital traders. Together they form an orbital marketplace that buys and sells goods from around the planet. Orbital traders will also buy goods from the occasional interplanetary trading vessel, giving them access to rare technologies.\n\nThese merchants are rarely found on the planet itself, preferring to live in the safety of their orbital platforms. -->
-  <TradersGuild.description>Eine lose Vereinigung von orbitalen Händlern. Zusammen bilden sie einen orbitalen Marktplatz, der Waren im planetennahen Raum kauft und verkauft. Orbitalhändler kaufen auch gelegentlich Waren von interplanetaren Handelsschiffen und erhalten so Zugang zu seltenen Technologien.\n\nDiese Händler sind selten auf dem Planeten selbst anzutreffen und bleiben lieber im Schutz ihrer Orbitalplattformen.</TradersGuild.description>
+  <TradersGuild.description>Tá an chuallacht seo déanta suas de thrádálaithe éagsúla. Tagann siad le chéile chun earraí a dhíol agus a cheannach ar fud an phláinéid. Ó am go chéile, bíonn teagmháil ag spás-trádálaithe le soithí idirphláinéadach, rud a chiallíonn go mbíonn rochtain acu ar theicneolaíocht ardleibhéil.\n\nIs annamh go mbíonn na trádálaithe seo lonnaithe ar an bpláinéad féin - is fearr leo maireachtáil i spás-stáisiúin, áit a mbíonn siad sábháilte óna bhfuil ag tarlú ar an dromchla.</TradersGuild.description>
   <!-- EN: magister of trade -->
   <TradersGuild.leaderTitle>Handelsmagnat</TradersGuild.leaderTitle>
   <TradersGuild.leaderTitleFemale>Handelsmagnatin</TradersGuild.leaderTitleFemale>

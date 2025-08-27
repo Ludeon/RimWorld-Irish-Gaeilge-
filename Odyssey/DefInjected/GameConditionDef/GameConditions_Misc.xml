@@ -2,80 +2,80 @@
 <LanguageData>
   
   <!-- EN: bioluminescent spores -->
-  <BioluminescentSpores.label>biolumineszente Sporen</BioluminescentSpores.label>
+  <BioluminescentSpores.label>spóir bhithlonracha</BioluminescentSpores.label>
   <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores are strangely beautiful and pose no danger. -->
-  <BioluminescentSpores.description>Eine besondere Pilzgattung blüht und setzt biolumineszente Sporen frei! Die Sporen sind seltsam schön und harmlos.</BioluminescentSpores.description>
+  <BioluminescentSpores.description>Tá spóir bhithlonracha á scaoileadh amach ag fungas éigean! Níl siad dáinséarach, ach tá áilleacht aisteach ag baint leo.</BioluminescentSpores.description>
   <!-- EN: The bioluminescent spores are subsiding. -->
-  <BioluminescentSpores.endMessage>Die biolumineszenten Sporen lassen nach.</BioluminescentSpores.endMessage>
+  <BioluminescentSpores.endMessage>Tá na spóir bhithlonracha ag ídiú.</BioluminescentSpores.endMessage>
   <!-- EN: Some variety of fungus is blossoming and releasing bioluminescent spores! The spores pose no danger, and the shimmering visuals will brighten the mood of anyone who sees them. -->
-  <BioluminescentSpores.letterText>Eine besondere Pilzgattung blüht und setzt biolumineszente Sporen frei! Die Sporen sind harmlos und das Lichtspiel erfreut jeden, der es bewundern darf.</BioluminescentSpores.letterText>
+  <BioluminescentSpores.letterText>Tá spóir bhithlonracha á scaoileadh amach ag fungas éigean! Níl siad dáinséarach, agus cuirfidh siad dea-ghiúmar ar dhuine ar bith a bhreathnaíonn orthu.</BioluminescentSpores.letterText>
   
   <!-- EN: darkened skies -->
-  <DarkenedSkies.label>verdunkelter Himmel</DarkenedSkies.label>
+  <DarkenedSkies.label>spéir dhorcha</DarkenedSkies.label>
   <!-- EN: Thick black clouds are blocking out the sky and sun. -->
-  <DarkenedSkies.description>Dicke schwarze Wolken verdunkeln den Himmel und die Sonne.</DarkenedSkies.description>
+  <DarkenedSkies.description>Tá an spéir agus an ghriain blocáilte ag scamaill dhorcha.</DarkenedSkies.description>
   
   <!-- EN: deep freeze -->
-  <DeepFreeze.label>Schockfrost</DeepFreeze.label>
+  <DeepFreeze.label>oighearaois</DeepFreeze.label>
   <!-- EN: An ancient, mysterious device is dramatically lowering temperatures in the area. -->
-  <DeepFreeze.description>Ein antikes, mysteriöses Gerät senkt drastisch die Temperatur in diesem Gebiet.</DeepFreeze.description>
+  <DeepFreeze.description>Tá an teocht sa cheantar seo á laghdú ag gléas ársa éigean.</DeepFreeze.description>
   <!-- EN: The deep freeze is lifting. -->
-  <DeepFreeze.endMessage>Der Schockfrost ist vorbei.</DeepFreeze.endMessage>
+  <DeepFreeze.endMessage>Tá deireadh ag teacht leis an oighearaois.</DeepFreeze.endMessage>
   
   <!-- EN: drought -->
-  <Drought.label>Dürre</Drought.label>
+  <Drought.label>triomach</Drought.label>
   <!-- EN: A prolonged period of low rainfall. Plants will grow slower during a drought. -->
-  <Drought.description>Eine relativ lange Trockenperiode mit wenig Niederschlag. Dürre beeinträchtigt das Pflanzenwachstum.</Drought.description>
+  <Drought.description>Níl aon bháisteach ann. Fásann plandaí ar ráta níos moille le linn triomaigh.</Drought.description>
   <!-- EN: The drought is over. -->
-  <Drought.endMessage>Die Dürre ist vorbei.</Drought.endMessage>
+  <Drought.endMessage>Tá deireadh tagtha leis an triomach.</Drought.endMessage>
   <!-- EN: Due to a recent lack of rain, a drought has begun. Outdoor plants will grow significantly slower. -->
-  <Drought.letterText>Der fehlende Regen in letzter Zeit hat zu einer Dürre geführt. Alle Pflanzen im Freien wachsen deutlich langsamer.</Drought.letterText>
+  <Drought.letterText>Tá tús tagtha le triomach, mar gheall ar easpa báistí. Fásfaidh plandaí i bhfad níos moille amuigh faoin aer.</Drought.letterText>
   
   <!-- EN: initial drought conditions -->
-  <DroughtInitial.label>erste Anzeichen einer Dürre</DroughtInitial.label>
+  <DroughtInitial.label>páirt-triomach</DroughtInitial.label>
   <!-- EN: The initial signs of a drought. If it continues, a full drought will occur. -->
-  <DroughtInitial.description>Die ersten Anzeichen einer Dürre. Wenn sie andauert, wird es zu einer vollständigen Dürre kommen.</DroughtInitial.description>
+  <DroughtInitial.description>Tá páirt-triomach ann. Má leanann na coinníollacha seo ar aghaidh, beidh triomach iomlán ann.</DroughtInitial.description>
   
   <!-- EN: gill rot -->
-  <GillRot.label>Kiemenfäule</GillRot.label>
+  <GillRot.label>galar iasc</GillRot.label>
   <!-- EN: Fish populations are slowly declining due to a parasitic fungus known as gill rot. The fungus is harmless to people. -->
-  <GillRot.description>Ein parasitärer Pilz lässt die Fischbestände langsam schrumpfen. Für Menschen ist der Pilz ungefährlich.</GillRot.description>
+  <GillRot.description>Tá an líon iasc ag laghdú de bharr galair. Ní bhíonn aon éifeacht ag an ngalar ar dhaoine.</GillRot.description>
   <!-- EN: Gill rot is ending. -->
-  <GillRot.endMessage>Die Kiemenfäule hat aufgehört.</GillRot.endMessage>
+  <GillRot.endMessage>Tá deireadh tagtha leis an ngalar iasc.</GillRot.endMessage>
   <!-- EN: A parasitic fungus called gill rot has appeared among the local fish populations. While harmless to humans, the fungus will cause fish populations to steadily decline for some time.\n\nLow fish populations will make fishing less productive. -->
-  <GillRot.letterText>Ein parasitärer Pilz namens Kiemenfäule befällt die hiesigen Fischbestände. Für Menschen ist der Pilz harmlos, aber die Fischbestände werden über einen längeren Zeitraum kontinuierlich abnehmen.\n\nNiedrige Fischbestände verringern die Fangmenge beim Angeln.</GillRot.letterText>
+  <GillRot.letterText>Tá an líon iasc sa cheantar ag laghdú de bharr galair. Ní bhíonn aon éifeacht ag an ngalar ar dhaoine, ach cuirfidh sé isteach ar an líon iasc ar feadh tamaill.\n\nBeidh sé níos deacra iascaireacht a dhéanamh dá bharr.</GillRot.letterText>
   
   <!-- EN: heat vent emissions -->
-  <HeatVentHeat.label>Warmluftemissionen</HeatVentHeat.label>
+  <HeatVentHeat.label>astaíochtaí teasa</HeatVentHeat.label>
   <!-- EN: Heat from a nearby underground vent is raising the temperature in the area. -->
-  <HeatVentHeat.description>Heiße Luft entweicht aus einem unterirdischen Schacht und erhöht die Temperatur in diesem Gebiet.</HeatVentHeat.description>
+  <HeatVentHeat.description>Tá teocht an-ard anseo, de bharr astaíochtaí teasa sa cheantar máguaird.</HeatVentHeat.description>
   
   <!-- EN: lava flow -->
-  <LavaFlow.label>Lavastrom</LavaFlow.label>
+  <LavaFlow.label>sruth laibhe</LavaFlow.label>
   <!-- EN: Lava has begun to pour into the area. It will flow over the low-lying volcanic rock, but spare the other terrain. Keep your colonists out of harm's way! -->
-  <LavaFlow.description>Lava strömt in das Gebiet. Sie überflutet das tiefer gelegene Vulkangestein, verschont aber den übrigen Boden. Halte deine Kolonisten aus der Gefahrenzone!</LavaFlow.description>
+  <LavaFlow.description>Tá laibhe ag sreabhadh isteach sa cheantar. Sruthóidh an laibhe thar chloch bolcánach, ach ní bheidh aon éifeacht aige ar aon talamh eile. Bí cinnte nach bhfuil do choilínigh sa bhealach!</LavaFlow.description>
   
   <!-- EN: volcanic ash -->
-  <VolcanicAsh.label>Vulkanasche</VolcanicAsh.label>
+  <VolcanicAsh.label>luaithreamhán bolcánach</VolcanicAsh.label>
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
-  <VolcanicAsh.description>Die Asche eines nahen Vulkanausbruchs füllt den Himmel. Die Sonne ist verdeckt, die beißende Luft brennt in der Lunge. Die Wolke wird mehrere Tage andauern.</VolcanicAsh.description>
+  <VolcanicAsh.description>Tá an spéir lán le luaithreamhán bolcánach. Tá an ghrian blocáilte, agus tá an t-aer searbh. Mairfidh an scamall cúpla lá.</VolcanicAsh.description>
   <!-- EN: a nearby eruption will send a cloud of ash over [map_definite] for [gameConditionDuration_duration], darkening the sky and making it hard to breathe -->
-  <VolcanicAsh.descriptionFuture>ein naher Vulkanausbruch eine Wolke aus Asche über [map_label] bilden, die [gameConditionDuration_duration] lang den Himmel verdunkelt und das Atmen erschwert</VolcanicAsh.descriptionFuture>
+  <VolcanicAsh.descriptionFuture>beidh luaithreamhán sa spéir thar [map_label] ar feadh [gameConditionDuration_duration]. Beidh an spéir dorcha, agus beidh sé deacair análú </VolcanicAsh.descriptionFuture>
   <!-- EN: Most of the ash has settled. -->
-  <VolcanicAsh.endMessage>Der Großteil der vulkanischen Asche hat sich gelegt.</VolcanicAsh.endMessage>
+  <VolcanicAsh.endMessage>Tá an chuid is mó den luaithreamhán imithe.</VolcanicAsh.endMessage>
   <!-- EN: Ash from a nearby volcanic eruption is filling the sky. The sun is blocked and the acrid air burns the lungs. The cloud will last several days. -->
-  <VolcanicAsh.letterText>Die Asche eines nahen Vulkanausbruchs füllt den Himmel. Die Sonne ist verdeckt, die beißende Luft brennt in der Lunge. Die Wolke wird mehrere Tage andauern.</VolcanicAsh.letterText>
+  <VolcanicAsh.letterText>Tá an spéir lán le luaithreamhán bolcánach. Tá an ghrian blocáilte, agus tá an t-aer searbh. Mairfidh an scamall cúpla lá.</VolcanicAsh.letterText>
   
   <!-- EN: volcanic debris -->
-  <VolcanicDebris.label>Lavaregen</VolcanicDebris.label>
+  <VolcanicDebris.label>brúchtadh bolcánach</VolcanicDebris.label>
   <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
-  <VolcanicDebris.description>Ein naher Vulkanausbruch überschüttet die Region mit geschmolzener Lava!</VolcanicDebris.description>
+  <VolcanicDebris.description>Tá bolcán tar éis pléascadh, agus tá laibhe ag titim ar an gceantar!</VolcanicDebris.description>
   <!-- EN: A nearby volcanic eruption is showering the region with molten lava! -->
-  <VolcanicDebris.letterText>Ein naher Vulkanausbruch überschüttet die Region mit geschmolzener Lava!</VolcanicDebris.letterText>
+  <VolcanicDebris.letterText>Tá bolcán tar éis pléascadh, agus tá laibhe ag titim ar an gceantar!</VolcanicDebris.letterText>
   
   <!-- EN: windy -->
-  <WindyGameCondition.label>windig</WindyGameCondition.label>
+  <WindyGameCondition.label>gaofar</WindyGameCondition.label>
   <!-- EN: Winds are much stronger in this area. -->
-  <WindyGameCondition.description>In diesem Gebiet wehen die Winde viel stärker.</WindyGameCondition.description>
+  <WindyGameCondition.description>Tá gaoth láidir sa cheantar seo.</WindyGameCondition.description>
   
 </LanguageData>

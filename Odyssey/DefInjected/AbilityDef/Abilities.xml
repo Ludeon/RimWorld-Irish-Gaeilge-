@@ -2,43 +2,43 @@
 <LanguageData>
   
   <!-- EN: call drop pods -->
-  <CallDropPods.label>Kapseln rufen</CallDropPods.label>
+  <CallDropPods.label>glaoigh podanna iompair</CallDropPods.label>
   <!-- EN: Summon drop pods that you can use to travel to another location. -->
-  <CallDropPods.description>Rufe Landekapseln herbei, die du verwenden kannst, um zu einem anderen Ort zu reisen.</CallDropPods.description>
+  <CallDropPods.description>Glaoigh isteach podanna iompair. Is féidir na podanna a úsáid chun taisteal chuig suíomh nua.</CallDropPods.description>
   
   <!-- EN: call mechanoids -->
-  <CallMechanoids.label>Mechanoiden rufen</CallMechanoids.label>
+  <CallMechanoids.label>glaoigh meicea-róbait</CallMechanoids.label>
   <!-- EN: Summon hostile mechanoids to a location using drop pods. They will attack all nearby humans - friend or foe. -->
-  <CallMechanoids.description>Rufe feindliche Mechanoiden herbei, die mit Landekapseln in der Nähe des Zielpunkts eintreffen. Sie werden alle Menschen in Sichtweite angreifen – egal ob Freund oder Feind.</CallMechanoids.description>
+  <CallMechanoids.description>Glaoigh isteach meicea-róbait i bpodanna iompair. Ionsóidh siad gach duine sa cheantar - do choilínigh san áireamh.</CallMechanoids.description>
   
   <!-- EN: deactivate mechanoid -->
-  <DeactivateMechanoid.label>Mechanoid deaktivieren</DeactivateMechanoid.label>
+  <DeactivateMechanoid.label>díchumasaigh meicea-róbait</DeactivateMechanoid.label>
   <!-- EN: Permanently disable a hostile mechanoid. -->
-  <DeactivateMechanoid.description>Deaktiviere einen feindlichen Mechanoiden dauerhaft.</DeactivateMechanoid.description>
+  <DeactivateMechanoid.description>Déan meicea-róbait naimhdeach a dhíchumasú go deo.</DeactivateMechanoid.description>
   
   <!-- EN: egg spew -->
-  <EggSpew.label>Eiersack spucken</EggSpew.label>
+  <EggSpew.label>draoib aigéadach</EggSpew.label>
   <!-- EN: Launch an egg sac and a spray of acidic sludge at the target area. The sludge will stick to targets and burn them. -->
-  <EggSpew.description>Spucke einen Eiersack und einen Schwall säurehaltigen Schleims auf den Zielbereich. Der Schleim haftet an Zielen und verursacht Verätzungen.</EggSpew.description>
+  <EggSpew.description>Déan draoib aigéadach a spraeáil ar an targaid. Tá an sprae an-aigéadach agus gortóidh sé an targaid.</EggSpew.description>
   
   <!-- EN: sludge spew -->
-  <SludgeSpew.label>Schleim spucken</SludgeSpew.label>
+  <SludgeSpew.label>sprae láibe</SludgeSpew.label>
   <!-- EN: Spray an acidic sludge all over the target area. The sludge will stick to targets and burn them. -->
-  <SludgeSpew.description>Sprühe säurehaltigen Schleim auf den Zielbereich. Der Schleim haftet an Zielen und verursacht Verätzungen.</SludgeSpew.description>
+  <SludgeSpew.description>Déan draoib aigéadach a spraeáil ar an targaid. Tá an sprae an-aigéadach agus gortóidh sé an targaid.</SludgeSpew.description>
   
   <!-- EN: terror roar -->
-  <TerrorRoar.label>Terrorgebrüll</TerrorRoar.label>
+  <TerrorRoar.label>búir feirge</TerrorRoar.label>
   <!-- EN: Release a terrifying roar which has a chance to send nearby hostile humans and animals fleeing in terror. -->
-  <TerrorRoar.description>Stoße ein schreckliches Gebrüll aus, das die Chance hat, nahe Feinde in die Flucht zu schlagen.</TerrorRoar.description>
+  <TerrorRoar.description>Scaoil amach búir feirge. Tá seans ann go mbeidh daoine agus ainmhithe naimhdeacha scanraithe, agus go dteithfidh siad.</TerrorRoar.description>
   
   <!-- EN: thrumbo roar -->
-  <ThrumboRoar.label>Thrumbogebrüll</ThrumboRoar.label>
+  <ThrumboRoar.label>búir trombó</ThrumboRoar.label>
   <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
-  <ThrumboRoar.description>Stoße ein ohrenbetäubendes Gebrüll aus, das die Chance hat, nahe Feinde vor Angst erzittern zu lassen und ihre Laufgeschwindigkeit und Arbeitsfähigkeit zu verringern.</ThrumboRoar.description>
+  <ThrumboRoar.description>Scaoil amach búir trombó. Tá seans ann go mbeidh daoine agus ainmhithe naimhdeacha iomlán scanraithe, agus nach mbeidh siad in ann bogadh.</ThrumboRoar.description>
   
   <!-- EN: war trumpet -->
-  <WarTrumpet.label>Kriegstrompete</WarTrumpet.label>
+  <WarTrumpet.label>trumpa cogaidh</WarTrumpet.label>
   <!-- EN: Release a powerful roar which has a chance to cause hostile humans and animals to tremble in fear, reducing their movement speed and manipulation. -->
-  <WarTrumpet.description>Stoße ein ohrenbetäubendes Gebrüll aus, das die Chance hat, nahe Feinde vor Angst erzittern zu lassen und ihre Laufgeschwindigkeit und Arbeitsfähigkeit zu verringern.</WarTrumpet.description>
+  <WarTrumpet.description>Scaoil amach búir. Tá seans ann go mbeidh daoine agus ainmhithe naimhdeacha iomlán scanraithe, agus nach mbeidh siad in ann bogadh.</WarTrumpet.description>
   
 </LanguageData>

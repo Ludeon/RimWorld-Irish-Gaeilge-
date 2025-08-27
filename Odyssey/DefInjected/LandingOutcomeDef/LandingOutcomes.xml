@@ -2,23 +2,23 @@
 <LanguageData>
   
   <!-- EN: grav nausea -->
-  <GravNausea.letterLabel>Gravübelkeit</GravNausea.letterLabel>
+  <GravNausea.letterLabel>tinneas spáis</GravNausea.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} was forced to do an emergency maneuver, resulting in an intense and prolonged deceleration. The experience has left your colonists feeling extremely nauseous. The effects will quickly fade. -->
-  <GravNausea.letterText>Bei der Landung {replace: der {GRAVSHIP}; "der Gravschiff"-"des Gravschiffs"; "der Die "-"der "; "der die "-"der "; "der der "-"von Der "; "der das "-"von Das "; "der Der "-"von Der "; "der Das "-"von Das "} musste {PILOT_nameDef} notgedrungen ein schwieriges und langwieriges Bremsmanöver durchführen. Dieses Erlebnis war so heftig, dass deine Kolonisten nun an extremer Übelkeit leiden. Dieser Zustand wird nicht lange anhalten.</GravNausea.letterText>
+  <GravNausea.letterText>Nuair a bhí {GRAVSHIP} ag leaindeáil ag {PILOT_nameDef}, ní raibh an dara rogha ag {PILOT_nameDef} ach ionramháil éigeandála a dhéanamh, agus tháinig luasmhoilliú ar an spáslong. Tá tinneas tagtha ar do choilínigh mar thoradh, ach rachaidh na héifeachtaí i ndísc go tapa.</GravNausea.letterText>
   
   <!-- EN: minor gravship crash -->
-  <MinorGravshipCrash.letterLabel>kleiner Gravschiffabsturz</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterLabel>timpiste leaindeála</MinorGravshipCrash.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} accidentally disengaged the grav engine too early, causing the gravship to free-fall for several feet. Some buildings on the gravship have sustained light damage from the crash. -->
-  <MinorGravshipCrash.letterText>Bei der Landung {replace: der {GRAVSHIP}; "der Gravschiff"-"des Gravschiffs"; "der Die "-"der "; "der die "-"der "; "der der "-"von Der "; "der das "-"von Das "; "der Der "-"von Der "; "der Das "-"von Das "} hat {PILOT_nameDef} versehentlich das Gravtriebwerk zu früh abgeschaltet, wodurch sich das Gravschiff mehrere Meter im freien Fall befand. Dabei wurden einige Bauwerke auf dem Gravschiff leicht beschädigt.</MinorGravshipCrash.letterText>
+  <MinorGravshipCrash.letterText>Nuair a bhí {GRAVSHIP} á leaindeáil ag {PILOT_nameDef}, mhúch {PILOT_pronoun} an t-inneall róluath, agus thit an spáslong cúpla méadar. Rinneadh damáiste éadrom do roinnt struchtúir ar an spáslong mar thoradh.</MinorGravshipCrash.letterText>
   
   <!-- EN: overheated grav engine -->
-  <OverheatedGravEngine.letterLabel>überhitztes Gravtriebwerk</OverheatedGravEngine.letterLabel>
+  <OverheatedGravEngine.letterLabel>róthéamh san inneall</OverheatedGravEngine.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} over-engaged the grav engine, causing it to overheat. The grav engine will take longer than normal to cool down. In the meantime, the gravship can't be launched. -->
-  <OverheatedGravEngine.letterText>Bei der Landung {replace: der {GRAVSHIP}; "der Gravschiff"-"des Gravschiffs"; "der Die "-"der "; "der die "-"der "; "der der "-"von Der "; "der das "-"von Das "; "der Der "-"von Der "; "der Das "-"von Das "} hat {PILOT_nameDef} das Gravtriebwerk zu stark beansprucht, was zu einer Überhitzung geführt hat. Das Gravtriebwerk braucht länger als normal, um abzukühlen. In der Zwischenzeit kann das Gravschiff nicht gestartet werden.</OverheatedGravEngine.letterText>
+  <OverheatedGravEngine.letterText>Nuair a bhí {GRAVSHIP} á leaindeáil ag {PILOT_nameDef}, tháinig róthéamh ar an inneall. Beidh am breise de dhíth ar an inneall spásloinge sula mbeidh sé réidh le lainseáil arís.</OverheatedGravEngine.letterText>
   
   <!-- EN: thruster breakdown -->
-  <ThrusterBreakdown.letterLabel>Schubdüsenausfall</ThrusterBreakdown.letterLabel>
+  <ThrusterBreakdown.letterLabel>ceartaitheoir briste</ThrusterBreakdown.letterLabel>
   <!-- EN: While landing {GRAVSHIP}, {PILOT_nameDef} overheated the ship's thrusters, frying valuable components. The thrusters will need to be repaired before they can be used again. -->
-  <ThrusterBreakdown.letterText>Bei der Landung {replace: der {GRAVSHIP}; "der Gravschiff"-"des Gravschiffs"; "der Die "-"der "; "der die "-"der "; "der der "-"von Der "; "der das "-"von Das "; "der Der "-"von Der "; "der Das "-"von Das "} hat {PILOT_nameDef} die Schubdüsen überhitzt, wodurch wichtige Bauteile verschmort sind. Die Schubdüsen müssen erst repariert werden, bevor sie wieder eingesetzt werden können.</ThrusterBreakdown.letterText>
+  <ThrusterBreakdown.letterText>Nuair a bhí {GRAVSHIP} á leaindeáil ag {PILOT_nameDef}, tháinig róthéamh ar na ceartaitheoirí roicéid, agus bhris siad. Beidh ort na ceartaitheoirí a dheisiú sula mbeidh an spáslong in ann láinseáil arís.</ThrusterBreakdown.letterText>
   
 </LanguageData>

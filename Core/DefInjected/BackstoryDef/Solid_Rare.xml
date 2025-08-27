@@ -44,87 +44,87 @@
   <JoeCustomChildhood.titleShort>drumadóir</JoeCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] worked on a peaceful glitterworld developing hyper-realistic war crime simulation software. -->
-  <LiamCustomAdulthood.description>D'oibrigh [PAWN_nameDef] i saotharlann ar pháinéad shíochánta. D'fhorbair [PAWN_pronoun] teicneolaíocht réaltachta fíorúla.</LiamCustomAdulthood.description>
+  <LiamCustomAdulthood.description>D'oibrigh [PAWN_nameDef] i saotharlann ar phláinéad síochánta. D'fhorbair [PAWN_pronoun] teicneolaíocht réaltachta fíorúla.</LiamCustomAdulthood.description>
   <!-- EN: simulation developer -->
   <LiamCustomAdulthood.title>forbróir réaltachta fíorúla</LiamCustomAdulthood.title>
   <!-- EN: sim dev -->
   <LiamCustomAdulthood.titleShort>forbróir</LiamCustomAdulthood.titleShort>
   
   <!-- EN: Born and raised on a glitterworld, [PAWN_nameDef] was obsessed with simulation software. [PAWN_pronoun] spent far too much time plugged in. -->
-  <LiamCustomChildhood.description>Tógadh [PAWN_nameDef] ar phláinéad Ghaeltachta, ach d'imigh [PAWN_pronoun] chun tús a chur le saol nua i measc na réaltaí.</LiamCustomChildhood.description>
+  <LiamCustomChildhood.description>Tógadh [PAWN_nameDef] ar phláinéad Gaeltachta, ach d'imigh [PAWN_pronoun] chun tús a chur le saol nua i measc na réaltaí.</LiamCustomChildhood.description>
   <!-- EN: sim addict -->
   <LiamCustomChildhood.title>Gaeilgeoir</LiamCustomChildhood.title>
   <!-- EN: sim addict -->
   <LiamCustomChildhood.titleShort>Gaeilgeoir</LiamCustomChildhood.titleShort>
   
   <!-- EN: After being laid off by an interplanetary megacorp, [PAWN_nameDef] spent several years disillusioned and fighting alcohol addiction.\n\n[PAWN_pronoun] ended up busking aboard a space freighter, playing a beaten-up guitar and entertaining the crew with blues and folk songs from the distant past. -->
-  <MateCustomAdulthood.description>TODO</MateCustomAdulthood.description>
+  <MateCustomAdulthood.description>Ceoltóir proifisiúnta ab ea [PAWN_nameDef]. Sheinn [PAWN_pronoun] i seisiúin ceoil ar fud an phláinéid.</MateCustomAdulthood.description>
   <!-- EN: busker -->
   <MateCustomAdulthood.title>ceoltóir</MateCustomAdulthood.title>
   <!-- EN: busker -->
   <MateCustomAdulthood.titleShort>ceoltóir</MateCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent most of [PAWN_possessive] childhood dreaming of becoming a famous artist who could impress people with [PAWN_possessive] creations. -->
-  <MateCustomChildhood.description>TODO</MateCustomChildhood.description>
+  <MateCustomChildhood.description>D'éirigh go maith le [PAWN_nameDef] ar scoil, agus bhí [PAWN_pronoun] an-chliste nuair a bhí [PAWN_pronoun] óg.</MateCustomChildhood.description>
   <!-- EN: curious kid -->
   <MateCustomChildhood.title>páiste cliste</MateCustomChildhood.title>
   <!-- EN: curious kid -->
   <MateCustomChildhood.titleShort>páiste cliste</MateCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] carved living spaces and mined minerals from the sides of hills and mountains. [PAWN_pronoun] learned to feel at home picking through rock and shoring up cave walls. -->
-  <NathanCustomAdulthood.description>TODO</NathanCustomAdulthood.description>
+  <NathanCustomAdulthood.description>Bhí cónaí ar [PAWN_nameDef] faoin talamh, agus chaith [PAWN_pronoun] a c[PAWN_possessive]uid ama ag tochailt, ag iarraidh mianraí luachmhara a aimsiú.</NathanCustomAdulthood.description>
   <!-- EN: digger -->
   <NathanCustomAdulthood.title>tochaltóir</NathanCustomAdulthood.title>
   <!-- EN: digger -->
   <NathanCustomAdulthood.titleShort>tochaltóir</NathanCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a large and intricate cave complex that extended deep into a mountainside. [PAWN_pronoun] helped the adults maintain and improve the deep caves. -->
-  <NathanCustomChildhood.description>TODO</NathanCustomChildhood.description>
+  <NathanCustomChildhood.description>Tógadh [PAWN_nameDef] i bpluais mhór, ar mhala sléibhe.</NathanCustomChildhood.description>
   <!-- EN: cave child -->
   <NathanCustomChildhood.title>leanbh pluaise</NathanCustomChildhood.title>
   <!-- EN: cave child -->
   <NathanCustomChildhood.titleShort>leanbh pluaise</NathanCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] designed combat modifications for frontline soldiers.\n\nOne night, in a nightmare, [PAWN_nameDef] was confronted by all the men and women killed by [PAWN_possessive] work. [PAWN_pronoun] decided to travel to the rimworlds and use [PAWN_possessive] skills for good. -->
-  <OskarCustomAdulthood.description>TODO</OskarCustomAdulthood.description>
+  <OskarCustomAdulthood.description>Chruthaigh [PAWN_nameDef] modhnuithe comhraic do shaighdiúirí. Lá amháin, d'aithin [PAWN_pronoun] go raibh [PAWN_pronoun] páirteach i ndúnmharú daoine, agus d'éirigh [PAWN_pronoun] as an bpost.</OskarCustomAdulthood.description>
   <!-- EN: mod designer -->
   <OskarCustomAdulthood.title>forbróir</OskarCustomAdulthood.title>
   <!-- EN: modder -->
   <OskarCustomAdulthood.titleShort>forbróir</OskarCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was born on the dark edge of a tidally-locked urbworld. After an argument, [PAWN_possessive] father sold [PAWN_objective] to a local district lord as a slave artist.\n\nForced to create art or be punished, [PAWN_pronoun] withdrew and became unable to form relations with others. -->
-  <OskarCustomChildhood.description>TODO</OskarCustomChildhood.description>
+  <OskarCustomChildhood.description>Sclábhaí ab ea [PAWN_nameDef], agus ealaíontóir ab ea a m[PAWN_possessive]áistir.\n\nCuireadh iachall ar [PAWN_nameDef] saothair ealaíne a chruthú. Is beag teagmháil a bhí ag [PAWN_nameDef] le daoine eile.</OskarCustomChildhood.description>
   <!-- EN: art slave -->
   <OskarCustomChildhood.title>sclábhaí ealaíne</OskarCustomChildhood.title>
   <!-- EN: artist -->
   <OskarCustomChildhood.titleShort>ealaíontóir</OskarCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] was an independent game developer.\n\nAfter an early success, [PAWN_possessive] career quickly degenerated into a circus of misguided ideas, deals gone wrong, and desperate, failed PR stunts. -->
-  <TynanCustomAdulthood.description>TODO</TynanCustomAdulthood.description>
+  <TynanCustomAdulthood.description>Forbróir ab ea [PAWN_nameDef].\n\nD'éirigh go maith le [PAWN_nameDef] ar dtús, ach níor dhíol [PAWN_pronoun] mórán cluichí ríomhaire, agus tháinig stad tobann lena g[PAWN_possessive]airm.</TynanCustomAdulthood.description>
   <!-- EN: game developer -->
-  <TynanCustomAdulthood.title>TODO</TynanCustomAdulthood.title>
+  <TynanCustomAdulthood.title>forbróir</TynanCustomAdulthood.title>
   <!-- EN: game dev -->
-  <TynanCustomAdulthood.titleShort>TODO</TynanCustomAdulthood.titleShort>
+  <TynanCustomAdulthood.titleShort>forbróir</TynanCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] spent his childhood selling knockoff cigarettes to 15-year-olds. The cigarettes were often full of grass clippings. -->
-  <TynanCustomChildhood.description>TODO</TynanCustomChildhood.description>
+  <TynanCustomChildhood.description>Punc is ea [PAWN_nameDef]. Dhíol [PAWN_pronoun] toitíní le déagóirí nuair a bhí [PAWN_pronoun] óg.</TynanCustomChildhood.description>
   <!-- EN: punk -->
-  <TynanCustomChildhood.title>TODO</TynanCustomChildhood.title>
+  <TynanCustomChildhood.title>punc</TynanCustomChildhood.title>
   <!-- EN: punk -->
-  <TynanCustomChildhood.titleShort>TODO</TynanCustomChildhood.titleShort>
+  <TynanCustomChildhood.titleShort>punc</TynanCustomChildhood.titleShort>
   
   <!-- EN: [PAWN_nameDef] designed elaborate entertainment mazes for the glitterworld elite. Even now, [PAWN_pronoun] thinks of little else. -->
-  <WillCustomAdulthood.description>TODO</WillCustomAdulthood.description>
+  <WillCustomAdulthood.description>Chruthaigh [PAWN_nameDef] cluichí casta do dhaoine saibhre ar phláinéad saibhir.</WillCustomAdulthood.description>
   <!-- EN: labyrinth maker -->
-  <WillCustomAdulthood.title>cruthaitheoir lúbraí</WillCustomAdulthood.title>
+  <WillCustomAdulthood.title>dearthóir cluichí</WillCustomAdulthood.title>
   <!-- EN: labyrinth maker -->
-  <WillCustomAdulthood.titleShort>cruthaitheoir lúbraí</WillCustomAdulthood.titleShort>
+  <WillCustomAdulthood.titleShort>dearthóir cluichí</WillCustomAdulthood.titleShort>
   
   <!-- EN: [PAWN_nameDef] grew up in a research camp on a deadworld. [PAWN_possessive] parents were astrobiologists studying mysterious labyrinthine formations beneath the planet's crust. [PAWN_pronoun] spent most of his time wandering those tunnels, wondering what otherworldly entity could have created them. -->
-  <WillCustomChildhood.description>Tógadh  [PAWN_nameDef] i saotharlann taighde ar phláinéad mharbh. Taighdeoirí ab ea tuismitheoirí  [PAWN_nameDef], agus bhí siad i mbun taighde ar struchtúir chasta agus lúbraí faoin talamh. Chaith  [PAWN_nameDef] go leor ama sna tolláin sin nuair a bhí [PAWN_pronoun] óg.</WillCustomChildhood.description>
+  <WillCustomChildhood.description>Tógadh  [PAWN_nameDef] i saotharlann taighde ar phláinéad mharbh. Taighdeoirí ab ea tuismitheoirí [PAWN_nameDef], agus bhí siad i mbun taighde ar struchtúir chasta agus lúbraí faoin talamh. Chaith [PAWN_nameDef] go leor ama sna tolláin sin nuair a bhí [PAWN_pronoun] óg.</WillCustomChildhood.description>
   <!-- EN: maze child -->
-  <WillCustomChildhood.title>leanbh gríobháin</WillCustomChildhood.title>
+  <WillCustomChildhood.title>leanbh caillte</WillCustomChildhood.title>
   <!-- EN: maze child -->
-  <WillCustomChildhood.titleShort>leanbh gríobháin</WillCustomChildhood.titleShort>
+  <WillCustomChildhood.titleShort>leanbh caillte</WillCustomChildhood.titleShort>
   
 </LanguageData>

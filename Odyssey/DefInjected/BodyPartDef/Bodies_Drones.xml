@@ -2,24 +2,24 @@
 <LanguageData>
   
   <!-- EN: chassis -->
-  <DroneChassis.label>Chassis</DroneChassis.label>
+  <DroneChassis.label>fráma</DroneChassis.label>
   
   <!-- EN: core -->
-  <DroneCore.label>Kern</DroneCore.label>
+  <DroneCore.label>croí</DroneCore.label>
   
   <!-- EN: visual sensor -->
-  <DroneEye.label>Optiksensor</DroneEye.label>
+  <DroneEye.label>braiteoir íomhánna</DroneEye.label>
   
   <!-- EN: shell -->
-  <DroneShell.label>Hülle</DroneShell.label>
+  <DroneShell.label>cás</DroneShell.label>
   
   <!-- EN: shell section -->
-  <DroneShellSection.label>Hüllensegment</DroneShellSection.label>
+  <DroneShellSection.label>deighleog cáis</DroneShellSection.label>
   
   <!-- EN: spiked shell section -->
-  <DroneShellSectionWithSpike.label>stacheliges Hüllensegment</DroneShellSectionWithSpike.label>
+  <DroneShellSectionWithSpike.label>cuid spíceach</DroneShellSectionWithSpike.label>
   
   <!-- EN: tread -->
-  <DroneTreads.label>Kettenlaufwerk</DroneTreads.label>
+  <DroneTreads.label>cos</DroneTreads.label>
   
 </LanguageData>

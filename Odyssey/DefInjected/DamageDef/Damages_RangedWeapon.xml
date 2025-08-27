@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: beam -->
-  <BeamBypassShields.label>Strahl</BeamBypassShields.label>
+  <BeamBypassShields.label>léasar</BeamBypassShields.label>
   <!-- EN: {0} has been beamed to death. -->
-  <BeamBypassShields.deathMessage>{0} wurde zu Tode gestrahlt.</BeamBypassShields.deathMessage>
+  <BeamBypassShields.deathMessage>Maraíodh {0} le léasar.</BeamBypassShields.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet_TraitIncendiary.label>Kugel</Bullet_TraitIncendiary.label>
+  <Bullet_TraitIncendiary.label>urchar</Bullet_TraitIncendiary.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet_TraitIncendiary.deathMessage>{0} wurde erschossen.</Bullet_TraitIncendiary.deathMessage>
+  <Bullet_TraitIncendiary.deathMessage>Maraíodh {0} le hurchar.</Bullet_TraitIncendiary.deathMessage>
   
   <!-- EN: bullet -->
-  <Bullet_TraitTox.label>Kugel</Bullet_TraitTox.label>
+  <Bullet_TraitTox.label>urchar</Bullet_TraitTox.label>
   <!-- EN: {0} has been shot to death. -->
-  <Bullet_TraitTox.deathMessage>{0} wurde erschossen.</Bullet_TraitTox.deathMessage>
+  <Bullet_TraitTox.deathMessage>Maraíodh {0} le hurchar.</Bullet_TraitTox.deathMessage>
   
 </LanguageData>
